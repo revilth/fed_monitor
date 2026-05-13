@@ -1,0 +1,48 @@
+name: Fed Monitor — Email Report
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/reports/daily/**.txt'   # Fires only when CCR commits a new daily report
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Send daily report via SMTP
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python3 - <<'EOF'
+          import smtplib, os, glob, sys
+          from datetime import date
+          from email.mime.text import MIMEText
+
+          today = date.today().strftime('%Y%m%d')
+          reports = sorted(glob.glob(f'data/reports/daily/{today}*.txt'))
+
+          if not reports:
+              print(f"No daily report found for {today} — skipping email.")
+              sys.exit(0)
+
+          body = '\n\n'.join(open(r, encoding='utf-8').read() for r in reports)
+          date_str = date.today().strftime('%B %d, %Y')
+          subject = f'Fed Monitor — Daily Update {date_str}'
+
+          msg = MIMEText(body, 'plain', 'utf-8')
+          msg['Subject'] = subject
+          msg['From']    = 'revilresearch@gmail.com'
+          msg['To']      = 'thiago_teixeiraferreira@vanguard.com'
+
+          password = os.environ['GMAIL_APP_PASSWORD'].replace(' ', '')
+          with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
+              server.login('revilresearch@gmail.com', password)
+              server.send_message(msg)
+
+          print(f'Sent: {subject}')
+          EOF

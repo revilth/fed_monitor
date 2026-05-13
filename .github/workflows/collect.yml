@@ -1,0 +1,55 @@
+name: Fed Monitor — Collect
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 6:00pm ET (EDT). Change to '0 23 * * *' after Nov 1 (EST).
+  workflow_dispatch:         # Allow manual trigger from GitHub UI
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check FOMC blackout and collect
+        run: |
+          python3 - <<'EOF'
+          from datetime import date
+          import subprocess, sys
+
+          today = date.today()
+          blackouts = [
+              (date(2026,  6,  6), date(2026,  6, 19)),
+              (date(2026,  7, 18), date(2026,  7, 31)),
+              (date(2026,  9,  5), date(2026,  9, 18)),
+              (date(2026, 10, 17), date(2026, 10, 30)),
+              (date(2026, 11, 28), date(2026, 12, 11)),
+          ]
+          for start, end in blackouts:
+              if start <= today <= end:
+                  print(f"BLACKOUT DAY ({today}) — skipping collection.")
+                  sys.exit(0)
+
+          print(f"Not a blackout day ({today}) — collecting...")
+          sys.exit(subprocess.run(["pip", "install", "-r", "requirements.txt", "-q"]).returncode
+                   or subprocess.run(["python3", "main.py", "collect"]).returncode)
+          EOF
+
+      - name: Commit new raw files
+        run: |
+          git config user.email "fedmonitor@noreply.github.com"
+          git config user.name "Fed Monitor — Collect"
+          git add data/raw/
+          git diff --staged --quiet && echo "Nothing new to commit." || \
+            git commit -m "Collect $(date -u '+%Y-%m-%d'): new raw files" && git push
