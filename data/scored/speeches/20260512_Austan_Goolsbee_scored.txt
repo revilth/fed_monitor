@@ -1,0 +1,250 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-12 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"Fireside Chat — Greater Rockford Chamber of Commerce Luncheon"
+Greater Rockford Chamber of Commerce, Rockford, Illinois
+SOURCE: https://www.youtube.com/watch?v=88dRnkmStR4
+
+CLASSIFICATION: Type A (Economic Outlook) — fireside Q&A with moderator
+  and audience questions. CPI released same morning (slight uptick);
+  Goolsbee responds to live data in real time.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: March 23, 2026  "CNBC Interview" (Squawk Box)
+Post-FOMC prior:   May 8, 2026  "Hoover Institution Panel" — Type B, no
+                   directly comparable Type A content; effective prior for
+                   Type A comparison is March 23.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+  "For all the talk about AI data centers and the growth of technology
+   and etc. The single strongest driver of growth of the US economy has
+   been the relentless uptick of consumer spending. Just regular consumers
+   with decent wage growth spending. That is what has driven the economy
+   over the last year and a half."
+  → Consumer spending as the growth engine — no compositional concern
+    raised about quality of demand (unlike Barkin's observation about
+    high-income concentration). He characterizes it as broad-based
+    ("regular consumers with decent wage growth").
+
+  Downside risk:
+  "If people stop spending because they say, 'Hey, I need to build up a
+   precautionary moat of savings in case something goes wrong.' I think
+   the job market would stop being stable."
+  → Consumer sentiment → precautionary saving → growth drag is the
+    primary growth risk he names.
+
+  Tax refund data point (Q&A): "50% of the tax refund going into savings
+  [...] that feels higher than normal perhaps. And that wouldn't be a
+  great sign."
+  → Real-time behavioral flag. Not a forecast, but a leading indicator
+    he notes with concern.
+
+Direction: neutral lean dovish — growth is being driven by consumer
+  spending but the precautionary saving risk is flagged explicitly.
+
+Shift vs. prior (Mar 23):  DOVISH LEAN — Mar 23 was entirely focused on
+  inflation and the energy shock with no growth characterization. Rockford
+  introduces a specific growth risk (consumer sentiment / precautionary
+  saving) that was absent in the prior appearance.
+
+Shift vs. pre-FOMC (Mar 23): Same as above.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained slow." [Apr 29 stmt]
+  → Goolsbee version: "I have characterized the labor market overall as
+    stable without being good."
+  → Paraphrase of the committee's "slow" with a qualitative addition:
+    "without being good." This is personal framing, not committee language.
+
+Own verdict:
+  "The four horsemen of the truth: the unemployment rate, the vacancy
+   rate, the hiring rate, and the layoff rate. All four of those have been
+   stable for almost a year and a half, but they say different things."
+  → Novel framing. Not in any other official's language. Labels the
+    four indicators he tracks as "the four horsemen of the truth" — implies
+    other common metrics (payroll employment) are misleading.
+
+Own qualifier — the paradox:
+  "The hiring rate is extremely low, but has also been stable, but it's
+   so low it would correspond in the past with the depths of a recession.
+   Yet, the layoff rate is also extremely low. It's as low as it would be
+   at the peak of a boom. So, everybody's scrambling — is that a sign that
+   things are about to fall apart or is that a sign that we're measuring
+   it wrong?"
+  → Low-hire-low-fire paradox explicitly named. His interpretation: firms
+    are in wait-and-see mode from uncertainty, not deterioration.
+
+  "Businesses saying we just so much is happening. We're just gonna sit
+   on our hand. We're not going to hire anybody. We're not going to let
+   go of the people we have. We just want this to be resolved in the next
+   six months."
+  → "Next six months" resolution window — firms are implicitly pricing in
+    a policy/tariff resolution by Q4 2026. If this fails to materialize,
+    the stable labor market could deteriorate quickly.
+
+  "I kind of think we're in a stable but not great labor market environment."
+  → Overall verdict. Neutral, leaning cautious.
+
+Shift vs. prior (Mar 23):  DOVISH LEAN — Mar 23 explicitly ranked
+  "inflation's got to be a little ahead of the employment." Rockford
+  does NOT re-rank inflation over labor. The four horsemen framing
+  presents labor as genuinely stable (not deteriorating). This represents
+  a softening of the explicit asymmetric risk statement from Mar 23.
+
+Shift vs. pre-FOMC (Mar 23): Same — the asymmetric ranking is absent.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Uncertainty about the economic outlook has increased further." [Apr 29]
+  → Not directly echoed. Goolsbee focuses on data rather than
+    committee language.
+
+Own language — KEY (reacting to morning CPI):
+  "Not only are we not making progress, it's going the wrong way. And
+   not just in oil related things and not just in tariff related things.
+   Now you've seen drifting upward of services inflation. And I keep
+   highlighting for me that's the part that I'm nervous about. I want
+   to see that at least stop growing and hopefully start going back down
+   because that can't really be from oil prices. That's not really a
+   big tariff component."
+  → Services inflation drifting up — the critical signal. The key
+    analytical point is that services cannot be attributed to oil or
+    tariffs. If it's rising, it's a domestic demand / structural signal.
+    This is the hardest inflation component to look through.
+
+  "The unexpectedly disappointing part in my mind was on the services
+   side. You continue to see this services going up."
+  → Morning CPI real-time reaction. "Unexpectedly disappointing" suggests
+    he did not anticipate this strength in services — it is new information
+    even from his vantage point.
+
+  "We've been above 2% for five years now... We believed that a lot of
+   that was from tariffs... but then the inflation part would stop. Now,
+   before that went away, we've added this oil price bit from the war.
+   And not only are we not making progress, it's going the wrong way."
+  → Cumulative shock framing: tariff residual + oil addition + services
+    drift = three simultaneous inflation pressures. Consistent with Mar 23's
+    "pile a new inflation shock on top of the old one" but adds services
+    as a third dimension.
+
+  Energy context: "Energy is way up. The [CPI headline was bad from it]."
+  On core: "We mostly look at what we call core inflation, which means
+   take the inflation and take out food and take out energy... if this
+   conflict in the Middle East and the implications for oil prices do
+   indeed prove to be passing, that should come down just as fast as it
+   went up."
+  → Conditional look-through on energy: IF the Middle East conflict proves
+    transitory, energy-driven inflation reverses. This is not a commitment.
+    The qualifier IF is doing heavy work.
+
+Shift vs. prior (Mar 23):  HAWKISH LEAN — Mar 23 focused on gasoline/
+  expectations transmission. Rockford adds services inflation as a NEW
+  concern that cannot be attributed to oil or tariffs. This is a more
+  difficult inflation signal than energy. The services concern is a
+  meaningful escalation in his inflation assessment.
+
+Shift vs. pre-FOMC (Mar 23): Same — services concern is post-FOMC new
+  information.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "[The Committee is] attentive to the risks on both sides of its
+   dual mandate." [Apr 29 stmt]
+  → Goolsbee does not echo this language directly. His framing in
+    the closing statement is more conditionally optimistic.
+
+Own language — CUT SIGNAL:
+  "I remain optimistic and I was before the inflation started going up
+   that rates can come down still a fair amount but we've got to see
+   progress on inflation and if it were up to me we would kind of adopt
+   that mindset."
+  → Conditional cut signal. Two key elements:
+    (1) "rates can come down still a fair amount" — this acknowledges
+        a meaningful cutting path ahead; it is MORE optimistic than his
+        Mar 23 "end-2026 possible but a wrench in plans."
+    (2) "we've got to see progress on inflation" — the bar is inflation
+        progress, not resolution. The conditional is firm.
+
+  The "if it were up to me" framing is his personal view as a Non Voter
+  in 2026 — he is not speaking for the committee.
+
+On Fed independence (extended Q&A section):
+  "I don't think Fed independence is truly under threat... The people
+   who sit around the table take the job extremely seriously."
+  "If we were to take away Fed independence of this narrow form... Inflation
+   will come roaring back."
+  → Strong institutional defense. No policy signals embedded.
+
+Powell assessment:
+  "I've been a big fan of Jay Powell's leadership. I consider him my first
+   ballot hall of fame Fed chair."
+  → Personal endorsement; analytically not significant for rate path.
+
+Cut signal status: CONDITIONAL — "rates can come down still a fair amount"
+  but conditional on inflation progress. The forward path is acknowledged
+  as real; the bar is services and overall inflation showing progress.
+
+  Notable: compared to Mar 23's "a wrench in the plans" formulation,
+  the Rockford cut signal is LESS HAWKISH. Mar 23 suggested the energy
+  shock threatened the cutting path. Rockford frames cuts as still available
+  ("still a fair amount") pending progress. [Inference: the passage of time
+  and additional data since Mar 23 may have stabilized his rate path view,
+  even as inflation has not improved.]
+
+Shift vs. prior (Mar 23):  DOVISH LEAN on cut signal — Mar 23 said the
+  energy shock "throws a wrench into the plans." Rockford says "rates can
+  come down still a fair amount" — implying the wrench has not permanently
+  blocked the path, though the condition (progress on inflation) remains.
+
+Shift vs. pre-FOMC (Mar 23): Same — net softer on the cut path blockage,
+  harder on services inflation concern.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    MIXED — hawkish on inflation (services new concern),
+               dovish lean on cut signal (reinstates cutting path vs.
+               Mar 23's "wrench in plans"), neutral-to-dovish on labor
+               (drops Mar 23's explicit inflation-over-labor ranking).
+
+Interpretation: Goolsbee is in a holding pattern. The services inflation
+  data from the morning CPI is genuinely new and concerning to him, but
+  he has not abandoned the conditional cutting path. The combination —
+  acknowledging rates "can come down still a fair amount" while flagging
+  services inflation as "the part I'm nervous about" — is consistent with a
+  Non Voter who sees the path to cuts as available but blocked by the same
+  services data he just received that morning.
+
+Language watch:
+  • "Stable without being good" — labor market verdict. Compact, quotable.
+    Likely to be cited by media. Watch for spread to committee language.
+  • "Four horsemen of the truth" (unemployment, vacancy, hiring, layoff
+    rates) — novel analytical frame for labor assessment. If this framing
+    spreads, it signals committee is relying on rates not on payroll counts.
+  • "Services going the wrong way" / "that's the part I'm nervous about" —
+    the services inflation concern is new and specific. If Paulson, Jefferson,
+    or Williams adopt this language, it signals committee-wide hawkish
+    recalibration on the hardest-to-look-through inflation component.
+  • "Rates can come down still a fair amount" — softening of the cut
+    blockage vs. Mar 23. This is the most dovish language from Goolsbee
+    since the energy shock began. Conditional but notable.
+
+Analyst flag: YES
+  → Two competing signals in the same speech: services inflation is "going
+    the wrong way" (hawkish new signal) AND "rates can come down still a
+    fair amount" (dovish vs. prior). The analyst should assess: is the
+    services concern strong enough to neutralize the dovish cut signal
+    language, or is Goolsbee signaling that even with services inflation,
+    the cutting path is intact? The CPI data is fresh (same morning) and his
+    services concern may evolve as more data arrives.
+══════════════════════════════════════════════════════════

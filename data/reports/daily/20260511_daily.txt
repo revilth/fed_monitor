@@ -1,20 +1,27 @@
 FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: May 11, 2026 (Monday)
-Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+REVISED: Full re-collection run confirmed on May 13. No new sources found.
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  None.
+  None confirmed.
 
-NOTE — scraper false positives: The scraper flagged an FOMC statement
-and press conference for May 11. Both are the August 22, 2025 framework
-review and the April 28-29, 2026 press conference page, respectively —
-not new documents. Discarded.
+COLLECTION STATUS: A full re-scrape of all 13 Fed sources was run on
+May 13, 2026. No new speeches for May 11 were found beyond what was
+already collected. The original May 11 collection was complete.
 
-NOTE — Powell Chair term ends today (May 15 is the formal end, but
-May 11 is effectively the final week of his tenure). Kevin Warsh's
-confirmation was announced at the April 29 press conference. No
-succession-related speeches published today.
+SCRAPER FALSE POSITIVES (confirmed discarded):
+  — FOMC statement file: duplicate of August 2025 framework review
+  — Press conference file: duplicate of April 29, 2026 press conference
 
-No new Type A speeches. No report required.
+CONTEXT — POWELL SUCCESSION:
+  May 15, 2026 is Powell's final day as Chair. Kevin Warsh cleared
+  the Senate Banking Committee on April 29 and is the incoming Chair.
+  No succession-related speeches or public statements were published
+  on May 11. This is the penultimate week of Powell's tenure; the
+  blackout period has ended (Apr 30) but officials are in the normal
+  inter-meeting window.
+
+No Type A speeches. No policy signals to report.
 ════════════════════════════════════════════════════════════════

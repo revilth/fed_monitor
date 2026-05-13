@@ -1,67 +1,229 @@
 FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
-Date: May 8, 2026
-Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+Date: May 8, 2026 (Friday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+REVISED: YouTube transcripts recovered for Goolsbee and Daly panel remarks.
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY — Hoover Institution Annual Monetary Policy Conference
-  1. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
-     Panel discussion, Hoover Institution Monetary Policy Conference
-     Stanford, California
-     STATUS: NOT SCORED — panel discussion; no transcript available
-     ACTION: Search YouTube (Hoover Institution channel) for recording
-
-  2. Michelle W. Bowman  |  Governor / Vice Chair for Supervision  |  Just Voter
+  1. Michelle W. Bowman  |  Governor / Vice Chair for Supervision  |  Just Voter
      "When Regulation Reshapes Markets: The Migration of Corporate Lending"
      Hoover Institution Monetary Policy Conference, Stanford
      STATUS: NOT SCORED — Type B (financial regulation / private credit)
 
-  3. Christopher J. Waller  |  Governor  |  Just Voter
+  2. Mary C. Daly  |  SF Fed President  |  Non Voter
+     "Challenging Conventional Wisdom: Inflation Dashboards and Policy"
+     Hoover Institution Monetary Policy Conference, Stanford
+     SOURCE: https://www.youtube.com/watch?v=Utsy1M4SKVc
+
+  3. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     "AI, Productivity, and Monetary Policy"
+     Hoover Institution Monetary Policy Conference, Stanford
+     SOURCE: https://www.youtube.com/watch?v=Utsy1M4SKVc
+
+  4. Christopher J. Waller  |  Governor  |  Just Voter
      "Update on Federal Reserve Bank Operations"
      Hoover Institution Monetary Policy Conference, Stanford
      STATUS: NOT SCORED — Type B (Reserve Bank operations / Fed governance)
 
-  4. Lisa D. Cook  |  Governor  |  Just Voter
+  5. Lisa D. Cook  |  Governor  |  Just Voter
      "Perspectives on Tokenization and Implications for the Financial System"
      BCEAO Conference on Digital Assets, Dakar, Senegal
      STATUS: NOT SCORED — Type B (digital assets / tokenization)
 ════════════════════════════════════════════════════════════════
 
-No Type A (economic outlook) speeches scored today.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  MARY C. DALY  |  SF Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-NOTE — Hoover panel: The May 8 Hoover conference assembled Goolsbee,
-Bowman, Waller, and Mary Daly (SF Fed) on the same day. Three are Just
-Voters (Bowman, Waller, and likely Daly as Non Voter). Goolsbee's panel
-transcript is the priority recovery target — Hoover panels frequently
-touch on monetary policy stance. Bowman and Waller's prepared remarks
-were Type B (regulatory / operational).
+GROWTH
+  Not addressed. Presentation focused entirely on inflation assessment
+  methodology and its application to the current shock sequence.
+  Direction: neutral
 
-Bowman's corporate lending speech: addresses migration from banks to
-private credit (banks' share fell from 48% to 29% since 2015),
-perverse capital rule incentives, and financial stability implications.
-No economic outlook content.
+LABOR MARKET
+  Not addressed as a current topic. Referenced only in the GFC
+  retrospective (natural rate of unemployment debate 2009-2015).
+  Direction: neutral
 
-Waller's operations speech: proposes centralizing and standardizing
-back-office functions across Reserve Banks. No monetary policy content.
-The subject — Fed governance and operational efficiency — carries
-institutional significance but zero monetary policy signal.
+INFLATION
+  Core of the speech: Daly presents an inflation dashboard methodology
+  and applies it to the current tariff and oil shock sequence.
 
-Cook's tokenization speech: delivered in Dakar, Senegal; focused on
-cross-border payment implications for emerging economies. No U.S.
-monetary policy content.
+  On tariff shock: "More confidence, not complete confidence, that
+  looking through was a reasonable strategy to have while you're being
+  watchful that something else might change." Dashboard showed mostly
+  green for the tariff shock — look-through endorsed with qualification.
 
-Bowman's most recent economic outlook speech remains January 16, 2026.
-Waller's most recent scored outlook speech was April 17, 2026 ("sequence
-of transitory shocks"; most hawkish Just Voter framing post-energy shock).
-Neither updated their stance today.
+  On oil shock addition: "Now we have the oil shock on top of that...
+  you're starting to see red in the areas that you'd expect." The
+  dashboard is now flashing concern. Supply chain transmission is
+  her named tripwire: NY Fed global supply chain index.
 
-ACTION ITEM: Run YouTube search on Hoover Institution channel for
-Goolsbee Hoover panel recording.
+  Key hedge: "This doesn't say you're going to have more persistent
+  inflation. It says you're going to have more persistent inflation
+  pressure." Careful distinction — pressure ≠ realized persistence.
+
+  Scenario framing: DESCRIPTIVE, not explicit. Daly names the supply
+  chain mechanism as the persistence channel but does not pre-commit
+  to a named policy response.
+  Direction: HAWKISH LEAN — tariff look-through endorsed; oil shock
+  causing dashboard to flash red; supply chain index as tripwire.
+
+MONETARY POLICY
+  No direct cut/hold signal. The policy implication is embedded in the
+  dashboard: if the supply chain index stays elevated alongside the oil
+  shock, the look-through becomes untenable. The framing is watchful
+  and data-dependent without pre-commitment.
+  Cut signal: ABSENT
+  Direction: HAWKISH LEAN (via dashboard conditions)
+
+NET SIGNAL: HAWKISH LEAN — dashboard flagging orange-to-red on oil
+  shock; supply chain index as her named tripwire for abandoning
+  look-through; no cut signal.
+
+vs. PRIOR SPEECH: Cannot assess — no prior scored speech in dataset.
+  This is Daly's first scored entry.
+vs. PRE-FOMC SPEECH: Cannot assess — same reason.
+vs. COMMITTEE SINCE FOMC: Consistent with the committee's watchful
+  holding posture. Her dashboard methodology operationalizes exactly
+  what "attentive to the risks" means in practice: a named indicator
+  (supply chain index) that would trigger response if it stays elevated.
+
+LANGUAGE TO WATCH:
+  • "Starting to see red in the areas you'd expect" — first use; could
+    become committee language for describing when look-through ends.
+  • NY Fed global supply chain index as tripwire — specific, trackable.
+    If other officials adopt this metric, it signals a committee-level
+    agreed trigger.
+  • "More persistent inflation pressure" vs. "more persistent inflation"
+    — Daly is the only official drawing this distinction explicitly.
+
+ANALYST FLAG: YES
+  → Daly articulates the committee's look-through tripwire more precisely
+    than any other official. Her supply chain mechanism could become the
+    analytical framework the committee uses to decide whether the combined
+    tariff+oil shock requires a response. Analyst to assess: is this
+    approach consistent with Williams's (Troika) methodology, or specific
+    to Daly?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  AUSTAN GOOLSBEE  |  Chicago Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Not addressed directly. Embedded framework implies AI data center
+  investment concentrated in Silicon Valley is a pull-forward expression
+  of expected future productivity — a demand-side overheat risk, not a
+  growth concern per se.
+  Direction: neutral
+
+LABOR MARKET
+  Not addressed as a current outlook topic. Historical GFC case study
+  only (natural rate of unemployment debate).
+  Direction: neutral
+
+INFLATION
+  No direct current-cycle inflation assessment in prepared remarks.
+  The analytical framework has inflation implications:
+  — Unexpected productivity: inflation falls, rates fall.
+  — Expected productivity (AI hype): wealth-effect pull-forward
+    overheats economy; central bank must raise nominal rate.
+  — Expected boom that disappoints: stagflation risk.
+  Applied: "The bigger the share of the total productivity boom that
+  is still on the way, the more likely it is that rates are going to
+  need to rise." Current AI productivity is predominantly expected,
+  not yet delivered.
+  Direction: HAWKISH LEAN (via natural rate / r-star implications)
+
+MONETARY POLICY
+  "The bigger the hype, the bigger the concern."
+  → Compresses the r-star elevation argument into one quotable line.
+    If AI productivity is as widely anticipated as surveys suggest
+    (1 ppt/year for 10 years), the natural rate is elevated — i.e.,
+    current policy is less restrictive than it appears.
+  → Consistent with his Feb 24 "not obvious rates are restrictive"
+    framing, now with a fully developed theoretical backing.
+  Cut signal: ABSENT
+  Direction: HAWKISH LEAN
+
+NET SIGNAL: HAWKISH LEAN — AI/natural rate framework implies r-star
+  is elevated; "the bigger the hype, the bigger the concern"; cut signal
+  absent; complements existing "rates may not be restrictive" framing.
+
+vs. PRIOR SPEECH (Mar 23):    HAWKISH LEAN — adds the r-star elevation
+  channel as a new theoretical basis for the existing "not restrictive"
+  intuition.
+vs. PRE-FOMC SPEECH (Mar 23): Same.
+vs. COMMITTEE SINCE FOMC:     Among the most hawkish Non Voter signals.
+  The r-star argument, if adopted by the Troika or key voters, would
+  imply the neutral rate has moved up — materially reducing the scope
+  for cuts.
+
+LANGUAGE TO WATCH:
+  • "The bigger the hype, the bigger the concern" — the most quotable
+    line of the panel; likely widely cited. Watch for spread to Troika.
+  • K-shaped economy + equity wealth = demand pull-forward — specific
+    mechanism bypassing hand-to-mouth constraints. Novel in committee
+    context.
+  • "If the central bank reacts too slowly, it probably gets worse" —
+    implicit commentary on current rate path without being explicit.
+
+ANALYST FLAG: YES
+  → Goolsbee's r-star argument is the most analytically significant
+    element of the Hoover panel. If the Troika or key voters adopt this
+    framework, it signals a committee-wide revision of the neutral rate
+    estimate upward — reducing the scope for rate cuts materially.
+
+════════════════════════════════════════════════════════════════
+UNSCORED SPEECHES — BRIEF NOTES
+════════════════════════════════════════════════════════════════
+BOWMAN (Just Voter): Type B (financial regulation). Prepared remarks
+  covered private credit migration, Basel 3 recalibration, capital rule
+  reform, and enhanced NDFI data collection. No economic outlook content.
+  Bowman's most recent economic outlook speech: January 16, 2026.
+  Her post-FOMC and post-energy-shock outlook view remains unknown.
+
+WALLER (Just Voter): Type B (Reserve Bank operations). Prepared remarks
+  covered back-office centralization proposal, system governance, and
+  operational efficiency. No monetary policy content.
+  Waller's most recent scored outlook speech: April 21, 2026 (post-FOMC).
+  No new policy signals today.
+
+COOK (Just Voter): Type B (digital assets / tokenization). Delivered in
+  Dakar, Senegal. No U.S. monetary policy content.
+  Cook's most recent economic outlook speech: unknown; monitor for outlook.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — Hoover Panel
+════════════════════════════════════════════════════════════════
+Three distinct hawkish signals on the same day, from different analytical
+angles:
+
+1. DALY: Inflation dashboard flashing red on oil shock → look-through
+   confidence eroding → supply chain index as tripwire.
+2. GOOLSBEE: Expected AI productivity → elevated natural rate → "less
+   restrictive than it appears" → "the bigger the hype, the bigger the
+   concern."
+3. BOWMAN (inferred from her January stance, not today's remarks): Still
+   the most explicitly dovish Just Voter ("moderately restrictive"), but
+   she gave no outlook signals today.
+
+The two Non Voters (Daly, Goolsbee) are independently converging on
+hawkish analytical frameworks using different mechanisms: Daly via the
+tariff+oil dashboard, Goolsbee via the AI/r-star argument. Neither makes
+a direct cut argument. The signals are mutually reinforcing even though
+the methodologies are different.
+
+This convergence is the most analytically significant aspect of May 8.
+The question is whether it reflects coordination, shared reading of the
+data, or coincidence.
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Goolsbee May 8:  https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+Panel (Daly + Goolsbee): https://www.youtube.com/watch?v=Utsy1M4SKVc
 Bowman May 8:    https://www.federalreserve.gov/newsevents/speech/bowman20260508a.htm
 Waller May 8:    https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm
 Cook May 8:      https://www.federalreserve.gov/newsevents/speech/cook20260508a.htm
+Goolsbee (Chicago Fed): https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
 ════════════════════════════════════════════════════════════════

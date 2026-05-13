@@ -1,40 +1,130 @@
 FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: May 12, 2026 (Tuesday)
-Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+REVISED: YouTube transcript recovered for Goolsbee Rockford appearance.
+NOTE: CPI (May 12 print) released same morning; Goolsbee responds to
+live data during the fireside chat.
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
   1. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
-     Greater Rockford Chamber of Commerce Luncheon
-     Rockford, Illinois — livestream at 12:00 pm CT
-     STATUS: NOT SCORED — event starts at 12pm CT; no transcript yet
-     ACTION: Fetch YouTube transcript after event concludes
-             https://www.youtube.com/watch?v=G4GmgMFk4Nk
+     "Greater Rockford Chamber of Commerce Luncheon"
+     Moderated fireside chat with CEO Angela Larson
+     Rockford, Illinois
+     SOURCE: https://www.youtube.com/watch?v=88dRnkmStR4
 ════════════════════════════════════════════════════════════════
 
-No Type A speeches scored today.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  AUSTAN GOOLSBEE  |  Chicago Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Goolsbee is a Non Voter in 2026. His moderated discussion with
-Greater Rockford Chamber of Commerce CEO Angela Larson is a
-local business audience appearance. These events typically cover
-the economic outlook and have produced substantive policy signals
-in the past.
+GROWTH
+  "The single strongest driver of growth of the US economy has been
+  the relentless uptick of consumer spending. Just regular consumers
+  with decent wage growth spending."
+  Consumer spending is characterized as broad-based and sustained.
+  Downside risk: precautionary saving from consumer sentiment
+  deterioration. Tax refund data point: 50% of refunds going into
+  savings, "higher than normal perhaps. And that wouldn't be a great
+  sign."
+  Direction: NEUTRAL — growth is resilient but flagged as fragile
+  if consumer sentiment continues to deteriorate.
 
-Context: Goolsbee's last scored speech was NABE (Feb 24), where he
-questioned whether rates are even restrictive. His views on the
-energy shock and April FOMC outcome are unknown — no transcript
-has been recoverable from any of his post-March 2026 appearances
-(Milken May 6; Hoover panel May 8; now Rockford May 12). This is
-the third consecutive Goolsbee stub. YouTube remains the primary
-recovery path.
+LABOR MARKET
+  "Stable without being good."
+  Four horsemen framework: unemployment rate, vacancy rate, hiring
+  rate, layoff rate — all stable for ~18 months but sending
+  conflicting signals. Hiring rate = recession-depth lows; layoff
+  rate = boom-peak lows simultaneously. His interpretation: firms in
+  wait-and-see mode due to uncertainty ("we just want this to be
+  resolved in the next six months"), not deteriorating conditions.
+  Direction: NEUTRAL — characterized as stable but not improving.
 
-NOTE — scraper false positives: FOMC statement and press conference
-files for May 12 are the same August 2025 framework review and
-April 29 press conference. Discarded.
+INFLATION
+  Reacting to morning CPI: "Not only are we not making progress,
+  it's going the wrong way. And not just in oil related things and
+  not just in tariff related things. Now you've seen drifting upward
+  of services inflation. And I keep highlighting for me that's the
+  part that I'm nervous about. I want to see that at least stop
+  growing and hopefully start going back down because that can't
+  really be from oil prices."
+
+  NEW SIGNAL: Services inflation drifting up is the specific concern.
+  This component cannot be explained by oil or tariffs — it is a
+  domestic demand / structural signal and the hardest to look through.
+
+  "The unexpectedly disappointing part in my mind was on the services
+  side" — this was real-time new information even for him; he did not
+  anticipate the services strength in the morning print.
+
+  Energy: look-through endorsed conditionally ("if the Middle East
+  conflict proves to be passing, that should come down just as fast
+  as it went up"). The IF is load-bearing.
+  Direction: HAWKISH LEAN — services inflation drifting up in
+  unexpected fashion is a new and harder-to-dismiss concern.
+
+MONETARY POLICY
+  "I remain optimistic and I was before the inflation started going up
+  that rates can come down still a fair amount but we've got to see
+  progress on inflation and if it were up to me we would kind of adopt
+  that mindset."
+
+  — "Rates can come down still a fair amount": cutting path is
+    acknowledged as real and meaningful.
+  — "We've got to see progress on inflation": services inflation
+    drifting up is the primary blockage.
+  — "If it were up to me": reminder he is a Non Voter in 2026.
+
+  Cut signal: CONDITIONAL — path available but blocked by services
+  inflation. The signal is LESS HAWKISH than Mar 23's "a wrench in
+  the plans" — implying the cutting path has survived despite the
+  shock sequence.
+  Direction: NEUTRAL-TO-DOVISH on the cut path; HAWKISH on the
+  specific inflation signal that has to clear first.
+
+NET SIGNAL: MIXED — hawkish on inflation (services concern is new
+  and hard to look through), dovish lean on cut signal (path remains
+  available), neutral on labor (drops Mar 23's explicit inflation-
+  over-labor ranking).
+
+vs. PRIOR SPEECH (May 8, Hoover):     Hawkish escalation on inflation
+  (services specific signal added); no cut signal at Hoover, weak
+  conditional cut signal at Rockford.
+vs. PRE-FOMC SPEECH (Mar 23, CNBC):   Labor: DOVISH (Mar 23 ranked
+  inflation explicitly over labor; Rockford does not). Inflation:
+  HAWKISH (services concern added). Cut signal: DOVISH (Rockford
+  reinstates "rates can come down still a fair amount" vs. Mar 23's
+  "wrench in plans").
+vs. COMMITTEE SINCE FOMC:            Goolsbee sits in the middle of
+  the post-FOMC committee distribution — more dovish than Logan/
+  Kashkari/Hammack on the cut signal, more hawkish than Bowman on
+  inflation. His services concern, if shared by Paulson (median voter),
+  would shift the committee's effective bar for cuts upward.
+
+LANGUAGE TO WATCH:
+  • "Stable without being good" — labor verdict likely to be cited.
+    Watch for spread to other officials' characterizations.
+  • "Services going the wrong way" — if this becomes Paulson's or
+    Jefferson's language, it is a committee-wide signal that the
+    hardest inflation component is the new blockage.
+  • "Rates can come down still a fair amount" — dovish vs. recent
+    framing. Watch for any Troika echo as a signal the cutting path
+    is being actively maintained.
+
+ANALYST FLAG: YES
+  → Services inflation as the new specific concern is the key signal
+    from this speech. Goolsbee received this data the same morning and
+    reacted in real time. Analyst to assess: does his services concern
+    (which cannot be attributed to oil or tariffs) reflect what the
+    committee is seeing in its staff forecasts? If Paulson or Jefferson
+    echoes the services framing in upcoming speeches, it would signal
+    a committee-wide hawkish recalibration on the most persistent
+    inflation component.
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Goolsbee May 12 (YouTube): https://www.youtube.com/watch?v=G4GmgMFk4Nk
+Goolsbee May 12 (YouTube):  https://www.youtube.com/watch?v=88dRnkmStR4
 Goolsbee May 12 (Chicago Fed): https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+Goolsbee Mar 23 (prior speech): https://www.youtube.com/watch?v=bIUk-c2vXmQ
 ════════════════════════════════════════════════════════════════
