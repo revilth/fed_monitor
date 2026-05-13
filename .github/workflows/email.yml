@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'data/reports/daily/**.txt'   # Fires only when CCR commits a new daily report
+  workflow_dispatch:                   # Allow manual trigger from GitHub Actions UI
 
 jobs:
   email:
