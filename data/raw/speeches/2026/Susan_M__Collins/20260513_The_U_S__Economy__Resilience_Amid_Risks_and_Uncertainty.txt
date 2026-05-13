@@ -1,0 +1,724 @@
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M U.S. Eastern Time, 
+Wednesday, May 13, 2026 – OR UPON DELIVERY  
+
+“The U.S. Economy: Resilience Amid 
+Risks and Uncertainty” 
+
+Remarks at the Boston Economic Club 
+
+Susan M. Collins 
+President & Chief Executive Officer 
+Federal Reserve Bank of Boston 
+
+May 13, 2026 
+Boston, Massachusetts 
+
+The views expressed today are my own, not necessarily those of my colleagues on 
+the Federal Reserve Board of Governors or the Federal Open Market Committee 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+Key Takeaways 
+
+Resilience: Despite a series of supply shocks – including tariffs and energy – economic activity 
+has remained resilient so far. The labor market has clearly softened from the overheated 
+conditions of 2023 and 2024, but the unemployment rate remains low by historical standards.  
+
+Uncertainty: Factors contributing to heightened uncertainty include the conflict in the Middle 
+East, the extent and timing of productivity gains from adoption of new technologies, and the 
+ultimate impact of supply-side developments such as tariffs and immigration changes.  
+
+Energy: The U.S. economy’s oil intensity (oil and petroleum products consumed per units of real 
+GDP) has declined significantly, and the U.S. has recently become a net energy exporter. These 
+changes have implications for how the energy shock is likely to transmit through the economy. 
+Relative to the past, there will be potentially less adverse effects – but a prolonged conflict in the 
+Middle East could weigh on global supply chains, leading to inflationary pressures and negative 
+spillovers to the real economy.  
+
+Inflation: While down from its peak, inflation has been above target for over five years – and has 
+increased recently, due mostly to energy prices. Above-target inflation is partly the result of the 
+ongoing effects of tariffs, especially on goods prices. But it also reflects firms’ pricing power given 
+resilient demand, and recent productivity gains taking time to lower price pressures.  
+
+The labor market: The unemployment rate has been relatively stable since last July, despite 
+slow job growth. This unusual balance reflects a slowdown in labor demand with a mostly 
+offsetting decline in labor supply, linked to significantly reduced immigration. An important 
+question going forward is how efficiency gains from the adoption of new technologies will affect 
+businesses’ demand for workers. 
+
+The outlook: The energy shock has increased uncertainty, and tilted risks to activity to the 
+downside and risks to inflation to the upside. Assuming the Middle East conflict is resolved 
+relatively soon, I expect solid economic growth to continue this year, with only a modest rise in 
+the unemployment rate. However, I expect inflation to remain elevated with the disinflation 
+process gaining more traction only next year. But the possibility of less benign scenarios has 
+increased, and I am particularly concerned about the upside risks to inflation.  
+
+Monetary policy: It will likely be necessary to maintain the current, slightly restrictive monetary 
+policy stance for some time. More than five years of above-target inflation has reduced my 
+patience for “looking through” another supply shock. While I hope policy normalization can 
+resume late this year, I can also envision a scenario that requires some policy tightening to 
+ensure that inflation returns durably to 2 percent. But at the moment, I see monetary policy as 
+well positioned to adjust as needed to evolving economic conditions. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+Good morning, and a warm welcome to all of you. It is a pleasure to welcome members of 
+
+the Boston Economic Club to the Boston Fed today. We appreciate our relationship with the 
+
+Economic Club, and its role in the vibrant economic and financial “ecosystem” of Greater Boston. 1 
+
+I’m looking forward to sharing some thoughts on economic conditions. But first, as always, 
+
+my standard disclaimer. These comments reflect my own views, not necessarily those of my 
+
+colleagues at the Board of Governors in Washington, D.C., or at the other Federal Reserve Banks. 
+
+Introductory Observations 
+
+I’ll preface my remarks about the economy with a few opening observations. 
+
+It has become a welcome tradition for the Club to invite Federal Reserve Bank staff to 
+
+attend when Boston Fed presidents speak. And today, in addition to Club members, the audience 
+
+includes many Bank employees. So, in the context of all the recent discussion about the Fed’s 
+
+roles, independence from political pressures, and opportunities to be more effective and efficient, I’d 
+
+like to say a few words about our people.  
+
+At his final press conference, outgoing Fed Chair Jay Powell said that “This institution is 
+
+resilient, capable, and staffed by professionals of extraordinary talent and exceptional dedication.” 
+
+Earlier this year, he also said “I will tell [the next Chair that] you're about to meet the most qualified 
+
+group of people you not only have ever worked with, [but] you will ever work with … There isn't a 
+
+better cadre of professionals more dedicated to the public wellbeing than those who work at the 
+
+Fed.” Having been at the Boston Fed for almost four years, and seeing it in action, I wholeheartedly 
+
+agree with his sentiments. 
+
+Many people do not realize the breadth of work the Fed does – not because of so-called 
+
+mission creep, but because the central bank plays vital roles in a range of activities that underpin 
+
+healthy functioning of the U.S. economy and financial system. The Fed staff here today include:  
+
+•  economic researchers who support our role in making monetary policy by analyzing 
+
+domestic and global economic and financial conditions; 
+
+•  staff involved in supervising some of the region’s financial institutions to ensure safety, 
+
+soundness, and fair access to credit, as well as their access to central bank liquidity; 
+
+•  staff working to support payments services and platforms that safely and securely move 
+
+trillions of dollars each day; 
+
+1 Greater Boston benefits from leading economic scholarship, deep involvement in markets and financial 
+services, and from being home to innovative organizations and thinkers that help shape public policy. So, it is 
+no surprise that we have a strong, vibrant Economic Club. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+•  staff who build and support the IT infrastructure and platforms allowing these functions to 
+
+operate; 
+
+•  staff focused on ensuring the Fed engages, hears from, and is responsive to the public we 
+
+serve; and 
+
+•  staff who perform essential corporate functions – from human resources to finance – 
+
+enabling all our work. 
+
+These people support our Congressional mandates and a resilient financial system, and our 
+
+pursuit of a vibrant economy that works for everyone. We are committed to serving the American 
+
+people and will continue to hone and improve the ways we do so. Over its history, the Fed has 
+
+continuously evolved to meet new opportunities and challenges while seeking greater effectiveness 
+
+and efficiency. We've always adapted, and embraced innovation – whether modernizing our 
+
+payments infrastructure, upgrading supervisory approaches, or streamlining operations to be even 
+
+better stewards of public resources. 
+
+Economic Conditions 
+
+With that, let me turn to the economy and share my assessment of current conditions, my 
+
+outlook, and implications for policy. A lot has happened since I last spoke at the Economic Club. In 
+
+particular, the Middle East conflict has increased economic uncertainty; and much depends on 
+
+when and how the hostilities are resolved. But other factors are also contributing to heightened 
+
+uncertainty. These include the extent and timing of productivity gains from adoption of new 
+
+technologies, as well as the ultimate impact of supply-side developments such as tariffs and 
+
+immigration changes.  
+
+Starting with current economic conditions, the left panel of Figure 1 shows real GDP, which 
+
+grew 2 percent at an annual rate in the first quarter of 2026 after advancing at a similar pace last 
+
+year. Despite a series of still-unfolding supply shocks – including tariffs in 2025 and the oil shock 
+
+more recently – economic growth has remained resilient. And while the labor market has clearly 
+
+softened from the overheated conditions of 2023 and 2024, the unemployment rate, shown in the 
+
+right panel, remains low by historical standards. At 4.3 percent through April, it has also been 
+
+relatively stable since mid-2025 despite slow hiring. I’ll have more to say in a moment about this 
+
+rather unusual balance in the labor market.   
+
+Turning to the price-stability side of the Federal Reserve’s Congressional mandate, Figure 
+
+2’s left panel shows personal consumption expenditures (or PCE) inflation – the metric the Federal 
+
+Open Market Committee (FOMC) targets at 2 percent. While way down from its 2023 peak, inflation 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+has been above target for over five years – and has increased recently due to the jump in energy 
+
+prices. Notably, the post-pandemic period of high rates of inflation has resulted in a surge in the 
+
+level of prices, as shown in the right panel. In my travels around New England, concerns about high 
+
+prices are ubiquitous, especially for lower- and middle-income households. In this context, I believe 
+
+it is important to durably return inflation to the FOMC’s 2 percent target in a reasonable amount of 
+
+time.  
+
+The Energy Shock 
+
+One important factor shaping the outlook is the conflict in the Middle East. Even if efforts to 
+
+resolve hostilities and reopen the Strait of Hormuz succeed relatively soon, it will likely take some 
+
+time to rebuild infrastructure and replenish inventories. So, supply disruptions could persist, 
+
+possibly inducing lasting changes to some global linkages. 
+
+To assess the impact of higher energy prices on inflation and economic activity, it is 
+
+instructive to consider U.S. oil dependence. The left panel of Figure 3 highlights that the U.S. 
+
+economy’s oil intensity, measured in barrels of oil consumed per thousand dollars of real GDP, has 
+
+declined significantly. And the right panel shows that the amount of net U.S. imports of oil and 
+
+petroleum products, measured on the same basis, has also decreased notably over the past two 
+
+decades. In fact, the U.S. has recently become a net energy exporter.   
+
+These structural changes have important implications for how the current energy shock is 
+
+likely to transmit through the U.S. economy. First, lower oil intensity implies that a given oil price 
+
+rise will have less adverse effects on inflation, real activity, and employment. And second, 
+
+becoming a net energy exporter should result in even smaller negative effects on real activity and 
+
+employment because higher oil prices boost revenues of domestic oil producers, which in turn 
+
+stimulates demand. At the same time, this positive demand effect could add to inflationary 
+
+pressures. 
+
+Given these changes, the positive correlation between oil shocks and future consumer price 
+
+inflation, while still present, has diminished since the 1990s. This is especially true for core inflation, 
+
+which excludes volatile food and energy prices. In other words, the “second-round” effects of an oil 
+
+shock on non-energy prices are now less pronounced than in the 1970s and 1980s. And the 
+
+negative correlation between oil shocks and future employment growth that prevailed before the 
+
+mid-1990s has weakened significantly. Of course, these simple correlations should be interpreted 
+
+with caution, but they suggest the current oil shock will likely have a modest impact on the domestic 
+
+economy overall, with perhaps somewhat more adverse effects on inflation than on the labor 
+
+market. 
+
+5 
+
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+However, this relatively benign assessment is not without substantial downside risks. A 
+
+prolonged conflict would put even more pressure on already-strained global oil supplies. The 
+
+current supply contraction is quite large by historical standards; although so far, the shortage has 
+
+been partly offset by countries running down their inventories. But if shipments through the Strait do 
+
+not resume soon, global economic strains – which are already high, especially in Asia – will 
+
+intensify. This would increase knock-on effects on global supply chains and exacerbate inflationary 
+
+pressures and adverse effects on domestic economic activity.  
+
+As shown by the blue line in Figure 4, there are already signs of delivery-time increases 
+
+among U.S. trading partners. These typically lead to increases in domestic delivery times, shown by 
+
+the yellow line. And longer domestic delays are often associated with a subsequent increase in U.S. 
+
+producer prices. 2  
+
+In sum, the ultimate economic impact of the oil shock remains to be seen. Although the U.S. 
+
+economy is relatively insulated, the longer the conflict persists the greater the likelihood of more 
+
+substantial negative spillovers.  
+
+Productivity Gains and Other Possible Offsets 
+
+I see the U.S. outlook as also depending on whether offsets could lessen the energy shock’s 
+
+impact on real activity. This seems to have happened last year with the tariff shock that, so far, has 
+
+had a smaller impact on activity than most forecasters expected. If firms continue to invest and 
+
+households continue to draw on their financial wealth to help finance spending, the pace of 
+
+economic activity should remain solid.  
+
+In this respect, underlying fundamentals remain healthy overall, despite some pockets of 
+
+stress. Firms’ cash holdings are elevated. And households’ financial asset holdings remain high. 
+
+So, the dynamics supporting the economy that were at play in 2025 could continue. 
+
+But the extent to which this happens will partly depend on the persistence of recent 
+
+productivity gains. As shown in Figure 5, output per hour, or labor productivity, has accelerated 
+
+notably since 2019. The current average growth in productivity of about 2.5 percent (the yellow 
+
+dashed line) is about double the average growth that prevailed in the decade and a half before the 
+
+pandemic (the blue dashed line). Faster growth is not just due to AI adoption, but also reflects firms’ 
+
+broader efficiency gains, driven in part by necessity. Facing challenges in hiring when the labor 
+
+market was especially tight in the aftermath of the pandemic, many firms found ways to boost the 
+
+productivity of existing workers. 
+
+2 Not shown in the figure. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+So far, large productivity gains have contributed to historically high firm profitability, which in 
+
+turn has significantly boosted capital spending, especially on high-tech equipment and data centers. 
+
+Strong profits, together with the promise of new AI-related technologies and future productivity 
+
+gains, have also led to high equity valuations. Together with elevated housing prices, this has 
+
+increased household net worth relative to disposable income – which, as shown in Figure 6, is very 
+
+high by historical standards. While not shown, I will note that net worth for the bottom 40 percent of 
+
+the income distribution is also elevated, although these holdings are small overall. And I frequently 
+
+hear of lower-income households facing financial strain that has been exacerbated by high energy 
+
+prices.  
+
+Although it is notoriously difficult to forecast productivity growth, I see the current healthy 
+
+pace as likely to persist over the medium term – as technology-related investments continue, and AI 
+
+is increasingly adopted. But it may take some time for these investments to be more fully reflected 
+
+in expanded productive capacity. In the meantime, the positive demand effects already at work 
+
+could persist, with implications for inflation.  
+
+The Labor Market 
+
+Productivity dynamics have important implications for the labor market – and are likely a key 
+
+reason for the “unusual balance” I mentioned earlier. The blue line in Figure 7 highlights the recent 
+
+relative stability of the unemployment rate. At the same time, job growth – shown on a 12-month 
+
+average basis by the yellow line – has been slow. Hiring has averaged only about 22,000 jobs a 
+
+month since last July, when the unemployment rate was at 4.3 percent, the same level as now. This 
+
+situation – low job creation but a stable unemployment rate – largely reflects a slowdown in labor 
+
+demand and a commensurate decline in labor supply growth, linked to the significant reduction in 
+
+immigration.   
+
+Other indicators are also consistent with a labor market in balance. In particular, labor force 
+
+participation among the prime-age population (those aged 25 to 54) is holding up well, as shown by 
+
+the blue line in Figure 8. And while total labor force participation – which includes people older than 
+
+16 (the yellow line) – is trending lower, this largely reflects population aging. In fact, after accounting 
+
+for this aging effect, the overall participation rate remains healthy, suggesting that workers are not 
+
+becoming discouraged and leaving the labor force at a particularly high rate. 3  
+
+3 The downward pressure on total labor force participation from an aging population is being partially offset by 
+greater labor force attachment from increased educational attainment. So, on balance, demographic factors 
+are imparting a negative trend on labor force participation. When taking into account the age and education 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+But a key question is how productivity improvements will affect the demand for workers 
+
+going forward. 4 In this respect, it is worth noting that the unemployment rate has increased notably 
+
+for college graduates, and the duration of their associated unemployment spells has risen. This is 
+
+especially the case for those aged 25 to 34, the green line in Figure 9. This suggests that more 
+
+educated workers who are early in their careers are having particular difficulty finding jobs – which 
+
+is an atypical pattern that could reflect a shift in employers’ desired skill mix.   
+
+At the moment, potential skill mismatches due to ongoing technological change seem 
+
+manageable, although the additional time it takes to find a job can place significant strain on 
+
+individuals and their families. But there is a risk that job-finding challenges could become more 
+
+widespread. And a weakening of labor market conditions could offset some of the positive demand 
+
+effects from higher productivity growth that I mentioned earlier.  
+
+Inflation Implications 
+
+So, what does all this imply for the inflation outlook? The blue line in the left panel of Figure 
+
+10 shows the same 12-month PCE inflation measure discussed before, with the most recent data 
+
+point highlighting the March increase in energy prices. The yellow line depicts core PCE inflation, 
+
+which excludes the important but volatile food and energy categories, and provides one indicator of 
+
+underlying inflation. Core inflation has also remained above 2 percent for more than five years, with 
+
+no progress since 2024. The longer and more disruptive the conflict in the Middle East, the larger 
+
+the inflationary impact – not only on energy, but also on food and on many of the categories of 
+
+goods and services in the core basket. 
+
+I do want to emphasize that continued high inflation does not appear to be driven by labor 
+
+market pressures. The red line in the right panel of Figure 10 shows that wage growth, adjusted for 
+
+productivity, has returned to the range that before the pandemic was consistent with 2 percent 
+
+structure of the population, the current participation rate is close to – if not slightly better than – what one 
+would expect given the prevailing unemployment rate.  
+
+4 Historically, sustained productivity gains have led to a pickup in hiring over time. But employment growth 
+has been stagnant in several sectors where hiring increases first occurred after previous productivity 
+accelerations – such as IT, financial activities, and professional and business services. The extent to which 
+we might see a pickup this time around is therefore more uncertain because some of the technological 
+changes underway may substitute for labor rather than complement it. In conversations around the region, 
+I’ve heard examples of both. Some business leaders do anticipate downsizing their workforces – as coders, 
+back-office and other employees become more productive (and to pay for AI-related investments). By 
+contrast, given strong demand, some firms expect to leverage AI-related productivity gains to expand their 
+workforces – though perhaps shifting their skill-mix. But heightened uncertainty, related to the economic 
+outlook as well as technology, may delay hiring plans, and many business leaders I have talked to are back in 
+“wait-and-see” mode. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+inflation. At the same time, core PCE inflation, shown again by the yellow line for comparison, 
+
+remains elevated. 5  
+
+Above-target inflation is partly due to the effects of tariffs, especially on prices of goods. The 
+
+left panel of Figure 11 provides two measures of core goods inflation, which excludes energy 
+
+goods. The blue line averages the data over a 12-month window, while the yellow line shows 
+
+annualized three-month core goods inflation, giving a more recent, if volatile, picture. The data 
+
+show that core goods inflation rose notably in recent months, after returning to its pre-pandemic 
+
+range in 2024. However, my staff estimates that much of the pass-through of tariffs into total 
+
+inflation, perhaps about 70 percent, has already taken place. This is illustrated by the blue line in 
+
+the right panel, with the shaded band showing the uncertainty around these estimates. 
+
+The estimates indicate that tariff pass-through to consumer prices has also stabilized 
+
+recently, suggesting that the tariff effects on inflation should wane going forward. But in the near-
+
+term, we could see some additional tariff-related price increases if tariff rates revert to levels that 
+
+prevailed before the Supreme Court ruling.  
+
+The other two components of inflation, which are less impacted by tariffs, are shown in 
+
+Figure 12. Housing (or shelter) price inflation, shown in the left panel, has come down noticeably 
+
+and is back to its pre-pandemic range.   
+
+However, services inflation excluding housing prices, shown in the right panel, remains 
+
+above levels consistent with 2 percent inflation. I find this pattern notable because a considerable 
+
+portion of the labor productivity improvements have accrued to the services sector. To me, this 
+
+suggests that, with relatively solid demand, firms retain pricing power and have less incentive to 
+
+fully pass efficiency gains on to consumers. 
+
+The Outlook, Risks, and Policy 
+
+Overall, amid heightened uncertainty, the energy shock has negatively affected my outlook 
+
+for both real activity and inflation. Moreover, the shock has tilted risks to real activity somewhat 
+
+further to the downside and risks to inflation further to the upside. I am always focused on both 
+
+sides of our mandate from Congress, but at this point, am particularly concerned about inflation.   
+
+The supports to demand from favorable financial conditions and AI-related investment 
+
+projects, in addition to the fact that the U.S. is now a significant energy producer, should limit the 
+
+5 For an analysis of the relationship between wages, productivity, and prices and estimates of the range of 
+wage growth consistent with the 2 percent inflation target, see: Is Post-pandemic Wage Growth Fueling 
+Inflation? - Federal Reserve Bank of Boston. 
+
+9 
+
+ 
+ 
+ 
+  
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+downside risks to economic activity. But by sustaining demand, these offsets could potentially 
+
+generate continued inflationary pressures, in addition to those directly related to the energy shock. 
+
+In contrast, the disinflationary impetus from recent productivity gains, as firms build up new 
+
+productive capacity, may take time to materialize.  
+
+With underlying fundamentals remaining solid, my most likely or modal outlook continues to 
+
+feature resilient demand. If the Middle East conflict is resolved relatively soon, I expect continued 
+
+solid economic growth over the remainder of this year, with possibly a modest rise in the 
+
+unemployment rate. However, I expect little to no reduction in inflation this year, with the disinflation 
+
+process gaining more traction next year. But the likelihood of other scenarios – with higher and 
+
+more persistent inflation, more adverse labor market outcomes, or both – has increased.  
+
+Given this outlook and the balance of risks, I believe it will likely be important to maintain the 
+
+current slightly restrictive monetary policy stance for some time. More than five years of above-
+
+target inflation has reduced my patience for “looking through” another supply shock. And it puts a 
+
+spotlight on inflation expectations remaining anchored, as they are a key indicator of the Fed’s 
+
+credibility to restore – and maintain – price stability.   
+
+The left panel of Figure 13 highlights that short-term inflation expectations are elevated and 
+
+volatile. Not surprisingly, surveys find that respondents expect inflation will still be above 2 percent 
+
+a year from now. More concerning would be evidence of longer-term inflation expectations 
+
+becoming unmoored from levels consistent with 2 percent inflation. But as shown in the right panel, 
+
+most longer-term indicators do continue to be consistent with price stability.   
+
+However, we cannot take such anchoring for granted. This is particularly true in the current 
+
+environment, with price increases already affecting fuel and perhaps soon food – items that are top-
+
+of-mind for consumers. Historically, such shocks have been key drivers of households’ near-term 
+
+inflation expectations. And the association between movements in households’ near-term and 
+
+longer-term inflation expectations has recently increased somewhat. 6 It is therefore essential for the 
+
+Fed to continue demonstrating its commitment to price stability through its rate decisions and 
+
+communications.   
+
+In sum, I certainly hope for a relatively benign outcome where policy normalization could 
+
+resume later this year. However, the range of possible outcomes is wide, with risks to both the 
+
+6 This observation is based on individual-level responses in the University of Michigan’s Surveys of 
+Consumers, with recent data showing an increase in the correlation between individuals’ short- and longer-
+term inflation expectations.  
+
+10 
+
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 11:30 A.M. U.S. Eastern Time,  
+Weds., May 13, 2026 – OR UPON DELIVERY  
+
+employment and inflation sides of our mandate. Of particular concern is the possibility of a 
+
+prolonged Middle East conflict that gives rise to more challenging policy tradeoffs. And while it is not 
+
+in my most likely outlook, I could envision a scenario in which some policy tightening is needed to 
+
+ensure that inflation returns durably to 2 percent in a timely manner. At the moment, though, I see 
+
+the stance of monetary policy as well positioned to adjust to the evolving outlook and balance of 
+
+risks.  
+
+In conclusion, I thank the Boston Economic Club for your engagement in these issues and your 
+
+time and attention today. I look forward to exploring some additional questions with Juhi Dahwan, 
+
+and then the audience. 
+
+11

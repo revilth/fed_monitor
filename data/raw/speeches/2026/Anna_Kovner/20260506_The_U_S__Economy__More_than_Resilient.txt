@@ -1,0 +1,103 @@
+The U.S. Economy: More than Resilient
+May 6, 2026
+Anna Kovner
+Executive Vice President and Director of Research
+Young Presidents' Organization (Southern 7) Leadership Summit
+88 West Paces Ferry Road NW
+Atlanta, Ga.
+Thank you for having me. I want to spend my time today on the U.S. economic outlook. Before I begin, let me note that these will be my thoughts only and not those of anyone else in the Federal Reserve System.
+Over the last few years, the U.S. economy has faced a slew of supply shocks, from labor to semiconductor shortages, from tariff hikes to bird flu spikes, and from a freeze in government spending to a literal ice storm. We’ve seen it all.
+And throughout, the economy has proved resilient.
+We have been hearing that word, “resilient,” more frequently again in the face of the ongoing conflict in the Middle East. Gas prices have spiked. One would expect such an increase to challenge consumer spending and in turn growth; consumer spending makes up nearly 70 percent of GDP. So far, however, we are seeing that even as consumers spend considerably more on gas, they continue to spend elsewhere. Without gas, year-over-year growth in total card spending remained well above 3 percent in March.
+That “resilient” spending has also been in part supported by a “resilient” labor market. The unemployment rate came in at 4.3 percent for March, a low rate we have managed to achieve for most of the last year.
+The performance of the U.S. economy has no doubt been remarkable. But I want to pause on the word “resilient.” When it came up on my daughter’s SAT preparation, I learned that it doesn’t just mean that you “recover from or adjust to misfortune or change,” but that you do so “easily.” By a show of hands, how many of you would describe your experience in this economy over the last few years as “easy”?
+Every year, my husband does a 100-mile bike race. I — to be clear — watch from the car.
+As I watch, I think: “Wow! Look at them go. That’s a huge hill. How resilient!” When I talk to my husband after the race, it’s clear that’s not what he was thinking as he pedaled. His thoughts were more like: “My legs are burning, how much further, and why am I doing this?”
+I think it’s fair to assume consumers and businesses alike identify more with the cyclist in this story. Keep that perspective in mind as we consider where the U.S. economy is today and where we are headed.
+Inflation Remains Elevated
+The Federal Reserve has a dual mandate from Congress: price stability and maximum employment. I’ll focus on price stability first. Why is it important? High price growth weighs on the economy. It makes it hard for businesses and households to plan, and it erodes the real value of money.
+For cyclists heading up a hill, it’s the equivalent of suddenly getting stuck with extra baggage on their bikes. With added weight slowing them down, they have to pedal harder just to make the same progress.
+Inflation has been above the Fed’s 2 percent target for five years now. In March, headline PCE inflation came in at 3.5 percent year-over-year, reflecting the spike in energy prices. Core PCE inflation came in at 3.2 percent year-over-year. No one single thing has prevented inflation from returning to 2 percent; instead, it’s been a rolling sequence of different forces, all of which I might have said should prove temporary. Before the conflict in the Middle East, it was tariffs. Before tariffs, it was the Russian invasion of Ukraine. Before that, it was pandemic-related supply shocks.
+Every time cyclists get close to offloading unwanted baggage, another load gets placed on their bikes. Remarkably, as I noted earlier, they’ve kept their pace regardless; consumers have found ways to keep spending.
+It’s been easier for some.
+Consumers Keep Spending
+High-income consumers have benefitted from e-bikes as their packs have become heavier. Asset prices have skyrocketed alongside costs in recent years — whether via the stock market or real estate. This has allowed high-income consumers to maintain their spending. They may choose to trade down in some areas, making stops at Walmart instead of Whole Foods or ordering chicken instead of steak, but continue to splurge in other areas like luxury goods or travel. We hear from businesses offering luxury products and services that demand remains robust.
+Middle- and low-income consumers, on the other hand, haven’t gotten the e-bike boost; they’re having to make hard choices to keep up their pace. Middle-income consumers, like high-income ones, are trading down to lower-priced products and retailers. We also hear they are increasingly turning to alternative financing, such as buy now, pay later, as well as social supports like food pantries.
+The uphill climb is without a doubt hardest for low-income consumers who are running out of trade-down options after years of high price growth and now high gas prices. Increasingly, they are making choices about what to buy and what to skip, trading off between spending categories and not just within them.
+Low Hiring, Low Firing Continues
+Let me turn to the other side of our dual mandate: maximum employment.
+I mentioned earlier that spending has been sustained by a solid labor market. People still have jobs; businesses haven’t been laying off workers — they haven’t been forcing anyone out of the peloton — and that has made a difference.
+Most firms we talk to tell us that in the face of rising cost pressures they have become more efficient. They’ve found ways to make their pelotons more aerodynamic. They’ve improved processes — an effort many turned to out of necessity during the post-pandemic labor shortage. They’ve also found productivity improvements from reduced employee turnover. They’ve invested in better equipment and automation, not just artificial intelligence (AI). And they’ve downsized headcount via attrition, not layoffs.
+Firms are largely maintaining that lean stance. We asked CFOs in The CFO Survey, which we run in partnership with Duke University and the Federal Reserve Bank of Atlanta, about their
+hiring plans for 2026
+and heard that less than 40 percent of firms are actively hiring for new positions. The majority of respondents are hiring only for replacements or judge themselves to be at ideal staffing levels. A significant share are not hiring at all.
+The diminished demand for labor has been reflected in slow payroll growth over the last year. Why then is the unemployment rate staying low, you may ask. The slowdown in labor demand has been muted by a simultaneous fall in labor supply as the population ages and immigrants leave the workforce.
+Before I move on to where the U.S. economy is headed, I want to acknowledge that like with consumers, not all businesses have had the same experience over the last few years. The amount of exposure to rising costs and the capacity to manage them have depended on firm characteristics. Obviously, exposure to tariffs for importers was a key differentiator, but another important factor is firm size.
+With our Richmond Fed manufacturing survey data, we calculate a monthly local business conditions index that tells us whether more firms think conditions have improved or deteriorated. Since the pandemic, large firms
+have consistently been more optimistic
+than small firms.
+Why does firm size matter? Large firms have been better able to avoid additional costs in the first place; they have more success negotiating with vendors, be it for tariffs, insurance, or fuel surcharges. Small firms, on the other hand, find it harder to bargain with suppliers — not only due to smaller orders, but because it’s harder for them to adjust their supply chains. In fact, according to the Federal Reserve’s
+Small Business Credit Survey (SBCS)
+, fewer than 14 percent of small businesses changed to domestic suppliers or adjusted among foreign suppliers in response to tariffs. At the same time, we could see in the overall economy that those changes did take place: Imports from China fell by more than 40 percent while those from Vietnam rose by the same percentage.
+Large firms can spread higher costs across a wider range of products and customers, strategically increasing prices on products with more inelastic demand. Small firms may not have that luxury.
+Large firms are like bikes with a trailing support car offering help with whatever challenge comes their way. They have large cash operating cushions, allowing them to wait a few months to see how tariffs or oil price spikes shake out. They also enjoy lower funding costs, especially those who fund themselves through capital markets and issued bonds in 2022.
+Small firms, on the other hand, often depend on banks, which report having tightened lending standards considerably since the collapse of Silicon Valley Bank. The Federal Reserve’s
+Senior Loan Officer Opinion Survey
+confirms continued net tightening in bank lending standards for over three years and the Fed’s SCBS confirms that only 52 percent of small businesses loan applications were fully approved in 2025, down from 62 percent in 2019. Small firms are also more likely to have floating rate loans, which meant higher prices as the Fed’s target rate increased.
+The Ride Ahead
+Let me now look to the ride ahead. I see three key questions.
+Inflation Outlook
+First, will elevated inflation continue, or will the extra weight finally start to ease? I’ll walk through three recent forces that have been pressuring prices: housing, tariffs and oil.
+For years following the pandemic, housing costs were a key source of stubborn inflation as elevated demand for housing was not met with increases in supply. Efforts to build were challenged by costs associated with supply shortages, slow permitting, and then rising rates.
+The disinflationary process for housing is slow, but there are positive signals. Rent prices are falling, and that’s a leading indicator. Additionally, months supply of housing is increasing, according to data through January. Economists at the Richmond Fed
+document an inverse relationship
+between house price growth and months supply of housing for sale on the market. As months supply of housing builds up, price growth is expected to continue to moderate.
+Moving on to tariffs, while it has been over a year since the initial tariff announcements, the tariff impact on prices is not yet wrapped up. On the contrary, we still hear plenty of businesses hoping to pass through tariff costs. Several waited to do so until attention on the issue waned, customer pushback eased, or clarity emerged about whether cost increases would stick. Uncertainty related to tariffs continues as we see where tariff rates and the US-Mexico-Canada trade agreement land.
+As far as the conflict in the Middle East, it’s hard to make predictions. Most prediction updates thus far have been to extend the timeline over which oil prices remain elevated. There’s a tremendous amount of uncertainty. One rule of thumb is that for every 10 percent increase in oil prices, one can expect to see an associated increase of 0.2 percentage points in headline PCE inflation and 0.04 percent points increase in core PCE inflation, which comes primarily via changes in transportation prices such as airfare. Of course, this rule of thumb doesn’t account for supply disruptions like helium, aluminum, and fertilizer as well as resulting inflationary pressure in other categories.
+As I see it, the key risk for price stability is not the short-term inflationary pressure from gas prices, but their cumulative effect on inflation expectations.
+Inflation expectations are what they sound like: What do businesses and consumers expect inflation to be in the future? If expectations move up, they feed inflation. Workers expect rent and utilities to cost more so they negotiate for bigger raises. Firms see wages getting more expensive, so they raise prices. A self-reinforcing cycle from wages to prices forms.
+Gas is a regular purchase for many consumers, and so consumers are highly attentive when prices change. In general, economists have found that one-year inflation expectations do move up with gas prices. We also saw this during the Russian invasion of Ukraine.
+Should we be worried about inflation expectations now? There is also evidence that people can “look through” oil price shocks. Consumers know jumps in gas prices are temporary. If you ask consumers how much prices will be increasing in five years, their expectations thus far have remained steadier.
+The concern this time around is what I mentioned earlier: the cumulative effect of back-to-back supply shocks. Do consumers start to expect higher inflation to stick around longer and become the norm? There’s no sign of that today, but were it to occur, the Fed’s job of price stability would become much harder.
+Demand Outlook
+The second key question is: Will demand slow, or will bikers find ways to maintain their pace and stay “resilient”?
+The United States is less dependent on oil than in the 1970s; we are a net oil exporter, and demand for gas has also moderated. Think about the gas mileage on your car: I hope it’s higher than the near 14 miles per gallon that cars averaged in the 1970s  . Even with lower dependence, the longer oil prices remain high — and that infrastructure in the conflict region remains impaired — the deeper the potential impact on the economy.
+For now, consumers have sustained their spending on goods and services in non-energy categories as they’ve had to shell out more for gas. However, the longer oil prices are high, the more demand destruction becomes a risk. Low-income Americans, with less wiggle room in their budget, are worth watching, as are rural Americans. They spend more on transportation on average; longer distances mean more fuel.
+Tax refunds through April were up more than 10 percent, potentially providing a temporary buffer with which to absorb added costs. As those get spent down, consumers may start to feel more squeezed, especially considering slower wage growth.
+You may wonder whether this oil price shock could stimulate domestic energy producers to increase drilling. We’ve heard from colleagues in Federal Reserve districts with more exposure to the energy sector that producers need to be confident high oil prices will be sustained above a certain level to justify costly energy exploration.
+I will note that there are some potential green shoots in a few corners of the economy.
+Manufacturing is an area showing some signs of improvement. We’ve seen the ISM index turn positive, signaling that the direction of travel is positive. Our own surveys have been a bit more mixed although also have been showing signs that more manufacturers see better times ahead. It’s hard to know how the hit abroad — which I expect to be more severe than to our own economy — will impact exports. Some domestic manufacturers may benefit from stable U.S. natural gas prices and fewer supply disruptions relative to their competition.
+Labor Outlook
+The third key question is: Will layoffs stay low, or will riders start dropping? A low unemployment rate doesn’t feel very reassuring to those without jobs — those in between jobs and those new to the labor market. You can see their challenge by looking at the share of unemployed individuals finding jobs. In 2022, the share of unemployed workers who found a job in the next month was 30 percent. That’s now down to 24 percent.
+You’ve likely seen the big headlines recently with some technology companies pursuing layoffs. Those are unsettling headlines, but the good news is I don’t see many signs of such cuts economy-wide. We don’t see it in government mandated WARN notices or hear it in our conversations with businesses.
+Those without jobs may not see much relief this year. In
+The CFO Survey from Q12026
+, CFOs reported that even with healthy revenue growth expectations for the year, employment is expected to grow at a tepid pace in 2026 and 2027, well below forecasts for 2025. That means resilience if you have a job, but fragility if you don’t.
+As economists, we differentiate between cyclical factors, which move with demand, and structural ones which are more permanent and move with technology or demographics. If the slowdown in hiring is cyclical, hiring could pick up as uncertainty and margin squeezes ease. However, if hiring is low due to structural reasons such as the adoption of AI or mismatches between worker skills and job needs, stimulating demand is not what is needed.
+There is some evidence that some of the slowdown that we are seeing in hiring is structural. Remember that slowdown in flow from unemployed to employed that I mentioned earlier? Economists at the Richmond Fed found that unlike what we’ve typically seen in historical data, some of the slowdown has come from workers who are considered “more attached” to the workforce. That’s a fairly new phenomenon and suggests there’s been a structural change. However, it’s not all AI. Looking at these more attached workers, only about a third of the difference in job finding rates is explained by AI exposure.
+To conclude, let me say that the U.S. economy is more than resilient. Many of you raised your hands in agreement that conditions in recent years have not been easy. Yet here you are, leading and pushing your businesses, employees, and in turn, the U.S. economy forward. I admire the resilience, even if it’s not easy. As I open the floor for Q&A, I’d be interested to hear about what you are seeing in your business. What’s propelling your business or holding it back?
+Thank you.
+Topics
+Business Cycles
+Economic Growth
+Inflation
+Monetary Policy
+Subscribe to News
+Receive an email notification when News is posted online:
+Subscribe to News
+By submitting this form you agree to the
+Bank's Terms & Conditions and Privacy Notice.
+Email Address
+Re-enter Email Address
+I agree to the terms of the privacy policy
+Thank you for signing up!
+As a new subscriber, you will need to confirm your request to receive email notifications from the Richmond Fed. Please click the
+confirm subscription
+link in the email to activate your request.
+If you do not receive a confirmation email, check your junk or spam folder as the email may have been diverted.
+Thank you for signing up!
+You can unsubscribe at any time using the Unsubscribe link at the bottom of every email.
+Subscribe to our other digital publications
+Contact Icon
+Contact Us
+Jim Strader
