@@ -1,0 +1,137 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-24 | Lisa D. Cook | Governor | Just Voter
+"Opening Remarks for the 'AI and Productivity across the Economy' Panel"
+"The Great Realignment: Navigating AI, Demographic, and Geoeconomic Shifts,"
+42nd Annual NABE Economic Policy Conference, Washington, D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm
+  (URL reconstructed from standard Board pattern — not verified in raw file)
+
+CLASSIFICATION: Type B — AI/productivity analysis with embedded monetary
+policy framework section. Cook does not assess current economic conditions
+(labor market, current inflation rate) or state a current policy stance.
+Instead, she raises two structural/analytical issues about how AI affects
+the monetary policy toolkit and the neutral rate. Scored for that embedded
+policy-implications section only. No current labor/inflation/policy verdict.
+
+Reference FOMC:    January 28, 2026 (hold; 3.50–3.75%)
+Pre-FOMC baseline: N/A — no prior Cook economic outlook scored before Jan 28
+Post-FOMC prior:   February 4, 2026  "Economic Outlook," Economic Club of Miami
+                   (scored; first post-Jan-28 Cook speech)
+──────────────────────────────────────────────────────────
+
+EMBEDDED POLICY IMPLICATIONS (framework-level; not current stance)
+──────────────────────────────────────────────────────────
+Cook raises two analytical issues she is "carefully studying" about AI's
+effects on the monetary policy framework. These are forward-looking/structural
+signals about her analytical lens — not actionable current policy signals.
+
+ISSUE 1 — LABOR MARKET AND POLICY EFFICACY
+──────────────────────────────────────────────────────────
+"if AI continues to raise productivity, economic growth could remain strong,
+ even as churn in the labor market leads to an increase in unemployment. In
+ a productivity boom such as this, a rise in unemployment may not indicate
+ increased slack. As such, our normal demand-side monetary policy may not
+ be able to ameliorate an AI-caused unemployment spell without also increasing
+ inflationary pressure. This means that monetary policymakers would face
+ tradeoffs between unemployment and inflation."
+
+→ Key implication: In an AI-driven labor market transition, a rise in
+  unemployment may be structural (displacement) rather than cyclical
+  (demand weakness). Standard rate-cut response to unemployment would be
+  inappropriate — it would boost inflation without addressing the structural
+  cause. This raises the bar for using rate cuts to respond to labor market
+  softening if AI is the driver.
+
+→ Policy signal: HAWKISH LEAN for the labor-inflation tradeoff. Cutting in
+  response to AI-transition unemployment could be counterproductive.
+  [Inference: Cook would need to distinguish cyclical from structural labor
+  weakness before easing. This is an additional analytical filter on top of
+  the standard dual-mandate framing.]
+
+Current data reference:
+  "the overall unemployment rate is still at a low 4.3 percent, and recent
+   measures of layoffs remain subdued."
+  → Cook characterizes the Feb 24 labor backdrop as benign (low unemployment,
+    subdued layoffs). The AI-transition risk is a forward-looking concern, not
+    a current diagnosis.
+
+ISSUE 2 — NEUTRAL RATE ASSESSMENT
+──────────────────────────────────────────────────────────
+"In anticipation of future productivity gains, we already see soaring
+ AI-related business investment in data centers and chips, despite interest
+ rates broadly being elevated relative to levels over the past 20 years.
+ With investment contributing to strong aggregate demand, it is possible
+ that the current neutral rate is higher than before the pandemic."
+
+→ Cook explicitly raises the possibility that r* has risen due to AI-driven
+  investment demand. If the neutral rate is higher than pre-AI estimates,
+  then current rates (at the time: 3.50–3.75%) may be LESS restrictive than
+  assumed. This is a hawkish implication — less room to cut before hitting
+  neutral, and current stance may be only mildly restrictive.
+
+  "This could reverse when the AI productivity gains are more fully realized
+   or if the labor market transition leads to a rise in income inequality..."
+  → Cook immediately qualifies: the r* elevation could be temporary. She
+    holds this view with appropriate uncertainty.
+
+[Inference: The r* observation is consistent with the committee-wide
+concern (shared by Goolsbee's Feb 2026 framing that rates may "not even
+be restrictive") but Cook applies an AI-specific mechanism. She is not
+claiming rates are too low — she is flagging the analytical uncertainty
+about how restrictive current policy actually is.]
+
+POLICY SYNTHESIS (from embedded framework)
+──────────────────────────────────────────────────────────
+Cook does not state a current policy view. She identifies two analytical
+complications that bear on future policy decisions:
+  (1) Rate cuts can't easily fix AI-driven structural unemployment without
+      creating inflation → higher bar for labor-driven easing
+  (2) r* may be higher than pre-pandemic estimates → current rates may be
+      less restrictive than assumed
+
+Both implications lean hawkish relative to standard models, but Cook presents
+them as open questions ("it is possible," "I am carefully studying") rather
+than current policy directives.
+
+Direction: NEUTRAL with mild hawkish tilt from the r* framing.
+
+Shift vs. prior speech (Feb 4 "Economic Outlook"):
+  The Feb 4 speech assessed current labor/inflation conditions directly and
+  set a clear "in balance but attentive" labor framework with explicit
+  distributional concerns. This Feb 24 speech is entirely analytical/forward-
+  looking with no current-conditions assessment. The two speeches address
+  different domains and are not directly comparable on policy direction.
+  Net: Not a directional shift — different type of content.
+
+Shift vs. pre-FOMC:   N/A — no pre-FOMC baseline.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL (framework analysis, mild hawkish tilt from r*)
+               Cook's NABE remarks are structurally distinct from a
+               policy stance speech — they raise analytical questions
+               about how AI complicates the monetary policy toolkit.
+               The r* observation (higher-than-pre-pandemic neutral)
+               and the labor-market-tradeoff analysis both lean hawkish
+               as implications but are held with appropriate uncertainty.
+               No current policy stance articulated.
+
+Language watch:
+  • "the current neutral rate is higher than before the pandemic" — first
+    explicit Cook r* elevation observation in 2026 corpus. If this spreads
+    to other Troika/voter speeches, it signals committee-wide recalibration
+    of how restrictive current policy is.
+  • "our normal demand-side monetary policy may not be able to ameliorate
+    an AI-caused unemployment spell without also increasing inflationary
+    pressure" — analytical caution against reflexive rate-cut response to
+    labor softening; potential counterweight to dual-mandate dovish bias.
+
+Analyst flag:  YES
+  → r* observation is policy-consequential if Cook's view becomes a
+    consensus view: "current neutral rate is higher than before the pandemic"
+    implies 3.50–3.75% is closer to neutral than standard models suggest.
+    Analyst should assess whether this view is shared by Jefferson or Williams.
+══════════════════════════════════════════════════════════

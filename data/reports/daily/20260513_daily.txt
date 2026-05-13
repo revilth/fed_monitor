@@ -1,124 +1,264 @@
 FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: May 13, 2026 (Wednesday)
-Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  None — scraper returned HTTP errors on all 13 sources.
-  No new Fed speeches published for May 13, 2026.
+  None — no Fed speeches published on May 13, 2026.
+════════════════════════════════════════════════════════════════
+
+No new speeches to score for May 13.
 
 ════════════════════════════════════════════════════════════════
-BACKLOG SCORING — 11 SPEECHES SCORED TODAY
+BACKLOG SCORING — 3 SPEECHES SCORED TODAY (May 13 session)
 ────────────────────────────────────────────────────────────────
-Scored speeches added to corpus (January–May 2026 backlog):
+Three additional unscored speeches from the 2026 backlog were classified
+and scored in today's session. All are Type B (special topic) with embedded
+monetary policy content. Scored output filed in data/scored/speeches/.
 
-  1. Jan 3   | Anna Paulson       | Just Voter   | Type A
-             Pre-FOMC baseline for Jan 28 and Mar 18 FOMC.
-             Net: DOVISH LEAN — "still a little restrictive"; conditional
-             cut signal for later in 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  MICHAEL S. BARR  |  Governor  |  Just Voter
+    2026-03-24 — "Developing Communities through Public-private Partnerships"
+    2026 National Community Investment Conference, Phoenix, AZ
+    [TYPE B with embedded economic outlook paragraph; March 18 FOMC ref]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  2. Jan 6   | Tom Barkin         | Non Voter    | Type A
-             FIRST "five-year above target" duration framing in 2026 corpus.
-             Net: NEUTRAL with hawkish lean — demand narrowness; "within
-             range of neutral."
+GROWTH
+  Not addressed. Embedded section covers only labor and inflation.
+  Direction: neutral — not addressed.
 
-  3. Jan 12  | John Williams      | Troika       | Type A
-             Pre-FOMC baseline for Jan 28 FOMC.
-             Net: NEUTRAL/BASELINE — "closer to neutral" (not AT neutral);
-             tariffs "one-off"; no cut signal.
+LABOR MARKET
+  "After cooling last year, the labor market appears to be stabilizing
+   with low levels of job creation, and also low levels of people entering
+   our workforce."
+  Barr echoes March 18 statement language ("little changed") with a personal
+  addition: low workforce entry, a soft-supply concern that slightly mutes
+  the headline stability read. Broadly neutral — no fragility language.
+  Direction: neutral.
 
-  4. Jan 14  | Anna Paulson       | Just Voter   | Type A
-             Near-verbatim restatement of Jan 3; Dec CPI explicitly
-             confirmed "doesn't change my assessment."
-             Net: UNCHANGED from Jan 3.
+INFLATION
+  "We continue to contend with inflation notably above the FOMC's 2 percent
+   goal. Goods inflation escalated over the last year, and non-housing
+   services inflation has remained elevated."
+  "Notably above" is Barr's own intensifier — stronger than the committee's
+  standard "elevated." "Escalated" for goods is the strongest language in
+  the March 2026 voter corpus. "Hopeful" re: tariff pass-through fade — held
+  with uncertainty, immediately qualified by Middle East energy risk.
+  Direction: hawkish lean.
 
-  5. Jan 16  | Philip Jefferson   | Troika       | Just Voter
-             Pre-FOMC baseline for Jan 28 FOMC. ANALYST FLAG.
-             Net: NEUTRAL/SLIGHTLY HAWKISH — "at neutral" (more hawkish
-             than Williams "closer to"); "downside risks to employment
-             have risen" (first Troika use of that phrase).
+MONETARY POLICY
+  "it is my view that we may need to keep rates steady for some time as we
+   assess economic conditions."
+  Explicit hold signal. Cut conditions stated: (1) sustained goods AND
+  services inflation retreat, (2) stable labor market. Both required. No
+  cut signal present. Energy/oil upside risk flagged ("conflict in the Middle
+  East raises additional risks") — one of the earliest voter-level explicit
+  energy risk flags in the 2026 corpus (March 24).
+  Direction: hawkish lean.
 
-  6. Jan 30  | Christopher Waller | Just Voter   | Type A (dissent)
-             Dissented at Jan 28–29 FOMC IN FAVOR of a 25bp cut.
-             ANALYST FLAG — largest single-voter reversal arc in 2026.
-             Net: DOVISH — "zero job growth — Zero. Zip. Nada."; neutral
-             rate = 3%; cut signal ACTIVE.
+NET SIGNAL: HAWKISH LEAN — high bar for cuts, "notably above" inflation
+  framing, explicit dual conditions, early Middle East energy risk recognition.
 
-  7. Jan 30  | Michelle Bowman    | Just Voter   | Type A
-             ANALYST FLAG — Jan 30 SEP disclosure (3 cuts in 2026) will
-             be abandoned post-Iran energy shock.
-             Net: DOVISH — "fragile" labor; "moderately restrictive";
-             SEP = 3 cuts; PCE near target ex-tariffs.
+vs. PRIOR SPEECH (N/A — first scored Barr speech in corpus): N/A
+vs. PRE-FOMC SPEECH (Mar 18 reference; N/A — no prior baseline): N/A
+vs. COMMITTEE SINCE FOMC (Mar 18): Barr's language is consistent with Waller
+  (Apr 17 — "sequence of shocks") and Logan (Feb 10 — inflation-first bar)
+  but notably more cautious on tariff look-through than Jefferson (Apr 7 —
+  more symmetric framing). His March 24 energy risk flag anticipated the
+  April consensus.
 
-  8. Feb 3   | Tom Barkin         | Non Voter    | Type A
-             Post-Jan-28-FOMC. "Sustained miss since 2021" (stronger
-             duration framing than Jan 6). Explicit tariff look-through
-             rejection.
-             Net: NEUTRAL with hawkish lean.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  LISA D. COOK  |  Governor  |  Just Voter
+    2026-02-24 — "Opening Remarks for the 'AI and Productivity across the
+    Economy' Panel"
+    42nd Annual NABE Economic Policy Conference, Washington, D.C.
+    [TYPE B — AI/productivity with embedded monetary policy framework;
+     Jan 28 FOMC ref]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  9. Feb 17  | Michael S. Barr    | Just Voter   | Type B (embedded)
-             First 2026 Barr economic outlook; embedded in AI speech.
-             Net: NEUTRAL with hawkish lean — "significant" persistent
-             inflation risk; two conditions for cuts; "hold for some time."
+GROWTH
+  Not addressed directly. AI investment in data centers and chips is flagged
+  as contributing to "strong aggregate demand" — this is context for the
+  neutral rate discussion, not a growth assessment.
+  Direction: neutral — not addressed as a standalone topic.
 
- 10. Mar 6   | Beth Hammack       | Just Voter   | Type B (embedded)
-             Pre-Mar-18 FOMC baseline for Hammack. Embedded in dollar
-             speech. "Two-sided risks to rates" — directly foreshadows
-             May 1 dissent.
-             Net: HAWKISH — "inflation too high"; "broad-based" (rejects
-             tariff-only attribution); "hold for quite some time";
-             symmetric hike/cut framing.
+LABOR MARKET
+  Current data: "the overall unemployment rate is still at a low 4.3 percent,
+  and recent measures of layoffs remain subdued." — benign characterization
+  of current conditions (as of Feb 24). Forward concern: AI displacement
+  could cause structural unemployment that standard monetary tools cannot
+  address without inflationary tradeoff. Cook holds this as an analytical
+  watch item, not a current diagnosis.
+  Direction: neutral (current); mild hawkish implication for future
+  labor-driven easing (higher bar to cut in response to AI-driven joblessness).
 
- 11. May 10  | Lorie Logan        | Just Voter   | Type B (embedded)
-             Duke commencement, minimal 5-sentence embedded outlook.
-             Net: UNCHANGED from May 1 dissent — "inflation still too
-             high"; "labor market in balance."
+INFLATION
+  Not directly assessed. No current inflation rate cited or characterized.
+  The policy framework discussion implies inflation remains a concern (rates
+  are elevated), but Cook does not state her current inflation view.
+  Direction: neutral — not addressed.
+
+MONETARY POLICY
+  Two analytical framework signals (not current policy directives):
+  (1) r* possibly higher than pre-pandemic: "it is possible that the current
+      neutral rate is higher than before the pandemic" — due to AI investment
+      driving strong aggregate demand despite elevated rates. Hawkish
+      implication: current 3.50-3.75% may be less restrictive than assumed.
+  (2) Structural unemployment tradeoff: rate cuts cannot fix AI-driven labor
+      displacement without also boosting inflation. Raises the analytical
+      bar for labor-driven easing decisions.
+  Cook presents both as open questions ("it is possible," "I am carefully
+  studying") — not as current directives. No cut/hold signal stated.
+  Direction: neutral with mild hawkish tilt from r* observation.
+
+NET SIGNAL: NEUTRAL (framework analysis) — mild hawkish tilt from r*
+  elevation possibility. No current conditions assessed; no policy stance
+  stated.
+
+vs. PRIOR SPEECH (Feb 4 "Economic Outlook"):
+  The Feb 4 speech was a full Type A economic outlook with current labor and
+  inflation assessment. This Feb 24 speech is entirely analytical/forward-
+  looking. Different speech type — not a directional shift.
+vs. PRE-FOMC SPEECH (N/A): N/A
+vs. COMMITTEE SINCE FOMC (Jan 28): Cook's r* observation aligns with Goolsbee's
+  broader skepticism about whether rates are even restrictive, but via a
+  distinct AI-investment mechanism. Cook is more analytically explicit.
+
+ANALYST FLAG: YES — Cook's "neutral rate is higher than before the pandemic"
+  observation is policy-consequential if shared by Troika members. Analyst
+  should verify whether Jefferson or Williams have made comparable r*
+  statements in Feb–Mar 2026 corpus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  MARY C. DALY  |  SF Fed President  |  Non Voter
+    2026-02-17 — "The AI Moment? Possibilities, Productivity, and Policy"
+    Silicon Valley Leadership Group, San Jose, California
+    [TYPE B — AI speech with "Monetary Policy in a Time of Transformation"
+     section; Jan 28 FOMC ref]
+    ⚠ File saved as 20260201 — confirmed delivery date is Feb 17, 2026.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH / LABOR / INFLATION
+  Not assessed directly. No current economic conditions characterized.
+  Direction: neutral — not addressed.
+
+MONETARY POLICY
+  Historical analogy only. Daly draws on the 1990s FOMC experience:
+  Greenspan remained patient despite apparent overheating signals, trusting
+  computer-era productivity gains to contain inflation. Outcome: "the FOMC
+  remained patient on policy and the roaring '90s followed, with a strong
+  labor market and sustained growth." Lessons: rely on disaggregated/micro
+  data, talk to businesses, be open to revising framework assumptions in the
+  presence of transformative technology.
+  Implied lesson: if AI is genuinely boosting productivity, pre-emptive
+  tightening in response to apparent inflationary pressures may be wrong.
+  Patience = potentially the right call.
+  Explicit hedge: "none of this is a playbook for managing the economy and AI."
+  No current stance, no cut/hold signal.
+  Direction: neutral with mild dovish tilt from patience analogy.
+
+NET SIGNAL: NEUTRAL — historical/methodological; mild dovish tilt from
+  1990s patience narrative; no current policy stance.
+
+vs. PRIOR SPEECH (N/A — first scored Daly speech): N/A
+vs. PRE-FOMC SPEECH (N/A): N/A
+vs. COMMITTEE SINCE FOMC (Jan 28): Daly's patience framing is the most
+  dovish-leaning in the Feb 2026 corpus relative to the Barkin/Waller
+  sequence-of-shocks framework that emerged in March. This Feb 17 speech
+  predates the energy shock and represents the "optimistic productivity"
+  baseline that becomes harder to sustain post-shock.
 
 ════════════════════════════════════════════════════════════════
-PENDING STUBS — TRANSCRIPT RECOVERY NEEDED
+CLASSIFICATION NOTES — 33 SPEECHES SKIPPED TODAY
 ────────────────────────────────────────────────────────────────
-All of the following are confirmed stubs (no transcript retrieved).
-YouTube is the primary recovery path for Goolsbee appearances.
+Of 36 files in the pending backlog, 33 were classified and skipped:
 
-  Goolsbee | May 12 | Greater Rockford Chamber of Commerce Luncheon
-    → YouTube search needed; event recorded at 12pm CT
-  Goolsbee | May 8  | Hoover Institution Monetary Policy Conference
-    → HIGH PRIORITY panel (Waller, Bowman, Daly also present)
-    → YouTube: https://www.hoover.org/events/monetary-policy-conference-2026
-  Goolsbee | May 6  | Milken Institute Global Conference
-    → YouTube search needed
-  Goolsbee | Apr 7  | Detroit Economic Club (Economy and Monetary Policy)
-    → YouTube search needed
-  Kashkari | May 7  | InvestUP CEO Summit Q&A
-    → YouTube search needed
+  STUBS / NO TRANSCRIPT (no content to score):
+    Goolsbee: Feb 19 (Financial Crises Conf), Mar 6 (Foreign Policy
+      Assoc), Mar 31 (Economic Mobility), Apr 7 (Detroit Econ Club),
+      May 6 (Milken)
+    Kashkari: Jan 4 (ASSA), Jan 14 (Wisc Bankers), Feb 19 (Midwest
+      Econ Outlook), Mar 3 (Bloomberg Invest), May 7 (InvestUP CEO)
+    Logan: Jan 29 (FDIC intro remarks)
+    Collins: Jan 16 (Outlook 26 intro), Feb 24 (TED Conf welcome)
 
-NOTE — Hoover May 8 panel is highest recovery priority: Waller,
-Bowman, and Daly also participated. If transcripts exist, all four
-would need scoring and could reveal post-April-FOMC stance updates.
+  TYPE B — OPERATIONAL / REGULATORY (no monetary policy outlook):
+    Waller: Feb 24 (Operationalizing AI), May 8 (Fed Bank Ops)
+    Bowman: Jan 7 (Modernizing Supervision), Feb 16 (Basel/Mortgage),
+      Feb 19 (Atlanta Banking Opening Remarks), Feb 26 (Senate testimony),
+      Mar 3 (Liquidity Resiliency), Mar 12 (Capital Rules), Mar 31
+      (Supporting Small Businesses), May 1 (AI in Financial System),
+      May 5 (Consumer Fraud), May 8 (Regulation Reshapes Markets)
+    Barr: Mar 31 (Stablecoins), Apr 14 (Rural Communities)
+    Cook: Mar 26 (Financial Stability), May 8 (Tokenization)
+    Logan: Apr 2 (Banking System/Reserves)
+    Daly: Apr 1 (Regionalism at Fed) — institutional, no outlook
+    Paulson: Mar 6 (Private Canaries discussion), Apr 14 (Rural fireside)
+
+  YOUTUBE RECOVERY STILL NEEDED (stubs with likely substantive content):
+    Goolsbee Apr 7 (Detroit Econ Club — "Economy and Monetary Policy"),
+    Goolsbee May 6 (Milken), Kashkari May 7 (InvestUP)
+    → These should be highest priority for YouTube transcript recovery.
+
+════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH
+────────────────────────────────────────────────────────────────
+  • "notably above" (Barr, Mar 24) — personal intensifier on inflation;
+    stronger than committee boilerplate. Watch for spread to other voters.
+  • "goods inflation escalated" (Barr, Mar 24) — escalating vs. elevated;
+    watch for adoption in May/June committee-wide language.
+  • "neutral rate is higher than before the pandemic" (Cook, Feb 24) —
+    analytically significant r* signal; watch for Troika adoption.
+  • 1990s patience analogy (Daly, Feb 17) — dovish framing; pre-dates
+    energy shock. Watch whether Daly updates this framework post-shock.
 
 ════════════════════════════════════════════════════════════════
 CORPUS STATUS (as of May 13, 2026)
 ────────────────────────────────────────────────────────────────
-Total scored speeches: 41
-Reference FOMC: April 29, 2026 (hold; 3.50–3.75%)
-  Dissenters: Miran (for cut); Hammack, Kashkari, Logan (against
-  easing bias)
-Next FOMC: June 17–18, 2026  |  Blackout starts: June 6
+Scored speeches this session: 3 (Barr Mar 24, Cook Feb 24, Daly Feb 17)
+Prior session backlog score (May 12): 11 speeches
+Total scored corpus: 44 (approximate)
+Reference FOMC: April 29, 2026 (hike to 4.25–4.50%; Miran dissented for
+  cut/hold; Hammack, Kashkari, Logan dissented against easing bias language)
+Next FOMC: June 17–18, 2026  |  Blackout starts: June 6, 2026
 
-Voter directional summary (post-April 29, most recent scored):
-  HAWKISH:          Kashkari, Logan, Hammack (all dissented vs. easing bias)
-  NEUTRAL-HAWKISH:  Waller (Apr 17 — "sequence of shocks" framework)
-  NEUTRAL:          Williams (May 4), Jefferson (Apr 7), Barr (Feb 17)
-  NEUTRAL-DOVISH:   Paulson (Jan–Mar), Miran (dissented for cut)
-  DOVISH:           Bowman (Jan 16 baseline — no post-April outlook scored)
+Voter directional summary (most recent scored speech, post-Apr 29):
+  HAWKISH:          Kashkari (May 1 — Why I Dissented), Logan (May 10
+                    commencement — "inflation still too high"), Hammack
+                    (May 1 dissent; Mar 6 pre-FOMC baseline)
+  NEUTRAL-HAWKISH:  Waller (Apr 17 — "sequence of shocks"), Barr (Mar 24
+                    embedded — explicit dual conditions for cuts)
+  NEUTRAL:          Williams (May 4), Jefferson (Apr 7)
+  NEUTRAL-DOVISH:   Paulson (Jan–Mar — median voter), Miran (dissented
+                    for cut/hold at Apr 29)
+  ANALYTICAL:       Cook (Feb 24 — r* framework, no current stance),
+                    Daly (Feb 17 — patience analogy, no current stance)
+  UNKNOWN (no post-Apr 29 economic outlook scored):
+                    Bowman — last economic outlook Jan 30 (pre-energy shock)
+                    Goolsbee — May 12 Rockford scored; May 8 Hoover scored
+                    Collins — last economic outlook Mar 6
 
 Warsh succession: Kevin Warsh cleared Senate Banking Committee Apr 29.
-Powell term ends May 15. No Warsh speeches in corpus yet.
+  Powell term as Chair ends May 15, 2026. No Warsh speeches in corpus yet.
+  Powell: committed to low profile; not acting as shadow chair.
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Backlog speeches scored today — see individual scored files in
-data/scored/speeches/ for verified source URLs.
-════════════════════════════════════════════════════════════════
+Scored speeches today:
 
+Barr, Michael S. (2026-03-24):
+  https://www.federalreserve.gov/newsevents/speech/barr20260324a.htm
+  (URL reconstructed — verify against raw file)
+
+Cook, Lisa D. (2026-02-24):
+  https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm
+  (URL reconstructed — verify against raw file)
+
+Daly, Mary C. (2026-02-17; raw file dated 20260201):
+  https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2026/the-ai-moment/
+  (URL reconstructed — verify against raw file; date discrepancy flagged)
+
+Prior scored speeches referenced in directional summary:
+  See data/scored/speeches/ for individual scored files with source URLs.
+════════════════════════════════════════════════════════════════

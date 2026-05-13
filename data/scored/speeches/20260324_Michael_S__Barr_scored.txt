@@ -1,0 +1,159 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-24 | Michael S. Barr | Governor | Just Voter
+"Developing Communities through Public-private Partnerships"
+2026 National Community Investment Conference, Phoenix, Arizona
+SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260324a.htm
+  (URL reconstructed from standard Board pattern — not verified in raw file)
+
+CLASSIFICATION: Type B — Community development / CRA speech.
+Contains ONE embedded monetary policy paragraph (5 sentences)
+immediately following the FOMC March 18 meeting reference.
+Scored for the embedded section only.
+
+Reference FOMC:    March 18, 2026 (hold; 3.50–3.75% — second consecutive hold)
+Pre-FOMC baseline: N/A — no prior Barr economic outlook scored before March 18
+Post-FOMC prior:   N/A — first post-March-18 Barr speech in corpus
+                   [NOTE: Barr's March 26 "Brief Remarks on Economic Outlook"
+                    (Brookings) was scored separately and is the NEXT speech]
+──────────────────────────────────────────────────────────
+
+EMBEDDED ECONOMIC OUTLOOK (near-verbatim from speech, para 14)
+──────────────────────────────────────────────────────────
+"As you may know, the FOMC decided to hold its policy rate steady for a
+ second consecutive meeting. I supported this decision, and it is my view
+ that we may need to keep rates steady for some time as we assess economic
+ conditions. After cooling last year, the labor market appears to be
+ stabilizing with low levels of job creation, and also low levels of people
+ entering our workforce. We continue to contend with inflation notably above
+ the FOMC's 2 percent goal. Goods inflation escalated over the last year, and
+ non-housing services inflation has remained elevated. While I am hopeful
+ that inflation will fall as the effects of tariffs on prices wane later this
+ year, I would like to see evidence that goods and services price inflation is
+ sustainably retreating before considering reducing the policy rate further,
+ provided labor market conditions remain stable. Moreover, the conflict in the
+ Middle East raises additional risks. Higher oil prices tend to pass through
+ pretty quickly to gasoline prices, and higher gasoline prices can be
+ particularly painful for low- and moderate-income families."
+
+──────────────────────────────────────────────────────────
+GROWTH
+──────────────────────────────────────────────────────────
+Not addressed directly. Embedded section focuses on labor and inflation.
+No characterization of GDP, consumer spending, or investment activity.
+
+Direction: neutral — not addressed.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has been
+   little changed in recent months." [Mar 18 stmt]
+  → Barr: "the labor market appears to be stabilizing with low levels
+    of job creation"
+
+Own verdict:
+  "After cooling last year, the labor market appears to be stabilizing"
+  → "Stabilizing" — neutral framing. Not deteriorating further but not
+    recovering. Consistent with committee-wide "low hire, low fire" view.
+
+Own addition:
+  "low levels of people entering our workforce"
+  → Workforce participation concern. Soft labor supply framing. This is a
+    slight dovish addition — if workers aren't entering, the headline rate
+    may not reflect true labor market health.
+
+Shift vs. prior speech:   N/A — first scored Barr speech.
+Shift vs. pre-FOMC:       N/A — no pre-FOMC baseline.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated" [Mar 18 stmt — paraphrased from context]
+  → Barr: "We continue to contend with inflation notably above the
+    FOMC's 2 percent goal."
+
+Own language — KEY:
+  "notably above" — stronger than the committee's standard "elevated."
+  Personal intensifier. HAWKISH addition relative to statement language.
+
+  "Goods inflation escalated over the last year, and non-housing services
+   inflation has remained elevated." — Two-component characterization. Both
+   goods (escalating, not just elevated) and services (still elevated) remain
+   problematic. No "progress" framing.
+
+  "While I am hopeful that inflation will fall as the effects of tariffs on
+   prices wane later this year..." — "Hopeful" is notably tentative. Barr
+   expects tariff pass-through to fade but holds this view with uncertainty.
+   This is pre-energy-shock language — the Middle East conflict is referenced
+   immediately after as an upside risk that could undermine this hope.
+
+  "the conflict in the Middle East raises additional risks. Higher oil prices
+   tend to pass through pretty quickly to gasoline prices" — Energy upside
+   risk explicitly flagged. Distributed impact framing ("particularly painful
+   for low- and moderate-income families") echoes his community development
+   lens but serves as a hawkish risk flag for policy purposes.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  [Statement language re: patience / data-dependent path]
+  → Barr: "I supported this decision" [March 18 hold] — confirming
+    committee consensus. No dissent.
+
+Own language — KEY:
+  "it is my view that we may need to keep rates steady for some time
+   as we assess economic conditions"
+  → Explicit hold signal. "May need" = probabilistic framing, not a
+    firm commitment to an extended pause, but the lean is clear.
+
+  "I would like to see evidence that goods and services price inflation
+   is sustainably retreating before considering reducing the policy rate
+   further, provided labor market conditions remain stable."
+  → EXPLICIT CUT CONDITIONS (both required):
+      (1) Sustained retreat in goods AND services inflation
+      (2) Stable labor market conditions
+   "Sustainably retreating" is a high bar — not just month-over-month
+   improvement but a durable trend. "Provided labor market conditions
+   remain stable" adds a floor: if labor deteriorates significantly, the
+   equation changes.
+
+  Cut signal status: ABSENT — no signal of near-term cuts. Conditions
+    set are high and both conditions must be met simultaneously.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+               Barr's embedded paragraph is compact but substantively
+               hawkish: "notably above" inflation framing, two explicit
+               cut conditions, patient hold stance, and early Middle East
+               energy risk flag. This is the earliest explicit energy-shock
+               risk recognition in the 2026 corpus (March 24 — before the
+               conflict's effects became central to committee discussions).
+               His tariff look-through is conditional ("hopeful"), not
+               committed.
+
+Language watch:
+  • "notably above the FOMC's 2 percent goal" — stronger than committee
+    boilerplate "elevated"; watch for adoption by other voters.
+  • "goods inflation escalated" — escalating language (not just elevated)
+    is new for the 2026 corpus at this date.
+  • "conflict in the Middle East raises additional risks" — first voter-
+    level explicit energy/geopolitical risk flag at this date; this language
+    cycle is now committee-wide by April 29.
+
+Analyst flag:  NO
+  → Brief embedded section; fully consistent with March 26 Brookings
+    speech (next scored Barr speech). No analytical ambiguity.
+══════════════════════════════════════════════════════════

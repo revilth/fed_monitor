@@ -1,0 +1,123 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-17 | Mary C. Daly | SF Fed President | Non Voter
+"The AI Moment? Possibilities, Productivity, and Policy"
+Silicon Valley Leadership Group, San Jose, California
+SOURCE: https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2026/the-ai-moment/
+  (URL reconstructed — not verified in raw file; file saved as 20260201 but
+   speech date confirmed as February 17, 2026 from header)
+
+⚠ FILE DATE DISCREPANCY: Raw file saved as 20260201_Mary_Daly.txt but
+  speech header confirms delivery date as Tuesday, February 17, 2026.
+  Scored as February 17. Scored output file named 20260201 to match raw
+  file for system consistency.
+
+CLASSIFICATION: Type B — AI/technology speech with an explicit "Monetary
+Policy in a Time of Transformation" section. The monetary policy section
+draws on 1990s precedent (Greenspan's patient response to computer-era
+productivity gains) to frame analytical lessons for today. Cook does not
+state a current policy stance, current conditions assessment (labor market,
+inflation), or specific cut/hold/hike views. Scored for the historical-
+analogy policy section only.
+
+Reference FOMC:    January 28, 2026 (hold; 3.50–3.75%)
+Pre-FOMC baseline: N/A — no prior Daly economic outlook scored before Jan 28
+                   (prior scored speech in corpus is May 8, 2026 — much later)
+Post-FOMC prior:   N/A — first Daly speech scored in 2026 corpus
+──────────────────────────────────────────────────────────
+
+CURRENT ECONOMIC CONDITIONS — NOT ADDRESSED
+──────────────────────────────────────────────────────────
+Daly does not characterize current labor market conditions, current inflation,
+or current monetary policy stance. The speech is entirely structured around
+the historical analogy and forward-looking AI implications. Current data is
+absent from the policy section.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY SECTION — HISTORICAL ANALOGY
+──────────────────────────────────────────────────────────
+Daly structures her monetary policy argument entirely as a historical parallel
+between the 1990s computer revolution (Greenspan era) and today's AI moment.
+This is a methodological/analytical speech, not a current stance speech.
+
+Core historical precedent:
+  "At the same time, FOMC policymakers were concerned about elevated
+   inflation and a tightening labor market. Standard macro models and
+   monetary policy thinking suggested interest rates should rise to ward
+   off overheating in the labor market and a more significant run-up in
+   inflation. Then-Chair Greenspan offered a different view... posited that
+   the burgeoning computer revolution would spur sustained productivity
+   growth, allowing the economy to grow faster without putting upward
+   pressure on prices. In this scenario, the economy would not need to be
+   bridled, and interest rates would not need to increase."
+  → The historical narrative: Greenspan's productivity-optimism justified
+    patient/dovish policy despite apparent overheating signals. He was right.
+
+Key outcome statement:
+  "In the end, the FOMC remained patient on policy and the roaring '90s
+   followed, with a strong labor market and sustained growth."
+  → Patience = good outcome. This is the implicit lesson Daly is drawing.
+
+Lessons extracted:
+  1. "we won't find all the answers in the aggregate data on productivity,
+     the labor market, or inflation. Seeing developments before they fully
+     emerge requires digging deeper, relying on disaggregated information
+     that foreshadows transformation."
+  2. "There is no matrix that tells us exactly what data to follow at any
+     moment in time. Greenspan's innovation wasn't looking at more data; it
+     was looking at the right data."
+  3. "Talking to businesses matters. Businesses invest, experiment, and learn
+     long before we see it in aggregate productivity data."
+
+Policy implication (implicit):
+  → If AI is genuinely boosting productivity (as computers did in the 1990s),
+    then apparent inflationary or labor-tightening signals may overstate the
+    need for restrictive policy. The 1990s lesson is: be open to being wrong
+    about the inflation/growth tradeoff in the presence of a transformative
+    technology. Patience was rewarded.
+
+Explicit disclaimer:
+  "none of this is a playbook for managing the economy and AI, but it is a
+   foundation."
+  → Daly explicitly hedges: the 1990s analogy is not a prescription.
+
+Direction: NEUTRAL with mild dovish tilt from historical analogy.
+  The 1990s precedent implies openness to patient/accommodative policy when
+  productivity transformation is underway. But Daly explicitly says this is
+  not a playbook — the speech offers no current policy direction.
+
+Shift vs. prior speech:   N/A — first scored Daly speech.
+Shift vs. pre-FOMC:       N/A — no pre-FOMC baseline.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL (historical/methodological; mild dovish tilt from
+               1990s analogy of productive patience)
+               Daly's speech is the most analytically indirect of the
+               February 2026 corpus. She offers no current conditions
+               assessment, no explicit cut/hold stance, and no near-term
+               signal. The implied lesson — that transformative technologies
+               can justify patience even against inflationary optics — leans
+               dovish, but Daly herself hedges it as "not a playbook."
+               The February 17 date predates the energy shock and tariff
+               escalation that defined the March-April policy environment;
+               in that context, this speech reflects a more optimistic
+               productivity-vs-inflation framing that would be harder to
+               maintain post-shock.
+
+Language watch:
+  • Greenspan 1990s patience analogy — if Daly deploys this more explicitly
+    in future speeches (with current conditions reference), it would be a
+    dovish signal. In this form, it is background framing.
+  • "monetary policy is a forward-looking business... open-minded to what's
+    possible" — Daly's methodological disposition; watch for whether she
+    emphasizes this forward-looking flexibility when the committee faces
+    stagflationary tradeoffs post-energy shock.
+
+Analyst flag:  NO
+  → No current policy stance; historical framing only. Cannot score
+    direction vs. prior speech (first scored entry). Low analytical priority
+    relative to post-March-18 and post-April-29 speeches.
+══════════════════════════════════════════════════════════
