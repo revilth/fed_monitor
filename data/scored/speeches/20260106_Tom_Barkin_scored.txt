@@ -1,0 +1,138 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-06 | Tom Barkin | Richmond Fed President | Non Voter
+"Tuning In: 2026 Outlook"
+Raleigh Chamber of Commerce, Raleigh, NC
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260106
+
+CLASSIFICATION: Type A — Full Economic Outlook. Three-section structure
+framed through musical metaphor but covering growth composition,
+labor trends, inflation persistence, and policy implications.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: [This IS a pre-FOMC baseline reference for Jan 28, 2026 FOMC]
+Post-FOMC prior:   N/A — first scored 2026 Barkin speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "economic activity has continued to expand at a solid pace"
+  → Barkin: "U.S. economy has proven remarkably resilient";
+    Q3 GDP 4.3%. Consistent with statement framing.
+
+Own language:
+  "Demand is narrow. The two engines of today's economy are the
+   AI ecosystem and wealthy consumers." — COMPOSITIONAL WARNING:
+   Barkin is the first in the 2026 corpus to explicitly flag demand
+   narrowness as a tail risk. This goes beyond the committee's
+   statement language.
+  "What would happen if the AI frenzy were to ease? It has been
+   supporting virtually all of the growth in business investment."
+   — Single-sector dependency risk named explicitly.
+  Optimistic counterweight: "A lot of stimulus is set to come into
+   the economy... fiscal stimulus from the recent tax bill... gasoline
+   prices are down... deregulatory initiatives... rate cuts."
+   — Lists six tailwinds. Balanced framing.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "labor market conditions have continued to cool"
+  → Barkin echoes via data: unemployment 4.6%, job growth narrow.
+
+Own verdict:
+  "Job growth seems narrow as well. Through November, the economy
+   added an average of 70,000 private sector jobs per month in 2025.
+   But health care and social assistance alone comprised 63,000
+   of those." — 90% of job growth in one sector. Most concentrated
+   characterization of labor in early 2026 Troika/voter speeches.
+  "Not hiring but not firing; Not cutting back on investments but
+   not leaning into more growth." — Uncertainty-driven stasis.
+   Vivid on-the-ground description of business behavior.
+
+Own qualifier / addition:
+  "Both sides of our mandate bear watching. Unemployment remains
+   low on a historic basis but has ticked up." — Balanced dual-mandate
+   framing. Does NOT express elevated downside risk (contrast with
+   Jefferson: "downside risks to employment have risen").
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "inflation has eased... but remains somewhat elevated"
+  → Barkin: "inflation has come down but remains above target."
+  → Minimal echo; he focuses more on the personal addition below.
+
+Own language — KEY:
+  "No one wants higher inflation expectations to get embedded."
+  — Duration concern expressed indirectly through the negative
+    framing ("no one wants"). Hawkish lean.
+  "Inflation above target now for almost five years." — Duration
+   framing. Same "five years" language that Logan will use in her
+   May 1 dissent statement, months before her. Barkin introduces
+   this duration argument in January. [Analyst note: watch whether
+   this specific duration framing spreads.]
+  Core PCE at 2.8% — cited without characterizing it as near-target.
+  Consumers "have pushed back" on price increases: "trading down to
+   lower-priced retailers and private labels." — Businesses facing
+   demand-side pushback; inflationary pass-through is muted by
+   consumer resistance. Slightly dovish on future inflation.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "The FOMC cut rates further in the fall and to a level now within
+   the range of its estimates of neutral." — "Within the range of
+   neutral" — similar to Williams/Jefferson but uses "range" to
+   capture committee-wide uncertainty about the neutral rate level.
+  "Going forward, policy will require finely tuned judgments
+   balancing progress on each side of our mandate." — Data-dependent,
+   no directional lean.
+  "For the last three months, we've been operating without data or
+   with low-quality data." — Explicitly flags information constraint;
+   explains caution rather than lean.
+
+Cut signal status: ABSENT — no forward guidance on cuts.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL with hawkish lean — The "almost five years
+               above target" duration framing and demand-narrowness
+               compositional warning tilt Barkin slightly hawkish
+               relative to the committee's baseline. He offers more
+               risk texture than the Troika speeches (Williams/
+               Jefferson) but reaches the same "at/near neutral,
+               data-dependent" policy conclusion.
+
+Language watch:
+  • "Almost five years above target" — duration framing; first use
+    in 2026 corpus; later appears in Logan's May 1 dissent statement.
+    If this spreads to the Troika, it raises the bar for cuts.
+  • "Demand is narrow" — compositional risk language; more specific
+    than committee statement language. Barkin uses this regularly —
+    track whether it spreads to voters.
+  • "Within the range of neutral" — Barkin's rate characterization
+    is more explicitly uncertain than Jefferson's "at neutral";
+    he preserves optionality in both directions.
+
+Analyst flag:  NO — Non-voter; flags worth tracking but no immediate
+  action. Note the early appearance of the duration framing.
+══════════════════════════════════════════════════════════

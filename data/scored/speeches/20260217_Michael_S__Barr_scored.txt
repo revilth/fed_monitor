@@ -1,0 +1,124 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-17 | Michael S. Barr | Fed Governor | Just Voter
+"What Will Artificial Intelligence Mean for the Labor Market and the Economy?"
+New York Association for Business Economics, New York, NY
+SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260217a.htm
+
+CLASSIFICATION: Type B — AI and labor market speech with EMBEDDED
+economic outlook section at the opening (3 paragraphs, lines 6-11).
+Scored for the embedded section only.
+
+Reference FOMC:    January 28–29, 2026 (hold; 3.50–3.75%)
+Pre-FOMC baseline: [No prior 2026 Barr economic outlook scored;
+  prior scored Barr speech is 20260326_Michael_S__Barr_scored.txt
+  (later in time); this IS Barr's first 2026 economic outlook]
+Post-FOMC prior:   N/A — first scored 2026 Barr economic outlook
+──────────────────────────────────────────────────────────
+
+EMBEDDED ECONOMIC OUTLOOK (opening section)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "While the labor market slowed through last summer, it is now
+   stabilizing. This stabilization is occurring with an unemployment
+   rate that is broadly consistent with what many estimate is its
+   long-run level, when the economy is in balance." — Neutral and
+   constructive: stabilizing at or near maximum employment level.
+  "Job creation has been near zero over the course of last year,
+   as has labor force growth." — Acknowledges near-zero net job
+   creation, similar to Waller's Jan 30 characterization, but
+   frames it as matched by supply deceleration (neutral net effect).
+  "Very low levels of job creation and also a low firing rate...
+   a tentative balance in labor supply and demand. But it is a
+   delicate balance, and that means that the labor market could be
+   especially vulnerable to negative shocks." — DOVISH QUALIFIER:
+   "delicate balance," "especially vulnerable." More concerned than
+   Williams/Jefferson but less alarmed than Bowman/Waller.
+
+Direction: NEUTRAL with dovish lean — stabilizing but vulnerable.
+
+Shift vs. pre-FOMC: [N/A — no prior 2026 scored Barr speech]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "PCE remains elevated at 3 percent, about where it was a year
+   ago. Disinflation... slowed last year, as goods price inflation
+   picked up, in large part due to tariffs." — Acknowledges stalled
+   disinflation since 2024.
+  "That pattern appeared to continue in the inflation data released
+   last week." — Recent data confirms continued stall.
+  "I see the risk of persistent inflation above our 2 percent target
+   as significant, which means we need to remain vigilant." —
+   HAWKISH QUALIFIER: "significant" risk of persistence. This is
+   more hawkish than Barr's Mar 26 speech and substantially more
+   hawkish than his Jan 2026 characterization as implied by his
+   vote (he voted with the majority to hold). Contrast with
+   Paulson/Bowman's "cautious optimism" on inflation.
+  "It is reasonable to forecast that tariff effects on inflation
+   will begin to abate later this year, but there are many reasons
+   to be concerned that inflation will remain elevated." — Forward-
+   looking but with explicit uncertainty flagged. Not a clean
+   look-through endorsement.
+
+Direction: NEUTRAL-to-HAWKISH — acknowledges stalled disinflation
+  and flags persistent inflation risk as "significant."
+
+Shift vs. pre-FOMC: [N/A]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "The prudent course for monetary policy right now is to take
+   the time necessary to assess conditions as they evolve." —
+   Data-dependent patience; no cut signal.
+  "I would like to see evidence that goods price inflation is
+   sustainably retreating before considering reducing the policy
+   rate further, provided labor market conditions remain stable." —
+   CONDITIONAL HOLD: two explicit conditions for a cut: (1) goods
+   inflation sustainably retreating AND (2) labor stable. This is
+   more conditional than the committee's standard "data-dependent"
+   language.
+  "Based on current conditions and the data in hand, it will likely
+   be appropriate to hold rates steady for some time as we assess
+   incoming data, the evolving outlook, and the balance of risks." —
+   Extended hold bias; "for some time" is more explicit than the
+   committee's open-ended language.
+
+Cut signal status: ABSENT — explicit hold bias with two conditions
+  required before considering cuts.
+
+Direction: NEUTRAL-to-HAWKISH — hold for some time; two conditions
+  required for cuts; "significant" inflation risk.
+
+Shift vs. pre-FOMC: [N/A]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL with hawkish lean — Barr's Feb 17 embedded
+               outlook is meaningfully more hawkish than Bowman's
+               or Paulson's January speeches. His "significant" risk
+               of persistent inflation, two conditions for cuts, and
+               "hold for some time" language places him in the
+               neutral-to-hawkish bloc, consistent with his
+               subsequent Mar 26 scored speech.
+
+Language watch:
+  • "Risk of persistent inflation above 2%... significant" —
+    Barr's inflation concern is more explicit than Bowman or Paulson.
+    This framing moves toward what Logan/Hammack/Waller adopt
+    post-Iran conflict.
+  • "Two conditions before considering cuts" — goods inflation
+    retreating AND labor stable. This is a more conditional
+    threshold than the committee's statement language.
+
+Analyst flag:  NO — consistent with the hold position the committee
+  maintained in January 2026.
+══════════════════════════════════════════════════════════

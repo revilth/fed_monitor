@@ -1,0 +1,151 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-03 | Tom Barkin | Richmond Fed President | Non Voter
+"U.S. Economy: The Road Ahead"
+SC First Steps, Pastides Alumni Center, Columbia, SC
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260203
+
+CLASSIFICATION: Type A — Full Economic Outlook. Post-Jan-FOMC speech.
+Growth / labor / inflation / policy, framed through road/fog metaphor.
+
+Reference FOMC:    January 28–29, 2026 (hold; 3.50–3.75%)
+Pre-FOMC baseline: January 6, 2026  "Tuning In: 2026 Outlook" (scored)
+Post-FOMC prior:   N/A — first post-Jan-FOMC Barkin speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Jan 2026: "economic activity has continued to expand at a solid pace"
+  → Barkin: "economy that remains remarkably resilient"; Q3 GDP 4.4%,
+    consumer spending healthy. Consistent with statement.
+
+Own language:
+  "It feels like the fog is starting to lift — or perhaps our eyes
+   are just starting to adjust." — Cautious optimism on clarity;
+   doesn't claim the fog has cleared, only that visibility has
+   improved marginally.
+  "The strength in demand seems focused in two places: the AI
+   ecosystem and those serving wealthy customers." — Demand
+   narrowness warning; same as Jan 6 speech, not escalated.
+  "Easing in the AI space could hit business investment and the
+   stock market, which in turn could hit consumption by the
+   wealthy should their net worth decline." — Contagion path
+   named explicitly: AI → stock market → wealthy consumption → GDP.
+
+Direction: NEUTRAL with downside tail risk — resilience affirmed
+  but narrowness risk named.
+
+Shift vs. pre-FOMC (Jan 6): UNCHANGED — demand narrowness framing
+  identical; fog metaphor updated from "dense" to "lifting."
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "Ninety-seven percent of net private sector job creation in 2025
+   was in health care and social assistance." — Elevated from Jan 6's
+   "90 percent" — 97% is a more alarming level of concentration.
+   DATA UPDATE: This uses the full-year 2025 figure vs. the
+   through-November figure at Jan 6.
+  "Slow job growth is not a comfortable place to be." — Concern
+   without alarm.
+  "Low hiring hasn't been translating into rising unemployment
+   because the growth in labor supply has shrunk at the same pace." —
+   Demographic explanation for unemployment stability; demand and
+   supply declining together.
+
+Own qualifier / addition:
+  Labor supply as a STRUCTURAL concern: "Our labor supply is one
+  of my top concerns. Lower net migration means we will depend
+  more on native-born workers... fertility rate is declining." —
+  Long-term workforce concern; goes beyond the monetary policy
+  horizon.
+
+Direction: NEUTRAL-to-DOVISH — concentration concern deepened
+  (97% vs. 90%); structural labor supply added as new concern.
+
+Shift vs. pre-FOMC (Jan 6):
+  Hawkish lean — job concentration more extreme in full-year
+  data; adds structural labor supply as a new concern.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "PCE inflation has come back down from its peak and now sits
+   at 2.8 percent." — Data citation.
+  "While we've made a lot of progress on inflation, it still
+   remains above our target. That's been the case since 2021."
+   → DURATION FRAMING: "since 2021" — same argument as Jan 6
+   ("almost five years") but now expressed as a calendar date.
+   "It would be easy to blame the one-time effect of tariffs or
+   measurement lags in shelter costs, but I take this sustained
+   miss seriously." — HAWKISH: explicitly REJECTS the
+   look-through / one-off framing used by Williams, Jefferson,
+   Paulson, and Bowman. Barkin treats sustained above-target as
+   meaningful regardless of attributed cause.
+  "Today's inflation numbers, regardless of the 'why,' significantly
+   influence tomorrow's inflation." — Behavioral credibility
+   argument: actual price behavior matters for expectations,
+   not just the analytic explanation.
+
+Direction: HAWKISH lean — rejects look-through framing; duration
+  framing strengthened.
+
+Shift vs. pre-FOMC (Jan 6):
+  Hawkish — Jan 6 used "almost five years above target" as
+  context; Feb 3 explicitly rejects the tariff look-through
+  attribution ("easy to blame... but I take this seriously").
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "We raised rates three years ago to bring inflation under
+   control. As the inflation rate has fallen, we have been
+   bringing rates back down toward neutral levels."
+  "I think of these cuts as having taken out some insurance to
+   support the labor market as we work to complete the last mile
+   to bring inflation back to target." — INSURANCE FRAMING:
+   cuts are a precaution, not an easing cycle. The primary task
+   is still completing the inflation return to 2%.
+  "So far, so good. But we know things change, and as they do,
+   we remain ready to respond as appropriate." — No forward cut
+   signal; symmetric readiness language.
+
+Cut signal status: ABSENT — "insurance" framing for prior cuts;
+  no forward guidance on additional moves.
+
+Shift vs. pre-FOMC (Jan 6): UNCHANGED — same "at/near neutral,
+  data-dependent" stance; insurance framing is new vocabulary
+  for the same position.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL with hawkish lean — Barkin maintains his
+               balanced characterization but pushes back on the
+               look-through framing more explicitly than in Jan 6.
+               The "take this sustained miss seriously" sentence is
+               the most explicitly hawkish phrasing from Barkin in
+               the 2026 corpus to this point. The insurance framing
+               for cuts is dovish-adjacent but primarily signals the
+               primary task (inflation, not employment) remains.
+
+Language watch:
+  • "Take this sustained miss seriously" — explicit look-through
+    rejection; watch whether voters echo this. If Paulson or
+    Jefferson adopt this framing, the easing bias weakens.
+  • "Insurance" framing for cuts — if this language spreads to
+    the Troika, it signals cuts were tactical/precautionary, not
+    the start of an easing cycle.
+  • "97% in health care" — the full-year concentration figure;
+    stronger than the through-November figure. Worth tracking
+    if it worsens.
+
+Analyst flag:  NO — Non-voter. Note the look-through rejection
+  for the weekly cross-official language report; if it spreads
+  to voters, it would be a meaningful signal.
+══════════════════════════════════════════════════════════

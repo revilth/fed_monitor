@@ -1,0 +1,152 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-12 | John Williams | NY Fed President | Troika
+"A Few Words for the New Year"
+Council on Foreign Relations, New York City
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260112
+
+CLASSIFICATION: Type A — Full Economic Outlook. Three-section structure:
+growth / labor / inflation with explicit monetary policy conclusion.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: [This IS the pre-FOMC baseline for the Jan 28, 2026 FOMC]
+Post-FOMC prior:   N/A — first scored 2026 Williams speech; prior
+  speech is Dec 15, 2025 "Resilience" (unscored)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025 statement: "economic activity has continued to expand at a
+  solid pace"
+  → Williams: "GDP growth looks to have been somewhat above 2 percent
+    last year, and it will likely pick up some this year."
+  → Consistent with and modestly upgrades the statement's framing:
+    explicitly projects acceleration.
+
+Own language:
+  "The economic outlook is favorable." — Unqualified positive
+  characterization, no caveats attached to the growth verdict.
+  "Tailwinds from fiscal policy, favorable financial conditions,
+   and increased investments in artificial intelligence." — Names
+   three drivers of 2026 acceleration.
+  GDP forecast: "above trend... between 2-1/2 and 2-3/4 percent"
+  for 2026. — Specific and constructive.
+
+Shift vs. prior speech: [N/A — no prior 2026 scored speech]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "labor market conditions have continued to cool"
+  → Williams: "Although the labor market cooled over the past couple
+    of years, I expect that we'll see it stabilize this year."
+  → Echoes "cooled" then projects stabilization — slightly more
+    constructive than statement language on the forward path.
+
+Own verdict:
+  "Although the labor market has clearly cooled, I should emphasize
+   that this has been a gradual process, without signs of a sharp
+   rise in layoffs or other indications of rapid deterioration."
+  → The key reassurance: no deterioration signal, no alarm.
+
+  Unemployment rate at 4.4% (year-end 2025). Survey measures
+  "now at levels we saw in the years prior to the pandemic."
+  → Frames current labor conditions as returning to pre-pandemic
+    normal, not deteriorating below prior norms.
+
+Own qualifier / addition:
+  "I expect the unemployment rate to stabilize this year and then
+   gradually come down over the next few years."
+  → Stabilization then gradual improvement. No downside scenario offered.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "Inflation has eased over the past two years but remains
+  somewhat elevated"
+  → Williams echoes this via the data recap: current rate "about
+    2-3/4 percent," still above 2%.
+
+Own language — KEY:
+  "My current estimate is that the increase in tariffs to date has
+   contributed around one half of a percentage point to the current
+   inflation rate." — Quantified tariff attribution. Implies ~2.25%
+   underlying inflation ex-tariffs.
+  "Underlying inflation trends have been pretty favorable, and we're
+   seeing no signs of broader inflationary pressures." — Dovish on
+   underlying; tariff-induced, not demand-driven.
+  "Inflation will peak at around 2-3/4 to 3 percent sometime during
+   the first half of this year, before starting to fall back." —
+   Explicit peak forecast: H1 2026.
+  "Inflation will be just under 2-1/2 percent for this year as a
+   whole, before reaching the FOMC's longer-run 2 percent goal in
+   2027." — Specific 2-year disinflation path.
+
+  Tariffs: "Largely one-off effect on prices that will be fully
+   realized this year." — Look-through framing; transitory pass-through.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "Committee will carefully assess incoming data, the
+  evolving outlook, and the balance of risks"
+  → Williams quotes this verbatim at the end of his remarks, signaling
+    committee consensus on forward-looking optionality.
+
+Own language:
+  "By reducing the target range for the federal funds rate by a
+   cumulative 75 basis points last year, the FOMC has moved the
+   modestly restrictive stance of monetary policy closer to neutral."
+  → CRITICAL: Rates have moved TOWARD neutral, not past it. Still
+    "closer to" rather than AT neutral.
+  "Monetary policy is now well positioned to support the stabilization
+   of the labor market and the return of inflation to the FOMC's
+   longer-run goal of 2 percent." — "Well positioned" is stable
+    holding formula.
+
+Cut signal status: ABSENT — no forward guidance on additional cuts;
+  data-dependent framing only.
+
+  Balance sheet note: FOMC completed QT at Dec 2025 and initiated
+  reserve management purchases. Williams explicitly distinguishes this
+  from QE — "in no way reflects a shift in the stance of monetary
+  policy." Neutral/operational, not a policy signal.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL / BASELINE — establishes Williams' January 2026
+               stance. The key framing: tariffs are transitory/one-off,
+               underlying inflation is benign, labor is cooling but not
+               deteriorating, and rates are "closer to neutral" (not yet
+               at neutral). No explicit cut signal. The optimistic growth
+               outlook (2.5–2.75%) and specific disinflation path
+               (2% by 2027) set a constructive baseline.
+
+Language watch:
+  • "Closer to neutral" (not AT neutral) — Troika-level signal that
+    rate cuts are not yet justified on a neutral-rate basis; subsequent
+    speeches should track if this language shifts to "at neutral" or
+    "above neutral."
+  • "Largely one-off effect" on tariff inflation — look-through framing;
+    watch for this to erode if core inflation stays elevated.
+  • "Stabilize this year then gradually come down" on unemployment —
+    constructive labor framing; watch if weakened in subsequent speeches.
+
+Analyst flag:  NO — clean baseline establishment.
+══════════════════════════════════════════════════════════
