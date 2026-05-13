@@ -1,0 +1,62 @@
+U.S. Economy: The Road Ahead
+Feb. 3, 2026
+Tom Barkin
+President, Federal Reserve Bank of Richmond
+SC First Steps
+Pastides Alumni Center
+Columbia, S.C.
+Highlights:
+As we move into 2026, it feels like the fog is starting to lift — or perhaps our eyes are just starting to adjust.
+The road ahead is coming back into focus, and once again we are seeing an economy that remains remarkably resilient.
+As the inflation rate has fallen, we have been bringing rates back down toward neutral levels, reducing the fed funds rate 175 basis points over the last year and a half. I think of these cuts as having taken out some insurance to support the labor market as we work to complete the last mile to bring inflation back to target. So far, so good. But we know things change, and as they do, we remain ready to respond as appropriate.
+Thanks for that kind introduction. Today, I want to share my views on the economy, as well as my sense of where it’s headed. These are my thoughts only and not those of anyone else on the Federal Open Market Committee (FOMC) or in the Federal Reserve System.
+The Fed has a dual mandate from Congress: stable prices and maximum employment. If either part of our mandate moves too far from its target, our job is to guide the economy back home.
+That’s what happened coming out of the pandemic. Inflation spiked, helping us remember a painful lesson from the ’70’s — just how much we all hate inflation. It feels unfair, it creates uncertainty, and frankly it’s just exhausting to have to negotiate with suppliers or customers or to shop around for better prices.
+As you would hope, the FOMC did the job Congress has asked us to do: We moved to bring inflation under control, raising the federal funds rate over 5 percentage points in 17 months.
+The steepness of this hiking cycle made many people worry that addressing high inflation would come at a severe cost to the economy. You may have heard it called the most predicted recession in history. Instead, inflation started falling back toward our 2 percent target while the economy and the labor market remained impressively resilient. We seemed to be headed back home.
+Then came 2025. The pace of change was overwhelming. Think: the range of geopolitical tensions. Think: the transformational possibility of artificial intelligence (AI). Think: government policy changes like tariffs, immigration, the tax bill, deregulation, spending cuts, and the government shutdown.
+It was hard to know how all these shifts would net out for demand, for employment, or for inflation. I likened it to driving in a dense fog. You didn’t want to put your foot on the gas because you didn’t know what was around the next turn. You didn’t want to put your foot on the brake because you didn’t know what accident that might cause. So, you pulled over and turned on your hazards. Most businesses spent the year on the side of the road: not cutting back but not investing further; not hiring but not firing. Visibility only worsened further when everyone lost access to government data during the extended shutdown.
+But, as we move into 2026, it feels like the fog is starting to lift — or perhaps our eyes are just starting to adjust. The road ahead is coming back into focus, and once again we are seeing an economy that remains remarkably resilient.
+You can see it in the recent data. Third quarter gross domestic product (GDP) came in at a strong 4.4 percent. Consumer spending, which makes up nearly 70 percent of GDP, remained healthy through the fall. The unemployment rate ticked down in December, coming in at 4.4 percent. For context, unemployment has only been this low three other times in our working lifetimes: in the late ’90s, in late 2006/early 2007, and the late 2010s.
+1
+Unemployment claims remain stable, as well.
+This resilience has been enabled by strong underlying dynamics. Consumers have jobs, as I’ve said. With inflation down, real wages are now increasing. Asset values keep growing. Corporate earnings remain strong. In those circumstances, it’s hard to imagine consumers and businesses moving to the sidelines.
+In parallel, personal consumption expenditures, or PCE, inflation has come back down from its peak and now sits at 2.8 percent. Near-term inflation expectations have fallen, suggesting more progress to come.
+I hear reinforcing messages from businesses. I’ve talked personally to almost 75 companies since the start of the year, and they tell me demand is fine; their customers have learned to live with higher uncertainty. Most firms I speak to still aren’t doing layoffs at scale. Why would they, when demand and margins remain solid? Many of those who were determined to pass on tariffs last spring now acknowledge their pricing power has been significantly constrained by customer pushback; that’s good news for inflation. The recent rise in productivity also suggests these businesses can bear higher input costs without facing as much pressure to increase prices.
+And the economy could get meaningful additional support from government policy. Significant stimulus is underway, from tax refunds, reduced withholding, and lower gas prices — not to mention the impact of the Fed’s rate reductions over the last year and a half. Deregulatory efforts should support growth, too. At the same time, the focus on slowing net migration suppresses the level of job growth needed to keep the unemployment rate steady. The renewed bipartisan emphasis on affordability could be disinflationary in coming months.
+So, we can better see the road ahead, but to echo all of our family road trips: Are we there yet? Not quite. We have some distance to travel before we get home.
+Weather conditions could change. The impact of announced policy changes still remains uncertain. The policy mix itself is volatile, as we’ve seen over the last month with geopolitics and trade policy. Markets can be volatile too, as we’ve also seen recently. The pace and impact of new technologies like AI are still to be seen. Amid all this uncertainty, consumers are uneasy, with sentiment measures historically low.
+And, while we’ve made a lot of progress on inflation, it still remains above our target. That’s been the case since 2021. It would be easy to blame the one-time effect of tariffs or measurement lags in shelter costs, but I take this sustained miss seriously. That’s because I believe today’s inflation numbers, regardless of the “why,” significantly influence tomorrow’s inflation. Let me paint a picture of what this looks like in practice.
+In boardrooms around the country, sales and finance teams are debating how aggressively to increase prices, for example, in the context of increased tariff-driven input costs. If I can stereotype: Sales doesn’t want to pass through those costs at the risk of lost volume; finance doesn’t want to eat the cost at the risk of reduced margins. Today’s inflation numbers become a key fact in that debate — helping finance raise prices when inflation is high and helping sales price cautiously when it’s not. I imagine some finance teams have done well recently (at least based on the increases I’ve seen in my streaming services and homeowners insurance).
+Finally, the road home is a narrow one. The strength in demand seems focused in two places: the AI ecosystem and those serving wealthy customers. Notably, these two segments are connected. Easing in the AI space could hit business investment and the stock market, which in turn could hit consumption by the wealthy should their net worth decline.
+Job growth has been narrow, as well. Ninety-seven percent of net private sector job creation in 2025 was in health care and social assistance. What happens if health care pulls back in the context of elevated uncertainty about their reimbursement models? What sectors would pick up the hiring slack? In my conversations, it’s been hard to find many businesses near the point of leaning in on hiring.
+Low hiring hasn’t been translating into rising unemployment because the growth in labor supply has shrunk at about the same pace as labor demand. But slow job growth is not a comfortable place to be.
+Let me speak a moment to the shrinking growth in labor supply. When I zoom out and think about the U.S. economy on a longer time horizon, our labor supply is one of my top concerns. Lower net migration means we will depend more on native-born workers, and as you know, our population is aging. The fertility rate is declining. Thus, barring major changes, the lever that will matter the most will be labor force participation. What would it take to engage a larger share of our population in the workforce?
+There are many strategies to bring those on the sidelines into the workforce: removing non-work barriers, like child care and transportation; tackling skill and geographic mismatches; ensuring tax and benefits programs promote work. But if you’re playing the long game, which those of you in this room are, then you start earlier. You start building the foundation from a young age — not only for hard skills but for soft skills — which are crucial to success at later stages of the education pipeline and in the workforce. Those soft skills will also arguably become only more crucial in the AI era. I appreciate all you are doing to ensure the economy works for an ever-broader set of our workforce.
+What does this all mean for monetary policy? As I said earlier, we raised rates three years ago to bring inflation under control. As the inflation rate has fallen, we have been bringing rates back down toward neutral levels, reducing the fed funds rate 175 basis points over the last year and a half. I think of these cuts as having taken out some insurance to support the labor market as we work to complete the last mile to bring inflation back to target. So far, so good. But we know things change, and as they do, we remain ready to respond as appropriate.
+1
+“Late ’90s” refers to a period from 1998 to early 2001. “Late 2010s” refers to a period from 2017 to early 2020.
+Topics
+Business Cycles
+Economic Growth
+Inflation
+Monetary Policy
+Subscribe to News
+Receive an email notification when News is posted online:
+Subscribe to News
+By submitting this form you agree to the
+Bank's Terms & Conditions and Privacy Notice.
+Email Address
+Re-enter Email Address
+I agree to the terms of the privacy policy
+Thank you for signing up!
+As a new subscriber, you will need to confirm your request to receive email notifications from the Richmond Fed. Please click the
+confirm subscription
+link in the email to activate your request.
+If you do not receive a confirmation email, check your junk or spam folder as the email may have been diverted.
+Thank you for signing up!
+You can unsubscribe at any time using the Unsubscribe link at the bottom of every email.
+Subscribe to our other digital publications
+Contact Icon
+Contact Us
+Jim Strader

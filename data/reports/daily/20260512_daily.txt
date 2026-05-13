@@ -1,0 +1,40 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 12, 2026 (Tuesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     Greater Rockford Chamber of Commerce Luncheon
+     Rockford, Illinois — livestream at 12:00 pm CT
+     STATUS: NOT SCORED — event starts at 12pm CT; no transcript yet
+     ACTION: Fetch YouTube transcript after event concludes
+             https://www.youtube.com/watch?v=G4GmgMFk4Nk
+════════════════════════════════════════════════════════════════
+
+No Type A speeches scored today.
+
+Goolsbee is a Non Voter in 2026. His moderated discussion with
+Greater Rockford Chamber of Commerce CEO Angela Larson is a
+local business audience appearance. These events typically cover
+the economic outlook and have produced substantive policy signals
+in the past.
+
+Context: Goolsbee's last scored speech was NABE (Feb 24), where he
+questioned whether rates are even restrictive. His views on the
+energy shock and April FOMC outcome are unknown — no transcript
+has been recoverable from any of his post-March 2026 appearances
+(Milken May 6; Hoover panel May 8; now Rockford May 12). This is
+the third consecutive Goolsbee stub. YouTube remains the primary
+recovery path.
+
+NOTE — scraper false positives: FOMC statement and press conference
+files for May 12 are the same August 2025 framework review and
+April 29 press conference. Discarded.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Goolsbee May 12 (YouTube): https://www.youtube.com/watch?v=G4GmgMFk4Nk
+Goolsbee May 12 (Chicago Fed): https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+════════════════════════════════════════════════════════════════

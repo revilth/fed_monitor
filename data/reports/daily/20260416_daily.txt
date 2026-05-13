@@ -1,0 +1,115 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: April 16, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. John C. Williams  |  NY Fed President  |  Troika
+     "The Cosmos"
+     FHLB-NY 2026 Member Symposium, New York City
+     SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260416
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  WILLIAMS  |  NY Fed President  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Williams expects real GDP growth of 2 to 2.5% for 2026, with growth
+  supported by fiscal policy tailwinds, favorable financial conditions,
+  and AI investment. He notes modest downward revision from his March 30
+  range ("close to 2.5%") to the current range ("2 to 2.5%"), reflecting
+  energy shock drag. The NY metro housing market remains strong, with
+  elevated demand and tight inventories; office return has reached 80-90%
+  of pre-pandemic transit ridership. No recession concern in his baseline.
+  Direction: neutral — solid but slightly trimmed outlook.
+
+LABOR MARKET
+  Williams adds a new framing layer on top of the committee's "little
+  changed" language: "Lately, the labor market has been displaying
+  conflicting signs." He explicitly splits hard data — unemployment rate,
+  payroll growth, and NY Fed Labor Market Tightness Index all stabilizing
+  — from soft data, where "some of the soft data suggest a labor market
+  that continues to gradually soften." The Conference Board and NY Fed
+  consumer surveys on job availability and job-finding expectations have
+  continued to trend downward. This hard/soft split is his own analytical
+  contribution, not in the FOMC statement and not in his Mar 30 speech.
+  It is the first labor downside signal from any Troika member in 2026
+  that goes beyond the committee's official language.
+  Direction: mild dovish lean vs. Mar 30 — soft-data softening concern
+  added for the first time.
+
+INFLATION
+  All prior anchors maintained: no second-round tariff effects, underlying
+  inflation (ex-imports) moving in the right direction, expectations well
+  anchored. He concretizes the energy shock's breadth with specifics —
+  "higher airfares, groceries, fertilizer" — reinforcing that the pass-
+  through is broad, not just pump prices. His 2026 inflation forecast is
+  revised up for the second time: upper bound now 3.0% (from ~2.75% on
+  Mar 30, from 2.5% on Mar 3). New this speech: he describes the
+  stagflation tail risk, saying the conflict "could also result in a large
+  supply shock that simultaneously raises inflation and dampens economic
+  activity." He frames this descriptively as a risk scenario rather than
+  labeling it explicitly as a scenario. (Compare Waller Apr 17, who
+  structures this as an explicit adverse scenario with a named policy
+  response — a more deliberate framing than Williams here.)
+  Direction: mild hawkish vs. Mar 30 — upper forecast bound raised;
+  stagflation risk described.
+
+MONETARY POLICY
+  Near-verbatim FOMC formula: "well positioned to balance the risks." The
+  Mar 3 cut signal ("further reductions will eventually be warranted")
+  remains absent for the third consecutive speech — the retraction is
+  confirmed durable. No new directional guidance in either direction.
+  Direction: unchanged.
+
+NET SIGNAL: NEUTRAL — slight dovish lean on labor offset by slight
+  hawkish lean on inflation; cut signal durably absent
+
+vs. PRIOR SPEECH (Mar 30):    GROWTH: unchanged. LABOR: mild dovish —
+  soft-data softening added; more cautious than Mar 30's "no signs of
+  deterioration." INFLATION: mild hawkish — upper forecast bound raised
+  to 3.0%; stagflation risk described. MONETARY POLICY: unchanged.
+vs. PRE-FOMC SPEECH (Mar 3):  HAWKISH overall — inflation forecast up
+  from 2.5% to 2.75-3.0%; cut signal deliberately retracted; stagflation
+  risk introduced. The full post-FOMC arc is a deliberate hawkish
+  recalibration driven by the energy shock. On labor, the Mar 3
+  "promising signs of stabilization" has softened to "conflicting signs"
+  with soft-data deterioration — a dovish move on one dimension.
+vs. COMMITTEE SINCE FOMC:     Troika center alongside Jefferson. "Conflicting
+  signs" is slightly more cautious on labor than Jefferson's "roughly in
+  balance + susceptible to shocks." Together they define the analytical
+  center: patient hold, dual-risk, no cut timeline.
+
+LANGUAGE TO WATCH:
+  • "Conflicting signs" (labor) — more cautious than the Mar 18 statement's
+    "little changed." If this appears in Jefferson's next speech or the
+    April 29 FOMC statement, the committee is formalizing a more worried
+    labor read. Potential leading indicator for a dovish shift.
+  • Soft data softening (Conference Board, NY Fed surveys) — not yet in
+    committee language. Watch the April 29 statement for any labor upgrade.
+  • Stagflation risk described (descriptively here; explicitly as a named
+    scenario by Waller the following day) — watch for it in the statement.
+  • Cut signal ABSENT (3rd consecutive) — confirmed durable. Track whether
+    any post-April FOMC speech reintroduces it.
+
+ANALYST FLAG: YES
+  → The soft-data labor signal is new and worth tracking. If the April 29
+    FOMC statement softens labor language from "little changed," this speech
+    was the leading indicator. Analyst to assess: historically, how
+    predictive are NY Fed consumer surveys on job-finding expectations for
+    subsequent turns in hard labor market data?
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Williams Apr 16:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260416
+
+Prior speech (vs. PRIOR SPEECH):
+  Williams Mar 30:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260330
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Williams Mar 3:    https://www.newyorkfed.org/newsevents/speeches/2026/wil260303
+════════════════════════════════════════════════════════════════

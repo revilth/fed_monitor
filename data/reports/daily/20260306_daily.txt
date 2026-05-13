@@ -1,0 +1,116 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: March 6, 2026
+Reference FOMC: January 28, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Susan M. Collins  |  Boston Fed President  |  Non Voter
+     "Observations on the Economic Outlook, and Small Businesses"
+     Outlook 2026, Springfield Regional Chamber, Springfield, MA
+     SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/economic-outlook-small-business.aspx
+
+  2. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Bloomberg Interview — Jobs Report, Stagflation Concerns"
+     Bloomberg Radio/Television (jobs report day)
+     SOURCE: https://www.youtube.com/watch?v=kBjzS1rohlE
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  COLLINS  |  Boston Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  2025 real GDP growth stronger than expected. For 2026 baseline:
+  "continued solid growth." Collins' regional intelligence: businesses
+  report rising costs for insurance, energy, construction — margin
+  compression reducing capital investment. Aggregate solid; ground-
+  level more cautious.
+  Direction: neutral — solid with regional cost-pressure caveat.
+
+LABOR MARKET
+  "Relatively balanced labor market conditions." Her baseline for
+  2026 features continued balance. No fragility language. Neutral
+  read consistent with committee consensus.
+  Direction: neutral.
+
+INFLATION
+  "My outlook has demand exerting some upward pressure on prices,
+  slowing the return of inflation to 2 percent." "Mildly restrictive"
+  rates. Key statement: "I do not see an urgency for additional policy
+  adjustments, and I will be looking for clear evidence that inflation
+  is moving durably toward the 2 percent target — something that might
+  occur only over the second half of the year."
+  → H2 2026 is her evidence timeline for disinflation confirmation.
+  Direction: neutral-patient — demand still adding some pressure;
+  H2 evidence timeline.
+
+MONETARY POLICY
+  "Maintain policy rates at their current, mildly restrictive levels
+  for some time." Patient, no urgency, H2 evidence required.
+  Direction: neutral — patience; no cut signal.
+
+NET SIGNAL: NEUTRAL-PATIENT — "mildly restrictive"; H2 evidence
+  timeline; no urgency
+
+vs. PRIOR SPEECH (N/A — baseline): Established.
+vs. PRE-FOMC SPEECH (N/A): N/A
+vs. COMMITTEE SINCE FOMC:  Middle of the Non Voter spectrum. More
+  patient than Bowman (Just Voter); "Mildly restrictive" sits between
+  Bowman's "moderately restrictive" and Logan's "near neutral." Logan
+  is a Just Voter — her framing at the voter level is more consequential
+  than Collins'. H2 timeline is more specific than most officials.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH / LABOR MARKET
+  Jobs report day. February payrolls: "tough miss." Unemployment
+  ticking up — "one month is not a trend, but it's not a good month."
+  He rejects using total payrolls as the key indicator (immigration
+  effects on break-even). Rate-based measures still showing steadiness.
+  Direction: neutral — labor not deteriorating, one bad print doesn't
+  change his view.
+
+INFLATION
+  "The inflation hasn't been ideal. Has at least stalled out at kind
+  of 3% and some of the latest measures the inflation disturbingly
+  high in non-tariff categories like services." On the oil price shock:
+  "It can lead you in a stagflationary direction... That's always the
+  worst case scenario for the central bank because there's not an
+  obvious monetary policy answer."
+  → FIRST explicit stagflation naming by any official in 2026.
+  "Each time we add an uncertainty, I kind of think the time at
+  which it makes sense to act keeps getting pushed back."
+  Direction: hawkish — stagflation named; services inflation
+  "disturbingly high"; cut timeline deferred further.
+
+MONETARY POLICY
+  "There's a time for sniffing and a time for walking. When there's
+  uncertainty and you're getting conflicting data points, that's the
+  time for sniffing." Pre-FOMC holding stance; no commitment before
+  seeing more data.
+  Direction: neutral — wait-and-see; no action imminent.
+
+NET SIGNAL: NEUTRAL-HAWKISH — stagflation first named; services
+  inflation concern deepens; timeline pushed back
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — MARCH 6
+  Two Non Voters on the same day with complementary signals.
+  Collins: patient hold, H2 evidence timeline, "mildly restrictive."
+  Goolsbee: names stagflation explicitly, pushes cut timeline back,
+  "disturbingly high" on services. Together: the committee is not
+  in any hurry — and Goolsbee's stagflation naming adds a new
+  tail risk to the vocabulary that wasn't there on February 24.
+  Note: Neither Collins nor Goolsbee votes in 2026; their signals
+  have information value but not direct committee weight.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Collins Mar 6:          https://www.bostonfed.org/news-and-events/speeches/2026/economic-outlook-small-business.aspx
+  Goolsbee Mar 6 (Bloomberg): https://www.youtube.com/watch?v=kBjzS1rohlE
+════════════════════════════════════════════════════════════════

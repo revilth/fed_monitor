@@ -1,0 +1,199 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-23 | Christopher J. Waller | Governor | Just Voter
+"Labor Market Data: Signal or Noise?"
+42nd Annual NABE Economic Policy Conference, Washington D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm
+
+CLASSIFICATION: Type A — Economic Outlook (labor market focus)
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: Jan 30, 2026  dissent statement (no policy speech scored
+  between Jan 28 FOMC and this speech)
+Post-FOMC prior:   N/A (first post-Jan28 economic outlook speech)
+
+Dissent context: Waller dissented at Jan 28 preferring a 25bp cut.
+  This speech explains his framework and sets up the coin-flip
+  decision he faces before March 18.
+Energy shock context: NONE — this speech predates the Middle East
+  conflict. No geopolitical risk in his framework here.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  [No specific growth language in Jan 28 statement]
+  → Waller: "Q4 GDP growth 1.4% at an annual rate. Private
+    domestic final purchases increased by 2.4 percent."
+    "I expect real GDP to grow above 2 percent for these
+    six months [Q4 2025 + Q1 2026]."
+
+Own language:
+  "Business surveys indicate a pickup in activity in January.
+   Manufacturing production increased 0.6 percent last month,
+   the strongest reading in almost a year."
+  → Solid growth backdrop. Not a concern.
+
+Own addition — important nuance:
+  "Business investment last year was largely due to data center
+   construction and related investments — still a relatively
+   narrow slice of the economy."
+  → Flags concentration risk in the growth story. AI-driven
+    investment is not broadly representative.
+
+Consumer spending divergence:
+  "Retailers continue to report a divergence between higher
+   income shoppers, whose spending remains resilient, and
+   lower- and middle-income customers, who are starting to
+   spend less or switch to lower-cost goods and services."
+  "I worry that the still-solid spending increases lately may
+   be driven by stock-rich households and thus be masking
+   weakness in the still substantial share of spending that
+   relies on lower- and middle-income people."
+  → Waller's key growth concern: aggregate spending looks fine
+    but the composition is deteriorating. This is the seed of
+    his demand destruction concern that becomes explicit in
+    the Michigan survey reference on Apr 17.
+
+Shift vs. pre-FOMC: N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate
+   has shown some signs of stabilization." [Jan 28 stmt]
+  → Waller: "2025 was an extraordinarily weak one for job
+    creation — the weakest outside of a recession since 2002."
+    But January came in at +130,000 total / +172,000 private.
+
+Own verdict — KEY:
+  "I continue to believe that close to zero net job creation
+   over 2025 indicates a weak, and fragile job market."
+  → Despite the January surprise, his baseline is still
+    fragile. The Jan reading is not yet a trend.
+
+Own analytical framework:
+  "One month of good news does not constitute a trend, but
+   a year does."
+  → His explicit standard: he needs sustained evidence of
+    a labor market turn before updating his dissent view.
+
+Own concern on January data quality:
+  "I have some concerns that the report may contain more
+   noise than signal." [Reasons: concentrated in healthcare
+   + construction; ADP showed only 22K; Revelio showed 3K;
+   Challenger counted 108K layoff announcements]
+  → Deep skepticism about the January headline. He is
+    not persuaded the labor market has turned a corner.
+
+Own verdict on uncertainty:
+  "I rate these two possible outcomes [signal vs. noise]
+   as close to a coin flip."
+  → Explicit 50/50 on whether the labor market has improved.
+
+Shift vs. pre-FOMC: N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Waller: "PCE inflation...around 2.8 percent...core
+    about 3 percent."
+
+Own language — KEY FRAME:
+  "Traditional central bank wisdom suggests that we should
+   'look through' tariffs. I did this when they went up and
+   will do so if they come down."
+  → Explicit "look through" doctrine. No second-round
+    effects = tariffs are one-time. This is Waller's
+    foundational inflation premise at this date.
+
+  "Underlying inflation — inflation without the effects of
+   tariffs — is close to the FOMC's 2 percent goal."
+  → His key assertion: strip out tariffs and inflation is
+    already at target. This is the dovish anchor that makes
+    his Jan 28 dissent coherent.
+
+NOTE: No energy shock framing. No "sequence of transitory
+  shocks." The "look through" doctrine is intact and
+  unchallenged at this date. This is the critical baseline
+  to compare against Apr 17.
+
+Shift vs. pre-FOMC: N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY — TWO SCENARIOS
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Maintain target range" → Waller: held at Jan 28 but
+  dissented. Explains his reasoning here.
+
+Own framework — EXPLICIT TWO-SCENARIO ANALYSIS:
+
+  SCENARIO 1 (Jan data is signal → labor turned a corner):
+  "If the labor market data for February are consistent
+   with the stronger job creation...it may be appropriate
+   to hold the FOMC's policy rate at current levels."
+  → Holds if labor has genuinely improved.
+
+  SCENARIO 2 (Jan data is noise → labor still weak):
+  "If the good labor market news of January is revised away
+   or evaporates in February, it would support my position
+   at the FOMC's last meeting, that a 25-basis-point
+   reduction in the policy rate was appropriate."
+  → Cuts if January is revised down or February disappoints.
+
+  "I rate these two possible outcomes as close to a coin flip."
+  → At this point, Waller is symmetrically uncertain.
+    Labor is the deciding variable; inflation (ex-tariffs)
+    he considers already near target.
+
+Cut signal status: CONDITIONAL CUT SIGNAL — in the bad
+  labor scenario, he would cut. In the good scenario, hold.
+  His prior is dovish (dissented to cut) but he is updating
+  on incoming data.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL-DOVISH — dissenter framing; "coin flip"
+               on labor; explicit cut conditional on weak data
+
+Directional:   At this date, Waller's framework is entirely
+  labor-driven. Underlying inflation is "close to 2%" in his
+  view (ex-tariffs), so inflation is not a constraint on cuts.
+  The "look through" doctrine for tariffs is intact. The only
+  question is whether the labor market has turned a corner.
+
+CRITICAL CONTRAST WITH APR 17:
+  By Apr 17, all of this has changed:
+  • "Look through" tariffs → replaced by "sequence of
+    transitory shocks / more vigilant"
+  • "Coin flip on labor" → replaced by "hold even if labor
+    weakens" in adverse scenario
+  • Dovish dissenter → committee's most hawkish voter
+  The Middle East energy shock (late Feb / early March) and
+  a Feb jobs report that did NOT confirm the Jan turnaround
+  are the two factors that drove the full reversal.
+
+Language watch:
+  • "Look through" tariffs — Waller's baseline doctrine.
+    By Apr 17 he has qualified this significantly. Track
+    the evolution as the key measure of how much the energy
+    shock has changed his fundamental framework.
+  • "Underlying inflation close to 2%" — his dovish inflation
+    anchor. Still present in Apr 17 but now qualified by the
+    "sequence of shocks" concern.
+
+Analyst flag: YES
+  → The Feb 23 → Apr 17 arc is the most dramatic individual
+    speaker shift in 2026. Analyst to assess: what specifically
+    happened between Feb 23 and Apr 17? The Feb jobs report
+    came in weak (confirming Jan was partly noise), and the
+    energy shock began in late February. Both factors together
+    explain the full reversal from "coin flip, lean toward cut"
+    to "hold even if labor weakens."
+══════════════════════════════════════════════════════════

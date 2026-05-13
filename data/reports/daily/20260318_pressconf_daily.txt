@@ -1,0 +1,166 @@
+FED MONITOR — PRESS CONFERENCE REPORT
+════════════════════════════════════════════════════════════════
+Date: March 18, 2026  |  Type: E — FOMC Press Conference
+Chair: Jerome H. Powell
+Decision: HOLD  |  FFR: 3.50–3.75% (unchanged)
+Dissenters: Stephen Miran (preferred 25bp cut); Waller did NOT dissent
+SEP: Median rate path unchanged (3.4% end 2026, 3.1% end 2027)
+════════════════════════════════════════════════════════════════
+SOURCE: https://www.youtube.com/watch?v=GHkkYKb4rco
+CHANNEL: Federal Reserve (official)
+
+vs. PREVIOUS PRESS CONFERENCE: January 28, 2026
+  SOURCE: https://www.youtube.com/watch?v=q5Q7h0HB5JQ
+vs. CHAIR'S PREVIOUS SPEECH: January 11, 2026 statement (Type B —
+  no economic content). Effectively, no prior Powell economic signal
+  to compare against; this press conference is his first substantive
+  economic communication since the January 28 press conference itself.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPENING STATEMENT [Committee language]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "The US economy has been expanding at a solid pace." SEP median:
+  real GDP 2.4% for 2026 and 2.3% for 2027 — "somewhat stronger than
+  projected in December." Consumer spending resilient, business
+  investment expanding. Housing still weak. No recession concern.
+  Direction: neutral to positive — GDP forecast revised up.
+
+LABOR MARKET
+  Statement language: "unemployment rate has been little changed in
+  recent months" — note change from Jan 28's "shown some signs of
+  stabilization." Feb unemployment: 4.4%. "Job gains have remained
+  low." Same immigration/labor force explanation. SEP median: 4.4%
+  unemployment end 2026, edges down after.
+  Direction: neutral — characterization slightly softened from
+  "signs of stabilization" to "little changed."
+
+INFLATION
+  "Inflation remains somewhat elevated." PCE 2.8%, core PCE 3.0%.
+  NEW: "Near-term measures of inflation expectations have risen in
+  recent weeks, likely reflecting the substantial rise in oil prices
+  caused by the supply disruptions in the Middle East."
+  → This is the first FOMC statement to explicitly note rising near-
+    term inflation expectations. A meaningful addition.
+  NEW: "The implications of developments in the Middle East for the
+  US economy are uncertain."
+  SEP median: PCE inflation 2.7% for 2026 (higher than implied Dec),
+  2.2% for 2027.
+  Direction: mild hawkish — energy shock now in the statement;
+  near-term expectations flagged as rising.
+
+MONETARY POLICY — STATEMENT
+  Hold maintained. "The implications of events in the Middle East are
+  uncertain. In the near term, higher energy prices will push up
+  overall inflation, but it is too soon to know the scope and
+  duration of the potential effects on the economy."
+  SEP median rate path: 3.4% end 2026, 3.1% end 2027 — UNCHANGED
+  from December despite higher inflation forecast. 4-5 people moved
+  from 2 cuts to 1 cut, but median held.
+  Direction: neutral — unchanged median rate path; uncertainty
+  justifies patience.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Q&A [Powell's own voice — key unscripted signals]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+On "looking through" energy shocks — KEY:
+  "Of course it is kind of standard learning that you look through
+  energy shocks, but that's always been dependent on inflation
+  expectations remaining well anchored. And I think now it's also
+  dependent on what you mentioned, which is that broader context of
+  five years now of inflation above target. We have to keep all of
+  those things in mind and the question of looking through, when it
+  does arise, will be one to approach not lightly."
+  → Powell is conditioning the "look through" doctrine on (a) anchored
+    expectations AND (b) the five-year above-target context. This is
+    the Chair's own version of the "series of shocks" concern — he is
+    NOT automatically endorsing the look-through approach. This is
+    the most important Q&A statement in this press conference.
+
+On the SEP rate path being unchanged despite higher inflation:
+  "Nobody knows. The economic effects could be bigger or smaller.
+  People wrote down something that seemed to make sense...if we were
+  ever going to skip an SCP, this would be a good one because we
+  just don't know." → Unusual candor: the SEP is less informative
+  than normal given the uncertainty.
+
+On the inflation forecast write-up:
+  Partly energy; also "we haven't seen the progress that we had hoped
+  for on core goods and on tariffs." → Acknowledges the baseline
+  disinflation story is behind schedule, not just an energy effect.
+
+On why median rate path unchanged despite cutting fewer officials:
+  4-5 participants moved from 2 cuts to 1 cut; this was offset.
+  → The distribution shifted hawkish even if the median held.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NET SIGNAL: NEUTRAL-HAWKISH — energy shock enters statement;
+  near-term expectations flagged; Powell conditions "look through"
+  on anchored expectations + five-year context
+
+vs. PREVIOUS PRESS CONFERENCE (Jan 28):
+  GROWTH:    Upgraded (GDP forecast revised up).
+  LABOR:     SLIGHT SOFTENING — "little changed" replaces "some signs
+             of stabilization." Marginally more cautious.
+  INFLATION: HAWKISH — energy shock added; near-term expectations
+             rising added; inflation forecast raised. These are the
+             most significant statement additions.
+  MONETARY:  UNCHANGED on rate path median. One dissenter (Miran)
+             vs. two in January (Miran + Waller). Waller dropped
+             his dissent — this is the key committee shift.
+  OVERALL:   MILD HAWKISH shift driven entirely by energy shock and
+             expectations concerns.
+
+vs. CHAIR'S PREVIOUS SPEECH (Jan 11 Type B):
+  N/A for economic content. The Jan 28 press conference was
+  effectively Powell's only prior economic communication. The
+  March 18 Q&A represents the first time Powell himself articulates
+  the "look through" conditioning concern — not done in January.
+
+vs. COMMITTEE SINCE PREVIOUS FOMC:
+  The Waller dissent reversal is the key committee development.
+  Waller dissented in January to cut; he did not dissent in March.
+  His Feb 23 speech explains why: February data partially confirmed
+  the January labor market upturn, giving him reason to hold.
+  The energy shock (late February) also changed the calculus.
+
+LANGUAGE TO WATCH:
+  • "Look through always dependent on anchored expectations AND
+    five-year context" — Powell conditions the committee's core
+    doctrine. This is his personal unscripted addition, not in the
+    written statement. Watch whether it appears in post-FOMC speeches
+    from Jefferson or Williams. [Note: it appeared independently in
+    Goolsbee Mar 7 and Barkin Mar 27 — the concept was already
+    circulating before this press conference.]
+  • Labor language: "little changed" (Mar 18) vs. "some signs of
+    stabilization" (Jan 28). The softening of the characterization
+    is the key labor signal in the statement.
+  • Near-term expectations "risen in recent weeks" — first FOMC
+    statement acknowledgment of expectation drift. Track whether
+    this strengthens or reverses in the April statement.
+  • "Too soon to know scope and duration" of energy effects —
+    explicit uncertainty; justifies the unchanged rate path.
+
+ANALYST FLAG: YES
+  → Three questions for analyst review: (1) Powell's "look through
+    not lightly" in the Q&A is the Chair signaling more hawkish
+    vigilance than the statement's neutral language suggests. Does
+    this represent a personal shift or committee-wide recalibration?
+    (2) The SCP distribution shift (4-5 moved from 2 cuts to 1 cut)
+    is more hawkish than the unchanged median suggests — this is the
+    real signal in the dots. (3) Waller dropping his dissent: was
+    this data-driven (Feb labor market improved) or energy-shock-
+    driven? His Apr 17 speech answers this.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+This press conference:
+  Mar 18 presser:       https://www.youtube.com/watch?v=GHkkYKb4rco
+Previous press conference:
+  Jan 28 presser:       https://www.youtube.com/watch?v=q5Q7h0HB5JQ
+Chair's prior speech:
+  Powell Jan 11 (B):    https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
+════════════════════════════════════════════════════════════════

@@ -1,0 +1,178 @@
+FED MONITOR — PRESS CONFERENCE REPORT
+════════════════════════════════════════════════════════════════
+Date: April 29, 2026  |  Type: E — FOMC Press Conference
+Chair: Jerome H. Powell  [Final press conference as Chair — May 15 end date]
+Decision: HOLD  |  FFR: 3.50–3.75% (unchanged)
+Dissenters: Miran (preferred cut); Hammack, Kashkari, Logan (opposed
+  easing bias language). First 4-dissent meeting since October 1992.
+════════════════════════════════════════════════════════════════
+vs. PREVIOUS PRESS CONFERENCE: March 18, 2026
+vs. CHAIR'S PREVIOUS SPEECH: March 30, 2026 — Harvard University
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPENING STATEMENT [Committee language]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Economic activity expanding at a solid pace." Consumer spending
+  resilient; business fixed investment "expanding at a brisk pace."
+  Housing remains weak. No change from March 18 framing.
+  Direction: neutral — unchanged.
+
+LABOR MARKET
+  "Job gains have remained low, on average, and the unemployment rate
+  has been little changed in recent months." Change vs. Mar 18: "on
+  average" added — acknowledges monthly variability. "Though labor demand
+  has clearly softened as well" — unchanged from Mar 18 opening statement;
+  not a new addition. Unemployment at 4.3% in March.
+  Direction: neutral — unchanged characterization; only "on average" is new.
+
+INFLATION
+  "Inflation is elevated, in part reflecting the recent increase in
+  global energy prices." Change vs. Mar 18: drops "somewhat" — stronger
+  characterization. Total PCE 3.5%, core PCE 3.2% over 12 months ending
+  March. Core "largely reflects effects of tariffs on goods." Near-term
+  expectations "have risen this year, likely because of the substantial
+  rise in oil prices." Most longer-term measures remain at 2%.
+  → Three-part attribution: energy for headline, tariffs for core,
+    energy for near-term expectations. All three support patience.
+  Direction: mixed — drops "somewhat" (hawkish) but attribution
+  framework structures the case for look-through (dovish).
+
+MONETARY POLICY — STATEMENT
+  Hold maintained. "Conflict in the Middle East has added to uncertainty.
+  In the near term, higher energy prices will push up overall inflation."
+  "We are well positioned to determine the extent and timing of
+  additional adjustments." Closing: Warsh cleared the Senate Banking
+  Committee this morning; Powell will stay on as governor.
+  Direction: neutral — unchanged formula; but three hawkish dissenters
+  on easing bias language signals committee tension.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Q&A [Powell's own voice — key unscripted signals]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+On pre-cut conditions — KEY (Q2):
+  Powell named two explicit requirements before cuts can be considered:
+  see the "backside" of the energy shock (energy must peak and decline)
+  AND "progress on tariffs" (tariff pass-through must dissipate, which
+  he expects "in the next two quarters"). He applied the stacking logic
+  directly: "We're already looking through the tariff shock, so [looking
+  through energy] requires more caution." This is Waller's Apr 17
+  "sequence of transitory shocks" framework articulated by the Chair.
+
+On easing bias (Q2 follow-up, Q15) — KEY:
+  "The number of people who could support changing to a more neutral
+  stance has increased over the intermeeting period... it's a much closer
+  thing on the committee than it was in March." "The center is moving
+  toward a more neutral place." "Of course we will move to a neutral
+  bias before a hiking bias." Powell confirmed the sequencing and
+  acknowledged the easing bias is precarious, but said there is "no
+  rush" given high uncertainty. "Conceivably could come as soon as the
+  next meeting" (Warsh's call).
+
+On whether policy is restrictive (Q6, Q9):
+  "Nobody's calling for a hike right now." The three dissenters objected
+  to guidance language, not rate level — all agreed with the hold. On
+  restrictiveness: "maybe mildly restrictive or neutral" — consistent
+  with Mar 18 ("high end of neutral or mildly restrictive"). The range
+  is unchanged; the subtle shift is that Mar 18 Powell expressed a
+  preference for staying "mildly restrictive" while Apr 29 he presents
+  neutral as equally plausible without that preference.
+
+On Fed independence (Q1, Q12, Q13, Q15):
+  Staying as governor because "that is really what is driving this" —
+  the legal attacks, not the DOJ investigation alone ("widespread concerns
+  among colleagues that these things may continue"). Has not been in
+  contact with Warsh since a dinner in January. Will not be a "shadow
+  chair." On removing Reserve Bank presidents over policy disagreements
+  (Waller's Apr 21 speech raised this): "That would be the beginning
+  of the end of the Fed's ability to make monetary policy independently.
+  If every administration could come in and do that, you're just another
+  cabinet agency. Chris [Waller] said the same thing."
+
+On the economy (final Q):
+  No evidence yet of gas-price drag on consumer spending — credit card
+  data, retail sales still solid. "People are still spending." Expects
+  eventual drag if energy prices stay elevated ("logically you will").
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NET SIGNAL: NEUTRAL-HAWKISH — hawkish on pre-cut conditions
+  (stacking logic, named requirements) and easing bias trajectory
+  ("closer than March," "could come next meeting"); partially offset
+  by "mildly restrictive or neutral" characterization of current policy
+  and confirmation that no hike is on the table.
+
+vs. PREVIOUS PRESS CONFERENCE (Mar 18):
+  GROWTH:     Unchanged — solid, housing weak.
+  LABOR:      NEUTRAL — "labor demand has clearly softened" was already
+              in Mar 18 opening statement; unchanged. Only "on average"
+              is new — a minor acknowledgment of monthly variability.
+  INFLATION:  HAWKISH — drops "somewhat"; explicit PCE data cited;
+              energy attribution structured to support patience.
+  MONETARY:   HAWKISH AT MARGIN — three hawkish dissenters on easing
+              bias (vs. zero in March); "much closer" easing bias vote;
+              "next meeting" removal possible.
+  NEUTRAL RATE: Both meetings landed in the same range ("high end of
+              neutral / mildly restrictive"). Mar 18 was already explicit:
+              "high end of neutral or mildly restrictive... borderline
+              between restrictive and not." Subtle difference: Mar 18
+              Powell expressed a preference for keeping policy "mildly
+              restrictive"; Apr 29 he said "maybe mildly restrictive or
+              neutral" without that preference. A real but small shift.
+
+vs. CHAIR'S PREVIOUS SPEECH (Mar 30, Harvard):
+  March 30: "wait and see," "series of shocks" concern framed
+  abstractly. April 29 Q&A: the same "series of shocks" concept has
+  become explicit pre-cut conditions ("backside of energy + tariff
+  progress"). The concept has hardened from concern to conditionality.
+  Also: March 30 used "well anchored beyond the short term" (cautious
+  qualifier); April 29 uses standard "longer-term expectations consistent
+  with 2%" — slightly less cautious on expectations framing.
+
+vs. COMMITTEE SINCE PREVIOUS FOMC:
+  The Waller Apr 17 "sequence of shocks" framework is now the Chair's
+  public framing. The three hawkish dissenters represent a real majority
+  shift — Powell confirmed the committee center has moved. Consumer
+  spending data (no slowdown yet) validates the patience posture.
+
+LANGUAGE TO WATCH:
+  • "Mildly restrictive or neutral" — consistent with Mar 18 range.
+    The subtle shift is dropping the Mar 18 preference for staying
+    "mildly restrictive." Not a clean directional signal on its own;
+    watch whether Jefferson or Williams adopt the "or neutral" framing.
+  • "Backside of the energy shock" — pre-cut condition. Track when
+    energy prices actually peak; that is the trigger for reopening.
+  • "Next two quarters" — tariff pass-through deadline (end Q3 2026).
+    Core PCE ex-energy is the test series to watch.
+  • "Conceivably could come as soon as the next meeting" — Warsh's
+    first statement is now the live event. June FOMC = first test.
+  • "Beginning of the end" on removing Reserve Bank presidents —
+    bright line named by Powell and Waller jointly.
+  • "Unusual and uncomfortable kind of balance" (labor market) —
+    softer than "roughly in balance." Track in subsequent speeches.
+
+ANALYST FLAG: YES
+  → Three questions: (1) "Mildly restrictive or neutral" from the Chair
+    means the committee's hawkish dissenters are not arguing rates are
+    too low — they are arguing the forward guidance is too explicit. Does
+    this shift the bar for the next rate action (cut or hold), and how
+    does Warsh frame policy restrictiveness in his first communication?
+    (2) The easing bias survived by a narrow majority but "the center is
+    moving." A single additional bad inflation print before June likely
+    tips the balance. Watch core PCE (April data, released ~May 28).
+    (3) Powell + Waller alignment on Reserve Bank president removal:
+    this was unambiguous. Does the incoming Warsh administration adopt
+    or soften this position? The answer has implications for the Fed's
+    institutional independence beyond the current legal battles.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+This press conference:
+  Apr 29 presser:  https://www.youtube.com/watch?v=nHLbKxeyblc
+Previous press conference:
+  Mar 18 presser:  https://www.youtube.com/watch?v=GHkkYKb4rco
+Chair's prior speech:
+  Powell Mar 30:   https://www.youtube.com/watch?v=oqeGhgbEwr0
+════════════════════════════════════════════════════════════════

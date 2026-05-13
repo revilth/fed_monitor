@@ -1,0 +1,128 @@
+FED MONITOR — PRESS CONFERENCE REPORT
+════════════════════════════════════════════════════════════════
+Date: January 28, 2026  |  Type: E — FOMC Press Conference
+Chair: Jerome H. Powell
+Decision: HOLD  |  FFR: 3.50–3.75% (unchanged)
+Dissenters: Stephen Miran, Christopher Waller (both preferred 25bp cut)
+════════════════════════════════════════════════════════════════
+SOURCE: https://www.youtube.com/watch?v=q5Q7h0HB5JQ
+CHANNEL: Federal Reserve (official)
+
+vs. PREVIOUS PRESS CONFERENCE: December 2025 — outside scoring period.
+  Language comparison limited to statement text only (no scored prior presser).
+vs. CHAIR'S PREVIOUS SPEECH: N/A — no prior 2026 speech. Jan 28 is Powell's
+  first public communication of 2026 on economic conditions.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPENING STATEMENT [Committee language — approved by all voters]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "The US economy expanded at a solid pace last year and is coming
+  into 2026 on a firm footing." "Consumer spending has been resilient
+  and business fixed investment has continued to expand." Housing
+  remains weak. Government shutdown weighed on Q4 but effects
+  reversing. GDP forecast in SEP: median 2.4% for 2026.
+  Direction: neutral to positive — solid baseline.
+
+LABOR MARKET
+  Statement language: "job gains have remained low, the unemployment
+  rate has shown some signs of stabilization." Unemployment 4.4%.
+  Private payrolls +29K/month (ex-government). Immigration-driven
+  labor force slowdown partially explains low headline job gains.
+  "Labor demand has clearly softened as well." "Indicators suggest
+  that conditions may be stabilizing after a period of gradual
+  softening."
+  Direction: neutral — stabilization characterized cautiously.
+
+INFLATION
+  "Inflation remains somewhat elevated." PCE ~2.9%, core PCE 3.0%.
+  "These elevated readings largely reflect inflation in the goods
+  sector which has been boosted by the effects of tariffs. In
+  contrast, disinflation appears to be continuing in the services
+  sector." Near-term inflation expectations declined from peaks.
+  Direction: neutral — tariff goods inflation offset by services
+  disinflation; expectations stable.
+
+MONETARY POLICY — STATEMENT
+  Hold at 3.50–3.75%. "Since last September, we've lowered our policy
+  rate 75 basis points, bringing it within a range of plausible
+  estimates of neutral." Key phrase: "within a range of plausible
+  estimates of neutral" — explicit statement that rates are no
+  longer clearly restrictive. Forward guidance: "well positioned to
+  determine the extent and timing of additional adjustments."
+  Direction: neutral — patient hold; neutral rate characterization
+  removes urgency to cut.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Q&A [Powell's own voice — unscripted; personal signals]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+On dissents (Miran and Waller both voted to cut):
+  "I welcome that at the FOMC...it helps us make better decisions."
+  Powell does not distance himself from the dissenters' views; treats
+  dissent as healthy deliberation.
+
+On the growth picture:
+  "Clear improvement in the outlook for growth...the data have come
+  in and sentiment...suggesting that this year starts off on a solid
+  footing for growth." More optimistic than his statement language.
+
+On forward policy path:
+  "The economy is growing at a solid pace. The unemployment rate has
+  been broadly stable and inflation remains somewhat elevated. So,
+  we'll be looking to our goal variables and letting the data light
+  the way for us." → No timeline or bias toward cuts or hikes.
+
+On the neutral rate / further cuts:
+  When pressed on whether the 16-of-19 SEP dots below current rate
+  signal further cuts needed: Powell notes "we're well positioned
+  to address the risks on both sides." Declines to signal direction.
+
+NET SIGNAL: NEUTRAL — committee holds; two dissenters prefer cuts;
+  policy now "within range of neutral"; patient meeting-by-meeting
+
+vs. PREVIOUS PRESS CONFERENCE (Dec 2025): N/A — no scored baseline.
+  Key change from Dec 2025 → Jan 28: two dissenters (Miran, Waller)
+  voted to cut; this was NOT the case at the December meeting.
+  Suggests the committee's hawkish consensus weakened over the month.
+
+vs. CHAIR'S PREVIOUS SPEECH: N/A — no prior 2026 Powell speech.
+
+vs. COMMITTEE SINCE PREVIOUS FOMC: Jan 28 establishes the 2026
+  baseline. The two dissenters (Miran, Waller) reflect the dovish
+  minority; 10 others held. The "within range of neutral" statement
+  language becomes the foundational phrase — it removes the mechanical
+  case for cuts since rates are no longer clearly restrictive.
+
+LANGUAGE TO WATCH:
+  • "Within a range of plausible estimates of neutral" — the committee
+    is officially saying rates are no longer restrictive. This is the
+    most important phrase of the January statement. Track whether
+    subsequent speeches characterize rates as at neutral (Goolsbee
+    Feb 24, Logan Feb 10) or still somewhat restrictive (Bowman).
+  • "Job gains have remained low, unemployment has shown some signs
+    of stabilization" — the labor market characterization. Compare
+    against March 18.
+  • Two dissenters (Miran, Waller) — Waller drops his dissent by
+    March 18; Miran continues. Track whether Waller's reversal signals
+    a shift in his analytical framework.
+
+ANALYST FLAG: YES
+  → The two dissenters (Miran and Waller) make this the most
+    internally divided FOMC hold since 2023. Analyst to assess:
+    was the Waller dissent a genuine view on labor market risk, or
+    a tactical vote? His Feb 23 speech explains it as a "coin flip"
+    on whether January data was signal or noise.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+This press conference:
+  Jan 28 presser:       https://www.youtube.com/watch?v=q5Q7h0HB5JQ
+Previous press conference:
+  Dec 2025 presser:     [outside scoring period — not yet fetched]
+Chair's prior speech:
+  N/A — no prior 2026 speech before Jan 28
+════════════════════════════════════════════════════════════════

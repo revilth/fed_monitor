@@ -1,0 +1,288 @@
+The AI Moment?  Possibilities, Productivity, and Policy
+Speaker
+Mary C. Daly
+Date
+Tuesday, February 17, 2026
+Time
+11:30 a.m. PT
+Location
+Silicon Valley Leadership Group
+San Jose, California
+Download PDF
+(317 KB)
+Watch the video
+Remarks as prepared for delivery.
+Introduction
+Good afternoon and thank you for that kind introduction. And thank you to the Silicon Valley Leadership Group and to San Jose State University for having me here. I am looking forward to a great conversation.
+Today, I’m going to talk about AI.
+Now standing here in Silicon Valley, many of you might find AI exciting, full of promise and possibility. For others, it may feel more worrisome, a potential disrupter to lives, livelihoods, and what it means to be human.
+1
+This is not surprising. People also had mixed feelings about electricity and the automobile, with some fearing them as dangerous, supernatural, even evil, while others imagined their potential, quickly adopting the novelty of driving or using electricity in their homes. Irrespective of where they stood, almost everyone wondered how these technologies would change the role of humans in the world.
+2
+But knowledge gives us power—to separate facts from fears, speculation from reality, and worst-case scenarios from more likely outcomes. And this is my topic for today. What we know about AI, what remains uncertain, and how monetary policy should respond in the near term and the longer run.
+Before I go further, I will remind you that the views I express today are my own and do not necessarily reflect those of anyone else on the Federal Open Market Committee (FOMC) or in the Federal Reserve System.
+Transformations Take Time
+Let me start with a simple maxim—transformations take time. Think about electrification. Sitting here with lights, computers, and fully electric vehicles, it’s easy to imagine it just happened with the flip of a switch. The truth is, it took nearly 100 years to move from Michael Faraday’s generation of the electric current in 1830
+3
+to electricity boosting productivity growth and transforming the economy.
+4
+Figure 1: Key electricity innovations and U.S. labor productivity growth
+Note: Productivity growth shown as the filtered year-on-year change in output per hours worked based on data collected by Bergeaud, Cette, and Lecat (2016) and made available through the Long-Term Productivity project. The growth trend is obtained using a Hodrick-Prescott filter with a coefficient of 1000, in line with the approach in Bergeaud (2024).
+The evolution is instructive (Figure 1). The figure shows the timeline of electric innovation and productivity growth in the United States. Many things had to happen to turn Faraday’s discoveries into practical applications.  Innovators had to develop the light bulb, the electric motor, and the electric unit drive. Builders had to lay out the electrical grid, install transmission lines, and ensure sufficient access for households and businesses to make electricity a worthwhile investment.
+5
+And this was just the beginning. To create sustained gains in productivity growth associated with general-purpose technologies (GPT), the very essence of work had to change. Production had to be redesigned, factory floors reengineered, and workforces retrained.
+6
+Firms had to shed the constraints of the previous steam-powered world and reimagine business in an era of electricity.
+The scale of change was enormous, and it took time.
+Is AI Different?
+The question is, should we expect a similar long period of access, adoption, learning, and transformation for AI? Maybe, but we are already well into it. The origins of AI date back to the 1940s and ’50s, and it has evolved much like electricity did (Figure 2).
+Figure 2: Parallel timelines of AI and electricity innovations
+AI began with foundational research on neural networks and thinking machines. It was soon recognized as a field of study.
+7
+Then came the experiments, use cases, and eventually applications like applied machine learning and robotic processing. These demonstrated AI’s value but fell short of creating sustained gains in productivity growth.
+8
+Then in 2022, again nearly 70 years from AI’s beginnings, ChatGPT and other large language models, with natural language processing, became available to anyone who wanted to use them.
+9
+Their accessible and humanlike interface encouraged people to try them and made businesses want to harness their capabilities.
+10
+Their arrival signaled a major change in AI technology and access.
+The change was dramatic. We heard this in our business and community outreach.
+11
+And we experienced it with our own employees. AI went from science and sci-fi to everyday work and conversation.
+We now know that this surge moment was more than simple enthusiasm.  Excitement has turned into real investments. Businesses of all sizes are working to leverage AI.  Around the Twelfth Federal Reserve District—the nine states in the West—we’ve heard about firms using AI for consumer research, back-office operations, sales, and product development, saving time and money.
+12
+Research case studies find similar results—cost-savings when firms use AI to automate—in everything from call centers, software development, and financial management, to marketing and even health care.
+13
+As the figure shows, commercial applications and expanding adoption are critical steps for AI to produce more systematic increases in productivity growth.
+The question is: Will it be enough? Is GenAI a sufficient catalyst to change the nature of production and business?
+From Possible to Transformative
+The truth is no one’s sure. It is easy to see the possibilities but harder to know when and how they will evolve.
+So far, most macro-studies of productivity growth find limited evidence of a significant AI effect.
+14
+Even firms that say it’s useful find little evidence of transformative gains.
+15
+Some of this could be timing. AI adoption and use are still evolving, so it may be too soon to see results in aggregate measures. AI technology is also changing rapidly. So, firms could be focused on acquiring and learning new tools, like agentic AI, rather than rethinking business.
+But it could also be that we are simply not there yet. That while GenAI and related applications are useful, they are not the innovation that spurs broad-based reorganization of the economy.
+Take the financial sector.  Several firms have reported using AI in the loan application process.
+16
+Uses range from initial document review to checking the final application. While automating these steps saves time and money, it falls short of transforming the overall process. It is analogous to replacing a steam-powered motor with an electric one but leaving the factory floor unchanged—good progress but not transformative.
+So, what will that take? Likely, something you don’t expect.
+The factors that made electricity a general-purpose technology were not solely technologies, but ideas. Innovative firms used imagination and creativity to start fresh and build a world shaped by electricity, rather than leverage electricity in a steam-powered world.
+The same path is likely to hold for AI. Technology will enable, but ideas will determine when it transforms.
+Monetary Policy in a Time of Transformation
+And this brings me to monetary policy and how we should think about AI as we work to achieve full employment and price stability, our congressionally mandated goals. Fortunately, this is not the first time the FOMC has had to manage policy in a time of transformation.
+In fact, I began my career at the Fed during a similar period.  It was the mid-1990s—the beginning of the computer and internet revolution. Businesses were ramping up investment in information technology equipment and software to take advantage of these emerging technologies, but there was little impact on official measures of U.S. productivity growth.
+17
+At the same time, FOMC policymakers were concerned about elevated inflation and a tightening labor market. Standard macro models and monetary policy thinking suggested interest rates should rise to ward off overheating in the labor market and a more significant run-up in inflation.
+Then-Chair Greenspan offered a different view. He distrusted the official productivity numbers, finding them at odds with the surge in information technology investment we were seeing. He posited that the burgeoning computer revolution would spur sustained productivity growth, allowing the economy to grow faster without putting upward pressure on prices.
+18
+In this scenario, the economy would not need to be bridled, and interest rates would not need to increase.
+He found evidence for this possibility in the disaggregated micro data, including what he was hearing from executives. And there he saw considerable possibilities. Wholesale and retail firms were using inventory management systems to reduce warehouse stockpiling. Trucking companies were leveraging GPS to reduce deadhead hauling.  Manufacturing firms were using computer-assisted designs to do mass customization and reduce waste.
+We asked the same questions at the San Francisco Fed. We talked to firms and walked factory floors, looking for evidence that computers and software were making a difference. We found numerous examples. But we also discovered something bigger and more significant. Businesses were asking questions about how they could fundamentally alter the way they produced goods and services. Their focus was on factory design and business process, with computers and software at the foundation. This looked like the pattern with electricity, and it began to deliver sustained gains in output, revenue, and longer-run profitability.
+Policymakers took this information and debated whether and when these micro examples could lead to the type of economy-wide productivity growth that Chairman Greenspan considered.
+19
+In the end, the FOMC remained patient on policy and the roaring ’90s followed, with a strong labor market and sustained growth.
+20
+So, what do these lessons teach us about monetary policy today? First, we won’t find all the answers in the aggregate data on productivity, the labor market, or inflation. Seeing developments before they fully emerge requires digging deeper, relying on disaggregated information that foreshadows transformation. Second, there is no matrix that tells us exactly what data to follow at any moment in time. Greenspan’s innovation wasn’t looking at more data; it was looking at the right data—finding inconsistencies in what he saw and working to resolve them. Third, talking to businesses matters.  Businesses invest, experiment, and learn long before we see it in aggregate productivity data. Incorporating this information and seeing how it supports or negates what we expect is essential to making appropriate policy decisions.
+In the end, it wasn’t just good luck that allowed Greenspan to navigate the 1990s, it was also good practice. The willingness to listen to businesses, hear their ideas, use data and evidence to test them, and invite others to do the same.
+Turning back to today, none of this is a playbook for managing the economy and AI, but it is a foundation. It is a reminder that monetary policy is a forward-looking business. To get it right, we must be grounded in what we see and open-minded to what’s possible. The willingness to confront what we know and what we don’t is essential to making appropriate and durable policy that serves all Americans.
+Footnotes
+1.
+Several U.S. household surveys show that most Americans are concerned about the impact of artificial intelligence on the labor market and people’s ability to think creatively. See, for example, Kennedy et al. (2025) and Lange & Alper (2025).
+2.
+For historical accounts of Americans’ attitudes towards electricity and automobiles, see Sullivan (1995) and Norton (2008) which describe the fear and even panic Americans felt related to these new technologies.
+3.
+British scientist Michael Faraday and American scientist Joseph Henry independently worked on electromagnetic induction, which was foundational to the later development of electric motors (Al-Khalili 2015).
+4.
+See Du Boff (1967), Devine (1983), and Al-Khalili (2015) for accounts on the development of electric power and the electrification of the U.S. manufacturing sector.
+5.
+For example, according to Devine (1983), the adoption of the unit drive benefited from the availability of cheaper and smaller motors that run on alternate current and a reduction in the cost of alternate current for industrial use from the construction of Niagara Falls Power Plant. See additional examples in Du Boff (1967) and David (1990).
+6.
+Devine (1983) outlines the transformations factories underwent to realize the productivity gains from electrification and electric motors.
+7.
+AI was formally named and described as a field of research during the 1956 Summer Research Project on Artificial Intelligence at Dartmouth College, but its foundational research can be traced to Alan Turing’s theory of computation (1930s), published research on neural networks by McCulloch and Pitts (1943), and Turing’s work on thinking machines (the Turing Test) in 1950. For a more detailed history, see Nilsson (2009) and Stanford’s One Hundred Year Study of Artificial Intelligence (Littman et al. 2021).
+8.
+This is consistent with recent analysis by Fernald et al. (2024), Foerster (2024), and Kahn and Rich (2026).
+9.
+Key innovations that preceded the launch of OpenAI’s ChatGPT chatbot include the rise of deep learning, transformer architectures, and foundation models, all of which benefited from an expansion of digital datasets and computational capacity (He, Cao, and Tan 2025).
+10.
+This has driven adoption among both households and businesses. See, for example, Bick, Blandin, and Deming (2025) and McKinsey (2025).
+11.
+In addition to longstanding outreach to businesses and communities, the San Francisco Fed and the Federal Reserve System Innovation Office launched the
+EmergingTech Economic Research Network (EERN)
+in 2024 to support a better understanding of how new technologies like GenAI are shaping the economies of today and the future.
+12.
+Some examples include using AI to research and develop new crop varieties in agriculture, help scale tasks more effectively in IT and finance, and automate important but time-consuming routine tasks in the health care profession. For more insights on how our business contacts are utilizing AI, see, for example, Federal Reserve Bank of San Francisco (2026; 2025a; 2025b; 2024).
+13.
+Imas (2026) provides an extensive list of the current literature on the productivity impact of AI. Sukharevsky et al. (2025) additionally discuss use cases in the financial services sector.
+14.
+See, for example, discussion by Imas (2026) on reasons why the macroeconomic literature does not find economy-wide productivity gains from AI while microeconomic studies tend to find some gain. Additionally, see work by Acemoglu (2025) and Aghion and Bunel (2024).
+15.
+For example, Yotzov et al. (2026) survey over 5,000 firm executives and find little impact of AI on either employment or productivity over the past three years. Similarly, a McKinsey (2025) survey found that for most organizations, the use of AI did not significantly affect enterprise-wide profits.
+16.
+For example, Ng (2026) describes how AI, already being implemented as a tool in the preliminary approval step of the loan-issuance process, could revolutionize loan applications if coupled with a workflow restructuring. Additionally, panelists at the 2025 Federal Reserve Payment Innovation Conference discussed the potential for AI and blockchain technologies to provide efficiency gains in payments, reduce operational costs in the reconciliation process, and lower risks on both fronts (Board of Governors 2025a,b,c).
+17.
+As Anderson and Kliesen (2006) point out, incoming data during 1995 and 1996 were not signaling an increase in labor productivity growth. Subsequent data revisions showed that productivity began accelerating before 1995.
+18.
+For example, Chair Greenspan argued during the September 1996 FOMC meeting that a pickup in productivity growth, which was not yet evident in the aggregate data but was beginning to appear in some economic analyses of disaggregated data, was helping contain inflation despite strong wage growth figures (Board of Governors 1996). Other policymakers echoed his views and shared anecdotal evidence of U.S. businesses experiencing productivity gains that surpassed official figures.
+19.
+See Board of Governors (1997) for discussions of the role that accelerated productivity might play in containing inflation. Additionally, see Greenspan (1999) for a summary of the findings on productivity growth in the late 1990s, which he attributed to innovations in information technology.
+20.
+The latter half of the 1990s was later recognized as showing an increase in trend productivity growth (Fernald 2015). As Frankel and Orszag (2001) and Mankiw (2001) highlight, there were other factors behind the strong economic performance in the 1990s, including deregulation, globalization, and stable food and energy prices in global markets. For more information on policymakers’ actions in the 1990s and the conditions that supported the roaring 90s, see Daly (2025) and Blinder and Yellen (2001).
+References
+Acemoglu, Daron. 2025. “The Simple Macroeconomics of AI.”
+Economic Policy
+40(121, January), pp.13–58.
+Aghion, Philippe, and Simon Bunel. 2024. “
+AI and Growth: Where Do We Stand?
+” Manuscript, EmergingTech Economic Research Network, Federal Reserve Bank of San Francisco.
+Al-Khalili, Jim. 2015. “
+The Birth of the Electric Machines: A Commentary on Faraday (1832) ‘Experimental Researches in Electricity’
+.”
+Philosophical Transactions, Series A: Mathematical, Physical, and Engineering Sciences
+373(2039), 20140208.
+Anderson, Richard G., and Kevin L. Kliesen. 2006. “
+The 1990s Acceleration in Labor Productivity: Causes and Measurement
+.” Federal Reserve Bank of St. Louis
+Review
+88(3, May), pages 181–202.
+Bergeaud, Antonin. 2024. “
+The Past, Present, and Future of European Productivity
+.” Proceedings from “Monetary Policy in an Era of Transformation,” ECB Forum on Central Banking, Sintra, Portugal, July 1–3.
+Bergeaud, Antonin, Gilbert Cette, and Rémy Lecat. 2016. “
+Productivity Trends in Advanced Countries between 1890 and 2012
+.”
+Review of Income and Wealth
+62(3, September), pp. 420–444.
+Bick, Alexander, Adam Blandin, and David Deming. 2025. “
+The State of Generative AI Adoption in 2025
+.”
+St. Louis Fed On the Economy
+, November 13.
+Blinder, Alan S., and Janet L. Yellen. 2001.
+The Fabulous Decade: Macroeconomic Lessons from the 1990s
+. Century Foundation Press.
+Board of Governors of the Federal Reserve System. 1996. “
+Meeting of the Federal Open Market Committee, Sept. 24, 1996: Transcript
+.”
+Board of Governors of the Federal Reserve System. 1997. “
+Meeting of the Federal Open Market Committee, May 20, 1997: Transcript
+.”
+Board of Governors of the Federal Reserve System. 2025a. “
+Transcript: AI in Payments
+.” Washington, DC, October 21.
+Board of Governors of the Federal Reserve System. 2025b. “
+Transcript: Bridging traditional finance with the digital asset ecosystem
+.” Washington, DC, October 21.
+Board of Governors of the Federal Reserve System. 2025c. “
+Transcript: Tokenized Products
+.” Washington, DC, October 21.
+Daly, Mary C. 2025. “
+Policymaking Amid Change
+.”
+SF Fed Blog
+, November 10.
+David, Paul A. 1990. “The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox.”
+The American Economic Review
+80(2), pp. 355–361.
+Devine, Warren D., Jr. 1983. “From Shafts to Wires: Historical Perspective on Electrification.”
+The Journal of Economic History
+43(2), pp. 347–372.
+Du Boff, Richard B. 1967. “The Introduction of Electric Power in American Manufacturing.”
+The Economic
+History
+Review
+20(3), pp. 509–518.
+Federal Reserve Bank of San Francisco. 2024. “
+How Twelfth District Businesses are Rapidly Embracing GenAI
+.”
+SF Fed Blog
+, May 3.
+Federal Reserve Bank of San Francisco. 2025a. “
+Roundtable on AI and Medical Service Delivery
+.”
+SF Fed Blog
+, July 15.
+Federal Reserve Bank of San Francisco. 2025b. “
+Roundtable on AI and Product Development
+.”
+SF Fed Blog
+, May 14.
+Federal Reserve Bank of San Francisco. 2026. “
+The AI Investing Landscape: Insights from Venture Capital
+.”
+SF Fed Blog
+, February 11.
+Fernald, John G. 2015. “
+Productivity and Potential Output Before, During, and After the Great Recession
+.”
+NBER Macroeconomics Annual
+29, pp. 1–51.
+Fernald, John, Huiyu Li, Brigid Meisenbacher, and Aren S. Yalcin. 2024. “
+Productivity During and Since the Pandemic
+.”
+FRBSF Economic Letter
+2024-31 (November 25).
+Foerster, Andrew. 2024. “
+There’s a lot of hope that we\’ve entered a period of higher productivity growth, maybe spurred by AI. My work suggests that remains unlikely
+.” LinkedIn post (May 2024, accessed February 12, 2026).
+Frankel, Jeffrey, and Peter R. Orszag. 2001. “
+Retrospective on American Economic Policy in the 1990s
+.” Brookings Research.
+Greenspan, Alan. 1999. “
+High-Tech Industry in the U.S. Economy
+.” Testimony before the Joint Economic Committee, U.S. Congress, June 14.
+He, Ran, Jie Cao, and Tieniu Tan. 2025. “
+Generative Artificial Intelligence: A Historical Perspective
+.”
+National Science Review
+12(5).
+Imas, Alex. 2026. “
+What Is the Impact of AI on Productivity? Reconciling the Micro and the Macro Evidence
+.”
+Ghosts of Electricity
+Substack, January 29 (accessed February 12, 2026).
+Kahn, James, and Robert W. Rich. 2026. “
+Trend Productivity Growth Update
+.” November 2025 update to the Kahn-Rich trend productivity model, posted January 26 (accessed February 12, 2026).
+Kennedy, Brian, Eileen Yam, Emma Kikuchi, Isabelle Pula, and Javier Fuentes. 2025. “
+How Americans View AI and Its Impact on People and Society
+.” Pew Research Center Report, September 17.
+Lange, Jason, and Alexandra Alper. 2025. “
+Americans Fear AI Permanently Displacing Workers, Reuters/Ipsos Poll Finds
+.” Reuters, August 20.
+Littman, Michael L., Ifeoma Ajunwa, Guy Berger, Craig Boutilier, Morgan Currie, Finale Doshi-Velez, Gillian Hadfield, Michael C. Horowitz, Charles Isbell, Hiroaki Kitano, Karen Levy, Terah Lyons, Melanie Mitchell, Julie Shah, Steven Sloman, Shannon Vallor, and Toby Walsh. 2021.
+Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report
+.
+Stanford University.
+Mankiw, N. Gregory. 2001. “
+U.S. Monetary Policy During the 1990s
+.” Paper presented at Kennedy School of Government conference on “Economic Policy During the 1990s.”
+McKinsey. 2025. “
+The State of AI in 2025: Agents, Innovation, and Transformation
+.” Survey, November 5.
+Ng, Andrew. 2026. “
+From AI Experiments to AI Products
+.”
+Letters from Andrew Ng
+, January 23, The Batch.
+Nilsson, Nils J. 2009.
+The Quest for Artificial Intelligence: A History of Ideas and Achievements
+. Cambridge University Press.
+Norton, Peter D. 2008.
+Fighting Traffic: The Dawn of the Motor Age in the American City
+. Cambridge, MA: MIT Press.
+Sukharevsky, Alexander, Andy West, Cristina Catania, Davide Grande, and Andrea Tricoli. 2025. “
+How Finance Teams Are Putting AI to Work Today
+.” McKinsey & Company
+Insights
+, November 3.
+Sullivan, J.P. 1995. “Fearing Electricity: Overhead Wire Panic in New York City.”
+IEEE Technology and Society Magazine
+14(3), pp. 8–16.
+Yotzov, Ivan, Jose Maria Barrero, Nicholas Bloom, Philip Bunn, Steven J. Davis, Kevin Foster, Aaron Jalca, Brent Meyer, Paul Mizen, Michael A. Navarrete, Pawel Smietanka, Gregory Thwaites, and Ben Zhe Wang. 2026. “
+Firm Data on AI
+.” NBER Working Paper, 34836, February.
+About the Speaker
+Mary C. Daly is president and CEO of the Federal Reserve Bank of San Francisco. Learn more about
+Mary C. Daly

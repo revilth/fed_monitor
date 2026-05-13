@@ -1,0 +1,144 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-24 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"Remarks at the National Association for Business Economics (NABE) Conference"
+Washington, D.C.
+SOURCE: https://www.chicagofed.org/publications/speeches/2026/feb-24-nabe-economic-policy-conference
+PDF: https://www.chicagofed.org/-/media/publications/speeches/2026/2-24-26-nabe.pdf
+
+CLASSIFICATION: Type A — Economic Outlook
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: N/A (first scored 2026 speech; prior unscored)
+Post-FOMC prior:   N/A (first post-Jan28 speech)
+──────────────────────────────────────────────────────────
+
+⚠ KEY FINDING: Goolsbee's public reputation as the committee's
+most dovish voter is outdated. This speech is materially more
+hawkish on inflation than his 2024 framing.
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   shown some signs of stabilization." [Jan 28 stmt]
+  → Goolsbee: "unemployment rate...4.3%...basically been
+    steady for a year...rate-based measures have shown
+    steadiness at levels comparable to normal expansions."
+
+Own verdict — KEY:
+  "The job market has been steady."
+  "I don't think that says much about the business cycle or
+   labor market slack."
+  → Confident characterization: labor is fine. No downside
+    risk language. Very different from Bowman's fragility frame.
+
+Own analytical contribution:
+  "Low hiring with low firing is not a normal business cycle
+   combination. But it is exactly the combination you would
+   expect if businesses are dealing with heightened uncertainty."
+  → Uncertainty explanation for low-hire/low-fire: it's not
+    weakness, it's caution. Removes the labor case for cuts.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Goolsbee: "Core PCE inflation for the year was around 3%.
+    We made progress in 2023 and 2024, but that progress
+    stalled in 2025."
+
+Own language — KEY:
+  "With inflation at 3%, it is not obvious that our interest
+   rate policy is even restrictive. The real federal funds
+   rate measured that way is pretty close or even a bit below
+   the consensus view of long-run r*."
+  → Joins Logan in questioning whether rates are restrictive.
+    This is the single most important sentence from a voter
+    in 2026 on the neutral-rate debate.
+
+  "Core PCE services excluding housing inflation has been
+   running stubbornly high, at 3.3%, over the past year.
+   That is very unlikely to have come from tariffs, and it's
+   harder to make an optimistic case that high services
+   inflation is just transitory. So we need to be vigilant."
+  → Hawkish on services inflation specifically. He is NOT
+    comfortably looking through non-tariff inflation.
+
+  "Since we have been burned by assuming transitory inflation
+   before and since there are plausible scenarios where
+   inflation again proves more persistent than we forecasted,
+   we should be careful not to put ourselves in a difficult
+   position."
+  → Explicit 2021 lesson: do not reflexively look through.
+    This is the same intellectual frame as Waller's "sequence
+    of transitory shocks" (Apr 17), emerging two months earlier.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none
+
+Own language — KEY:
+  "I feel that front-loading too many rate cuts is not
+   prudent in that circumstance."
+  "Before we cut rates more to stimulate the economy, let's
+   be sure inflation is heading back to 2%."
+  → Explicit conditions for further cuts: confirmed disinflation
+    progress first. No forward guidance on timing.
+
+  "I remain optimistic that there can be more rate cuts this
+   year. But that hinges on seeing actual progress on inflation
+   that shows we are on a path back to 2%."
+  → Conditional dovishness: cuts possible, but conditional
+    on data. Not the unconditional dovish framing of his 2024
+    reputation.
+
+Cut signal status: CONDITIONAL ONLY — cuts possible but
+  require confirmed inflation progress. "Not prudent" to
+  front-load.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL-HAWKISH — significantly more cautious
+               than his public reputation; joins Logan on
+               neutral-rate question from a voter
+
+Directional:   The "Goolsbee is dovish, watch him for cut
+  signals" heuristic is outdated for 2026. He joins Logan and
+  Barkin in questioning whether rates are even restrictive,
+  explicitly warns against front-loading cuts, and flags
+  services inflation as genuinely sticky. His conditional
+  openness to cuts requires confirmed disinflation — a
+  higher bar than committee boilerplate.
+
+Language watch:
+  • "Not obvious our interest rate policy is even restrictive"
+    — a voter using Logan-style language. This is the
+    committee's emerging hawkish fault line.
+  • "Front-loading too many rate cuts is not prudent" — his
+    explicit policy constraint. Track for spread.
+  • Services inflation "harder to make an optimistic case"
+    — anticipates the "sequence of transitory shocks" frame.
+
+Analyst flag: YES
+  → The shift from his 2024 dovish framing to 2026 inflation-
+    first caution is the most important single speaker
+    recalibration in this scoring set. Analyst to verify:
+    does Goolsbee's Feb 24 speech represent a genuine view
+    shift or event-specific caution that reverses later?
+    His post-FOMC speeches have no transcripts — YouTube
+    fallback required.
+══════════════════════════════════════════════════════════

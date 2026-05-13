@@ -1,0 +1,38 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-11 | Jerome H. Powell | Chair | Troika
+"Statement from Federal Reserve Chair Jerome H. Powell"
+Video statement responding to DOJ grand jury subpoena
+SOURCE: https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
+
+CLASSIFICATION: Type B — Institutional/independence statement
+NOT SCORED for hawk-dove content.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: N/A
+Post-FOMC prior:   N/A
+──────────────────────────────────────────────────────────
+
+NOTE: Zero economic outlook content. Powell responds to DOJ
+serving the Fed with grand jury subpoenas, explicitly framing
+it as political retaliation for independent rate-setting.
+
+Key quote (institutional signal only):
+  "This is about whether the Fed will be able to continue to
+   set interest rates based on evidence and economic conditions —
+   or whether instead monetary policy will be directed by
+   political pressure or intimidation."
+
+INSTITUTIONAL SIGNIFICANCE:
+  Powell's 2026 public appearances are entirely devoted to
+  institutional defense, not policy. Jefferson and Williams
+  are carrying the Troika's policy communication load —
+  a highly atypical division of responsibilities for an active
+  hold period. Whether this is a deliberate strategy or a
+  consequence of the political situation is unknown.
+
+ANALYST FLAG: YES
+  → Is the Chair's complete policy silence a coordinated
+    communication strategy? What historical precedent exists?
+══════════════════════════════════════════════════════════

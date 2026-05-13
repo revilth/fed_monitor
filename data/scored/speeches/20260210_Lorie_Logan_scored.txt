@@ -1,0 +1,127 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-10 | Lorie Logan | Dallas Fed President | Just Voter
+"Outlook for the Economy and Monetary Policy"
+FIA-SIFMA Asset Management Derivatives Forum, Austin, TX
+SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl260210
+
+CLASSIFICATION: Type A — Economic Outlook (+ policy implementation section)
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: N/A (first scored 2026 speech)
+Post-FOMC prior:   N/A (first post-Jan28 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   shown some signs of stabilization." [Jan 28 stmt]
+  → Logan: "since mid-year, monthly job gains have remained
+    right around my staff's estimate of the break-even level
+    needed to keep the unemployment rate stable."
+
+Own verdict:
+  "The labor market now appears to be stabilizing, and the
+   downside risks appear to have meaningfully dissipated."
+  → More optimistic than Bowman or even Jefferson on labor.
+    Logan is comfortable with current labor conditions.
+
+Own addition:
+  "Economic activity has rebounded strongly since the first
+   half of last year, bolstered by strong consumer spending
+   and business investment."
+  → Emphasizes resilience, not fragility. No downside flag.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Logan: "PCE inflation...2.8 percent...above the
+    Committee's definition of price stability of 2 percent
+    for nearly five years."
+
+Own language — KEY:
+  "I am not yet fully confident inflation is heading all the
+   way back to 2 percent."
+  "I see several reasons why progress could be slower than
+   expected."
+  → Hawkish uncertainty flag: not confident in disinflation
+    completion. This is more cautious than Jefferson's
+    "tariffs are temporary, disinflation resumes."
+
+  "After last year's rate cuts, it is uncertain how restrictive
+   policy currently is."
+  → KEY PHRASE: Questions whether rates are even restrictive.
+    Logan is the first official to explicitly raise the
+    restrictiveness question in a policy speech.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none (non-voter; less direct
+  reference to FOMC statement language)
+
+Own language — KEY:
+  "The current real fed funds rate...now sits squarely within
+   the range of neutral rate estimates."
+  "Our current stance of policy may be very close to neutral
+   and providing little restraint on economic activity
+   and inflation."
+  → Most hawkish neutral-rate characterization in 2026.
+    "Very close to neutral" means cuts are not obviously
+    warranted — the restriction argument is gone.
+
+  "Right now, I am more worried about inflation remaining
+   stubbornly high."
+  → Explicit asymmetric risk statement toward inflation.
+
+  "If instead we see inflation coming down but with further
+   material cooling in the labor market, cutting rates again
+   could become appropriate. But right now, I am more worried
+   about inflation remaining stubbornly high."
+  → Sets her bar: cuts require labor market cooling AND
+    inflation progress simultaneously. Very high bar.
+
+Cut signal status: ABSENT — explicit inflation-first framing.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — most hawkish regional president speech
+               in 2026; leading indicator of hawkish voter sentiment
+
+Directional:   Logan provides the sharpest articulation of the
+  hawkish analytical case: labor is stable, policy may already
+  be near neutral, inflation progress is uncertain, and she is
+  more worried about inflation than labor. This is the
+  committee's hawkish intellectual pole.
+
+Language watch:
+  • "Policy may be very close to neutral" — Logan's key phrase.
+    If this spreads to voters (especially Jefferson or Williams),
+    it removes the mechanical case for cuts even if inflation
+    falls gradually. Goolsbee (Feb 24) adopts similar language.
+  • "Not yet fully confident inflation is heading to 2%" — her
+    personal inflation confidence bar. Higher than committee avg.
+
+Analyst flag: YES
+  → Logan has the highest analytical credibility of any regional
+    voter (former NY Fed markets desk head). Note: Logan is a Just
+    Voter in 2026 — confirmed by her April 29 dissent against easing
+    bias language. Her "near neutral" framing is the hawkish end of
+    the actual voter coalition. Analyst to assess: if Troika officials
+    adopt Logan's neutral-rate view, what does that imply for the
+    cut timeline?
+══════════════════════════════════════════════════════════

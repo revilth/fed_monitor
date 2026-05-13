@@ -1,0 +1,39 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-21 | Jerome H. Powell | Chair | Troika
+"Acceptance Remarks"
+Paul A. Volcker Public Integrity Award, ASPA Annual Conference (pre-recorded video)
+SOURCE: https://www.federalreserve.gov/newsevents/speech/powell20260321a.htm
+
+CLASSIFICATION: Type B — Institutional/independence speech
+NOT SCORED for hawk-dove content.
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Jan 11, 2026  "Statement from Chair Powell"
+Post-FOMC prior:   N/A (first post-Mar18 appearance)
+──────────────────────────────────────────────────────────
+
+NOTE: Zero economic outlook content. Powell accepts the Paul
+Volcker Public Integrity Award and honors Volcker's legacy of
+withstanding political pressure to pursue price stability.
+Three days after the March 18 FOMC meeting, Powell chose a
+Type B appearance rather than any economic outlook speech.
+
+Thematic continuity with Jan 11: both appearances frame
+Fed independence as the central institutional priority.
+The sustained dual-theme (Volcker legacy + independence under
+pressure) represents a deliberate public posture, not a
+one-off.
+
+INSTITUTIONAL SIGNIFICANCE:
+  This is Powell's second consecutive Type B appearance in 2026.
+  Jefferson and Williams remain the sole Troika voices on
+  monetary policy outlook. This is unprecedented for an active
+  hold period with meaningful macro uncertainty.
+
+ANALYST FLAG: YES
+  → Once Warsh is confirmed, the entire Troika communication
+    dynamic resets. Track any Warsh pre-confirmation public
+    statements as early signaling.
+══════════════════════════════════════════════════════════

@@ -1,0 +1,173 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-30 | Jerome H. Powell | Chair | Troika
+"Discussion at Harvard University"
+Harvard University, Cambridge, MA (Q&A format, moderated by Prof. David Scharfstein)
+SOURCE: https://www.youtube.com/watch?v=oqeGhgbEwr0
+CHANNEL: CNBC Television (53 min)
+
+CLASSIFICATION: Type B with embedded Type A content
+Primary: institutional/historical/career discussion
+Embedded: economic outlook and monetary policy — SCORED BELOW
+
+⚠ This is the ONLY appearance in 2026 where Powell addresses
+current economic conditions. All other 2026 appearances (Jan 11
+statement, Mar 21 Volcker remarks) contain zero policy content.
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: N/A (no prior 2026 economic outlook content to compare)
+Post-FOMC prior:   N/A (first post-Mar18 appearance with any policy content)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none directly
+
+Own language:
+  "The US economy compared to other major open economies is just
+   incredibly dynamic and productive."
+  → Brief, positive framing to Harvard students. Not a current
+    policy signal. Structural confidence, not cycle-specific.
+  Direction: neutral — no cycle-relevant growth comment.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has been
+   little changed in recent months." [Mar 18 stmt]
+  → Powell (in dissent context): "there's sort of downside risk to
+    the labor market, which suggests keep rates low."
+    Brief, non-specific. Acknowledges the risk but does not
+    characterize the labor market independently.
+
+Own language (to students):
+  "It's a time of very low job creation...the unemployment rate is
+   really low, but that doesn't help you if you're coming into that
+   kind of market."
+  → Low-hire, low-fire framing. Same characterization as the
+    committee broadly. No incremental signal.
+
+Shift vs. pre-FOMC: N/A
+Direction: neutral — no new labor characterization beyond committee
+  consensus.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Powell: "We think it's [tariff inflation] really just a one-time
+    price increase. That's been our thinking since the beginning.
+    Right now we think it's adding somewhere between a half and a
+    full percentage point to inflation."
+    Echoes committee consensus language on tariff pass-through.
+
+Own language — KEY (series of shocks):
+  "The tendency is to look through any kind of a supply shock. But
+   a critical essential aspect of that is you have to carefully
+   monitor inflation expectations because you can have a series of
+   these supply shocks and that can lead the public generally...to
+   start expecting higher inflation over time. Why wouldn't they?
+   At the end of a certain number of years the inflation is now just
+   higher and that can happen. So you monitor that very very
+   carefully."
+  → IMPORTANT: Powell articulates the "series of supply shocks"
+    concern on March 30 — the same analytical framework Waller
+    formalizes into "sequence of transitory shocks / more vigilant"
+    on April 17. This dates the concept to the Chair himself,
+    three weeks before Waller's speech.
+
+Own language — expectations:
+  "Inflation expectations do appear to be well anchored beyond the
+   short term, but nonetheless, it's something we will eventually
+   maybe face the question of what to do here. We're not really
+   facing it yet because we don't know what the economic effects
+   will be, but we'll certainly be mindful of that broader context."
+  → Maintains the dovish anchor ("well anchored beyond the short
+    term") while acknowledging the monitoring challenge. More
+    guarded than the standard "well anchored" boilerplate — the
+    qualifier "beyond the short term" is a mild softening.
+
+Direction: neutral with hawkish undertone — "series of shocks"
+  concern explicit; "well anchored beyond the short term" qualifier
+  is slightly more cautious than standard committee language.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Powell: "We feel like our policies are in a good place for us to
+    wait and see how that turns out." [On the energy shock]
+    "Wait and see" = "well positioned" in plain English.
+
+Own language:
+  "There's sort of downside risk to the labor market, which suggests
+   keep rates low, but there's upside risk to inflation, which
+   suggests maybe don't keep rates low. You've got tension between
+   the two objectives."
+  → Powell articulating the dual-risk framework in plain, unscripted
+    language for a student audience. Consistent with Jefferson and
+    Williams' formal framing. No new policy signal.
+
+  "We're not really facing it [the hard policy choice on the energy
+   shock] yet because we don't know what the economic effects will be."
+  → Explicit patience signal: not yet at a point of having to choose.
+
+Cut signal status: ABSENT — "wait and see" holding formula.
+
+Direction: neutral — patient hold confirmed in plain language.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — patient hold; "wait and see" on energy
+               shock; "series of shocks" monitoring concern
+
+Directional:   This is the Chair's only 2026 appearance with
+  economic outlook content. His framing is consistent with
+  committee consensus — tariffs are one-time, energy shock is
+  uncertain, wait and see. The notable addition is his explicit
+  articulation of the "series of supply shocks → expectations risk"
+  concern, in plain language, three weeks before Waller formalizes
+  the same concept. This does not change the policy stance but is
+  significant for the language cycle: the "look through" qualification
+  was in the Chair's mind from at least March 30.
+
+LANGUAGE CYCLE — KEY FINDING:
+  Goolsbee (Mar 7, Bloomberg): "it can lead you in a stagflationary
+    direction...that's always the worst case scenario for the central
+    bank" [earliest explicit stagflation naming from any official]
+  Barkin (Mar 27): "latest in a series of cost-increasing supply
+    shocks"
+  Powell (Mar 30, Harvard): "series of these supply shocks...can lead
+    the public to start expecting higher inflation"
+
+  As of March 30: The "series of shocks → expectations risk" concept
+  has appeared across Goolsbee (Mar 7), Barkin (Mar 27), and now
+  Powell (Mar 30). It is at the dispersed-to-emerging stage — three
+  officials independently articulating the same concern. Not yet in
+  the FOMC statement. Not yet adopted by Jefferson or Williams in
+  formal speeches.
+
+Language watch:
+  • "Series of supply shocks → expectations risk" — Powell's
+    articulation confirms this is not Waller's invention but a
+    concept circulating at the Chair level. Its absence from the
+    formal FOMC statement (so far) is the key gap to watch.
+  • "Well anchored beyond the short term" — Powell's qualifier is
+    slightly more cautious than the standard "well anchored." If this
+    phrasing appears in post-FOMC speeches or the statement, it
+    would signal growing expectations concern at the Troika level.
+
+Analyst flag: YES
+  → The "series of shocks" language cycle is the key analytical
+    finding from this speech. Powell's Harvard remarks confirm the
+    concept was at the Chair level by March 30 — before Waller's
+    Apr 17 formalization. Analyst to assess: given that Powell
+    himself was articulating this concern, why did it not appear in
+    the March 18 FOMC statement (which preceded this speech)? Was
+    it discussed in the meeting but not formalized yet? The minutes
+    (due ~May 19) may answer this.
+══════════════════════════════════════════════════════════

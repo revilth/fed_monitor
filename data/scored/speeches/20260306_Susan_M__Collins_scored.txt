@@ -1,0 +1,111 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-06 | Susan M. Collins | Boston Fed President | Non Voter
+"Observations on the Economic Outlook, and Small Businesses"
+Outlook 2026, Springfield Regional Chamber, Springfield, MA
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/economic-outlook-small-business.aspx
+PDF: https://www.bostonfed.org/-/media/Documents/Speeches/PDF/collins/2026/20260306-text.pdf
+
+CLASSIFICATION: Type A — Economic Outlook (with small business section)
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: N/A (first scored 2026 policy speech)
+Post-FOMC prior:   N/A (first post-Jan28 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   shown some signs of stabilization." [Jan 28 stmt]
+  → Collins (from key takeaways): "labor market conditions
+    softened, with job gains well below the pace in recent
+    years...relatively balanced labor market conditions."
+
+Own verdict:
+  Baseline: "continued solid growth, relatively balanced labor
+   market conditions."
+  → Comfortable with current labor situation. No fragility
+    framing. Closest to committee consensus among voters.
+
+Own regional intelligence:
+  "We hear many accounts of rising costs for insurance,
+   energy, construction, packaging, and inputs. And an
+   issue mentioned in almost every conversation is high
+   housing costs affecting labor availability."
+  → On-the-ground: labor supply constrained by housing costs.
+    Adds texture to the low-hire environment.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Collins: "Even with the economy growing near capacity,
+    and limited price pressures from the labor market,
+    inflation remained elevated."
+
+Own language — KEY:
+  "My outlook has demand exerting some upward pressure on
+   prices, slowing the return of inflation to 2 percent."
+  → Mild hawkish lean: demand is not cooling fast enough
+    to get inflation to target quickly.
+
+  "I do not see an urgency for additional policy adjustments,
+   and I will be looking for clear evidence that inflation is
+   moving durably toward the 2 percent target — something
+   that might occur only over the second half of the year."
+  → "Second half of the year" is her timeline for when
+    evidence might appear. Patient framing.
+
+  "Considerable economic uncertainty remains, exacerbated
+   by the outbreak of hostilities in the Middle East."
+  → Notes geopolitical risk as a complication.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: standard hold language echoed.
+
+Own language — KEY:
+  "She would expect to maintain policy rates at their current,
+   mildly restrictive levels for some time."
+  → "Mildly restrictive" is her rate characterization. More
+    restrictive than Logan/Goolsbee ("near neutral") but less
+    restrictive than pure hold. Implies the bar for cuts is
+    meaningful but not prohibitive.
+
+  "I do not see an urgency for additional policy adjustments."
+  → Clear patience signal. No timeline for cuts.
+
+Cut signal status: ABSENT — patient hold, "mildly restrictive."
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL-PATIENT — comfortable hold, no urgency
+
+Directional:   Collins sits in the middle of the voter spectrum:
+  not as dovish as Bowman, not as hawkish as Cook. Her "mildly
+  restrictive" rate characterization and H2 evidence timeline
+  suggest she could support cuts if disinflation resumes as
+  expected in the second half of 2026.
+
+Language watch:
+  • "Mildly restrictive" — her personal rate label. Between
+    Bowman's "moderately restrictive" and Logan's "near neutral."
+  • "Second half of the year" — her disinflation evidence
+    timeline. Watch for this to compress or extend.
+
+Analyst flag: NO — straightforward neutral-patient stance.
+══════════════════════════════════════════════════════════

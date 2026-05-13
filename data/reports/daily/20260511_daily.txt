@@ -1,0 +1,20 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 11, 2026 (Monday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  None.
+
+NOTE — scraper false positives: The scraper flagged an FOMC statement
+and press conference for May 11. Both are the August 22, 2025 framework
+review and the April 28-29, 2026 press conference page, respectively —
+not new documents. Discarded.
+
+NOTE — Powell Chair term ends today (May 15 is the formal end, but
+May 11 is effectively the final week of his tenure). Kevin Warsh's
+confirmation was announced at the April 29 press conference. No
+succession-related speeches published today.
+
+No new Type A speeches. No report required.
+════════════════════════════════════════════════════════════════

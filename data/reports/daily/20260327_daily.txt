@@ -1,0 +1,127 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: March 27, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Anna Paulson  |  Philadelphia Fed President  |  Just Voter
+     "Monetary Policy and Productivity"
+     SF Fed Macroeconomics and Monetary Policy Conference
+     SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/260327-macroeconomics-and-monetary-policy-conference
+
+  2. Thomas I. Barkin  |  Richmond Fed President  |  Non Voter
+     "Driving Through Economic Fog (Still)"
+     Appalachian Highlands Economic Forum, ETSU, Johnson City, TN
+     SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260327
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  PAULSON  |  Philadelphia Fed President  |  Just Voter
+    [Median voter — most important Just Voter reading]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Paulson frames growth through three AI/productivity scenarios
+  (low, medium, high) with implications for R*. Her current R*
+  estimate is ~3.1% (SEP median), but she sees a plausible range.
+  Structural growth concern: if AI is transformative, the neutral
+  rate rises; if not, it stays lower. She does not provide a
+  near-term growth characterization.
+  Direction: neutral — structural framing, not cyclical signal.
+
+LABOR MARKET
+  "I see no signs that the labor market is contributing to inflation
+  today." Labor is not adding price pressure. Near full employment
+  complicates patience calculations.
+  Direction: neutral.
+
+INFLATION
+  "Inflation has been above our 2-percent target for six years.
+  While we've made significant progress, inflation is still 2.8
+  percent, not 2 percent." KEY STATEMENT: "If inflation were at
+  the 2-percent target, I would feel more comfortable being patient.
+  But if inflation is above 2 percent and has been for some time,
+  I would be more cautious."
+  → Paulson's explicit inflation-first bar. At 2.8% PCE, she is
+    NOT in the patience zone. More restrictive than Jefferson's
+    symmetric dual-risk framing.
+  Also: "Long-term inflation expectations are consistent with 2
+  percent, but they may also be a little more fragile."
+  → Personal qualifier on expectations — more cautious than the
+    standard "well anchored."
+  Direction: hawkish lean — explicit conditions for patience
+  that are not currently met.
+
+MONETARY POLICY
+  "We are better able to calibrate monetary policy when we start
+  from a good place." Her "good place" = 2% inflation. Since we're
+  not there, flexibility is not yet available.
+  Direction: hawkish lean — patience conditional on 2% inflation.
+
+NET SIGNAL: HAWKISH LEAN — inflation-first; explicit 2% precondition
+  for patience; fragile expectations qualifier
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  BARKIN  |  Richmond Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP grew 2% in 2025. Consumer resilience evident in credit card
+  data. Strong earnings, low unemployment, elevated asset values
+  support spending. AI investment generating concrete results at
+  the firm level. BUT: demand remains "narrow" — concentrated in
+  AI ecosystem and wealthy customers. Easing in AI space could
+  ripple through business investment and equity wealth effects.
+  Direction: neutral — solid with concentration risk.
+
+LABOR MARKET
+  Unemployment hovering around 4.4% for 6 months. "Labor market
+  has stabilized." But: "Employment growth is near zero, and younger
+  workers are having a hard time finding jobs in this low-hire
+  economy." Multiple applicants for every position; employers
+  reluctant to hire. "The labor market just feels a bit fragile."
+  Direction: neutral — stable headline, ground-level fragility.
+
+INFLATION
+  "The foggiest part of the outlook is the path forward on inflation."
+  On the ground: businesses recognize loss of pricing power —
+  more than 9 in 10 firms can't raise prices to desired levels.
+  BUT: "The latest in a series of cost-increasing supply shocks
+  after the pandemic, semiconductor chip shortages, the war in
+  Ukraine, tariffs, and immigration enforcement."
+  → "Series of cost-increasing supply shocks" — independent
+    articulation of the cumulative-shock framing (Goolsbee Mar 7
+    named stagflation; now Barkin names the series explicitly).
+    This is the same analytical frame spreading across officials.
+  Direction: genuinely uncertain — pricing-power loss (disinflationary)
+  vs. series of supply shocks (inflationary). Fog metaphor apt.
+
+MONETARY POLICY
+  "We've lowered rates 175 basis points over the last 18 months,
+  leaving the fed funds rate at the higher end of the range of
+  neutral as defined by FOMC participants and outside analysts."
+  → Third official to use near-neutral characterization (Logan Feb 10,
+    Goolsbee Feb 24, Barkin Mar 27). Growing dispersed view.
+  Direction: neutral — higher end of neutral; fog justifies patience.
+
+NET SIGNAL: NEUTRAL — genuine uncertainty; on-the-ground
+  disinflationary signals offset by supply shock concerns
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — MARCH 27
+  Paulson (median voter) + Barkin (high-quality Non Voter) on
+  the same day. Key convergence: both are cautious on cuts, both
+  see the near-neutral rate characterization as relevant (Paulson
+  implicitly via R* framing, Barkin explicitly).
+  Barkin's "series of cost-increasing supply shocks" is the second
+  independent articulation of this concept after Goolsbee's March 7
+  stagflation naming. The idea is spreading.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Paulson Mar 27:  https://www.philadelphiafed.org/the-economy/monetary-policy/260327-macroeconomics-and-monetary-policy-conference
+  Barkin Mar 27:   https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260327
+════════════════════════════════════════════════════════════════

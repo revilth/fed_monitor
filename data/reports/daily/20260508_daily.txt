@@ -1,0 +1,67 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 8, 2026
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY — Hoover Institution Annual Monetary Policy Conference
+  1. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     Panel discussion, Hoover Institution Monetary Policy Conference
+     Stanford, California
+     STATUS: NOT SCORED — panel discussion; no transcript available
+     ACTION: Search YouTube (Hoover Institution channel) for recording
+
+  2. Michelle W. Bowman  |  Governor / Vice Chair for Supervision  |  Just Voter
+     "When Regulation Reshapes Markets: The Migration of Corporate Lending"
+     Hoover Institution Monetary Policy Conference, Stanford
+     STATUS: NOT SCORED — Type B (financial regulation / private credit)
+
+  3. Christopher J. Waller  |  Governor  |  Just Voter
+     "Update on Federal Reserve Bank Operations"
+     Hoover Institution Monetary Policy Conference, Stanford
+     STATUS: NOT SCORED — Type B (Reserve Bank operations / Fed governance)
+
+  4. Lisa D. Cook  |  Governor  |  Just Voter
+     "Perspectives on Tokenization and Implications for the Financial System"
+     BCEAO Conference on Digital Assets, Dakar, Senegal
+     STATUS: NOT SCORED — Type B (digital assets / tokenization)
+════════════════════════════════════════════════════════════════
+
+No Type A (economic outlook) speeches scored today.
+
+NOTE — Hoover panel: The May 8 Hoover conference assembled Goolsbee,
+Bowman, Waller, and Mary Daly (SF Fed) on the same day. Three are Just
+Voters (Bowman, Waller, and likely Daly as Non Voter). Goolsbee's panel
+transcript is the priority recovery target — Hoover panels frequently
+touch on monetary policy stance. Bowman and Waller's prepared remarks
+were Type B (regulatory / operational).
+
+Bowman's corporate lending speech: addresses migration from banks to
+private credit (banks' share fell from 48% to 29% since 2015),
+perverse capital rule incentives, and financial stability implications.
+No economic outlook content.
+
+Waller's operations speech: proposes centralizing and standardizing
+back-office functions across Reserve Banks. No monetary policy content.
+The subject — Fed governance and operational efficiency — carries
+institutional significance but zero monetary policy signal.
+
+Cook's tokenization speech: delivered in Dakar, Senegal; focused on
+cross-border payment implications for emerging economies. No U.S.
+monetary policy content.
+
+Bowman's most recent economic outlook speech remains January 16, 2026.
+Waller's most recent scored outlook speech was April 17, 2026 ("sequence
+of transitory shocks"; most hawkish Just Voter framing post-energy shock).
+Neither updated their stance today.
+
+ACTION ITEM: Run YouTube search on Hoover Institution channel for
+Goolsbee Hoover panel recording.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Goolsbee May 8:  https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+Bowman May 8:    https://www.federalreserve.gov/newsevents/speech/bowman20260508a.htm
+Waller May 8:    https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm
+Cook May 8:      https://www.federalreserve.gov/newsevents/speech/cook20260508a.htm
+════════════════════════════════════════════════════════════════

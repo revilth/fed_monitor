@@ -1,0 +1,135 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-01 | Beth M. Hammack | Cleveland Fed President | Just Voter
+"Statement regarding her vote at the April 28–29, 2026 FOMC meeting"
+Federal Reserve Bank of Cleveland (published May 1, 2026)
+SOURCE: https://www.clevelandfed.org/collections/speeches
+
+CLASSIFICATION: Type A (embedded) — Dissent statement with explicit
+economic outlook rationale. Brief but high-signal: first post-FOMC
+economic outlook from any voter; the only formal written explanation
+of the easing bias dissents.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: N/A (no prior Hammack economic outlook scored)
+Post-FOMC prior:   N/A (first post-FOMC statement)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+"Activity in the US economy has been resilient thus far in 2026."
+Consistent with committee consensus. No elaboration.
+Direction: neutral.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "unemployment rate has been little changed" [Apr 29 stmt]
+  → Hammack: "The unemployment rate has been little changed near
+    my estimate of full employment since last summer."
+
+Own verdict: "Near my estimate of full employment" — she explicitly
+  places the current unemployment rate at or near full employment.
+  This is the most hawkish labor characterization from any voter:
+  no downside risk, no softening, no "susceptible to shocks."
+  Jefferson (Apr 7): "susceptible to adverse shocks." Powell (Apr 29):
+  "labor demand has clearly softened." Hammack sees neither concern.
+
+Direction: HAWKISH — "near full employment" is the most restrictive
+  labor characterization of any voter. [Inference: by placing labor
+  at full employment, Hammack removes the dovish leg of the dual-risk
+  argument — she does not state this framing directly.]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase in
+   global energy prices." [Apr 29 stmt]
+  → Hammack does NOT echo the energy attribution framing.
+
+Own language — KEY:
+  "Inflation pressures continue to be broad based, and rising oil
+   prices present an additional source of inflationary pressure."
+  → IMPORTANT FRAMING DIFFERENCE. The statement attributes elevated
+    inflation "in part" to energy — a dovish framing that isolates
+    energy as the cause. Hammack frames inflation as "broad based"
+    and treats energy as an ADDITIONAL pressure ON TOP of existing
+    broad inflation. This is considerably more hawkish than the
+    statement's attribution framework.
+
+Direction: HAWKISH — rejects the statement's energy-attribution
+  framing; describes inflation as broad-based with energy as additive.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Dissent rationale (full):
+  "I supported holding the federal funds rate steady. I dissented
+   from the post-meeting statement because I did not believe it was
+   appropriate to include an easing bias around the future path for
+   monetary policy. The current FOMC statement references language
+   around 'additional adjustments.' This forward guidance was put
+   into the statement to signal a pause rather than an end to the
+   easing cycle. I see this clear easing bias as no longer appropriate
+   given the outlook."
+
+  → Hammack is not ambiguous: she wants the easing bias removed now.
+    Her reasoning: the language was designed to signal a pause (not
+    a terminal hold), but the current outlook — broad inflation, full
+    employment, energy as additive pressure — no longer warrants even
+    that implicit cut signal.
+
+Risk assessment:
+  "Uncertainty around the economic outlook is elevated, with upside
+   risks to inflation and downside risks to growth and employment."
+  → She acknowledges downside growth/employment risks — she is not
+    calling for a hike. The symmetric risk framing explains why she
+    supports a hold. [Inference: her "broad based" inflation framing
+    combined with "near full employment" labor effectively removes both
+    sides of a dovish argument — she does not state this combined
+    implication explicitly.]
+
+Cut signal status: EXPLICITLY OPPOSED — wants easing bias removed.
+Direction: HAWKISH — most hawkish voter statement since Logan Feb 10.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — first post-FOMC statement from any voter;
+               most hawkish economic characterization from any
+               Just Voter in the post-April 29 period.
+
+Directional:   Hammack's statement is the clearest post-FOMC
+  articulation of the hawkish minority position. Three key
+  departures from committee consensus:
+  (1) Labor at "full employment" — no downside risk acknowledged
+  (2) Inflation "broad based" — rejects the energy-attribution framing
+  (3) Easing bias "no longer appropriate" — explicit removal call
+
+  Together these define the committee's hawkish flank: if
+  Logan and Kashkari statements are similar, the committee has a
+  durable 3-voter bloc pushing for neutral guidance.
+
+Language watch:
+  • "Broad based" inflation — directly contradicts the statement's
+    energy-attribution framework. If this framing spreads to the
+    Troika, it would signal the look-through case is weakening.
+  • "No longer appropriate" (easing bias) — the strongest language
+    any dissenter has used about forward guidance since 2026 began.
+    Watch whether Logan and Kashkari use similar language in their
+    own statements (if published).
+  • "Near my estimate of full employment" — [Inference: places labor
+    at full employment, implying no dovish case for easing bias.]
+    If Jefferson adopts similar language, the committee's center has
+    shifted.
+
+Analyst flag: YES
+  → Does Logan publish a parallel dissent statement? Kashkari?
+    If all three dissenters publish written explanations (as Hammack
+    has here), compare their economic characterizations — identical
+    framing across three dissenters would signal coordinated messaging
+    and a more durable hawkish bloc than three individual views.
+══════════════════════════════════════════════════════════

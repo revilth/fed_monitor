@@ -1,0 +1,116 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-06 | Philip N. Jefferson | Vice Chair | Troika
+"Economic Outlook and Supply-Side (Dis)Inflation Dynamics"
+Brookings Institution, Washington, D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm
+
+CLASSIFICATION: Type A + conference paper (supply-side section)
+The economic outlook and policy sections are fully Type A;
+the supply-side section is a conference contribution (Type B).
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: Jan 16, 2026  "Economic Outlook and Monetary Policy Implementation"
+Post-FOMC prior:   N/A (first post-Jan28 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   shown some signs of stabilization." [Jan 28 stmt]
+  → Jefferson: "unemployment rate was 4.4 percent in December
+    and has changed little in recent months...pace of job
+    creation has eased."
+
+Own verdict:
+  "I see the overall labor market as roughly in balance, with
+   a low-hiring, low-firing environment prevailing."
+  → Neutral. Stable characterization, no directional lean.
+
+Own qualifier:
+  "In this less dynamic labor market, the downside risks to
+   employment remain, but my baseline is for the unemployment
+   rate to hold approximately steady throughout this year."
+  → Acknowledges downside risks but baseline is stability.
+    Less pessimistic than Bowman on fragility.
+
+Shift vs. pre-FOMC (Jan 16): MINIMAL — same "roughly in
+  balance" characterization. Jan 16 noted slowdown; Feb 6
+  confirms stabilization. Slight dovish relief.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Jefferson: "inflation remains elevated relative to our
+    2 percent target...progress on disinflation has stalled
+    over the past year."
+
+Own language — KEY:
+  "The stall in the disinflationary process is mainly because
+   of tariffs...I expect the disinflationary process to resume
+   this year once increased tariffs pass through more fully
+   to prices."
+  → Dovish anchor: tariff inflation is temporary; disinflation
+    resumes when pass-through completes.
+
+  "A one-time shift in the price level...anchored inflation
+   expectations should limit second-round effects."
+  → Explicitly adopted the committee's key dovish framing.
+    No second-round effects = no need to tighten further.
+
+Shift vs. pre-FOMC (Jan 16): UNCHANGED — same "tariffs are
+  temporary, disinflation resumes" framework. Very stable.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Jefferson: "I supported the FOMC's decision last week to
+    maintain the federal funds rate at the current level."
+
+Own language:
+  "Those adjustments put our policy rate broadly in the range
+   of neutral while maintaining a balanced approach."
+  "The current policy stance is well positioned to address
+   the risks to both sides of our dual mandate."
+  → Explicit neutral-rate characterization: rates are in the
+    neutral range (not restrictive). This is the key signal —
+    it sets a higher bar for further cuts since he is not
+    arguing rates are restricting the economy.
+
+Cut signal status: ABSENT — "well positioned" holding formula,
+  no directional guidance.
+
+Shift vs. pre-FOMC (Jan 16): MARGINAL — Jan 16 said "well
+  positioned to determine extent and timing of additional
+  adjustments," implying future action possible. Feb 6 drops
+  this framing and emphasizes current neutral positioning.
+  Slight hawkish lean on monetary policy section.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — stable hold, broadly in neutral range
+
+Directional:   Jefferson's Feb 6 speech establishes his
+  baseline: labor is stabilizing, tariff inflation is
+  temporary, rates are broadly neutral. The "well positioned"
+  formula replaces any forward guidance. This is the most
+  stable, committee-consensus-oriented speech of any Troika
+  member in early 2026.
+
+Language watch:
+  • "Policy rate broadly in the range of neutral" — this is
+    a significant admission if adopted by others; it reduces
+    the mechanical case for cuts. Williams does NOT use this
+    language in Mar 3. Track if Jefferson upgrades or
+    downgrades this characterization.
+  • "One-time shift in the price level / no second-round
+    effects" — confirming this as committee-wide language.
+
+Analyst flag: NO — trajectory stable and clear.
+══════════════════════════════════════════════════════════

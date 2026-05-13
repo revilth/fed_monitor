@@ -1,0 +1,40 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 10, 2026 (Sunday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Lorie Logan  |  Dallas Fed President  |  Just Voter
+     "Look Up: Remarks at Duke University Economics Department Commencement"
+     Duke University, Durham, North Carolina
+     STATUS: NOT SCORED — Type B (commencement address)
+     SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+════════════════════════════════════════════════════════════════
+
+No Type A speeches scored today.
+
+Logan's commencement address is a motivational speech structured around
+themes of admiration, curiosity, optimism, and teamwork. The single
+sentence of economic content: "You are graduating into a turbulent
+economy. War in the Middle East has caused a global energy shock.
+Artificial intelligence is transforming jobs and industries. Although
+the labor market is in balance, many employers are slow to hire.
+Inflation is still too high."
+
+Economic read from commencement language:
+  • "Labor market is in balance" — consistent with Logan's May 1
+    dissent (stable, not a concern). Neutral on labor.
+  • "Inflation is still too high" — consistent with Logan's dissent
+    framing ("meaningfully above 2% even before energy"). No new
+    signal beyond what the dissent already established.
+  • No policy stance language. No scenario framing.
+
+Net: zero new information beyond confirming Logan's May 1 dissent
+framing remains her baseline.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Logan May 10:  https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+Logan May 1:   https://www.dallasfed.org/news/releases/2026/nr260501dissent
+════════════════════════════════════════════════════════════════

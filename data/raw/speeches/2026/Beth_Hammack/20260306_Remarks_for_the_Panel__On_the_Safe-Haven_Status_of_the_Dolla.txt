@@ -1,0 +1,105 @@
+Home
+›
+Speeches
+Speech
+Remarks for the Panel: On the Safe-Haven Status of the Dollar
+Download pdf
+Beth M. Hammack
+President and Chief Executive Officer
+03.06.2026
+1:30 PM
+                        EST
+In Person
+2026 US Monetary Policy Forum, Kent A. Clark Center for Global Markets, University of Chicago Booth School of Business, New York, NY
+Before I begin, let me note that the views I’ll express today are my own and not necessarily those of the Federal Reserve System or my colleagues on the Federal Open Market Committee.
+When people talk about the safe-haven status of the dollar, they often point to flight-to-quality episodes like the Global Financial Crisis and the early days of the COVID pandemic. For me, a different episode stands out, one from before I became a Federal Reserve policymaker.
+On the evening of Friday, August 5th, 2011, Standard & Poor’s downgraded the United States’ long-term credit rating to AA+.
+1
+At the time, I ran a US cash trading desk, and there were lots of questions about how markets would react to the government’s first rating below AAA. Even though stock market indexes fell the following Monday, Treasury prices rallied. Investors were willing to accept lower yields on US government debt rather than higher yields that are often necessary for lower-rated securities. The value of the US dollar declined relative to the Japanese yen and the Swiss franc in the days that followed. But the broad trade-weighted dollar index rose.
+2
+This experience reinforced to me that, in times of financial trouble, investors and governments alike place great trust in the US dollar.
+In my brief prepared remarks today, I’ll discuss the underpinnings of the dollar’s leading international role, including its safe-haven status, and point to a few potential developments that bear watching. While I don’t see any big shifts in the dollar’s standing on the immediate horizon, the world is constantly changing. We shouldn’t take for granted the conditions that have made the dollar the world’s dominant currency.
+3
+Why the Dollar Stands Apart
+The dollar’s position depends first and foremost on the United States’ strong rule of law. Our legal institutions provide a reliable framework for enforcing contracts and protecting property rights. This stability fosters confidence among investors and nations alike.
+Being the leading currency brings two big advantages. First, the dollar is widely used, and this lowers transaction costs, making international commerce less costly for both Americans and others around the globe. Second, foreign investors’ preferences for holding dollar-denominated assets means that borrowing costs are lower for US households, businesses, and the government. In addition, investment levels are higher than domestic savings alone would allow.
+When I think about currency, I think about its three main purposes: a medium of exchange, a unit of account, and a store of value.
+As a medium of exchange, the dollar is clearly the dominant currency. The United States is the second-largest trading nation and the world’s largest goods importer.
+4
+More than half the world’s trade is denominated in dollars. Internationally, large shares of loans, deposits, and debt are all denominated in dollars.
+5
+Additionally, the dollar plays a central role in foreign-exchange transactions across the globe. Today, nearly 90 percent of every day’s $9.6 trillion in FX transactions involve US dollars.
+6
+The euro, the next strongest contender, occupies a distant second place at 30 percent.
+As a unit of account, the dollar plays a global role in allowing individuals and businesses to easily compare prices of goods and services. Pricing of gold and oil, for example, is mainly conducted in dollars. The dollar serves as the unit of account in some foreign economies, while a number of other countries are less formally anchored via dollar pegs or managed floats to baskets that include the dollar.
+Finally, the dollar is a reliable store of value for multiple reasons. First, our capital account is open, so investors can move money in and out of the US freely. Second, the depth and liquidity of our capital markets allows buyers and sellers to transact quickly and at low cost. Third, we have a well-regulated financial system in which investors have confidence that their holdings are secure.
+Governments and their central banks around the globe continue to hold most of their official reserves in liquid dollar assets, notably Treasuries. They use these official dollar reserves for a variety of reasons, including to manage exchange rates, service debt, and pay for imports. By the early 2000s, dollar holdings accounted for nearly 72 percent of global foreign-exchange reserves following the East Asian and Russian financial crises. The dollar’s share of global reserves has fallen since that time, to a little below 60 percent, but the dollar remains the world’s reserve currency by a wide margin.
+So how does the Fed fit into all of this? You don’t often hear Fed policymakers talk about the dollar. That’s because the Treasury Department holds primary responsibility for formulating international economic policies and managing the value of the dollar. The Federal Reserve's congressionally assigned dual mandate is to conduct monetary policy in pursuit of maximum employment and price stability. The dollar is one of many factors affecting the economy, so it’s something I’m watching. In addition, the Federal Reserve has responsibility for monitoring and promoting financial stability, and the dollar is an important price in the interconnected global financial system.
+Delivering on our commitments is an important way the Federal Reserve helps ensure the dollar remains a reliable store of value and that Americans continue to reap benefits from its global status. This includes bringing inflation back to our 2 percent goal, sustaining a healthy labor market, and supporting a resilient financial system. High inflation erodes the purchasing power of dollar cash holdings and nominal bonds.
+Currently, US inflation is too high and has been above our objective for the past five years. The latest PCE inflation reading was 2.9 percent in December 2025. I see inflationary pressures as broad based. Tariffs are only one area of concern for businesses, which also report that rising prices for health insurance and electricity are pushing up costs.
+However, the Fed isn’t focused only on inflation. We have a dual mandate, and we need to balance elevated inflation against the labor market softening we’ve seen over the last year. Given this combination and recent rate reductions, I believe policy is in a good position. The fed funds rate is around neutral, which allows us to see how things are going to play out. Under my base case, I think policy should be on hold for quite some time as we see evidence that inflation is coming down and the labor market stabilizes further. But it’s easy to envision other scenarios, as well, so I see two-sided risks to rates.
+The Fed’s independence, along with its accountability to Congress, is critical to maintain the world’s confidence in our commitment to 2 percent inflation. Through its actions, the Fed has earned credibility as an institution that conducts monetary policy based on evidence and economic data rather than on short-term political pressures. In turn, this credibility helps us achieve our monetary policy objectives, including low and stable inflation, which has the added benefit of supporting the safe-haven status of the dollar.
+Developments to Watch
+While the dollar’s share of global reserves may have peaked, it’s difficult to envision imminent major changes to the dollar’s international role. One reason is that the more people use a currency, the stronger the network effects and the bigger the benefits. Everyone gains from using the same standard. The dollar is used in most foreign-exchange transactions, even when Americans aren’t involved. The standard doesn’t change quickly. But it can change.
+From the mid-19th century until World War I, the British pound was the leading currency for trade, capital investment, and reserves around the world. The pound and dollar traded the top spot between the world wars, after which the dollar became the leading international currency. The Japanese yen and the Swiss franc, while far from internationally dominant currencies, have traditionally been considered safe-haven currencies. This is due to their large international creditor positions, Japan’s low-interest rate environment, and Switzerland’s political neutrality.
+So, what confluence of events might eventually affect the dollar’s status as the world’s dominant currency?
+Moving away from the dollar would likely require an attractive alternative. The euro has been seen by some as the heir apparent to the dollar. However, Europe’s lack of a fiscal union and common debt instrument have kept the euro in an understudy role—so far. It’s possible that interest in the euro could increase if the European Union expands issuance of joint debt. But there is a very long way to go before this market would catch up to the depth and liquidity of dollar-denominated Treasury markets.
+Digital currencies, including cryptocurrencies, could provide another alternative to holding dollars. Today, many digital currencies are quoted in dollars, although this need not remain the case. While digital currencies provide some novel payment methods, I have yet to see compelling evidence of broad use cases for them. In addition, the current pricing volatility of cryptocurrencies makes them a less certain store of value compared with the dollar. Until these issues are resolved, I remain skeptical that they pose a threat to the dollar’s international status. On the flip side, rising use of stablecoins that are pegged to the dollar could increase demand for dollar-denominated assets and the Treasuries that back them.
+Geopolitical developments are another factor to watch. World wars in the 20th century played some role in reordering the international currency system. More recently, sanctions that have cost some countries access to SWIFT have led to the creation of alternative systems for cross-border payments. These alternative systems could reduce the need or desire for settling in dollars and holding portfolios in dollar assets. Evolving international relationships could also reduce demand for trading partners to invoice transactions in dollars.
+Finally, there is the unsustainable path of US fiscal debt. The Congressional Budget Office warns that continued growth in US debt likely will slow economic growth, raise interest payments to foreigners, and pose risks to the economic and fiscal outlook. If this scenario should unfold, foreigners, who hold about a third of all privately held US public debt, may choose to diversify out of dollar assets, or they could demand higher interest rates to compensate for additional perceived risk. To date, I hear from market participants that while investors may be reducing the proportion of dollar assets in their portfolios, they are still at a neutral or overweight level. But we should not take these allocations as permanent.
+Conclusion
+In conclusion, developments along these lines, taken individually or together, still might not be enough to unseat the dollar from its leading international role or even move us toward a multipolar system with the dollar in front but sharing influence with other currencies. As I noted earlier, the depth of investable assets in US markets is unparalleled. America’s legal system endures as one in which investors can be confident that contracts will be enforced and laws upheld. And with support from an independent Federal Reserve, the nation’s economy and its financial institutions are generally strong and stable.
+The dollar’s status depends on preserving the fundamental qualities that underlie its strength, qualities which provide a solid foundation for any currency. This includes maintaining central bank independence so we can deliver on our mission. As a Federal Reserve policymaker, I’m committed to achieving our price stability and maximum employment objectives on behalf of the American public.
+Footnotes
+See “Research Update: United States of America Long-Term Rating Lowered To 'AA+' on Political Risks and Rising Debt Burden; Outlook Negative.” 2011. S&P Global.
+spglobal.com/ratings/en/regulatory/article/-/view/sourceId/6802837
+Return to 1
+See Broad Index of the Foreign Exchange Value of the Dollar,
+https://www.federalreserve.gov/releases/h10/weights/default.htm
+Return to 2
+I’m grateful to Doug Campbell, Bernardo Candia, Qingqing Cao, Owen Humpage, Edward Knotek, and Pierlauro Lopez for assistance with these remarks.
+Return to 3
+See “Countries & Regions,” United States Trade Representative.
+ustr.gov/countries-regions
+.
+Return to 4
+See Carol Bertaut, Bastian von Beschwitz, and Stephanie Curcuru. 2025. “The International Role of the US Dollar–2025 Edition,” FEDS Notes, July. Board of Governors of the Federal Reserve System.
+doi.org/10.17016/2380-7172.3856
+.
+Return to 5
+See “Triennial Central Bank Survey of Foreign Exchange and Over-the-Counter Derivatives,” Bank for International Settlements. 2025.
+bis.org/statistics/rpfx25.htm
+. Data discussed in these remarks come from Table 4, 14. Because each foreign-exchange transaction involves two currencies, the shares add up to 200 percent. The BIS surveys foreign-exchange activity in April every three years.
+Return to 6
+Suggested Citation
+Hammack, Beth M.
+		
+			
+			
+			
+			
+			
+			
+				
+					
+					
+					
+					
+					
+					“Remarks for the Panel: On the Safe-Haven Status of the Dollar.”
+				Speech,
+			2026 US Monetary Policy Forum, Kent A. Clark Center for Global Markets, University of Chicago Booth School of Business, New York, NY,
+			March
+06,
+2026.
+https://doi.org/10.26509/sp-20260306
+Share
+President's upcoming events
+Subscribe to receive notifications about President Hammack's upcoming speaking engagements and text from her latest speeches.
+Related resources
+About Us
+The Federal Reserve Bank of Cleveland (commonly known as the Cleveland Fed) is part of the Federal Reserve System, the central bank of the United States.
+Learn more
+President and CEO
+Learn about the work of the president and CEO of the Federal Reserve Bank of Cleveland.
+Learn more

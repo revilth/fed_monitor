@@ -1,0 +1,100 @@
+Speech
+There Is No Try
+May 04, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the Cynosure Group Spring Symposium, New York City
+As prepared for delivery
+Introduction
+Good afternoon. I’d like  to thank the Cynosure Group for having me here today. Randy often needles me  for using overly modern cultural references in my discourse—by which he means  those that postdate Cicero. In that regard, I can’t help but point out that Cynosure  refers to the constellation commonly known as the Little Dipper, and this event  is being held on May the 4th. A perfect alignment of the stars, if there ever  was one.
+Today, I will talk about  how the Federal Reserve is working to achieve its dual mandate of maximum  employment and price stability at a time of great uncertainty. I’ll also  discuss the U.S. economy and monetary policy. And I’ll give my economic  outlook.
+Before I go further, I  must give the standard Fed disclaimer that the views I express today are mine  alone and do not necessarily reflect those of the Federal Open Market Committee  (FOMC) or others in the Federal Reserve System.
+A Future in Motion
+A wise Jedi master once  said, “Always in motion is the future,” and that is especially true today. The  Middle East conflict has introduced significant and unpredictable risks to  economies across the globe, and it came amid what was already an uncertain and  unusual environment in the U.S.
+In fact, this time last  year, “uncertainty” was the overwhelming theme in remarks I gave about the  economy. It was also mentioned a record number of times in the Federal Reserve’s  Beige Book, which summarizes reports on economic conditions across the country.
+At that time, the  uncertainty stemmed from trade and other government policies. Those forces are  still in play. Nonetheless, the U.S. economy has so far remained remarkably  resilient. Real GDP grew 2 percent in 2025 and is poised to maintain that pace for  the rest of this year. Consumer spending has held up, and business investment  has remained robust, fueled in large part by AI-related outlays. These factors  have helped offset declines in spending on residential construction and by the  federal government.
+When evaluating the  economy, it’s imperative to look at the totality of the data and how it  evolves. After all, a little more knowledge lights the way.
+So, I’m going to spend  some time discussing what the data are telling us about the economy, the labor  market, and inflation. I’ll start with employment.
+The Living Force
+Lately, the labor market  has shown conflicting signs: Much of the hard data points to stabilization, while  some of the soft data suggest continued gradual slowing.
+I’ll start with the hard  data. At 4.3 percent, the unemployment rate has changed little over the past  nine months, and payroll growth has remained low but at levels consistent with underlying  labor force growth. In addition, unemployment insurance claims and other  forward-looking measures of layoffs continue to be low and stable.
+Meanwhile, some soft  data suggest a less sanguine view. Perceptions of job availability from the  Conference Board survey have continued to trend downward. Similarly, we have  yet to see signs of sustained stabilization in the “job security gap,” which is  the difference between job-finding and job-loss expectations in the New York  Fed’s Survey of Consumer Expectations.
+1
+From the perspective of employers, the National Federation of Independent  Business
+2
+survey measure of how  difficult it is to fill positions has been moving downward. Together, these  indicators suggest increasing labor market slack.
+Although this dissonance  in the hard and soft data may reflect the effects of a low-hire, low-fire labor  market, it bears continued close monitoring for signs that conditions are  shifting.
+A Disturbance in the Force
+On the price stability  side of the Fed’s dual mandate, overall inflation—as measured by the Personal  Consumption Expenditures price index—rose to 3-1/2 percent in March. The  combination of higher tariffs and energy prices has contributed about a  percentage point to that figure. I expect inflation to remain elevated and  above the FOMC’s longer-run 2 percent goal for the next few quarters, largely due  to those two factors.
+The effects of tariffs  continue to be borne overwhelmingly by domestic producers and consumers, and they  have not yet fully played out. I anticipate the pass-through of current tariffs  to prices to be mostly completed in the next few months and therefore their  effects on the inflation rate to fade. However, I also expect there will be a  new round of tariffs in the coming months, which would put additional upward pressure  on import prices.
+In addition, the Middle  East conflict has brought about a surge in the price of oil and other energy and  non-energy inputs. Along with the rising cost of fuel, there are also pass-through  costs in the form of higher airfares, groceries, fertilizers, packaging, and  other consumer products.
+Notable supply-chain  disruptions have also emerged. In particular, the flash PMI surveys for April  showed abrupt, sharp increases in delivery times and input prices, especially  outside of the U.S.
+3
+This echoes the severe shortages and supply disruptions that the world economy  experienced in 2021 as it emerged from the pandemic.
+Unlike then, the labor  market is not adding to inflation pressures, as seen in the New York Fed’s  Labor Market Tightness Index
+4
+and confirmed by the data  on wage growth. This is reassuring, since one lesson from the post-pandemic  period was that a perfect storm of higher input
+and
+labor costs led to  larger-than-normal pass-through to prices, exacerbating the inflationary  effects of the shocks. In addition, underlying inflation outside of imported  goods and energy has so far remained stable, and there are still no signs of  significant second-round effects from tariffs spilling over to the rest of the  economy.
+Another positive sign: Inflation  expectations have remained well anchored despite the deluge of shocks. In the  New York Fed’s Survey of Consumer Expectations, while one-year-ahead inflation  expectations have picked up, medium- and longer-term expectations have remained  solidly anchored. We see the same pattern in market-based measures. This is  critically important, because well-anchored expectations have proven to be  invaluable to ensuring price stability during unexpected shocks and extreme  uncertainty.
+Bringing Balance to the Force
+The elevated levels of  inflation, mixed signals from the labor market, and heightened uncertainty from  the Middle East conflict present an unusual set of circumstances, but the  current stance of monetary policy is well positioned to balance the risks to  our maximum employment and price stability goals. Accordingly, at its meeting  last week, the FOMC decided to maintain the target range for the federal funds  rate at 3-1/2 to 3-3/4 percent.
+5
+Looking ahead, my base  case is for inflation to be about 3 percent this year, before dropping to our 2  percent target in 2027 as the effects of tariffs and energy prices move into  the rearview mirror.
+I anticipate real GDP  growth to be between 2 and 2-1/4 percent this year and next. Consequently, with  growth around its trend pace, I expect the unemployment rate will remain in its  recent range of 4-1/4 to 4-1/2 percent.
+Right now, the future is  difficult to see, and the risks to both sides of our mandate have increased. The  extent and duration of the effects of supply disruptions and higher energy  prices that are emanating from the Middle East conflict are key factors that  will shape the global economic outlook. We simply can’t know how this will play  out. Market expectations of the future path of oil prices are fairly benign,  but several plausible scenarios entail more severe dislocations in both prices  and quantities.
+Because the global  economy is highly integrated, the emerging supply-chain issues will have  wide-ranging consequences. For example, Asian countries that play a key role in  the supply of high-tech equipment are particularly exposed to shortages of  various commodities. Thus, the conflict could result in a larger and broader-based  supply shock that has more severe adverse consequences for inflation and  economic activity.
+To paraphrase our Jedi  master, “Much to learn we still have.”
+Adaptation Is Key
+Before I close, I’d like  to say a few words about the Fed’s balance sheet. The FOMC operates in an ample  reserves framework, where interest rate control is exercised primarily through  administered rates, and the active management of reserves is not required.
+6
+Adaptation is the key.  Determining when reserves are ample is an inexact science. It depends on  careful monitoring and analysis of a variety of market indicators related to  the federal funds market, the repo market, and payments to help assess the  state of reserve demand conditions.
+We are well positioned  to manage shifts in demand for reserves and other Federal Reserve liabilities  that result from changes in the banking system—whether that’s due to  regulations, financial sector innovations, or seasonal fluctuations, such as  Tax Day.
+The Mission
+I can’t help but end  with my favorite quote from the Star Wars universe: “Do or do not. There is no  try.”
+Despite the uncertainty,  we have a mission. I am steadfastly committed to supporting maximum employment  and bringing inflation down to our 2 percent longer-run goal on a sustained  basis.
+In assessing the future  path of monetary policy, my views, as always, will be based on the evolution of  the totality of the data, the economic outlook, and the balance of risks to the  achievement of our maximum employment and price stability goals.
+May the 4th be with you.
+1
+Federal Reserve Bank of New  York,
+Survey of Consumer Expectations
+(March 2026).
+2
+NFIB Small Business Employment Index,
+March 2026 Jobs Report
+.
+3
+S&P Global,
+PMI®
+(April Flash Manufacturing) for  China, Eurozone, Japan, Mexico, South Korea, Taiwan, United Kingdom, and United  States.
+4
+Federal Reserve Bank of New York,
+Heise, Pearce, Weber (HPW) Labor Market  Tightness  Index
+(February 2026).
+5
+Board of Governors of the Federal  Reserve System,
+Federal Reserve issues  FOMC  statement
+, April 29, 2026.
+6
+Board of Governors of the Federal  Reserve System,
+Statement Regarding Monetary  Policy Implementation and Balance Sheet Normalization
+, January 30, 2019.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map

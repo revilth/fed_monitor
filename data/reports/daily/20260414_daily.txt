@@ -1,0 +1,38 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: April 14, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Semafor World Economy 2026"
+     Washington D.C.
+     SOURCE: https://www.chicagofed.org/publications/speeches/2026/apr-14-semafor-world-economy
+     STATUS: Panel discussion — no transcript. NOT SCORED.
+
+  2. Michael S. Barr  |  Governor  |  Just Voter
+     "Rural Communities: Worth the Investment"
+     Strengthening America's Economy through Rural Investment Forum
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260414a.htm
+     TYPE: B — Rural economic development. No monetary policy content.
+════════════════════════════════════════════════════════════════
+
+Neither appearance is scoreable today.
+
+Goolsbee's most recent scored appearance is CNBC Mar 23 (hawkish —
+"inflation's got to be a little ahead of employment"). His post-Mar 23
+view is unknown. The Semafor panel transcript would update his stance
+~4 weeks after his Mar 23 interview.
+
+ACTION: Search YouTube for Semafor World Economy 2026 recording
+  featuring Goolsbee.
+  Try: yt-dlp search "Goolsbee Semafor 2026" or check
+  https://www.youtube.com/@semaforworld
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee Semafor:  https://www.chicagofed.org/publications/speeches/2026/apr-14-semafor-world-economy
+  Barr (Type B):     https://www.federalreserve.gov/newsevents/speech/barr20260414a.htm
+════════════════════════════════════════════════════════════════

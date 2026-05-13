@@ -1,0 +1,88 @@
+Skip to main content
+Speech by President Lorie Logan
+Outlook for the economy and monetary policy
+Lorie Logan
+February 10, 2026
+Dallas Fed President Lorie Logan delivered these remarks at the FIA-SIFMA Asset  Management Derivatives Forum in Austin, Texas.
+Good afternoon, everyone, and happy new year to all. I’m excited to welcome you to the Eleventh Federal Reserve district, and I appreciate the opportunity to talk with you at this year’s Asset Management Derivatives Forum about the U.S. economy and monetary policy. Given your interests and the conference agenda, I’ll also take the opportunity to touch on some recent developments in the implementation of monetary policy. I look forward to a robust discussion. Before I begin, I should note these are my views and not necessarily those of my Federal Reserve colleagues.
+U.S. economy and monetary policy
+Congress gave the Federal Open Market Committee (FOMC), the monetary policy making arm of the Federal Reserve, a dual mandate: to set monetary policy to deliver both price stability and maximum employment. The FOMC’s long-run strategy calls for a balanced approach to achieving these two objectives during periods when they are moving in opposite directions from the FOMC’s longer-run goals.
+After lowering rates at each of its last three meetings of 2025, the FOMC decided to hold the fed funds target range steady in January. I supported this decision.
+Last year’s rate cuts put in place some additional insurance against a more rapid cooling in the labor market. But, with inflation still elevated, those cuts took on additional risk on the inflation side of our mandate.
+With data flows resuming following the government shutdown in the fall, the labor market now appears to be stabilizing, and the downside risks appear to have meaningfully dissipated. Job gains slowed markedly in the first half of 2025. This slowing reflected reduced labor supply from changes in immigration policies and labor force participation as well as reduced labor demand. But since mid-year, monthly job gains have remained right around my
+staff’s estimate
+of the break-even level needed to keep the unemployment rate stable. And jobs gains have not shown signs of a further slowing trend. The unemployment rate rose gradually through September of last year but ticked down in December to 4.4 percent. The rate looks close to its level in the middle of last year and near estimates of the natural rate that economists typically associate with a full-employment labor market.
+Economic activity has rebounded strongly since the first half of last year, bolstered by strong consumer spending and business investment, which should support the labor market. Third quarter real GDP growth is estimated to have been a robust 4.4 percent. And
+tracking estimates
+suggest strong GDP growth in the fourth quarter, even adjusting for temporary slowing effects of the government shutdown.
+Meanwhile, we learned that headline personal consumption expenditures (PCE) price inflation (the FOMC’s main gauge of price stability) was 2.8 percent over the 12 months ending last November. This is slightly higher than a year earlier. And PCE inflation has remained above the Committee’s definition of price stability of 2 percent for nearly five years.
+So in my judgment, holding rates steady at our first meeting this year was the appropriate decision.
+Looking ahead, I anticipate we’ll see progress on inflation this year. The
+upward pressure
+that tariff rates have been placing on goods inflation should begin to fade. Housing services inflation should continue to decelerate as market rent increases remain low amid reduced demand for rental housing relative to supply. And greater balance in the labor market should ease pressures on core non-housing services inflation.
+We have already seen tentative signs of progress. Core PCE inflation, which usually provides a good signal of where inflation is headed, has remained relatively flat over the last year. But the Dallas Fed’s
+trimmed mean  PCE
+inflation rate, which removes large one-off price changes to provide a cleaner signal of where inflation is headed, was 2.5 percent in the 12 months through November, down meaningfully from its level of 2.9 percent one year earlier. And there are some positive signs looking further ahead. Firms responding to the Dallas Fed’s
+Texas Business Outlook Surveys
+and other Fed regional surveys expect increases in input costs and selling prices to moderate this year. And, since the spring, survey- and market-based measures of short-run inflation expectations have also moved down.
+But I am not yet fully confident inflation is heading all the way back to 2 percent.
+I see several reasons why progress could be slower than expected. Insights from Fed regional surveys and other contacts suggest tariffs still need to fully work their way through prices this year. We have yet to see any evidence of further easing in core non-housing services inflation, which generally
+moved sideways
+in 2025. And, as in recent years, headline inflation may
+surprise to the upside
+in January and February as firms’ annual price increases may be large due to rising costs and still solid demand.
+Economic activity also faces several upside risks that could slow or stall progress toward restoring price stability. Fiscal policy looks set to provide a tailwind to investment and spending, as do buoyant financial conditions.
+Indexes
+that estimate the economic impact of changes in a broad range of asset prices point to financial conditions—particularly equity valuations—providing a meaningful boost to growth ahead. And while deregulation and new technologies, such as artificial intelligence, may expand productive capacity over the long term, increased demand from firm investment and household spending in anticipation of these supply-side gains could exert upward pressure on prices in the near term.
+Finally, after last year’s rate cuts, it is uncertain how restrictive policy currently is. The degree of restriction coming from monetary policy is difficult to measure precisely, especially in real time. One way to assess the restrictiveness is to compare the fed funds rate to estimates of the neutral interest rate, which is the theoretical interest rate that would act as neither a headwind nor a tailwind to growth. Model-based estimates for the real, or inflation-adjusted, neutral rate have been moving up since the pandemic due in part to recent gains in the potential growth of the economy from increases in productivity. Estimates currently range between
+1.08
+and
+2.09
+percent. So, the current real fed funds rate—that is, the effective federal funds rate of 3.64 percent minus the 2 percent inflation target—now sits squarely within the range of neutral rate estimates.
+[1]
+Model-based estimates can be slow to respond to structural changes in the economy. Financial market price-based estimates of the neutral rate can provide a useful complement because market prices should incorporate all available information and reflect whatever can be known about those structural changes as of today. The market proxies for the real neutral rate from Treasury Inflation Protected Securities and swaps suggest expectations for neutral real interest rates at the upper end of the model-based estimates and not far from the current policy rate.
+[2]
+All of this suggests to me that our current stance of policy may be very close to neutral and providing little restraint on economic activity and inflation.
+I start the new year cautiously optimistic that our current policy stance will allow the FOMC to bring inflation all the way back to our 2 percent target while sustaining a balanced labor market. Of course, I approach the economic outlook and policy strategy with humility. Any number of economic or financial developments could require a change in the course of policy or a fundamental rethink of the outlook and the balance of risks.
+We will learn in coming months whether inflation is coming down to our target and whether the labor market will remain stable. If so, this would tell me that our current policy stance is appropriate and no further rate cuts are needed to achieve our dual mandate goals. If instead we see inflation coming down but with further material cooling in the labor market, cutting rates again could become appropriate. But right now, I am more worried about inflation remaining stubbornly high.  Fortunately, our policy is well-positioned to respond to risks to either of the FOMC’s dual mandate objectives.
+I will continue to closely watch the economic data, financial conditions and economic models and listen to what our surveys and contacts tell me as I assess appropriate monetary policy. And I remain committed to sustainably achieving both of the FOMC’s dual mandate goals.
+Policy implementation
+Before I close, let me comment on policy implementation.
+In December, the FOMC ended the decline in its balance sheet and decided to initiate reserve management purchases (RMPs). The
+decision to end runoff
+was motivated by a judgment that reserves had reached an ample level, marking the end of a three-and-a-half-year period during which our security holdings declined by $2.2 trillion. The FOMC also
+decided to initiate RMPs
+to maintain an ample level of reserves while accommodating trend growth in the demand for Fed liabilities, including currency and reserves, as well as seasonal fluctuations in liabilities, such as those driven by tax payment dates.
+I supported those decisions. These were natural next steps toward fully implementing the ample reserves regime
+we selected in 2019
+. The moves were technical decisions about the implementation of monetary policy, unrelated to the stance of policy.
+One challenge in judging whether reserves are ample is that the Committee hasn’t precisely defined “ample,” just that
+it means
+we don’t need to actively manage reserve supply to control the federal funds rate and other short-term interest rates. A range of reserve levels could satisfy that definition, but different levels in that range would generate materially different money market dynamics.
+From
+my perspective
+, an environment of ample reserves is one in which, over time, banks neither face an opportunity cost for holding reserves nor receive a subsidy for doing so. The opportunity cost of holding reserves is the spread of money market rates above interest rate on reserve balances (IORB). So, when reserves are ample, money market rates should be close to IORB on average over time.
+“On average” is key. We can’t and shouldn’t eliminate all fluctuations in market rates. But the average spread of money market rates above IORB reveals the typical opportunity cost of liquidity. When reserves are ample, that opportunity cost should be zero. That’s
+the Friedman rule
+.  And, in the absence of externalities, it’s efficient for the financial system and the economy.
+When money market rates persistently ran 7 or 8 basis points below IORB, as they were in the spring and summer of last year, I viewed reserve supply as inefficiently high. But, in the fall, money market rates rose significantly relative to IORB. As I’ve discussed in
+previous remarks
+, I find it particularly helpful to look at the tri-party general collateral rate (TGCR), which averaged a couple of basis points above IORB in the fall. Additionally, by November, the fed funds rate was trading just 1 basis point below IORB, compared with 7 basis points below for most of the year. In view of these money market conditions, and in anticipation of a sharp decline in reserves given seasonal tax payments this spring, I viewed it as appropriate to resume growing our balance sheet.
+However, these reserve management purchases should not be viewed as mechanical. Reserve demand will likely change over time in response to economic growth, changes in the banking and payments businesses, and adjustments in the supervisory and regulatory environment. The amount of reserves we supply will need to roughly track those developments, upwards or downwards, to remain efficient. I view the average spread of money markets to IORB, particularly TGCR to IORB, as the central, though certainly not only, indicator of how reserve supply needs to evolve over time.
+In December, we also made an important decision to enhance our standing repo operations  (SRP). Specifically, we eliminated the aggregate cap on SRP usage. By committing to make funds available to our counterparties at the top of the target range, the facility ensures that the cost of funds will not spike too much higher than we intend. In normal times, that benefit mainly strengthens rate control—our ability to bring about our desired monetary policy stance. And in a crisis or potential crisis it limits the possibility of funding stress. This measure followed a
+previous enhancement
+in June to add a morning SRP operation to better address intraday funding needs.
+Amid typical upward pressures on repo rates over the recent year-end, we saw the highest-ever usage of the SRP. I consider this an encouraging sign. It is important that dealers use these operations when it’s economically sensible to do so.
+We should take another step to improve the SRP’s effectiveness. Providing a
+centrally cleared option
+would make leverage-constrained counterparties more likely to redistribute liquidity by tapping the SRP, especially in times of market stress when market participants try to
+de-risk their balance sheets
+by pulling back from intermediation. The Securities and Exchange Commission (SEC) adopted a central clearing mandate for many private-sector participants in the Treasury market in 2023. While the mandate does not apply to the Fed, voluntarily providing a centrally cleared option for our operations aligns with and supports this important market transformation.
+Let me close by emphasizing that this market transition to central clearing is at an important juncture. I’m pleased to see continued industry focus at this conference on the path forward. Centrally cleared repo transactions have grown notably since the SEC rule was finalized, and it is clear that industry innovation is underway with new services, access models and Treasury clearing houses. We have less than a year before cash Treasury clearing becomes mandatory, and while significant progress has been made, critical work remains to be completed. I encourage all of you to remain focused on this work to bring this important market structure change into reality.
+Notes
+Some forecasters expect inflation to remain between 2 and 3 percent over the coming year.  Subtracting expected year-ahead inflation from the current fed funds rate would imply a somewhat lower real fed funds rate.
+The real interest rate on Treasury Inflation-Protected Securities five to 10  years from now is currently around 2.7 percent, equivalent to a 4.7 percent  nominal interest rate after adding in the 2 percent inflation target. Real  five-year, five-year forward yields derived from interest rate and inflation  swaps currently trade at around 1.7 percent, equivalent to a 3.7 percent  nominal rate after adding 2 percent inflation. Importantly, though, the neutral  rate could be different today than in the future, and risk premiums and  technical factors can also influence market measures.
+Share this
+Lorie Logan
+is president and CEO of the Federal Reserve Bank of Dallas.
+The views expressed are those of the authors and should not be attributed to the Federal Reserve Bank of Dallas or the Federal Reserve System.

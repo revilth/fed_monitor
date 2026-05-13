@@ -1,0 +1,142 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: April 17, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "One Transitory Shock After Another"
+     David Kaserman Memorial Lecture, Auburn University, AL
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  WALLER  |  Governor  |  Just Voter
+    [Dissented Jan 28 preferring cut; did not dissent Mar 18]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Waller flags demand destruction risk from the energy shock via the
+  Michigan consumer confidence reading — "its lowest-ever reading" — and
+  notes that if confidence deteriorates to the point where consumers begin
+  to economize, it could translate into a meaningful pullback in spending.
+  This is the descendant of his Feb 23 concern about lower/middle-income
+  consumer weakness masking aggregate spending strength. It is framed as
+  a scenario risk, not a current signal — spending has not yet collapsed.
+  Direction: mild dovish lean — energy-driven demand risk flagged.
+
+LABOR MARKET
+  Waller recalibrates the break-even downward: lower immigration means
+  the economy can sustain historically low job growth without the labor
+  market weakening. "I am going to have to get used to payroll numbers
+  that are lower than I am accustomed to seeing in a growing economy."
+  This rejects the dovish narrative that low payrolls signal recession
+  risk — it is a structural shift, not cyclical weakness. He acknowledges
+  this is a somewhat hawkish reframing: lower break-even means the
+  committee needs less job creation to declare labor stable.
+  Direction: neutral — structural break-even reframing offsets low
+  headline payroll numbers; no fragility language.
+
+INFLATION
+  Waller introduces the most important new analytical framework from any
+  voter in 2026: "Learning from that experience [2021-22], I will be
+  cautious when faced with a sequence of transitory shocks. While
+  intellectually it makes sense to look through each shock, with a
+  sequence of shocks, policymakers need to be more vigilant." This
+  explicitly raises the bar for the "look through" approach that was his
+  unchallenged baseline as recently as Feb 23. He also invokes the
+  five-year credibility clock ("seen inflation above 2 percent now for
+  five years") as the reason vigilance is warranted. His dovish anchor
+  remains: underlying inflation ex-tariffs is "running close to 2 percent"
+  — the structural disinflation story is intact beneath the shocks.
+  Direction: hawkish — "sequence of shocks" framework is new and
+  qualifies the "look through" doctrine he held as recently as Feb 23.
+
+MONETARY POLICY
+  Waller presents explicit, named two-scenario analysis — more deliberate
+  than Williams' descriptive risk framing the day before.
+
+  BENIGN SCENARIO (energy shock resolves): "If the Strait of Hormuz
+  opens...I was more inclined toward cuts to support the labor market
+  later this year when the outlook is more steady." A conditional dovish
+  signal for 2026 if geopolitics cooperate.
+
+  ADVERSE SCENARIO (conflict persists): "that may mean maintaining the
+  policy rate at the current target range if the risks to inflation
+  outweigh those to the labor market." The most hawkish statement from
+  any voter in 2026: explicit willingness to hold even if labor weakens,
+  if inflation risks dominate. This is asymmetric — inflation beats labor
+  in his adverse case — going beyond the committee's symmetric dual-risk
+  framing.
+
+  Full arc: dissented Jan 28 preferring cut → did not dissent Mar 18 →
+  now states he would hold through labor weakness in the adverse scenario.
+  The energy shock and the February jobs disappointment drove this reversal.
+  Direction: hawkish — adverse scenario sets inflation above labor in
+  priority; the "coin flip" of Feb 23 is gone.
+
+NET SIGNAL: NEUTRAL-HAWKISH — most hawkish voter speech since the
+  energy shock began; "sequence of shocks" framework and hold-through-
+  labor-weakness in adverse scenario are the key new additions
+
+vs. PRIOR SPEECH (Mar 18 dissent, no economic outlook speech):
+  No direct comparable. Next best: Feb 23 "Labor Market Data: Signal
+  or Noise?" — see pre-FOMC comparison below.
+
+vs. PRE-FOMC SPEECH (Feb 23):  DRAMATIC HAWKISH SHIFT across all
+  dimensions. On inflation: "look through" tariffs unchallenged (Feb 23)
+  → "sequence of transitory shocks / more vigilant" (Apr 17). On monetary
+  policy: "coin flip, lean toward cut if labor disappoints" (Feb 23)
+  → "hold even if labor weakens" in adverse scenario (Apr 17). On growth:
+  Feb 23 consumer weakness was a concern but not yet a scenario risk;
+  Apr 17 flags it explicitly as a demand-destruction threshold. Only his
+  dovish anchor — underlying inflation close to 2% ex-tariffs — survives
+  intact from Feb 23 to Apr 17. The February jobs report (which did not
+  confirm January's strength) and the late-February energy shock account
+  for the full reversal in 7 weeks.
+
+vs. COMMITTEE SINCE FOMC:     Hawkish end of Just Voters. "Sequence of
+  transitory shocks" is more vigilant than the Troika's "dual risk, well
+  positioned" formula. Cook, Barr, and Paulson share the inflation-first
+  lean, but none went as far as "hold even if labor weakens." Only Bowman
+  (proactive cuts) and Miran (persistent dissenter) remain clearly pro-cut.
+
+LANGUAGE TO WATCH:
+  • "Sequence of transitory shocks / more vigilant" — most important new
+    phrase from any voter in 2026. Also appeared in Barkin (Mar 27) as
+    "series of supply shocks." Independently articulated by two officials.
+    At the dispersed-to-emerging stage of the language cycle. If Jefferson
+    or Williams adopt it, it becomes committee-wide and would represent
+    a meaningful hawkish shift in how the committee treats stacked shocks.
+  • "Hold even if labor weakens" (adverse scenario) — explicit; no other
+    voter has gone this far. Track whether it spreads or remains an outlier.
+  • Stagflation risk: Waller explicitly structures this as a named scenario
+    with a named policy response. Williams described the same risk one day
+    earlier (Apr 16) but in descriptive terms without naming it as a
+    scenario — a subtle but meaningful distinction in how deliberate each
+    is about the tail risk.
+
+ANALYST FLAG: YES
+  → Three questions for analyst review: (1) Is Waller an outlier or a
+    leading indicator? If Jefferson or Williams adopt the "sequence of
+    shocks" framing, it signals a committee-wide hawkish shift. (2) Does
+    "sequence of transitory shocks" conflict with the Troika's "tariffs are
+    one-time" consensus, or can both coexist? (3) If the energy shock
+    resolves and Waller's benign scenario materializes, how quickly does
+    his conditional cut signal re-emerge — and does it come in time to
+    influence the June FOMC?
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Waller Apr 17:     https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm
+
+Prior speech (vs. PRIOR SPEECH):
+  Waller Jan 28 dissent statement:
+                     https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Waller Feb 23:     https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm
+════════════════════════════════════════════════════════════════
