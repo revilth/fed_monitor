@@ -1,0 +1,155 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 14, 2026 (Thursday) — covering May 13, 2026 speeches
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 13, 2026)
+  1. Susan M. Collins  |  Boston Fed President  |  Non Voter
+     "The U.S. Economy: Resilience Amid Risks and Uncertainty"
+     Boston Economic Club, Boston, Massachusetts
+  2. Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+     Q&A at the St. Paul Area Chamber
+     St. Paul, Minnesota
+     STATUS: NOT SCORED — event listing only; no transcript available.
+     ACTION: Search Minneapolis Fed audio player and YouTube for recording.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  SUSAN M. COLLINS  |  Boston Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Real GDP grew 2% in Q1 2026 (annualized), consistent with last year's pace.
+  Collins describes growth as "resilient" and holds a modal outlook of
+  "continued solid economic growth over the remainder of this year" — but
+  explicitly conditioned on Middle East conflict resolving relatively soon.
+  Structural demand supports (high firm cash holdings, household net worth)
+  and productivity-driven investment are cited as buffers against the energy
+  shock. However, productivity is also a two-sided story: demand effects
+  sustain activity but also sustain inflation, as firms capture efficiency
+  gains as margin rather than passing them through as lower prices.
+  Direction: neutral — solid modal, downside risk conditioned on conflict duration.
+
+LABOR MARKET
+  Collins notes the unemployment rate is 4.3% through April, "relatively
+  stable since mid-2025," and echoes the committee-wide "low hire, low fire"
+  read. Her personal language goes further than the April 29 statement:
+  "The labor market has clearly softened from the overheated conditions of
+  2023 and 2024." NEW compositional concern: unemployment has "increased
+  notably for college graduates," especially those aged 25–34, with longer
+  unemployment spells — an atypical pattern she attributes to "a shift in
+  employers' desired skill mix" from AI adoption. She flags this as a risk
+  that "could become more widespread" but characterizes the current
+  mismatch as "manageable." Labor not currently pressing for policy action.
+  Direction: neutral lean dovish — headline stable, but compositional
+  concern is new and forward-looking.
+
+INFLATION
+  Core PCE has been above 2% for over five years with "no progress since
+  2024" — Collins' own language, the starkest characterization of the
+  disinflation stall in the current Non Voter corpus. Services inflation
+  excluding housing "remains above levels consistent with 2 percent
+  inflation." Her structural explanation: productivity gains in services
+  are being captured as firm profit margin given resilient demand, not
+  passed to consumers — this is a demand-pricing-power argument for
+  services stickiness, harder to address via rate policy. Tariff pass-through
+  is approximately 70% complete (staff estimate); remaining effects should
+  wane, but near-term upside risk if tariff rates revert to pre-Supreme
+  Court levels. Short-term inflation expectations are elevated; longer-term
+  expectations still anchored, but the correlation between near- and
+  longer-term expectations "has recently increased somewhat."
+  Direction: hawkish lean — core stall, services structural stickiness,
+  patience-for-look-through explicitly exhausted.
+
+MONETARY POLICY
+  "It will likely be necessary to maintain the current, slightly restrictive
+  monetary policy stance for some time." Hold is the modal. "More than five
+  years of above-target inflation has reduced my patience for 'looking
+  through' another supply shock." HEADLINE SIGNAL: "I can also envision a
+  scenario that requires some policy tightening to ensure that inflation
+  returns durably to 2 percent." This is the first explicit rate hike scenario
+  from a Non Voter in the 2026 post-FOMC corpus. She frames it as non-modal
+  ("while I hope policy normalization can resume late this year") and restores
+  standard optionality language at the close ("well positioned to adjust as
+  needed"). Cut signal is absent. Hike tail risk is now on the record.
+  Direction: hawkish lean — first hike scenario from a Non Voter; hold
+  framing upgraded from "no urgency" to "necessary for some time."
+
+NET SIGNAL: HAWKISH LEAN — material shift from March 6 baseline.
+  Three concrete movements vs. baseline: (1) disinflation timeline
+  downgraded from "second half of year" to "little to no reduction this
+  year"; (2) explicit hike scenario added; (3) "reduced patience for
+  looking through" adopted (third official after Waller Apr 17, Powell
+  Apr 29). Services stickiness is her headline analytical concern.
+
+vs. PRIOR SPEECH (March 6, 2026):         HAWKISH — Mar 6 said "no urgency"
+  and "second half of year" for disinflation. May 13 says "necessary for
+  some time" and "little to no reduction this year" plus explicit hike scenario.
+vs. PRE-FOMC SPEECH (March 6, 2026):      Same — Mar 6 is the pre-FOMC baseline.
+vs. COMMITTEE SINCE FOMC:                 Collins sits slightly to the hawkish
+  side of the Non Voter group (more hawkish than Goolsbee's conditional cut
+  signal, broadly aligned with Daly's May 8 "well positioned" hold framing).
+  Her explicit hike mention is the most hawkish statement from any Non Voter
+  since the April 29 FOMC meeting.
+
+LANGUAGE TO WATCH:
+  • "Reduced my patience for 'looking through' another supply shock" —
+    third adoption (Waller Apr 17, Powell Apr 29, Collins May 13).
+    Language cycle stage: EMERGING SHARED — not yet in a statement but
+    appearing across Troika + a Just Voter (Waller) + a Non Voter.
+  • "No progress since 2024" on core inflation — explicit stall framing.
+    If this migrates to a voter (Paulson or Jefferson), it signals committee
+    has given up on near-term disinflation and will hold longer.
+  • "Envision a scenario that requires some policy tightening" — tail risk
+    hike language from Non Voter. Watch for Just Voter adoption; if Paulson
+    or Hammack use this language, it would be a material signal.
+  • "Firms retain pricing power and have less incentive to fully pass
+    efficiency gains on to consumers" — structural services stickiness
+    explanation. Novel in the 2026 corpus; could reframe committee
+    discussion of why services inflation is not responding to productivity.
+
+ANALYST FLAG: YES
+  → Explicit tightening scenario from Collins warrants close attention.
+    Questions for analyst: (a) Is the 70% tariff-pass-through estimate
+    robust, and does it adequately explain the remaining services stickiness?
+    (b) Collins' "slightly restrictive" vs. prior "mildly restrictive" — is
+    this a meaningful semantic shift or stylistic variation? (c) Is the
+    college-graduate unemployment pattern a leading indicator of broader
+    AI-driven labor market disruption, or limited to a specific sector?
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE
+────────────────────────────────────────────────────────────────
+Collins (May 13) and Goolsbee (May 12, Rockford) both note services
+inflation as the critical non-attributable inflation component — Goolsbee
+called it "the part I'm nervous about," Collins describes it as structural
+given firms' pricing power. Both officials reaching the same conclusion
+from different directions (Goolsbee from real-time CPI reaction, Collins
+from productivity-margin analysis) suggests this is the committee's emerging
+consensus view on why inflation is not responding as expected. Neither,
+however, translates the services concern into the same policy conclusion:
+Goolsbee maintains a conditional cut signal; Collins names a hike scenario.
+The gap between their policy conclusions from the same analytical observation
+reflects their different institutional roles (voter vs. non-voter) and
+personal inflation bars.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date (May 13, 2026):
+  Collins, May 13:   https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Kashkari, May 13:  https://www.minneapolisfed.org/people/neel-kashkari
+                     (event listing; no transcript)
+
+Prior speech (vs. PRIOR SPEECH):
+  Collins, March 6:  https://www.bostonfed.org/news-and-events/speeches/2026/economic-outlook-small-business.aspx
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Collins, March 6:  https://www.bostonfed.org/news-and-events/speeches/2026/economic-outlook-small-business.aspx
+  (March 6 is both prior speech and pre-FOMC baseline; no Collins speech
+   was scored between March 6 and May 13.)
+
+Committee context:
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+  Daly, May 8:       https://www.youtube.com/watch?v=Utsy1M4SKVc
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+════════════════════════════════════════════════════════════════

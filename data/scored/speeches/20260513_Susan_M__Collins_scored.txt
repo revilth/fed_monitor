@@ -1,0 +1,244 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-13 | Susan M. Collins | Boston Fed President | Non Voter
+"The U.S. Economy: Resilience Amid Risks and Uncertainty"
+Boston Economic Club, Boston, Massachusetts
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+
+CLASSIFICATION: Type A — Full Economic Outlook (three-topic structure)
+  with detailed energy shock and productivity analysis sections.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: March 6, 2026  "Observations on the Economic Outlook,
+                   and Small Businesses" (scored)
+Post-FOMC prior:   N/A — first post-April-29 Collins economic outlook speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity has continued to expand at a solid pace." [Apr 29 stmt]
+  → Collins version: "real GDP grew 2 percent at an annual rate in the
+    first quarter of 2026 after advancing at a similar pace last year.
+    Despite a series of still-unfolding supply shocks...economic growth
+    has remained resilient."
+  → Near-verbatim echo of committee language. No personal departure.
+
+Own language:
+  "underlying fundamentals remain healthy overall, despite some pockets
+   of stress. Firms' cash holdings are elevated. And households' financial
+   asset holdings remain high."
+  → Structural supports to demand are intact. Pockets of stress are
+    acknowledged but not specified as the leading signal.
+
+  "the positive demand effects already at work could persist, with
+   implications for inflation."
+  → Productivity-driven demand growth is a two-sided story: it supports
+    activity but sustains inflationary pressure. Not a clean growth positive.
+
+Modal outlook:
+  "If the Middle East conflict is resolved relatively soon, I expect
+   continued solid economic growth over the remainder of this year,
+   with possibly a modest rise in the unemployment rate."
+  → Growth outlook is explicitly conditional on conflict resolution.
+    The base case is solid growth with modest labor market softening.
+
+Shift vs. prior speech (Mar 6):  UNCHANGED — Mar 6 also expected
+  "continued solid growth." The modal is stable; the conditional qualifier
+  (Middle East) is the new addition.
+
+Shift vs. pre-FOMC (Mar 6):      UNCHANGED on modal; risk distribution
+  wider (energy shock adds downside to activity tail).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained slow, and the unemployment rate has been little
+   changed." [Apr 29 stmt]
+  → Collins: "The labor market has clearly softened from the overheated
+    conditions of 2023 and 2024, but the unemployment rate, shown in the
+    right panel, remains low by historical standards. At 4.3 percent through
+    April, it has also been relatively stable since mid-2025 despite slow
+    hiring."
+  → "Clearly softened" is Collins' own intensifier on top of committee
+    language. The April 29 statement says "slow" hiring; Collins characterizes
+    the broader arc as having "clearly softened" — more directional.
+
+Own verdict:
+  "This situation — low job creation but a stable unemployment rate —
+   largely reflects a slowdown in labor demand and a commensurate decline
+   in labor supply growth, linked to the significant reduction in immigration."
+  → Endorses the dual-slowdown explanation. Both sides of the labor market
+    are decelerating together — this is her "unusual balance" framing.
+
+Own qualifier / addition:
+  "the unemployment rate has increased notably for college graduates, and
+   the duration of their associated unemployment spells has risen. This is
+   especially the case for those aged 25 to 34... This suggests that more
+   educated workers who are early in their careers are having particular
+   difficulty finding jobs — which is an atypical pattern that could reflect
+   a shift in employers' desired skill mix."
+  → NEW SIGNAL: AI-driven skill-mix shift is beginning to show in the data.
+    This is a compositional concern within a stable headline number — the
+    first such granular observation in the 2026 scored corpus for Collins.
+    Hawkish-lean implication: if this pattern broadens, it represents a
+    structural labor market softening that is harder to look through.
+
+  "there is a risk that job-finding challenges could become more widespread."
+  → Forward-looking downside risk on labor, not current condition.
+
+Shift vs. prior speech (Mar 6):  DOVISH LEAN — Mar 6 said "relatively
+  balanced labor market conditions" with no fragility framing. The May 13
+  speech adds "clearly softened" and the college-graduate skill-mismatch
+  signal. The headline read remains stable but the forward risk framing
+  is new.
+
+Shift vs. pre-FOMC (Mar 6):      Same — dovish lean vs. baseline.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Apr 29 stmt]
+  → Collins: "inflation has been above target for over five years — and
+    has increased recently due to the jump in energy prices."
+  → "Above target for over five years" is her personal duration emphasis —
+    stronger than the committee's "somewhat elevated." Duration framing
+    is a hawkish intensifier (implies persistence, not transience).
+
+Own language — KEY:
+  "core PCE inflation...remains elevated. [No] progress since 2024."
+  → "No progress since 2024" on core inflation is the sharpest
+    characterization in the 2026 Non Voter corpus. It directly contradicts
+    any narrative of gradual disinflation on the demand side.
+
+  "services inflation excluding housing prices...remains above levels
+   consistent with 2 percent inflation. I find this pattern notable because
+   a considerable portion of the labor productivity improvements have accrued
+   to the services sector. To me, this suggests that, with relatively solid
+   demand, firms retain pricing power and have less incentive to fully pass
+   efficiency gains on to consumers."
+  → NOTABLE ANALYTICAL ADDITION: Productivity-inflation disconnect in
+    services. Firms are capturing efficiency gains as margin, not passing
+    them through as lower prices. This is a structural explanation for why
+    services inflation is sticky — not easily addressed by rate policy.
+
+  "More than five years of above-target inflation has reduced my patience
+   for 'looking through' another supply shock."
+  → Near-identical language to Powell's Apr 29 Q&A. This is now a third
+    official (alongside Waller Apr 17, Powell Apr 29) to explicitly adopt
+    the "reduced patience for look-through" framework. Language is spreading.
+
+  "I am particularly concerned about inflation."
+  → Her own explicit priority statement. Unambiguously hawkish lean.
+
+Tariff pass-through analysis:
+  "my staff estimates that much of the pass-through of tariffs into total
+   inflation, perhaps about 70 percent, has already taken place."
+  → Quantitative estimate: 70% of tariff effects are now in prices.
+    Remaining 30% should wane — this is conditionally disinflationary
+    going forward. But she immediately qualifies: near-term risk if tariff
+    rates revert to pre-Supreme Court levels.
+
+Shift vs. prior speech (Mar 6):  HAWKISH LEAN — Mar 6 said "second half
+  of the year" for disinflation evidence. May 13 says "little to no
+  reduction in inflation this year" and "no progress since 2024" on core.
+  This is a material downgrade of her disinflation timeline.
+
+Shift vs. pre-FOMC (Mar 6):      Same. Energy shock and services persistence
+  have materially worsened the inflation picture vs. baseline.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "[The Committee] judges that the risks to achieving its employment and
+   inflation goals are roughly in balance." / "attentive to risks on both
+   sides." [Apr 29 stmt]
+  → Collins: "I am always focused on both sides of our mandate from
+    Congress, but at this point, am particularly concerned about inflation."
+  → She acknowledges the dual mandate but tilts explicitly to inflation —
+    personal departure from the symmetrical committee framing.
+
+Own language:
+  "It will likely be necessary to maintain the current, slightly restrictive
+   monetary policy stance for some time."
+  → "Slightly restrictive" is a downgrade from her Mar 6 "mildly restrictive."
+    The semantic difference is small but note the direction: "slightly" is
+    a weaker characterization of restriction than "mildly." [Inference: this
+    could imply she views the stance as less well-positioned to address the
+    inflation risk than before the energy shock — consistent with her
+    subsequent mention of a tightening scenario.]
+
+  "While I hope policy normalization can resume late this year, I can also
+   envision a scenario that requires some policy tightening to ensure that
+   inflation returns durably to 2 percent."
+  → EXPLICIT RATE HIKE SCENARIO — first mention of potential tightening from
+    a Non Voter in the 2026 post-FOMC corpus. "I hope" signals this is not
+    the modal but a tail risk she is taking seriously enough to name. This is
+    the most hawkish policy language from Collins in the 2026 corpus.
+
+  "at the moment, I see monetary policy as well positioned to adjust as
+   needed to evolving economic conditions."
+  → Standard committee holding formula. Restores ambiguity after the
+    tightening mention — she is not pre-committing.
+
+Cut signal status: ABSENT. Hold with explicit tightening tail risk now
+  on the record. No timeline for cuts offered.
+
+Shift vs. prior speech (Mar 6):  HAWKISH LEAN — Mar 6 said "I do not see
+  an urgency for additional policy adjustments" and "mildly restrictive."
+  May 13 adds an explicit hike scenario and upgrades the hold signal to
+  "necessary...for some time." Materially more hawkish.
+
+Shift vs. pre-FOMC (Mar 6):      HAWKISH LEAN. The energy shock and
+  services inflation persistence have pushed her policy language meaningfully
+  toward the hawkish end of her historical range.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (vs. March 6 baseline)
+
+Collins has moved materially since her March 6 baseline in three dimensions:
+  (1) Inflation timeline downgraded — from "second half of year" for
+      disinflation evidence to "little to no reduction this year" on core.
+  (2) Services inflation flagged as structural — productivity gains being
+      captured as firm margin, not passed to consumers, explains stickiness.
+  (3) Explicit rate hike scenario on the record — first from a Non Voter
+      in the 2026 post-FOMC corpus.
+
+On labor, she is slightly more cautious (college-graduate skill-mismatch
+signal) but the headline read remains "stable." The growth modal is unchanged
+(solid), now made explicitly conditional on conflict resolution.
+
+Her "reduced patience for looking through" formulation is the third official
+adoption of this framework (Waller Apr 17, Powell Apr 29, Collins May 13).
+This is an emerging committee-wide language shift that is approaching but not
+yet at the "in-statement" stage.
+
+Language watch:
+  • "Reduced my patience for 'looking through' another supply shock" —
+    third adoption after Waller (Apr 17) and Powell (Apr 29). Language
+    cycle stage: EMERGING SHARED (3 officials). Watch for Jefferson/Williams.
+  • "No progress since 2024" on core inflation — stark characterization of
+    disinflation stall. If this spreads to voters, it would signal committee
+    is prepared to hold significantly longer than markets price.
+  • "Envision a scenario that requires some policy tightening" — tail risk
+    hike language. First from a Non Voter. If this appears from a voter
+    (Paulson, Hammack, Logan), it would be a material signal to markets.
+  • "Slightly restrictive" — minor semantic downgrade from "mildly
+    restrictive." Watch for whether this language migrates or reverses.
+
+Analyst flag: YES
+  → Explicit tightening scenario language from a Non Voter is the headline
+    analytical question: Is this (a) a genuine tail risk Collins is flagging
+    based on private data/models, or (b) standard optionality language that
+    all officials maintain? The context — services stickiness + no-progress
+    on core + productivity-margin-capture thesis — suggests it is more
+    substantive than boilerplate. Analyst should assess whether the 70%
+    tariff-pass-through estimate is credible and how much of the remaining
+    services stickiness it leaves unexplained.
+══════════════════════════════════════════════════════════
