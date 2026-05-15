@@ -1,0 +1,236 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-06 | Anna Kovner | Richmond Fed EVP & Director of Research | ⚠ NON-FOMC
+"The U.S. Economy: More than Resilient"
+Young Presidents' Organization (Southern 7) Leadership Summit, Atlanta, Georgia
+SOURCE: https://www.richmondfed.org/press_room/speeches
+
+⚠ SPEAKER NOTE: Kovner is Executive Vice President and Director of Research at
+  the Federal Reserve Bank of Richmond — Tom Barkin's (Non Voter) research chief.
+  She is NOT an FOMC principal (not a Bank president or Board governor); her views
+  carry NO vote weight and do not constitute policy signals. This speech is scored
+  for informational value and to track Richmond Fed staff analytical framing.
+  ANALYST FLAG: Confirm whether research director speeches should be in the
+  tracking universe; if not, remove this scored file.
+
+CLASSIFICATION: Type A — Economic Outlook. Three-part structure: Inflation /
+  Consumer Demand / Labor, followed by forward-looking "Ride Ahead" section
+  with three questions for each topic.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: N/A — first speech tracked in this system for Kovner
+Post-FOMC prior:   N/A — first scored speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: None — Kovner does not echo FOMC statement language
+  (as a non-policymaker, this is expected).
+
+Own language:
+  "Without gas, year-over-year growth in total card spending remained well above 3
+   percent in March."
+  → Headline demand resilient ex-energy. No compositional breakdown at the
+    aggregate level.
+
+COMPOSITIONAL CONCERN (analytically important):
+  High-income: "Asset prices have skyrocketed alongside costs in recent years —
+   whether via the stock market or real estate. This has allowed high-income
+   consumers to maintain their spending... continue to splurge in other areas
+   like luxury goods or travel. We hear from businesses offering luxury products
+   and services that demand remains robust."
+  Middle/low-income: "Middle- and low-income consumers... haven't gotten the
+   e-bike boost... running out of trade-down options after years of high price
+   growth and now high gas prices. Increasingly, they are making choices about
+   what to buy and what to skip, trading off between spending categories and not
+   just within them."
+  → Spending bifurcation by income tier, with low-income demand increasingly
+    constrained. Aligns with Barkin's prior framing of income-tier differentiation.
+
+Forward risk:
+  "The longer oil prices are high, the more demand destruction becomes a risk.
+   Low-income Americans, with less wiggle room in their budget, are worth watching."
+  → Conditional downside. Not modal; not imminent. Tax refunds (+10% through April)
+    identified as temporary buffer.
+
+Manufacturing: "We've seen the ISM index turn positive... signs that more
+  manufacturers see better times ahead." Small positive; "mixed" on Richmond Fed
+  surveys. Net: cautious green shoot, not yet sustained signal.
+
+Shift vs. prior speech:   N/A — first scored speech
+Shift vs. pre-FOMC:       N/A — first scored speech
+
+Direction: neutral — resilient headline, bifurcated composition, conditional
+  downside risk if energy elevated. Internally consistent with committee-wide
+  "resilient but bifurcated" framing.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: None directly.
+  Kovner uses her own framing, which is analytically consistent with committee's
+  "job gains have remained slow" and "unemployment rate has been little changed."
+
+Own verdict:
+  "People still have jobs; businesses haven't been laying off workers... and that
+   has made a difference."
+  → Low-hire-low-fire framing echoed in accessible language. Consistent with
+    committee consensus; no personal addition beyond the data.
+
+KEY QUANTITATIVE SIGNAL — job-finding rate deterioration:
+  "In 2022, the share of unemployed workers who found a job in the next month was
+   30 percent. That's now down to 24 percent."
+  → Six-percentage-point drop in job-finding rate. This is a more granular labor
+    deterioration signal than unemployment rate alone captures. Consistent with
+    the "fragility below the headline" framing also noted by Collins (May 13).
+
+Hiring outlook (CFO Survey):
+  "Less than 40 percent of firms are actively hiring for new positions... CFOs
+   reported that even with healthy revenue growth expectations for the year,
+   employment is expected to grow at a tepid pace in 2026 and 2027, well below
+   forecasts for 2025."
+  → Forward-looking signal: weak hiring sustained into next year, not just
+    current period.
+
+Structural vs. cyclical:
+  "Some of the slowdown in hiring is structural... Economists at the Richmond
+   Fed found that unlike what we've typically seen in historical data, some of
+   the slowdown has come from workers who are considered 'more attached' to the
+   workforce. That's a fairly new phenomenon."
+  "Only about a third of the difference in job finding rates is explained by AI
+   exposure."
+  → Richmond Fed staff research: structural component confirmed, but AI explains
+    only a minority. The remainder (two-thirds) is not explained — could be
+    immigration-driven supply, sector mismatch, or demand-side caution.
+
+Headline summary: "Resilience if you have a job, but fragility if you don't."
+  → Compact bifurcation framing; more candid than typical committee language
+    about labor stress below the headline unemployment rate.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A
+
+Direction: neutral lean dovish — stable headline unemployment masks deteriorating
+  job-finding flow and structural hiring slowdown. Below-headline fragility
+  acknowledged more explicitly than most committee language.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: None directly.
+  Her framing is analytically consistent with committee language but uses
+  her own formulations throughout.
+
+Own language — cumulative shock framing:
+  "Inflation has been above the Fed's 2 percent target for five years now."
+  → Duration stacking consistent with Waller (Apr 17), Collins (May 13), Powell
+    (Apr 29 Q&A). Becoming a widely shared staff/official analytical framing.
+
+  "No one single thing has prevented inflation from returning to 2 percent; instead,
+   it's been a rolling sequence of different forces, all of which I might have said
+   should prove temporary."
+  → Direct articulation of the "sequence of transitory shocks" thesis. Richmond Fed
+    research staff is using the same analytical frame as Waller/Barkin/Powell.
+    Not yet in the FOMC statement, but now confirmed at the staff level as well.
+
+Housing:
+  "The disinflationary process for housing is slow, but there are positive signals.
+   Rent prices are falling, and that's a leading indicator."
+  → Moderately dovish housing note; rent as leading indicator cited by several
+    officials. Months supply of housing building (favorable).
+
+Tariffs:
+  "While it has been over a year since the initial tariff announcements, the tariff
+   impact on prices is not yet wrapped up. On the contrary, we still hear plenty
+   of businesses hoping to pass through tariff costs."
+  → Hawkish: pass-through is NOT complete. Multiple businesses queued up to raise
+    prices when the political window opens. Consistent with Barkin's Beige Book
+    contacts framing.
+
+Energy/Oil rule of thumb:
+  "For every 10 percent increase in oil prices, one can expect to see an associated
+   increase of 0.2 percentage points in headline PCE inflation and 0.04 percent
+   points increase in core PCE inflation."
+  → Quantitative contribution of energy to core is small (0.04pp per 10% oil
+    increase); the risk channel is via expectations, not direct contribution.
+
+KEY SIGNAL — expectations risk as the primary concern:
+  "As I see it, the key risk for price stability is not the short-term
+   inflationary pressure from gas prices, but their cumulative effect on
+   inflation expectations."
+  "The concern this time around is what I mentioned earlier: the cumulative effect
+   of back-to-back supply shocks. Do consumers start to expect higher inflation to
+   stick around longer and become the norm? There's no sign of that today, but were
+   it to occur, the Fed's job of price stability would become much harder."
+  → Short-term expectations moved with gas (consistent with historical pattern);
+    five-year expectations "thus far have remained steadier." Current assessment:
+    stable but at risk. The concern is that repeated shocks erode the "transitory"
+    credibility that allows look-through.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A
+
+Direction: hawkish lean — five years above target, tariff pass-through ongoing,
+  expectations risk from cumulative shocks is the PRIMARY identified risk. No
+  near-term disinflation path offered. Consistent with the more hawkish end of
+  Richmond Fed analytical output.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+NOT DISCUSSED. Kovner is a research director, not a policymaker. She deliberately
+refrains from any statement about the policy rate path, the appropriate stance, or
+the timing of any future FOMC decisions. The speech ends by opening the floor to
+Q&A about "what you are seeing in your business."
+
+Cut signal status: ABSENT (non-policymaker; no policy signal expected or given)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (analytically) — no direct policy signal
+               (non-policymaker). The analytical framing is more hawkish than
+               neutral: five-year inflation duration, ongoing tariff pass-through,
+               and expectations risk as the primary concern all point in a
+               restrictive direction. Labor is stable but fragile below the
+               headline. Growth is resilient but bifurcated.
+
+Informational value: HIGH for understanding Richmond Fed staff analytical
+  consensus. Kovner's framing is likely to be reflected in Barkin's own
+  speeches and Beige Book narratives. Three key analytical contributions:
+  (1) Cumulative shock / expectations risk framing as the DOMINANT inflation
+      concern — not current energy pass-through but the risk that repeated
+      shocks normalize elevated expectations.
+  (2) Job-finding rate (30% → 24%) as the key below-headline labor metric —
+      more granular than unemployment rate or payroll growth.
+  (3) Richmond Fed staff research: structural hiring slowdown confirmed, AI
+      explains ~1/3 of the flow deterioration. Remaining 2/3 unexplained.
+
+Language watch:
+  • "Rolling sequence of different forces... all of which I might have said
+    should prove temporary" — staff-level articulation of the "sequence of
+    transitory shocks" framework. Confirms this is the analytical foundation,
+    not just a rhetorical device, for Richmond Fed policy analysis.
+  • "Resilience if you have a job, but fragility if you don't" — compact
+    labor bifurcation statement. Quotable; watch for Barkin to use this.
+  • "The key risk for price stability is not the short-term inflationary
+    pressure from gas prices, but their cumulative effect on inflation
+    expectations" — clear priority ranking of the inflation risk channels.
+    If this migrates to policymaker language, it signals committee is
+    watching expectations as the primary inflation metric, not current CPI.
+  • "Disinflationary process for housing is slow, but there are positive
+    signals" — the rent-as-leading-indicator point is moderately dovish;
+    watch for this to counter the hawkish expectations risk framing in
+    committee discussions.
+
+Analyst flag:  YES
+  → (1) Confirm whether EVP/Director of Research speeches should be in the
+        tracking universe. If not, this scored file should be removed.
+  → (2) If retained: Kovner's speech likely reflects Barkin's own analytical
+        framework. The expectations-risk-as-primary-concern framing is worth
+        tracking to see if Barkin echoes it in his next speech.
+  → (3) The structural hiring slowdown data (Richmond Fed staff research,
+        one-third AI-attributable) is internally generated and novel. Barkin
+        may reference it explicitly in his next public remarks.
+══════════════════════════════════════════════════════════

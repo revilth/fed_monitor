@@ -1,0 +1,123 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 15, 2026 (Friday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 15, 2026)
+  — None. No speeches scraped for today's date.
+
+INSTITUTIONAL NOTE: Today marks the end of Jerome Powell's term as Federal
+  Reserve Chair. Kevin Warsh takes over as Chair effective today following
+  Senate Banking Committee clearance on April 29, 2026. Powell remains on
+  the Board as a governor and has committed to "keep a low profile."
+  No Warsh speech or statement has been scraped as of this run.
+════════════════════════════════════════════════════════════════
+
+No Type A speeches to score for May 15, 2026.
+
+────────────────────────────────────────────────────────────────
+PENDING BACKLOG NOTE
+────────────────────────────────────────────────────────────────
+37 unscored files were reviewed today. Classification results:
+
+SCORED THIS RUN (1):
+  • 2026-05-06 | Anna Kovner | Richmond Fed EVP & Director of Research
+    "The U.S. Economy: More than Resilient"
+    [SCORED — Type A, non-FOMC principal; see analyst flag in scored file]
+    Key: Five-year inflation duration framing, job-finding rate 30%→24%,
+    expectations risk from cumulative shocks as the PRIMARY inflation concern.
+    Tariff pass-through "not yet wrapped up." Richmond Fed staff analytical
+    consensus likely reflecting Barkin's framework.
+
+STUBS — NOT SCORED, TRANSCRIPT NEEDED (11 files):
+  All Kashkari appearances (Jan 4, Jan 14, Feb 19, Mar 3, May 7, May 13)
+  and all Goolsbee stubs (Feb 19, Mar 6, Mar 31, Apr 7, May 6 [Milken])
+  have no transcript content — event listings or audio links only.
+  ACTION: YouTube search needed for each. Priority: Kashkari May 13
+  (Just Voter, most recent), Goolsbee Apr 7 Detroit Economic Club
+  (pre-FOMC, likely Type A), Goolsbee Mar 6 FPA Dinner (edited
+  transcript promised on Chicago Fed site but not scraped).
+
+TYPE B — SKIPPED (25 files):
+  All Bowman speeches (Jan–May): regulatory/supervision content throughout;
+  no embedded economic outlook. Post-energy-shock Bowman policy view
+  remains unknown — last economic outlook speech was Jan 16, 2026.
+  Other skipped: Barr (stablecoins, rural communities, balance sheet),
+  Cook (financial stability, tokenization), Logan (FDIC intro, reserves),
+  Waller (AI operations, Fed operations reform), Daly (regionalism),
+  Paulson (private canaries data methodology, rural fireside),
+  Collins (introductory remarks × 2).
+
+════════════════════════════════════════════════════════════════
+COMMITTEE CONTEXT AS OF MAY 15
+────────────────────────────────────────────────────────────────
+Post-April 29 FOMC consensus picture (from scored speeches):
+
+TROIKA STATUS:
+  • Powell: last scored May 15 exit. Apr 29 Q&A was the hawkish
+    anchor: named two pre-cut conditions ("backside of energy shock"
+    AND "tariff progress"), "stacking logic" adopted, "next two
+    quarters" deadline for tariff pass-through.
+  • Warsh (incoming Chair): no speeches in database; pre-confirmation
+    public statements untracked. Watch for inaugural speech.
+  • Jefferson, Williams: carry policy signaling load; most recent
+    scored speeches from April and early May.
+
+JUST VOTERS (hawkish dissent cluster):
+  • Logan: dissented Apr 29 against easing bias language. "Policy may
+    be very close to neutral." May 10 speech scored.
+  • Hammack: dissented Apr 29. Most recent scored: May 1.
+  • Kashkari: dissented Apr 29. May 13 Q&A — stub only, NOT SCORED.
+  • Paulson (median voter): inflation-first bar; needs 2% before
+    patience on growth. Most recent scored: Mar 27.
+
+JUST VOTERS (easing-leaning):
+  • Miran: dissented Apr 29 preferring a cut. Supply-side dovish frame.
+  • Bowman: "moderately restrictive," wants "proactive" cuts.
+    Post-energy-shock view unknown.
+
+NON VOTERS:
+  • Collins: May 13 — HAWKISH. First explicit hike scenario from a
+    Non Voter. "Reduced patience for looking through."
+  • Goolsbee: May 12 — MIXED. Services "going wrong way," but
+    conditional cut signal intact ("rates can come down still a fair
+    amount").
+  • Daly: May 8 — "well positioned" hold framing.
+  • Barkin: May-series unclear; Kovner speech (May 6, staff) suggests
+    Richmond Fed is squarely in the "sequence of shocks" analytical camp.
+
+SHARED LANGUAGE — EMERGING TO COMMITTEE-WIDE:
+  • "Sequence of transitory shocks / cumulative effect": Waller (Apr 17),
+    Barkin (prior), Powell (Apr 29), Collins (May 13), Kovner/Richmond
+    staff (May 6) — now appearing at the staff research level.
+    Language cycle: COMMITTEE-WIDE, approaching statement territory.
+  • "Reduced patience for looking through": Waller (Apr 17), Powell
+    (Apr 29), Collins (May 13) — three officials. EMERGING SHARED.
+  • "Five years above target": Kovner (May 6), Goolsbee (May 12),
+    Collins (May 13) — three officials in the last week. EMERGING SHARED.
+
+KEY OPEN QUESTIONS FOR NEXT REPORT:
+  1. Will Warsh give an inaugural speech as Chair today or soon?
+     His first communication sets the Troika tone for the next cycle.
+  2. Kashkari May 13 (Just Voter, hawkish dissenter) — no transcript.
+     His current post-FOMC view on the energy shock is unknown.
+  3. Bowman post-energy-shock economic outlook remains unknown
+     (last Type A: Jan 16). As Vice Chair for Supervision and Just Voter,
+     this is a significant gap.
+  4. Next FOMC: June 17-18, 2026 (blackout begins June 6).
+     Three weeks of scorable speech window remaining.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches May 15, 2026:
+  (none)
+
+Kovner, May 6 (scored this run):
+  https://www.richmondfed.org/press_room/speeches
+
+Prior committee context (from existing scored files):
+  Collins, May 13:   https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Daly, May 8:       https://www.youtube.com/watch?v=Utsy1M4SKVc
+════════════════════════════════════════════════════════════════
