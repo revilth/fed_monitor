@@ -1,0 +1,162 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 20, 2026 (Wednesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Anna Paulson  |  Philadelphia Fed President  |  Just Voter
+     "Navigating Uncertainty: Inflation, Labor Markets, and the
+      Stance of Monetary Policy"
+     Atlanta Fed Financial Markets Conference, Amelia Island, FL
+     (Delivered May 19; retrieved and scored May 20)
+     SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  ANNA PAULSON  |  Philadelphia Fed President  |  Just Voter
+    Median voter — highest-weight just-voter reading
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP running at ~2% potential; Q1 solid with AI-driven business
+  investment as bright spot. Consumer spending decelerated (Q1
+  real 1.6% vs 2.1% last year). Gas prices up >50% YTD are
+  squeezing households; consumers trading down and using more
+  credit. Forward-looking caution is visible in surveys and
+  business conversations, but aggregate spending data has not
+  broken down — "few signs that consumers are pulling back
+  sharply in the aggregate."
+  Direction: neutral — resilient but decelerating; no growth
+  alarm, but pace of activity is moderating.
+
+LABOR MARKET
+  Unemployment 4.3% in April — "remarkably steady and near what
+  I consider to be full employment for many months." Hard data
+  verdict: stable and consistent with full employment. Soft data:
+  surveys show elevated labor pessimism (NY Fed: 44% probability
+  of higher unemployment a year ahead, up from 34% in Jan 2025).
+  Historical framing: the current 1ppt rise in UR from cycle low
+  is the only non-recession instance since 1948 — unusual
+  but not yet alarming. AI-driven labor anxiety flagged as a
+  monitoring item. Base case: UR stable through year-end.
+  Direction: neutral — stable hard data; elevated soft data
+  pessimism acknowledged but not adopted as policy-relevant.
+
+INFLATION
+  "Inflation is too high" — her opening verdict. Headline PCE
+  3.5%, core 3.2% in March (vs. 2.8% core at her March 27
+  baseline). April data "point to continuing pressures." Three
+  supply-shock drivers: tariffs, Middle East conflict (energy),
+  shipping disruptions. She explicitly calls these "classic
+  supply shocks" but rejects conventional look-through by
+  asking whether amplification forces are present. Her three-
+  factor assessment: (1) activity level — not amplifying; (2)
+  long-term expectations — "currently in a good place" (note:
+  conditional, not unconditional "well anchored"); (3) policy
+  stance — "mildly restrictive" providing a buffer. Net: she
+  can hold through the shock but is watching expectations closely.
+  Direction: hawkish lean — elevated inflation, rising from her
+  March baseline; supply shocks not labeled transitory; personal
+  caution on expectations ("currently" hedge retained).
+
+MONETARY POLICY
+  Hold verdict: "Policy is mildly restrictive and that
+  restrictiveness is helping to keep inflation pressures in
+  check while the labor market remains stable." [Bottom line]
+  Cut condition: "Assuming the labor market remains in balance,
+  rate cuts would only become appropriate once we have seen
+  sustained progress on inflation." — Dual requirement: labor
+  stability maintained AND sustained disinflation trajectory.
+  KEY SIGNAL: "I think it is healthy that market participants
+  have taken on board scenarios where the funds rate remains
+  unchanged for an extended period, as well as scenarios where
+  further tightening becomes necessary." — Paulson explicitly
+  validates both extended hold AND further tightening. She
+  endorses the market's hawkward repricing (3 cuts → hold/
+  tighten) as "largely aligning" with her own thinking.
+  Direction: hawkish lean — "mildly restrictive" is appropriate;
+  cuts require "sustained" disinflation; tightening not ruled out.
+
+NET SIGNAL: HAWKISH LEAN — Paulson's first post-FOMC economic
+  outlook speech raises the cut bar vs. her March pre-FOMC
+  baseline. With core PCE at 3.2% and rising, supply shocks
+  she declines to dismiss as transitory, and explicit tightening
+  scenario validation, the committee's assessed median voter has
+  moved materially in the hawkish direction since March.
+
+vs. PRIOR SPEECH (Mar 27):             HAWKISH — March was
+  cautious-hawkish at 2.8% core ("more cautious" bar); May is
+  hawkish with explicit tightening validation at 3.2% core.
+  Labor framing shifted from "no signs labor contributing to
+  inflation" (dovish) to neutral (stable but watching soft data).
+
+vs. PRE-FOMC SPEECH (Mar 27):          same — HAWKISH shift.
+  Pre-FOMC baseline was her most dovish assessment (labor not
+  adding inflation pressure). The May speech acknowledges a
+  more challenging inflation environment and explicitly declines
+  to rule out further tightening.
+
+vs. COMMITTEE SINCE FOMC:              Paulson now in line with
+  the hawkish dissenters' direction — not their position. Logan
+  (May 10), Collins (May 13), and Hammack (May 1) have all
+  skewed hawkish post-FOMC. Paulson's tightening validation
+  brings the committee's assessed median into hawkish-lean
+  territory, which would be a meaningful regime signal if the
+  committee's center is moving rather than just the extremes.
+
+LANGUAGE TO WATCH:
+  • "Sustained progress on inflation" — Paulson's cut condition.
+    If she replaces "sustained" with "further" or "some," that
+    is a dovish signal; if other members adopt "sustained," the
+    bar has spread.
+  • "Extended hold" / "further tightening" scenario validation
+    — first explicit Paulson endorsement of tightening. If
+    echoed by other Just Voters, it marks a regime shift.
+  • "Currently long run expectations are in a good place"
+    — conditional hedge retained from March. Unconditional
+    "well anchored" would be dovish signal; softening of the
+    "currently" hedge would signal escalating concern.
+
+ANALYST FLAG: YES
+  → The committee's assessed median voter has now explicitly
+    validated further tightening scenarios. This is the first
+    post-FOMC Type A speech from Paulson. The hawkward move
+    in her framing — from cautious hold at 2.8% core in March
+    to tightening-scenario validation at 3.2% core in May —
+    represents the most important committee-median signal since
+    the April 29 FOMC. Key question: does Paulson's "sustained
+    progress on inflation" bar imply cuts are impossible for
+    the rest of 2026, or does it allow for a fall move if the
+    Middle East shock recedes quickly? Her own scenario
+    language ("if the conflict is resolved soon") implies the
+    latter — a fast resolution could open a path. But in the
+    base case, 2026 cuts appear off the table from the median
+    voter's perspective.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE CONTEXT UPDATE
+────────────────────────────────────────────────────────────────
+Warsh (Chair, Day 6): No speeches. Pre-blackout window closing.
+  Paulson's speech makes his first public communication even more
+  important — the committee center has moved hawkish without any
+  Chair anchor. If Warsh's first speech matches Paulson's framing,
+  tightening scenarios gain credibility. If dovish, the Paulson
+  reading overstates committee hawkishness.
+
+Blackout countdown: June 6 = 17 days. Next FOMC: June 18–19.
+  Three expected speech windows remain before blackout.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches scored (May 20 run):
+  Paulson, May 19, 2026:
+    https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+
+Prior speech (vs. PRIOR SPEECH):
+  Paulson, Mar 27, 2026:
+    https://www.philadelphiafed.org/the-economy/monetary-policy/260327-macroeconomics-and-monetary-policy-conference
+
+Pre-FOMC baseline (same as prior speech):
+  Paulson, Mar 27, 2026 — serves as both
+════════════════════════════════════════════════════════════════
