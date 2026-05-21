@@ -1,0 +1,105 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 21, 2026 (Thursday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 21, 2026)
+  — None. No speeches scraped for today's date.
+
+SPEECH CLASSIFIED — NOT SCORED (May 20, 2026):
+  1. Michael S. Barr  |  Board Governor  |  Just Voter
+     "Measuring Financial Health"
+     EMERGE Financial Health 2026 Scaling Progress, Atlanta, GA
+     TYPE B — SKIPPED: Consumer inclusion / financial health metrics
+       speech. No economic outlook section — zero content on GDP,
+       labor market, inflation, or monetary policy. Barr's post-
+       energy-shock policy view remains unknown; last scored Type A
+       is March 26, 2026 (pre-FOMC).
+════════════════════════════════════════════════════════════════
+
+BACKLOG REVIEW — CLASSIFICATION (37 files, 0 additional scored)
+────────────────────────────────────────────────────────────────
+37 unscored raw files reviewed. One new file added since May 19
+run: Barr May 20 (Type B, skipped above). No other changes.
+Full backlog classification log is in the May 19 report.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE CONTEXT AS OF MAY 21
+────────────────────────────────────────────────────────────────
+KEY DEVELOPMENT SINCE LAST REPORT (May 20 daily):
+  Paulson (May 19 — scored in May 20 run): HAWKISH LEAN
+  The committee's assessed median voter delivered her first post-
+  FOMC Type A speech. Core PCE at 3.2% (up from 2.8% at her March
+  baseline); supply shocks not labeled transitory; explicit
+  validation of extended hold AND further tightening scenarios.
+  Her cut condition: "sustained progress on inflation" while
+  "labor market remains in balance." This is the most significant
+  committee-median signal since the April 29 FOMC itself.
+  See 20260520_daily.txt for full scored analysis.
+
+TROIKA:
+  • Warsh (Chair, eff. May 15): Day 7. No speeches in database.
+    Pre-June 6 blackout window is now 16 days. Tone-setting
+    inaugural speech as Chair remains the single highest-priority
+    item. Committee has drifted hawkish without any Chair anchor.
+  • Jefferson (VP): last scored Apr 7 — MIXED/HAWKISH LEAN.
+    "Upside risk to my inflation forecast"; "susceptible to adverse
+    shocks" on labor. No post-FOMC Type A speech.
+  • Williams: last scored May 4. No speech since.
+
+JUST VOTERS — CURRENT READS:
+  • Paulson (May 19): HAWKISH LEAN — see above. Median voter.
+  • Logan (May 10): HAWKISH — "inflation still too high."
+    Apr 29 hawkish dissenter; last speech minimal content.
+  • Kashkari (May 13): NOT SCORED — stub only. Hawkish dissenter.
+    YouTube transcript recovery still outstanding.
+  • Hammack (May 1): HAWKISH — Apr 29 hawkish dissenter; last
+    scored two weeks ago.
+  • Bowman: last Type A Jan 16. Post-energy-shock view unknown.
+    Notably dovish on Jan 16 ("proactive" cuts); may have shifted.
+  • Barr, Miran, Waller: no post-FOMC Type A speeches.
+
+NON VOTERS — CURRENT READS:
+  • Collins (May 13): HAWKISH LEAN — "no progress since 2024" on
+    core inflation; first explicit hike scenario floated.
+  • Goolsbee (May 12): MIXED — services "going wrong way";
+    conditional cut signal maintained. Non-voter.
+  • Daly (May 8): HAWKISH LEAN — oil shock "starting to see red."
+  • Barkin: last scored Mar 27. No post-FOMC Type A speech.
+
+SHARED LANGUAGE — STATUS UNCHANGED:
+  • "Sequence of transitory shocks": COMMITTEE-WIDE.
+    Waller (Apr 17) → Powell (Apr 29) → Collins (May 13) →
+    Kovner/Richmond (May 6).
+  • "Reduced patience for looking through": EMERGING SHARED.
+    Waller (Apr 17), Powell (Apr 29), Collins (May 13).
+  • "Five years above target / no progress since 2024":
+    EMERGING SHARED. Kovner (May 6), Goolsbee (May 12),
+    Collins (May 13).
+  • "Sustained progress on inflation" (Paulson cut condition):
+    NEW. Appeared in Paulson May 19 for first time. Watch for
+    spread to other Just Voters or Troika.
+
+OPEN QUESTIONS BEFORE JUNE 6 BLACKOUT (16 days):
+  1. Warsh inaugural speech as Chair — highest priority bar none.
+  2. Kashkari May 13 (St. Paul Chamber) — YouTube transcript needed.
+  3. Goolsbee Apr 7 (Detroit Economic Club) — YouTube transcript.
+  4. Bowman Type A — post-energy-shock view unknown since Jan 16.
+  5. Jefferson or Williams post-FOMC Type A — Troika unanchored.
+  6. Barr, Waller, Miran post-FOMC Type A — no recent reads.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches May 21, 2026:
+  (none)
+
+Speech classified but not scored (May 20, 2026):
+  Barr, May 20:   https://www.federalreserve.gov/newsevents/speech/barr20260520a.htm
+
+Most recent scored speeches (for committee context):
+  Paulson, May 19:  https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Collins, May 13:  https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12: https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:    https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+════════════════════════════════════════════════════════════════
