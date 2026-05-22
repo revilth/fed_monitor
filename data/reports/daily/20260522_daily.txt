@@ -1,0 +1,187 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 22, 2026 (Friday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 22, 2026)
+  — None. No speeches on today's date.
+
+SPEECH SCORED THIS RUN (May 21, 2026):
+  1. Thomas I. Barkin  |  Richmond Fed President  |  Non Voter
+     "Navigating Supply Shocks"
+     ULI Triangle Capital Markets, Dorothy and Roy Park Alumni Center,
+     Raleigh, NC
+     TYPE B with embedded outlook — SCORED
+     SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+
+NOTE: Michael S. Barr (May 20) — "Measuring Financial Health"
+  confirmed TYPE B / SKIP (as logged in May 21 daily). Consumer
+  inclusion / financial health metrics only. No economic outlook
+  content. Barr's post-energy-shock monetary policy view remains
+  unknown since last scored Type A (March 26, 2026).
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  THOMAS I. BARKIN  |  Richmond Fed President  |  Non Voter
+    First post-FOMC speech; pre-FOMC baseline Mar 27
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Economy described as "remarkably resilient" — a materially
+  more positive characterization than his March 27 "fog" framing.
+  Barkin enumerates multiple positive indicators: consumer spending
+  up (including non-gas), corporate profits high, AI investment at
+  "full steam," manufacturing surveys rebounded, S&P records, payrolls
+  bouncing back. Two structural explanations for oil resilience:
+  reduced U.S. oil import dependence and fiscal/AI investment offsets.
+  Hedge: "at least for now" on offset durability; behavioral note that
+  demand support rests partly on consumer assumption of transitoriness.
+  Direction: neutral — clearly improved vs. March; no growth alarm,
+  but resilience is conditional and behavioral factors are fragile.
+
+LABOR MARKET
+  Hard data improved: "Payroll growth has started to bounce back"
+  — contrast with March 27's "employment growth is near zero."
+  Forward risks explicit and structured. Businesses: gains from
+  attrition-based productivity — the question is whether "conviction
+  to reduce headcount more actively" builds. Consumers: UMich
+  sentiment at an all-time record low in May, but spending has
+  "persisted." Barkin names the three conditions for consumer
+  pullback: real wage growth slowing, tax refunds fading, trade-down
+  options exhausted. Descriptive scenario framing (not named/explicit).
+  Direction: neutral — hard data improved; forward risk articulated
+  on both labor supply and consumer demand sides.
+
+INFLATION
+  Exact PCE data provided: headline 3.5%, core 3.2% YoY in March —
+  consistent with the April 29 FOMC statement's "elevated" language.
+  Long-term inflation expectations: "well anchored" (unconditional —
+  slightly more sanguine than Paulson's "currently in a good place"
+  hedge from May 19). Near-term expectations up on gas prices:
+  acknowledged but not alarmed. KEY SIGNAL: "With inflation above
+  our 2 percent target for over five years now, it's worth asking
+  whether the cumulative impact of so many waves risks loosening
+  the anchor." — Duration risk question raised; not resolved. SECOND
+  KEY SIGNAL: PRICING POWER REVERSAL — In March 27, Barkin reported
+  businesses unable to pass through costs ("nine in ten...won't be
+  able to...consumers tired of high prices"). In May 21, he reports
+  "renewed determination by businesses to pass these highly visible,
+  conflict-driven cost increases on." Directional reversal in his
+  ground-level pricing intelligence — from cost-absorption to
+  pass-through attempt.
+  Direction: hawkish lean — duration framing added; pricing reversal;
+  PCE data higher than March baseline.
+
+MONETARY POLICY
+  Hold endorsed: "little clarity on the duration and impact of this
+  latest supply shock, it made sense to give ourselves some time."
+  Boilerplate echoed: "Fed is well positioned to respond as
+  appropriate." Two-sided risk framing: "rough seas that pressure
+  the employment side...inflation side...or conceivably both."
+  Scenario framing is DESCRIPTIVE — risks named but no pre-committed
+  policy response (unlike Waller's Apr 17 BENIGN/ADVERSE explicit
+  named scenarios). Cut signal: ABSENT. Hike signal: ABSENT.
+  Direction: neutral — patience/hold framing; symmetric risk language;
+  no new directional guidance.
+
+NET SIGNAL: HAWKISH LEAN — Barkin's first post-FOMC speech is more
+  hawkish than his March 27 pre-FOMC baseline. Growth improved (less
+  fog, more resilience), PCE higher (3.2% core vs. ~2.8% March), and
+  two new hawkish additions: duration framing ("five years above
+  target") and a reversal in his pricing-power ground intelligence
+  (businesses now attempting pass-through). Policy stance unchanged
+  but underlying conditions are more inflation-weighted.
+
+vs. PRIOR SPEECH (Mar 27, 2026):      HAWKISH — Growth improved;
+  inflation higher; pricing-power signal reversed from disinflationary
+  to pass-through; duration concern added. Policy stance unchanged.
+
+vs. PRE-FOMC SPEECH (Mar 27, 2026):   same — HAWKISH shift.
+  Mar 27 was the pre-FOMC baseline. The full post-FOMC trajectory
+  from Barkin is therefore captured in a single comparison: his view
+  has moved hawkish on inflation substance while hold conviction
+  on policy is maintained.
+
+vs. COMMITTEE SINCE FOMC:             Barkin now aligned with the
+  broader post-FOMC hawkish lean. His "five years above target"
+  duration framing joins Goolsbee (May 12) and Collins (May 13)
+  using the same phrase. His pricing-power reversal adds a
+  qualitatively distinct and uniquely credible signal — Barkin's
+  on-the-ground business intelligence is the most reliable real-time
+  pricing data the Fed produces outside of official statistics.
+
+LANGUAGE TO WATCH:
+  • "Five years above our 2 percent target" — Goolsbee (May 12),
+    Collins (May 13), Barkin (May 21). Three Non Voters in 10 days.
+    Language cycle stage: EMERGING SHARED (Non Voter tier). Has not
+    yet appeared from a Just Voter or Troika member. If Paulson or
+    Williams adopts this framing, it marks a committee-wide upgrade
+    in duration concern.
+  • "Renewed determination to pass...cost increases" — Barkin's
+    reversal of his own March signal. One official's observation,
+    but Barkin's ground-level business contacts make this worth
+    tracking against CPI/PPI sub-components over next 4–6 weeks.
+  • "Cumulative impact of so many waves risks loosening the anchor"
+    — duration/anchor concern raised as a question, not a verdict.
+    If Barkin or other officials shift from question to assertion
+    (i.e., "anchor has loosened"), that would be a significant
+    hawkish escalation.
+
+ANALYST FLAG: YES
+  → Barkin's pricing-power reversal demands tracking. He is the
+    committee's most direct conduit for small/mid-sized business
+    pricing behavior, and in March he provided the committee's most
+    credible disinflationary signal (firms losing pricing power).
+    That signal has now reversed. If this persists in subsequent
+    Barkin speeches, it corroborates upside PCE risk beyond the
+    current energy shock and strengthens the case for extended hold
+    or eventual tightening — consistent with the direction Paulson
+    validated explicitly on May 19.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE CONTEXT AS OF MAY 22
+────────────────────────────────────────────────────────────────
+Warsh (Chair, Day 8): No speeches. Pre-June-6 blackout window is
+  15 days. Still the single highest-priority gap. Committee has
+  now accumulated four post-FOMC hawkish-lean signals (Paulson,
+  Logan, Collins, Barkin) without any Chair anchor. If Warsh's
+  inaugural speech matches this tone, tightening scenarios are
+  mainstream committee view. If it diverges dovish, the Paulson/
+  Barkin readings overstate committee hawkishness.
+
+Post-FOMC hawkish signals (since Apr 29):
+  Paulson (May 19): HAWKISH LEAN — tightening scenarios validated.
+  Logan (May 10):   HAWKISH — "inflation still too high."
+  Collins (May 13): HAWKISH LEAN — first hike scenario floated.
+  Barkin (May 21):  HAWKISH LEAN — duration framing; pricing reversal.
+
+Just Voters with no post-FOMC Type A speech: Jefferson, Williams,
+  Bowman, Waller, Barr, Miran, Kashkari*, Hammack (since May 1).
+  [*Kashkari May 13 stub unscored; YouTube transcript outstanding.]
+
+Open coverage gaps before June 6 blackout (15 days):
+  1. Warsh inaugural speech as Chair — highest priority.
+  2. Kashkari May 13 (St. Paul) — YouTube transcript needed.
+  3. Goolsbee Apr 7 (Detroit Economic Club) — YouTube transcript.
+  4. Bowman Type A — post-energy-shock view unknown since Jan 16.
+  5. Jefferson post-FOMC Type A — VP gap.
+  6. Waller, Miran post-FOMC Type A — no recent reads.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speech scored this run (May 21, 2026):
+  Barkin, May 21:  https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+
+Speech classified/skipped (May 20, 2026):
+  Barr, May 20:    https://www.federalreserve.gov/newsevents/speech/barr20260520a.htm
+
+Prior speech / Pre-FOMC baseline (same for Barkin):
+  Barkin, Mar 27:  https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260327
+
+Committee context references (most recent scored):
+  Paulson, May 19: https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Collins, May 13: https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12: https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:   https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+════════════════════════════════════════════════════════════════

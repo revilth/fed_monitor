@@ -1,0 +1,238 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-21 | Thomas I. Barkin | Richmond Fed President | Non Voter
+"Navigating Supply Shocks"
+ULI Triangle Capital Markets, Dorothy and Roy Park Alumni Center,
+Raleigh, NC
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+
+CLASSIFICATION: Type B with embedded outlook. Primary frame is a
+  supply-shock framework speech (conventional look-through logic,
+  anchoring mechanics, risk-of-recurrence argument). Embedded
+  throughout: hard data on growth, labor market, and inflation;
+  policy stance. Structure: supply-shock history → latest wave
+  (Middle East) → resilience arguments → look-through convention
+  → forward risk questions (businesses / consumers / expectations
+  anchor) → policy conclusion. No standalone "outlook section" but
+  sufficient coverage across all four topics for full scoring.
+
+Reference FOMC:    April 29, 2026  (hold; FFR 4.25–4.50%)
+Pre-FOMC baseline: March 27, 2026  "Driving Through Economic Fog (Still)"
+                   Appalachian Highlands Economic Forum, Johnson City TN
+Post-FOMC prior:   N/A — first post-April-29 Barkin speech.
+                   March 27 serves as both prior speech and pre-FOMC baseline.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "economic activity has been expanding at a solid pace" [Apr 29 stmt]
+  → Barkin: "The U.S. economy remains remarkably resilient."
+    Closely parallels the statement's framing; no softening.
+
+Own language:
+  "Consumer spending is up, and not just due to ever more expensive
+   gasoline. Non-gas spending growth has remained solid, too.
+   Corporate profits are high. Artificial intelligence (AI) investment
+   continues at full steam. Manufacturing surveys have rebounded.
+   The S&P 500 keeps setting records. Payroll growth has started to
+   bounce back."
+  → Unusually broad enumeration of positive indicators across spending,
+    profits, investment, surveys, equities, and employment. More
+    bullish than the March 27 "fog" framing.
+
+  "I've heard two explanations [for resilience]. The first is that
+   the U.S. economy has become somewhat immune to oil price shocks...
+   The second is that larger tax refunds, along with supportive
+   financial conditions and an AI-driven investment boom, have largely
+   offset any adverse impact on demand — at least for now."
+  → "At least for now" — a hedge on the durability of the offset.
+    He does not adopt the resilience explanations uncritically.
+
+  "Consumers and firms have become desensitized...Most people believe
+   the United States won't tolerate sustained higher oil prices...
+   so they work off the assumption that this shock will truly be
+   transitory."
+  → Behavioral argument: animal spirits are supporting demand, but
+    the assumption of transitoriness is endogenous (not guaranteed).
+
+Shift vs. prior speech:   HAWKISH LEAN (positive) — March characterized
+  growth as "foggy" with limited visibility; May describes the economy
+  as "remarkably resilient" with multiple supporting indicators. Higher
+  growth reduces mechanical urgency for cuts.
+Shift vs. pre-FOMC:       same as above — HAWKISH LEAN (same baseline).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, on average, and the unemployment
+   rate has been little changed in recent months." [Apr 29 stmt]
+  → Barkin: "Payroll growth has started to bounce back."
+    More optimistic than the statement — he describes a recovery
+    trend rather than low-and-stable.
+
+Own language — Hard data:
+  "Payroll growth has started to bounce back." — uptick registered.
+  [Note: March 27 described "Employment growth near zero" — this
+   is a directional improvement.]
+
+Own language — Forward risk (businesses):
+  "They've largely gotten more productive through attrition, not
+   layoffs. At what point will they more broadly gain conviction
+   that it is time to reduce headcount more actively?"
+  → Forward uncertainty: the efficiency gains have come without
+    widespread layoffs. The risk is not current but prospective —
+    if firms determine cuts are warranted, the transition could
+    be abrupt.
+
+Own language — Forward risk (consumers):
+  "Consumer sentiment hit its lowest point on record as measured
+   by the University of Michigan Survey of Consumers — but they've
+   persisted."
+  → Hard/soft divergence explicitly noted: consumers are unhappy
+    but still spending. The forward risk: "As real wage growth
+    slows, tax refunds fade, and trade-down options run their course,
+    will consumers finally reduce their appetite for spending?"
+  → Three specific triggers identified — real wages, fading fiscal
+    support, exhausted coping mechanisms. Descriptive scenario (not
+    explicit-named à la Waller).
+
+Shift vs. prior speech:   MIXED — hard data improved (payrolls
+  "bouncing back" vs. "near zero"); forward risk framing added.
+  Net: slightly positive on current state, but forward risks now
+  explicitly articulated in a way absent from March 27.
+Shift vs. pre-FOMC:       same baseline — same assessment.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase
+   in global energy prices." [Apr 29 stmt]
+  → Barkin: provides the exact figures — "Headline PCE jumped up
+    to 3.5 percent year–over–year in March 2026. Core inflation,
+    which excludes food and energy, increased more modestly to
+    3.2 percent." Energy attribution explicit (Middle East conflict).
+
+Own language — Near-term expectations:
+  "The recent increase in gas prices has understandably increased
+   near-term inflation expectations."
+  → Acknowledges near-term expectations lift. Not alarmed.
+
+Own language — Long-term expectations:
+  "So far, measures of forward inflation compensation beyond the
+   next year and survey-based measures of long-term inflation
+   expectations remain well anchored."
+  → "Well anchored" language — unconditional, unlike Paulson's
+    "currently in a good place" conditional hedge (May 19).
+    Slightly more sanguine on expectations than Paulson.
+
+Own language — KEY (duration risk):
+  "With inflation above our 2 percent target for over five years
+   now, it's worth asking whether the cumulative impact of so many
+   waves risks loosening the anchor."
+  → This is the signal. He uses the "five years above target"
+    duration framing — the same phrase that appeared in Goolsbee
+    (May 12, Non Voter) and Collins (May 13, Non Voter). Third
+    official to deploy this language. Barkin does not resolve the
+    question, but by asking it he is signaling personal unease
+    with the duration of above-target inflation.
+
+  "I'm hearing a renewed determination by businesses to pass these
+   highly visible, conflict-driven cost increases on to their
+   customers."
+  → Note: this is the OPPOSITE of his March 27 signal, which was
+    "More than nine in ten firms...feel they won't be able to do
+    so to their desired levels" (consumers tired of high prices).
+    The pricing power assessment has reversed — firms are now
+    attempting pass-through. Material hawkish shift.
+    [Note: March 27 described disinflationary pricing-power loss;
+     May 21 describes a pass-through attempt — directional reversal.]
+
+Shift vs. prior speech:   HAWKISH — PCE data higher (3.2% core vs.
+  ~2.8% implied at March 27); pass-through behavior reversed (firms
+  now attempting, vs. constrained in March); duration framing added.
+Shift vs. pre-FOMC:       same baseline — HAWKISH shift overall.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "remains prepared to adjust policy if risks emerge threatening
+   its dual mandate objectives" [Apr 29 stmt]
+  → Barkin: "the Fed is well positioned to respond as appropriate."
+    Near-verbatim echo. This is boilerplate committee-consensus
+    language.
+
+Own language:
+  "At our last meeting, we held rates steady; with little clarity
+   on the duration and impact of this latest supply shock, it made
+   sense to give ourselves some time before setting sail."
+  → Endorses hold; frames it as temporal ("some time") rather than
+    conditional on specific data thresholds. Patience, not a bar.
+
+  "Going forward, I wouldn't be surprised if we continue to see
+   rough seas that pressure the employment side of our mandate,
+   the inflation side of our mandate, or conceivably both."
+  → Two-sided risk framing: employment OR inflation OR both. This is
+    a descriptive scenario — he names the risk categories but does
+    not pre-commit to a policy response for each (contrast with
+    Waller's Apr 17 explicit BENIGN/ADVERSE named scenario framing).
+
+Cut signal status: ABSENT — no forward guidance; patience framing
+  only; no timing language.
+Hike signal status: ABSENT — "well positioned" is symmetric but
+  no explicit hike scenario named.
+
+Shift vs. prior speech:   UNCHANGED — March 27 was "await clarity,
+  give ourselves some time"; May 21 is identical posture. Hold
+  conviction unchanged.
+Shift vs. pre-FOMC:       same baseline — UNCHANGED on policy stance.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+               Barkin's first post-FOMC speech is more hawkish than
+               his March 27 pre-FOMC baseline on three dimensions:
+               (1) growth resilience is higher, reducing urgency for
+               cuts; (2) core PCE has risen from ~2.8% to 3.2%; and
+               (3) he adds a duration concern — "five years above
+               target" — that was absent in March, accompanied by
+               a reversal in the pricing-power signal (firms now
+               attempting pass-through vs. constrained in March).
+               Policy stance is unchanged (hold/patience), but the
+               conditions supporting that hold have become more
+               inflation-weighted.
+
+Language watch:
+  • "Five years above our 2 percent target" — now in Goolsbee
+    (May 12), Collins (May 13), and Barkin (May 21). Three Non
+    Voters deploying the same duration framing in 10 days.
+    Language cycle stage: EMERGING SHARED among Non Voters.
+    Track for spread to Just Voters or Troika.
+  • "Businesses...renewed determination to pass...cost increases"
+    — reversal of Barkin's March 27 pricing-power signal.
+    Barkin's ground-level business intelligence is a reliable
+    early indicator. This directional shift is notable.
+  • "Well positioned to respond as appropriate" — committee
+    boilerplate echoed; no personal variation added. Barkin is
+    not signaling personal asymmetry here.
+
+Analyst flag:  YES
+  → Barkin's pricing-power reversal is the most operationally
+    significant signal in this speech. In March he reported
+    firms unable to pass through costs ("consumers tired of
+    high prices"). In May he reports "renewed determination" to
+    pass through "highly visible" conflict-driven costs. If this
+    reversal reflects actual business behavior rather than
+    transient sentiment, it implies cost-push inflation from
+    the energy shock is now feeding into broader price-setting.
+    Combine with the "five years above target" duration framing
+    and the cumulative anchor question — Barkin has moved from
+    the committee's most diagnostically balanced Non Voter to a
+    clear inflation-watching lean. His on-the-ground intelligence
+    makes this harder to dismiss than standard macro language.
+══════════════════════════════════════════════════════════
