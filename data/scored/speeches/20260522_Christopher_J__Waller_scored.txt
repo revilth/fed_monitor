@@ -1,0 +1,321 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-22 | Christopher J. Waller | Governor | Just Voter
+"Policy Risks Have Changed"
+The Centre for Central Banking Guest Lecture, Frankfurt, Germany
+SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+
+CLASSIFICATION: Type A — Full Economic Outlook. Four-section
+  structure: Growth / Labor Market / Inflation / Monetary Policy.
+  Title signals an explicit assessment of how the risk balance has
+  shifted since the April FOMC. Waller's first post-FOMC economic
+  outlook speech; first post-energy-shock update since Apr 17.
+
+Reference FOMC:    April 29, 2026 (hold; FFR 4.25–4.50%)
+Pre-FOMC baseline: April 17, 2026  "One Transitory Shock After Another"
+                   (David Kaserman Memorial Lecture, Auburn University — scored)
+Post-FOMC prior:   April 21, 2026  "Modernizing Federal Reserve Operations"
+                   (Brookings Institution — Type B / operational, NOT scored
+                   for monetary policy; not a valid comparison baseline)
+  [Note: This speech is therefore Waller's FIRST post-Apr-29 economic
+   outlook speech. All shifts are vs. the Apr 17 pre-FOMC baseline.]
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity has continued to expand at a solid pace." [Apr 29 stmt]
+  → Waller version: "gross domestic product has continued to grow at a
+    solid pace, boosted by torrid business investment related to
+    artificial intelligence (AI) and resilient consumer spending."
+
+Own language:
+  "Real GDP grew 2.1 percent in 2025, at a 2 percent rate in the
+   first quarter, and my estimate is that this is close to the pace
+   in the second quarter."
+  → Solid growth picture echoing committee boilerplate; no personal
+    departure from consensus.
+
+  "I see no signs of this investment slowing down." (re: AI buildout)
+  → Affirmative on one key demand driver; no compositional concern raised.
+
+Notable qualification:
+  "These refunds are concentrated among those of higher income, so it
+   isn't helping the lower-income households who have been feeling the
+   burden of higher gasoline prices over the past few months."
+  → Income bifurcation noted — upper-income spending supports aggregate
+    data; lower-income squeeze from gas prices. Watcher flag on whether
+    this broadens into aggregate demand pullback.
+
+  "Spending did fall in April at auto dealerships as well as furniture
+   and clothing outlets and department stores, and I will be watching
+   carefully to see whether this persists."
+  → Targeted softness in discretionary categories; not yet a verdict
+    but a forward monitoring flag.
+
+Shift vs. pre-FOMC (Apr 17):  unchanged overall — both speeches affirm
+  solid aggregate growth; Apr 17 flagged consumer confidence at "lowest-
+  ever reading"; May 22 adds specific April softness in autos/furniture/
+  apparel. Growth assessment broadly stable.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has been
+   little changed in recent months." [Apr 29 stmt]
+  → Waller version: "The unemployment rate in April held steady at
+    4.3 percent...The economy created a net 115,000 jobs in April
+    and averaged 48,000 new jobs over the past three months."
+
+Own verdict — KEY:
+  "After worrying about a deterioration in the labor market through
+   most of 2025, recent data has indicated to me that labor supply
+   and demand have finally come into a rough balance."
+  → Explicit declaration of stabilization. "Finally" signals this is
+    a new assessment, not continuation. "Rough balance" preserves
+    some uncertainty but the directionality is clear.
+
+Own framing on low payrolls:
+  "That is historically a low level and, in the past, has been a
+   sign of weakness, but with labor force growth also near zero due
+   to an aging population and low net immigration, little or no job
+   creation is now consistent with a stable labor market."
+  → Reiterates the recalibrated break-even from Apr 17; low payrolls
+    are not a recession signal when labor force growth is itself near zero.
+
+Own policy implication — KEY:
+  "I don't see the prospect of a weakening labor market as the dominant
+   force that should be guiding monetary policy in the months ahead."
+  → REMOVES the labor-market-downside leg from his prior policy
+    framework. At Apr 17, labor weakness was one of the two conditions
+    that could trigger cuts (the BENIGN scenario). That conditional
+    is now explicitly deprioritized.
+
+Caveat retained:
+  "the United States hasn't often experienced little or no growth in
+   labor supply, and in the absence of historical experience, it is
+   hard to judge how employers may react now to a downturn in demand."
+  → Appropriate uncertainty hedge; does not reinstate the dovish
+    conditional but acknowledges limits of current calibration.
+
+Shift vs. pre-FOMC (Apr 17):  HAWKISH — Apr 17 framed payrolls
+  as "alternating between positive and negative," with consumer
+  confidence at "lowest-ever" raising the specter of "threshold
+  crossed" demand destruction. May 22 replaces this with "finally
+  come into rough balance" and explicitly removes labor as the
+  dominant policy driver. The labor-market downside risk has been
+  materially downgraded.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Apr 29 stmt]
+  → Waller goes considerably beyond this: PCE ~3.8% YoY ("highest
+    in three years"), core PCE ~3.3% YoY ("most in two and a half
+    years"). The "somewhat elevated" formulation understates his
+    current read.
+
+Own language — KEY (HAWKISH ESCALATION):
+  "Inflation is not headed in the right direction."
+  → Direct, unambiguous verdict. Deliberate departure from committee
+    boilerplate. Most explicit negative inflation assessment from any
+    voter in 2026.
+
+Own breadth signal:
+  "About half of the categories of goods and services prices tracked
+   in consumer inflation have been up 3 percent or more this year, a
+   historically large share."
+  → BREADTH of inflation is the new concern beyond headline/core levels.
+    This is distinct from the energy shock narrative (which could be
+    dismissed as transitory) — breadth implies diffusion into non-energy
+    components that cannot be looked through.
+
+Specific April data (hawkish):
+  "CPI inflation was up 0.6 percent last month, with a 3.8 percent
+   jump in energy prices. More concerning was that grocery prices in
+   April were up 0.7 percent, apparel 0.6 percent, and services
+   excluding energy 0.5 percent."
+  → Services ex-energy at 0.5% monthly is the most concerning data
+    point — this category is the one the Fed most directly controls
+    and the one least explicable by the energy shock.
+
+Producer prices as leading indicator:
+  "The input price index for manufacturing firms has jumped from 59
+   to 84.6 over the past three months, matching the level reached in
+   April 2022, the same reading as during the thick of the pandemic-
+   related supply chain crisis."
+  → Explicit historical comparison to 2022 supply chain peak — a
+    hawkish framing that elevates the energy shock's severity.
+
+Five-year duration framing (joins Non Voter chorus):
+  "the FOMC has been unable to achieve our stated inflation target
+   for more than five years."
+  → Waller is the FIRST Just Voter to use this exact duration framing
+    explicitly. Previously appeared only from Non Voters (Goolsbee
+    May 12, Collins May 13, Barkin May 21). Language cycle stage now:
+    EMERGING SHARED — crossing from Non Voter to Just Voter tier.
+
+Bayesian framework (new analytical addition):
+  "If people do not know the true inflation generating process and
+   see a sequence of positive price shocks, they may infer that the
+   next price shock is more likely to be positive than negative."
+  → Formal theoretical justification for why transitory shocks can
+    still unanchor expectations. This is the analytical elaboration
+    of his Apr 17 "sequence of transitory shocks" language — now
+    equipped with a named theoretical mechanism (Bayesian updating)
+    that makes the concern more precise and more difficult to dismiss.
+
+Expectations nuance (partial anchor retained):
+  "measures of longer-term inflation expectations are still relatively
+   low and appear well anchored, some expectations from one to five
+   years ahead have moved up since the beginning of 2026."
+  → 1-5 year expectations elevated but longer-term anchored. Waller
+    explicitly says he is watching for contagion to longer-term
+    measures. This is a conditional concern, not a verdict of
+    unanchoring — but the direction of monitoring is hawkish.
+
+Own dovish anchor from Apr 17 — NOW REMOVED:
+  April 17 contained: "underlying inflation...excluding tariff
+  effects — is running close to 2 percent." That ex-tariff floor
+  is ABSENT from May 22. The data now preclude it: PCE 3.8%,
+  core 3.3% — there is no credible underlying "close to 2%" story.
+
+Shift vs. pre-FOMC (Apr 17):  MATERIAL HAWKISH — Apr 17 retained
+  the ex-tariff dovish anchor ("underlying close to 2%"). May 22
+  drops it entirely as data have deteriorated further. PCE 3.8%
+  vs. implied ~2.5% ex-tariffs in April. Breadth signal added.
+  Bayesian framework formalizes the "sequence of shocks" concern.
+  April data worse than expected across groceries, apparel, services.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  The Apr 29 statement retained "easing bias" language indicating
+  the FOMC would assess "the extent and timing of additional
+  adjustments to the target range."
+  → Waller explicitly advocates REMOVING that language: "I would
+    support removing the 'easing bias' language in our policy
+    statement to make it clear that a rate cut is no more likely
+    in the future than a rate increase."
+
+Own verdict on near-term policy:
+  "on net, my current policy position is to hold rates steady for
+   the near term."
+  → Unambiguous hold. No nuance on timing.
+
+Own language — cut conditions (hawkish bar):
+  "I am going to need to see improvement on inflation or a significant
+   deterioration in the labor market before I would consider reducing
+   the policy rate."
+  → Double bar for cuts: EITHER meaningful disinflation OR dramatic
+    labor deterioration. In Apr 17, the BENIGN scenario would have
+    allowed cuts "to support the labor market later this year." That
+    conditional is now closed — "significant deterioration" is a much
+    higher bar than "labor market needing support."
+
+Own language — hike risk (NEW; first voter to go explicit):
+  "I can no longer rule out rate hikes further down the road if
+   inflation does not abate soon."
+  → First Just Voter to explicitly articulate hike possibility in 2026.
+    "Can no longer rule out" is a deliberate escalation from the
+    Apr 17 adverse scenario which only said "maintain the policy rate."
+    The word "no longer" signals this is a change in his assessment.
+
+  "If I believe inflation expectations start to become unanchored,
+   I would not hesitate to support an increase in the target range."
+  → Conditional hike trigger named: unanchored expectations. Clearer
+    than the Apr 17 adverse scenario's "inflation risks outweigh
+    employment risks." A specific mechanism for what would activate hikes.
+
+"Next move" framing:
+  "The next move, whether it is a hike or cut, will depend on the data."
+  → Removes asymmetric dovish bias entirely. Symmetric framing on the
+    direction of the next move is itself a hawkish statement given
+    where markets are pricing (cuts, not hikes).
+
+Time preference:
+  "I am prepared to be patient in holding policy at its current
+   restrictive setting as we watch how the conflict evolves."
+  → Patience framing. No timeline commitment. Removes any guidance
+    that would imply cuts are imminent.
+
+Cut signal status: ABSENT. The Apr 17 BENIGN conditional cut signal
+  (cuts possible if energy shock resolves) has been removed. No cut
+  scenario remains in the May 22 framework.
+
+Hike signal status: CONDITIONAL — explicitly in play if inflation
+  does not abate or if expectations become unanchored. Not a default
+  scenario but no longer ruled out.
+
+Shift vs. pre-FOMC (Apr 17):  MATERIAL HAWKISH —
+  Apr 17: BENIGN scenario (cuts possible); ADVERSE scenario (hold
+    even if labor weakens).
+  May 22: NO benign scenario; hike explicitly possible; easing bias
+    removal explicitly advocated. Full reversal of the Apr 17 dovish
+    conditional. The two-scenario framework has collapsed into a
+    single track: hold until inflation improves, with hike risk
+    rising if it does not.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — clear and material escalation from the
+               already-hawkish Apr 17 baseline
+
+This speech represents the most hawkish signal from any Just Voter
+in 2026. Waller's Apr 17 speech was already the most hawkish voter
+speech of the cycle; May 22 moves further in the same direction:
+
+(1) Labor stabilization removes the conditional dovish leg. The Apr 17
+    BENIGN scenario's cut trigger (labor market support) is gone because
+    the labor market no longer needs support.
+(2) Inflation has materially worsened: PCE 3.8% (Apr 17 baseline implied
+    ~2% ex-tariffs). The ex-tariff dovish anchor cannot survive current
+    data. Breadth of price increases (half of categories above 3%) adds
+    a diffusion concern beyond the energy shock.
+(3) Easing bias removal: First voter to explicitly advocate removing the
+    Apr 29 statement's easing bias language. If this view is shared by
+    other voters, a statement change at the June 17-18 FOMC becomes likely.
+(4) Hike risk named: First voter to explicitly say hikes are possible. The
+    Bayesian framework provides an analytical structure for this — multiple
+    transitory shocks compound expectations risk even if individually
+    dismissible.
+
+Language watch:
+  • "I would support removing the 'easing bias' language" — HIGHEST
+    PRIORITY. If Paulson, Jefferson, or Williams echo this call, the
+    Jun 17-18 FOMC outcome changes materially. Language cycle stage:
+    DISPERSED (one voter); watch for spread.
+  • "I can no longer rule out rate hikes" — HAWKISH NEW FRAME. First
+    voter to go explicit. If this language migrates to Paulson or
+    Logan, hike scenarios become the committee's mainstream discussion,
+    not an outlier view.
+  • Bayesian framework for expectations — "sequence of price shocks
+    raises inferred probability of future inflation" — sophisticated
+    analytical cover for hawkish action. May appear in other officials'
+    speeches as second-order framing.
+  • "Five years above 2% target" — now crossing from Non Voter to
+    Just Voter tier. One step from Troika adoption. Language cycle
+    stage: EMERGING SHARED.
+  • "Policy Risks Have Changed" (speech title = policy signal) —
+    the risk balance has shifted from symmetric to inflation-dominant.
+
+Analyst flag:  YES
+  → Two questions for analyst:
+    (1) Is Waller's easing-bias-removal call a personal outlier or
+        does it reflect pre-June-18 coalition building? This is the
+        most consequential near-term policy question. If even one
+        other voter echoes it before June 18, easing bias removal at
+        that meeting becomes likely.
+    (2) The hike signal: is Waller signaling a genuine shift in the
+        reaction function, or is this designed to move market pricing
+        rather than reflect a true base case? The "no longer rule out"
+        phrasing vs. "would not hesitate to support" (conditional on
+        expectations unanchoring) — is the latter language calibrated
+        to a specific trigger (expectations unanchoring, a relatively
+        high bar) or is it setting up a hair trigger?
+══════════════════════════════════════════════════════════

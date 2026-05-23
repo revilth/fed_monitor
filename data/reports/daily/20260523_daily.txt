@@ -1,0 +1,196 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 23, 2026 (Saturday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 23, 2026)
+  — None. No speeches on today's date.
+
+SPEECH SCORED THIS RUN (May 22, 2026):
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "Policy Risks Have Changed"
+     The Centre for Central Banking Guest Lecture, Frankfurt, Germany
+     TYPE A — Full Economic Outlook — SCORED
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  CHRISTOPHER J. WALLER  |  Governor  |  Just Voter
+    First post-FOMC economic outlook speech; pre-FOMC baseline Apr 17
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP growing at 2% pace (Q1 and estimated Q2). AI investment "torrid"
+  with "no signs of slowing." Consumer spending resilient in aggregate
+  despite Michigan sentiment at all-time record low. Waller notes income
+  bifurcation: tax refunds concentrated in higher-income households
+  while lower-income households bear the gas price burden. Targeted
+  April softness in autos, furniture, and department stores — "I will
+  be watching carefully to see whether this persists." No growth alarm
+  sounded; aggregate picture echoes committee boilerplate.
+  Direction: neutral — solid aggregate growth; income bifurcation and
+  discretionary softness flagged as monitoring items, not verdicts.
+
+LABOR MARKET
+  "After worrying about a deterioration in the labor market through
+  most of 2025, recent data has indicated to me that labor supply and
+  demand have finally come into a rough balance." Unemployment 4.3%
+  (stable; near his long-run estimate). 115,000 jobs in April; 3-month
+  avg 48,000 — low by historical standard but explicitly reframed as
+  consistent with near-zero labor force growth. Hiring ticked up in
+  March to highest level in over a year. POLICY IMPLICATION: "I don't
+  see the prospect of a weakening labor market as the dominant force
+  that should be guiding monetary policy in the months ahead." This
+  removes the labor-downside leg from his April 17 conditional framework.
+  Direction: hawkish lean — "finally stabilized" replaces the Apr 17
+  "alternating positive and negative" framing; labor risk deprioritized
+  as a policy driver.
+
+INFLATION
+  PCE inflation estimated at ~3.8% YoY (highest in 3 years); core PCE
+  ~3.3% YoY (highest in 2.5 years). Verdict: "Inflation is not headed
+  in the right direction." April CPI +0.6%: energy +3.8%, but also
+  groceries +0.7%, apparel +0.6%, services ex-energy +0.5% — all
+  "sizable monthly growth rates." BREADTH SIGNAL: "About half of the
+  categories of goods and services prices tracked in consumer inflation
+  have been up 3 percent or more this year, a historically large share."
+  This is a diffusion concern beyond the energy shock narrative.
+  Manufacturing input price index at 84.6 — matching April 2022
+  pandemic supply chain crisis peak. Waller explicitly flags that the
+  FOMC "has been unable to achieve our stated inflation target for more
+  than five years" — joining Non Voters in the duration-framing chorus
+  but now at Just Voter weight. Introduces BAYESIAN FRAMEWORK to explain
+  why a sequence of individually-transitory shocks can still raise
+  longer-term inflation expectations: agents revise the probability of
+  future positive shocks upward when observing repeated positive shocks,
+  even if they believe each is individually transitory. Longer-term
+  inflation expectations "still relatively low and appear well anchored"
+  but 1-5 year expectations "have moved up since the beginning of 2026."
+  Apr 17's ex-tariff dovish anchor ("underlying inflation close to 2%")
+  is ABSENT — data have overtaken it.
+  Direction: HAWKISH — strongest inflation assessment from any voter in
+  2026; breadth, duration, expectations, and PCE-level concerns combined.
+
+MONETARY POLICY
+  Hold: "my current policy position is to hold rates steady for the
+  near term." Cut bar: "improvement on inflation or a significant
+  deterioration in the labor market" — a materially higher bar than
+  Apr 17's BENIGN conditional ("cuts to support the labor market later
+  this year"). EASING BIAS REMOVAL: "I would support removing the
+  'easing bias' language in our policy statement to make it clear that
+  a rate cut is no more likely in the future than a rate increase."
+  HIKE RISK: "I can no longer rule out rate hikes further down the road
+  if inflation does not abate soon." "If I believe inflation expectations
+  start to become unanchored, I would not hesitate to support an increase
+  in the target range." Next-move framing: "The next move, whether it is
+  a hike or cut, will depend on the data" — symmetric framing is itself
+  hawkish given market pricing. Cut signal: ABSENT (Apr 17 benign
+  conditional closed). Hike signal: CONDITIONAL on expectations
+  unanchoring or persistent inflation. Scenario framing: no explicit
+  named scenarios as in Apr 17 — replaced with a single "patient hold"
+  track with hike risk building on the upside.
+  Direction: HAWKISH — first voter to call for easing bias removal;
+  first voter to explicitly name hike risk; benign conditional removed.
+
+NET SIGNAL: HAWKISH — Most hawkish Just Voter speech of the 2026
+  cycle. Clear escalation from Waller's own Apr 17 baseline, which was
+  already the committee's most hawkish economic outlook speech.
+
+vs. PRIOR SPEECH (Apr 17, 2026):       HAWKISH — Material escalation
+  on all four topics. Labor: "finally stabilized" vs. "alternating
+  positive and negative." Inflation: 3.8% PCE vs. underlying "close
+  to 2% ex-tariffs." Policy: no cut signal vs. BENIGN conditional;
+  hike risk named; easing bias removal called for.
+
+vs. PRE-FOMC SPEECH (Apr 17, 2026):   same — Apr 17 IS the pre-FOMC
+  baseline (Apr 29 reference FOMC). Full trajectory in one comparison:
+  Waller has moved from a conditional dovish scenario to an explicit
+  hawkish hold with hike risk. The energy shock data have closed the
+  benign exit ramp.
+
+vs. COMMITTEE SINCE FOMC:             Waller is now the most hawkish
+  signal in the post-FOMC dataset, superseding even Logan's May 10
+  "inflation still too high" framing. Logan and Hammack (Apr 29
+  dissenters on easing bias) set up the call for removal; Waller is
+  now the first post-FOMC voter to explicitly advocate it. The
+  committee's post-FOMC output is uniformly hawkish-lean:
+  Paulson (May 19), Logan (May 10), Collins (May 13), Barkin (May 21)
+  — all hawkish lean. Waller (May 22) is the strongest of the five.
+  No dovish signals from any scored post-FOMC speech.
+
+LANGUAGE TO WATCH:
+  • "I would support removing the 'easing bias' language" — HIGHEST
+    PRIORITY PHRASE of the post-FOMC cycle. If Paulson, Jefferson,
+    or Williams adopt this language before June 17-18, statement change
+    is the base case outcome. Language cycle stage: DISPERSED (one voter).
+  • "I can no longer rule out rate hikes" — first voter to name hike
+    risk explicitly. If Logan or Hammack (Apr 29 hawkish dissenters)
+    follow, this becomes a coalition signal rather than an outlier.
+  • "Five years above our 2 percent target" — crossed from Non Voter
+    (Goolsbee, Collins, Barkin) to Just Voter (Waller) tier in one
+    speech. Language cycle stage: EMERGING SHARED, entering voter tier.
+  • Bayesian expectations framework — provides intellectual scaffolding
+    for why multiple individually-transitory shocks still justify policy
+    action. Watch for other officials to cite this reasoning.
+
+ANALYST FLAG: YES
+  → (1) EASING BIAS REMOVAL PROBABILITY: Waller is now on record
+    advocating statement change at June 17-18. Three Apr 29 hawkish
+    dissenters (Logan, Hammack, Kashkari) already opposed the language.
+    If even one more voter aligns publicly before the June meeting,
+    removal becomes likely. Analyst to assess: which voter(s) are most
+    likely to echo Waller before June 6 blackout?
+  → (2) HIKE SIGNAL CALIBRATION: Is "I can no longer rule out rate
+    hikes" a genuine policy signal or a communication tool to move
+    market pricing? The specific trigger named (expectations unanchoring)
+    is a relatively high bar. Analyst to assess whether this is a
+    credible near-term threat or a tail-risk framing designed to anchor
+    expectations by naming the consequence of unanchoring.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE CONTEXT AS OF MAY 23
+────────────────────────────────────────────────────────────────
+Post-FOMC economic outlook signals (since Apr 29):
+  Waller   (May 22): HAWKISH — easing bias removal call; hike risk named.
+  Paulson  (May 19): HAWKISH LEAN — tightening scenarios validated.
+  Barkin   (May 21): HAWKISH LEAN — duration framing; pricing reversal.
+  Collins  (May 13): HAWKISH LEAN — first hike scenario floated (Non Voter).
+  Goolsbee (May 12): HAWKISH LEAN — inflation-first framing (Non Voter).
+  Logan    (May 10): HAWKISH — "inflation still too high" (Just Voter).
+
+Zero dovish signals from any speaker since April 29.
+
+Just Voters with no post-FOMC Type A speech: Jefferson, Williams,
+  Bowman, Barr, Miran, Kashkari*, Hammack (since May 1).
+  [*Kashkari May 13 stub unscored; YouTube transcript outstanding.]
+
+15 days until June 6 blackout. Key open coverage gaps:
+  1. Warsh inaugural speech as Chair — highest priority; no speeches yet.
+  2. Jefferson post-FOMC Type A — VP gap; his easing-bias view unknown.
+  3. Williams post-FOMC Type A — NY Fed president and committee anchor.
+  4. Bowman post-energy-shock monetary policy view unknown since Jan 16.
+  5. Kashkari May 13 (St. Paul) — YouTube transcript needed.
+
+The easing bias removal question will be decided by whether Jefferson
+and/or Williams echo Waller before June 6. The three Apr 29 hawkish
+dissenters (Logan, Hammack, Kashkari) presumably favor removal. Waller
+now explicitly on record. That is potentially four voters (if Kashkari's
+May 13 stance aligns). If either of the two remaining Troika members
+(Jefferson, Williams) align, the committee majority for removal is clear.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speech scored this run (May 22, 2026):
+  Waller, May 22:   https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH = vs. PRIOR SPEECH):
+  Waller, Apr 17:   https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm
+
+Committee context references (most recent scored per speaker):
+  Paulson, May 19:  https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Barkin, May 21:   https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Collins, May 13:  https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12: https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:    https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+════════════════════════════════════════════════════════════════
