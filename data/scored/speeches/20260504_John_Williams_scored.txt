@@ -1,0 +1,176 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-04 | John C. Williams | NY Fed President | Troika
+"There Is No Try"
+Cynosure Group Spring Symposium, New York City
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+
+CLASSIFICATION: Type A — Full Economic Outlook
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: March 30, 2026 (scored — cut signal retracted)
+Post-FOMC prior:   April 16, 2026 (scored)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity has been expanding at a solid pace." [Apr 29 stmt]
+  → Williams: "The US economy has so far remained remarkably resilient.
+    Real GDP grew 2 percent in 2025 and is poised to maintain that pace."
+
+Own language: Forecasts 2-2.25% real GDP growth in 2026 and 2027.
+  Consumer spending resilient, business investment robust (AI-driven).
+  Declines in residential construction and federal government spending
+  are being offset. Supply-chain disruptions emerging (PMI flash surveys
+  showed "abrupt, sharp increases in delivery times and input prices").
+  Notes "new round of tariffs in the coming months" as additional upside
+  risk to import prices.
+
+Direction: neutral — solid baseline; AI investment and consumer strength
+  offsetting drags; new tariff round flagged as additional risk.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, on average, and the unemployment rate
+  has been little changed in recent months." [Apr 29 stmt]
+  → Williams echoes the hard data: 4.3% unemployment unchanged 9 months;
+    payroll growth "low but at levels consistent with underlying labor
+    force growth." UI claims and layoff measures "low and stable."
+
+Own language — KEY (soft data):
+  "Some soft data suggest a less sanguine view. Perceptions of job
+  availability from the Conference Board survey have continued to trend
+  downward. Similarly, we have yet to see signs of sustained stabilization
+  in the 'job security gap'... Together, these indicators suggest
+  increasing labor market slack."
+  → This is Williams' verdict on the soft data indicators in this paragraph
+    specifically — not his overall labor market characterization. His
+    overall framing is the speech's opening labor sentence: "conflicting
+    signs — Much of the hard data points to stabilization, while some of
+    the soft data suggest continued gradual slowing."
+
+Own language — HAWKISH ANCHOR:
+  "Unlike then [post-pandemic], the labor market is not adding to inflation
+   pressures... This is reassuring, since one lesson from the post-pandemic
+   period was that a perfect storm of higher input and labor costs led to
+   larger-than-normal pass-through to prices."
+  → Explicitly distinguishes the current supply shock from 2021-22.
+    Labor is NOT the problem — it cannot compound the inflation shock.
+
+Shift vs. Apr 16:   MILD DOVISH on soft data — Apr 16 noted hard-soft
+  divergence; May 4 adds explicit conclusion that soft data indicators
+  "suggest increasing labor market slack." Overall framing unchanged:
+  "conflicting signs."
+Shift vs. pre-FOMC (Mar 30): MILD DOVISH on soft data — labor concern
+  more explicit; overall framing still "conflicting signs."
+Direction: neutral — overall characterization is "conflicting signs"
+  (hard data stable, soft data gradually slowing). "Increasing labor
+  market slack" is the conclusion of the soft data subsection only,
+  not Williams' verdict on the labor market as a whole.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase in
+   global energy prices." [Apr 29 stmt]
+  → Williams: "Overall inflation... rose to 3-1/2 percent in March.
+    The combination of higher tariffs and energy prices has contributed
+    about a percentage point to that figure."
+
+Own language — KEY (look-through anchors):
+  "I anticipate the pass-through of current tariffs to prices to be
+   mostly completed in the next few months and therefore their effects
+   on the inflation rate to fade."
+  "Underlying inflation outside of imported goods and energy has so far
+   remained stable, and there are still no signs of significant second-
+   round effects from tariffs spilling over to the rest of the economy."
+  "Inflation expectations have remained well anchored despite the deluge
+   of shocks." NY Fed SCE: 1-year ahead picked up, but "medium- and
+   longer-term expectations have remained solidly anchored."
+  → Three-layer look-through case: (1) tariff pass-through is temporary;
+    (2) underlying inflation stable — no second-round effects; (3) medium/
+    long-run expectations solidly anchored. This directly contradicts
+    Hammack's "broad based" framing and Logan's "pre-existing above-2%"
+    concern.
+
+Own complication:
+  "I also expect there will be a new round of tariffs in the coming
+   months, which would put additional upward pressure on import prices."
+  → Acknowledges the look-through case is complicated by further tariff
+    rounds. Still frames it as temporary, but it's a meaningful caveat.
+
+Forecast: 3% inflation in 2026, then 2% in 2027 as tariff and energy
+  effects "move into the rearview mirror."
+
+Shift vs. Apr 16:   UNCHANGED in direction. Similar look-through
+  framing. "New round of tariffs" is an addition.
+Direction: neutral with dovish lean — look-through case fully articulated;
+  "stable underlying" directly counters the dissenters' narrative.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Well positioned to determine the extent and timing of additional
+   adjustments." [Apr 29 stmt]
+  → Williams: "The current stance of monetary policy is well positioned
+    to balance the risks to our maximum employment and price stability goals."
+
+Own language: No cut signal. Symmetric risk framing. "The risks to both
+  sides of our mandate have increased." No explicit forward guidance.
+  Repeats commitment to data-dependence.
+
+Cut signal status: ABSENT — no change from Apr 16 retraction.
+Shift vs. Apr 16:   UNCHANGED on policy stance.
+Direction: neutral — patient hold confirmed; no new guidance.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — Troika holdline maintained; soft data on labor
+               points to some slowing, but Williams' overall verdict is
+               "conflicting signs," not a directional dovish call.
+
+Directional:   [Inference: Williams' framing functions as the Troika
+  response to the hawkish dissenters — Williams does not reference
+  the dissenters or frame his speech as a rebuttal.] Three factual
+  departures from the dissenter narrative:
+  (1) Underlying inflation "stable" with "no second-round effects" —
+      directly contradicts Hammack's "broad based" framing
+  (2) "Increasing labor market slack" per soft data — maintains the
+      dovish leg of the dual-risk argument the dissenters want to remove
+  (3) Expectations "solidly anchored" — counters Kashkari's unanchoring
+      risk framing in the adverse scenario
+
+  The committee fault line is now clearly drawn: dissenters see
+  pre-existing/broad inflation with anchored labor; Williams sees
+  energy/tariff inflation with mixed labor signals (hard data stable,
+  soft data showing some slowing). These two narratives
+  cannot coexist in the statement language indefinitely — June will
+  force a resolution.
+
+Language watch:
+  • "Increasing labor market slack" (soft data) — new and explicit.
+    If Jefferson echoes this, it represents Troika consensus that labor
+    is softening and the dovish leg remains valid.
+  • "No significant second-round effects" — Williams' anchor against the
+    "broad based" framing. This is the key factual dispute with the
+    dissenters. Watch core services ex-housing data.
+  • "New round of tariffs in the coming months" — first Troika mention
+    of additional tariff rounds as an inflation upside risk.
+
+Analyst flag: YES
+  → Williams' framing directly contradicts the three dissenters on
+    two key dimensions (underlying inflation stable; soft data on
+    labor suggests some slowing). [Inference: this functions as the
+    Troika's defense of the easing bias, though Williams does not
+    frame it as such.] Analyst to
+    assess: with Powell ending his Chair term May 15, does Warsh adopt
+    Williams' "stable underlying" framing or the dissenters' "broad based"
+    framing? His first statement on June 18 is the definitive test.
+══════════════════════════════════════════════════════════

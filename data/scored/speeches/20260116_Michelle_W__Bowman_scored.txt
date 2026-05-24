@@ -1,0 +1,121 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-16 | Michelle W. Bowman | Governor (Vice Chair for Supervision) | Just Voter
+"Outlook for the Economy and Monetary Policy"
+Outlook 26: The New England Economic Forum, Foxborough, MA
+SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm
+
+CLASSIFICATION: Type A — Economic Outlook (+ supervisory section)
+Most detailed Bowman economic outlook speech in 2026.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: N/A (first scored 2026 speech; prior speech was Jan 7 supervisory)
+Post-FOMC prior:   N/A
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate
+   has shown some signs of stabilization." [Jan 28 stmt]
+  → Bowman: "unemployment rate...4.4 percent in December...
+    increased substantially...reflecting a decline in hiring
+    rather than a sharp increase in layoffs."
+
+Own verdict — KEY:
+  "The labor market has become more fragile."
+  "My focus today is why that fragility poses the greater risk
+   and what that means for the path of policy."
+  → HAWKISH FRAMING ON LABOR: she is not calling for cuts
+    because labor is weak per se — she is calling for cuts
+    because labor fragility could deteriorate rapidly.
+    This is a preemptive/forward-looking dovish argument.
+
+Own addition — important:
+  "Private job gains averaged only about 30,000 per month in
+   the fourth quarter...labor demand has continued to gradually
+   soften."
+  "The share of long-term unemployed workers reached 26 percent
+   in December, the highest since early 2022."
+  → Points to a low-hire, low-fire market at risk of tipping
+    to layoffs. More pessimistic than the committee consensus.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Dec 2025 stmt]
+  → Bowman: "core PCE inflation...2.9 percent in December.
+    However, after removing estimated tariff effects, core PCE
+    inflation would have hovered close to 2 percent."
+
+Own language — KEY:
+  "The underlying trend in core PCE inflation appears to be
+   moving much closer to our 2 percent target than is currently
+   showing in the data."
+  "Core services inflation is already roughly consistent with
+   our target."
+  → Most dovish inflation read of any voter: she is essentially
+    arguing that ex-tariffs, inflation is already at target.
+
+  "I increasingly confident that inflation will come down
+   toward 2 percent as tariff effects on goods inflation
+   continue to wane in coming months."
+  → Explicit confidence in disinflation resuming. No hedging.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Maintain...federal funds rate" → Bowman: "the policy rate
+   now reflects a total of 75 basis points of cuts since
+   September and is closer to my estimate of its neutral level."
+
+Own language — KEY:
+  "I see policy as moderately restrictive."
+  "We should remain ready to adjust policy to bring it closer
+   to neutral."
+  "My approach remains intentionally proactive and forward
+   looking...acting in a timely and measured way."
+  → Most explicit cut-leaning language of any voter in 2026.
+    "Moderately restrictive" (not "well positioned") is her
+    frame. "Proactive" cuts before data fully deteriorates.
+
+Cut signal status: PRESENT — "proactive" and "forward looking"
+  stance with labor fragility as the trigger, not hard data.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH — most explicitly dovish voter speech in 2026
+
+Directional:   Bowman is the committee's most pro-cut voter.
+  Her frame: ex-tariffs inflation is near target, labor is
+  fragile and could deteriorate quickly, and rates are still
+  "moderately restrictive." All three arguments point to cuts.
+  Her post-FOMC appearances are regulatory Type B — her
+  economic outlook view has not been updated since this speech.
+
+Language watch:
+  • "Moderately restrictive" — her personal rate characterization;
+    contrast with committee's "well positioned." If other
+    voters adopt this language, it signals growing cut pressure.
+  • "Proactive" cuts — her distinctive framing; not echoed
+    by Jefferson or Williams.
+
+Analyst flag: YES
+  → Bowman has not given an economic outlook speech since Jan 16.
+    The energy shock (late Feb) may have changed her calculus,
+    but we have no post-shock data from her. Seek Q&A or
+    media appearances for any updated signal.
+══════════════════════════════════════════════════════════

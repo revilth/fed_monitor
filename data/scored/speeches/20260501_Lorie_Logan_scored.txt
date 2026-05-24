@@ -1,0 +1,99 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-01 | Lorie Logan | Dallas Fed President | Just Voter
+"Statement on FOMC dissent — April 28-29, 2026 meeting"
+Federal Reserve Bank of Dallas (published May 1, 2026)
+
+CLASSIFICATION: Type A (embedded) — Dissent statement with economic
+outlook rationale.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: February 10, 2026 "Outlook for the Economy and
+  Monetary Policy" (scored)
+Post-FOMC prior:   N/A (first post-FOMC statement)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Not addressed directly. Implied through inflation/labor framing.
+Direction: neutral — no explicit growth characterization.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+"The labor market has been stable, with low unemployment and payroll
+job gains keeping pace with labor force growth."
+→ Stable, balanced read. No downside risk flagged. Slightly more
+  dovish than Hammack ("full employment"). [Inference: by not
+  acknowledging any labor softening, Logan implicitly removes the
+  dovish leg of the dual-risk argument — she does not state this
+  framing directly.]
+Direction: neutral-to-hawkish — stable, not a concern for her.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "I am increasingly concerned about how long it will take inflation
+   to return all the way to the FOMC's 2 percent target. PCE price
+   inflation has exceeded 2 percent for more than five years."
+  "Even before recent increases in the prices of energy and other
+   commodities, those measures had been running meaningfully above
+   2 percent, leaving doubts about how long it will take inflation
+   to return to target."
+  → CRITICAL: Logan explicitly separates pre-existing inflation
+    from the energy shock. Underlying inflation was already a
+    concern before the conflict — energy is additive. This directly
+    contradicts the statement's energy-attribution framing.
+  "The conflict in the Middle East raises the prospect of prolonged
+   or repeated supply disruptions that could create further
+   inflationary pressures."
+Direction: HAWKISH — pre-existing inflation concern; energy additive
+  not the primary cause.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Dissent rationale: The "additional adjustments" language "implies the
+  next rate change will most likely reduce the target range again."
+  "I disagree with that assessment of the policy outlook."
+  "In light of the two-sided risks to monetary policy, I believed
+   the FOMC should not give forward guidance implying a bias toward
+   rate cuts at this time."
+  "Depending on which scenario materializes, it could plausibly be
+   appropriate for the FOMC's next rate change to be either an
+   increase or a cut."
+  → Explicit symmetric framing: next move could be hike or cut.
+    Logan also frames forward guidance as a policy tool in itself:
+    "When the FOMC gives forward guidance... that guidance is an
+    important policy tool. It influences financial conditions and
+    the economy." She is objecting to the mechanism of the guidance,
+    not just its direction.
+
+Cut signal status: EXPLICITLY OPPOSED — symmetric guidance called for.
+Direction: HAWKISH — explicit two-sided risk, guidance-as-policy-tool
+  framing.
+
+Shift vs. pre-FOMC (Feb 10): UNCHANGED in direction, more specific
+  in rationale. Feb 10 established "very close to neutral" and
+  inflation concern; May 1 adds the forward guidance critique and
+  the "five years above 2%" duration framing.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — consistent with Feb 10 stance; adds explicit
+               forward guidance critique and pre-existing inflation concern.
+
+Language watch:
+  • "Meaningfully above 2% even before energy" — isolates pre-existing
+    inflation from the energy shock; undermines the look-through case.
+  • "Forward guidance is an important policy tool" — frames the easing
+    bias debate at the mechanism level, not just the direction level.
+    This is a sophisticated objection that is harder to dismiss.
+  • "Either an increase or a cut" — symmetric language, not just
+    "neutral." Hike is explicitly on the table for Logan.
+
+Analyst flag: NO — consistent with established Logan stance.
+══════════════════════════════════════════════════════════

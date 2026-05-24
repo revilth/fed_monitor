@@ -1,0 +1,160 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 20, 2026 (Wednesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+DOCUMENTS TODAY
+  1. FOMC Minutes — April 28–29, 2026  |  TYPE D  |  SCORED
+     Released: May 20, 2026 (3 weeks post-meeting)
+
+  2. Michael Barr  |  Board Governor  |  Just Voter
+     "Measuring Financial Health"
+     EMERGE Financial Health 2026, Atlanta, GA
+     → TYPE B — consumer financial health metrics; no policy content
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOMC MINUTES — April 28–29, 2026  |  Type D
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Methodology: Policymakers' views only (Participants' Views and Committee
+Policy Actions sections). Three comparisons: (1) vs. April 29 press
+conference opening statement, (2) vs. March 18 minutes, (3) vs. April 29
+statement.
+
+GROWTH
+  Solid pace, fully aligned with the opening statement. AI-related fixed
+  investment robust; consumer spending resilient. No divergence between
+  minutes and committee-approved communication.
+  Direction: neutral — no change vs. March
+
+LABOR MARKET
+  Most participants: hard data suggests stabilization. Downside risks still
+  flagged by most, but "most" is a smaller group than March's "vast majority"
+  — a slight dovish softening in risk language. The opening statement added
+  "labor demand has clearly softened as well," which is sharper than the
+  minutes' collective characterization; that phrase reflects Powell's
+  committee-approved summary judgment, not a direct participant quote.
+  AI-driven hiring delays remain a named risk in both March and April.
+  Direction: neutral — marginally less extreme downside risk framing vs. March
+
+INFLATION
+  "Vast majority" see increased risk inflation takes longer to return to 2%.
+  Similar framing to March but uses "risk" and "take longer" — modestly
+  more hawkish. Software prices flagged as contributing to core but possibly
+  not predictive of future inflation — partial look-through for tech category.
+  Expectations anchor holding; fragility risk is named but not yet elevated.
+  Direction: hawkish lean — timeline extended, though language similar to March
+
+MONETARY POLICY — HEADLINE FINDING
+  The primary signal is the March → April shift in the distribution of views:
+
+    TIGHTENING support:   "some" (March) → "majority" (April)
+    EASING BIAS opposition: "some" (March) → "many" (April)
+    CUT support:           "many" (March) → "several" (April)
+
+  These are meaningful distributional shifts across one intermeeting period.
+  The committee's effective center of gravity has moved hawkish.
+
+  The easing bias survived not because most members preferred it on substance,
+  but because a majority agreed there was no urgency to signal a change when
+  so much remained uncertain about the Middle East. Powell Q&A: "conceivably
+  could come as soon as the next meeting" (June 16–17).
+
+  Cut threshold named by "several": "clear indications that disinflation is
+  firmly back on track" or "solid signs" of labor weakness. High bar.
+  Tightening threshold named by majority: "inflation...continue to run
+  persistently above 2 percent." This is the operative reaction function.
+
+  Neutral rate language ("within the range of plausible estimates") is
+  UNCHANGED from March — not a new signal. Powell's personal Q&A read —
+  "higher end of neutral or perhaps mildly restrictive" — is more specific
+  but unscripted. The minutes phrase is deliberately vague and encompasses
+  views from slightly restrictive to neutral.
+
+  Powell Q&A added two explicit pre-cut conditions not in the minutes:
+  "the back side of the energy shock AND progress on tariffs before we
+  even thought about reducing rates." This two-condition framework and
+  the stacking logic ("already looking through tariffs, more caution
+  needed on energy") are unscripted personal signals — informative but
+  not committee-approved language.
+  Direction: hawkish — tightening is majority view; cuts require high bar
+
+NET SIGNAL: HAWKISH
+  The minutes confirm what the three hawkish dissenters' vote already
+  implied: the committee's substance was more hawkish than the easing-bias
+  statement language conveyed. The March → April distributional shift
+  (tightening from minority to majority; cuts from majority to minority)
+  is the core analytical finding. Easing bias removal at June 16–17 is
+  now the baseline expectation.
+
+vs. PRESS CONFERENCE OPENING STATEMENT:
+  The opening statement's "additional adjustments" easing bias was a
+  minority-preferred formulation on substance, preserved for timing.
+  The opening statement omits: majority tightening view, "firmly back
+  on track" cut threshold, near-miss on easing bias removal. Powell's
+  unscripted Q&A was more informative than either the minutes or the
+  statement — particularly the two-condition pre-cut framework.
+
+vs. MARCH 18 MINUTES:
+  Tightening faction: "some" → "majority" (significant escalation)
+  Cut support: "many" → "several" (notable decline)
+  Easing bias opposition: "some" → "many" (clear escalation)
+  Neutral rate language: UNCHANGED (same phrase in both minutes)
+  Labor risk: marginally softer ("most" vs. "vast majority")
+  Inflation: modestly more hawkish timeline framing
+
+vs. APRIL 29 STATEMENT:
+  Statement omits majority tightening view and cut threshold language.
+  The statement's symmetric framing ("attentive to both sides") understates
+  the actual skew toward tightening in the minutes.
+
+LANGUAGE TO WATCH:
+  • "firmly back on track" — the cut threshold. Watch for Troika adoption.
+  • "policy firming would likely become appropriate" — majority reaction
+    function. Absent from all post-FOMC speeches so far. Warsh's first
+    speech will be key.
+
+ANALYST FLAG: YES
+  → The March → April shift in distribution is large for a single
+    meeting. Is it primarily energy-driven (potentially transitory) or
+    a durable reassessment of inflation persistence? This distinction
+    matters: a cease-fire in the Middle East would rapidly change the
+    energy inflation picture, potentially snapping the tightening
+    faction back toward neutral — unless the "persistently above 2%"
+    framing reflects a view about inflation beyond energy.
+  → Powell's two-condition pre-cut framework is unscripted. Does it
+    represent committee consensus, or his personal framing? Warsh's
+    first communication will tell us whether this framework carries.
+
+════════════════════════════════════════════════════════════════
+PENDING SCORING ITEMS
+────────────────────────────────────────────────────────────────
+  Collins May 13: Type A, non-voter (high analytical quality) — raw
+    file available; not yet scored. Her envision-possible-tightening
+    language is now well-contextualized by the minutes.
+
+  Goolsbee May 8: Hoover Institution — transcript collected; pending.
+    Waller, Bowman, and Daly also participated.
+
+  Kashkari May 13: Q&A stub — YouTube search still needed.
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday, May 21, 2026
+────────────────────────────────────────────────────────────────
+  (No confirmed appearances)
+  Next FOMC: June 16–17, 2026  |  Blackout starts: June 6 (16 days)
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Minutes:
+  April 29 FOMC Minutes: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm
+
+Press conference:
+  April 29 Press Conference: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260429.pdf
+
+Prior minutes:
+  March 18 FOMC Minutes: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260318.htm
+
+Corresponding statement:
+  April 29 FOMC Statement: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+════════════════════════════════════════════════════════════════

@@ -1,0 +1,79 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: February 6, 2026
+Reference FOMC: January 28, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Philip N. Jefferson  |  Vice Chair  |  Troika
+     "Economic Outlook and Supply-Side (Dis)Inflation Dynamics"
+     Brookings Institution, Washington D.C.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  JEFFERSON  |  Vice Chair  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP grew ~2.2% in 2025; Jefferson modestly upgrades 2026 forecast
+  to ~2.2% based on continued resilience. AI investment and deregulation
+  could support productivity and growth; fourth-quarter effects of the
+  government shutdown were a drag but fading. No growth concern.
+  Direction: neutral — solid, untroubling backdrop.
+
+LABOR MARKET
+  "I see the overall labor market as roughly in balance, with a
+  low-hiring, low-firing environment prevailing." Unemployment 4.4%;
+  payrolls declined in Q4 but private sector held at +29K/month.
+  "Downside risks to employment remain, but my baseline is for the
+  unemployment rate to hold approximately steady throughout this year."
+  Direction: neutral — stable baseline with acknowledged downside risks.
+
+INFLATION
+  "The disinflationary process to resume this year once increased
+  tariffs pass through more fully to prices." Strong "look through"
+  doctrine: tariffs are one-time; anchored expectations limit
+  second-round effects. "A reasonable base case that the effects of
+  tariffs on inflation will not be long-lasting." No energy shock
+  yet — his baseline is straightforward disinflation resumption.
+  Direction: neutral-dovish — confident disinflation will resume.
+
+MONETARY POLICY
+  "The current policy stance is well positioned to address the risks
+  to both sides of our dual mandate." He notes the policy rate is
+  "broadly in the range of neutral" — implying cuts are not urgently
+  needed since policy is not restrictive. No cut signal; "well
+  positioned" formula. Notably: he does NOT echo Williams' Mar 3
+  cut signal (that comes later); Jefferson is more measured.
+  Direction: neutral — stable hold; rates near neutral.
+
+NET SIGNAL: NEUTRAL — stable hold; no cut signal; tariffs one-time;
+  labor stable
+
+vs. PRIOR SPEECH (Jan 16): MARGINAL — Jan 16 had more explicit
+  "extent and timing of additional adjustments" language; Feb 6
+  replaces this with "well positioned" stable formula.
+vs. PRE-FOMC SPEECH (Jan 16): Near-identical on labor and inflation.
+  Monetary policy section slightly more settled on the hold.
+vs. COMMITTEE SINCE FOMC:  Troika center. Slightly more measured
+  than Williams (who will add an explicit cut signal on Mar 3).
+  More dovish than Cook and Barr on inflation characterization.
+
+LANGUAGE TO WATCH:
+  • "Policy rate broadly in the range of neutral" — Jefferson's rate
+    characterization. If widely adopted, it reduces the case for cuts.
+  • "Tariffs one-time / no second-round effects" — committee consensus
+    forming; check if Williams echoes this exactly on Mar 3.
+
+ANALYST FLAG: NO
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Jefferson Feb 6:   https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm
+Prior speech (vs. PRIOR SPEECH):
+  Jefferson Jan 16:  https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Jefferson Jan 16:  https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm
+════════════════════════════════════════════════════════════════

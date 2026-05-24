@@ -1,0 +1,149 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-03 | Anna Paulson | Philadelphia Fed President | Just Voter
+"Thoughts on the U.S. Economy and the Year Ahead"
+2026 Allied Social Science Associations Annual Meeting (panel)
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/thoughts-on-the-us-economy-and-the-year-ahead
+
+CLASSIFICATION: Type A — Full Economic Outlook. Three-section structure:
+inflation (leads), labor / growth, monetary policy implications.
+Includes an extended 1990s AI/productivity historical parallel.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: [This IS the pre-FOMC baseline for the Mar 18, 2026 FOMC
+  and the Apr 29, 2026 FOMC — the earliest 2026 Paulson scored speech]
+Post-FOMC prior:   N/A — first scored 2026 Paulson speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Own language:
+  "GDP growth has been very strong, with Q3 real GDP coming in at an
+   above-trend 4.3 percent." — Strong on the headline.
+  "Income growth has not kept up with consumption growth, and the
+   savings rate fell in Q3." — Compositional warning: consumption
+   is debt/wealth-financed, not income-driven. Downside risk.
+  "Contacts consistently report that low-income households are struggling
+   pressured by high prices, and they are increasingly concerned about
+   job security. High-income households are driving elevated consumption
+   growth." — Same narrow-demand framing as Barkin Jan 6.
+  "When GDP and labor market signals are in conflict, the labor market
+   signal turns out to be more accurate." — Explicitly endorses labor
+   data over GDP as the more reliable leading indicator.
+
+Direction: DOVISH lean — growth strength discounted as narrow and
+  savings-funded; labor market treated as more reliable signal.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "The labor market is clearly bending, it is not breaking." —
+  The key phrase. Sets a dovish framing: acknowledges weakness
+  without alarm.
+  Unemployment at 4.6% (November) — "about a half a percentage
+  point above the range that prevailed through July of last year."
+  "Payroll growth has fallen substantially and the base for job
+   creation has narrowed. Nearly 90 percent of net private job
+   creation occurred in a single sector: health care."
+
+Own qualifier / addition:
+  "Labor market risks have risen and that has been an important
+   factor in my support for the 75 basis points of cuts last year.
+   I will be monitoring labor market developments closely."
+  → Explicitly links cut support to labor risk. Dovish framing
+    on future monitoring.
+  "Slowdown in demand appears to have outpaced the slowdown in
+   supply." — Demand weakness, not just supply normalization.
+   Slightly more bearish on labor than some Troika language.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "If I had to pick a theme for inflation for 2026 it would be
+   'cautious optimism.'" — Personal framing that is dovish relative
+   to the committee's "remains elevated" language.
+  "Tariff-induced price adjustments are largely confined to goods...
+   a shift in the price level but do not create sustained inflation." —
+   Same look-through framing as Williams/Jefferson. Transitory.
+  "I see a decent chance that we will end the year with inflation
+   close to 2 percent on a run-rate basis; that is, 12-month inflation
+   may still be a little elevated, but three-month inflation will be
+   2 percent by the end of the year." — Specific and constructive.
+   Trimmed-mean / run-rate framing rather than headline 12-month.
+  Shelter: "Unambiguously good" — falling from 5.1% to 3.7% year-over-year.
+  Services ex-shelter: Declining from 3.5% to 3.3% — "moving in the
+  right direction."
+
+Direction: DOVISH — "cautious optimism" vs. committee's "remains
+  elevated"; run-rate framing shifts the metric dovishly.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "I view the current level of the funds rate as still a little
+   restrictive." — DOVISH relative to Jefferson/Williams. Jefferson
+   says "at neutral"; Williams says "closer to neutral." Paulson
+   says "still a little restrictive" — implies more cuts needed
+   to reach neutral.
+  "These trends, especially given labor market developments, argue
+   against tighter monetary policy." — Frames the bar as avoiding
+   hikes, not actively cutting; but the direction is dovish.
+  "Some modest further adjustments to the funds rate would likely
+   be appropriate later in the year." — CONDITIONAL CUT SIGNAL:
+   later in the year, modest, conditioned on baseline outlook.
+  AI productivity parallel (1990s): "A key factor behind this
+   successful outcome was the FOMC's inflation fighting credibility.
+   That credibility allowed the Committee to be patient." — Historical
+   framing that supports PATIENCE (dovish in the current context:
+   hold/cut rather than hike).
+
+Cut signal status: PRESENT (conditional) — "some modest further
+  adjustments... later in the year" if baseline outlook holds.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH lean — Paulson is meaningfully more dovish than
+               the Troika at the January baseline: "still a little
+               restrictive" (vs. Troika's "at/near neutral"), an
+               explicit conditional cut signal for later 2026, and
+               endorsement of the labor market signal over GDP data.
+               The inflation framing is constructive ("cautious
+               optimism"), broadly consistent with but slightly more
+               optimistic than Williams/Jefferson.
+
+Language watch:
+  • "Still a little restrictive" — rate characterization; more
+    dovish than Troika's "at/near neutral." Paulson's cut bar is
+    lower than the Troika's.
+  • "Some modest further adjustments later in the year" — conditional
+    cut signal; watch whether this erodes or strengthens post-Iran
+    conflict.
+  • "Labor market signal turns out to be more accurate than GDP" —
+    Paulson's analytical weighting. Relevant when GDP and labor
+    diverge again (as they do in May 2026 with the energy shock).
+  • 1990s AI productivity parallel — argues for patience rather
+    than reflexive tightening. Watch for this to appear across
+    other speakers.
+
+Analyst flag:  NO — clean baseline establishment. Key calibration
+  note: Paulson at the Jan 3 baseline is positioned as the committee's
+  median voter with a dovish lean on rates. The subsequent question
+  is whether the Iran energy shock reverses this.
+══════════════════════════════════════════════════════════

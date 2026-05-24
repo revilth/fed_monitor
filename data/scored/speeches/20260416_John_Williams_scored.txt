@@ -1,0 +1,163 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-04-16 | John C. Williams | NY Fed President | Troika
+"The Cosmos"
+FHLB-NY 2026 Member Symposium, New York City
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260416
+
+CLASSIFICATION: Type A — Economic Outlook
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Mar 3, 2026  "Two Sides of a Coin"
+Post-FOMC prior:   Mar 30, 2026  "Ferrying Through the Crosscurrents"
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Williams: "much of the hard data point to a stabilization
+    in the balance between supply and demand."
+    Echoes the committee's stabilization read.
+
+Own verdict — KEY PHRASE:
+  "Lately, the labor market has been displaying conflicting
+   signs."
+  → Williams' personal framing layer on top of committee
+    language. "Conflicting signs" is MORE cautious than
+    the statement's "little changed" — adds uncertainty
+    that the statement does not contain.
+
+Own addition — NEW vs. Mar 30:
+  "...while some of the soft data suggest a labor market
+   that continues to gradually soften."
+  → Hard/soft data split: hard data stabilizing, soft data
+    softening. This is Williams' analytical contribution;
+    the soft data pessimism (Conference Board, NY Fed
+    consumer surveys) is NOT in the FOMC statement.
+    First time Williams names a potential labor softening
+    signal in 2026 — a dovish lean on labor.
+
+  "What all of this means is that it's a reasonably good
+   labor market if you have steady employment. But in a
+   low-hire, low-fire labor market, it's not so good if
+   you are looking for a job or worried you may need one soon."
+  → Ground-level nuance distinguishing the employed from
+    job-seekers. More analytical than standard committee
+    language.
+
+Shift vs. Mar 30 (post-FOMC prior):   MILD DOVISH — Mar 30
+  said "no signs of deterioration"; Apr 16 adds soft-data
+  softening as a live concern for the first time.
+Shift vs. pre-FOMC (Mar 3):   DOVISH — Mar 3 saw "promising
+  signs of stabilization"; Apr 16 now flags "conflicting
+  signs" with soft-data deterioration.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Williams: "overall inflation...was 2.8 percent. Higher
+    tariffs have contributed between one half and three
+    quarters of a percentage point to that figure."
+    Same quantification as Mar 30; consistent framing.
+
+Committee consensus language (repeated from prior speeches):
+  "There are still no signs of significant second-round
+   effects from tariffs spilling over to the rest of the
+   economy."
+  → Dovish anchor. Appears in all Williams 2026 speeches.
+    Its continued presence is the dovish floor.
+
+Own language:
+  "Not only are elevated energy prices showing up in the
+   rising cost of fuel, but there are also pass-through
+   costs in the form of higher airfares, groceries,
+   fertilizer, and other consumer products."
+  → Personalizes and concretizes the energy shock. No single
+    killer phrase, but reinforces that the shock is broad.
+
+Own (new — first time):
+  "The conflict could also result in a large supply shock
+   that simultaneously raises inflation — through a surge
+   in intermediate costs and commodity prices — and dampens
+   economic activity."
+  → STAGFLATION SCENARIO explicitly named for the first
+    time by Williams. "Supply shock that simultaneously
+    raises inflation and dampens activity" = stagflation.
+    This is the tail risk being formalized in language.
+
+Own forecast (revised further):
+  "I expect overall inflation to come in between 2-3/4
+   and 3 percent this year." [up from Mar 30's "~2-3/4%"]
+  → Upper end now 3.0%. Second consecutive upward revision.
+
+Shift vs. Mar 30 (post-FOMC prior):   MILD HAWKISH on
+  inflation forecast (upper end raised to 3.0%); new
+  stagflation tail risk named.
+Shift vs. pre-FOMC (Mar 3):   HAWKISH — forecast up from
+  2.5% to 2.75-3.0%; cut signal absent; stagflation risk
+  named.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Williams: "the current stance of monetary policy is
+    well positioned to balance the risks to our maximum
+    employment and price stability goals."
+    (Near-verbatim FOMC statement formula.)
+
+CUT SIGNAL — STILL ABSENT (3rd consecutive speech):
+  Mar 3: "Further reductions...will eventually be warranted"
+  Mar 30: [ABSENT]
+  Apr 16: [ABSENT] ← confirms retraction was deliberate
+
+Cut signal status: ABSENT — retraction confirmed as durable.
+
+Shift vs. Mar 30:   NONE on stance.
+Shift vs. pre-FOMC (Mar 3):   HAWKISH — cut signal gone,
+  forecast higher, new tail risk named.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — stable hold; slight dovish lean on
+               labor (soft data) offset by hawkish lean on
+               inflation (higher forecast, stagflation risk)
+
+Directional:   Apr 16 introduces two genuinely new signals:
+  (1) Soft data suggests labor is "gradually softening" —
+  the first labor downside signal from a Troika member not
+  yet captured by the FOMC statement. (2) Stagflation
+  scenario named explicitly. Neither changes the policy
+  stance, but both extend the analytical framework.
+  The cut signal remains absent for the third consecutive
+  speech, confirming the Mar 30 retraction was deliberate.
+
+Language watch:
+  • "Conflicting signs" — Williams' labor verdict. If this
+    language appears in Jefferson's next speech or the April
+    FOMC statement, it signals the committee is formalizing
+    a more cautious labor read.
+  • Soft data softening (Conference Board, NY Fed surveys
+    trending down) — not yet in committee language. Potential
+    leading indicator for a dovish shift.
+  • "Stagflation scenario" — newly named by Williams and
+    Waller (Apr 17) in the same week. Two Troika/Just Voter
+    speeches naming this in the same week is notable.
+  • Cut signal ABSENT — confirmed durable. Watch for any
+    post-April FOMC speech that reintroduces it.
+
+Analyst flag: YES
+  → The labor soft-data observation ("gradually softening")
+    is the one genuinely new signal in this speech. If the
+    April FOMC statement softens labor language from "little
+    changed" toward "some signs of softening," this Williams
+    speech was the leading indicator. Analyst to assess: is
+    the NY Fed survey deterioration in job-finding expectations
+    historically predictive of labor market turns?
+══════════════════════════════════════════════════════════

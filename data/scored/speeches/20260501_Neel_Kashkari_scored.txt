@@ -1,0 +1,135 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-01 | Neel Kashkari | Minneapolis Fed President | Just Voter
+"Why I Dissented"
+Federal Reserve Bank of Minneapolis (published May 1, 2026)
+
+CLASSIFICATION: Type A — Full economic outlook with explicit scenario
+analysis. Most detailed of the three dissent statements; closest in
+format to Waller's Apr 17 scenario-based speech.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: N/A (no prior Kashkari economic outlook scored)
+Post-FOMC prior:   N/A (first post-FOMC statement)
+──────────────────────────────────────────────────────────
+
+GROWTH / LABOR MARKET
+──────────────────────────────────────────────────────────
+Pre-conflict baseline: "The labor market appeared lukewarm but largely
+  stable with the unemployment rate having hovered around 4.3 percent
+  since May 2025, somewhat above my estimate of the rate consistent
+  with maximum employment." Low hire, low fire environment.
+  → "Somewhat above" full employment — slightly more dovish on labor
+    than Hammack ("near full employment") or Logan ("stable").
+    He still sees modest labor market slack.
+
+Benign scenario: "such a meaningful inflation shock could put downward
+  pressure on spending... potentially pressuring the U.S. labor market."
+  → Acknowledges demand destruction risk from energy shock.
+Direction: neutral — modest labor slack acknowledged. [Inference:
+  he dissents to remove the easing bias and explicitly accepts labor
+  weakness in the adverse scenario — implying inflation currently
+  dominates his labor concern — but Kashkari does not state this
+  subordination directly.]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Pre-conflict view: Was "fairly confident that core inflation was headed
+  back to our 2% target." Tariffs one-time, housing inflation falling,
+  nonhousing services tied to cooling wages, long-run expectations
+  "well anchored." → He was broadly dovish on inflation pre-conflict.
+
+Post-conflict shift: Oil price increase from Iran conflict "already as
+  large as or, by some measures, larger than the increase that resulted
+  from the Ukraine war."
+
+BENIGN SCENARIO (Hormuz reopens quickly):
+  Oil futures expect prices to fall to ~$88 by year-end. Even in this
+  scenario: "Blue Chip forecasters expect core inflation (PCE) to be
+  3 percent this year... core inflation will have been at roughly
+  3 percent for three years in a row."
+
+ADVERSE SCENARIO (extended Hormuz closure):
+  "The price shock wave could be much larger than is currently expected,
+   driving up both inflation and unemployment... With inflation having
+   been elevated for almost six years and counting, I believe the FOMC
+   would have to take very seriously the risk of an unanchoring of
+   long-run inflation expectations."
+  → Duration framing: "almost six years." Even the benign scenario
+    leaves core at 3% for three consecutive years.
+
+Direction: HAWKISH — energy shock as large as Ukraine; three-year 3%
+  core in benign scenario; unanchoring risk in adverse.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY — EXPLICIT SCENARIO ANALYSIS
+──────────────────────────────────────────────────────────
+BENIGN SCENARIO (Hormuz reopens):
+  "I could imagine the optimal monetary policy response to be holding
+   rates where they are for an extended period and then easing only
+   gradually, once the inflation shock has begun fading, having proven
+   to be transitory."
+  → Hold for extended period, then gradual cuts. Not an imminent cut
+    signal even in the favorable scenario.
+
+ADVERSE SCENARIO (extended closure):
+  "Federal funds rate increases, potentially a series of them, could
+   be warranted, even at the risk of further weakness to the labor
+   market. I firmly believe that anchored long-run inflation
+   expectations are necessary for achieving maximum employment."
+  → EXPLICIT HIKE SIGNAL in adverse scenario. Willingness to hike
+    even with labor market weakness. This is the most hawkish
+    statement any voter has made in 2026 — going beyond Waller's
+    Apr 17 "hold even if labor weakens" to "hike even if labor weakens."
+
+Dissent rationale:
+  "I believe the FOMC should offer a policy outlook that signals that
+   the next rate change could be either a cut or a hike, depending on
+   how the economy evolves. This could tighten financial conditions
+   somewhat today, pushing back against a high-inflation scenario that
+   could require an even stronger monetary policy response in the future."
+  → Pre-emptive tightening of financial conditions via guidance removal.
+    The logic: removing the easing bias now avoids having to hike later.
+
+Cut signal status: ABSENT — extended hold in benign; hikes in adverse.
+Direction: HAWKISH — most hawkish voter statement of 2026. Explicit
+  hike signal goes beyond any prior voter.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — most analytical and most hawkish of the three
+               dissent statements; explicit hike scenario in adverse case.
+
+Directional:   Kashkari was the most dovish of the three dissenters
+  pre-conflict (one SEP cut projected, confident on disinflation).
+  The Iran conflict has pushed him to the most explicit hawkish
+  position of any voter. His scenario analysis mirrors Waller's
+  Apr 17 framework but goes further — Waller said "hold even if
+  labor weakens"; Kashkari says "hike even if labor weakens" in
+  the adverse scenario.
+
+Language watch:
+  • "Core inflation at roughly 3% for three years in a row" —
+    the duration framing in the BENIGN scenario. Even the
+    good outcome is bad for the look-through case.
+  • "Series of hikes... even at the risk of further weakness to
+    the labor market" — most hawkish voter statement of 2026.
+    If this framing spreads to Hammack/Logan or reaches the Troika,
+    the committee's reaction function has fundamentally shifted.
+  • "Pre-emptive tightening of financial conditions" via guidance —
+    frames the easing bias removal as active tightening, not merely
+    a neutral stance. This is a more aggressive intellectual framing
+    than Logan's or Hammack's.
+
+Analyst flag: YES
+  → Kashkari was constructive on cuts as recently as his March SEP
+    (one cut projected). The Iran conflict moved him from a projected
+    cutter to an explicit hike advocate in the adverse scenario.
+    Analyst to assess: is this a durable shift or is Kashkari reacting
+    to the acute uncertainty? His pre-conflict baseline was explicitly
+    dovish — tracking whether he reverts if the energy shock fades
+    is the key variable.
+══════════════════════════════════════════════════════════

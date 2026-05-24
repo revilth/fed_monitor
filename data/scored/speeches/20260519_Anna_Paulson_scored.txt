@@ -1,0 +1,219 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-19 | Anna Paulson | Philadelphia Fed President | Just Voter
+"Navigating Uncertainty: Inflation, Labor Markets, and the Stance of
+Monetary Policy"
+Federal Reserve Bank of Atlanta 2026 Financial Markets Conference,
+Amelia Island, FL
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty [reconstructed from site pattern — verify]
+
+REFERENCE FOMC:    April 29, 2026
+PRE-FOMC BASELINE: March 27, 2026  "Monetary Policy and Productivity"
+POST-FOMC PRIOR:   March 27, 2026  (same — first post-Apr29 scored speech)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+[Treatment warranted — speaker flags AI investment as growth support
+and notes consumption moderation. Compositional concern present.]
+
+FOMC statement language echoed:
+  "Recent indicators suggest that economic activity has been expanding
+   at a solid pace." [Apr 29 stmt]
+  → Paulson: "Last year, real GDP grew 2 percent, and it is on track
+    to do the same this year. Headline growth in the first quarter was
+    solid, and business investment was a bright spot."
+
+Own language:
+  "Investment growth is particularly strong in categories related to
+   the AI buildout and that is supporting business conditions more
+   broadly." — AI investment as growth anchor; demand side from
+   financial wealth is also cited. But consumption is moderating:
+   "Growth in consumer spending...is more modest. Consumers are
+   continuing to spend — although at a slower pace."
+
+  "the dynamics supporting the economy that were at play in 2025 could
+   continue" [echoing the Collins framing of productivity/demand offsets]
+
+Shift vs. prior speech:    DOVISH LEAN — growth framing is similar but
+  she explicitly acknowledges consumer moderation that was not a theme
+  in March 27. Offsets from AI investment are new emphasis.
+Shift vs. pre-FOMC:        UNCHANGED — same characterization of solid
+  GDP growth (~2%), consistent with prior baseline.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, on average, and the unemployment rate
+   has been little changed in recent months." [Apr 29 stmt]
+  → Paulson: "the unemployment rate has been remarkably steady and near
+    what I consider to be full employment for many months...a still low
+    4.3 percent last month."
+
+Own verdict:
+  "The hard data suggest a labor market that is stable and consistent
+   with full employment." — Benign characterization of hard data.
+
+Own qualifier / addition:
+  "But what we are hearing from people — both directly and through
+   surveys — suggests somewhat softer labor market conditions."
+  — Introduces soft data divergence. More cautious than March 27.
+
+  "Going all the way back to 1948...this is the only time the
+   unemployment rate has risen by one percentage point or more outside
+   of a recession." — Historical anomaly framing. Acknowledges the
+   unusual low-hiring/low-firing balance as inherently fragile.
+
+  "AI and what it will mean for jobs. Some contacts tell us that there
+   is growing pressure in corporate boardrooms...to translate AI
+   efficiencies into cost savings, including through layoffs."
+  — New risk flag: AI-driven labor demand reduction. Not in March 27.
+
+Own policy link:
+  "Assuming the labor market remains in balance, rate cuts would only
+   become appropriate once we have seen sustained progress on
+   inflation." — Labor is explicitly subordinated to inflation as the
+   cut threshold. Hold labor in balance = necessary but not sufficient
+   for cuts; inflation progress is the binding condition.
+
+Shift vs. prior speech:    DOVISH LEAN ON ASSESSMENT — soft data
+  divergence and AI downside risk are new additions vs. March 27's
+  "I see no signs that the labor market is contributing to inflation."
+  She's more watchful but base case remains stable.
+Shift vs. pre-FOMC:        DOVISH LEAN — March 27 had no soft data
+  concern or AI layoff risk. May 19 introduces both.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase in
+   global energy prices." [Apr 29 stmt]
+  → Paulson: "Headline PCE inflation was 3.5 percent in March, and
+    core was 3.2 percent." Explicitly attributes to "tariffs and the
+    spike in energy and commodity prices associated with the conflict
+    in the Middle East."
+
+Own language — KEY:
+  "Inflation is too high." — Direct. Not qualified.
+
+  "After five years of elevated inflation and a series of supply
+   shocks, this is a real concern." [on expectations anchoring]
+  — Elevates inflation expectations fragility. Compare March 27:
+    "Long-term inflation expectations are consistent with 2 percent,
+    but they may also be a little more fragile." May 19 version is
+    more explicit and contextualizes within the sequence of shocks.
+
+  "I do want to emphasize that continued high inflation does not
+   appear to be driven by labor market pressures." — Notable: she
+   explicitly exculpates labor from the inflation problem. This
+   removes the dual-shock worst case (demand + supply simultaneously).
+
+Look-through framework (3 factors, assessed explicitly):
+  1. Demand strength: "the pace of economic activity does not appear
+     to be adding materially to inflationary pressures." — Low concern.
+  2. Inflation expectations: "long run expectations are in a good
+     place" but "This is an area I'm watching closely." — Conditional.
+  3. Monetary policy stance: "monetary policy is mildly restrictive
+     and that restrictiveness is helping to keep...effects in check."
+     — Her conclusion: current stance is doing the work.
+  → [Inference: her 3-factor framework is structured to justify
+    holding (not tightening) given that all three conditions are
+    currently manageable. But she flags expectations as the trip wire.]
+
+Note on look-through precision: This is a DESCRIPTIVE framework —
+  she reasons through three factors but does not name explicit
+  scenarios with pre-committed policy responses (contrast Waller Apr 17
+  "BENIGN / ADVERSE" with named outcomes). Descriptive, not named-scenario.
+
+Shift vs. prior speech:    HAWKISH LEAN — core inflation has moved
+  from 2.8% (March 27) to 3.2% (May 19). But her framework concludes
+  current policy is still appropriate. Expectations fragility framing
+  is more explicit. The shift is in the data inputs, not the framework.
+Shift vs. pre-FOMC:        HAWKISH LEAN — same framework, harder data.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  April 29 statement included easing bias language (the language
+  Hammack/Kashkari/Logan dissented against). Paulson VOTED FOR that
+  language. In this speech, she does NOT echo any easing bias. The
+  statement's easing posture is absent from her May 19 remarks.
+
+Own language:
+  "Policy is mildly restrictive and that restrictiveness is helping
+   to keep inflation pressures in check." — "Mildly restrictive" is
+   her stable rate characterization (same as March 6 and March 27).
+
+  "I believe monetary policy is in a good place now. Keeping rates
+   steady allows us to assess how the economy is evolving."
+  — Clear hold signal. No forward guidance.
+
+  "rate cuts would only become appropriate once we have seen sustained
+   progress on inflation." — Explicit, high bar for cuts. Requires
+   sustained disinflation, not just one good print.
+
+  "I think it is healthy that market participants have taken on board
+   scenarios where the funds rate remains unchanged for an extended
+   period, as well as scenarios where further tightening becomes
+   necessary." — KEY SENTENCE. She explicitly validates market pricing
+   of (a) extended hold and (b) tightening. This is the most hawkish
+   signal in the speech. It goes beyond the April 29 easing bias that
+   she voted for.
+
+  [Inference: Paulson voted for easing bias language on April 29 but
+   is now implicitly walking it back. By endorsing tightening scenarios
+   as "healthy" market pricing, she is signaling the May 19 energy
+   shock context has shifted her posture relative to her April 29
+   vote. This should be flagged for analyst review.]
+
+Cut signal status: ABSENT — explicit cut bar is "sustained progress
+  on inflation." Tightening scenarios explicitly endorsed as valid.
+
+Shift vs. prior speech:    HAWKISH LEAN — March 27 had "Getting
+  inflation to 2% and keeping unemployment low" as the framing.
+  May 19 explicitly endorses tightening scenarios. This is a
+  meaningful escalation even if the "mildly restrictive" label
+  is unchanged.
+Shift vs. pre-FOMC:        HAWKISH LEAN — pre-FOMC March 27 had no
+  tightening scenario endorsement. May 19 introduces it explicitly.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+  Paulson has moved modestly hawkish from her March 27 baseline
+  and, more significantly, has moved hawkish relative to her April 29
+  vote for easing bias language. The key escalation: she now explicitly
+  validates market pricing of tightening scenarios. Her inflation-first
+  bar remains unchanged ("sustained progress" required before cuts),
+  but she has now added an explicit upper tail. This is the first
+  time she endorses tightening scenarios in the 2026 corpus.
+
+Language watch:
+  • "rate cuts would only become appropriate once we have seen
+    sustained progress on inflation" — inflation-first cut bar,
+    clearer and more explicit than March 27's formulation.
+    Watch: does this spread to Jefferson or Williams?
+  • "scenarios where further tightening becomes necessary" — new
+    language. Not an immediate signal, but she's no longer off-limits
+    on hikes. Language cycle stage: DISPERSED (only Paulson so far;
+    compare Logan's hawkish dissent framing).
+  • "mildly restrictive" — stable label. Collins used this term too
+    on May 13. Emerging shared language for current rate characterization
+    among non-Troika officials. If Troika adopts it, it signals they
+    agree cuts are not imminent.
+
+Analyst flag:  YES
+  → Paulson voted for easing bias language on April 29, 2026. Her
+    May 19 speech does not echo that language and instead explicitly
+    endorses tightening scenarios. Analyst to assess: (1) Does this
+    represent a genuine hawkish shift from her April 29 vote posture,
+    or is it conditional hedging that stops short of actually advocating
+    for tightening? (2) Given that she is the estimated median voter,
+    does this signal the committee's effective easing bias has already
+    eroded within 3 weeks of the April 29 meeting?
+══════════════════════════════════════════════════════════

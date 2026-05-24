@@ -1,0 +1,124 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: April 7, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Philip N. Jefferson  |  Vice Chair  |  Troika
+     "Economic Outlook and the Labor Market"
+     University of Detroit Mercy, Detroit, MI
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm
+
+  2. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "A Conversation on The Economy and Monetary Policy"
+     Detroit Economic Club, Detroit, MI
+     SOURCE: https://www.chicagofed.org/publications/speeches/2026/apr-7-detroit-economic-club
+     STATUS: Panel discussion — no transcript. NOT SCORED.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  JEFFERSON  |  Vice Chair  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Brief treatment — not the focus. Jefferson sees "the economy as
+  continuing to grow, led by resilient consumer spending and healthy
+  business investment." GDP expanded ~2% in 2025; he expects a similar
+  or slightly faster pace in 2026. On the positive side: AI infrastructure
+  investment, high pace of new business formation, deregulation. On the
+  negative side: elevated energy prices could weigh on consumer and
+  business spending if sustained. No material shift from prior speeches.
+  Direction: neutral — solid baseline with energy-driven uncertainty.
+
+LABOR MARKET
+  Jefferson's verdict is unchanged: "I see the labor market as roughly
+  in balance" — but he again appends "susceptible to adverse shocks," a
+  qualifier first added Mar 26 and now durable across two speeches. Despite
+  a strong March jobs headline (+178K), he deliberately emphasizes the soft
+  3-month average (~70K/month) and adds explicit caution: "I remain
+  cautious about that assessment [of stabilization]." One good month does
+  not move him. He is choosing the pessimistic read of an ambiguous signal.
+  Direction: mild dovish lean — downside risk consistently flagged;
+  resistant to upside surprises in the data.
+
+INFLATION
+  He states his prior expectation ("disinflationary process would resume
+  once higher tariffs are no longer pushing up consumer prices"), then
+  immediately concedes the energy shock complicates it: "The recent increase
+  in energy prices, however, will apply some upward pressure on headline
+  inflation, at least in the near term. The ongoing trade policy uncertainty
+  and geopolitical tensions pose upside risk to my inflation forecast."
+  "Upside risk to my inflation forecast" — first used Mar 26, now durable —
+  is a personal admission that his baseline has deteriorated. He is not
+  revising his inflation forecast outright, but flagging the upside risk.
+  Direction: slight hawkish lean vs. pre-FOMC; unchanged vs. Mar 26.
+
+MONETARY POLICY
+  Verbatim committee formula: "our current policy stance is well-positioned
+  to respond to a range of outcomes." His dual-risk framing ("downside risk
+  to labor, upside risk to inflation") is locked in as his stable
+  characterization — identical to Mar 26. No cut signal; no new guidance.
+  Direction: unchanged.
+
+NET SIGNAL: NEUTRAL — patient hold confirmed; no movement on either side
+
+vs. PRIOR SPEECH (Mar 26):    UNCHANGED across all four topics.
+vs. PRE-FOMC SPEECH (Feb 6):  HAWKISH on inflation — Feb 6 was confident
+  disinflation would resume; energy shock and "upside risk to my forecast"
+  are new. DOVISH on labor — Feb 6 did not flag explicit downside risks;
+  Apr 7 has "susceptible to adverse shocks" and "cautious about
+  stabilization." On growth and monetary policy: unchanged. Net: more
+  cautious on both sides of the mandate → hold confirmed.
+vs. COMMITTEE SINCE FOMC:     Troika center lane alongside Williams. More
+  patient than Bowman (who wants proactive cuts); less hawkish than Waller
+  (who would hold even if labor weakens). His symmetric dual-risk formula
+  is now shared with Williams — this is the official Troika holding language.
+
+LANGUAGE TO WATCH:
+  • "Susceptible to adverse shocks" (labor) — durable in Mar 26 + Apr 7.
+    If it appears in the April 29 FOMC statement, the committee has formally
+    upgraded its labor downside risk assessment beyond "little changed."
+  • "Upside risk to my inflation forecast" — personal, not yet in statement
+    or other Troika speeches. If Williams adopts it, it becomes Troika
+    consensus and signals a more cautious committee inflation outlook.
+
+ANALYST FLAG: NO
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOT SCORED — panel discussion format, no transcript.
+
+Context: Goolsbee's last scoreable speech was Feb 24 (NABE), which
+predates the Middle East energy shock. His post-shock view on the
+neutral-rate question ("not obvious rates are even restrictive") and
+services inflation ("harder to call transitory") is unknown.
+
+ACTION: Run YouTube search for Detroit Economic Club Apr 7 with
+Goolsbee. If a recording is found, extract and score immediately —
+his updated view is analytically important given his unexpected Feb 24
+hawkishness.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE
+  Two speakers — one Troika, one Non Voter — in Detroit on the same
+  day. Jefferson's formal speech is scored. Goolsbee's conversation
+  format is not. If a Goolsbee transcript is recovered, compare his
+  post-shock framing against Jefferson's same-day language for any
+  divergence or echo.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Jefferson Apr 7:   https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm
+  Goolsbee Apr 7:    https://www.chicagofed.org/publications/speeches/2026/apr-7-detroit-economic-club
+
+Prior speech (vs. PRIOR SPEECH):
+  Jefferson Mar 26:  https://www.federalreserve.gov/newsevents/speech/jefferson20260326a.htm
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Jefferson Feb 6:   https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm
+════════════════════════════════════════════════════════════════

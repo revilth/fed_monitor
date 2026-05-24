@@ -1,0 +1,110 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-04 | Lisa D. Cook | Governor | Just Voter
+"Economic Outlook"
+Economic Club of Miami, Miami, FL
+SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260204a.htm
+
+CLASSIFICATION: Type A — Economic Outlook
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: N/A (first scored 2026 speech)
+Post-FOMC prior:   N/A (first post-Jan28 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   shown some signs of stabilization." [Jan 28 stmt]
+  → Cook: "unemployment rate...4.4 percent...little changed
+    over the second half of last year...remains relatively low."
+
+Own verdict:
+  "The labor market is roughly in balance, but I am highly
+   attentive to developments, knowing it can shift quickly."
+  → Neutral framing with explicit downside risk flag.
+
+Own addition:
+  "Individuals who report working part time for economic reasons
+   as a share of employment jumped at the end of 2025."
+  "Youth and Black unemployment rates, both of which tend to be
+   more cyclical, have risen since last spring."
+  → Cook is the committee's most explicit tracker of labor
+    market distributional deterioration. This is a personal
+    analytical lens not reflected in the FOMC statement.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Cook: "PCE price index rose 2.9 percent...core...3 percent.
+    Progress on inflation essentially stalled in 2025."
+
+Own language — KEY:
+  "I see risks as tilted toward higher inflation."
+  "Until I see stronger evidence that inflation is moving
+   sustainably back down to target, that is where my focus
+   will be, in the absence of unexpected changes in the
+   labor market."
+  → Explicit hawk lean. Cook is not symmetric — she places
+    more weight on upside inflation risk than downside labor.
+
+  "After nearly five years of above-target inflation, it is
+   essential that we maintain our credibility."
+  → Credibility framing: she is willing to stay restrictive
+    longer to protect the inflation anchor.
+
+  "I am watching the clock — the longer inflation remains above
+   target, the greater the probability that higher inflation
+   will become entrenched in expectations."
+  → Time-based hawkish pressure: prolonged above-target
+    inflation makes her more willing to tolerate labor risk.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Maintain target range" → Cook: "I supported the FOMC's
+   decision to hold the policy rate steady at our meeting
+   last week."
+
+Own language:
+  "I see risks to both parts of our dual mandate. I see risks
+   as tilted toward higher inflation."
+  → Asymmetric risk assessment: labor downside is real but
+    inflation upside is her primary concern.
+
+Cut signal status: ABSENT — explicit inflation-first framing
+  with no cut signal.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — inflation-first, patient hold
+
+Directional:   Cook is at the hawk end of the voter spectrum.
+  She explicitly tilts toward inflation risk, uses credibility
+  framing, and sets no timeline or conditions for cuts. Her
+  labor concern is real but subordinate to inflation vigilance.
+
+Language watch:
+  • "Risks tilted toward higher inflation" — her personal risk
+    framing; more asymmetric than the committee's "dual risk"
+    language. Not yet echoed by others.
+  • "Five years of above-target inflation" — credibility clock.
+    Barr and Paulson also use this framing. Track if it spreads.
+
+Analyst flag: NO — trajectory clear.
+══════════════════════════════════════════════════════════

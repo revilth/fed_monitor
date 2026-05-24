@@ -1,0 +1,182 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 13, 2026 (Wednesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Susan M. Collins  |  Boston Fed President  |  Non Voter
+     "The U.S. Economy: Resilience Amid Risks and Uncertainty"
+     Boston Economic Club, Boston, MA  |  TYPE A — SCORED
+
+  2. Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+     Q&A at St. Paul Area Chamber, St. Paul, MN
+     STATUS: STUB — no transcript retrieved
+
+NOTE: Scraper initially returned no results for this date; Collins
+and Kashkari appearances were collected in a subsequent run.
+
+════════════════════════════════════════════════════════════════
+BACKLOG SCORING — 11 SPEECHES SCORED TODAY
+────────────────────────────────────────────────────────────────
+Scored speeches added to corpus (January–May 2026 backlog):
+
+  1. Jan 3   | Anna Paulson       | Just Voter   | Type A
+             Pre-FOMC baseline for Jan 28 and Mar 18 FOMC.
+             Net: DOVISH LEAN — "still a little restrictive"; conditional
+             cut signal for later in 2026.
+
+  2. Jan 6   | Tom Barkin         | Non Voter    | Type A
+             FIRST "five-year above target" duration framing in 2026 corpus.
+             Net: NEUTRAL with hawkish lean — demand narrowness; "within
+             range of neutral."
+
+  3. Jan 12  | John Williams      | Troika       | Type A
+             Pre-FOMC baseline for Jan 28 FOMC.
+             Net: NEUTRAL/BASELINE — "closer to neutral" (not AT neutral);
+             tariffs "one-off"; no cut signal.
+
+  4. Jan 14  | Anna Paulson       | Just Voter   | Type A
+             Near-verbatim restatement of Jan 3; Dec CPI explicitly
+             confirmed "doesn't change my assessment."
+             Net: UNCHANGED from Jan 3.
+
+  5. Jan 16  | Philip Jefferson   | Troika       | Just Voter
+             Pre-FOMC baseline for Jan 28 FOMC. ANALYST FLAG.
+             Net: NEUTRAL/SLIGHTLY HAWKISH — "at neutral" (more hawkish
+             than Williams "closer to"); "downside risks to employment
+             have risen" (first Troika use of that phrase).
+
+  6. Jan 30  | Christopher Waller | Just Voter   | Type A (dissent)
+             Dissented at Jan 28–29 FOMC IN FAVOR of a 25bp cut.
+             ANALYST FLAG — largest single-voter reversal arc in 2026.
+             Net: DOVISH — "zero job growth — Zero. Zip. Nada."; neutral
+             rate = 3%; cut signal ACTIVE.
+
+  7. Jan 30  | Michelle Bowman    | Just Voter   | Type A
+             ANALYST FLAG — Jan 30 SEP disclosure (3 cuts in 2026) will
+             be abandoned post-Iran energy shock.
+             Net: DOVISH — "fragile" labor; "moderately restrictive";
+             SEP = 3 cuts; PCE near target ex-tariffs.
+
+  8. Feb 3   | Tom Barkin         | Non Voter    | Type A
+             Post-Jan-28-FOMC. "Sustained miss since 2021" (stronger
+             duration framing than Jan 6). Explicit tariff look-through
+             rejection.
+             Net: NEUTRAL with hawkish lean.
+
+  9. Feb 17  | Michael S. Barr    | Just Voter   | Type B (embedded)
+             First 2026 Barr economic outlook; embedded in AI speech.
+             Net: NEUTRAL with hawkish lean — "significant" persistent
+             inflation risk; two conditions for cuts; "hold for some time."
+
+ 10. Mar 6   | Beth Hammack       | Just Voter   | Type B (embedded)
+             Pre-Mar-18 FOMC baseline for Hammack. Embedded in dollar
+             speech. "Two-sided risks to rates" — directly foreshadows
+             May 1 dissent.
+             Net: HAWKISH — "inflation too high"; "broad-based" (rejects
+             tariff-only attribution); "hold for quite some time";
+             symmetric hike/cut framing.
+
+ 11. May 10  | Lorie Logan        | Just Voter   | Type B (embedded)
+             Duke commencement, minimal 5-sentence embedded outlook.
+             Net: UNCHANGED from May 1 dissent — "inflation still too
+             high"; "labor market in balance."
+
+════━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  SUSAN M. COLLINS  |  Boston Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP 2% in Q1, solid pace, resilient consumer and AI-driven
+  investment. U.S. net energy exporter status limits damage from
+  oil shock. Downside risk: prolonged conflict would amplify
+  negative spillovers. Direction: neutral
+
+LABOR MARKET
+  "Unusual balance" — low hiring, low firing, stable 4.3%
+  unemployment. Reflects offsetting demand and supply slowdowns
+  linked to lower immigration. New risk flagged: AI-driven
+  skill mismatch causing rising unemployment duration for
+  college graduates age 25-34. Potential leading indicator of
+  broader labor demand shift. Direction: neutral with dovish
+  tail risk added vs. March 6
+
+INFLATION
+  "Above target for over five years." Energy driving headline;
+  tariffs driving core goods (70% pass-through already complete,
+  fading). Services inflation above 2% despite productivity gains
+  — Collins attributes this to firms retaining pricing power with
+  resilient demand. KEY: "More than five years of above-target
+  inflation has reduced my patience for 'looking through' another
+  supply shock." Look-through fatigue explicitly stated.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  "Slightly restrictive...for some time." No easing bias echoed.
+  Tightening scenario explicitly named: "I can also envision a
+  scenario that requires some policy tightening to ensure that
+  inflation returns durably to 2 percent." Aspirational timeline
+  for normalization: "late this year." High bar.
+  Direction: hawkish lean
+
+NET SIGNAL: HAWKISH LEAN — first post-FOMC Type A speech from
+  Collins (non-voter). Tightening scenario named; look-through
+  fatigue stated explicitly; no easing bias echoed. Consistent
+  with Paulson May 19 (same week, both validators of tightening
+  scenarios). High analytical quality, reliable signal.
+
+vs. PRIOR SPEECH (March 6):             HAWKISH — Mar 6 was neutral-
+  patient ("mildly restrictive," "second half" evidence timeline).
+  May 13 adds tightening scenario, look-through fatigue, AI
+  labor risk.
+vs. PRE-FOMC SPEECH (March 6):          HAWKISH — same as above.
+vs. COMMITTEE SINCE FOMC (May 13):      Sits with Paulson (May 19)
+  at hawkish end of non-dissenter zone; more hawkish than Williams
+  (May 4) and Jefferson (Apr 7).
+
+LANGUAGE TO WATCH:
+  • "five years above target has reduced my patience for looking
+    through" — look-through fatigue. Collins + Waller Apr 17.
+    Language cycle stage: EMERGING (2 officials).
+  • "I can also envision a scenario that requires some policy
+    tightening" — Collins + Paulson. DISPERSED.
+
+ANALYST FLAG: YES
+  → Collins + Paulson both name tightening scenarios in the same
+    week, neither echoing the April 29 easing bias. Two independent
+    data points validating the minutes' finding that "many"
+    participants opposed the easing bias on substance.
+
+════════════════════════════════════════════════════════════
+STUBS THIS DATE
+────────────────────────────────────────────────────────────
+  Kashkari May 13: St. Paul Area Chamber Q&A — no transcript.
+    Audio/video on Minneapolis Fed site; text not available.
+
+════════════════════════════════════════════════════════════════
+CORPUS STATUS (as of May 13, 2026)
+────────────────────────────────────────────────────────────────
+Total scored speeches: 84 (2026 backlog now cleared)
+Reference FOMC: April 29, 2026 (hold; 3.50–3.75%)
+  Dissenters: Miran (for cut); Hammack, Kashkari, Logan (against
+  easing bias)
+Next FOMC: June 16–17, 2026  |  Blackout starts: June 6
+
+Voter directional summary (post-April 29, most recent scored):
+  HAWKISH:          Kashkari, Logan, Hammack (all dissented vs. easing bias)
+  NEUTRAL-HAWKISH:  Waller (Apr 17), Collins (May 13), Paulson (May 19)
+  NEUTRAL:          Williams (May 4), Jefferson (Apr 7)
+  NEUTRAL-DOVISH:   Miran (dissented for cut)
+  DOVISH/UNKNOWN:   Bowman (Jan 16 baseline — no post-April outlook scored),
+                    Barr (Feb 17 baseline — subsequent speeches all Type B)
+
+Warsh succession: Kevin Warsh cleared Senate Banking Committee Apr 29.
+Powell term ends May 15. No Warsh speeches in corpus yet.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Backlog speeches scored today — see individual scored files in
+data/scored/speeches/ for verified source URLs.
+════════════════════════════════════════════════════════════════
+

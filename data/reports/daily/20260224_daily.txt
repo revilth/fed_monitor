@@ -1,0 +1,132 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: February 24, 2026
+Reference FOMC: January 28, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Remarks at the NABE Economic Policy Conference" (formal speech)
+     Washington D.C.
+     SOURCE: https://www.chicagofed.org/publications/speeches/2026/feb-24-nabe-economic-policy-conference
+     PDF: https://www.chicagofed.org/-/media/publications/speeches/2026/2-24-26-nabe.pdf
+
+  2. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Bloomberg Interview — Inflation Risk, Tariffs, Powell"
+     Bloomberg Radio/Television (same day, separate appearance)
+     SOURCE: https://www.youtube.com/watch?v=p1b2jimYd8w
+
+  3. Christopher J. Waller  |  Governor  |  Just Voter
+     "Operationalizing AI at the Federal Reserve"
+     Federal Reserve Bank of Boston conference
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260224a.htm
+     STATUS: Type B — no monetary policy content. NOT SCORED for policy.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1+2.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
+      [Two appearances on same day — NABE speech + Bloomberg interview]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠ KEY FINDING: Goolsbee is materially more hawkish than his
+public reputation. This date represents his clearest 2026
+policy articulation. Do not rely on the "Goolsbee is dovish"
+heuristic.
+
+GROWTH
+  Consumer spending is "the main driver of growth" — broad-based,
+  not just high-income households. AI investment is a secondary
+  factor; its direct GDP contribution is smaller than often portrayed
+  once imports are netted out. Growth backdrop is solid; not a
+  policy concern for him.
+  Direction: neutral.
+
+LABOR MARKET
+  "The job market has been steady." Unemployment 4.3%, essentially
+  flat for a year. Low hiring but also low firing — unemployment
+  stable near break-even. He rejects the recession narrative: low
+  aggregate payrolls reflect immigration-driven lower break-even,
+  not cyclical weakness. Rate-based measures (unemployment, layoff
+  rate, vacancy rate) show steadiness at levels "comparable to
+  normal expansions." The one weak signal: hiring rate is low — "a
+  warning flag" but "relatively steady for a year and a half."
+  Direction: neutral — stable read; rejects downside alarm.
+
+INFLATION
+  Core PCE ~3%. Progress stalled in 2025. "It is not obvious that
+  our interest rate policy is even restrictive. The real federal
+  funds rate measured that way is pretty close or even a bit below
+  the consensus view of long-run r*." [NABE] Core services ex-housing
+  at 3.3%: "It's harder to make an optimistic case that high services
+  inflation is just transitory. So we need to be vigilant." "Since
+  we have been burned by assuming transitory inflation before...we
+  should be careful not to put ourselves in a difficult position."
+  → Explicitly invokes the 2021-22 lesson. Raises vigilance bar
+  on reflexive "look through."
+  Bloomberg interview adds: describes the inflation picture as
+  "stalled out" and "inching back up" — concerned tone.
+  Direction: hawkish — explicitly questions whether rates are
+  restrictive; "vigilant" on services inflation.
+
+MONETARY POLICY
+  "I feel that front-loading too many rate cuts is not prudent."
+  "Before we cut rates more, let's be sure inflation is heading
+  back to 2%." [NABE] Bloomberg: "The time at which it makes sense
+  to act keeps getting pushed back" with each new uncertainty.
+  Open to cuts later in 2026 if inflation resumes, but sets an
+  explicit evidence bar first.
+  Direction: neutral-hawkish — conditional cuts; explicit evidence
+  bar; not prudent to front-load.
+
+NET SIGNAL: NEUTRAL-HAWKISH — most important hawkish finding
+  from any Non Voter to date; "not obvious rates are restrictive"
+  joins Logan's Feb 10 near-neutral framing (Logan is a Just Voter)
+
+vs. PRIOR SPEECH (N/A — baseline): Established.
+vs. PRE-FOMC SPEECH (N/A): N/A
+vs. COMMITTEE SINCE FOMC:  Second official to question whether
+  rates are restrictive (after Logan Feb 10). Note: Goolsbee is a
+  Non Voter; Logan is a Just Voter. Logan's adoption of this view
+  carries more committee weight; Goolsbee's confirms it is not
+  confined to the hawkish voter wing.
+
+LANGUAGE TO WATCH:
+  • "Not obvious our interest rate policy is even restrictive" —
+    Goolsbee echoes Logan's near-neutral framing from a voter.
+    Two officials (Logan Feb 10, Goolsbee Feb 24) now questioning
+    restrictiveness. Dispersed-to-emerging stage.
+  • "Sequence of transitory inflation / burned before" — Goolsbee's
+    2021 lesson applied. Predates Barkin (Mar 27) and Waller (Apr 17)
+    on this analytical frame.
+  • "Front-loading cuts not prudent" — his explicit policy constraint.
+
+ANALYST FLAG: YES
+  → Goolsbee's Feb 24 is the single most important recalibration
+    of a voter's public reputation in 2026. Combined with Logan's
+    near-neutral framing, two officials now question whether rates
+    are even restrictive. If Jefferson or Williams adopt this view,
+    the mechanical case for cuts is gone.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  WALLER  |  Governor  |  Just Voter  — TYPE B, NOT SCORED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Operationalizing AI at the Federal Reserve" — entirely about
+Fed internal AI adoption. No monetary policy content. Discard.
+See Feb 23 scored speech for Waller's current policy stance.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE
+  Both Goolsbee and Waller spoke today. Goolsbee's policy signal
+  is significant; Waller's is not (Type B). The key development of
+  the day is Goolsbee's adoption of the near-neutral rate
+  characterization — confirming that Logan's Feb 10 voter-level
+  framing is not isolated and has Non Voter resonance as well.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee NABE:      https://www.chicagofed.org/publications/speeches/2026/feb-24-nabe-economic-policy-conference
+  Goolsbee Bloomberg: https://www.youtube.com/watch?v=p1b2jimYd8w
+  Waller (Type B):    https://www.federalreserve.gov/newsevents/speech/waller20260224a.htm
+════════════════════════════════════════════════════════════════

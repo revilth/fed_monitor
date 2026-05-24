@@ -1,0 +1,101 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: February 23, 2026
+Reference FOMC: January 28, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "Labor Market Data: Signal or Noise?"
+     42nd Annual NABE Economic Policy Conference, Washington D.C.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm
+
+NOTE: Austan Goolsbee also spoke at this conference (Feb 24).
+See 20260224_daily.txt for his remarks.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  WALLER  |  Governor  |  Just Voter
+    [Dissented at Jan 28 FOMC, preferring a 25bp cut]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Overall growth backdrop is solid: Q4 GDP at 1.4% (annual rate),
+  private domestic final purchases at 2.4%, and Waller expects above
+  2% for the first half of 2026. Manufacturing surveys show a broad
+  January pickup. The key concern is compositional: "I worry that
+  the still-solid spending increases lately may be driven by stock-rich
+  households and thus be masking weakness in the still substantial
+  share of spending that relies on lower- and middle-income people."
+  Retailers confirm the divergence — higher-income customers resilient,
+  lower/middle income starting to trade down or pull back. Growth looks
+  fine in aggregate but the base is narrowing.
+  Direction: neutral — solid headline, flagged compositional concern.
+
+LABOR MARKET
+  The central question of the speech: is the strong January jobs report
+  (+130K total, +172K private) signal or noise? Waller lays out why he
+  is skeptical: job gains were concentrated in healthcare and construction
+  (~20% of employment); ADP reported only 22K for January; Challenger
+  counted 108K layoff announcements — the most since 2009 for a January.
+  His baseline remains: "close to zero net job creation over 2025
+  indicates a weak, and fragile job market." He rates the two outcomes —
+  genuine labor market turn vs. noisy January — as "close to a coin flip."
+  Direction: neutral-dovish — fragile baseline, high uncertainty on
+  whether January represents a genuine turn.
+
+INFLATION
+  Waller's inflation framework is his "look through" doctrine: "Traditional
+  central bank wisdom suggests that we should 'look through' tariffs. I did
+  this when they went up and will do so if they come down." He estimates
+  underlying inflation (ex-tariffs) is "close to the FOMC's 2 percent goal."
+  At this date there is no energy shock, no "sequence of transitory shocks"
+  framing. Inflation, in his view, is essentially solved at the structural
+  level — it is only the transitory tariff effects keeping the headline
+  above target.
+  Direction: dovish — "look through" doctrine intact; underlying
+  inflation near target.
+
+MONETARY POLICY
+  Waller presents explicit two-scenario analysis. If February data confirms
+  the January turnaround, he would hold. If January proves to be noise and
+  February disappoints, a 25bp cut at the March meeting "would be
+  appropriate." At this date he is symmetrically uncertain — a "coin flip"
+  — with labor as the deciding variable. This is a dissenter who remains
+  open to holding if the data improve.
+  Direction: neutral-dovish — conditional cut signal present for the
+  weak-labor scenario; coin-flip uncertainty overall.
+
+NET SIGNAL: NEUTRAL-DOVISH — dissenter framing; labor-driven; explicit
+  cut conditional in adverse labor scenario
+
+vs. PRIOR SPEECH (Jan 28 dissent statement): CONSISTENT — Feb 23
+  explains and defends the Jan 28 dissent view. No change in analytical
+  framework; adds the coin-flip framing for March.
+
+vs. PRE-FOMC SPEECH: N/A — this IS the pre-FOMC speech for March 18.
+
+vs. COMMITTEE SINCE FOMC:  Waller is the most dovish Just Voter at this
+  date — the only one with an active conditional cut signal. Cook and Barr
+  are comfortable holding; Collins sees no urgency; Paulson needs 2%
+  inflation first. Bowman is also dovish but frames it through labor
+  fragility rather than a coin-flip scenario framework.
+
+LANGUAGE TO WATCH:
+  • "Look through" tariffs — his foundational inflation premise. Will be
+    challenged by the energy shock that begins in late February. Watch for
+    this doctrine to evolve in subsequent speeches.
+  • "Coin flip" — captures his genuine uncertainty about labor. This framing
+    disappears by Apr 17, replaced by explicit adverse-scenario hawkishness.
+  • "Underlying inflation close to 2%" — the dovish anchor enabling his
+    cut argument. Still present Apr 17 but surrounded by new qualifications.
+
+ANALYST FLAG: YES
+  → This speech is the essential baseline for understanding the dramatic
+    Waller reversal by Apr 17. The "look through" doctrine + "coin flip
+    on labor" + conditional cut signal here will be replaced within 7 weeks
+    by "sequence of transitory shocks" + "hold even if labor weakens."
+    The February jobs report (which confirmed January was partly noise)
+    and the late-February Middle East energy shock together drove the full
+    reversal. Analyst to assess: did Waller communicate the shift gradually
+    or did it appear abruptly in the Apr 17 speech?
+════════════════════════════════════════════════════════════════

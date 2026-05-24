@@ -1,0 +1,183 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: March 30, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Jerome H. Powell  |  Chair  |  Troika
+     "Discussion at Harvard University" (Q&A, moderated)
+     Harvard University, Cambridge, MA
+     SOURCE: https://www.youtube.com/watch?v=oqeGhgbEwr0
+     NOTE: YouTube/CNBC — not posted on Fed Board website
+
+  2. John C. Williams  |  NY Fed President  |  Troika
+     "Ferrying Through the Crosscurrents"
+     Staten Island Economic Development Corporation
+     SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260330
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  POWELL  |  Chair  |  Troika
+    [Only 2026 appearance with economic outlook content]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Brief and structural. Powell praises US economic dynamism compared
+  to other large economies for a student audience — not a cycle-
+  specific signal. No current growth characterization.
+  Direction: neutral.
+
+LABOR MARKET
+  Powell acknowledges the dual-risk framing in plain language:
+  "there's sort of downside risk to the labor market, which suggests
+  keep rates low." He notes low job creation and the low-hire
+  environment to students — consistent with the committee's "little
+  changed" framing. No incremental signal beyond committee consensus.
+  Direction: neutral.
+
+INFLATION
+  Powell echoes the committee's tariff consensus ("one-time price
+  increase," "half to a full percentage point") but adds an important
+  new element: an explicit articulation of the "series of supply
+  shocks" risk. "You can have a series of these supply shocks and
+  that can lead the public to start expecting higher inflation over
+  time...so you monitor that very very carefully." He maintains the
+  dovish anchor — "inflation expectations do appear to be well
+  anchored beyond the short term" — but his qualifier "beyond the
+  short term" is slightly more cautious than the standard unqualified
+  "well anchored" boilerplate used by other officials.
+  Direction: neutral with mild hawkish undertone — "series of shocks"
+  monitoring concern stated by the Chair himself.
+
+MONETARY POLICY
+  "We feel like our policies are in a good place for us to wait and
+  see how that turns out" — plain-English version of "well positioned."
+  "We're not really facing it [the hard choice] yet because we don't
+  know what the economic effects will be." Explicit patience.
+  Direction: neutral — patient hold confirmed in unscripted language.
+
+NET SIGNAL: NEUTRAL — consistent with committee consensus; "series
+  of shocks" concern articulated by Chair
+
+vs. PRIOR SPEECH (Mar 21 Volcker remarks):  N/A — no economic content
+  to compare. Mar 30 Harvard is the first Powell economic outlook
+  content in 2026.
+vs. PRE-FOMC SPEECH: N/A — no prior policy speech to compare.
+vs. COMMITTEE SINCE FOMC:  Powell's Harvard remarks fully confirm the
+  committee's post-March 18 holding posture. His "wait and see" on the
+  energy shock and dual-risk framing align precisely with Jefferson and
+  Williams. The only incremental addition: his "series of shocks →
+  expectations risk" concern, which predates Waller's Apr 17
+  formalization.
+
+LANGUAGE TO WATCH:
+  • "Series of supply shocks → expectations risk" — now appearing
+    across Goolsbee (Mar 7, Bloomberg), Barkin (Mar 27), and Powell
+    (Mar 30). Three officials independently articulating the same
+    concern in 3 weeks. At the dispersed-to-emerging stage of the
+    language cycle. Not yet in the FOMC statement or Jefferson/Williams
+    formal speeches. Track whether it enters Troika formal language.
+  • "Well anchored beyond the short term" — Powell's qualifier is
+    slightly more cautious than the standard unqualified "well
+    anchored." Track whether this phrasing spreads.
+
+ANALYST FLAG: YES
+  → Goolsbee named the stagflation/series-of-shocks concern on
+    March 7 — three weeks before this speech. Now Barkin (Mar 27)
+    and Powell (Mar 30) have added their voice. The concept is
+    spreading but has not appeared in the March 18 FOMC statement.
+    Was it discussed at the table? The March 18 minutes (due ~May 19)
+    may answer this.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  WILLIAMS  |  NY Fed President  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Williams expects GDP growth close to 2.5% for 2026, supported by
+  fiscal tailwinds, favorable financial conditions, and AI investment.
+  No recession concern. Brief treatment — not the focus.
+  Direction: neutral.
+
+LABOR MARKET
+  "Promising signs of stabilization." Unemployment at 4.3%, back to
+  July 2025 level. Low-hire, low-fire environment noted. Survey-based
+  measures of labor demand (Conference Board, NY Fed) have not yet
+  confirmed the stabilization — a cautionary signal he will continue
+  to monitor. Still more optimistic than Bowman's fragility framing.
+  Direction: neutral — stabilization confirmed with soft-data caveat.
+
+INFLATION
+  Maintains all prior anchors: tariff effects are one-time, no
+  second-round effects, underlying inflation ex-imports moving in
+  right direction. Energy shock ADDED as new factor — "will likely
+  boost overall inflation in coming months, but these effects should
+  partially reverse later this year, assuming oil prices come down."
+  2026 inflation forecast revised up from ~2.5% (Mar 3) to ~2.75%.
+  Direction: mild hawkish vs. Mar 3 — energy shock added; forecast
+  revised up.
+
+MONETARY POLICY
+  ⚠ KEY DEVELOPMENT — CUT SIGNAL RETRACTED:
+  Mar 3: "Further reductions in the federal funds rate will eventually
+    be warranted..." ← explicit cut signal
+  Mar 30: [ABSENT] ← deliberately retracted
+  "Well positioned to balance the risks" replaces the cut signal.
+  The energy shock appears to have driven this withdrawal.
+  Direction: hawkish shift vs. Mar 3 — cut signal gone.
+
+NET SIGNAL: NEUTRAL — stabilization on labor; mild hawkish on
+  inflation; cut signal deliberately retracted
+
+vs. PRIOR SPEECH (Mar 3):    HAWKISH — cut signal gone; inflation
+  forecast revised up; energy shock added as new constraint.
+vs. PRE-FOMC SPEECH (Mar 3): Same — Mar 3 IS the pre-FOMC baseline.
+vs. COMMITTEE SINCE FOMC:    Williams is now fully aligned with
+  Jefferson's dual-risk holding formula. The committee's most forward-
+  leaning Troika voice has pulled back to center.
+
+LANGUAGE TO WATCH:
+  • "Further reductions will eventually be warranted" — ABSENT.
+    Retraction is the most important Troika language development since
+    the FOMC. Track whether it returns post-April FOMC.
+  • "Well positioned to balance the risks" — stable formula replacing
+    the cut signal. Now consistent across Jefferson and Williams.
+
+ANALYST FLAG: YES
+  → Williams' Mar 3 cut signal was the most forward-leaning Troika
+    statement of 2026. Its retraction by Mar 30 is the most important
+    single language shift of the year so far. Was this a deliberate
+    correction of a market overreaction to Mar 3, or a genuine view
+    change driven solely by the energy shock?
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — MARCH 30
+  Both Troika members active on the same day. Key observation:
+  Powell (Harvard) and Williams (Staten Island) independently
+  articulate the same three-part framework on the same day —
+  tariffs are one-time, energy shock is uncertain, wait and see.
+  No divergence. The Troika's unified post-March 18 posture is
+  confirmed across two simultaneous unscripted/scripted appearances.
+
+  Notably, Powell's "series of supply shocks" concern and Williams'
+  cut signal retraction together define the Troika's post-FOMC
+  recalibration: more hawkish on inflation risk, no forward guidance
+  on cuts.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Powell Mar 30 (Harvard):   https://www.youtube.com/watch?v=oqeGhgbEwr0
+  Williams Mar 30:           https://www.newyorkfed.org/newsevents/speeches/2026/wil260330
+
+Prior speech — Powell (vs. PRIOR SPEECH):
+  Powell Mar 21 (Volcker):   https://www.federalreserve.gov/newsevents/speech/powell20260321a.htm
+
+Prior speech — Williams (vs. PRIOR SPEECH):
+  Williams Mar 3:            https://www.newyorkfed.org/newsevents/speeches/2026/wil260303
+
+Pre-FOMC baseline — Williams (vs. PRE-FOMC SPEECH):
+  Williams Mar 3:            https://www.newyorkfed.org/newsevents/speeches/2026/wil260303
+════════════════════════════════════════════════════════════════

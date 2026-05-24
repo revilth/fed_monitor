@@ -1,0 +1,145 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-08 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"AI, Productivity, and Monetary Policy"
+Hoover Institution Annual Monetary Policy Conference — Policy Panel
+Stanford, California
+SOURCE: https://www.youtube.com/watch?v=Utsy1M4SKVc
+
+CLASSIFICATION: Type B with embedded policy framework
+Panel includes: Michelle Bowman (Supv), Mary Daly (SF Fed), Christopher
+Waller (Governor) — see 20260508_Mary_Daly_scored.txt for Daly's remarks.
+Bowman and Waller gave Type B prepared remarks (regulatory / operations).
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: March 23, 2026  "CNBC Interview" (Squawk Box)
+Post-FOMC prior:   N/A (first post-Apr29 scored appearance)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+No direct growth characterization in prepared remarks. Embedded in the
+AI/productivity framework: the 1990s analogy — a productivity acceleration
+either arrived unexpectedly (rate-lowering) or was widely expected
+(rate-raising via wealth effect pulling demand forward).
+
+Applied to 2026: Goolsbee's framework implies the current AI productivity
+boom is predominantly expected, not yet delivered — i.e., the wealth
+effect from anticipated future income is the operative force. He explicitly
+names data center investment concentrated in Silicon Valley as a concrete
+expression of this pull-forward.
+
+Direction: neutral — no direct assessment of current growth conditions.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+No direct labor market assessment in the prepared remarks. In Q&A on
+AI-driven labor displacement fears:
+  "If 50% of consumers are hand-to-mouth and they can't borrow from the
+   future then we can't overheat — that's the way it goes. But I think
+   the my intuition was if you think there's a K-shaped economy and
+   equity values are going through the ceiling and the top of the K are
+   spending like crazy on houses in PaloAlto out of their equity wealth
+   nobody has to borrow anything and it could still look very much like
+   what I'm describing now."
+  → K-shaped economy framing: the wealth effect driving demand is
+    concentrated at the top; hand-to-mouth constraint at the bottom
+    does not neutralize it. Consistent with his Feb 24 observation
+    that rates may not be as restrictive as assumed.
+
+Direction: neutral — labor not addressed as a policy topic.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+No direct current-cycle inflation assessment in prepared remarks.
+The embedded framework has inflation implications:
+
+  Scenario A (unexpected productivity): inflation falls, rates fall.
+  Scenario B (expected productivity, widely anticipated AI boom): inflation
+  falls initially, but wealth-effect pull-forward overheats economy, central
+  bank must raise nominal rate even as inflation appears subdued.
+  Scenario C (expected boom that disappoints): stagflation risk —
+  overconsumption + recession when the boom fails to materialize.
+
+Applied to current moment:
+  "There's a whole list of other things... the things you talked about was
+   data center investment and consumer spending at the higher end and do
+   they keep blowing through that... The bigger the share of the total
+   productivity boom that is still on the way, the more likely it is that
+   rates are going to need to rise."
+  → [Inference: implied hawkish lean on inflation via natural rate, not
+    direct inflation assessment. The mechanism is expected AI productivity
+    requiring higher r-star, not current inflation dynamics.]
+
+Direction: hawkish lean (via natural rate / r-star implications) — inferred,
+  not stated.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+No direct cut/hold statement. The prepared remarks build an analytical
+framework with a directional implication:
+
+  "If you have unexpected productivity, rates should probably fall. The more
+   it's predicted to be coming soon, the more it's going to motivate shifting
+   behavior by forward-looking agents, and the more likely it is to drive up
+   the natural rate to prevent overheating. If the central bank reacts too
+   slowly, it probably gets worse. The bigger the hype, the bigger the
+   concern."
+  → "The bigger the hype, the bigger the concern" is the operative line.
+    Current AI hype is very large. The framework implies the natural rate
+    is elevated — i.e., current policy may be less restrictive than it appears.
+
+This is consistent with his Feb 24 NABE framing ("not obvious that our
+interest rate policy is even restrictive") but approaches it from a
+different angle: expected-productivity-driven r-star elevation, rather
+than direct assessment of the level of rates.
+
+Cut signal status: ABSENT in this appearance. The framework implicitly
+  argues AGAINST cutting until the pull-forward demand effect is measured.
+
+Shift vs. prior speech (Mar 23):   HAWKISH LEAN — Mar 23 was a direct
+  Type A economic outlook interview. This is Type B. The AI framework adds
+  a new channel (r-star elevation via expected productivity) reinforcing
+  the existing "rates may not be restrictive" framing from Feb 24 / Mar 23.
+
+Shift vs. pre-FOMC (Mar 23):       As above. No direct comparison possible
+  on labor/inflation but the natural rate framework is incrementally hawkish
+  relative to his baseline conditional-cut stance.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — via natural rate / r-star framework
+               Goolsbee's AI productivity analysis implies the real neutral
+               rate is elevated by anticipated future productivity gains. This
+               adds an academic-level argument against cutting to his existing
+               "inflation must show progress" framing.
+
+Key analytical contribution:
+  The unexpected vs. expected productivity distinction is the cleanest
+  statement of this mechanism at a policy panel. Unexpected → lower rates.
+  Expected (AI hype) → higher natural rate. The Fed is operating in the
+  expected-productivity regime. This is not a cut argument.
+
+Language watch:
+  • "The bigger the hype, the bigger the concern" — compact, quotable, likely
+    cited widely. Summarizes the r-star / pull-forward risk in one sentence.
+  • K-shaped economy + equity wealth = demand pull-forward without borrowing
+    — specific mechanism for why hand-to-mouth constraints don't immunize
+    against overheating. Not yet in other officials' framing.
+  • "If the central bank reacts too slowly it probably gets worse" — implicit
+    commentary on current rate path; directional without being explicit.
+
+Analyst flag: YES
+  → Goolsbee's natural rate framework is analytically significant and likely
+    the most-cited element of the Hoover panel. Analyst to assess whether
+    the AI/r-star argument is consistent with his existing "not obvious rates
+    are restrictive" view (Feb 24) or represents a new, more developed
+    theoretical basis for that intuition. If other committee members adopt
+    this framing, it would signal a committee-wide revision of the neutral
+    rate estimate upward.
+══════════════════════════════════════════════════════════

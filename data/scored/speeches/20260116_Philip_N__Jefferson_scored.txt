@@ -1,0 +1,161 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-16 | Philip N. Jefferson | Vice Chair | Troika
+"Economic Outlook and Monetary Policy Implementation"
+American Institute for Economic Research / Shadow Open Market Committee /
+Florida Atlantic University Conference, Boca Raton, FL
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm
+
+CLASSIFICATION: Type A — Full Economic Outlook with monetary policy
+implementation section (balance sheet / reserves framework — technical,
+not a stance signal). Three-topic structure: growth / labor / inflation
+with explicit monetary policy conclusion.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: [This IS the pre-FOMC baseline for the Jan 28, 2026 FOMC]
+Post-FOMC prior:   N/A — first scored 2026 Jefferson speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "economic activity has continued to expand at a solid pace"
+  → Jefferson: "the most recent data indicate that economic activity
+    has remained strong. In Q3 2025, GDP rose at an annual rate of
+    4.3 percent."
+  → Echoes and quantifies statement language.
+
+Own language:
+  "Excluding those effects [government shutdown], I see the economy
+   expanding at a solid pace of about 2 percent in the near term."
+  → Solid but not exceptional near-term view; shutdown creates a
+    one-quarter headwind. Not as bullish as Williams (2.5–2.75%).
+  No composition concerns flagged. [Contrast with Barkin, who notes
+  the AI/wealthy-consumer "narrowness."]
+
+Shift vs. prior speech: [N/A — no prior 2026 scored speech]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "labor market conditions have continued to cool"
+  → Jefferson: "job growth moderated last year... unemployment rate
+    edged higher" to 4.4%.
+
+Own verdict:
+  "The labor market is not deteriorating rapidly, as layoffs remain
+   low; however, hiring remains low as well." — Low-hire, low-fire
+   characterization. Structurally soft but not in free fall.
+
+Own qualifier / addition:
+  "The downside risks to employment appear to have risen." — Jefferson
+  explicitly acknowledges elevated downside risk. This is the first
+  Troika-level use of "downside risks to employment have risen" in
+  the 2026 corpus. Key personal addition beyond statement language.
+  "My baseline, however, is for the unemployment rate to hold steady
+   throughout this year." — Constructive baseline despite elevated risk.
+
+  Labor supply note: "decline in the growth of the labor force due
+  to lower immigration and labor force participation" — acknowledges
+  supply-side contribution to slower job growth, slightly reducing
+  the demand-weakness interpretation.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "Inflation has eased... but remains somewhat elevated"
+  → Jefferson: "inflation remains at a level that is above readings
+    consistent with our inflation target."
+  → Close paraphrase of statement language.
+
+Own language — KEY:
+  "Core goods inflation... rose sharply, to 1.4 percent... at least
+   in part reflecting increased tariffs filtering through to certain
+   goods prices." — Tariffs acknowledged as cause, but framed as
+   "at least in part" — open to non-tariff contributors.
+  "It is a reasonable base case that the effects of tariffs on
+   inflation will not be long-lasting — effectively, a one-time
+   shift in the price level." — Same look-through framing as Williams
+   (Jan 12). Tariffs: one-time level shift.
+  "Inflation will resume a path toward our goal" — forward path
+   constructive.
+  Shelter: "continued to decline"; core services ex-shelter: "on a
+  downward trend, albeit on a somewhat bumpier path."
+
+  Calibration note: Jefferson does not offer a specific inflation
+  forecast (contrast with Williams' 2.75–3% peak / 2% by 2027).
+  His framing is more directional than quantified.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Dec 2025: "extent and timing of additional adjustments... will
+  carefully assess incoming data"
+  → Jefferson echoes this framing: "current policy stance leaves us
+    well positioned to determine the extent and timing of additional
+    adjustments... based on the incoming data."
+  → Near-verbatim echo of statement language. Signals consensus.
+
+Own language:
+  "Those moves [75bp cuts] have brought the federal funds rate into
+   a range consistent with the neutral rate." — CRITICAL DEPARTURE
+   FROM WILLIAMS: Jefferson says rates ARE at neutral (not "closer
+   to" as Williams said Jan 12). This is a meaningful framing
+   difference — "at neutral" removes the mechanical justification
+   for additional cuts on the basis of restriction alone.
+  "I am cautiously optimistic about the path ahead." — Personal
+   qualifier; not a pure consensus restatement.
+
+Cut signal status: ABSENT — "well positioned" holding formula.
+  "At neutral" framing actively argues against imminent cuts.
+
+  Implementation section (balance sheet / reserves) is technical
+  and operational — not a policy stance signal.
+
+Shift vs. prior speech: [N/A]
+Shift vs. pre-FOMC:    [N/A — this is the pre-FOMC baseline]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL / SLIGHTLY HAWKISH LEAN — Jefferson's "at
+               neutral" rate characterization is modestly more hawkish
+               than Williams' "closer to neutral." Combined with his
+               explicit acknowledgment of elevated downside labor risks
+               (somewhat dovish) and tariff look-through (dovish), the
+               net stance is balanced but with a hawkish tilt on the
+               rate level framing.
+
+Language watch:
+  • "At neutral" — Jefferson's characterization; watch whether
+    Williams adopts this phrase in subsequent speeches. If both
+    Troika members say rates are "at neutral," the case for cuts
+    on a restriction basis collapses.
+  • "Downside risks to employment have risen" — first Troika use
+    of this phrase in 2026; tracks to the Apr 7 scored Jefferson
+    speech where it became "susceptible to adverse shocks."
+  • "One-time shift in the price level" — Jefferson/Williams both
+    using this exact look-through formulation. Watch for it in
+    statement language.
+
+Analyst flag:  YES
+  → Jefferson says rates are "at neutral"; Williams (Jan 12) says
+    "closer to neutral." This is a meaningful divergence within
+    the Troika. Analyst to assess whether this reflects a genuine
+    difference in Jefferson's neutral-rate estimate vs. Williams',
+    or whether one of them updated their view after the other's
+    speech. If Jefferson's "at neutral" characterization holds
+    through the Jan 28 FOMC, it implies no rate cut bias at the
+    Troika level.
+══════════════════════════════════════════════════════════

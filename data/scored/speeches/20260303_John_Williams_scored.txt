@@ -1,0 +1,131 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-03 | John C. Williams | NY Fed President | Troika
+"Two Sides of a Coin"
+America's Credit Unions Governmental Affairs Conference, Washington D.C.
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260303
+
+CLASSIFICATION: Type A — Economic Outlook
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: Jan 12, 2026  "A Few Words for the New Year"
+Post-FOMC prior:   N/A (first post-Jan28 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   shown some signs of stabilization." [Jan 28 stmt]
+  → Williams: "unemployment rate...4.3 percent...back to where
+    it was in July 2025. Job growth...have stabilized in
+    recent months."
+
+Own verdict:
+  "Despite solid economic growth in 2025, we saw a gradual
+   softening of the labor market through much of the year.
+   In recent months, however, there have been promising signs
+   of stabilization."
+  → Hopeful framing: stabilization after softening. Not fragile.
+
+Own caveat:
+  "The low hiring rate, along with an increase in long-term
+   unemployment, may be contributing to a somewhat more
+   pessimistic perception among households than other
+   indicators of the labor market might suggest."
+  → Notes the low-hire/perception gap. Same observation
+    as Goolsbee (Feb 24) but less analytical.
+
+Shift vs. pre-FOMC (Jan 12): MILD POSITIVE — Jan 12 was more
+  cautious; Mar 3 sees "promising signs of stabilization."
+  Slight dovish lean (labor concerns easing).
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Jan 28 stmt]
+  → Williams: "tariffs have contributed around one half to
+    three quarters of a percentage point to the current
+    inflation rate of about 3 percent."
+
+Own language — KEY:
+  "There are no signs of significant second-round effects
+   from tariffs. No global supply-chain bottlenecks have
+   emerged. Wage growth has remained stable at levels
+   consistent with price stability."
+  → Three-part dovish anchor: no second-round effects, no
+    supply chain disruptions, no wage inflation. This is the
+    most complete articulation of the committee's "tariffs
+    are one-time" framework by any official.
+
+  "I expect the tariffs largely to have one-off effects on
+   prices. Therefore, I anticipate inflation to start coming
+   back down later this year."
+  → Confident H2 disinflation forecast. No hedging.
+
+Own forecast:
+  "I expect overall inflation to come in at around 2-1/2
+   percent in 2026, then fall to 2 percent in 2027."
+  → Specific numeric forecast. 2.5% for 2026, 2% for 2027.
+    This will be revised upward in Mar 30 after energy shock.
+
+Shift vs. pre-FOMC (Jan 12): SLIGHTLY MORE OPTIMISTIC — Jan 12
+  was more cautious on tariff pass-through timing. Mar 3
+  is confident in H2 disinflation. Mild dovish lean.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Williams: "With these actions, the risks to achieving our
+    maximum employment and price stability goals are now in
+    better balance."
+
+Own language — CUT SIGNAL:
+  "If inflation follows the path I expect, further reductions
+   in the federal funds rate will eventually be warranted to
+   prevent monetary policy from inadvertently becoming more
+   restrictive."
+  → MOST IMPORTANT SENTENCE. Explicit cut signal with
+    conditional: if disinflation proceeds, cuts needed to
+    prevent policy from becoming inadvertently tighter as
+    inflation falls. This is the committee's most forward-
+    leaning statement from any Troika member in 2026.
+
+Cut signal status: PRESENT — explicit and conditional cut signal.
+  This language will be retracted by Mar 30.
+
+Shift vs. pre-FOMC (Jan 12): DOVISH — Jan 12 did not contain
+  an explicit cut signal. Mar 3 introduces "further reductions
+  will eventually be warranted." This is the peak dovishness
+  of Williams' 2026 Troika communications.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH — most explicit Troika cut signal in 2026
+
+Directional:   Williams' Mar 3 speech is the high-water mark
+  of Troika dovishness in 2026. It will be reversed by Mar 30
+  after the Middle East energy shock. The retraction of "further
+  reductions will eventually be warranted" between Mar 3 and
+  Mar 30 is the single most important Troika language shift of
+  the year to date.
+
+Language watch:
+  • "Further reductions in the federal funds rate will eventually
+    be warranted" ← CUT SIGNAL — watch for retraction.
+  • "No signs of significant second-round effects" — this phrase
+    appears in all subsequent Williams speeches. Its continued
+    presence is the dovish anchor; its disappearance would be
+    a major hawkish signal.
+  • "Risks now in better balance" — standard committee holding
+    formula from Jan 28 FOMC.
+
+Analyst flag: YES
+  → Did media or markets price in the Williams cut signal from
+    Mar 3? If so, the Mar 30 retraction may have been a
+    deliberate correction of a market overreaction.
+══════════════════════════════════════════════════════════

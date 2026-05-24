@@ -1,0 +1,120 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-07 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"Bloomberg Radio Interview — Jobs Report Day"
+Bloomberg Radio/Television (Q&A format)
+SOURCE: https://www.youtube.com/watch?v=kBjzS1rohlE
+CHANNEL: Bloomberg Podcasts
+
+CLASSIFICATION: Type A embedded — Q&A interview with economic
+outlook content. Jobs report day (February payrolls).
+
+Reference FOMC:    January 28, 2026
+Pre-FOMC baseline: Feb 24, 2026  NABE speech + Bloomberg interview
+Post-FOMC prior:   Feb 24, 2026  (same date; both now scored)
+──────────────────────────────────────────────────────────
+
+GROWTH
+  Brief positive backdrop mentioned. Consumer spending characterized
+  as "the strongest thing in the economy...solid in a kind of broad-
+  based way." Not a concern.
+  Direction: neutral.
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low." [Jan 28 stmt]
+  → Goolsbee: "it's a tough miss on the jobs report today...the
+    unemployment rate inching up...one month is not a trend, but
+    it's not a good month."
+
+Own verdict — KEY REFRAME:
+  "Let's not index on total payroll employment anyway because a lot
+   of stuff is going on with immigration, with population growth."
+  → Consistent with Feb 24: low aggregate payrolls do not signal
+    labor market weakness given immigration-driven lower break-even.
+
+Own concern:
+  "If you got several months like that, you would be — that'd be
+   a concerning spot for the labor market."
+  → Conditional downside: one bad month is not enough, but he
+    is watching closely.
+
+Shift vs. Feb 24:   UNCHANGED — same reframe of payrolls;
+  same conditional downside concern.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none directly.
+
+Own language — KEY:
+  "The inflation hasn't been ideal. Has at least stalled out at
+   kind of 3% and some of the latest measures the inflation
+   disturbingly high in non-tariff categories like services."
+  → "Disturbingly high" on services inflation is his own language,
+    more alarmed than the committee's standard "somewhat elevated."
+
+  On energy/oil:
+  "It can lead you in a stagflationary direction, which is to say
+   the inflation side of the mandate getting worse. At the same
+   time, the employment side of the mandate is getting worse.
+   And that's always the worst case scenario for the central bank
+   because there's not an obvious monetary policy answer to a
+   stagflationary shock."
+  → EARLIEST EXPLICIT STAGFLATION NAMING in this scoring set.
+    Goolsbee names the scenario on March 7 — before Barkin (Mar 27),
+    Powell (Mar 30), and Williams/Waller (Apr 16-17).
+
+  "Each time we add an uncertainty, I kind of think the time at
+   which it makes sense to act keeps getting pushed back."
+  → Pushes back cut timeline with each new uncertainty.
+
+Shift vs. Feb 24:   SLIGHTLY HAWKISH — adds the stagflation scenario
+  explicitly; characterizes services inflation as "disturbingly high."
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "There's a time for sniffing and there's a time for walking.
+   And when there's uncertainty and you're getting conflicting
+   data points, that's the time for sniffing."
+  → Data-dog analogy: explicitly in wait-and-see mode before
+    March 18 FOMC. Not committing to cut or hold.
+
+  "I remain hopeful slash expecting that conditions will improve
+   that we'll start to see some progress on inflation head us
+   back to 2% and by the end of this year that we would be in a
+   situation that we could commence our march back down."
+  → End-of-2026 conditional cut timeline. Optimistic but deferred.
+
+Cut signal status: CONDITIONAL, DEFERRED — cuts possible end-2026
+  if inflation resumes progress. Immediate action ruled out.
+
+Shift vs. Feb 24:   SLIGHTLY HAWKISH — Feb 24 was "front-loading
+  not prudent"; Mar 7 pushes the timeline further back due to
+  new uncertainties (energy, jobs miss).
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL-HAWKISH — stagflation scenario named;
+               services inflation "disturbingly high"; cut timeline
+               deferred to end-2026
+
+Language watch:
+  • "Stagflationary direction" — FIRST use by any official in this
+    scoring set. March 7. Predates Barkin (Mar 27), Powell (Mar 30),
+    Williams and Waller (Apr 16-17) by weeks. This is the origin
+    point of the stagflation language cycle in 2026.
+  • "Time for sniffing" — his wait-and-see holding formula. Watch
+    for any shift to "time for walking" as a cut signal.
+
+Analyst flag: YES
+  → Goolsbee's March 7 interview establishes him as the first
+    official to name the stagflation scenario in 2026. Combined
+    with his Feb 24 NABE hawkishness, this confirms the "Goolsbee
+    is dovish" heuristic is thoroughly outdated for 2026.
+══════════════════════════════════════════════════════════

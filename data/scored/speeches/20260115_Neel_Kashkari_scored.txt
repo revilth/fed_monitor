@@ -1,0 +1,53 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-14 | Neel Kashkari | Minneapolis Fed President | Just Voter
+"Virtual Town Hall with the Wisconsin Bankers Association"
+Wisconsin Bankers Association webinar — Minnesota, Wisconsin, Midwest
+SOURCE: https://www.youtube.com/watch?v=pnLND8PuA2c (auto-transcript)
+NOTE: Speech date Jan 14; YouTube saved as Jan 15.
+
+CLASSIFICATION: Type A — Economic outlook Q&A, pre-January 28 FOMC.
+
+REFERENCE FOMC:    [Prior meeting — Dec 2025 or Jan 28 is the upcoming]
+PRE-FOMC BASELINE: [No prior Kashkari speech in corpus — establishing]
+POST-FOMC PRIOR:   N/A (pre-Jan 28 baseline)
+──────────────────────────────────────────────────────────
+
+GROWTH
+  "Overall, the economy seems quite resilient...the American consumer
+   broadly has proven to be more resilient and wanting to spend."
+  AI investment supporting growth. Resilience has exceeded expectations.
+  Direction: neutral — solid pace acknowledged.
+
+LABOR MARKET
+  "The labor market is gently cooling but more or less moving sideways.
+   We've not seen a lot of layoffs...but also not a lot of hiring."
+  Unemployment around 4.4%. Some fragility signals worth watching.
+  Direction: neutral — stable with soft signals.
+
+INFLATION
+  "Inflation is still too high, but it is trending at least in the
+   right direction."
+  → Cautious optimism. Inflation moving down, not there yet.
+  Tariffs dominated 2025 discussion — Kashkari engaging with
+  Wisconsin manufacturer concerns about input costs.
+  Direction: neutral-hawkish — still too high, slowly improving.
+
+MONETARY POLICY
+  KEY QUOTE: "The fact that those [AI/data centers] have been growing
+   as strongly as they have makes me wonder how tight is monetary
+   policy."
+  → HAWKISH signal: questions whether policy is actually restrictive.
+    This is the earliest 2026 appearance of his "not obvious policy
+    is restrictive" theme (matches CLAUDE.md calibration note about
+    his Feb 24 NABE speech).
+
+  Direction: hawkish lean — neutral rate framing beginning here.
+
+NET SIGNAL: NEUTRAL WITH HAWKISH LEAN — pre-Jan 28 baseline.
+  Core: questions on restrictiveness; inflation still too high;
+  economy resilient vs. expectations. Cut signal: ABSENT.
+
+Analyst flag: NO — establishing baseline; no major surprises.
+══════════════════════════════════════════════════════════

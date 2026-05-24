@@ -1,0 +1,19 @@
+══════════════════════════════════════════════════════════
+TYPE B — NOT SCORED FOR POLICY CONTENT
+══════════════════════════════════════════════════════════
+2026-05-06 | Austan Goolsbee (panelist) | Chicago Fed President | Non Voter
+"Milken Institute Global Conference 2026 — AI bubble panel"
+Milken Institute Global Conference, Los Angeles, CA
+SOURCE: https://www.youtube.com/watch?v=z5sjX-Hxunk
+NOTE: Speaker attribution "Unknown" in raw file. Panel confirmed to
+  include Goolsbee based on Chicago Fed event listing. Other panelists:
+  Cathie Wood (ARK Invest), Sebastian Mallaby (CFR), Benedict Evans.
+  Moderated by James Mackintosh (WSJ).
+
+CLASSIFICATION: Type B — AI bubble discussion; investor/macro panel.
+  Goolsbee appears as a Fed perspective voice in an AI investment panel.
+  The discussion centers on whether AI represents a bubble using the
+  Kindleberger framework. No current US monetary policy stance signals.
+
+Raw file: data/raw/speeches/2026/Unknown/20260506_Milken_Institute_Global_Conference_2026.txt
+══════════════════════════════════════════════════════════

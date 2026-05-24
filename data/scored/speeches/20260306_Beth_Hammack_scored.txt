@@ -1,0 +1,123 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-06 | Beth Hammack | Cleveland Fed President | Just Voter
+"Remarks for the Panel: On the Safe-Haven Status of the Dollar"
+2026 US Monetary Policy Forum, Kent A. Clark Center for Global Markets,
+University of Chicago Booth School of Business, New York, NY
+SOURCE: https://doi.org/10.26509/sp-20260306
+
+CLASSIFICATION: Type B — International monetary system / dollar
+reserve currency speech. Contains a 3-paragraph embedded economic
+outlook section with a clear policy stance statement. Scored for
+the embedded section only.
+
+Reference FOMC:    January 28–29, 2026 (hold; 3.50–3.75%)
+  [NOTE: March 18, 2026 FOMC was next; this is a pre-Mar18 speech]
+Pre-FOMC baseline: [No prior 2026 Hammack economic outlook scored
+  in the 2026 corpus; this IS the pre-Mar18 FOMC baseline for Hammack]
+Post-FOMC prior:   N/A — first scored 2026 Hammack economic outlook
+──────────────────────────────────────────────────────────
+
+EMBEDDED ECONOMIC OUTLOOK
+──────────────────────────────────────────────────────────
+
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "Currently, US inflation is too high and has been above our
+   objective for the past five years." — DURATION FRAMING: same
+   "five years" language as Barkin Jan 6 and Logan May 1. Hammack
+   adopts this exact formulation, making it a 3-speaker phrase.
+  "The latest PCE inflation reading was 2.9 percent in December 2025."
+  "I see inflationary pressures as broad based. Tariffs are only one
+   area of concern for businesses, which also report that rising
+   prices for health insurance and electricity are pushing up costs."
+  → CRITICAL: Hammack explicitly REJECTS tariff attribution as the
+    primary driver. "Tariffs are only one area" — there are others.
+    This directly contradicts the look-through framing used by
+    Williams, Jefferson, Paulson, Bowman, and Waller's Jan 30
+    dissent. Hammack's inflation view is structurally hawkish.
+
+Direction: HAWKISH — "too high," five-year duration framing,
+  broad-based characterization that rejects tariff-only attribution.
+
+Shift vs. pre-FOMC: [N/A — first scored Hammack speech in 2026]
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own language:
+  "We need to balance elevated inflation against the labor market
+   softening we've seen over the last year." — Acknowledges labor
+   softening; frames it as a dual-mandate consideration.
+  No dedicated labor section; labor mentioned only in dual-mandate
+  context. Contrast with Bowman's "fragile" framing.
+
+Direction: NEUTRAL — minimal labor commentary; not flagging
+  downside risk.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "Given this combination [elevated inflation + labor softening]
+   and recent rate reductions, I believe policy is in a good
+   position. The fed funds rate is around neutral." —
+   Rate characterization: "around neutral." Consistent with
+   Jefferson/Williams. No restriction framing.
+  "Under my base case, I think policy should be on hold for quite
+   some time as we see evidence that inflation is coming down and
+   the labor market stabilizes further." — EXPLICIT EXTENDED HOLD.
+   "Quite some time" is more hawkish than "data-dependent" holding
+   formula. Requires affirmative evidence of inflation coming down
+   before the hold ends.
+  "It's easy to envision other scenarios, as well, so I see two-sided
+   risks to rates." — SYMMETRIC RISK: next move could be hike or cut.
+   First Troika/voter to explicitly name symmetric two-sided risks
+   before the March 18 FOMC. This exactly foreshadows her May 1
+   dissent against the easing bias language.
+
+Cut signal status: ABSENT — extended hold bias; two-sided risk
+  explicitly symmetric.
+
+Direction: HAWKISH — "hold for quite some time," two-sided risks,
+  inflation "too high" and broad-based.
+
+Shift vs. pre-FOMC: [N/A]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — Hammack's Mar 6 embedded outlook establishes
+               her as the committee's hawkish anchor well before the
+               April 29 dissent. Three distinctive elements:
+               (1) "five years above target" duration framing,
+               (2) "broad-based" inflation rejecting tariff-only
+                   attribution, and
+               (3) "two-sided risks" — symmetric hike/cut framing
+                   that directly anticipates her May 1 dissent.
+
+Calibration note: Her Feb 10 speech (already scored) was cited as
+  the pre-FOMC baseline in the May 1 scored file. This Mar 6 speech
+  is a second data point consistent with the Feb 10 stance. The
+  language is virtually identical: "around neutral," "quite some
+  time," "two-sided risks" — no meaningful shift between Feb 10
+  and Mar 6.
+
+Language watch:
+  • "Five years above target" — now appearing in Barkin (Jan 6),
+    Hammack (Mar 6), and Logan (May 1). This duration framing is
+    becoming a shared multi-speaker characterization. It is NOT
+    yet in the FOMC statement.
+  • "Two-sided risks to rates" — Hammack's unique contribution;
+    the committee's March 18 statement maintained an easing bias.
+    Hammack was already positioned against that bias.
+  • "Broad-based" inflation (not just tariffs) — Hammack explicitly
+    rejects the dominant look-through framing used by most other
+    voters.
+
+Analyst flag:  NO — consistent with established Hammack position.
+  The March 6 speech shows her stance was unchanged from Feb 10
+  through May 1. Her dissent was well-telegraphed.
+══════════════════════════════════════════════════════════

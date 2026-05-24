@@ -1,0 +1,140 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 19, 2026 (Tuesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Anna Paulson  |  Philadelphia Fed President  |  Just Voter
+     "Navigating Uncertainty: Inflation, Labor Markets, and the
+     Stance of Monetary Policy"
+     Federal Reserve Bank of Atlanta 2026 Financial Markets
+     Conference, Amelia Island, FL
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  ANNA PAULSON  |  Philadelphia Fed President  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP growing at ~2% in Q1 2026, consistent with prior year pace.
+  Business investment is "a bright spot," led by AI infrastructure
+  buildout. Consumption growth has moderated (1.6% real rate in Q1,
+  down from 2.1% in 2025), though she characterizes the overall
+  picture as "resilient." AI demand offsets are cited as sustaining
+  activity despite energy shock headwinds.
+  Direction: neutral — solid pace with noted consumption softening
+
+LABOR MARKET
+  Hard data: unemployment at 4.3%, "stable and consistent with full
+  employment." Low-hiring/low-firing balance described as historically
+  anomalous — the only post-1948 instance of a >1pp unemployment rise
+  outside a recession. Soft data diverges: surveys show rising
+  pessimism, and corporate contacts report growing AI-driven pressure
+  toward layoffs. She holds a benign base case ("labor market will
+  remain stable") but flags AI-driven labor demand reduction as a new
+  downside risk. Labor is explicitly NOT the driver of inflation.
+  Direction: neutral with dovish tail risk flag
+
+INFLATION
+  "Inflation is too high." Headline PCE 3.5%, core 3.2% (March).
+  April data point to continuing pressure from energy and tariffs.
+  Frames both as supply shocks, then formally assesses whether to
+  look through: (1) demand — not materially adding to inflation;
+  (2) expectations — long-run anchored but "watching closely";
+  (3) policy stance — "mildly restrictive" doing the work.
+  Concludes: current stance is appropriate. She exculpates labor
+  from inflation: "continued high inflation does not appear to be
+  driven by labor market pressures." Key concern is expectations
+  fragility given five years of above-target inflation.
+  Direction: hawkish lean — elevated data, expectations flagged
+
+MONETARY POLICY
+  Rate characterization unchanged: "mildly restrictive." Holds are
+  clearly appropriate now: "monetary policy is in a good place."
+  Explicit cut bar: "rate cuts would only become appropriate once we
+  have seen sustained progress on inflation." Most important signal:
+  she explicitly validates market pricing of "scenarios where the
+  funds rate remains unchanged for an extended period, as well as
+  scenarios where further tightening becomes necessary." This is new
+  language — she has not endorsed tightening scenarios before in the
+  2026 corpus. No easing bias language is echoed (compare: she voted
+  for the April 29 easing bias language three weeks ago).
+  Direction: hawkish lean
+
+NET SIGNAL: HAWKISH LEAN — Paulson has modestly escalated from her
+  March 27 pre-FOMC baseline and notably from her April 29 vote
+  posture. The explicit endorsement of tightening scenarios is the
+  key escalation. Rate characterization ("mildly restrictive") and
+  inflation-first cut bar ("sustained progress") are unchanged, but
+  she has now added an explicit upper-tail acknowledgment.
+
+vs. PRIOR SPEECH (March 27, 2026):       HAWKISH — inflation data harder
+  (3.2% core vs. 2.8%); endorses tightening scenarios; more explicit
+  on cut bar. Labor soft data and AI risks are new additions.
+vs. PRE-FOMC SPEECH (March 27, 2026):    HAWKISH — same as above.
+vs. COMMITTEE SINCE FOMC:                Paulson sits with Barkin and
+  Collins (May 13) in the neutral-to-hawkish zone of post-April 29
+  speakers. She is more hawkish than her April 29 vote implied.
+  Logan, Kashkari, Hammack remain more hawkish (dissented). Jefferson
+  and Williams have not spoken since Paulson's May 19 speech.
+
+LANGUAGE TO WATCH:
+  • "rate cuts would only become appropriate once we have seen
+    sustained progress on inflation" — explicit cut bar from the
+    estimated median voter. More restrictive than the April 29 easing
+    bias language she voted for. If Jefferson or Williams adopt this
+    formulation, it confirms committee-level shift.
+  • "scenarios where further tightening becomes necessary" — new
+    from Paulson. Currently DISPERSED (only her; parallels Logan's
+    hawkish framing). Watch for Troika adoption.
+  • "mildly restrictive" — now used by both Paulson and Collins (May 13).
+    Emerging shared descriptor for current rate stance among
+    non-Troika voters.
+
+ANALYST FLAG: YES
+  → Paulson voted for the April 29 easing bias language but now
+    explicitly endorses tightening scenarios and doesn't echo the
+    easing bias. Analyst to assess: Has the effective easing bias
+    already eroded within 3 weeks of the April 29 meeting? And given
+    Paulson's status as estimated median voter, does this shift signal
+    the committee's center of gravity has moved hawkish faster than
+    the statement language suggested?
+
+════════════════════════════════════════════════════════════════
+PENDING — BACKLOG ITEMS REQUIRING SCORING
+────────────────────────────────────────────────────────────────
+Collins May 13: "The U.S. Economy: Resilience Amid Risks and
+  Uncertainty" (Boston Economic Club) — TYPE A, Non Voter. Raw file
+  collected. Not yet scored. High analytical quality.
+
+Goolsbee May 8: Hoover Institution Monetary Policy Conference —
+  STATUS: RAW FILE NOW COLLECTED (transcript retrieved). Not yet
+  scored. HIGH PRIORITY: Waller, Bowman, and Daly also participated.
+
+Barr May 14: "Efficient and Effective Central Banking: Beyond the
+  Balance Sheet" — Type B (balance sheet mechanics). No policy
+  stance signals. Not scored; not required.
+
+Bowman May 14: "Opening Remarks" at Kansas City banking conference
+  — Type B (regulatory). Not scored; not required.
+
+Kashkari May 13: St. Paul Area Chamber Q&A — STUB. No transcript.
+  YouTube search still needed.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Wednesday, May 20, 2026
+────────────────────────────────────────────────────────────────
+  Michael Barr  |  Board Governor  |  Just Voter
+  "Measuring Financial Health"
+  EMERGE Financial Health 2026 Conference, Atlanta, GA
+  → Type B (consumer financial health metrics). No policy content.
+  Next FOMC: June 17–18, 2026  |  Blackout starts: June 6 (17 days)
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Paulson May 19:  https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty [reconstructed]
+
+Prior speech (vs. PRIOR SPEECH):
+  Paulson March 27:  https://www.philadelphiafed.org/the-economy/monetary-policy/260327-macroeconomics-and-monetary-policy-conference
+════════════════════════════════════════════════════════════════

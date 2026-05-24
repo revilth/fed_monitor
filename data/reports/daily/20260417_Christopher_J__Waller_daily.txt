@@ -1,0 +1,96 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════
+2026-04-17  |  Christopher J. Waller  |  Governor  |  Just Voter
+"One Transitory Shock After Another"
+David Kaserman Memorial Lecture, Auburn University, AL
+SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm
+Reference FOMC: March 18, 2026
+════════════════════════════════════════════════════════
+
+LABOR MARKET
+  Waller recalibrates the labor break-even downward: lower immigration
+  means the economy can sustain job growth well below historical norms
+  without the labor market weakening. "I am going to have to get used to
+  payroll numbers that are lower than I am accustomed to seeing in a
+  growing economy." This rejects the dovish narrative that low payrolls
+  signal recession risk. He also flags the consumer confidence downside
+  — record-low Michigan sentiment, demand destruction risk — but treats
+  it as a scenario input, not a current signal.
+  Direction: neutral — recalibrates break-even (mildly hawkish) while
+  acknowledging demand destruction risk (mildly dovish). Net: unchanged.
+
+INFLATION
+  Waller introduces the most important new analytical framework from any
+  voter in 2026: "Learning from that experience [2021-22], I will be
+  cautious when faced with a sequence of transitory shocks. While
+  intellectually it makes sense to look through each shock, with a
+  sequence of shocks, policymakers need to be more vigilant." This
+  explicitly raises the bar for the committee's reflexive "look through"
+  approach — the central pillar of the current holding consensus. He also
+  names the stagflation tail risk (same week as Williams) and invokes the
+  five-year inflation credibility clock. His dovish anchor: underlying
+  inflation ex-tariffs is "running close to 2 percent," so the structural
+  disinflation story is intact.
+  Direction: hawkish — "sequence of shocks" framework is new and goes
+  beyond committee consensus on how to treat stacked transitory shocks.
+
+MONETARY POLICY
+  Waller is the only voter in 2026 to present explicit two-scenario
+  analysis. BENIGN (energy resolves): "I was more inclined toward cuts to
+  support the labor market later this year." ADVERSE (conflict persists):
+  "that may mean maintaining the policy rate at the current target range
+  if the risks to inflation outweigh those to the labor market." The
+  adverse scenario is the most hawkish statement from any voter in 2026:
+  an explicit willingness to hold even if labor weakens, if inflation
+  risks dominate. Note the full arc: Waller dissented at Jan 28 preferring
+  a cut, did not dissent at Mar 18, and now says he would hold through
+  labor weakness in adverse conditions. The energy shock drove this
+  entire shift.
+  Direction: hawkish — goes beyond committee's symmetric dual-risk framing;
+  adverse scenario sets inflation above labor in priority.
+
+NET SIGNAL: NEUTRAL-HAWKISH — most hawkish voter speech since the
+  energy shock began; "sequence of shocks" framework and explicit
+  hold-through-labor-weakness in adverse scenario are new
+
+vs. PRIOR SPEECH (Jan 28 dissent):  HAWKISH — voted for a cut in January;
+  now explicitly willing to hold even if labor weakens. The energy shock
+  accounts for the full reversal in 7 weeks.
+
+vs. PRE-FOMC SPEECH (Feb 23, unscored): Unable to compare directly. Feb 23
+  "Labor Market Data: Signal or Noise?" raw file exists; score it to
+  establish the full pre-FOMC baseline.
+
+vs. COMMITTEE SINCE FOMC:     Waller is at the hawkish end of the Just
+  Voters. His "sequence of transitory shocks" framework is more vigilant
+  than Jefferson's and Williams' "dual risk, well positioned" formula.
+  Cook and Barr share his inflation-first lean but neither went as far as
+  "hold even if labor weakens." Paulson needs 2% inflation before patience
+  is comfortable — a different route to a similar hawkish conclusion.
+  On the dovish side: only Bowman ("moderately restrictive, proactive
+  cuts") and Miran (persistent dissenter) remain clearly pro-cut.
+
+LANGUAGE TO WATCH:
+  • "Sequence of transitory shocks / more vigilant" — the most important
+    new phrase introduced by any voter in 2026. Also appeared in Barkin
+    (Mar 27) as "series of supply shocks" — two officials independently
+    articulating the same framework. This is at the dispersed-to-emerging
+    stage of the language cycle. If Jefferson or Williams adopt it, it
+    becomes committee-wide and would represent a significant hawkish
+    recalibration of the "look through" consensus.
+  • "Hold even if labor weakens" — Waller's explicit adverse-scenario
+    stance. No other voter has gone this far. Track whether it spreads or
+    remains an outlier.
+  • Stagflation scenario (Williams Apr 16 + Waller Apr 17 same week) —
+    two independent namings; watch for it in the April FOMC statement.
+
+ANALYST FLAG: YES
+  → Waller is the critical swing vote to watch. He dissented in Jan (cut),
+    reversed to hold by Mar, and is now explicitly more hawkish than the
+    committee median. Analyst questions: (1) Is Waller an outlier or a
+    leading indicator of where the committee is heading? (2) How does his
+    "sequence of shocks" framework interact with the committee's "tariffs
+    are one-time" consensus — do these two positions conflict? (3) If the
+    energy shock resolves, does his benign-scenario cut signal re-emerge
+    and move markets?
+════════════════════════════════════════════════════════

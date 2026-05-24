@@ -1,0 +1,204 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-13 | Susan M. Collins | Boston Fed President | Non Voter
+"The U.S. Economy: Resilience Amid Risks and Uncertainty"
+Boston Economic Club, Boston, MA
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/the-us-economy-resilience-amid-risks-and-uncertainty.aspx [reconstruct — verify]
+
+CLASSIFICATION: Type A — Full economic outlook speech.
+
+REFERENCE FOMC:    April 29, 2026
+PRE-FOMC BASELINE: March 6, 2026  "Observations on the Economic Outlook, and Small Businesses"
+POST-FOMC PRIOR:   March 6, 2026  (same — first post-Apr29 scored speech)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Recent indicators suggest that economic activity has been
+   expanding at a solid pace." [Apr 29 stmt]
+  → Collins: "real GDP...grew 2 percent at an annual rate in the
+    first quarter of 2026 after advancing at a similar pace last
+    year." Calls growth "resilient" despite supply shocks.
+
+Own language:
+  "Despite a series of still-unfolding supply shocks — including
+   tariffs in 2025 and the oil shock more recently — economic
+   growth has remained resilient."
+  → Offsets named: AI-related fixed investment, household wealth,
+    and the U.S. being a net energy exporter limiting the drag.
+  → Downside risk qualifier: "the longer the conflict persists
+    the greater the likelihood of more substantial negative
+    spillovers."
+
+Shift vs. prior speech:    UNCHANGED — "resilient" framing stable.
+Shift vs. pre-FOMC:        UNCHANGED — same characterization as
+  Mar 6 baseline of solid pace.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, on average, and the unemployment
+   rate has been little changed in recent months." [Apr 29 stmt]
+  → Collins: "the labor market has clearly softened from the
+    overheated conditions of 2023 and 2024, but the unemployment
+    rate remains low by historical standards. At 4.3 percent through
+    April, it has also been relatively stable since mid-2025."
+
+Own verdict:
+  "This situation — low job creation but a stable unemployment
+   rate — largely reflects a slowdown in labor demand and a
+   commensurate decline in labor supply growth, linked to the
+   significant reduction in immigration."
+  → "Unusual balance" framing. Labor demand down, supply down
+    roughly in tandem — the balance preserves low unemployment
+    but is inherently fragile.
+
+Own qualifier / addition:
+  "The unemployment rate has increased notably for college
+   graduates...especially the case for those aged 25 to 34...This
+   is an atypical pattern that could reflect a shift in employers'
+   desired skill mix."
+  → AI-driven skill mismatch flag. New addition vs. March 6.
+    Potential leading indicator of broader labor demand shift.
+
+  "A risk that job-finding challenges could become more widespread."
+  → Explicit downside risk to the "unusual balance."
+
+Shift vs. prior speech:    NEUTRAL — March 6 said "relatively
+  balanced labor market conditions." May 13 adds the AI skill
+  mismatch risk and underlines fragility of the supply-demand
+  balance. Dovish lean at the margin.
+Shift vs. pre-FOMC:        DOVISH LEAN — new labor fragility
+  language not in Mar 6 baseline.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase
+   in global energy prices." [Apr 29 stmt]
+  → Collins: "inflation has been above target for over five years
+    — and has increased recently due to the jump in energy prices."
+    Adds tariff attribution: "ongoing effects of tariffs, especially
+    on goods prices."
+
+Own language — KEY:
+  "I believe it is important to durably return inflation to the
+   FOMC's 2 percent target in a reasonable amount of time."
+  → Clear price stability commitment. "Reasonable amount of time"
+    is her bar — not indefinite patience.
+
+  "More than five years of above-target inflation has reduced my
+   patience for 'looking through' another supply shock."
+  → Explicit look-through fatigue. Five-year duration as the
+    key constraint. This is her version of Waller's "sequence of
+    shocks" reasoning — multiple shocks stacked, patience exhausted.
+    Uses "looking through" in quotes to signal she's aware of the
+    conventional wisdom but declining to fully apply it.
+
+  "Services inflation excluding housing prices...remains above
+   levels consistent with 2 percent inflation. I find this notable
+   because a considerable portion of labor productivity improvements
+   have accrued to the services sector. To me, this suggests that,
+   with relatively solid demand, firms retain pricing power and have
+   less incentive to fully pass efficiency gains on to consumers."
+  → Services inflation persistence explained by pricing power —
+    not tariffs, not energy. This is the non-supply-shock channel.
+    Aligns with the April 29 minutes' staff note on "emergent price
+    pressures in a few categories unrelated to tariffs or energy."
+
+  On tariff pass-through: "my staff estimates that much of the
+   pass-through of tariffs into total inflation, perhaps about 70
+   percent, has already taken place...should wane going forward."
+  → 70% pass-through estimate with fading pressure ahead is
+    constructive for core inflation — partial dovish qualification.
+
+Shift vs. prior speech:    HAWKISH LEAN — March 6 said "second half
+  of the year" for evidence of disinflation progress. May 13 adds
+  explicit look-through fatigue and tightening scenario language.
+  The "five years above target" framing is more hawkish than March 6.
+Shift vs. pre-FOMC:        HAWKISH — March 6 was neutral-patient on
+  inflation. May 13 introduces explicit patience limits.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Easing bias language not echoed. Does not use "additional
+  adjustments" or any forward guidance language from the April 29
+  statement. Consistent with Paulson May 19 in this respect.
+
+Own language — KEY:
+  "It will likely be necessary to maintain the current, slightly
+   restrictive monetary policy stance for some time."
+  → Rate characterization: "slightly restrictive." In March 6 she
+    used "mildly restrictive." "Slightly" and "mildly" are
+    equivalent in her vocabulary — stable characterization.
+
+  "More than five years of above-target inflation has reduced my
+   patience for 'looking through' another supply shock."
+  → The direct policy implication of her inflation framing.
+
+  "While I hope policy normalization can resume late this year,
+   I can also envision a scenario that requires some policy
+   tightening to ensure that inflation returns durably to 2 percent."
+  → TIGHTENING SCENARIO EXPLICITLY NAMED. This is the same
+    escalation seen in Paulson May 19 — both officials now name
+    tightening as a possible outcome, not just extended hold.
+
+  "At the moment, I see monetary policy as well positioned to
+   adjust as needed to evolving economic conditions."
+  → The "well positioned" standard holding formula. The preceding
+    tightening language is the signal; this is the boilerplate exit.
+
+Cut signal status: ABSENT. Policy normalization "late this year"
+  is aspirational, explicitly conditional.
+
+Shift vs. prior speech:    HAWKISH — March 6 had no tightening
+  scenario, no look-through fatigue. May 13 introduces both.
+Shift vs. pre-FOMC:        HAWKISH — clear escalation from Mar 6
+  neutral-patient baseline.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+  The key escalation vs. March 6 baseline is the explicit naming
+  of a tightening scenario — "I can also envision a scenario that
+  requires some policy tightening." This is paired with explicit
+  look-through fatigue ("five years above target has reduced my
+  patience") and an inflation services analysis pointing to
+  non-supply-shock price persistence.
+
+  This puts Collins alongside Paulson (May 19) in explicitly
+  validating tightening scenarios — both non-Troika, both analytical
+  quality, both post-April-29. The convergence is notable: neither
+  echoes the April 29 easing bias language.
+
+Language watch:
+  • "slightly restrictive" — same as Mar 6 "mildly restrictive."
+    Both Paulson and Collins now use this label. Watch for Troika
+    adoption, which would confirm there is no longer meaningful
+    restriction to remove.
+  • "five years above target has reduced my patience for looking
+    through" — look-through fatigue language. First use by Collins.
+    Semantically close to Waller Apr 17 "sequence of transitory
+    shocks." Language cycle stage: EMERGING — Collins + Waller,
+    not yet Troika.
+  • "I can also envision a scenario that requires some policy
+    tightening" — tightening scenario named. Collins + Paulson.
+    Language cycle stage: DISPERSED among non-Troika voters.
+
+Analyst flag:  YES
+  → Collins (non-voter, high analytical quality) and Paulson
+    (voter, estimated median voter) both explicitly name tightening
+    scenarios in the same week. Neither echoes the April 29 easing
+    bias language. This is consistent with the minutes' revelation
+    that "many" participants opposed the easing bias on substance.
+    Together these speeches reinforce the minutes signal: the
+    effective committee bias has moved away from the formal easing
+    bias language within ~2 weeks of the April 29 meeting.
+══════════════════════════════════════════════════════════

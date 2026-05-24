@@ -1,0 +1,25 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-04-14 | Michael S. Barr | Governor | Just Voter
+"Rural Communities: Worth the Investment"
+Strengthening America's Economy through Rural Investment Forum, Washington D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260414a.htm
+
+CLASSIFICATION: Type B — Rural Economic Development speech
+NOT SCORED for monetary policy content.
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Mar 26, 2026  "Brief Remarks on the Economic Outlook and Monetary Policy"
+Post-FOMC prior:   Mar 26, 2026  (same; this is the second post-Mar18 speech)
+──────────────────────────────────────────────────────────
+
+NOTE: This speech covers rural economic development — population
+decline, infrastructure, trade disruptions, AI and data center
+expansion in rural areas. No monetary policy content.
+
+Discard for monetary policy analysis. The relevant Barr speech
+for the post-March 18 period is the Mar 26 scored speech.
+
+ANALYST FLAG: NO
+══════════════════════════════════════════════════════════

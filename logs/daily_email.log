@@ -1,0 +1,3 @@
+2026-05-20 17:42:52,616 INFO Fed Monitor daily email — starting
+2026-05-20 17:42:52,620 INFO Found 1 report(s): ['20260520_daily.txt']
+2026-05-20 17:42:52,835 ERROR Apple Mail send failed: 90:91: syntax error: Expected expression, etc. but found unknown token. (-2741)

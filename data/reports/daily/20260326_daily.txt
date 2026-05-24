@@ -1,0 +1,128 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: March 26, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Philip N. Jefferson  |  Vice Chair  |  Troika
+     "Economic Outlook and Energy Effects"
+     Global Perspectives Speaker Series, Dallas Fed
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260326a.htm
+
+  2. Michael S. Barr  |  Governor  |  Just Voter
+     "Brief Remarks on the Economic Outlook and Monetary Policy"
+     Brookings Institution, Washington D.C.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260326a.htm
+
+  3. Stephen I. Miran  |  Governor  |  Just Voter
+     "Prospects for Shrinking the Fed's Balance Sheet"
+     Economic Club of Miami
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm
+     TYPE: B — Balance sheet / implementation. No economic outlook.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  JEFFERSON  |  Vice Chair  |  Troika
+    [First post-FOMC speech; dual-risk formula introduced]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  2025 GDP ~2%; expects similar or slightly faster pace in 2026.
+  AI investment, business formation, and deregulation as upside.
+  Elevated energy costs could weigh on consumer and business spending
+  if sustained — the key downside risk to growth.
+  Direction: neutral — solid but energy-dependent.
+
+LABOR MARKET
+  Near-verbatim FOMC statement echo: "The unemployment rate has been
+  relatively low and little changed in recent months." Own verdict:
+  "I see the labor market as roughly in balance." NEW addition:
+  "but susceptible to adverse shocks." Also: "risks to my labor
+  market forecast are skewed to the downside."
+  → First use of both "susceptible to adverse shocks" and "skewed
+    to the downside" — important new qualifiers vs. his Feb 6 stance.
+  Direction: mild dovish lean — downside risk flags now explicit.
+
+INFLATION
+  Maintains "tariffs one-time" thesis. NEW: energy shock complicates
+  his prior expectation. "The ongoing trade policy uncertainty and
+  geopolitical tensions pose upside risk to my inflation forecast."
+  → "Upside risk to my inflation forecast" is new personal language —
+    admits his baseline has deteriorated.
+  Direction: slight hawkish lean vs. Feb 6.
+
+MONETARY POLICY
+  "I confront an outlook where there is downside risk to the labor
+  market and upside risk to inflation. I am confident that our
+  current policy stance is well positioned to respond to a range
+  of outcomes." → Dual-risk formula introduced; "well positioned"
+  stable holding formula.
+  Direction: unchanged — patient hold.
+
+NET SIGNAL: NEUTRAL — dual-risk formula established; new labor
+  downside qualifiers and inflation upside acknowledgment
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  BARR  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Economy has continued to grow at a solid pace, supported by
+  resilient consumer spending, substantial productivity growth,
+  and exceptionally strong business investment in AI." Solid.
+  Direction: neutral.
+
+LABOR MARKET
+  "Low levels of hiring likely leave the labor market vulnerable
+  to shocks." Zero labor force growth + zero job creation = balanced
+  but fragile. Vigilance warranted.
+  Direction: neutral with fragility flag.
+
+INFLATION
+  "We have had five years now of inflation at elevated levels, and
+  near-term inflation expectations have risen again, so I am
+  particularly concerned that yet another price shock could increase
+  longer-term inflation expectations. We need to be especially
+  vigilant."
+  → "Five years" credibility clock + "rising near-term expectations"
+    + "especially vigilant" = strongest explicit inflation vigilance
+    language from any Board Governor this cycle.
+  Direction: hawkish lean.
+
+MONETARY POLICY
+  "It makes sense to take some time to assess conditions." Patient hold.
+  Direction: unchanged — hold.
+
+NET SIGNAL: HAWKISH LEAN — credibility clock; expectations concern;
+  "especially vigilant"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  MIRAN  |  Governor  |  Just Voter — TYPE B, NOT SCORED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Balance sheet reduction speech. Monetary policy stance: balance
+sheet reduction warrants lower rates as a tightening offset. His
+second independent argument for cuts (after Jan 14 deregulation
+argument). Dissented again at March 18 (second consecutive).
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — MARCH 26
+  Three officials on the same day; two relevant for policy.
+  Jefferson (Troika): establishes the dual-risk holding formula that
+  will become the committee's stable post-FOMC language.
+  Barr (Just Voter): adds hawkish urgency around expectations and
+  the five-year credibility clock. Together they define the two ends
+  of the committee's inflation concern spectrum: Jefferson's symmetric
+  caution vs. Barr's more urgent vigilance.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Jefferson Mar 26:   https://www.federalreserve.gov/newsevents/speech/jefferson20260326a.htm
+  Barr Mar 26:        https://www.federalreserve.gov/newsevents/speech/barr20260326a.htm
+  Miran Mar 26 (B):   https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm
+Pre-FOMC baselines (vs. PRE-FOMC SPEECH):
+  Jefferson Feb 6:    https://www.federalreserve.gov/newsevents/speech/jefferson20260206a.htm
+  Barr (N/A — baseline established today)
+════════════════════════════════════════════════════════════════

@@ -1,0 +1,155 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-08 | Mary C. Daly | SF Fed President | Non Voter
+"Challenging Conventional Wisdom: Inflation Dashboards and Policy"
+Hoover Institution Annual Monetary Policy Conference — Policy Panel
+Stanford, California
+SOURCE: https://www.youtube.com/watch?v=Utsy1M4SKVc
+
+CLASSIFICATION: Type A (embedded in methodological presentation)
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: No prior scored speech in dataset. This is the
+                   first Daly entry. Cannot run pre-FOMC comparison.
+Post-FOMC prior:   N/A
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Not addressed directly. Context is entirely focused on the inflation
+and policy assessment methodology. No characterization of GDP, consumer
+spending, or investment activity.
+
+Direction: neutral — not addressed.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Not addressed as a standalone section. Referenced in the GFC retrospective
+(2009-2015 natural rate of unemployment debate, CBO estimates, Williams/
+Kocherlakota natural rate disagreement) as a historical case study, not
+a current assessment.
+
+Takeaway from the GFC retrospective: the lesson is that labor market
+flexibility exceeded models' estimates — "you can't make construction
+workers into nurses but construction workers can definitely do other
+things." Applied to today: the same analytical discipline (dashboard +
+multiple indicators + leading/lagging identification) should be applied
+to the current inflation situation.
+
+Direction: neutral — no current labor assessment.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+This is the core of Daly's speech. She presents an inflation dashboard
+methodology and applies it to the current tariff and oil shocks.
+
+FOMC statement language echoed:
+  "Uncertainty about the economic outlook has increased further."
+  [Apr 29 stmt]
+  → Daly version: "How do you resolve the models are our benchmarks... but
+    then history has to be disciplined with the incoming information."
+  → Her methodology IS the committee's uncertainty response made operational.
+
+Own language — TARIFF SHOCK assessment:
+  "Looking at this measure, this dashboard and many others... only a small
+   fraction of that dashboard was showing red or even showing pink. And it
+   was just checking the work of is it really going to be a look through?
+   And you do that and you know we go out and talk to businesses too and
+   ask them about how much they're passing through. But this was the part
+   that made it easier to have more confidence, not complete confidence, but
+   more confidence that looking through was a reasonable strategy to have
+   while you're being watchful that something else might change."
+  → KEY: "more confidence, not complete confidence, that looking through
+    was a reasonable strategy" — qualified endorsement of look-through on
+    tariffs, with explicit watchfulness caveat.
+
+Own language — OIL SHOCK addition (the material shift):
+  "Now we have the oil shock on top of that. And this is, we only have
+   data through April, so there's still more data to watch, but you're
+   starting to see red in the areas that you'd expect."
+  → KEY: "starting to see red in the areas you'd expect" — the dashboard
+    is now flagging concern. The look-through confidence has eroded with
+    the addition of the oil shock.
+
+  "One of the things I'm really keeping an eye on myself is not only the
+   momentum index, but the New York Fed's global supply chain index...
+   if an oil price shock turns out to limit the supply chains and then it
+   takes, we've learned about supply chains is once they get clogged up, it
+   takes a long time to bring them back. And so that's the things that could
+   lead to more persistent pressure on inflation."
+  → Supply chain transmission channel is her key monitoring variable.
+    Explicit mechanism for why the oil shock could become persistent.
+
+  "And this doesn't say you're going to have more persistent inflation. It
+   says you're going to have more persistent inflation pressure."
+  → Careful hedge: pressure ≠ realized persistence. She's not declaring
+    a second inflation episode, but flagging the risk channel.
+
+Scenario framing type: DESCRIPTIVE (not explicit/named). Daly describes
+  the dashboard turning red and names the supply chain transmission channel
+  as a mechanism for persistence, but does not pre-commit to a named policy
+  response in either scenario. Contrast with Waller (Apr 17): BENIGN/ADVERSE
+  with named policy responses = explicit. Daly = descriptive risk language.
+
+Direction: HAWKISH LEAN — tariff look-through endorsed but the oil shock
+  is now causing her dashboard to flash red. The combination is flagged as
+  a risk, not yet a determination.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+No direct cut/hold signal. The policy implication is embedded in the
+dashboard:
+  → If the dashboard stays red (oil shock + supply chain persistence),
+    the inference is that looking through becomes untenable.
+  → If it fades, look-through is reinstated.
+
+The framing is fundamentally watchful and data-dependent without
+pre-commitment. The methodological message is: "Don't just rely on
+conventional wisdom; discipline it with real-time data."
+
+Cut signal status: ABSENT. The oil-shock red flags are moving away
+  from cut-enabling conditions, not toward them.
+
+Shift vs. prior speech: CANNOT ASSESS — no prior scored speech in dataset.
+Shift vs. pre-FOMC:     CANNOT ASSESS — no baseline in dataset.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — tariff look-through endorsed with confidence
+               qualifications; oil shock causing dashboard to flash red;
+               supply chain transmission channel as the key persistence risk.
+               No cut signal; watchful posture.
+
+What makes this speech analytically significant:
+  Daly makes the committee's "watchfulness" language operational. She
+  describes the exact mechanism by which she would shift from "look through"
+  to "respond": the dashboard. The tariff shock passed the look-through test.
+  The oil shock is now marginal — "starting to see red." The supply chain
+  index is her tripwire.
+
+This is the clearest articulation by any official of what would cause the
+committee to abandon the look-through stance: not inflation itself, but the
+supply chain transmission index turning red persistently.
+
+Language watch:
+  • "Starting to see red in areas you'd expect" — dashboard language applied
+    to the oil shock. If this spreads to other officials, it signals the
+    committee's look-through tolerance is eroding.
+  • "More persistent inflation pressure" (vs. "more persistent inflation") —
+    precise distinction that other officials are not drawing explicitly.
+  • NY Fed global supply chain index — her named tripwire. Worth tracking.
+
+Analyst flag: YES
+  → Daly articulates the look-through tripwire more precisely than any other
+    official. Her supply chain mechanism + dashboard methodology could become
+    the analytical framework the committee uses to decide whether to respond
+    to the combined tariff+oil shock. Analyst to assess: does this represent
+    consensus methodology or is it specific to Daly? If Daly and Williams
+    (Troika) are using the same dashboard approach, that is a committee-level
+    signal about what will trigger policy action.
+══════════════════════════════════════════════════════════

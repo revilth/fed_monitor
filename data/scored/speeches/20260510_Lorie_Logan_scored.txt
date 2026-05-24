@@ -1,0 +1,85 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-10 | Lorie Logan | Dallas Fed President | Just Voter
+"Look Up: Remarks at Duke University Economics Department Commencement"
+2026 Duke University Economics Department Commencement, Cameron Indoor
+Stadium, Durham, NC
+SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+
+CLASSIFICATION: Type B — Commencement / personal narrative speech.
+Contains a minimal embedded economic outlook passage (5 sentences,
+2 of which are policy-relevant). Scored for the embedded section only.
+No FOMC statement language cited; no full three-topic structure.
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: February 10, 2026  "Outlook for the Economy
+  and Monetary Policy" (scored)
+Post-FOMC prior:   May 1, 2026  "Statement on FOMC dissent" (scored)
+──────────────────────────────────────────────────────────
+
+EMBEDDED ECONOMIC OUTLOOK (near-verbatim from speech)
+──────────────────────────────────────────────────────────
+"You are graduating into a turbulent economy. War in the Middle East
+ has caused a global energy shock. Artificial intelligence is
+ transforming jobs and industries. Although the labor market is in
+ balance, many employers are slow to hire. Inflation is still too high."
+
+LABOR MARKET
+  "Although the labor market is in balance, many employers are slow
+   to hire." — Two-part statement: overall balance acknowledged
+   (neutral/hawkish), but acknowledges hiring softness as a
+   secondary observation.
+  Comparison to May 1 dissent: "The labor market has been stable,
+   with low unemployment and payroll job gains keeping pace with
+   labor force growth." — Same essential read. "In balance" =
+   "stable." The "employers are slow to hire" nuance is new —
+   acknowledges demand-side softness more explicitly.
+  Direction: NEUTRAL — stable/balanced framing maintained.
+
+Shift vs. May 1 (scored):   UNCHANGED on balance; slight dovish
+  lean in the hiring softness acknowledgment ("slow to hire").
+Shift vs. pre-FOMC (Feb 10): UNCHANGED — Feb 10 established
+  "very close to neutral" on labor; this is consistent.
+
+INFLATION
+  "Inflation is still too high." — Three-word declarative; same
+   hawkish framing as May 1 ("increasingly concerned about how
+   long it will take inflation to return to 2 percent").
+  No additional texture added in this compressed format.
+  Direction: HAWKISH — "still too high" is a harder framing than
+    the committee's "somewhat elevated."
+
+Shift vs. May 1 (scored):   UNCHANGED — consistent hawkish read.
+Shift vs. pre-FOMC (Feb 10): UNCHANGED — Feb 10 established
+  "very close to neutral" as the policy concern; inflation
+  framing consistent.
+
+MONETARY POLICY (embedded, not stated)
+  No explicit policy language. [Inference: The compressed characterization
+  — "turbulent economy," "energy shock," "inflation still too high"
+  — is consistent with Logan's May 1 dissent position: symmetric
+  two-sided policy guidance warranted; no easing bias appropriate.]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    UNCHANGED from May 1 dissent — Logan's 2-sentence
+               embedded outlook in a commencement speech is
+               consistent with her established hawkish stance.
+               "Inflation is still too high" and "labor market is
+               in balance" together reinforce the May 1 dissent
+               rationale. No meaningful new signal; this is
+               confirmation of prior stance, not a shift.
+
+Language watch:
+  • "Employers are slow to hire" — minor new addition; slightly
+    more explicit on the demand-side labor softness than May 1.
+    Watch whether Logan develops this in subsequent speeches.
+  • "Inflation is still too high" — compressed but consistent
+    with "PCE has exceeded 2% for more than five years" from May 1.
+    The commensurable phrase for a commencement audience.
+
+Analyst flag:  NO — commencement venue; minimal policy content.
+  Consistent with established stance. No analyst action needed.
+══════════════════════════════════════════════════════════

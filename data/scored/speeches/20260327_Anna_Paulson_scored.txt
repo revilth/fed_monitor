@@ -1,0 +1,134 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-27 | Anna Paulson | Philadelphia Fed President | Just Voter
+"Monetary Policy and Productivity"
+SF Fed Macroeconomics and Monetary Policy Conference
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/260327-macroeconomics-and-monetary-policy-conference
+
+CLASSIFICATION: Type A — Economic Outlook framed through
+AI/productivity scenario analysis. Scored for monetary policy
+stance and inflation signals.
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Jan 3, 2026  "Thoughts on the U.S. Economy and the Year Ahead"
+  (unscored raw file exists)
+Post-FOMC prior:   N/A (first post-Mar18 scored speech)
+
+⚠ NOTE: Paulson became Philadelphia Fed president before 2026
+(replaced Harker). Her Jan and Mar 2026 speeches are not debut
+speeches — she had prior policy communications.
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Paulson does not directly echo labor statement language.
+    Her speech frames labor through the productivity lens.
+
+Own language:
+  "I see no signs that the labor market is contributing
+   to inflation today."
+  → Dovish on labor-inflation link. Labor not adding pressure.
+
+  "The labor market is very relevant for how I would evaluate
+   a surge in growth...where we are closer to full employment,
+   the calculus is trickier."
+  → Her framework: labor market proximity to full employment
+    affects how much patience she extends on inflation.
+
+Shift vs. pre-FOMC: UNABLE TO ASSESS — pre-FOMC baseline
+  speech is unscored. Establishing as new scored baseline.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Paulson: "Inflation has been above our 2-percent target
+    for six years. While we've made significant progress,
+    inflation is still 2.8 percent, not 2 percent."
+
+Own language — KEY:
+  "If inflation were at the 2-percent target, I would feel
+   more comfortable being patient, keeping monetary policy
+   on hold and waiting to see if a hypothetical growth surge
+   puts upward pressure on inflation. But if inflation is
+   above 2 percent and has been for some time, I would be
+   more cautious."
+  → MOST IMPORTANT SENTENCE. Paulson's explicit inflation-first
+    bar: at 2.8% PCE, she is NOT in the patience zone. She
+    needs 2% before she can comfortably hold through a growth
+    surge without tightening. More restrictive than Jefferson's
+    symmetric dual-risk framing.
+
+  "Long-term inflation expectations are consistent with 2
+   percent, but they may also be a little more fragile."
+  → Unusual qualifier: "a little more fragile" on expectations.
+    All other officials say expectations are "well anchored."
+    This is Paulson's personal note of caution on the dovish
+    anchor that other officials rely on most heavily.
+
+Shift vs. pre-FOMC: ESTABLISHING BASELINE — key finding is
+  that Paulson has a higher inflation bar than the committee
+  median (Jefferson's symmetric framing).
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Well positioned" → Paulson implicitly endorses hold.
+
+Own language — KEY:
+  "We are better able to calibrate monetary policy when we
+   start from a good place."
+  → Her formulation: "a good place" = 2% inflation.
+    Since we're not there, the implicit message is:
+    get to 2% before becoming flexible.
+
+  "Getting inflation to 2 percent and keeping the
+   unemployment rate low creates...credibility and
+   flexibility that help us navigate the future."
+  → Credibility first, flexibility second. Hawkish ordering.
+
+  "My current estimate of longer-run R* is close to the
+   SEP median of 3.1 percent. But I could see that number
+   being revised up, or possibly even down."
+  → Open R* — balanced but leans toward upside revision
+    in the high-productivity scenario. Implies policy may
+    already be close to neutral at some R* estimates.
+
+Cut signal status: ABSENT — explicit inflation-first bar
+  prevents any forward guidance on cuts.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — inflation-first bar, more
+               restrictive than committee median
+
+Directional:   Paulson (assessed as median voter) sets her
+  bar explicitly: 2% inflation before patience is appropriate.
+  At 2.8% PCE, she is in "more cautious" mode. Her "fragile
+  expectations" qualifier is a personal deviation from the
+  committee's "well anchored" boilerplate — a subtle but
+  meaningful signal that she holds the dovish anchor at lower
+  confidence than others.
+
+Language watch:
+  • "If inflation is above 2 percent...I would be more
+    cautious" — her explicit policy rule. Monitor whether
+    this changes as inflation data evolves.
+  • "Expectations may be a little more fragile" — her personal
+    deviation from committee consensus. If others adopt this
+    qualifier, the "well anchored" foundation weakens.
+
+Analyst flag: YES
+  → Paulson is the estimated median voter. Her inflation-first
+    bar (needs 2% before patience is comfortable) sets the
+    effective cut threshold for the committee. Analyst to
+    assess: at what PCE trajectory would Paulson become
+    comfortable with patience — and therefore with cuts?
+══════════════════════════════════════════════════════════

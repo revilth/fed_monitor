@@ -1,0 +1,72 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: February 4, 2026
+Reference FOMC: January 28, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Lisa D. Cook  |  Governor  |  Just Voter
+     "Economic Outlook"
+     Economic Club of Miami, Miami, FL
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260204a.htm
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  COOK  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP rose 4.4% annualized in Q3 2025; full-year growth estimated
+  slightly above 2%. Cook flags a "K-shaped" divergence: wealthy
+  households (stock-market beneficiaries) spending strongly;
+  lower/middle-income households showing rising delinquencies and
+  stagnant spending. "I am carefully watching sentiment, delinquencies,
+  and other indicators that show a worsening outlook for low- and
+  moderate-income households." Strong aggregate, fragile beneath.
+  Direction: neutral — solid headline, flagged distributional concern.
+
+LABOR MARKET
+  "The labor market is roughly in balance, but I am highly attentive
+  to developments, knowing it can shift quickly." Unemployment 4.4%,
+  little changed in H2 2025. Layoffs low; but youth and Black
+  unemployment have risen, and involuntary part-time work jumped.
+  Direction: neutral with downside vigilance.
+
+INFLATION
+  "I see risks as tilted toward higher inflation." Core PCE ~3%,
+  progress stalled. Cook is explicit: she will not ease until she
+  sees sustained evidence of disinflation. "After nearly five years
+  of above-target inflation, it is essential that we maintain our
+  credibility." Credibility clock framing — prolonged inflation
+  raises her hawkish threshold. Anchored expectations are the
+  dovish floor, but she is watching the clock.
+  Direction: hawkish lean — explicit asymmetric risk tilt.
+
+MONETARY POLICY
+  Supported the January 28 hold. "Until I see stronger evidence that
+  inflation is moving sustainably back down to target, that is where
+  my focus will be, in the absence of unexpected changes in the labor
+  market." Inflation-first holding stance; no cut signal.
+  Direction: hawkish lean.
+
+NET SIGNAL: HAWKISH LEAN — inflation-first; credibility-clock framing;
+  no cut signal
+
+vs. PRIOR SPEECH (N/A — first scored speech): Baseline established.
+vs. PRE-FOMC SPEECH (N/A): N/A
+vs. COMMITTEE SINCE FOMC:  At the hawkish end of Just Voters.
+  More inflation-focused than Bowman (dovish); similar to Barr and
+  Paulson (inflation credibility first).
+
+LANGUAGE TO WATCH:
+  • "Risks tilted toward higher inflation" — her asymmetric framing.
+  • "Five years of above-target inflation" — credibility clock. Track
+    if this appears across multiple officials (it later does).
+
+ANALYST FLAG: NO
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Cook Feb 4:    https://www.federalreserve.gov/newsevents/speech/cook20260204a.htm
+════════════════════════════════════════════════════════════════

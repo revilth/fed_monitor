@@ -1,0 +1,98 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-14 | Anna Paulson | Philadelphia Fed President | Just Voter
+"Economic Trends and Opportunities for Philadelphia"
+Chamber of Commerce for Greater Philadelphia: State of the Economy
+Event, Philadelphia, PA
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/economic-trends-and-opportunities-for-philadelphia
+
+CLASSIFICATION: Type A — Economic Outlook. Near-identical to the
+Jan 3, 2026 ASSA speech, with updated December data and a Philadelphia-
+specific section (not scored). Same three-section structure.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: January 3, 2026  "Thoughts on the U.S. Economy
+  and the Year Ahead" (scored — this is the immediately prior speech)
+Post-FOMC prior:   N/A — pre-Jan-28 FOMC speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+Own language:
+  Near-verbatim restatement of the Jan 3 speech. Core additional
+  data point: "Preliminary data point to strong growth in the fourth
+  quarter as well." — Modestly upgrades the growth view from Jan 3.
+  "GDP and labor market signals are in conflict; the labor market
+   signal turns out to be more accurate." — Same analytical framing.
+  Income/savings/consumption divergence noted — same as Jan 3.
+
+Direction: NEUTRAL (unchanged from Jan 3).
+
+Shift vs. prior speech (Jan 3): UNCHANGED — same framing; Q4 data
+  reference is a minor upgrade.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "Nearly 95 percent of net private job creation in 2025 occurred
+   in a single sector: healthcare and social assistance." —
+   Data update: 95% (vs. "90 percent through November" in Jan 3).
+   Full-year figure slightly worse. Consistent with Barkin/Waller.
+  "Unemployment rate up to 4.4 percent in December." — Updated
+   from 4.6% in November. Unemployment improved slightly.
+  "Bending but not breaking" — same verdict.
+  "Labor market risks have risen." — Same.
+
+Direction: NEUTRAL-DOVISH (unchanged from Jan 3).
+
+Shift vs. prior (Jan 3): UNCHANGED — unemployment improved
+  (4.6%→4.4%) but job concentration worsened (90%→95%).
+  Net: no directional change.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language:
+  Near-verbatim restatement of Jan 3: "cautious optimism."
+  "Yesterday's CPI inflation release for December doesn't change
+   my assessment." — Explicit confirmation that new data doesn't
+   alter her view.
+  Same components: goods (tariff shift), services ex-shelter
+  (declining), shelter (unambiguously good).
+  "Decent chance we end year with inflation close to 2 percent
+   on a run-rate basis." — Same target.
+
+Direction: DOVISH (unchanged from Jan 3).
+
+Shift vs. prior (Jan 3): UNCHANGED — December CPI explicitly
+  confirmed not to change her assessment.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "I view the current level of the funds rate as still a little
+   restrictive." — Same as Jan 3. No change.
+  "Some modest further adjustments to the funds rate would likely
+   be appropriate later in the year." — Same conditional cut signal.
+  1990s AI productivity parallel — same as Jan 3.
+  "Arguments against tighter monetary policy." — Same.
+
+Cut signal status: PRESENT (conditional) — same as Jan 3.
+
+Shift vs. prior (Jan 3): UNCHANGED — identical policy framing;
+  December CPI data confirmed her prior outlook.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    UNCHANGED from Jan 3 — this is a data-confirmation
+               speech; no new signals. Paulson confirmed her Jan 3
+               stance explicitly ("doesn't change my assessment").
+               Pre-FOMC baseline status: Jan 14 is Paulson's most
+               recent economic outlook before the Jan 28-29 FOMC.
+
+Analyst flag:  NO — data confirmation. See Jan 3 for the analytical
+  baseline.
+══════════════════════════════════════════════════════════

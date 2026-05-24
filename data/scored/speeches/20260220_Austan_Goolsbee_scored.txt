@@ -1,0 +1,20 @@
+══════════════════════════════════════════════════════════
+TYPE B — NOT SCORED FOR POLICY CONTENT
+══════════════════════════════════════════════════════════
+2026-02-19 | Austan Goolsbee | Chicago Fed President | Non Voter
+"2026 Joint Conference on Financial Crises — Fireside Chat with Gita Gopinath"
+Chicago Fed / Yale University Program on Financial Stability, Chicago
+SOURCE: https://www.youtube.com/watch?v=KF6S06rek_Y
+NOTE: Speech date Feb 19; YouTube file saved as Feb 20.
+
+CLASSIFICATION: Type B — International economics / global imbalances /
+  dollar stability. Goolsbee serves as moderator for the Gopinath
+  fireside chat; the discussion covers global imbalances, WTO origins,
+  dollar dominance, stablecoins, and IMF crisis management.
+
+No US monetary policy stance signals from Goolsbee. The content
+reflects his academic background and Chicago Fed's research focus,
+not his personal policy views on rates.
+
+Raw file: 20260220_2026_Joint_Conference_on_Financial_Crises.txt
+══════════════════════════════════════════════════════════

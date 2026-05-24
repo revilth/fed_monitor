@@ -1,0 +1,88 @@
+Speech
+The Cosmos
+April 16, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the Federal Home Loan Bank of New York 2026 Member Symposium, New York City
+As prepared for delivery
+Introduction
+Good morning. It’s great  to be here today. I last spoke at this event two years ago, just a few days after  a total solar eclipse. Today, I’m here less than a week after the conclusion of  the Artemis II moon voyage. Perhaps it has something to do with the cosmos.
+Now, many of you may  find this surprising, but there are some similarities between the Federal Open  Market Committee (FOMC) and the Artemis crew. Both are mission-focused. Both have  scheduled blackout periods—although ours are not nearly as nerve-racking. And  just as astronauts travel through competing gravitational forces to circle the dark  side of the moon, the FOMC navigates through uncertainty as it balances the  risks to achieving its dual mandate goals of maximum employment and price  stability.
+Today I’m going to talk about  those goals, the uncertainty, and the current stance of monetary policy. I’ll  also give my economic outlook.
+Before I do, I must give  the standard Fed disclaimer that the views I express today are mine alone and  do not necessarily reflect those of the FOMC or others in the Federal Reserve  System.
+Heightened Uncertainty and Unusual  Dynamics
+Right now, the No. 1  topic related to the economy is the Middle East conflict, which has introduced substantial  risks and heightened uncertainty. This is an area I’m watching closely, and  I’ll discuss its implications in a bit. But first, I want to set the stage by  talking about where the regional and national economies have been and where they  are today.
+Over the past year, the economies  of the New York metro area and the U.S. have been resilient to uncertainty from  a number of sources, including trade and other government policies. Consumer  spending has been solid, and business investment strong.
+Meanwhile, the regional  housing market has stood in contrast to a sluggish national one. Demand across  the New York-New Jersey region has remained robust amid exceptionally low home  inventories. And home price appreciation in recent years has been quite strong,  with prices rising substantially faster compared to the nation as a whole.
+Rents have also risen faster  in the New York-Northern New Jersey region than they have nationally. One  factor undoubtedly supporting this housing demand is the return of workers to  the office. This dynamic can be seen in transit ridership, which has rebounded to  about 80 percent of pre-pandemic levels for the subway and 90 percent for key  commuter rails. Those are big increases from just a few years ago.
+Against this backdrop, the  Middle East conflict has intensified the uncertainty around our local, regional,  and national economies. At the same time, economic data are showing some unusual  dynamics in the form of mixed signals coming from the labor market and  crosscurrents in inflation.
+Like astronauts,  economists love to collect and study data. So, I’m going to spend some time  digging a little deeper into the economic data, starting with the employment  side of the Fed’s dual mandate.
+Mixed Signals
+Lately, the labor market  has been displaying conflicting signs. In recent months, much of the hard data point  to a stabilization in the balance between supply and demand, while some of the  soft data suggest a labor market that continues to gradually soften.
+Let’s take the hard data  first. At 4.3 percent, the unemployment rate has changed little since July of  last year. Similarly, other measures—including payroll growth, unemployment  insurance claims, and the New York Fed’s Labor Market Tightness Index, which  measures how difficult it is for businesses to find workers
+1
+—are not pointing to a  change in direction in overall labor market conditions.
+What all of this means  is that it’s a reasonably good labor market if you have steady employment. But in  a low-hire, low-fire labor market, it’s not so good if you are looking for a  job or worried you may need one soon. The low hiring rate, along with an  increase in long-term unemployment, may be contributing to a somewhat more  pessimistic perception among households than other indicators of the labor  market suggest.
+We can see this pattern in  perceptions of jobs availability published by the Conference Board and job-finding  expectations reported in the New York Fed’s Survey of Consumer Expectations,  both of which have continued to trend downward.
+2
+In particular, the New  York Fed’s survey measure may foreshadow a further decline in job-finding rates  in coming months. These and other labor market indicators bear continued  monitoring.
+Crosscurrents
+While labor market data  are sending mixed signals, the price stability side of the Fed’s mandate is  displaying some unusual crosscurrents, too.
+The FOMC defines prices  stability as 2 percent inflation. As of February, before the start of the  Middle East conflict, overall inflation—as measured by the Personal Consumption  Expenditures price index—was 2.8 percent. Higher tariffs have contributed between  one half and three quarters of a percentage point to that figure.
+Over the next few  quarters, the effects of tariffs on the inflation rate should begin to wane,  creating some downward momentum in core inflation. At the same time, developments  in the Middle East are driving significant increases in energy prices, which are  already lifting overall inflation. Assuming energy supply disruptions ease  reasonably soon, energy prices should come down, and these effects should  partially reverse later this year.
+However, the conflict  could also result in a large supply shock with pronounced effects that  simultaneously raises inflation—through a surge in intermediate costs and  commodity prices—and dampens economic activity. This has begun to play out  already. While the data have not pointed to significant broad-based  supply-chain bottlenecks yet, we are seeing increasing disruptions related to  the supply of energy and related goods.
+3
+Not only are elevated energy  prices showing up in the rising cost of fuel, but there are also pass-through  costs in the form of higher airfares, groceries, fertilizer, and other consumer  products.
+Despite these  uncertainties, there are some positive trends. There are still no signs of  significant second-round effects from tariffs spilling over to the rest of the  economy. Underlying inflation excluding imported goods has been moving in the  right direction. And, according to the New York Fed’s Labor Market Tightness  Index and confirmed by the data on wage growth, there are no indications that the  labor market is adding to inflation pressures.
+In addition, survey- and  market-based measures of inflation expectations—including those from the New  York Fed’s Survey of Consumer Expectations—remain well anchored. The most  recent readings show that while short-term inflation expectations have risen  since the onset of the conflict—reflecting higher energy prices—medium and longer-term  expectations remain at levels consistent with the FOMC’s 2 percent longer-run inflation  goal. I pay close attention to inflation expectations, because well-anchored  expectations have proven to be invaluable to ensuring price stability during unexpected  shocks and extreme uncertainty.
+Monetary Policy and the Economic  Outlook
+This is an unusual set  of circumstances, but the current stance of monetary policy is well positioned  to balance the risks to our maximum employment and price stability goals.  Accordingly, at its meeting in March, the FOMC decided to maintain the target  range for the federal funds rate at 3-1/2 to 3-3/4 percent.
+4
+The economic outlook  remains highly uncertain, particularly due to the effects of the Middle East  conflict. But given what we know now, I expect real GDP growth to be between 2  and 2-1/2 percent this year. My forecast reflects a balance between factors  supporting growth—such as tailwinds from fiscal policy, favorable financial  conditions, and investment in AI—and those damping spending, including higher  energy prices and uncertainty. With growth running close to trend, I anticipate  the unemployment rate will remain in its recent range of 4-1/4 to 4-1/2 percent.  And I expect overall inflation to come in between 2-3/4 and 3 percent this  year—reflecting the effects of energy price increases—and then reach our 2  percent longer-run target in 2027 as the effects of tariffs and energy prices  fade.
+The Balance Sheet
+Before I wrap up, I’d  like to say a few words about the Fed’s balance sheet. The FOMC operates in an  ample reserves framework, where interest rate control is exercised primarily  through administered rates, and the active management of reserves is not  required.
+5
+The system has proven to  work very well and to be flexible as the environment changes. We are well positioned  to manage shifts in demand for reserves and other Federal Reserve liabilities that  result from changes in the banking system—whether that’s due to regulations,  financial sector innovations, or seasonal fluctuations, such as those driven by  tax payments. This helps ensure the safety and soundness of the financial  system.
+Determining when  reserves are ample is an inexact science—and of course, relies on data. I will  continue to closely monitor a variety of market indicators related to the fed  funds market, repo market, and payments to help assess the state of reserve  demand conditions.
+Conclusion
+The inflation  crosscurrents, mixed messages from the labor market, and heightened uncertainty  from the Middle East conflict create gravitational forces that define the  economic environment we face today. One thing that is certain is my unwavering  commitment to supporting maximum employment and bringing inflation to our 2  percent longer-run goal on a sustained basis.
+As with the Artemis  mission, it’s the safe return home that’s essential. In assessing the future  path of monetary policy, my views, as always, will be based on the evolution of  the totality of the data, the economic outlook, and the balance of risks to the  achievement of our maximum employment and price stability goals.
+1
+Federal Reserve Bank of New  York,
+Heise, Pearce, Weber (HPW) Labor Market  Tightness Index
+(February 2026).
+2
+Federal Reserve Bank of New  York,
+Survey of Consumer Expectations
+(March 2026).
+3
+Federal Reserve Bank of New York,
+Global Supply Chain Pressure Index
+, March 2026.
+4
+Board of Governors of the Federal  Reserve System,
+Federal Reserve  issues FOMC statement
+,  March 18, 2026.
+5
+Board of Governors of the Federal  Reserve System,
+Statement Regarding Monetary  Policy Implementation and Balance Sheet Normalization
+, January 30, 2019.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map

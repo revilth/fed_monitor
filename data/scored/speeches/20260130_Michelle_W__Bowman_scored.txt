@@ -1,0 +1,184 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-30 | Michelle W. Bowman | Vice Chair for Supervision | Just Voter
+"Outlook for the Economy and Monetary Policy"
+SW Graduate School of Banking at SMU Cox: 161st Assembly for Bank
+Directors, Oahu, Hawaii (January 30, 2026)
+SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260130a.htm
+
+CLASSIFICATION: Type A — Economic Outlook with post-FOMC vote
+explanation. Delivered 48 hours after the Jan 28-29, 2026 FOMC
+meeting (hold at 3.50–3.75%). Unusual structure: leads with vote
+explanation, then economic conditions, then policy outlook.
+
+Reference FOMC:    January 28–29, 2026 (hold; 3.50–3.75%)
+Pre-FOMC baseline: January 16, 2026 (referenced in footnote 2:
+  "Outlook for the Economy and Monetary Policy," New England Forum)
+  [NOTE: Pre-FOMC baseline is the Jan 16 Bowman speech, which is
+  listed as an unscored raw file — not yet scored in this corpus]
+Post-FOMC prior:   N/A — first post-Jan-FOMC Bowman speech
+──────────────────────────────────────────────────────────
+
+FOMC VOTE EXPLANATION
+──────────────────────────────────────────────────────────
+"My colleagues and I voted to hold the federal funds rate target
+ range at 3-1/2 to 3-3/4 percent."
+Voted to hold, not cut. Her reasoning:
+  (1) "Some signs of stabilization" in labor → merits a pause.
+  (2) Data quality impaired by government shutdown — "reluctant
+      to take meaningful signal from the latest data."
+  (3) By the March meeting, two more inflation and employment
+      reports will be available.
+  (4) Inflation "remains somewhat elevated" — adds a slight hawkish
+      counterweight to her dovish labor framing.
+
+Counter-factual (what she considered): "I could have voted in favor
+  of continuing to remove policy restraint in order to hedge more
+  against the risk of further labor market deterioration." —
+  She explicitly considered cutting and chose not to.
+
+SEP disclosure: "My SEP includes three cuts for this year." —
+  CRITICAL: The most dovish Just Voter's own projection is 3 cuts
+  in 2026. This is the baseline against which her subsequent
+  speeches should be measured. [ANALYST NOTE: This is a board
+  governor disclosing her own SEP dot, which is unusual in its
+  specificity.]
+
+──────────────────────────────────────────────────────────
+GROWTH
+──────────────────────────────────────────────────────────
+Own language:
+  "The U.S. economy has been resilient and has continued to expand
+   at a solid pace." — Standard consensus language.
+  "GDP growth strengthened in Q3... likely slowed in Q4, reflecting
+   the government shutdown and softer momentum in consumer spending."
+  "Residential investment seems on track to decline again in Q4."
+  → Mixed: Q3 strong, Q4 pulling back. Consistent with consumption
+    running ahead of income (echoes Paulson Jan 3).
+
+Direction: NEUTRAL — acknowledges deceleration but not alarmed.
+
+Shift vs. pre-FOMC (Jan 16): [NOTE: Jan 16 speech not yet scored;
+  Bowman says her views "have not changed appreciably" since Jan 16,
+  so the Jan 16 baseline is essentially the same as this speech.]
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "The labor market has become increasingly fragile over the past
+   year and could continue to deteriorate in the near term." —
+  MOST DOVISH LABOR FRAMING of any voter in the early 2026 corpus.
+  "Fragile" is more alarming than Jefferson's "downside risks have
+  risen" or Williams' "cooling but not deteriorating."
+
+Key data points:
+  "Private payroll employment growth slowed further to about 30,000
+   per month in Q4." — Extremely weak; well below breakeven.
+  "Conference Board job availability index dropped sharply in January
+   to its lowest value since early 2021." — Leading indicator of
+   further weakness.
+  "We could see layoffs rise quickly if firms begin to reassess
+   their staffing needs in response to weaker activity." —
+   Non-linear risk of rapid deterioration from a fragile state.
+  "News of significant additional layoffs in January, as we heard
+   this week from two large employers." — Timely data signal.
+
+Own qualifier / addition:
+  "History tells us that the labor market can appear to be stable
+   right up until it isn't." — Systemic fragility argument; warning
+   against complacency from stable initial claims data.
+
+Direction: DOVISH — most dovish labor market characterization
+  of any voter in early 2026.
+
+Shift vs. pre-FOMC: [Jan 16 not scored; self-reported "no change"]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "After removing these [tariff] effects, core PCE inflation would
+   have hovered close to 2 percent in recent months." — Most
+   explicit use of tariff-adjusted inflation measure: underlying
+   inflation IS at target.
+  "12-month core PCE likely stood at or a little below 3 percent
+   in December." — Acknowledges elevated headline.
+  "The discrepancy... reflects increased volatility in the recent
+   data, with unusually large price increases in small categories."
+   — Attributes headline elevation to measurement noise.
+  "I am confident that inflation will come down toward 2 percent
+   as tariff effects on goods inflation continue to wane." —
+   HIGH CONFIDENCE forward statement; no qualification.
+
+Direction: DOVISH — tariff-adjusted inflation at target already;
+  confidence in disinflation path.
+
+Shift vs. pre-FOMC: [Jan 16 not scored; self-reported "no change"]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "I continue to see policy as moderately restrictive." —
+  DOVISH relative to Troika ("at/near neutral") and consistent
+  with Paulson ("still a little restrictive"). Bowman's neutral
+  rate estimate is above the current rate.
+  "Absent a clear and sustained improvement in labor market
+   conditions, we should be ready to adjust policy to bring it
+   closer to neutral." — ACTIVE CUT ADVOCACY. The bar for action
+   is absence of labor improvement, not a positive cut trigger.
+   Much lower cut threshold than Troika language.
+  "We should not imply that we expect to maintain the current
+   stance of policy for an extended period of time." — Pushes
+   back against any "higher for longer" narrative.
+  "We should not immediately react if we see inflation go up in
+   January." — Pre-emptive dovish guidance on Q1 volatility.
+  "We should not rely on [Q1] data as a reason to delay policy
+   action if we see a sudden and significant deterioration in
+   labor market conditions." — Asymmetric reaction function:
+   do not use January data to delay cuts, but act if labor worsens.
+
+Cut signal status: ACTIVE — both a conditional cut signal
+  ("absent improvement, ready to adjust") and a SEP projection
+  of 3 cuts in 2026.
+
+Shift vs. pre-FOMC (Jan 16): [Not scored; Bowman self-reports
+  no change in views]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH — most dovish Just Voter speech of early 2026.
+               Bowman's combination of: (1) "fragile" labor market
+               characterization, (2) tariff-adjusted inflation at
+               target already, (3) "moderately restrictive" rate
+               assessment, (4) SEP projecting 3 cuts, and (5) active
+               cut advocacy framing makes her the clearest cut advocate
+               among voters in January 2026. Her key risk framing:
+               labor deterioration is the primary risk, not inflation.
+
+Language watch:
+  • "Fragile" labor — unique and alarming word; no Troika member
+    uses this word. If this spreads to Jefferson or Williams, it
+    signals a major dovish shift.
+  • "Moderately restrictive" (vs. Troika's "at/near neutral") —
+    Bowman sees more restriction to remove than the Troika;
+    her neutral rate estimate is higher.
+  • "Three cuts in 2026" — explicit SEP dot disclosure; the most
+    specific forward guidance any voter has given in 2026.
+  • "Absent improvement... ready to adjust" — her cut trigger is
+    absence of labor improvement (passive), not active labor
+    deterioration. Very low bar for cuts.
+
+Analyst flag:  YES
+  → Bowman disclosed her SEP: 3 cuts in 2026. This is the most
+    specific forward projection from any voter. Post-Iran conflict
+    (from May 1, 2026), her SEP projection is almost certainly
+    inoperative — the hawkish dissenters' scenario framing implies
+    the 3-cut path has been abandoned. Analyst to assess: has Bowman
+    updated her views in any subsequent speech, or is she still
+    effectively silent (no economic outlook speech post-Jan 30)?
+    Her May 1/5/8 speeches are all regulatory Type B.
+══════════════════════════════════════════════════════════

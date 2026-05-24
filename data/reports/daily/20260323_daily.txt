@@ -1,0 +1,101 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: March 23, 2026
+Reference FOMC: March 18, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "CNBC Squawk Box Interview" (with Steve Liesman)
+     CNBC Television
+     SOURCE: https://www.youtube.com/watch?v=bIUk-c2vXmQ
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
+    [First post-FOMC appearance; confirms Dec 2025 dissent]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Not addressed explicitly. Context is entirely the energy/inflation
+  outlook. Direction: neutral.
+
+LABOR MARKET
+  Unemployment stable; rate-based measures (unemployment, layoff,
+  vacancy) at levels "closer to full employment than we are on the
+  inflation side." Key statement: "At the moment I think the
+  inflation's got to be a little ahead of the employment."
+  → Explicit asymmetric ranking: inflation takes priority over labor
+    in his current framework. Goes beyond committee's "dual risk."
+  Direction: neutral on labor data; hawkish on priority ranking.
+
+INFLATION
+  "We stopped making progress on the inflation front and at best it
+  stalled out and started inching its way back up. So we've been
+  waiting for that to have proved transitory to have gone away and
+  to pile a new inflation shock on top of this before that one has
+  left the scene. This is going to be a tough moment."
+  → Cumulative-shocks framing: prior inflation still elevated +
+    new energy shock = compounding problem. Consistent with his
+    Mar 7 stagflation naming.
+  "The price of gasoline specifically has a very high impact on
+  individuals' expectations of what inflation is going to be over
+  the next year." → Gasoline → expectations transmission as his
+  specific mechanism for contagion concern.
+  Direction: hawkish — cumulative shocks; expectations vulnerability.
+
+MONETARY POLICY
+  Discloses December 2025 dissent (voted against the Dec cut):
+  "I dissented at the last meeting of the year because we did not
+  have the data to show that inflation was going away." His hawkish
+  lean in 2026 predates the energy shock — it is not solely a
+  reaction to recent events.
+  "I remained fairly optimistic that by the end of 26 rates could
+  go down, but I wanted to see proof that we're back on an inflation
+  headed to 2%. This definitely throws a wrench into the plans."
+  → End-2026 cut timeline now under threat.
+  Direction: hawkish — explicit inflation-first; prior dissenter;
+  end-2026 cuts conditional and threatened.
+
+NET SIGNAL: HAWKISH — inflation > labor explicitly; Dec 2025
+  dissent confirmed; end-2026 cut timeline under pressure
+
+vs. PRIOR SPEECH (Mar 7 Bloomberg):  HAWKISH — Mar 7 named
+  stagflation; Mar 23 adds explicit inflation > labor ranking
+  and cumulative-shocks framing. Each interview has added a layer.
+vs. PRE-FOMC SPEECH (Mar 7):  Same — Mar 7 is the pre-FOMC baseline.
+vs. COMMITTEE SINCE FOMC:  Goolsbee is the most hawkish Non Voter
+  on record since the March 18 FOMC. More explicit on inflation-
+  over-labor than any voting committee member except Waller. His
+  December 2025 dissent confirms this is not a new development —
+  he has been inflation-first for months. Note: as a Non Voter,
+  his hawkish framing is informative but does not directly affect
+  the vote count.
+
+LANGUAGE TO WATCH:
+  • "Inflation's got to be a little ahead of the employment" — his
+    explicit asymmetric ranking. First such clear statement from any
+    official post-March 18. Note: Goolsbee is a Non Voter, but this
+    phrasing tracks if it migrates to voters.
+  • "Pile a new inflation shock on top of the old one" — cumulative
+    framing independently developing alongside Barkin's "series of
+    shocks" (Mar 27) and Powell's Harvard abstract (Mar 30).
+  • Gasoline → expectations link — specific mechanism; track if
+    other officials start citing it.
+
+ANALYST FLAG: YES
+  → Goolsbee's December 2025 dissent (voting against a cut) reframes
+    his entire 2026 trajectory. He was not turned hawkish by the
+    energy shock — he was already hawkish. The energy shock has
+    amplified a pre-existing view. Analyst to assess: does the
+    committee treat Goolsbee as a hawkish outlier or as a bellwether?
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee CNBC Mar 23:    https://www.youtube.com/watch?v=bIUk-c2vXmQ
+Prior speech (vs. PRIOR SPEECH):
+  Goolsbee Bloomberg Mar 7: https://www.youtube.com/watch?v=kBjzS1rohlE
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Goolsbee Bloomberg Mar 7: https://www.youtube.com/watch?v=kBjzS1rohlE
+════════════════════════════════════════════════════════════════

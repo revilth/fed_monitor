@@ -1,0 +1,136 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-30 | Christopher J. Waller | Fed Governor | Just Voter
+"Statement by Governor Christopher J. Waller" (Dissent)
+Federal Reserve Board (published Jan 30, 2026, re: Jan 28-29 FOMC vote)
+SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260130b.htm
+
+CLASSIFICATION: Type A (embedded) — Dissent statement with full
+economic rationale. Waller dissented at the Jan 28-29, 2026 FOMC
+meeting IN FAVOR of a 25bp cut. The committee voted to hold at
+3.50–3.75%.
+
+Reference FOMC:    January 28–29, 2026
+Pre-FOMC baseline: [No prior 2026 Waller economic outlook scored;
+  last scored Waller speech is 20260223_Christopher_J__Waller
+  (post-FOMC) — this is his baseline and it is later in time;
+  prior scored file is 20260421_Christopher_J__Waller_scored]
+Post-FOMC prior:   N/A — first post-Jan-FOMC Waller speech;
+  pre-Iran-conflict January baseline
+──────────────────────────────────────────────────────────
+
+NOTE — CRITICAL ARC: This dissent establishes Waller's January 2026
+baseline as DOVISH/pro-cut. By Apr 17, he gave the most hawkish
+voter speech of 2026. Understanding his Jan 30 baseline is essential
+for measuring the magnitude of that reversal.
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict (CRITICAL):
+  "Payrolls increased just under 600,000 for 2025. And, last year's
+   data will be revised downward soon to likely show that there was
+   virtually no growth in payroll employment in 2025. Zero. Zip. Nada."
+  → The most dramatic labor characterization of any voter in early
+    2026. Waller is explicitly saying job creation was effectively ZERO
+    in 2025.
+  "Zero job growth versus an average of almost 2 million for the
+   10 years prior to 2025. This does not remotely look like a
+   healthy labor market." — Blunt; no softening language.
+  "Employers are reluctant to fire workers, but also very reluctant
+   to hire. I have heard in multiple outreach meetings of planned
+   layoffs in 2026." — Qualitative intelligence: layoff risk rising.
+  "A substantial deterioration in the labor market is a significant
+   risk." — Explicit risk language.
+
+Direction: DOVISH — most alarming labor characterization of any
+  voter at any point in early 2026. Even Bowman's "fragile" framing
+  is less explicit than Waller's "zero job growth."
+
+Shift vs. pre-FOMC: [N/A — no prior 2026 scored Waller speech]
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language:
+  "Though inflation is elevated from tariff effects, appropriate
+   monetary policy is to 'look through' these effects as long as
+   inflation expectations are anchored, which they are." —
+   DOVISH: explicit look-through endorsement with a qualification
+   (anchored expectations).
+  "Inflation excluding tariff effects is running close to the FOMC's
+   2 percent target and on a path to sustainably reach that goal."
+  "Total inflation excluding tariff effects [is] just slightly above
+   2 percent." — Adjusted measure used to argue for the cut.
+
+Direction: DOVISH — tariff-adjusted inflation at or near target;
+  look-through endorsed.
+
+Shift vs. pre-FOMC: [N/A]
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "Three cuts to the policy rate last year have moved it closer to
+   a neutral setting but monetary policy is still restricting
+   economic activity." — RESTRICTION framing; rates not yet at
+   neutral; more cuts needed.
+  "The policy rate should be closer to neutral, which the median
+   FOMC participant estimates is 3 percent, and not where we are —
+   50 to 75 basis points above 3 percent." — Explicit neutral rate
+   benchmark: 3%. At 3.5–3.75%, Waller sees 50–75bps of restriction
+   remaining. This neutral rate estimate is LOWER than what
+   Jefferson implies ("at neutral" at ~3.5%) and near what Bowman
+   implies ("moderately restrictive").
+  "I favored reducing the policy rate to strengthen the labor market
+   and guard against a deterioration that would be harder to address
+   once it has begun." — Pre-emptive cut logic; asymmetric response
+   to labor risk.
+
+Cut signal status: ACTIVE — just dissented in favor of a cut;
+  most explicit cut advocate of any voter in Jan 2026.
+
+Shift vs. pre-FOMC: [N/A]
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH — most dovish voter speech of early 2026.
+               Waller's "zero job growth" characterization and active
+               cut dissent establish the most explicit dovish baseline
+               of any voter. His neutral rate estimate (3%) implies
+               more restriction remaining than most other voters.
+
+CRITICAL CALIBRATION NOTE: This Jan 30 baseline is essential for
+  interpreting Waller's subsequent trajectory:
+  → Feb 23 "Labor Market: Signal or Noise?": Shifts to "coin flip"
+    on labor; still endorses look-through. (Already scored.)
+  → Apr 17: Introduces "sequence of transitory shocks" — rejects
+    the reflexive look-through; explicitly willing to hold even if
+    labor weakens. (Already scored.)
+  → The Iran conflict + February jobs disappointment drove the
+    largest single-voter reversal in the 2026 corpus: from
+    "zero job growth, cut now" to "sequence of shocks, hold even
+    if labor weakens."
+
+Language watch:
+  • "Zero. Zip. Nada." — vivid labor characterization; no other
+    voter matches this bluntness in early 2026. Track whether
+    Waller revisits this framing after labor improves.
+  • Neutral rate at 3% — Waller's explicit estimate; lower than
+    implied by Jefferson/Williams. This is the fulcrum of his
+    cut argument.
+  • "Still restricting economic activity" — restriction framing;
+    will be completely reversed by Apr 17 when he says hold even
+    if labor weakens.
+
+Analyst flag:  YES
+  → The reversal from this statement to the Apr 17 speech is the
+    single largest stance shift of any voter in the 2026 corpus.
+    Analyst to assess: was the reversal primarily driven by (1) the
+    Iran energy conflict, (2) the late-February energy shock, or
+    (3) improved February labor data? The Feb 23 speech is the
+    transition point; reading the chain Jan 30 → Feb 23 → Apr 17
+    is essential for calibrating Waller's reaction function.
+══════════════════════════════════════════════════════════

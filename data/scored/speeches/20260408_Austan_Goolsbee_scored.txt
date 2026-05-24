@@ -1,0 +1,163 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-04-07 | Austan Goolsbee | Chicago Fed President | Non Voter
+"Detroit Economic Club: A Conversation on The Economy and Monetary Policy"
+Detroit Economic Club, Detroit, MI
+Moderated by Sandy Baruah (Detroit Regional Chamber CEO)
+SOURCE: https://www.youtube.com/watch?v=hvUuPctfhrQ (auto-transcript)
+NOTE: Speech date Apr 7; YouTube file saved under "Unknown" as Apr 8.
+  Speaker confirmed from transcript intro ("Austin Goulsby" = auto-
+  caption rendering of Austan Goolsbee). Moved to Goolsbee scored file.
+
+CLASSIFICATION: Type A — Economic outlook Q&A, pre-April 29 FOMC.
+
+REFERENCE FOMC:    March 18, 2026
+PRE-FOMC BASELINE: [Feb 24 NABE speech "not obvious interest rate policy is
+  even restrictive" — not in corpus. This speech is the first scored
+  Goolsbee Type A for the post-Mar18 period.]
+POST-FOMC PRIOR:   N/A (first post-Mar18 scored speech)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+"We came through with inflation raging. Inflation comes down a fair
+ amount, almost as much as it's ever come down in a single year in 2023
+ without a recession. That's virtually unparalleled."
+→ Growth resilience framing: economy defied expectations under tight policy.
+
+"The economy has been more resilient than I expected with our higher
+ interest rates." — echoing his consistent characterization.
+
+Context: "We've lost the margin of error, and it gets a little tighter
+ as the tariffs begin."
+→ Growth assessment has become more cautious post-tariffs + energy shock.
+  Not a contraction call, but the buffer has narrowed.
+
+Shift vs. prior speech:    HAWKISH LEAN — previous characterization was
+  more optimistic. "Margin of error" language is new.
+Shift vs. pre-FOMC:        N/A (first post-Mar18)
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own language:
+  "4.3% unemployment rate...objectively pretty low."
+  "Relatively soft labor market" referenced.
+
+  AI labor demand effect: "Data center construction drawing workers
+   from other sectors... electricians going to data centers."
+→ AI is a labor demand story — some sectors benefit, others compete.
+
+Shift vs. prior speech:    UNCHANGED.
+Shift vs. pre-FOMC:        N/A
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated" [Mar 18]
+  → Goolsbee: inflation "still above 2%"; acknowledges tariff and
+    energy contributions.
+
+Own language — KEY (stagflationary concern):
+  "The hardest moments for any central bank are when you get things
+   going both sides going wrong at the same time — a stagflationary
+   shock."
+→ Explicitly names stagflation as the risk framework.
+
+  "We've got to get our heads around an oil shock which is going to
+   drive up prices in a stagflationary way potentially before the
+   other one has gone away."
+→ Stacking logic: tariff shock not yet resolved + energy shock arriving
+  on top = cumulative inflation concern. This is Goolsbee's version of
+  Waller/Barkin's "sequence of shocks" framework, using the word
+  "stagflationary" rather than "sequence."
+
+  "The hope was that tariffs would just be a one-time thing and that
+   whatever inflation was coming from tariffs, it would go away. It
+   would be transitory. Never going to say that word again [laughs]."
+→ Explicit rejection of transitory label. Self-aware reference to his
+  prior stance. He's moved meaningfully since his 2021-2022 position.
+
+  "It's eerily reminiscent of that period where the COVID supply shock
+   damage happened driving up inflation and then the war breaks out in
+   Ukraine before that went away."
+→ COVID + Ukraine parallel drawn explicitly. This is the most hawkish
+  framing Goolsbee has used in the 2026 corpus.
+
+Shift vs. prior speech:    HAWKISH — stagflationary framing, stacking
+  concern, and explicit rejection of transitory are all new escalations
+  vs. prior Goolsbee characterizations in the corpus.
+Shift vs. pre-FOMC:        N/A (first post-Mar18 scored speech; NABE
+  Feb 24 baseline — "not obvious policy is even restrictive" — is the
+  uncaptured prior baseline per CLAUDE.md calibration notes)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "It's not obvious which way to do it."
+→ Two-sided risk acknowledgment. Genuinely uncertain on whether to
+  hold, ease, or tighten. Unlike the hawkish dissenters who are
+  confident in hold/tighten, Goolsbee is naming the ambiguity.
+
+  AI and neutral rate:
+  "There is massive new investment demand [for data centers]...
+   that pushes up interest rates because capital gets reallocated."
+→ Goolsbee endorses the view that AI investment pushes up the neutral
+  rate — consistent with his Hoover conference theoretical work.
+
+  "When Russia invaded Ukraine, we saw inflation...that was one of
+   the contributing factors for why inflation got so high."
+→ Draws explicit parallel to current energy shock.
+
+  Implicit policy stance: Given "it's not obvious which way to do it,"
+  Goolsbee's bias is toward HOLDING and watching. He is not signaling
+  cuts — his Feb 24 NABE language ("not obvious policy is even
+  restrictive") already set a hawkish baseline. This speech moves him
+  more hawkish still with the stagflationary framing.
+
+Cut signal status: ABSENT — "not obvious which way to do it" is not
+  a cut signal. It is the most explicit two-sided uncertainty statement
+  in his 2026 corpus.
+
+Shift vs. prior speech:    HAWKISH — stagflationary stacking concern
+  and explicit ambiguity on direction are more hawkish than his
+  prior characterization. NABE baseline was already hawkish per
+  CLAUDE.md calibration notes.
+Shift vs. pre-FOMC:        N/A
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — "eerily reminiscent" of the COVID+Ukraine
+  stacking. "Stagflationary shock" is the explicit framing. Two-sided
+  uncertainty ("not obvious which way") means no cut signal.
+
+Goolsbee's April 7 language is important because he is the committee's
+nominal dove by reputation but is using explicitly hawkish framing:
+stagflation risk, stacking shocks, and genuinely uncertain direction.
+This is consistent with the CLAUDE.md calibration note that Goolsbee
+"is significantly less dovish in 2026 than his public reputation
+suggests."
+
+His stagflationary framing predates the April 29 minutes, which
+show participants noting "both upside risks to inflation and downside
+risks to employment" — Goolsbee was signaling this two-sided risk
+framework a full 3 weeks before the meeting.
+
+Language watch:
+  • "Stagflationary shock" — Goolsbee's framing for stacking shocks.
+    Semantically similar to Waller/Barkin "sequence of shocks."
+    Language cycle stage: EMERGING — different vocabulary, same concept.
+  • "Not obvious which way to do it" — explicit two-sided uncertainty.
+    Most candid expression of policy ambiguity in 2026 corpus.
+
+Analyst flag:  YES
+  → The "not obvious which way to do it" quote is significant from
+    a non-voter with high analytical credibility. It directly captures
+    the genuine ambiguity the committee is navigating. Analyst to
+    assess: does Goolsbee's stagflation framing represent the center
+    of committee thinking, or is he outlying on the pessimistic side?
+══════════════════════════════════════════════════════════

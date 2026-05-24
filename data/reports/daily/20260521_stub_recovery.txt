@@ -1,0 +1,78 @@
+FED MONITOR — STUB RECOVERY UPDATE
+May 21, 2026
+════════════════════════════════════════════════════════════════
+
+All 2026 stubs processed. 10 of 11 recovered via YouTube.
+
+════════════════════════════════════════════════════════════════
+NEW TYPE A SPEECHES SCORED
+════════════════════════════════════════════════════════════════
+
+1. KASHKARI | Jan 14 | Wisconsin Bankers Association (virtual)
+   Pre-Jan 28 FOMC baseline. KEY: Questions whether policy is
+   actually restrictive — earliest 2026 appearance of his "not
+   obvious policy is restrictive" theme. Inflation trending down.
+   Net: NEUTRAL WITH HAWKISH LEAN.
+
+2. KASHKARI | Feb 19 | Midwest Economic Outlook Summit, Fargo
+   Pre-March 18 FOMC. KEY: "Pretty close to neutral" — first
+   explicit neutral rate framing, matching Logan Feb 10. North
+   Dakota businesses "fully staffed for first time in 10 years."
+   Tariff look-through intact. Net: HAWKISH LEAN (baseline).
+
+3. KASHKARI | Mar 3 | Bloomberg Invest panel
+   Pre-March 18 FOMC. KEY: 1 cut dot for 2026 still active.
+   Energy shock just arriving — "too soon to know." Five-year
+   duration concern explicitly named. "Neutral rate must be higher."
+   December 2025 dissent (against cut) confirmed.
+   Net: NEUTRAL/HAWKISH LEAN.
+   ANALYST FLAG: Essential baseline for the March-April hawkish
+   pivot. Energy shock persistence Mar-Apr drove him from 1 cut
+   dot to easing-bias dissent.
+
+4. GOOLSBEE | Apr 7 | Detroit Economic Club
+   Pre-April 29 FOMC. KEY: "Stagflationary shock" — most explicit
+   hawkish framing from Goolsbee in 2026. Stacking of tariff and
+   energy shocks "eerily reminiscent" of COVID + Ukraine. "Not
+   obvious which way to do it." No cut signal.
+   Net: HAWKISH LEAN.
+   ANALYST FLAG: Goolsbee using stagflation language 3 weeks before
+   April 29 meeting. Predates minutes' "both upside and downside
+   risks elevated" language. Confirms CLAUDE.md calibration: he is
+   tracking the committee's center, not its dove end.
+
+5. KASHKARI | May 13 | St. Paul Area Chamber (post-dissent)
+   Post-April 29 FOMC. Energy shock "really upended the inflation
+   outlook" — much stronger than Mar 3 "too soon to know." Strongly
+   rejects 2% rethink: "definitely not." No cut signal.
+   Net: HAWKISH — confirms dissent posture.
+
+════════════════════════════════════════════════════════════════
+STUB RESOLUTIONS
+════════════════════════════════════════════════════════════════
+
+  Kashkari Jan 14 Wisconsin:  RESOLVED — scored above
+  Kashkari Feb 19 Midwest:    RESOLVED — scored above
+  Kashkari Mar 3 Bloomberg:   RESOLVED — scored above
+  Goolsbee Apr 7 Detroit:     RESOLVED — scored above
+  Kashkari May 13 St Paul:    RESOLVED — scored above
+  Goolsbee Feb 19 Fin.Crises: RESOLVED — Type B (Goolsbee moderating
+    Gopinath on global imbalances; no US policy signals)
+  Goolsbee May 6 Milken:      RESOLVED — Type B (AI bubble panel)
+  Kashkari Jan 4 ASSA:        UNRESOLVED — academic session, no YouTube
+  Goolsbee Mar 6 FPA:         UNRESOLVED — transcript description only
+  Goolsbee Mar 31 Mobility:   UNRESOLVED — opening remarks only
+
+════════════════════════════════════════════════════════════════
+KASHKARI ARC: JAN-MAY 2026
+════════════════════════════════════════════════════════════════
+Jan 14: Questions restrictiveness. Inflation trending down. Neutral.
+Feb 19: "Pretty close to neutral." Tariff look-through intact.
+Mar 3:  1 cut dot for 2026. Energy shock just arrived. "Too soon."
+Apr 29: DISSENTS against easing bias (Logan, Hammack, Kashkari).
+May 13: Energy "really upended outlook." No cut signal. Confirms dissent.
+
+INFLECTION: Energy shock persistence between Mar 3 and Apr 29 drove
+the arc from 1 cut dot to hawkish dissent.
+
+════════════════════════════════════════════════════════════════

@@ -1,0 +1,132 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-30 | John C. Williams | NY Fed President | Troika
+"Ferrying Through the Crosscurrents"
+Staten Island Economic Development Corporation, Staten Island, NY
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260330
+
+CLASSIFICATION: Type A — Economic Outlook
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Mar 3, 2026  "Two Sides of a Coin"
+Post-FOMC prior:   N/A (first post-Mar18 speech)
+──────────────────────────────────────────────────────────
+
+⚠ KEY DEVELOPMENT: Williams RETRACTS the explicit cut signal
+from Mar 3 ("further reductions will eventually be warranted").
+This is the most important single language shift of any Troika
+member in 2026.
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Williams: "unemployment rate...4.3 percent...Job growth
+    and the New York Fed's Labor Market Tightness Index have
+    stabilized in recent months."
+
+Own verdict:
+  "There are no signs of deterioration."
+  → Stable, moderately positive. No fragility language.
+
+Own nuance:
+  "The low hiring rate, along with an increase in long-term
+   unemployment, may be contributing to a somewhat more
+   pessimistic perception among households than other
+   indicators might suggest."
+  → Notes the perception gap vs. hard data. Same observation
+    as Mar 3, unchanged.
+
+Shift vs. pre-FOMC (Mar 3):   UNCHANGED — same labor
+  characterization. Stabilization confirmed.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Williams: "Inflation remains somewhat elevated due to the
+    effects of tariffs, but those effects should begin to
+    dissipate later this year."
+
+Own language — KEY additions vs. Mar 3:
+  "The significant increase in energy prices resulting from
+   developments in the Middle East will likely boost overall
+   inflation in coming months, but these effects should
+   partially reverse later this year, assuming oil prices
+   come down after hostilities cease."
+  → Energy shock ADDED as new inflation factor. Still
+    characterizes it as temporary.
+
+  "There are no signs of significant second-round effects
+   from tariffs spilling over to the rest of the economy."
+  → Dovish anchor maintained. Stable across Mar 3 and Mar 30.
+
+Own forecast (revised upward):
+  "I expect overall inflation to come in at around 2-3/4
+   percent this year." [up from Mar 3's "2-1/2 percent"]
+  → First upward revision. Energy shock drives this.
+
+Shift vs. pre-FOMC (Mar 3):   MILD HAWKISH — energy shock
+  added, inflation forecast revised up from 2.5% to 2.75%.
+  "No second-round effects" anchor maintained.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Williams: "The current stance of monetary policy is well
+    positioned to balance the risks to our maximum employment
+    and price stability goals."
+    ("Well positioned" = committee's stable holding formula.)
+
+CUT SIGNAL — RETRACTED:
+  Mar 3: "Further reductions in the federal funds rate will
+   eventually be warranted to prevent monetary policy from
+   inadvertently becoming more restrictive." ← CUT SIGNAL
+  Mar 30: [ABSENT] ← RETRACTED
+  → The retraction is deliberate, not an omission. The energy
+    shock appears to have made Williams more cautious about
+    pre-committing to future easing.
+
+Cut signal status: ABSENT — retracted from Mar 3.
+
+Shift vs. pre-FOMC (Mar 3):   HAWKISH — explicit cut signal
+  dropped; inflation forecast revised up; energy shock
+  introduced as new uncertainty. The "well positioned"
+  formula replaces the cut signal.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────════════════════════════════════════════════════
+Net signal:    NEUTRAL — patient hold confirmed; cut signal
+               deliberately retracted
+
+Directional:   The Mar 3 → Mar 30 shift is the most important
+  single move in Troika communications in 2026. Williams walked
+  back his most forward-leaning language after the Middle East
+  energy shock began. The committee is now in a genuine wait-
+  and-see posture with no cut signal from any Troika member.
+  The dovish floor (anchored expectations, no second-round
+  effects) is intact; the dovish ceiling (cut timing guidance)
+  has been removed.
+
+Language watch:
+  • "Further reductions will eventually be warranted" — ABSENT.
+    Track whether this re-emerges in subsequent speeches
+    or remains permanently retracted.
+  • "Well positioned to balance the risks" — new stable
+    formula replacing the cut signal. Matches Jefferson's
+    post-FOMC language.
+  • Inflation forecast: 2.5% → 2.75% → watch Apr 16 for
+    further revision.
+
+Analyst flag: YES
+  → Did media or markets react significantly to the Mar 3 cut
+    signal? If so, the Mar 30 retraction was likely a deliberate
+    correction. Analyst to assess: is the cut signal gone
+    because of the energy shock alone, or is there a deeper
+    committee view change?
+══════════════════════════════════════════════════════════

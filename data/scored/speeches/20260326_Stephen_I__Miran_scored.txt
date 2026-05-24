@@ -1,0 +1,52 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-26 | Stephen I. Miran | Governor | Just Voter
+"Prospects for Shrinking the Fed's Balance Sheet"
+Economic Club of Miami, Miami, FL
+SOURCE: https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm
+
+CLASSIFICATION: Type B — Balance Sheet / Monetary Policy
+Implementation speech. No economic outlook content.
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Jan 14, 2026  "Regulations, the Supply Side, and Monetary Policy"
+Post-FOMC prior:   N/A (first post-Mar18 appearance)
+──────────────────────────────────────────────────────────
+
+NOTE: This speech addresses balance sheet reduction strategy
+and its interaction with the level of interest rates. It
+contains Miran's policy framework but not a current economic
+outlook. Scored for monetary policy stance signal only.
+
+MONETARY POLICY (embedded)
+──────────────────────────────────────────────────────────
+Own analytical frame:
+  "Balance sheet reduction warrants lower interest rates as
+   a form of quantitative tightening offset."
+  → Miran's framework: as the Fed shrinks its balance sheet
+    (a tightening), the policy rate should be lower to
+    compensate. This is an additional argument for rate cuts
+    beyond his deregulation argument (Jan 14).
+
+Dissent context:
+  Miran dissented at the March 18 FOMC meeting, preferring
+  a 25bp cut. This is his second consecutive dissent.
+
+Shift vs. pre-FOMC (Jan 14):   SAME ANALYTICAL DIRECTION —
+  Jan 14 argued deregulation justifies cuts; Mar 26 adds
+  balance sheet reduction as a second independent argument
+  for cuts. Both are supply-side/technical arguments, not
+  demand-side weakness.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────════════════════════════════════════════════
+Net signal:    DOVISH — consistent with Jan 14 framework;
+               second independent argument for rate cuts added
+
+Analyst flag: NO — Miran's view is coherent and stable.
+  Both arguments (deregulation + balance sheet) reinforce
+  his persistent dissent. Treat as an outlier analytical
+  framework until/unless other voters adopt similar reasoning.
+══════════════════════════════════════════════════════════

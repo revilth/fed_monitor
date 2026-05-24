@@ -1,0 +1,36 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-04-14 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"Semafor World Economy 2026"
+Semafor conference, Washington D.C.
+SOURCE: https://www.chicagofed.org/publications/speeches/2026/apr-14-semafor-world-economy
+
+CLASSIFICATION: NOT SCOREABLE — panel discussion, no transcript
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Feb 24, 2026  "NABE Economic Policy Conference"
+Post-FOMC prior:   N/A (no scored post-Mar18 speech yet)
+──────────────────────────────────────────────────────────
+
+NOTE: The Chicago Fed page lists this as a panel discussion.
+The raw file is a 328-byte event announcement stub with no
+transcript text. This appearance cannot be scored.
+
+Coverage gap: Goolsbee's post-March 18 policy view is unknown.
+His most recent scoreable speech (Feb 24 NABE) predates the
+Middle East energy shock. Whether the shock has changed his
+"not obvious rates are restrictive" framing is unknown.
+
+ACTION REQUIRED: Run YouTube search for Semafor World Economy
+2026 video featuring Goolsbee. Other post-FOMC appearances
+(Detroit Economic Club Apr 7, Milken Institute May 6, Hoover
+Institution May 8) also have no transcripts — pursue YouTube
+or direct video search for each.
+
+ANALYST FLAG: YES
+  → Goolsbee is a voting member whose post-shock view is
+    unknown. Given the importance of his Feb 24 finding
+    (unexpectedly hawkish), his post-shock update is high
+    priority. YouTube is the primary fallback.
+══════════════════════════════════════════════════════════

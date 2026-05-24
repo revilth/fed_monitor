@@ -1,0 +1,110 @@
+══════════════════════════════════════════════════════════
+PANEL ANALYSIS — TYPE B (multiple speakers)
+══════════════════════════════════════════════════════════
+2026-05-08 | Hoover Institution Annual Monetary Policy Conference
+Stanford, CA — Final panel
+SPEAKERS: Austan Goolsbee (Chicago Fed), Michelle Bowman (Governor),
+  Christopher Waller (Governor), Mary Daly (SF Fed)
+MODERATOR: Paola Sapienza (Hoover Institution)
+SOURCE: https://www.youtube.com/watch?v=Utsy1M4SKVc
+
+CLASSIFICATION: Type B for all four speakers.
+  → Goolsbee: Type B — academic presentation on productivity/interest
+    rates (expected vs. unexpected productivity booms). No current
+    stance signals. Relevant background for AI/rate discussion.
+  → Bowman: Type B — private credit migration, Basel capital rules,
+    CAMELS reform, supervisory modernization. No monetary policy signals.
+  → Waller: Type B — Reserve Bank operations centralization. No
+    monetary policy signals. (Separate Waller speech same day:
+    "Update On Federal Reserve Bank Operations" is the same content.)
+  → Daly: Type B with embedded policy methodology — described below.
+
+NOTE: This panel was flagged as HIGH PRIORITY because all four officials
+were present together. In practice, only Daly's remarks contain material
+that bears on current policy stance assessment. Bowman and Waller gave
+regulatory/operational speeches. Goolsbee's presentation is theoretically
+relevant but contains no current stance signals.
+
+──────────────────────────────────────────────────────────
+DALY — EMBEDDED POLICY METHODOLOGY (Non Voter, SF Fed President)
+──────────────────────────────────────────────────────────
+Daly's remarks present a framework for assessing whether to look through
+supply shocks, using inflation dashboards. Her policy-relevant content:
+
+On tariff look-through (pre-energy-shock baseline):
+  "Only a small fraction of that dashboard was showing red or even
+   showing pink. And it was just checking the work of is it really
+   going to be a look through? And you do that and...this was the
+   part that made it easier to have more confidence, not complete
+   confidence, but more confidence that looking through was a
+   reasonable strategy to have while you're being watchful."
+  → Daly validated the tariff look-through as methodologically
+    sound using her inflation dashboard as of the time of the speech.
+    This is consistent with her May 8 (Hoover) stance: tariffs alone
+    didn't flash the warning signals for persistence.
+
+On the energy shock (current state, May 8):
+  "Now we have the oil shock on top of that. And this is, you know,
+   we only have data through April, so there's still more data to
+   watch, but it's you're starting to see red in the areas that
+   you'd expect. And one of the things I'm really keeping an eye on
+   myself is not only the momentum index, but the New York Fed's
+   global supply chain index."
+  → The energy shock IS flagging persistence risks in her dashboard.
+    She is not confident in look-through on the energy shock the way
+    she was on tariffs alone. This is a hawkish lean from Daly on
+    the inflation outlook for May 8.
+  → Key watch variable she names: "if an oil price shock turns out
+    to limit the supply chains...once they get clogged up, it takes
+    a long time to bring them back...that's the things that could
+    lead to more persistent pressure on inflation."
+
+Net Daly signal from Hoover panel: NEUTRAL-TO-HAWKISH LEAN on
+  inflation. She views tariff look-through as defensible but sees
+  the stacked energy shock as starting to trigger persistence signals.
+  No direct rate stance language. Consistent with her May 8 Daly
+  scored file (if any) from later in 2026.
+
+  [Compare to May 8 scored file: "Goolsbee and Daly" in the existing
+  May 8 daily. Daly scored May 8 exists separately — this panel
+  is the source of her May 8 language.]
+
+──────────────────────────────────────────────────────────
+GOOLSBEE — ACADEMIC BACKGROUND (Non Voter, Chicago Fed)
+──────────────────────────────────────────────────────────
+Goolsbee's presentation: Expected vs. unexpected productivity booms
+have opposite implications for interest rates.
+
+Key theoretical result:
+  — Unexpected productivity surge → rates should fall (lower
+    marginal costs, inflation drops, Taylor rule: cut)
+  — Expected/anticipated productivity surge → rates should rise
+    (wealth effect pulls consumption forward before capacity
+    expands; central bank must raise return on savings to prevent
+    overheating)
+  → Practical implication: "The bigger the share of the total
+    productivity boom that is still on the way, the more likely
+    it is that rates are going to need to rise."
+
+Relevance to current cycle: If AI productivity gains are expected
+  to be large and coming in the future (survey evidence suggests
+  ~1pp/year for 10 years), the wealth-effect pull-forward argument
+  supports higher rates, not lower. This is Goolsbee's academic
+  case for why AI doesn't mechanically justify rate cuts. Note:
+  this is a theoretical framework presentation, not a personal stance
+  on current rates.
+
+No direct current economic outlook signals. Consistent with
+  Goolsbee's 2026 theme of skepticism about whether policy is even
+  restrictive. No hawk-dove classification possible from this speech.
+
+──────────────────────────────────────────────────────────
+BOWMAN and WALLER — NOT SCORED (Type B)
+──────────────────────────────────────────────────────────
+Bowman: Private credit migration, Basel capital recalibration,
+  CAMELS reform. Pure regulatory/supervisory content.
+
+Waller: Reserve Bank operations centralization. Pure operational
+  content. (Scored separately as 20260508_Update_On_Federal_Reserve
+  _Bank_Operations — same speech content.)
+══════════════════════════════════════════════════════════

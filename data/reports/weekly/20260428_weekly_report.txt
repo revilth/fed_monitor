@@ -1,0 +1,122 @@
+WEEKLY FED MONITOR REPORT
+============================================================
+Week ending: 2026-04-28
+Cycle regime: HOLDING (FFR target: 3.50–3.75%)
+Documents processed this session: 22 speeches scored (Tier 1 + Tier 2 voters; PDFs now extracted automatically)
+Cycle context: 175bps of cuts since mid-2024; PCE 2.8%, Core PCE 3.0%; Middle East conflict driving energy shock since late February 2026
+============================================================
+
+1. EXECUTIVE SUMMARY
+
+The dominant signal across 2026 FOMC communications is a stable, patient hold — but with a meaningful internal fault line. The committee broadly agrees that: (1) tariff effects on inflation are transitory one-time price-level shifts, (2) no second-round inflation effects are detectable, and (3) the labor market is fragile but not broken. Where officials diverge is on whether current rates are still restrictive (Jefferson/Williams: yes, well-positioned) or already near neutral (Logan, Barkin: rates at the "higher end of neutral"). This second view, if it spreads, removes the mechanical justification for near-term cuts even if inflation falls gradually.
+
+The Middle East energy shock (since late Feb 2026) has caused a visible, coordinated shift: all Tier 1 officials retracted or softened any cut signals after the shock began, with Williams explicitly walking back his Mar 3 "further cuts eventually warranted" language by Mar 30. The committee is now in a genuine wait-and-see posture with no clear catalyst for either direction.
+
+Powell's complete absence from economic outlook speeches (both 2026 appearances were about Fed independence, not policy) is itself a signal — likely a deliberate strategy to avoid giving the administration more material for political pressure while Jefferson and Williams carry the policy signaling function.
+
+2. TIER 1 SHIFTS SINCE LAST REPORT
+
+JEROME POWELL (Chair):
+— Zero economic outlook speeches in 2026. Both appearances (Jan 11, Mar 21) were about institutional independence and the Volcker legacy. This is unprecedented for a sitting Chair in an active policy period. The implication: Powell is deliberately reducing his policy signaling footprint under political pressure. Jefferson (Vice Chair) and Williams (NY Fed President) are carrying the policy communication load.
+— ANALYST FLAG: If Powell remains silent on the economic outlook through the May FOMC meeting, this is itself a signal that the committee is not preparing any major policy shift.
+
+PHILIP JEFFERSON (Vice Chair):
+— Three speeches scored (Feb 6, Mar 26, Apr 7). Trajectory: NEUTRAL, gradually adding risk acknowledgment.
+— Key shift: Between Feb 6 and Mar 26, Jefferson added the Middle East energy shock as an explicit upside inflation risk and introduced the "downside to labor, upside to inflation" dual-risk framing. This formulation has now appeared in 4 consecutive speeches across Jefferson and Williams and appears to be the committee's official stance-justification language.
+— Apr 7 shows NO incremental shift from Mar 26 despite the better March jobs report (+178K). Jefferson chose to emphasize the subdued 3-month average (~70K) instead of the headline. This signals he is not moving toward cuts based on one month of data.
+— Current lean: NEUTRAL. Patient hold. No catalyst identified for movement.
+
+JOHN WILLIAMS (NY Fed President):
+— Four speeches scored (Jan 12, Mar 3, Mar 30, Apr 16). MOST IMPORTANT TRAJECTORY.
+— Mar 3: Used explicit cut signal — "further reductions in the federal funds rate will eventually be warranted to prevent monetary policy from inadvertently becoming more restrictive."
+— Mar 30: Cut signal RETRACTED. Energy shock added. Inflation forecast revised up (2.5% → 2.75%). The "further cuts warranted" language does not appear.
+— Apr 16: Consistent with Mar 30. No cut signal. Inflation forecast upper end now 3.0%. GDP range trimmed slightly.
+— Critical new addition in Apr 16: Williams explicitly names the stagflation scenario ("supply shock that simultaneously raises inflation and dampens economic activity") for the first time.
+— Current lean: NEUTRAL, biased toward patience. The Mar 3 → Mar 30 retraction was the key move; since then he has been stable. His inflation expectations framing ("well-anchored," "no second-round effects") is the dovish floor preventing any hike discussion.
+
+3. VOTER VS. NON-VOTER DIVERGENCE
+
+VOTER SPECTRUM (rough ordering, most dovish to most hawkish):
+  Miran (dovish) → Bowman (dovish) → Jefferson (neutral) → Williams (neutral) → Waller (neutral-hawk) → Barr (hawk-leaning) → Cook (hawk-leaning) → Paulson (hawk-leaning)
+
+KEY INTERNAL DIVERGENCES:
+a) Miran/Bowman vs. Cook/Barr/Paulson on inflation risk weight
+  — Miran argues rates are already too high (deregulation is deflationary); Bowman says policy is "moderately restrictive" and wants proactive cuts
+  — Cook, Barr, and Paulson all emphasize inflation credibility as primary, with Cook explicitly saying "risks tilted toward higher inflation"
+  — This is a genuine voter split: 2-3 voters lean toward cuts as the next move vs. 3 voters who would need to see 2% inflation before easing further
+
+b) "Near neutral" vs. "well positioned" rate characterization
+  — Logan (non-voter) and Barkin (non-voter) describe current rate as "at the higher end of neutral" — implying minimal restriction
+  — Jefferson and Williams describe policy as "well positioned" without characterizing it as neutral or restrictive
+  — If voters adopt the "near neutral" view, the case for cuts weakens substantially even if inflation trends lower
+
+NON-VOTER SIGNALS:
+  — Logan (Tier 3, Dallas): Most hawkish regional president. "More worried about inflation remaining stubbornly high." "Policy may be very close to neutral." Explicitly sets a higher bar for cuts than most voters.
+  — Barkin (Tier 3, Richmond): Neutral, patient. "Higher end of neutral." "Series of supply shocks." Strong on-the-ground intelligence showing pricing power loss (disinflationary) but cautious on outlook.
+
+4. COORDINATED TALKING POINTS (30-DAY WINDOW)
+
+CONFIRMED COMMITTEE-WIDE LANGUAGE (appears in 5+ officials):
+a) "Tariff effects are a one-time price level shift" — Jefferson (Feb 6), Williams (Mar 3), Waller (Apr 17), Bowman (Jan 16), Cook (Feb 4), Barr (Mar 26). This is the foundational argument against raising rates in response to tariff inflation. It is now clearly committee consensus.
+
+b) "No significant second-round effects from tariffs" — Williams (Mar 3, Mar 30, Apr 16), Jefferson (Mar 26), Barr (Mar 26). This is the committee's standing argument that the tariff-inflation channel is closed. If second-round effects emerge, this phrase will disappear and would be a major hawkish signal.
+
+c) "Dual risks: downside to labor, upside to inflation / policy well-positioned to respond" — Jefferson (Mar 26, Apr 7), Williams (Mar 30, Apr 16). The standard holding pattern formula. Watch for this language to disappear or be replaced by asymmetric risk framing.
+
+d) "Inflation expectations remain well-anchored" — Williams (Mar 3, Mar 30, Apr 16), Jefferson (Mar 26), Cook (Feb 4), Paulson (Mar 27). The dovish anchor preventing hike discussions. If this disappears, it would be a major hawkish signal.
+
+NEWER CLUSTER (2-3 officials, less certain):
+e) "Series of transitory shocks / cumulative effect" — Waller (Apr 17), Barkin (Mar 27). Warning against the reflexive "look through" approach when shocks stack. If this phrase spreads to Jefferson or Williams, it would represent a significant hawkish recalibration.
+
+f) "Policy at or near the higher end of neutral" — Logan (Feb 10), Barkin (Mar 27). Challenging the assumption that rates are still meaningfully restrictive. Not yet adopted by voters.
+
+g) "Stagflation scenario" explicitly named — Williams (Apr 16), Waller (Apr 17). The new tail-risk framing. Worth watching for this to spread.
+
+5. STATEMENT/MINUTES NOTE
+
+The most recent FOMC statement (March 18, 2026) maintained the 3.50–3.75% target range. Key language to watch for changes at the May meeting:
+— "Risks to both sides of the dual mandate" (symmetric risk framing) — if changed to asymmetric, signals directional lean
+— Whether the statement addresses the Middle East conflict explicitly
+— Whether "further progress" language on inflation appears
+
+Minutes not yet available.
+
+6. COVERAGE GAPS — STATUS UPDATE
+
+a) GOOLSBEE (Chicago, Tier 2 voter): Feb 24 NABE speech NOW SCORED via PDF extraction (14K chars). MAJOR FINDING — see Section 7 below. His Apr 7 Detroit and Apr 14 Semafor appearances remain unscored (genuine panel discussions with no transcripts).
+
+b) COLLINS (Boston, Tier 2 voter): Mar 6 speech NOW SCORED via PDF extraction (29K chars). Patient hold, "mildly restrictive" rate characterization, second-half timeline for disinflation evidence.
+
+c) KASHKARI (Minneapolis, Tier 3): Event descriptions only, no transcripts. Low priority (non-voter).
+
+c) KASHKARI (Minneapolis, Tier 3): Event descriptions only, no transcripts. Low priority (non-voter).
+
+d) BOWMAN (Jan 16 is scored; Mar 12 and Mar 31 are regulatory Type B): Her economic outlook view has not been updated since January. Analyst should check for any Q&A or media appearances that reflect her post-energy-shock position.
+
+7. KEY ANALYTICAL FINDING: GOOLSBEE IS NOT DOVISH
+
+The most significant finding from this scoring session: Goolsbee's Feb 24 NABE speech — his only 2026 speech with a recoverable transcript — is materially more hawkish than his public reputation as the committee's "most dovish" member.
+
+Goolsbee explicitly stated:
+- "It is not obvious that our interest rate policy is even restrictive" — joining Logan and Barkin in the near-neutral rate characterization, from a voter
+- "Core PCE services ex-housing at 3.3%... harder to make an optimistic case that high services inflation is just transitory. We need to be vigilant."
+- "Front-loading too many rate cuts is not prudent"
+- "Before we cut rates more, let's be sure inflation is heading back to 2%"
+
+This represents the broadest possible consensus among voters on the hawkish side of the current debate: Cook, Barr, Paulson, Collins, and now Goolsbee all express inflation-first caution or question whether rates are still restrictive. Only Bowman and Miran remain clearly in the "rates are restricting the economy, cut more" camp.
+
+IMPLICATION: The "Goolsbee is dovish, watch him for cut signals" trading heuristic appears outdated for 2026. His Feb 24 speech suggests he has moved significantly toward the middle of the committee. Whether the Middle East energy shock (which began after this speech) has pushed him further in either direction is unknown — his Apr appearances have no transcripts.
+
+8. PORTFOLIO IMPLICATIONS
+
+Current committee posture: Extended hold with no imminent catalyst for movement. The Middle East energy shock has pushed the next-cut timeline out. The dominant internal debate is not "when to cut" but "are rates even restrictive?" — and that debate argues against cuts.
+
+For rate path:
+— Near-term (May-June FOMC): Near-zero probability of any rate move. The energy shock + dual risks framing makes both cuts and hikes implausible until oil markets settle.
+— H2 2026 probability of cuts: Highly conditional on (1) Middle East ceasefire, (2) energy prices retreating toward pre-conflict levels, (3) core inflation declining toward 2.5% or below, AND (4) no change in inflation expectations. Williams' explicit 2027 timeline for reaching 2% implies no cuts until late 2026 at the earliest in the base case.
+— Hawkish tail risk: If energy prices remain elevated through Q2 and "sequence of shocks" language spreads from Waller/Barkin to voters (especially Cook/Barr), the committee could discuss whether the hold needs to extend indefinitely — or whether a hike is on the table if expectations begin to drift. This is not the base case but the risk that most distinguishes the current situation from a simple "inflation transitory, cuts coming" narrative.
+
+============================================================
+Next update: Generate after May FOMC meeting (statement + press conference)
+Key documents to watch: May FOMC statement language; Williams and Jefferson post-meeting speeches
+============================================================

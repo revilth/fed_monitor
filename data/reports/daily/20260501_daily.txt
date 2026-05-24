@@ -1,0 +1,159 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 1, 2026
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Beth M. Hammack  |  Cleveland Fed President  |  Just Voter
+     "Statement regarding her vote at the April 28-29 FOMC meeting"
+     Federal Reserve Bank of Cleveland
+
+  2. Lorie Logan  |  Dallas Fed President  |  Just Voter
+     "Statement on FOMC dissent — April 28-29, 2026 meeting"
+     Federal Reserve Bank of Dallas
+
+  3. Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+     "Why I Dissented"
+     Federal Reserve Bank of Minneapolis
+
+  4. Michelle W. Bowman  |  Governor  |  Just Voter
+     "Artificial Intelligence in the Financial System"
+     FSOC AI Roundtable (delivered Apr 27, published May 1)
+     STATUS: NOT SCORED — Type B (AI/cybersecurity supervision).
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CROSS-DISSENTER ANALYSIS — ALL THREE STATEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+All three dissenters published formal written statements today.
+Comparing them reveals independent reasoning — not coordinated
+talking points — which makes the shared conclusion more significant.
+
+SHARED CONCLUSION:
+  The "additional adjustments" language implies the next move is a
+  cut. All three consider this no longer appropriate given the
+  current outlook. All three want guidance that signals the next
+  move could be either a cut or a hike.
+
+WHERE THEY DIFFER:
+
+LABOR MARKET — three distinct reads:
+  Hammack: "near my estimate of full employment" → no slack, no risk
+  Logan:   "stable, low unemployment, gains keeping pace with growth" → neutral
+  Kashkari: "somewhat above my estimate of full employment" → modest slack
+
+  → Kashkari is the most dovish of the three on labor, yet still
+    dissented. This matters: he is not dismissing the labor downside.
+
+INFLATION — two distinct framings:
+  Hammack: "broad based" — rejects energy attribution entirely
+  Logan:   "meaningfully above 2% even before energy" — pre-existing
+             inflation separate from the energy shock
+  Kashkari: most analytical — benign scenario has core PCE at 3%
+             for three consecutive years; adverse has unanchoring risk
+
+  → Logan and Kashkari both isolate pre-existing inflation from
+    the energy shock. This directly undermines the committee
+    statement's "in part reflecting energy" framing.
+
+HAWKISHNESS RANKING (most to least):
+  1. Kashkari — explicit "series of hikes" in adverse scenario, even
+     if labor weakens. Went from one projected SEP cut (March) to
+     explicit hike advocate. Furthest hawkish reach of any voter.
+  2. Logan — symmetric guidance, hike on the table, forward guidance
+     framed as active policy tool.
+  3. Hammack — briefest, but "broad based" inflation framing and
+     "near full employment" labor are the most hawkish characterizations
+     on those two dimensions.
+
+KEY FINDING — NOT COORDINATED:
+  Despite sharing a conclusion, the three use different analytical
+  frameworks, different inflation characterizations, and different
+  labor assessments. This is three independently hawkish officials
+  converging on the same policy conclusion — a more durable
+  hawkish bloc than if the statements were uniform.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  HAMMACK  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH: Resilient. No elaboration.
+LABOR: "Near my estimate of full employment" — no downside risk.
+INFLATION: "Broad based" with energy as "additional" pressure. Rejects
+  the statement's energy-attribution framing explicitly.
+POLICY: Easing bias "no longer appropriate." Symmetric risk.
+NET: HAWKISH. Most hawkish labor characterization of the three.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  LOGAN  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH: Not addressed.
+LABOR: Stable, not a concern. Neither hawkish nor dovish.
+INFLATION: "Meaningfully above 2% even before energy." PCE above 2%
+  for over five years. Pre-existing problem, energy is additive.
+  Explicitly separates pre-existing inflation from the energy shock.
+POLICY: Forward guidance is itself a policy tool — influences financial
+  conditions regardless of intent. Two-sided risks; next move could
+  be cut or hike. Objects to the mechanism of the guidance, not just
+  its direction.
+NET: HAWKISH.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  KASHKARI  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH: Demand destruction risk if energy shock persists.
+LABOR: "Somewhat above full employment" — modest slack acknowledged.
+  [Inference: he dissents despite this slack and explicitly accepts
+  labor weakness as tolerable in the adverse scenario — implying his
+  inflation concern currently dominates his labor concern. Kashkari
+  does not state this directly.]
+INFLATION — SCENARIO ANALYSIS (explicit, named):
+  BENIGN (Hormuz reopens): Core PCE at 3% in 2026 — "three years in
+    a row at roughly 3%." Optimal response: hold extended period, then
+    ease gradually once inflation proves transitory.
+  ADVERSE (extended closure): Much larger price shock; "risk of
+    unanchoring long-run inflation expectations." Response: "Federal
+    funds rate increases, potentially a series of them, could be
+    warranted, even at the risk of further weakness to the labor market."
+POLICY: Most hawkish voter statement of 2026. Went from one projected
+  SEP cut (March) to explicit hike advocate in the adverse scenario.
+  Frames easing bias removal as pre-emptive tightening of financial
+  conditions to avoid a larger response later.
+NET: HAWKISH. Furthest hawkish reach of any voter since energy shock began.
+
+vs. PRE-FOMC (March SEP, 1 cut projected): SHARPLY HAWKISH — Iran
+  conflict reversed his dovish baseline completely.
+
+════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH:
+  • "Meaningfully above 2% even before energy" (Logan) — the key
+    phrase undermining the look-through case. Track if Troika adopts.
+  • "Series of hikes... even at the risk of labor weakness" (Kashkari)
+    — furthest hawkish statement of 2026. Track if any other voter
+    echoes the explicit hike scenario.
+  • "Three years in a row at 3% core" (Kashkari, benign scenario) —
+    the duration argument applied even to the favorable case.
+  • "Forward guidance is a policy tool" (Logan) — framing the easing
+    bias debate at the mechanism level. If Troika members adopt this
+    framing, the June decision on easing bias is pre-committed.
+
+ANALYST FLAG: YES
+  → The three dissent statements together constitute the most
+    significant hawkish signal from the voter coalition since the
+    energy shock began. Key question: does this 3-voter bloc hold
+    through June, or does a Hormuz resolution or soft labor data
+    peel off Kashkari (the most conditionally hawkish of the three)?
+    His pre-conflict baseline was explicitly constructive on cuts —
+    he is the most likely to revert if the benign scenario materializes.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+  Hammack May 1:  https://www.clevelandfed.org/collections/speeches
+  Logan May 1:    https://www.dallasfed.org/news/releases/2026/nr260501dissent
+  Kashkari May 1: https://www.minneapolisfed.org/article/2026/why-i-dissented
+  Bowman May 1 (Type B):  https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm
+════════════════════════════════════════════════════════════════

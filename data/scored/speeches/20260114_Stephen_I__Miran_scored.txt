@@ -1,0 +1,69 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-01-14 | Stephen I. Miran | Governor | Just Voter
+"Regulations, the Supply Side, and Monetary Policy"
+Delphi Economic Forum, Athens, Greece
+SOURCE: https://www.federalreserve.gov/newsevents/speech/miran20260114a.htm
+
+CLASSIFICATION: Type B with embedded monetary policy argument
+NOT a Type A economic outlook speech. Scored for monetary
+policy stance argument only.
+
+Reference FOMC:    December 10, 2025
+Pre-FOMC baseline: N/A (first scored speech)
+Post-FOMC prior:   N/A
+──────────────────────────────────────────────────────────
+
+MONETARY POLICY (embedded argument only)
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none
+
+Own analytical frame — KEY:
+  "Sweeping deregulation underway in the United States will
+   significantly boost competition, productivity, and potential
+   growth, allowing faster economic growth without putting upward
+   pressure on inflation. This would support continued easing
+   of restrictive monetary policy."
+  → Dovish. Miran's core argument: deregulation is a positive
+    supply shock → disinflationary → rates should be lower.
+
+  "If the Federal Reserve fails to reduce policy rates in
+   response to deregulation, there will be adverse consequences."
+  → Explicitly argues that failure to cut is a policy error.
+
+  "In recent quarters, policy has been tighter than it should
+   have been to reflect significant deregulation lifting
+   potential growth and reducing inflation."
+  → Retroactively criticizes the committee's hold stance.
+
+Dissent context:
+  Miran dissented at both the Jan 28 and March 18 FOMC
+  meetings, preferring a 25bp cut at each. This speech
+  explains his analytical framework: supply-side deregulation
+  warrants easier policy independent of demand-side inflation.
+
+Shift vs. prior speech:   N/A (first scored speech)
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH — unique supply-side rate-cut argument
+  Miran's frame is analytically distinct from all other
+  committee members. He argues for cuts on deregulation
+  grounds, not labor market weakness. This makes his dissent
+  durable: his framework does not require deteriorating data
+  to justify easing, only continued deregulation progress.
+
+Language watch:
+  • "Deregulation is disinflationary / supports easing" — not
+    yet echoed by other voters. If it spreads, it would
+    represent a new committee rationale for cuts.
+
+Analyst flag: YES
+  → Miran is a persistent dissenter with an unusual analytical
+    frame. Analyst to assess: does the committee take his
+    supply-side deregulation argument seriously, or is it
+    treated as an outlier view?
+══════════════════════════════════════════════════════════

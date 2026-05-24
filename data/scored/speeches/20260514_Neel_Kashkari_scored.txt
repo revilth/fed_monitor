@@ -1,0 +1,127 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-13 | Neel Kashkari | Minneapolis Fed President | Just Voter
+"Q&A at the St. Paul Area Chamber"
+St. Paul, MN
+SOURCE: https://www.youtube.com/watch?v=MWjLIaLu5vw (auto-transcript)
+NOTE: Speech date May 13; YouTube file saved as May 14.
+
+CLASSIFICATION: Type A — Economic outlook Q&A, post-April 29 dissent.
+
+REFERENCE FOMC:    April 29, 2026
+PRE-FOMC BASELINE: March 3, 2026  "Bloomberg Invest — War Creates Uncertainty"
+POST-FOMC PRIOR:   March 3, 2026  (same — first post-Apr29 scored speech)
+
+CONTEXT: Kashkari dissented at April 29 against easing bias language
+  alongside Hammack and Logan. This is his first post-dissent speech.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Local picture: Healthcare sector facing reimbursement pressure from
+  Medicare/Medicaid; rural hospital consolidation; "folks on the lower
+  end of the economic distribution have been feeling pressure."
+  AI investment in data centers ongoing.
+
+Shift vs. prior speech:    UNCHANGED — solid-pace baseline maintained.
+Shift vs. pre-FOMC:        UNCHANGED.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "The unemployment rate has been relatively stable...The job market
+   seems pretty good, decent to pretty good."
+→ Hard data framing: stable, not alarming.
+
+  Healthcare as the job creation engine showing sector-specific strain —
+  wage pressure from reimbursement constraints. Noted but not a macro
+  concern.
+
+Shift vs. prior speech:    UNCHANGED — stable labor market view holds.
+Shift vs. pre-FOMC:        UNCHANGED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────════════════════════════════════════════════════
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase
+   in global energy prices." [Apr 29 stmt]
+  → Kashkari: "Inflation is still too high. It's been above our
+    target now for more than 5 years. Before the Iran war started,
+    I had some confidence we made a lot of progress bringing inflation
+    back down."
+
+Own language — KEY:
+  "The Iran conflict and the shockwave of oil prices and not just oil
+   prices, fertilizer prices, other related commodities, has really
+   upended the inflation outlook. And now there's just a huge question
+   mark of how long is the Strait of Hormuz going to be closed."
+→ Energy shock explicitly upends prior confidence. More dramatic framing
+  than March 3 "too soon to know."
+
+  On new-normal inflation:
+  "Definitely not. We do not want that. That is not where the Federal
+   Reserve is."
+→ Emphatic rejection of 2% rethink. Clear commitment.
+
+Shift vs. prior speech:    HAWKISH — March 3 was "too soon to know" on
+  energy; May 13 is "really upended the inflation outlook" + "huge
+  question mark." Confidence has decreased, not increased.
+Shift vs. pre-FOMC:        HAWKISH — March 3 had cautious optimism;
+  May 13 has explicit uncertainty about the path forward.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Interviewer references: "When last we spoke, you talked about monetary
+  policy being mildly restrictive."
+→ Kashkari had previously used "mildly restrictive" characterization
+  (consistent with other voter language).
+
+Own language — KEY:
+  "We just don't know right now."
+→ No forward guidance. Data-dependent hold. The energy shock has
+  removed his prior conditional cut signal.
+
+  Context on Fed independence and Warsh:
+  Interviewer quotes Trump ally saying "I can't wait till Trump gets
+  his guy in to the Fed." Kashkari explains the chair "can't walk in
+  and lower interest rates on their own. The main power the chair has
+  is persuasion."
+→ Implicit: even under Warsh, cuts would need committee support.
+   He's not conceding the committee will easily change direction.
+
+Cut signal status: ABSENT — "we just don't know right now." The 1 cut
+  dot from March 3 is no longer operative given the energy shock.
+
+Shift vs. prior speech:    HAWKISH — March 3 had 1 cut dot for 2026;
+  May 13 has no forward guidance. Energy shock removed the cut signal.
+Shift vs. pre-FOMC:        HAWKISH — March 3 was the pre-FOMC baseline
+  with a conditional cut signal; May 13 has none.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — post-dissent confirmation of hawkish posture
+  Kashkari's April 29 dissent against easing bias is confirmed by his
+  May 13 language: energy shock "really upended the inflation outlook,"
+  no cut signal, and strong rejection of 2% rethink. His March 3
+  conditional cut is no longer on the table. This speech confirms the
+  April 29 dissent was a genuine view shift driven by the energy shock,
+  not just a symbolic protest of the statement language.
+
+vs. committee since April 29:
+  Kashkari sits with Logan and Hammack as the three hawkish dissenters.
+  His language is consistent with their framing. He is more cautious
+  than the statement's easing bias suggests and has confirmed that the
+  energy shock removed his conditional cut signal.
+
+Language watch:
+  • "Huge question mark" on inflation path — stronger than March 3
+    "too soon to know." Watch if Troika adopts this framing.
+  • "Definitely not" on 2% rethink — clean signal.
+
+Analyst flag:  NO — straightforward confirmation of dissent posture.
+══════════════════════════════════════════════════════════

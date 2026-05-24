@@ -1,0 +1,116 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-02-19 | Neel Kashkari | Minneapolis Fed President | Just Voter
+"Q&A at the Midwest Economic Outlook Summit"
+Old National Bank / Regional Chamber event, Fargo, ND
+Moderated by Jim (Old National Bank)
+SOURCE: https://www.youtube.com/watch?v=GgMyCI0T3eQ (auto-transcript, day-1 upload)
+
+NOTE: Speech date was Feb 19; YouTube file saved as Feb 20.
+
+CLASSIFICATION: Type A — Economic outlook Q&A.
+
+REFERENCE FOMC:    January 28, 2026
+PRE-FOMC BASELINE: [No prior Kashkari speech in corpus — establishing baseline]
+POST-FOMC PRIOR:   N/A (first post-Jan28 scored speech)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+"The economy has proven to be much more resilient in the face of
+ higher interest rates than I expected."
+→ Positive surprise on growth resilience. Business sentiment in North
+  Dakota: "cautious optimism." AI investment supporting activity.
+  Data center construction drawing workers from other sectors.
+
+Own language:
+  "This is sector-specific, right? Agriculture has been under pressure.
+   Healthcare has unique challenges. Some manufacturers are doing well."
+→ Bifurcated picture, not uniform strength.
+
+Shift vs. prior speech:   N/A (baseline)
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "4.3% unemployment rate...you could look at 4.3 as a low unemployment
+   rate historically or one that's almost a point higher than it was
+   a couple years ago."
+→ Carefully balanced: not alarming but not complacent.
+
+Key regional signal — hawkish lean:
+  "This is the first time in 10 years I heard businesses in North Dakota
+   tell me we're fully staffed. That makes me cautious that maybe the
+   labor market is not as sound as some of the statistics would imply."
+→ Soft data suggests slack more than hard data implies. Downside risk
+  acknowledgment, but from a non-fragility angle — it's improvement,
+  not deterioration, that he finds notable.
+
+Tariff effect on labor supply:
+  Immigration reduction has "some effect on the construction industry."
+  AI-driven demand shift to data center workers noted.
+
+Shift vs. prior speech:   N/A (baseline)
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "Inflation has come down quite a bit. Running at somewhere around
+   2.5 to 3%."
+
+  "Somewhat affected by the fact that tariffs went up a lot last year,
+   but that's probably a short-lived event."
+→ Look-through still intact for tariffs at this point (Feb 19, pre-
+  energy shock). Key words: "probably short-lived."
+
+  No mention of energy shock as inflation concern (this speech is
+  before the Middle East conflict drove oil prices significantly).
+
+Shift vs. prior speech:   N/A (baseline)
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "My guess is we're pretty close to neutral on where our
+   monetary policy is."
+→ This is the earliest "at neutral" framing from Kashkari in the 2026
+  corpus. More hawkish than saying policy is "moderately restrictive"
+  — it removes the mechanical case for cuts. Framed as a guess with
+  uncertainty ("I don't know").
+
+  Context: "We'll see where does inflation go. Does it come all the
+  way back down to 2%. What happens to the unemployment rate?"
+→ Data-dependent hold posture.
+
+Warsh: "He's very well qualified to be Fed chair...there are areas
+  he'd like to take us. I look forward to working with him."
+→ Positive transition framing.
+
+Cut signal status: ABSENT — neutral rate framing, no cut guidance.
+
+Shift vs. prior speech:   N/A (baseline)
+Shift vs. pre-FOMC:       N/A
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (establishing baseline)
+  "Pretty close to neutral" is the key characterization. At this
+  stage (Feb 19), Kashkari is not signaling cuts; is watching inflation
+  and labor. His North Dakota "fully staffed" anecdote is a mild
+  caution on labor but not alarm. Tariff look-through intact.
+
+Language watch:
+  • "pretty close to neutral" — Kashkari's neutral rate framing.
+    Compare Logan (Feb 10): "policy may be very close to neutral."
+    Two voters using near-identical language in same month.
+
+Analyst flag:  NO — neutral establishing baseline.
+══════════════════════════════════════════════════════════

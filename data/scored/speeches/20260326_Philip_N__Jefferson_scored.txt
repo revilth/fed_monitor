@@ -1,0 +1,126 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-26 | Philip N. Jefferson | Vice Chair | Troika
+"Economic Outlook and Energy Effects"
+Global Perspectives Speaker Series, Federal Reserve Bank of Dallas
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260326a.htm
+
+CLASSIFICATION: Type A — Economic Outlook (with regional energy section)
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Feb 6, 2026  "Economic Outlook and Supply-Side (Dis)Inflation Dynamics"
+Post-FOMC prior:   N/A (first post-Mar18 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Jefferson: "The unemployment rate has been relatively low
+    and little changed in recent months."
+    (Near-verbatim echo of the Mar 18 statement.)
+
+Own verdict:
+  "I see the labor market as roughly in balance and expect
+   the unemployment rate to remain near its current level
+   throughout this year."
+  → Stable, neutral characterization. Same "roughly in balance"
+    as Feb 6.
+
+Own qualifier (⚠ new addition vs. Feb 6):
+  "The risks to my labor market forecast, however, are skewed
+   to the downside."
+  → "Skewed to the downside" — this is new language not present
+    in Feb 6. A meaningful addition: his symmetric "roughly
+    in balance" forecast now has an explicit downside tail.
+  "The labor market is roughly in balance but susceptible to
+   adverse shocks."
+  → "Susceptible to adverse shocks" also new. Adds fragility
+    qualifier not present before.
+
+Shift vs. pre-FOMC (Feb 6):   MILD DOVISH LEAN — same baseline
+  verdict ("roughly in balance") but new downside risk flags
+  ("skewed to the downside," "susceptible to adverse shocks").
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Jefferson: "progress on disinflation has stalled over the
+    past year, mainly because of tariffs, and inflation remains
+    somewhat elevated relative to our target."
+    (Closely echoes the statement's framing.)
+
+Own language — KEY:
+  "It has been my expectation that the disinflationary process
+   would resume once higher tariffs are no longer pushing up
+   consumer prices."
+  → States his prior expectation — about to be complicated.
+
+  "The ongoing trade policy uncertainty and geopolitical
+   tensions, however, pose upside risk to my inflation
+   forecast. At least in the short term I expect overall
+   inflation to move higher, reflecting a rise in energy
+   prices stemming from the conflict in the Middle East."
+  → KEY: admits the energy shock is complicating his prior
+    expectation. "Upside risk to my inflation forecast" is
+    his personal acknowledgment that his baseline has
+    deteriorated. Not in the FOMC statement.
+
+Shift vs. pre-FOMC (Feb 6):   HAWKISH — Feb 6 was confident
+  disinflation would resume as tariff pass-through completed.
+  Mar 26 adds energy shock as a new complication and explicitly
+  flags "upside risk to my inflation forecast."
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Jefferson: "I am confident that our current policy stance
+    is well positioned to respond to a range of outcomes."
+    ("Well positioned" is the committee's stable holding formula.)
+
+Own language:
+  "I confront an outlook where there is downside risk to the
+   labor market and upside risk to inflation."
+  → First use of his dual-risk formula. Becomes his stable
+    characterization through Apr 7.
+
+Cut signal status: ABSENT — "well positioned" holding formula.
+  No forward guidance introduced.
+
+Shift vs. pre-FOMC (Feb 6):   MINIMAL — same "well positioned"
+  formula. Feb 6 referenced "range of neutral" rate framing;
+  Mar 26 drops this and uses only "well positioned." Slight
+  hawkish lean in monetary policy section.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — stable hold; energy shock adds
+               complexity but doesn't change the stance
+
+Directional:   Jefferson's post-FOMC debut establishes the
+  "dual risk" framework ("downside to labor, upside to
+  inflation") that becomes his stable holding formula for
+  subsequent speeches. The energy shock added two new
+  elements vs. Feb 6: labor downside tail ("skewed to
+  downside," "susceptible to shocks") and inflation upside
+  risk ("upside risk to my forecast"). Net effect: increased
+  caution on both sides, confirming the hold.
+
+Language watch:
+  • "Downside risk to labor, upside risk to inflation, well
+    positioned" — his stable dual-risk formula. Appears in
+    Williams Mar 30 onward. Track as potential committee-wide
+    language.
+  • "Upside risk to my inflation forecast" — personal
+    acknowledgment. Not yet in the FOMC statement.
+  • "Susceptible to adverse shocks" — new labor qualifier.
+    Watch for it in Apr 7 (it appears there too).
+
+Analyst flag: NO — trajectory clear and consistent.
+══════════════════════════════════════════════════════════

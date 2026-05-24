@@ -1,0 +1,37 @@
+March 17-18, 2026 FOMC Meeting
+Accessible Keys for Video
+[Space Bar]
+toggles play/pause;
+[Right/Left Arrows]
+seeks the video forwards and back (5 sec );
+[Up/Down Arrows]
+increase/decrease volume;
+[M]
+toggles mute on/off;
+[F]
+toggles fullscreen on/off (Except IE 11);
+The
+[Tab]
+key may be used in combination with the
+[Enter/Return]
+key to navigate and activate control buttons, such as caption on/off.
+Related Information
+FOMC Meeting Statement:
+PDF
+|
+HTML
+(Released 
+                    March 18, 2026 at 2:00 p.m.)
+Implementation Note
+(Released March 18, 2026 at 2:00 p.m.)
+Projections Materials:
+PDF
+|
+HTML
+(Released March 18, 2026 at 2:00 p.m.)
+Press Conference Transcript (PDF)
+Minutes:
+PDF
+|
+HTML
+(Released April 08, 2026 at 2:00 p.m.)

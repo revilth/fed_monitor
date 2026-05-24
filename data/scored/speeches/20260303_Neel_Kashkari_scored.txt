@@ -1,0 +1,147 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-03 | Neel Kashkari | Minneapolis Fed President | Just Voter
+"War Creates Uncertainty for Rate Path"
+Bloomberg Invest conference panel, New York
+SOURCE: https://www.youtube.com/watch?v=RFa3muMkhxQ
+NOTE: Bloomberg TV edit of panel discussion. Transcript recovered
+  via YouTube auto-captions. Raw file: 20260303_War_Creates_..._txt
+
+CLASSIFICATION: Type A — Economic outlook Q&A, pre-March 18 FOMC.
+
+REFERENCE FOMC:    January 28, 2026
+PRE-FOMC BASELINE: Feb 19, 2026  "Midwest Economic Outlook Summit"
+POST-FOMC PRIOR:   Feb 19, 2026  (same — first post-Jan28 scored speech)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+"The economy proved to be much more resilient in the face of tariffs...
+ but the US economy proved more resilient."
+→ Same resilience framing as Feb 19. Positive surprise on growth.
+
+Energy shock context (new since Feb 19):
+  "Prices in their way up over the last couple of days." Draws
+  Russia-Ukraine analogy but notes Hamas 2023 produced no shockwave —
+  calibrating against prior false alarms. Genuine wait-and-see.
+
+Shift vs. prior speech:    UNCHANGED — same solid-pace framing.
+Shift vs. pre-FOMC:        N/A
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "The labor market is pretty good. A little bit getting softer.
+   But generally speaking, we're around the band of our dual mandate."
+  "I do see evidence that the labor market is not demanding a lot
+   of more workers right now."
+→ Stable-but-softening. Consistent with Feb 19.
+
+  Labor-inflation link: labor cooling → services disinflation. "Core
+  services outside of housing...ought to be tied to wages. And if the
+  labor market is slowing, and I think it is, that ought to be coming
+  down."
+
+Shift vs. prior speech:    UNCHANGED — soft signals stable.
+Shift vs. pre-FOMC:        N/A
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Own language — KEY:
+  "Inflation is still too high, but I feel like it's been slowly
+   heading in the right direction."
+
+  Energy shock: "Just too soon to know what imprint this has on
+   inflation and for how long."
+→ Look-through NOT committed on energy — wait-and-see.
+
+  DURATION CONCERN: "The bigger issue is just if headline inflation is
+   going to be elevated for an extended period of time coming off of
+   five years of elevated inflation. That's a scenario that we need to
+   pay close attention to."
+→ Five-year duration concern explicitly named for the first time
+  in Kashkari's corpus. This is the same reasoning Collins and Waller
+  will use. Language cycle stage: EMERGING (Kashkari + others).
+
+  Tariff look-through: "Still a look through it situation. It's a...
+   pay attention to it situation."
+→ More qualified than Feb 19 ("probably short-lived"). Energy shock
+  has shifted his caution level.
+
+  2% commitment: "We absolutely have to hit it...for the credibility
+   of the institution and for anchored inflation expectations."
+→ Explicit. No new-normal acceptance.
+
+Shift vs. prior speech:    HAWKISH LEAN — energy shock adds uncertainty;
+  five-year duration concern more explicit; tariff look-through more
+  qualified vs. Feb 19 "probably short-lived."
+Shift vs. pre-FOMC:        N/A
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Cut signal (still present as of Mar 3):
+  "One cut later this year might make sense."
+→ Cut signal ACTIVE, but conditional on energy/inflation clearing.
+
+Neutral rate:
+  "The neutral rate must be higher, at least in the near term. The
+   economy has been this resilient given our monetary policy stance."
+→ Same empirical inference as Feb 19: resilient economy → neutral is
+   higher. AI pushes neutral up: "It's probably pushing up the neutral
+   rate. I think so. Likely."
+
+Explicit no-March-move confirmation:
+  "No move in March. I'll let you speculate about that."
+→ Kashkari explicitly confirmed he expects no March 18 action.
+
+Historical rate context:
+  "I don't look at [the nineties AI analogy] and say, oh, that means
+   we should be cutting rates right now when the policy rate is well
+   below where it was in the nineties."
+→ Rates at 3.5% are LOW by historical standards when productivity was
+  also high. Cuts are not the nineties lesson.
+
+December 2025 dissent: "I preferred us not cutting in December, but
+  the committee did. I had two dots [for 2026]. Because they cut, I
+  brought it to 1.4, leaving one dot...one expected cut later."
+→ Dissented against Dec 2025 cut. Now projects 1 cut for 2026.
+
+Cut signal status: ACTIVE — 1 cut later in 2026 is his modal path.
+
+Shift vs. prior speech:    NEUTRAL — cut signal present in both. Mar 3
+  adds energy uncertainty and more qualified tariff look-through.
+Shift vs. pre-FOMC:        N/A
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL WITH HAWKISH LEAN — essential pre-March 18
+  baseline. Cautious optimism on inflation + 1 cut dot + neutral
+  higher. Energy shock arriving but too early to assess. Five-year
+  duration concern explicitly named. Tariff look-through qualified.
+
+Key shift Feb 19 → Mar 3:
+  — Energy shock adds new uncertainty (Mar 3 only)
+  — Five-year duration concern more explicit (Mar 3)
+  — Tariff look-through more qualified
+  — Cut signal still present in both
+
+By April 29, Kashkari dissents against easing bias — the energy
+shock's persistence between March 3 and April 29 is the likely trigger
+for this arc. This speech is the essential pre-FOMC baseline.
+
+Language watch:
+  • "Five years of elevated inflation...need to pay close attention"
+    — duration framing emerging. Kashkari + Waller + Collins.
+  • "Neutral rate must be higher" — Kashkari + Logan + Feb 19 self.
+    Three hawkish-leaning officials using this framing.
+
+Analyst flag:  YES
+  → Cut dot (1 cut in 2026) vs. April 29 hawkish dissent = significant
+    pivot. Energy shock March 3 → April 29 is the likely driver.
+    This is the essential calibration baseline for that arc.
+══════════════════════════════════════════════════════════

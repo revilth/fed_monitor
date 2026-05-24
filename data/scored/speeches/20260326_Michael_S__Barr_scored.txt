@@ -1,0 +1,112 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-26 | Michael S. Barr | Governor | Just Voter
+"Brief Remarks on the Economic Outlook and Monetary Policy"
+Brookings Institution, Washington, D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260326a.htm
+
+CLASSIFICATION: Type A — Economic Outlook (brief remarks format)
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: N/A (first scored 2026 economic outlook speech)
+Post-FOMC prior:   N/A (first post-Mar18 speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Barr: "Labor force growth is close to zero. Job creation
+    has also been close to zero for the past year...the
+    unemployment rate remaining fairly low and steady since
+    last fall."
+
+Own verdict — KEY:
+  "Low levels of hiring likely leave the labor market
+   vulnerable to shocks, so continued vigilance on labor
+   market conditions remains warranted."
+  → Acknowledges fragility. Similar framing to Bowman but
+    stops short of "proactive" cuts language.
+
+Own addition:
+  "We are in a 'low hire, low fire' environment."
+  → Echoes committee-wide characterization.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Barr: "Core inflation...likely was 3 percent in February,
+    about where it was a year ago."
+
+Own language — KEY:
+  "We have had five years now of inflation at elevated levels,
+   and near-term inflation expectations have risen again, so
+   I am particularly concerned that yet another price shock
+   could increase longer-term inflation expectations."
+  → Five-year credibility framing + rising near-term
+    expectations = hawkish concern. Explicitly worried about
+    expectation de-anchoring from the energy shock.
+
+  "We need to be especially vigilant."
+  → Strong language. More explicit than the committee's
+    standard "attentive" phrasing.
+
+  "Nonhousing services inflation has also remained elevated.
+   Core inflation...likely was 3 percent in February, about
+   where it was a year ago."
+  → No progress on services inflation — reinforces his
+    hawkish concern.
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Barr: "Our current policy stance puts us in a good place
+    to hold steady while we evaluate incoming data, the
+    evolving forecast, and the balance of risks."
+
+Own language:
+  "Given the considerable uncertainty about the potential
+   effects of developments in the Middle East on our economy,
+   as well as the other factors I mentioned, it makes sense
+   to take some time to assess conditions."
+  → Patience framing. The energy shock justifies a longer
+    hold, not just uncertainty about tariffs.
+
+Cut signal status: ABSENT — explicit "take some time to assess."
+
+Shift vs. prior speech:   N/A
+Shift vs. pre-FOMC:       N/A (baseline established)
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — inflation vigilance, energy shock
+               elevates his concern about expectation anchoring
+
+Directional:   Barr is at the hawkish end of the voter spectrum
+  on inflation (alongside Cook and Paulson). His "especially
+  vigilant" language and five-year credibility framing place
+  him in the group most concerned about the energy shock
+  becoming embedded. Labor fragility is acknowledged but
+  subordinate to inflation concern.
+
+Language watch:
+  • "Five years of elevated inflation" + "near-term expectations
+    rising again" — credibility clock language. Also used by
+    Cook and Paulson. Potential committee-wide theme.
+  • "Especially vigilant" — stronger than standard "attentive";
+    watch if this spreads to Troika.
+
+Analyst flag: NO — clear hawkish-lean stance.
+══════════════════════════════════════════════════════════

@@ -1,0 +1,71 @@
+Driving Through Economic Fog (Still)
+March 27, 2026
+Tom Barkin
+President, Federal Reserve Bank of Richmond
+Appalachian Highlands Economic Forum at East Tennessee State University (ETSU)
+ETSU Martin Center for the Arts
+Johnson City, Tenn.
+Highlights:
+A year ago today, I stood before a group like this one and described navigating last year’s economy as trying to drive through fog.
+I can’t stand here a year later and tell you the fog has lifted. If anything, it’s deepened and spread.
+Artificial intelligence (AI) has been a critical part of the fog machine. Its capabilities are advancing dramatically. The range of possible outcomes is wide and it’s hard to see clearly through all the frenzy.
+Then add in the fog of war. Oil prices have spiked. Supply chains have been disrupted. Uncertainty has surged. No one knows how long the Iran conflict will persist, nor what its aftereffects will be.
+At our last meeting, with risks to both the labor market and inflation, and the outlook foggy, it felt prudent to hold rates and await more clarity on how we should be leaning to best support the economy going forward.
+Thanks for that kind introduction. I thought today I would give you my perspectives on the U.S. economy. These views are mine alone, and not those of anyone else on the Federal Open Market Committee (FOMC) or in the Federal Reserve System.
+A year ago today, I stood before a group like this one and described navigating last year’s economy as trying to
+drive through fog
+. Major government policy changes — trade, immigration, regulation, and fiscal — were all happening at once. It was hard to see the path ahead.
+Businesses reacted as you would think. When you drive through fog, you don’t want to put your foot on the gas; you don’t know what lies around the next turn. You also don’t want to slam on the brakes; someone could hit you from behind. So, you pull over, and put on your hazards. That’s what businesses did. They didn’t cut back, but they didn’t lean into new investments either. They didn’t fire, but they didn’t hire. They sat on the side of the road, waiting for the fog to lift.
+The Fog Lingers
+Now, most of last year’s policy questions seem much clearer. The tax bill has passed. Deregulatory efforts are underway. Net migration has plummeted. Federal government spending and workforce cuts are largely understood. Even though the recent Supreme Court tariff ruling has reintroduced some uncertainty, most businesses expect tariffs to be reinstated in a range they can roughly predict.
+But I can’t stand here a year later and tell you the fog has lifted. If anything, it’s deepened and spread. It’s as if we’ve all moved to San Francisco.
+Speaking of the Bay Area, artificial intelligence (AI) has been a critical part of the fog machine. Its capabilities are advancing dramatically. The range of possible outcomes is wide, and it’s hard to see clearly through all the frenzy. An analyst wrote that the entire software sector would become obsolete. Block announced AI would replace 40 percent of its workforce. Almost $700 billion in expected AI investments were outlined in one week. The stakes, the pace, and the uncertainty have made a lot of us uneasy.
+Then add in the fog of war. Oil prices have spiked. Supply chains have been disrupted. Uncertainty has surged. No one knows how long the Iran conflict will persist, nor what its aftereffects will be. Historically, oil price shocks are highly coincident with recessions: think 1974, 1979 and 1990. Even 2008 had a price shock, though I wouldn’t blame that for the financial crisis.
+The Economy Keeps Moving
+Despite all this noise, the economy keeps chugging along. GDP grew at a healthy 2 percent last year. Consumers make up nearly 70 percent of GDP, and recent credit card data confirm they are still spending. Why wouldn’t they? While sentiment is low, the fundamentals are good: Unemployment is low, real wages are up, and asset values are elevated. Businesses are healthy too; earnings were up double digits in the fourth quarter. AI deserves a shoutout here as well: The scale of data center investment has been remarkable.
+At the same time, the labor market has stabilized, with the unemployment rate hovering around 4.4 percent in the last six months. For perspective, unemployment has only been this low three times in our working lifetimes – the late ’90s, late 2006/early 2007, and the late 2010s.
+1
+Initial jobless claims also remain quite low.
+The job market doesn’t feel nearly that good though. Employment growth is near zero, and younger workers are having a hard time finding jobs in this low-hire economy. Then why is unemployment still low? Low hiring is being offset by reduced net migration and by baby boomers aging out of the workforce. Job growth has slowed, but at about the same rate as workforce growth.
+And, while inflation remains almost a percentage point above our 2 percent target, it has come down meaningfully from its peak of over 7 percent in 2022.
+The Path Ahead
+Let me turn to the path ahead. I’ll start with demand. Before the recent oil spike, the outlook looked solid, albeit narrow.
+Economic activity is well supported by many of the forces I mentioned earlier: Consumers have jobs, earnings are strong, and AI investment continues. The recent tax bill is providing stimulus to consumers and, alongside deregulation, is creating incentives for business investment. Credit is available. The Fed has cut rates. And more defense spending is surely in the pipeline.
+That said, demand continues to feel narrow, with strength concentrated in the AI ecosystem and those serving wealthy customers. Notably, those two segments are connected. Easing in the AI space could hit business investment and the stock market, which in turn could hit consumption by the wealthy should their net worth decline.
+The conflict with Iran complicates the demand outlook. In theory, now that the U.S. is a net oil exporter, the overall effects should be limited. But gas prices are highly visible, and there’s something fundamentally unsettling about driving by a sign every day that reminds you that prices are going up. Not only do higher oil prices hit consumer sentiment, but they also affect the price of other products like air travel, freight and shipping. Those higher prices can crowd out spending elsewhere.
+The outlook for labor is more challenging. Zero job growth is not a comfortable place to be. And, while the unemployment rate is healthy, the labor market just feels a bit fragile, with the exception of health care, skilled trades, and in smaller towns. Employers tell us that labor is freely available with multiple applicants for every position. They face very little wage pressure. Turnover is low. Even where demand is solid, employers are still reluctant to hire in the context of strong productivity, high uncertainty, and the potential impact of AI.
+Today, most of the conversation around AI is about job loss. That makes sense. In times of uncertainty businesses revert to what they can control, which is often cost-cutting. AI looks like an increasingly promising avenue for that: I hear more and more examples of AI use cases delivering concrete results. While we have heard few cases of AI-related layoffs in our district thus far, we have heard that the possibility of AI has led to more cautious hiring.
+But I don’t think there’s enough talk about the revenue and employment growth potential of AI. Many use cases we are hearing involve better sales targeting, more robust pitch books, and lower costs creating expansion opportunities. Higher revenue growth could lead to more jobs in time, so long as we can address the potential mismatch between the skills of those displaced and the skills required by those jobs newly created. I hear examples of where AI can help with reskilling too.
+The foggiest part of the outlook is the path forward on inflation.
+On the one hand, I see reasons for hope. Shelter price growth, which had been stubborn, has come down. Wage pressure has eased. Increased productivity growth should prove disinflationary. Tariff rates are down for now, which could support promotional activity.
+Businesses increasingly recognize their loss of pricing power. Consumers are tired of high prices: They’re deferring purchases, trading down, and moving down to lower-priced retailers and private label. More than nine in 10 firms that plan to increase prices in the next year feel they won’t be able to do so to their desired levels, according to
+our March business surveys
+. A quarter of them point specifically to customer pushback and a fear of losing market share. I saw that Doritos and Cheetos prices have dropped up to 15 percent; even chipmakers have felt the crunch.
+At the same time, it’s hard to ignore the PCE inflation data over the last few months, which suggests our progress on inflation may be at risk of stalling. And that was before the oil price spike — the latest in a series of cost-increasing supply shocks after the pandemic, semiconductor chip shortages, the war in Ukraine, tariffs, and immigration enforcement. I’ll be watching carefully the impact of this latest shock on both inflation and inflation expectations.
+Let me finish with monetary policy. We’ve lowered rates 175 basis points over the last 18 months, leaving the fed funds rate at the higher end of the range of neutral as defined by FOMC participants and outside analysts. At our last meeting, with risks to both the labor market and inflation, and the outlook foggy, it felt prudent to hold rates and await more clarity on how we should be leaning to best support the economy going forward. I for one am hoping to see some of this fog burn off.
+1
+“Late ’90s” refers to a period from 1998 to early 2001. “Late 2010s” refers to a period from 2017 to early 2020.
+Topics
+Business Cycles
+Economic Growth
+Inflation
+Monetary Policy
+Subscribe to News
+Receive an email notification when News is posted online:
+Subscribe to News
+By submitting this form you agree to the
+Bank's Terms & Conditions and Privacy Notice.
+Email Address
+Re-enter Email Address
+I agree to the terms of the privacy policy
+Thank you for signing up!
+As a new subscriber, you will need to confirm your request to receive email notifications from the Richmond Fed. Please click the
+confirm subscription
+link in the email to activate your request.
+If you do not receive a confirmation email, check your junk or spam folder as the email may have been diverted.
+Thank you for signing up!
+You can unsubscribe at any time using the Unsubscribe link at the bottom of every email.
+Subscribe to our other digital publications
+Contact Icon
+Contact Us
+Jim Strader

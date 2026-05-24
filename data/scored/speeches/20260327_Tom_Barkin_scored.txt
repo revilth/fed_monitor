@@ -1,0 +1,133 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-03-27 | Thomas I. Barkin | Richmond Fed President | Non Voter
+"Driving Through Economic Fog (Still)"
+Appalachian Highlands Economic Forum, ETSU, Johnson City, TN
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260327
+
+CLASSIFICATION: Type A — Economic Outlook
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Feb 3, 2026  "U.S. Economy: The Road Ahead" (unscored)
+Post-FOMC prior:   N/A (first post-Mar18 scored speech)
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Barkin: "unemployment rate hovering around 4.4 percent
+    in the last six months...Employment growth is near zero."
+
+Own verdict — KEY:
+  "The labor market has stabilized, with the unemployment
+   rate hovering around 4.4 percent...unemployment has only
+   been this low three times in our working lifetimes."
+  → Optimistic framing on the level; puts current unemployment
+    in historical context (quite low historically).
+
+Own qualifier:
+  "The job market doesn't feel nearly that good though.
+   Employment growth is near zero, and younger workers are
+   having a hard time finding jobs in this low-hire economy."
+  → Ground-level intelligence: the headline rate understates
+    the difficulty in the labor market for new entrants.
+    Adds distributional nuance beyond the aggregate data.
+
+  "The outlook for labor is more challenging. Zero job growth
+   is not a comfortable place to be. And, while the
+   unemployment rate is healthy, the labor market just feels
+   a bit fragile."
+  → "Fragile" — same language as Bowman, but used by a
+    Non Voter with on-the-ground business intelligence.
+
+Shift vs. pre-FOMC: ESTABLISHING BASELINE
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Barkin: "inflation remains almost a percentage point
+    above our 2 percent target."
+
+Own language — KEY:
+  "The foggiest part of the outlook is the path forward
+   on inflation."
+  → Candid uncertainty — more willing than most to admit
+    visibility on inflation is low.
+
+  "The latest in a series of cost-increasing supply shocks
+   after the pandemic, semiconductor chip shortages, the war
+   in Ukraine, tariffs, and immigration enforcement."
+  → "Series of supply shocks" — same intellectual frame as
+    Waller's "sequence of transitory shocks" (Apr 17), appearing
+    one month earlier. Barkin and Waller are independently
+    articulating the same hawkish risk framework.
+
+  "More than nine in ten firms that plan to increase prices
+   in the next year feel they won't be able to do so to their
+   desired levels...consumers are tired of high prices."
+  → Disinflationary ground-level signal: businesses are losing
+    pricing power. Contrasts with the macro concern about
+    shocks. Creates a complex picture.
+
+Shift vs. pre-FOMC: ESTABLISHING BASELINE
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: references the Mar 18 decision.
+
+Own language — KEY:
+  "We've lowered rates 175 basis points over the last 18
+   months, leaving the fed funds rate at the higher end of
+   the range of neutral as defined by FOMC participants and
+   outside analysts."
+  → "Higher end of the range of neutral" — Barkin adopts
+    the same near-neutral characterization as Logan (Feb 10)
+    and Goolsbee (Feb 24). He is the third official in 2026
+    to say rates are near neutral.
+
+  "At our last meeting, with risks to both the labor market
+   and inflation, and the outlook foggy, it felt prudent to
+   hold rates and await more clarity."
+  → "Foggy" as the analytical condition for holding. No
+    directional lean, just uncertainty.
+
+Cut signal status: ABSENT — "await clarity" holding posture.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — fog metaphor captures genuine
+               two-sided uncertainty; near-neutral rate
+               characterization
+
+Directional:   Barkin provides the committee's best on-the-
+  ground intelligence: businesses are losing pricing power
+  (disinflationary) but a series of supply shocks continues
+  to add cost pressure (potentially inflationary). He holds
+  the view that rates are already at the higher end of neutral,
+  reducing the mechanical case for cuts.
+
+Language watch:
+  • "Series of supply shocks" — anticipates Waller's "sequence
+    of transitory shocks" framework by one month. Two Non Voter
+    / Just Voter speeches using this language independently
+    suggests it is an emerging analytical frame, not coordination.
+  • "Higher end of neutral" — third official using this in 2026
+    (Logan Feb 10, Goolsbee Feb 24, Barkin Mar 27). Not yet
+    adopted by Troika. Track as the key hawkish fault line.
+
+Analyst flag: YES
+  → Barkin's combination of "series of shocks" + "higher end
+    of neutral" is the sharpest articulation of the hawkish
+    case among Non Voters. Note: Logan (alongside whom Barkin was
+    scored) is a Just Voter — confirmed by her April 29 dissent.
+    Barkin remains a Non Voter. If Jefferson or Williams adopt
+    either phrase, it would signal a meaningful committee-wide
+    recalibration.
+══════════════════════════════════════════════════════════

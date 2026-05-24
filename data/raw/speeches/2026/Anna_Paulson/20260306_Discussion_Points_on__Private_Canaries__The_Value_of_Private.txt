@@ -1,0 +1,57 @@
+Speech
+Discussion Points on “Private Canaries: The Value of Private-Sector Data for U.S. Monetary Policy Making”
+by
+Anna Paulson
+President and Chief Executive Officer
+06 Mar ’26
+Philadelphia Fed President and CEO Anna Paulson shared her thoughts on a report on the value of private-sector data for U.S. monetary policymaking, following its presentation at the 2026 U.S. Monetary Policy Forum.
+Share
+At the 2026 U.S. Monetary Policy Forum, President and CEO Anna Paulson shared her thoughts on the 2026 report, "Private Canaries: The Value of Private-Sector Data For U.S. Monetary Policy Making."
+This report was presented by Yuriy Gorodnichenko (University of California, Berkeley), Fiona Greig (Vanguard), Michael Feroli (J.P. Morgan), Anil Kashyap (University of Chicago Booth School of Business), and Nela Richardson (ADP).
+Download a PDF of President Paulson's discussion points
+.
+Download a PDF of the accompanying presentation
+.
+Transcript
+The following transcript has been lightly edited for clarity.
+I'm going to say a lot of the same things that Mary
+1
+said, but in a slightly different way. And then, I'm going to riff a little bit about some of the issues that go further than what the paper
+2
+addressed and that the paper brought up for me when I was reading it.
+So, let's think about the work of the FOMC, trying to construct a picture of the economy in real time — think about that as the full mosaic (see
+slide 2
+). There's some true picture of what's really going on out there. There are millions of firms, millions of workers, tons of things going on in there. And we're trying to construct this picture, but we're kind of like archaeologists. We have to choose which tiles. We've stumbled upon a Roman ruin. We think there's a mosaic down there. We don't know what it looks like. We're trying to uncover it and see what we can figure out.
+And so, in choosing the tiles, I want to know what signal they're going to tell me (see
+slide 3
+). And, like Mary was saying, that's going to be very contextual. For some of the tiles, I'm going to know the supplier really well. And I’m going to have a lot of experience with that supplier. I feel like I kind of understand the quality of the signal that comes from this tile and how it's behaved through a lot of different economic circumstances, and that's going to influence the weight that I put on it.
+Other tiles are going to be kind of new. It might be really helpful, but I'm not sure yet. So, I have to decide how to weight it, where to put it in the picture — a whole bunch of different things.
+And then, I don't have to just take the tiles that the official sector gives to me, or that I can get from the private sector. I can go out and talk to people. I can go out and gather my own tiles, and I can direct that at the questions that I have. Mary provided a lot of great examples.
+Right now, I'm having lots of conversations with folks about: How are you implementing AI into your workplace? What does that mean for your future labor demand? Those are things where I want to go and try to uncover a tile. The other thing that's really valuable about these conversations is they tell me a little bit about the future. When you go out and talk to the folks who are making the business decisions, they're telling you about what they're going to do in the future.
+The tiles I'm getting — whether it's private sector data or public sector data — are looking in the rearview mirror. This is stuff that's already happened. I don't care just about that peacock. I want to know: Is it going to start flying away? Is it going to morph into something else? I want to know what's going to happen in the future, too. So, I'm going to choose the tiles.
+Then, I've got to be really worried about shiny objects. There's going to be some story, some tile, or some data source that looks like: “this is going to tell me everything.” But it might be misleading. Again, this comes back to what does the tile look like in the context of the economic circumstances that we're trying to understand. What experience do I have with it? All of those different things. We do not want to be the kitten chasing the shiny object here.
+Then, what do we get at the end? We do not recover the full picture. We might get something like this (see
+slide 5
+) — an incomplete picture. Then, I come with my picture to the FOMC meeting, as do the rest of my colleagues, and we may not have the same picture. I think I see a peacock there [but] somebody else might say, “no, you're totally wrong. It's a turkey.” Or “it's a peacock now, but it's morphing into a turkey.” So, those are things that you want to have a conversation about. Maybe I decide, “maybe it is a little bit more turkey like,” or maybe I convince somebody else it's a little bit more peacock like. But that is part of the process of understanding current circumstances and then where the economy is headed. And it's really important for policy, for obvious reasons.
+What are the really valuable tiles? They're the ones that are going to tell us when economic circumstances are changing, when that picture is changing. When the peacock is morphing into a turkey or the turkey's morphing into a peacock. Those are the tiles I really want to learn from.
+We don't have a lot of experience with turning points in the economy. This is the unemployment rate from 1950 to the present (see
+slide 6
+). There is recession shading here. There are 12 recessions. That's not a lot to learn from. So, when I'm thinking about turning points, the long-time series of the official sector data, and the fact I know how it's correlated with other official sector data, is particularly valuable. It really helps me evaluate whether I'm seeing a turning point or not.
+If I think about this paper through that lens, I totally agree with the conclusions. Private data and public data are complements. Private data can provide useful and timely information about both inflation and employment, and, for sure, private data can improve monetary policymaking. Mary provided a ton of examples of how the FOMC has used all sorts of data over its history to try to understand a range of economic circumstances and try to do a better job with policymaking.
+For me, the paper raises some questions that go beyond what they’re thinking about right now. One is: Do markets and policymakers interpret the same data in the same way? Another question, which they get at a little bit, is whether policymakers use all of the relevant data, including private data, effectively? I want to be judged on: Did I do a good job of reconstructing that picture and making appropriate policy? And so, am I using all the relevant data effectively? Of course, as the paper emphasizes, you need to do that in an ex-ante, not ex-post way. You need to think about it from the perspective of the data that the policymakers have at the time that they're making policy.
+And then I think this is something that the paper really made me think about. Do we communicate effectively about the data that are driving the outlook in the policy path? I’ve spent a fair amount of time thinking about whether we communicate a reaction function and whether market participants in the broader economy understand how policy is made. But in an era where we're getting new data sources or when economic circumstances are changing, it might be really important to think about how we're communicating about the data that are informing decisions as well.
+This is just trying to get at that very first question: Do markets and policymakers use the same data the same way? Well, we often disagree about where policy is headed.
+This graph (see
+slide 9
+) shows you federal funds futures rate expectations in two different time periods. One is before the pandemic, and one is after the pandemic. The first dark blue bar is the June Summary of Economic Projections (SEP) median for what the funds rate will be in December of that year. The second one is the federal funds futures — the markets’ expectation about what the funds rate is going to be in December. And then, the last one is what actually happened. So, there's divergence between the median SEP and the funds rate.
+It looks like that divergence is a little bit bigger in the pre-pandemic period than in the post-pandemic period. We can think of lots of reasons why there might be divergences. We could have different reaction functions. We can put different weights on the same data. But one reason might be that we're using different data. I think it's interesting to see the distinction between these two periods, because there is a huge proliferation of innovative and new data during the COVID period to try to understand what was going on during those special economic circumstances.
+There was also a huge proliferation of research to understand which of those data were going to be informative about the economy more generally. If you look at the citations in the paper, a lot of them are from this period of looking at data sources that came online in 2020 and beyond. What are they telling me now? How useful are they?
+I did a quick, back-of-the-envelope calculation that I want to go back and do much more seriously. But if you look at policymakers’ communications during the pre-COVID period and the post-COVID period, there's also a lot more conversation about data in the post-COVID period.
+Maybe one of the reasons why there's a little bit more alignment between markets and policymakers in this post-COVID period actually has to do with communication about data. We want markets to understand what we're doing, but it can't be just the reaction function, it also has to be communication about what are the data sources that are helping us make decisions and informing policy.
+I'm going to sum up and give you time back as well. For me, the quality of the information from the tiles is more important than the source; although, I do think that the source could affect the quality of the information, and, particularly if I'm looking at trying to understand business cycle fluctuations, I want to see some data through a lot of different circumstances to really understand how it varies and covaries with other data and what signal it can give me.
+I think there's an opportunity here to study more the role of data in divergences between policymaker and market views. I think there's also this opportunity to think about how we improve monetary policy communications by being systematic about describing which data are important and why. So, I will stop there. It is a delight to read the paper and to think about all of these issues.
+The views expressed here are solely those of the authors and do not necessarily reflect the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
+Following remarks by Federal Reserve Bank of San Francisco President and CEO Mary C. Daly (
+view transcript
+), President Paulson discussed the report.
+Yuriy Gorodnichenko, Fiona Greig, Michael Feroli, Anil Kashyap, and Nela Richardson, "Private Canaries: The Value of Private-Sector Data For U.S. Monetary Policy Making," paper presented at the 2026 U.S. Monetary Policy Forum (in person), March 6, 2026

@@ -1,0 +1,137 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-04-07 | Philip N. Jefferson | Vice Chair | Troika
+"Economic Outlook and the Labor Market"
+College of Business Administration, University of Detroit Mercy
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm
+
+CLASSIFICATION: Type A — Economic Outlook (labor market focus)
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Feb 6, 2026  "Economic Outlook and Supply-Side (Dis)Inflation Dynamics"
+Post-FOMC prior:   Mar 26, 2026  "Economic Outlook and Energy Effects"
+──────────────────────────────────────────────────────────
+
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, and the unemployment rate has
+   been little changed in recent months." [Mar 18 stmt]
+  → Jefferson: "three-month moving average of job growth...
+    averaged about 70,000 jobs per month...somewhat subdued."
+    Also echoes the stabilization theme.
+
+Own verdict:
+  "I see the labor market as roughly in balance."
+  → Identical to Mar 26 characterization. Stable.
+
+Own qualifier (⚠ carried forward from Mar 26):
+  "...but susceptible to adverse shocks."
+  → Present again in Apr 7. This is now a durable addition
+    to his labor verdict, not a one-time observation.
+
+Own addition (new in Apr 7):
+  "While the labor market appears to be stabilizing, I remain
+   cautious about that assessment."
+  → Explicit caution qualifier on the stabilization read.
+    Slightly more cautious than Mar 26.
+
+  Despite better March jobs number (+178K), he emphasizes:
+  "Through the first quarter of the year, employers added an
+   average of about 70,000 jobs per month...somewhat subdued."
+  → Consciously de-emphasizes the strong March headline and
+    focuses on the soft 3-month average. Downside risk signal.
+
+Shift vs. Mar 26 (post-FOMC prior):   MINIMAL — same verdict;
+  caution carried forward; one good month doesn't move him.
+Shift vs. pre-FOMC (Feb 6):   DOVISH — Feb 6 did not flag
+  downside risks explicitly; Apr 7 does ("susceptible to
+  adverse shocks," "cautious about" stabilization assessment).
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Mar 18 stmt]
+  → Jefferson: "Inflation remains above the Federal Reserve's
+    2 percent target...progress has stalled over the past
+    year mainly due to tariffs."
+
+Own language — KEY:
+  "It has been my expectation that the disinflationary process
+   would resume once higher tariffs are no longer pushing up
+   consumer prices. [...] The recent increase in energy prices,
+   however, will apply some upward pressure on headline
+   inflation, at least in the near term. The ongoing trade
+   policy uncertainty and geopolitical tensions pose upside
+   risk to my inflation forecast."
+  → Structure matters: he states his prior expectation, then
+    concedes the energy shock complicates it. "Upside risk
+    to my inflation forecast" — personal acknowledgment that
+    his baseline has deteriorated. This phrase was first used
+    in Mar 26 and is now repeated, making it a durable
+    characterization, not a one-time flag.
+
+Shift vs. Mar 26 (post-FOMC prior):   SLIGHT HAWKISH — same
+  language as Mar 26 but "upside risk to my inflation forecast"
+  is now more embedded rather than new.
+Shift vs. pre-FOMC (Feb 6):   HAWKISH — Feb 6 was confident
+  disinflation would resume; Apr 7 now has energy and
+  geopolitical complications layered on.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  → Jefferson: "I am confident that our current policy stance
+    is well-positioned to respond to a range of outcomes."
+    (Near-verbatim committee holding formula.)
+
+Own language:
+  "The current stance should continue to support the labor
+   market while allowing inflation to resume its decline
+   toward our 2 percent target as the effects of tariff
+   pass-through are completed."
+  → Slightly dovish framing: "allowing inflation to resume
+    its decline" implies confidence that the policy already
+    in place is sufficient. No new tightening needed.
+
+  "I confront an outlook in which there is downside risk to
+   the labor market and upside risk to inflation."
+  → Dual-risk formula: identical to Mar 26. Now clearly his
+    stable characterization, repeated verbatim.
+
+Cut signal status: ABSENT — "well positioned" formula,
+  unchanged from Mar 26.
+
+Shift vs. Mar 26 (post-FOMC prior):   NONE — identical formula.
+Shift vs. pre-FOMC (Feb 6):   NONE — "well positioned" stable.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL — locked into patient hold; no movement
+               in either direction despite better March data
+
+Directional:   Jefferson's Apr 7 speech is nearly identical
+  to Mar 26 in framing. The one genuine new signal: "upside
+  risk to my inflation forecast" is now durable (appeared in
+  both Mar 26 and Apr 7), and his caution on the labor
+  stabilization read is maintained despite the better March
+  jobs number. He is not moving toward cuts on one month of
+  good data.
+
+Language watch:
+  • "Susceptible to adverse shocks" — durable labor qualifier.
+    Now in both Mar 26 and Apr 7. Watch for it in the FOMC
+    statement or Williams' speech.
+  • "Upside risk to my inflation forecast" — durable inflation
+    qualifier. Personal; not yet in statement. If Williams
+    adopts this language, it becomes Troika consensus.
+  • Dual-risk formula ("downside to labor, upside to
+    inflation, well positioned") — now Williams' language too
+    (Mar 30, Apr 16). Likely becoming committee-wide.
+
+Analyst flag: NO — trajectory clear and stable.
+══════════════════════════════════════════════════════════

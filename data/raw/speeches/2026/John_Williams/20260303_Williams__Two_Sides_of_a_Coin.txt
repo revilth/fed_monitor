@@ -1,0 +1,98 @@
+Speech
+Two Sides of a Coin
+March 03, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the America’s Credit Unions Governmental Affairs Conference 2026, Washington, DC
+As prepared for delivery
+Introduction
+I’m so pleased to be  with you today. My parents were California state employees and lifelong credit  union members. They taught me the value of saving at an early age, and I too am  proud to be a lifetime credit union member. In fact, my first car loan was from  a credit union. At the time, my mother admonished me that the point was to
+save
+for the future, not to
+borrow
+to buy a sports car. Alas, I was in my  early 20s and had my own priorities.
+Now, as president of the  New York Fed, I oversee an organization that has several important  responsibilities—including implementing monetary policy. Today, I’m going to talk  about the U.S. economy and how the Federal Reserve is working to achieve its  dual mandate goals of maximum employment and price stability—which, for us, are  two sides of the same coin. Like most coins, this one can be broken down into  smaller denominations, and I’ll discuss some of those, too.
+Before I go further, I  must give the standard Fed disclaimer that the views I express today are mine  alone and do not necessarily reflect those of the Federal Open Market Committee  (FOMC) or others in the Federal Reserve System.
+Importance of Credit Unions
+Credit unions play a  critical role in our economy. They provide banking services and credit access to  communities, including those that would otherwise be underserved. Although the Fed  does not regulate or supervise credit unions, their CEOs are important members  of our Community Depository Institutions Advisory Councils.
+Each of the 12 Federal Reserve  Banks meets regularly with its Council. Their perspectives help us better  understand our local economies, and they provide context and real-world examples  that complement all of the other data we gather. This, in turn, helps to inform  our policy decisions.
+Speaking of data, lately  we have been seeing some interesting and somewhat unusual dynamics in the  economy, the labor market, and inflation. More on that in a moment.
+Resilience
+I’ll start with the big  picture. Despite heightened uncertainty around the impact of trade and other policies,  the U.S. economy has been surprisingly resilient. Real GDP grew at a solid pace  last year, and growth is poised to pick up steam this year.
+An important source of  this resilience has been strength in consumer spending, which, in part, has been  driven by robust spending by higher-income households. Research by New York Fed  economists found that over recent years, higher-income households and  homeowners have experienced substantially stronger consumption growth than  lower-income households and renters. A soaring stock market and rising home  prices are two factors behind that. Another is the 2020-21 mortgage refinancing  boom. Lower mortgage payments significantly increased homeowners’ disposable  income and, in turn, their spending.
+Meanwhile, lower-income  households have shown signs of becoming more financially constrained. A recent New  York Fed analysis showed that mortgage delinquency rates were higher and most  pronounced among borrowers who live in lower-income zip codes and counties with  rising unemployment rates.
+1
+Mixed Signals
+This leads me to the  employment side of the Fed’s dual mandate. Despite solid economic growth in  2025, we saw a gradual softening of the labor market through much of the year.  In recent months, however, there have been promising signs of stabilization.
+After edging up over  much of 2025, the unemployment rate has since come down some. The January  reading of 4.3 percent is back to where it was in July 2025. In addition, job  growth and the New York Fed’s Labor Market Tightness Index, which measures how  difficult it is for firms to find workers, have stabilized in recent months.
+2
+Even with these positive  developments, this remains an unusual low-hire, low-fire job market. The low  hiring rate, along with an increase in long-term unemployment, may be  contributing to a somewhat more pessimistic perception among households than  other indicators of the labor market might suggest. We’re seeing this reflected  in survey-based measures of the balance between labor demand and supply, such  as those produced by the Conference Board and the New York Fed’s Survey of  Consumer Expectations.
+3
+These measures have not  yet shown the same signs of stabilization in recent months that the other  indicators I mentioned have, and they provide a cautionary signal that I will  continue to monitor.
+Some Encouraging Trends
+Turning to the price  stability side of our mandate, tariffs have been the big focus over the past  year, and the incoming data have sharpened our understanding of their likely  effects.
+Based on the data in  hand, we can draw a few conclusions. First, the tariffs have overwhelmingly  been borne domestically—a New York Fed analysis estimates that most of the burden  has fallen on U.S. firms and consumers.
+4
+In addition, the tariffs have  already meaningfully increased U.S. prices of imported goods, and the full  effects have likely not yet been felt.
+My current estimate is  that, to date, the increase in tariffs has contributed around one half to three  quarters of a percentage point to the current inflation rate of about 3 percent.
+5
+The FOMC defines price  stability as 2 percent inflation over the longer run. Owing to the effects of  tariffs, progress toward that goal has temporarily stalled.
+Despite this lack of  headway, we are seeing some encouraging trends. First, there are no signs of  significant second-round effects from tariffs. No global supply-chain  bottlenecks have emerged. And wage growth has remained stable at levels  consistent with price stability. Second, underlying inflation excluding  imported goods has been moving in the right direction. And third, most survey-  and market-based measures of inflation expectations—including the New York  Fed’s Survey of Consumer Expectations—are at levels consistent with the FOMC’s 2  percent goal.
+Taking all of that into  account, I expect we will see some additional pass-through of tariffs into  consumer prices during the first half of this year. Given the lack of  second-round effects and well-anchored inflation expectations, I expect the  tariffs largely to have one-off effects on prices. Therefore, I anticipate inflation  to start coming back down later this year when the peak effect of tariffs on the  inflation rate is behind us.
+Monetary Policy and the Economic  Outlook
+Overall, the U.S.  economy appears to be on a good footing. Growth is solid, the labor market is  showing signs of stabilizing, and while inflation remains above our 2 percent target,  recent data have been reassuring.
+Over the past year and a  half, the FOMC has lowered the target range for the federal funds rate by a  total of 1-3/4 percentage points in response to rising downside risks to  employment and the lessening upside risks to inflation.
+6
+With these actions, the risks  to achieving our maximum employment and price stability goals are now in better  balance.
+In terms of my outlook,  I expect real GDP to grow about 2-1/2 percent this year, supported by stimulus  from fiscal policy, favorable financial conditions, and robust investments in  artificial intelligence.
+With real GDP poised for  continued solid growth, I expect the unemployment rate to edge down over the  course of this year and next year. And with the effects of tariffs on inflation  waning later in the year, I expect overall inflation to come in at around 2-1/2  percent in 2026, then fall to 2 percent in 2027.
+Conclusion
+Monetary policy is  currently well positioned to support the stabilization of the labor market and  return inflation to our 2 percent goal. Looking further ahead, if inflation follows  the path I expect, further reductions in the federal funds rate will eventually  be warranted to prevent monetary policy from inadvertently becoming more  restrictive.
+In assessing the future  path of monetary policy, my view, as always, will be based on the totality of  the data, the economic outlook, and the balance of risks to achieving both sides  of our dual mandate goals.
+1
+Andrew F. Haughwout, Donghoon Lee,  Daniel Mangrum, Joelle W. Scally, and Wilbert van der Klaauw, “
+Where Are Mortgage Delinquencies  Rising the Most?
+,”  Federal Reserve Bank of New York
+Liberty Street Economics,
+February  10, 2026.
+2
+Federal Reserve Bank of New York,
+Heise, Pearce, Weber (HPW) Labor  Market Tightness Index
+(December 2025).
+3
+Federal Reserve Bank of New  York,
+Survey of Consumer Expectations
+(January 2026).
+4
+Mary Amiti, Chris Flanagan, Sebastian  Heise, and David E. Weinstein, “
+Who Is Paying for the 2025 U.S.  Tariffs?
+,” Federal  Reserve Bank of New York
+Liberty Street Economics,
+February 12, 2026.
+5
+As measured by the
+Personal Consumption Expenditures  (PCE) Price Index
+(Bureau  of Economic Analysis), December 2025.
+6
+Board of Governors of the Federal  Reserve System,
+Federal Reserve issues FOMC statement
+, January 28, 2026.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map

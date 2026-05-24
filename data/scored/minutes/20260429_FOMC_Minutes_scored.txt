@@ -1,0 +1,348 @@
+══════════════════════════════════════════════════════════
+FOMC MINUTES ANALYSIS — TYPE D
+══════════════════════════════════════════════════════════
+April 28–29, 2026 FOMC Meeting
+Minutes released: May 20, 2026 (3 weeks post-meeting)
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm
+
+Corresponding statement: April 29, 2026
+Corresponding press conference: April 29, 2026
+  → SOURCE: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260429.pdf
+Prior minutes: March 17–18, 2026
+  → SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260318.htm
+
+FFR decision: Hold at 3-1/2 to 3-3/4%
+Dissents: Miran (for cut); Hammack, Kashkari, Logan (against easing bias)
+
+NOTE ON METHOD: The primary source is Participants' Views on Current
+Conditions and the Economic Outlook and the Committee Policy Actions
+sections. Staff review sections are background context only. Three
+comparisons are made: (1) vs. the April 29 press conference opening
+statement — the richest committee-approved benchmark; (2) vs. March 18
+minutes — to track how the distribution of views shifted; (3) vs. the
+April 29 statement — to identify what was intentionally omitted.
+──────────────────────────────────────────────────────────
+
+GROWTH — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+Participants:
+  "Participants generally observed that economic activity appeared to be
+   expanding at a solid pace." AI-related fixed investment described as
+   "robust." Consumer spending "resilient." Several participants noted
+   energy price strains on lower-income households. Several noted Middle
+   East developments raised uncertainty and downside risks.
+
+vs. April 29 press conference opening statement:
+  Opening statement: "The U.S. economy has been expanding at a solid
+  pace. Consumer spending has been resilient, and business fixed
+  investment has continued to expand at a brisk pace."
+  → Minutes and opening statement are fully aligned on growth —
+    no divergence to flag.
+
+vs. March 18 minutes:
+  March: "Participants observed that economic activity appeared to be
+  expanding at a solid pace... consumer spending had been resilient."
+  → Language essentially unchanged. Growth remains solid and stable
+    across both meetings; not a primary concern at either.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+Participants — hard data verdict:
+  "Most participants judged that recent data, such as readings on the
+   unemployment rate, layoffs, hiring, and labor force growth, suggested
+   stabilization in the labor market."
+  → Majority view: stable.
+
+Participants — soft data and risks:
+  "A few participants pointed to the possibility that the low rates of
+   job growth were a sign of labor market fragility."
+  "Some participants noted some signs of potential softness...the
+   concentration of job growth in only a few sectors, declines in
+   recent months in survey measures of job availability."
+  "Several participants cited evidence...that firms were likely to
+   delay or reduce hiring because of overall economic uncertainty or
+   in anticipation of adopting AI technologies."
+  "Several participants pointed to the possibility that a fall in labor
+   demand could push the unemployment rate sharply higher."
+  → Consistent minority: fragility risk, AI-driven reduction possible.
+
+Risk balance:
+  "Most participants judged...that risks to the employment side of the
+   Committee's dual mandate were tilted to the downside."
+  → Most see downside skew despite stable hard data.
+
+vs. April 29 press conference opening statement:
+  Opening statement added: "labor demand has clearly softened as well."
+  This phrase — a direct demand-side admission — was the key labor
+  signal in the opening statement and is NOT found in equivalent form
+  in the minutes' participants section. The minutes describe committee
+  views on hard data (stable) and risks (downside), but the opening
+  statement went further by characterizing current demand as having
+  "clearly softened." The opening statement language is Powell's
+  committee-approved summary — more pointed than the minutes'
+  distribution of views.
+
+vs. March 18 minutes:
+  March: "Most participants judged that...the labor market was broadly
+  in balance, with the low rate of job growth roughly in line with
+  slower labor force growth."
+  March risk balance: "vast majority judged that risks to the
+  employment side of the mandate were skewed to the downside."
+
+  Changes March → April:
+  — The majority still sees stabilization in hard data (unchanged).
+  — The downside risk assessment is now "most" vs. "vast majority"
+    in March. A very slight dovish softening on the risk framing —
+    "most" is a smaller group than "vast majority."
+  — The AI-driven hiring delay concern appears in both March and
+    April, with similar language. Not a new theme.
+  → Net: minimal change on labor. Slightly less extreme downside risk
+    framing, slightly more emphasis on stabilization.
+
+──────────────────────────────────────────────────────────
+INFLATION — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+Participants:
+  "Participants observed that overall inflation had moved up."
+  "Several participants noted that the rate of increase in core goods
+   prices remained elevated, at least in part reflecting the effects
+   of tariffs."
+  "A few of these participants remarked that, while price increases in
+   the software category were contributing meaningfully to the increase
+   in core inflation, price increases in that category may not be good
+   predictors of future overall inflation." — partial look-through for
+   software prices specifically.
+
+  Expectations:
+  "Most participants noted that measures of longer-term inflation
+   expectations remained stable."
+  "Several participants highlighted the possibility that, after several
+   years of inflation above 2 percent, elevated inflation rates could
+   begin to have an increased effect on wage- and price-setting
+   decisions." — named fragility risk.
+
+  Inflation timeline:
+  "The vast majority of participants noted an increased risk that
+   inflation would take longer to return to 2 percent than they had
+   previously expected."
+
+vs. April 29 press conference opening statement:
+  Opening: "Inflation has moved up recently and is elevated...total PCE
+  prices rose 3.5 percent...core PCE prices rose 3.2 percent. This
+  relatively high rate largely reflects the effects of tariffs on prices
+  in the goods sector."
+  → The opening statement's attribution — tariffs driving core goods —
+    matches the minutes' participants, though the minutes add the
+    software price nuance. The opening statement does not mention the
+    software look-through discussion.
+  → Key Q&A addition (Powell unscripted): "we're several years above
+    2 percent inflation, and that we're already looking through the
+    tariff shock" — the stacking logic. This specific reasoning (two
+    shocks stacked, making look-through harder) does not appear
+    explicitly in the participants' section of the minutes. It appears
+    to be Powell's personal framing, or at minimum goes beyond what
+    was captured in the collective participants paragraph.
+
+vs. March 18 minutes:
+  March: "vast majority noted that progress toward the Committee's
+  2 percent objective could be slower than previously expected."
+  April: "vast majority noted an increased risk that inflation would
+  take longer to return to the 2 percent objective."
+
+  The language is semantically similar but the April framing uses
+  "risk" and "take longer" — both signal a lengthening horizon and
+  a heightened probability weighting. The direction of change is
+  modestly hawkish.
+
+  March also noted: "possibility that after several years of
+  above-target inflation, longer-term inflation expectations could
+  become more sensitive to energy price increases" — this concern
+  appears in both March and April in nearly identical form. Not a new
+  escalation in April.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+On the hold decision:
+  "Almost all participants supported maintaining the current target
+   range for the federal funds rate at this meeting."
+  → Same result as March (Miran again preferred a cut).
+
+On the rate stance characterization:
+  "Participants generally judged that the current policy rate was within
+   the range of plausible estimates of its neutral level."
+  → This phrase requires careful interpretation: "within the range"
+    explicitly accommodates multiple views — some may think policy is
+    slightly above neutral (mildly restrictive), others at neutral,
+    others perhaps slightly below. It does NOT resolve the question.
+    Powell's Q&A gave a clearer personal read: "at the higher end of
+    neutral or perhaps mildly restrictive" (at ~756, unscripted).
+    The committee-approved framing in the minutes is intentionally
+    vague enough to encompass this range.
+
+  IMPORTANT — this language is NOT new in April. The March 18 minutes
+  use the identical phrase: "these participants generally viewed the
+  policy rate as within a range of plausible estimates of its neutral
+  level." This language was already established in March and carried
+  forward unchanged.
+
+Easing bias discussion — HIGH SIGNAL:
+  "Many participants indicated that they would have preferred removing
+   the language from the postmeeting statement that suggested an easing
+   bias regarding the likely direction of the Committee's future
+   interest rate decisions."
+
+  Powell's Q&A confirmation: "the number of people on the Committee
+  who could support that language change changing to a more neutral
+  stance...has increased over the intermeeting period." And: "the
+  center is moving toward a more neutral place." He also confirmed:
+  "conceivably could come as soon as the next meeting" (June 16–17).
+  → The minutes + press conference together paint a clear picture:
+    easing bias is a single-meeting away from removal.
+
+  Why majority voted for it anyway: "we have so much to learn...
+  what happens in the next 30, 60 days could really change the
+  picture" (Powell Q&A). The majority's argument was timing, not
+  substance — don't rush a symbolic language change under uncertainty.
+
+Cut conditions — named by "several" participants:
+  "Several participants highlighted that it would likely be appropriate
+   to lower the target range...once there are clear indications that
+   disinflation is firmly back on track or if solid signs emerge of
+   greater weakness in the labor market."
+  → High bar: "firmly back on track" (not just "making progress")
+    AND "solid signs" of labor weakness.
+
+Tightening conditions — named by "majority":
+  "A majority of participants highlighted that some policy firming would
+   likely become appropriate if inflation were to continue to run
+   persistently above 2 percent."
+  → The majority's stated reaction function: persistent inflation →
+    hike. This is the operative framework, not the easing bias language.
+
+vs. April 29 press conference opening statement:
+  Opening statement: "We are well positioned to determine the extent and
+  timing of additional adjustments to our policy rate based on the
+  incoming data, the evolving outlook, and the balance of risks."
+  → "Additional adjustments" preserves the easing bias in the approved
+    committee language, but the minutes reveal this was a minority-
+    preferred formulation on substance, preserved for timing reasons.
+  → The opening statement does NOT mention: (a) the majority
+    tightening view, (b) the "firmly back on track" cut threshold,
+    or (c) the near-miss on easing bias removal. All three are
+    significant committee views absent from the statement.
+  → Key Q&A addition (Powell): The two explicit pre-cut conditions
+    — "the back side of the energy shock AND progress on tariffs
+    before we even thought about reducing rates" — are unscripted
+    Powell additions not in the committee-approved language. These
+    are personal signals, more specific and more hawkish than what
+    the minutes capture collectively.
+
+vs. March 18 minutes:
+  This is the most important comparison. Key changes:
+
+  A. EASING BIAS OPPOSITION ESCALATED
+     March: "Some participants judged that there was a strong case for
+     a two-sided description of the Committee's future interest rate
+     decisions."
+     April: "Many participants...would have preferred removing the
+     language...suggested an easing bias."
+     → "Some" → "Many": clear escalation. The easing bias is now
+       opposed by a larger coalition.
+
+  B. TIGHTENING SUPPORT ESCALATED
+     March: "Some participants judged...a strong case for a two-sided
+     description...reflecting the possibility that upward adjustments
+     could be appropriate."
+     April: "A majority of participants highlighted that some policy
+     firming would likely become appropriate."
+     → "Some" → "Majority": the tightening faction grew from a
+       minority to a majority across the two meetings.
+
+  C. CUT SUPPORT DECLINED
+     March: "Many participants judged that, in time, it would likely
+     become appropriate to lower the target range."
+     April: "Several participants highlighted that it would likely be
+     appropriate to lower the target range."
+     → "Many" → "Several": cut-leaning participants declined.
+
+  D. NEUTRAL RATE LANGUAGE — UNCHANGED
+     Both March and April use identical language: "within a range of
+     plausible estimates of its neutral level." Not a new signal in April.
+
+  Summary of March → April shift in monetary policy views:
+  Tightening faction: "some" → "majority" (significant escalation)
+  Easing bias opposition: "some" → "many" (clear escalation)
+  Cut support: "many" → "several" (notable decline)
+  → The committee's center of gravity moved meaningfully hawkish
+    across the two meetings.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH vs. March minutes; HAWKISH vs. press conference
+               opening statement; HAWKISH vs. April 29 statement
+
+The most analytically significant finding from the minutes is the
+March → April shift in the distribution of monetary policy views:
+
+  Tightening from minority ("some") to majority
+  Cut support from majority ("many") to minority ("several")
+  Easing bias opposition from minority to clear majority ("many")
+
+These changes are larger in magnitude than the inflation or labor
+language shifts, which were modest or unchanged. The committee's
+effective policy bias has moved hawkish between the two meetings,
+even though the formal statement language was preserved.
+
+vs. press conference opening statement:
+The minutes are more hawkish than the opening statement communicates.
+The opening statement's "additional adjustments" language — the easing
+bias — is explicitly characterized in the minutes as a minority-
+preferred formulation on substance, preserved only for timing reasons.
+Powell's unscripted Q&A was more informative than either the minutes or
+the opening statement: his two-condition pre-cut framework ("back side
+of energy shock AND progress on tariffs") and stacking logic ("already
+looking through tariffs, so more caution on energy") go beyond what
+appears in the collective committee characterization.
+
+On the neutral rate:
+The minutes language ("within the range of plausible estimates") is
+vague by design and encompasses views from mildly restrictive to
+neutral. This phrase was already in the March minutes; it is not new.
+Powell's personal Q&A read — "higher end of neutral or perhaps mildly
+restrictive" — is more specific but is an unscripted personal view, not
+committee-approved language.
+
+Language watch:
+  • "firmly back on track" — the cut threshold for disinflation. Higher
+    bar than "making progress." Named by "several," not the majority.
+    Watch for Troika adoption — would confirm elevated cut bar.
+  • "policy firming would likely become appropriate" — majority
+    reaction function to persistent inflation. Not yet in any post-
+    FOMC speech. If Warsh uses it, it becomes the new committee anchor.
+  • Easing bias removal — Powell explicitly signaled June 16–17 as
+    possible. The Paulson May 19 speech (scored separately) already
+    validated tightening scenarios without echoing the easing bias,
+    consistent with a June easing bias removal.
+
+Housekeeping correction:
+  Next meeting: June 16–17, 2026 (confirmed in minutes; CLAUDE.md
+  previously had June 17–18 — already corrected in send_daily_email.py).
+
+Analyst flag:  YES
+  → The March → April shift from "some" to "majority" on tightening,
+    and from "many" to "several" on cuts, is a significant change in
+    the distribution of views. Analyst to assess: Is this shift
+    primarily driven by the energy shock (a potentially transitory
+    factor), or does it reflect a more durable reassessment of the
+    inflation persistence risk? This distinction matters for how the
+    committee would react to a cease-fire in the Middle East.
+  → Also: Powell's unscripted two-condition framework ("back side of
+    energy AND progress on tariffs") is more specific than anything in
+    the minutes. Does this represent the committee's operative view, or
+    just Powell's personal framing? If Warsh's first communication
+    echoes or diverges from this framework, it will be the most
+    important signal of his early tenure.
+══════════════════════════════════════════════════════════

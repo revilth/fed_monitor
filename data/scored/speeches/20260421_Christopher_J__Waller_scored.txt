@@ -1,0 +1,26 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-04-21 | Christopher J. Waller | Governor | Just Voter
+"Modernizing Federal Reserve Operations in the 21st Century"
+Brookings Institution, Washington D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm
+
+CLASSIFICATION: Type B — Fed Operational Modernization speech
+NOT SCORED for monetary policy content.
+
+Reference FOMC:    March 18, 2026
+Pre-FOMC baseline: Feb 23, 2026  "Labor Market Data: Signal or Noise?" (unscored)
+Post-FOMC prior:   Apr 17, 2026  "One Transitory Shock After Another"
+──────────────────────────────────────────────────────────
+
+NOTE: This speech is entirely about Federal Reserve operational
+structure and modernization: IT consolidation, HR, procurement,
+reserve bank governance, and AI/technology adoption.
+
+Zero monetary policy outlook content. Discard for monetary
+policy analysis. See Apr 17 scored speech for Waller's current
+policy stance.
+
+ANALYST FLAG: NO
+══════════════════════════════════════════════════════════
