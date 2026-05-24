@@ -1,0 +1,95 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 24, 2026 (Sunday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 24, 2026)
+  — None. No speeches on today's date.
+
+PENDING FILE REVIEW (this run):
+  37 unscored raw files reviewed and classified:
+  — 37 SKIPPED: all classified as Type B (regulatory/supervisory/payments/
+    community development/AI operations) or event stubs with no transcript.
+  — 0 scored. No Type A or Type B-with-outlook content found.
+
+  Skipped file summary by speaker:
+    Anna Paulson (2): Mar 6 data methodology discussion; Apr 14 rural
+      fireside chat (no transcript)
+    Austan Goolsbee (5): Feb 19, Mar 6, Mar 31, Apr 7, May 6 — all event
+      stubs without transcripts; YouTube recovery needed for Apr 7
+      (Detroit Economic Club) and May 6 (Milken) as highest priority
+    Christopher J. Waller (2): Feb 24 AI operations; May 8 Fed operations
+    Lisa D. Cook (2): Mar 26 financial stability; May 8 tokenization
+    Lorie Logan (2): Jan 29 intro remarks; Apr 2 balance sheet framework
+    Mary Daly (1): Apr 1 Fed structure/regionalism
+    Michael S. Barr (4): Mar 31 stablecoins; Apr 14 rural communities;
+      May 14 balance sheet framework; May 20 financial health metrics
+    Michelle W. Bowman (9): Jan 7 thru May 14 — all supervisory/
+      regulatory speeches; no post-FOMC monetary policy outlook
+    Neel Kashkari (6): Jan 4, Jan 14, Feb 19, Mar 3, May 7, May 13 —
+      all event stubs without transcripts; YouTube recovery needed
+      for May 7 (InvestUP) and May 13 (St. Paul Chamber)
+    Susan M. Collins (2): Jan 16 intro remarks; Feb 24 welcoming remarks
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMMITTEE CONTEXT AS OF MAY 24
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Post-FOMC economic outlook signals (since Apr 29):
+  Waller   (May 22): HAWKISH — easing bias removal call; hike risk named;
+             benign conditional closed; PCE at "five years above target."
+  Paulson  (May 19): HAWKISH LEAN — inflation-first bar; tightening
+             scenarios validated; energy shock in sight but tariff pass-
+             through requires more progress.
+  Barkin   (May 21): HAWKISH LEAN — duration framing ("sequence of shocks
+             cumulative"); pricing reversal flagged in on-the-ground intel.
+  Collins  (May 13): HAWKISH LEAN — first hike scenario floated by a Non
+             Voter; resilience-amid-risks framing; two pre-cut conditions.
+  Goolsbee (May 12): HAWKISH LEAN — inflation-first; "not obvious our
+             policy is restrictive" (Non Voter).
+  Logan    (May 10): HAWKISH — "inflation still too high"; labor in balance
+             but slow-hire qualifier; dissenter on Apr 29 easing bias.
+
+Zero dovish signals from any speaker since April 29.
+
+Just Voters with no post-FOMC Type A speech: Jefferson, Williams,
+  Bowman, Barr, Miran, Hammack; Kashkari (May 13 stub, no transcript).
+  [Note: Bowman's last monetary policy speech was Jan 30; post-energy-
+   shock view unknown — analytic gap.]
+
+EASING BIAS REMOVAL WATCH:
+  Status: FOUR voters on record or by inference favoring removal —
+    Waller (explicit, May 22), Logan (Apr 29 dissent), Hammack (Apr 29
+    dissent), Kashkari (Apr 29 dissent, May 13 view unknown).
+  Critical: Jefferson and Williams have not spoken on post-FOMC policy
+    outlook. If either echoes Waller's easing bias removal call before
+    June 6 blackout (13 days away), removal at June 17-18 becomes the
+    base case.
+  Warsh inaugural speech as Chair: no speeches yet. Highest priority
+    item; his public language will set the new Troika anchor.
+
+UPCOMING COVERAGE WINDOW:
+  Pre-blackout window: May 24 – June 5 (13 days)
+  Key items to watch:
+    1. Warsh inaugural speech — any public appearance as Chair
+    2. Jefferson or Williams post-FOMC Type A
+    3. Kashkari May 13 transcript (St. Paul Chamber) — YouTube recovery
+    4. Goolsbee Apr 7 (Detroit) and May 6 (Milken) — YouTube recovery
+    5. Bowman: watch for economic outlook speech; post-energy-shock
+       view would close the largest voter data gap
+    6. Miran: supply-side disinflationary framing — post-energy-shock
+       view unknown
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Most recent scored speech per active speaker (for reference):
+  Waller, May 22:   https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Barkin, May 21:   https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Paulson, May 19:  https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Collins, May 13:  https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12: https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:    https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+════════════════════════════════════════════════════════════════
