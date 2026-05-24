@@ -1,0 +1,135 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 16, 2026 (Saturday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 16, 2026)
+  — None. No speeches scraped for today's date.
+
+INSTITUTIONAL NOTE: This is Kevin Warsh's first full day as Federal Reserve
+  Chair. Powell's term ended May 15, 2026. No Warsh inaugural speech has been
+  scraped. Warsh cleared the Senate Banking Committee on April 29, 2026. His
+  first public communication as Chair will set the Troika tone for the Jun 17-18
+  FOMC meeting and the remainder of the 2026 holding cycle.
+════════════════════════════════════════════════════════════════
+
+MAY 14 BACKLOG REVIEW — CLASSIFICATION ONLY
+────────────────────────────────────────────────────────────────
+Two raw files from May 14, 2026 were reviewed and classified this run.
+Neither contains an embedded economic outlook. Both skipped.
+
+  1. Michael S. Barr | Governor | Just Voter
+     "Efficient and Effective Central Banking: Beyond the Balance Sheet"
+     Money Marketeers of New York University, New York, NY
+     CLASSIFICATION: Type B — Pure monetary policy implementation and
+     Fed balance sheet mechanics speech. Covers: ample reserves regime,
+     reserve demand, LCR requirements, TGA dynamics, minimally-ample
+     reserves proposals, and Fed footprint. No labor market, inflation,
+     or rate path content. No embedded outlook. SKIPPED.
+
+  2. Michelle W. Bowman | Vice Chair for Supervision | Just Voter
+     "Opening Remarks"
+     KC Fed 2026 Future of Banking Conference, Kansas City, MO (via video)
+     CLASSIFICATION: Type B — Community bank supervision and regulatory
+     tailoring speech. Covers: one-size-fits-all regulatory burden, CECL,
+     Regulation O, supervisory MRA reform, and digital/AI banking themes.
+     No economic outlook embedded. SKIPPED.
+
+NOTE on Barr post-energy-shock policy view: Barr's only May speech is
+  this Type B on balance sheet mechanics. His policy stance on rate path
+  following the energy shock remains unscored since March 2026. As a
+  Just Voter, this is an analytical gap. Watch for a Type A speech before
+  the June 6 blackout.
+
+NOTE on Bowman post-energy-shock policy view: Per May 15 daily report,
+  Bowman's last Type A speech was January 16, 2026. Her May 2026 speeches
+  are all regulatory/supervisory Type B. Her policy position after the
+  energy shock remains unknown — the most significant Just Voter gap.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE CONTEXT AS OF MAY 16
+────────────────────────────────────────────────────────────────
+Status: Three weeks remain before the June 6 blackout.
+Next FOMC: June 17-18, 2026.
+
+TROIKA:
+  • Warsh (Chair, effective May 15): no speeches in database.
+    First communication as Chair is the primary watch item.
+  • Jefferson: last scored April 7 — MIXED/HAWKISH LEAN.
+    "Susceptible to adverse shocks" on labor; "upside risk to my
+    inflation forecast" added. No post-FOMC speech scored.
+  • Williams: last scored May 4. Policy signaling load from the
+    Troika is currently unanchored with Warsh transition in progress.
+
+JUST VOTERS — Hawkish dissent cluster (Hammack, Kashkari, Logan):
+  • Logan (May 10): UNCHANGED from dissent stance — "inflation still
+    too high"; "labor market is in balance." Commencement venue;
+    minimal new content. Most recent scored Just Voter.
+  • Kashkari (May 13): St. Paul Chamber Q&A — stub only, not scored.
+    This is the most significant outstanding gap among Just Voters.
+    YouTube search needed.
+  • Hammack: last scored May 1. Post-dissent view established; no
+    follow-up speech scored.
+
+JUST VOTERS — Easing-leaning:
+  • Miran: dissented Apr 29 preferring a cut. No post-dissent speech
+    in database.
+  • Bowman: last Type A January 16. Post-energy-shock view unknown.
+
+NON VOTERS — Key signals in the past 7 days:
+  • Collins (May 13): HAWKISH LEAN — "no progress since 2024" on
+    core inflation; explicit rate-hike scenario (first in 2026 Non
+    Voter corpus); "reduced patience for looking through." The most
+    hawkish Non Voter statement in the current cycle.
+  • Goolsbee (May 12): MIXED — "stable but not great" on labor;
+    services going "wrong way"; cut signal maintained ("rates can
+    come down still a fair amount" conditioned on inflation progress).
+    Less hawkish on cut path than March 23 ("wrench in plans").
+  • Daly (May 8): HAWKISH LEAN — oil shock causing inflation
+    dashboard to "start to see red"; tariff look-through confidence
+    qualified ("not complete confidence"). Supply chain index flagged
+    as explicit tripwire for abandoning look-through stance.
+
+SHARED LANGUAGE — TRACKING:
+  • "Sequence of transitory shocks / cumulative effect matters":
+    Waller (Apr 17), Powell (Apr 29 Q&A), Collins (May 13), Kovner /
+    Richmond staff (May 6) — COMMITTEE-WIDE. Now present at the staff
+    research level. Approaching statement territory.
+  • "Reduced patience for looking through": Waller (Apr 17), Powell
+    (Apr 29 Q&A), Collins (May 13) — EMERGING SHARED. Three officials;
+    not yet in statement. Watch for adoption by a Troika member
+    (Jefferson or Warsh).
+  • "Five years above target / no progress since 2024": Kovner (May 6),
+    Goolsbee (May 12), Collins (May 13) — EMERGING SHARED. Three
+    officials in the past week. If adopted by a voter (Paulson or
+    Jefferson), signals committee has given up on near-term disinflation.
+  • "Starting to see red" / dashboard language: Daly (May 8) only.
+    DISPERSED — watch for spread.
+
+OPEN QUESTIONS BEFORE JUNE 6 BLACKOUT:
+  1. Warsh inaugural speech as Chair — tone-setting for new Troika.
+     Most critical watch item; no prior speeches in database.
+  2. Kashkari May 13 transcript — Just Voter, hawkish dissenter,
+     current post-FOMC view unknown.
+  3. Bowman Type A speech — post-energy-shock economic outlook.
+     As Just Voter and Vice Chair for Supervision, this is the
+     largest Just Voter gap.
+  4. Jefferson or Williams post-FOMC Type A — Troika signaling load.
+     Last Jefferson scored April 7; Williams May 4.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches May 16, 2026:
+  (none)
+
+May 14 speeches reviewed (Type B, skipped):
+  Barr, May 14:    https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm
+  Bowman, May 14:  https://www.federalreserve.gov/newsevents/speech/bowman20260514a.htm
+
+Prior committee context (from existing scored files):
+  Collins, May 13:   https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Daly, May 8:       https://www.youtube.com/watch?v=Utsy1M4SKVc
+════════════════════════════════════════════════════════════════

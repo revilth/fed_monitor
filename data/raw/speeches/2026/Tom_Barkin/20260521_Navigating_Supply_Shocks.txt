@@ -1,0 +1,58 @@
+Navigating Supply Shocks
+May 21, 2026
+Tom Barkin
+President, Federal Reserve Bank of Richmond
+ULI Triangle Capital Markets
+Dorothy and Roy Park Alumni Center
+Raleigh, N.C.
+Highlights:
+Over the last several years, the U.S. economy has faced wave after wave of supply shocks.
+Conventional central bank wisdom says the Fed should look past supply shocks.
+This approach of looking through supply shocks has worked well for a generation thanks to what economists call “anchored long-term inflation expectations.”
+I’ve been asking myself whether we’ve entered an era where supply shocks will become more frequent.
+Does the Fed have the luxury of riding out all the waves that come our way? For me, it comes down to how much businesses, consumers and inflation expectations can take.
+Thank you for that kind introduction, and for inviting me to join you today. I'd like to share my perspectives on the U.S. economy — where we are now, and whether we are sailing toward calmer seas or into more turbulent waters. These are my thoughts alone and not those of anyone else on the Federal Open Market Committee or in the Federal Reserve System.
+Over the last several years, the U.S. economy has faced wave after wave of supply shocks. Every time one wave recedes, we’re hit with another: the COVID-19 pandemic, the Russian invasion of Ukraine, the collapse of Silicon Valley Bank, the tariff tumult, and most recently, the conflict in the Middle East. We’ve seen smaller ripples, too: a ship lodged in a major trade route, bird flu, factory fires, government shutdowns, ice storms and more. These shocks affect the available supply of goods and services: too little energy, no chips for cars, tighter credit, not enough wheat. After the pandemic, we even saw supply challenges with labor. Typically, these shocks result in higher prices for a time and, in turn, a pullback in demand.
+Let me focus on the latest wave: the conflict in the Middle East. While it’s rocked the boat, it’s done so less than one might have imagined.
+We’ve all seen the price jump at the gas pump. I’m also hearing of fuel surcharges, rising airfares, freight and packaging costs, as well as availability issues with key inputs like fertilizer and aluminum. We can see these higher costs — especially energy — in the recent inflation data. Headline PCE jumped up to 3.5 percent year–over–year in March 2026. Core inflation, which excludes food and energy, increased more modestly to 3.2 percent.
+The impact is much less noticeable in demand. Consumer spending is up, and not just due to ever more expensive gasoline. Non-gas spending growth has remained solid, too. Corporate profits are high. Artificial intelligence (AI) investment continues at full steam. Manufacturing surveys have rebounded. The S&P 500 keeps setting records. Payroll growth has started to bounce back.
+The U.S. economy remains remarkably resilient. Why? I’ve heard two explanations. The first is that the U.S. economy has become somewhat immune to oil price shocks because we export more than we import, cars are more fuel efficient, and services are an increasing share of our spend. The second is that larger tax refunds, along with supportive financial conditions and an AI-driven investment boom, have largely offset any adverse impact on demand — at least for now.
+Both arguments have merit, but I want to offer an additional one. Consumers and firms have become desensitized. In the confusing context of today’s “always-on” media environment, no one can figure out what will happen next. Who could forecast oil prices with confidence even for next week? Most people believe the United States won’t tolerate sustained higher oil prices or a protracted conflict in the Middle East, so they work off the assumption that this shock will truly be transitory.
+For now, however, the conflict continues. And the extent of its impact will depend on how long it lasts and how long it takes to rebuild supply chains and manufacturing capacity once it’s resolved.
+You might ask yourself: If limited supply means inflationary pressure, why doesn’t the Fed raise rates?
+Conventional central bank wisdom says the Fed should look past supply shocks. After all, they typically cause only temporary increases in prices, not sustained elevated inflation. Waves may rock the boat momentarily, but they rarely cause lasting damage.
+Raising rates to weaken demand doesn’t address the root cause behind supply shock-driven inflation. It doesn’t free up trade routes, reopen factories or melt ice. You wouldn't want to address a bird flu-driven egg shortage by slowing demand across the economy.
+This approach of looking through supply shocks has worked well for a generation thanks to what economists call “anchored long-term inflation expectations.” Where businesses and consumers expect inflation to be in the future helps shape actual inflation. It informs how individuals negotiate wages and how businesses set prices.
+When these expectations are “anchored,” consumers understand that temporarily elevated inflation does not mean sustained inflation in the long term. They won’t negotiate for an outsized increase in wages because they don’t expect outsized increases in rent, groceries, and other expenses to persist. They won’t feed inflation by preparing for perceived inflation to come.
+Put differently, when an anchor is secure, waves don’t push a boat into the rocks. The same is true here.
+That said, I’ve been asking myself whether we’ve entered an era where supply shocks will become more frequent. Prior to the pandemic, the U.S. economy had enjoyed decades of relatively smooth sailing: The Wall fell, the world globalized, demographics boosted labor supply, geopolitical conflicts faded into the background. But looking forward, it’s easy to imagine more challenging conditions: heightened geopolitical tensions, trade fragmentation, more frequent severe weather events, rising government debt, cyber risk, slowing workforce growth and more. Supply chains could face increased risk.
+If that occurs, does the Fed have the luxury of riding out all the waves that come our way? For me, it comes down to how much businesses, consumers, and inflation expectations can take. Allow me to torture the analogy a little further.
+First, will businesses get queasy? They have spent the last few years finding efficiencies. They’ve improved processes. They’ve invested in technology and automation. They’ve reaped the benefits of low turnover. But they've largely gotten more productive through attrition, not layoffs. At what point will they more broadly gain conviction that it is time to reduce headcount more actively?
+Second, will consumers abandon ship? Thus far, they’ve continued to spend. They’ve traded down to lower price products and retailers. They’ve made trade-offs between spending categories. They’ve been creative in how they finance their purchases. They’re certainly not happy — in May, consumer sentiment hit its lowest point on record as measured by the University of Michigan Survey of Consumers — but they’ve persisted. As real wage growth slows, tax refunds fade, and trade-down options run their course, will consumers finally reduce their appetite for spending?
+And finally: How secure is the inflation expectations anchor? The recent increase in gas prices has understandably increased near-term inflation expectations. And I’m hearing a renewed determination by businesses to pass these highly visible, conflict-driven cost increases on to their customers. But, so far, measures of forward inflation compensation beyond the next year and survey-based measures of long-term inflation expectations remain well anchored. With inflation above our 2 percent target for over five years now, it’s worth asking whether the cumulative impact of so many waves risks loosening the anchor.
+The answers to those three questions will determine whether the Fed still has the luxury to look through supply shocks. And I should also acknowledge that one should never ignore the potential of technology to stimulate new demand, reduce costs, and create new sources of supply as we’ve seen with e-commerce.
+At our last meeting, we held rates steady; with little clarity on the duration and impact of this latest supply shock, it made sense to give ourselves some time before setting sail. Going forward, I wouldn’t be surprised if we continue to see rough seas that pressure the employment side of our mandate, the inflation side of our mandate, or conceivably both. If we do, the Fed is well positioned to respond as appropriate.
+Topics
+Business Cycles
+Economic Growth
+Inflation
+Monetary Policy
+Subscribe to News
+Receive an email notification when News is posted online:
+Subscribe to News
+By submitting this form you agree to the
+Bank's Terms & Conditions and Privacy Notice.
+Email Address
+Re-enter Email Address
+I agree to the terms of the privacy policy
+Thank you for signing up!
+As a new subscriber, you will need to confirm your request to receive email notifications from the Richmond Fed. Please click the
+confirm subscription
+link in the email to activate your request.
+If you do not receive a confirmation email, check your junk or spam folder as the email may have been diverted.
+Thank you for signing up!
+You can unsubscribe at any time using the Unsubscribe link at the bottom of every email.
+Subscribe to our other digital publications
+Contact Icon
+Contact Us
+Jim Strader
