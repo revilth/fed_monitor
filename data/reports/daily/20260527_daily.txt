@@ -1,0 +1,152 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 27, 2026 (Wednesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 27, 2026)
+  1. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Panel Discussion"
+     Bank of Japan Institute for Monetary and Economic Studies
+     Conference, Tokyo, Japan (9:25 pm CT)
+     STATUS: NOT SCORED — event stub only; no transcript posted.
+     ACTION: Chicago Fed page stub confirms planned participation;
+     remarks summary to be published after panel start. Check
+     chicagofed.org and YouTube (BoJ / IMES channel) for recovery.
+
+PENDING FILE REVIEW (this run):
+  38 unscored raw files (37 from prior runs + 1 new Goolsbee BoJ stub).
+  All 38 classified — 0 qualify for scoring:
+    • Event stubs with no transcript: Kashkari (Jan 4, Jan 14, Feb 19,
+      Mar 3, May 7, May 13), Goolsbee (Feb 19, Mar 6 [transcript
+      missing], Apr 7, May 6, May 27), Paulson (Apr 14, Mar 6
+      [transcript missing]), Collins (Jan 16, Feb 24)
+    • Type B — regulatory/supervisory/special topic: Bowman (8 speeches,
+      Jan–May), Barr (4 speeches, Mar–May), Waller (Feb 24, May 8),
+      Cook (Mar 26, May 8), Logan (Jan 29, Apr 2), Daly (Apr 1),
+      Goolsbee (Mar 31), Kashkari (Jan 4 [ASSA/memorial])
+  None of the 38 contain a scorable economic outlook section.
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMMITTEE CONTEXT AS OF MAY 27
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Post-FOMC economic outlook signals (since Apr 29):
+  Waller   (May 22): HAWKISH — easing bias removal explicitly advocated;
+             hike risk named; BENIGN conditional cut scenario closed; PCE
+             at 3.8% ("five years above target" — first Just Voter to use
+             this duration framing); breadth signal added (half of price
+             categories above 3%); Bayesian mechanism for expectations
+             unanchoring; services ex-energy 0.5% monthly; most hawkish
+             voter speech of the 2026 cycle.
+  Paulson  (May 19): HAWKISH LEAN — inflation-first bar confirmed; energy
+             shock "in sight" but tariff pass-through requires more
+             progress; both pre-cut conditions (energy + tariff) must be
+             met; median voter not yet close to cutting.
+  Barkin   (May 21): HAWKISH LEAN — "sequence of shocks / cumulative
+             effect matters"; on-the-ground intel showing pricing reversal;
+             duration framing echoed (Non Voter).
+  Collins  (May 13): HAWKISH LEAN — first hike scenario floated by a Non
+             Voter; resilience-amid-risks framing; two pre-cut conditions
+             echoed (Non Voter).
+  Goolsbee (May 12): HAWKISH LEAN — inflation-first; "not obvious our
+             policy is restrictive"; five-years framing (Non Voter).
+  Logan    (May 10): HAWKISH — "inflation still too high"; labor in
+             balance but slow-hire qualifier; Apr 29 dissenter.
+
+Zero dovish signals from any speaker since April 29.
+
+Just Voters with no post-FOMC Type A speech: Jefferson (VP, Troika),
+  Williams (NY Fed, Troika), Bowman, Barr (outgoing), Miran, Hammack,
+  Kashkari (May 7 and May 13 stubs — YouTube recovery outstanding).
+  WARSH: No speeches as Chair; sworn in ~May 15; 12 days since
+  confirmation — Troika anchor undefined. Highest-priority coverage gap.
+
+EASING BIAS REMOVAL WATCH:
+  Status: FOUR voters on record or by inference favoring removal —
+    Waller (explicit, May 22), Logan (Apr 29 dissent), Hammack (Apr 29
+    dissent), Kashkari (Apr 29 dissent — May 13 view unknown).
+  Critical path: Jefferson and Williams have not spoken on post-FOMC
+    outlook. If either echoes Waller's easing bias removal call before
+    June 6 blackout (10 days away), removal at June 17-18 becomes the
+    base case. Waller alone is insufficient — the Troika owns the
+    statement.
+  If June FOMC proceeds with easing bias retained: committee divergence
+    between voter rhetoric (hawkish) and statement language (dovish lean)
+    would be an analyst flag.
+
+HIKE RISK WATCH:
+  Waller is the first and only voter to explicitly name hike possibility
+  in 2026. Trigger: inflation expectations unanchoring (1-5 year
+  measures already elevated; longer-term still anchored). The condition
+  is specific and not yet met. No second voter has echoed this framing.
+  Language cycle stage: DISPERSED (one voter only).
+
+UPCOMING COVERAGE WINDOW:
+  Pre-blackout window: May 27 – June 5 (10 days remaining, inclusive)
+  Key items to watch (priority order):
+    1. Warsh inaugural speech — any public appearance as incoming Chair;
+       sets new Troika anchor; highest-priority event in the current cycle
+    2. Jefferson or Williams post-FOMC Type A — Troika-level signal on
+       easing bias; their language determines Jun 18 FOMC statement
+    3. Kashkari May 13 (St. Paul Chamber) and May 7 (InvestUP) — YouTube
+       recovery; vote-level view unknown post-energy-shock
+    4. Goolsbee May 27 (BoJ Tokyo) and Apr 7 (Detroit) — transcript
+       recovery; check chicagofed.org and YouTube
+    5. Bowman: post-energy-shock economic outlook speech still absent;
+       largest voter data gap in the post-FOMC window; Jan 30 is her
+       most recent scored monetary policy speech (pre-energy-shock,
+       pre-Warsh, pre-tariff)
+    6. Miran: no Type A since before Mar 18 FOMC; supply-side
+       disinflationary argument; post-energy-shock view unknown
+
+LANGUAGE TO WATCH:
+  • "I would support removing the 'easing bias' language" (Waller, May 22)
+    — DISPERSED; critical threshold: if Troika member echoes this, June
+    18 statement change becomes likely.
+  • "I can no longer rule out rate hikes" (Waller, May 22)
+    — DISPERSED; watch for migration to Paulson or Logan.
+  • "Five years above 2% target" — crossing from Non Voter (Goolsbee,
+    Collins, Barkin) to Just Voter (Waller). Language cycle stage:
+    EMERGING SHARED. One Troika adoption = committee-wide signal.
+  • "Two pre-cut conditions: energy shock dissipation + tariff progress"
+    (Powell Apr 29 Q&A, Paulson May 19) — current committee holding
+    formula. Dissipation of energy shock is proximate; tariff progress
+    is the binding constraint.
+  • "Sequence of transitory shocks / cumulative effect" (Waller,
+    Barkin) — analytical frame for why individual shocks cannot all be
+    looked through. If Jefferson or Williams adopt this, it formalizes
+    the Troika's anti-"look through" stance.
+  • "Bayesian updating / inferred inflation process" (Waller, May 22)
+    — formal analytical cover for expectations vigilance; watch for
+    adoption as second-order framing by other officials.
+
+ANALYST FLAG: YES
+  → Pre-blackout critical: Ten days remain before the June 6 blackout
+    that silences the committee until June 19. The Troika (Williams,
+    Jefferson; Warsh has not spoken) has not updated its policy view
+    since the April FOMC. Waller's explicit easing-bias-removal call and
+    hike signal are either (a) personal outliers reflecting his trajectory
+    from Jan dissent → Feb coin-flip → Apr hawkish → May most hawkish,
+    or (b) leading indicators of where the Troika is heading before the
+    next statement. The two interpretations have materially different
+    implications for the June 18 outcome. Analyst should assess: is
+    Waller coordinating with Warsh/Jefferson/Williams, or running ahead?
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches today:
+  Goolsbee, May 27 (stub):
+    https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+
+Most recent scored speech per active speaker (for reference):
+  Waller, May 22:   https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Barkin, May 21:   https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Paulson, May 19:  https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Collins, May 13:  https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Goolsbee, May 12: https://www.youtube.com/watch?v=88dRnkmStR4
+  Logan, May 10:    https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Kashkari, May 1:  https://www.minneapolisfed.org/people/neel-kashkari
+════════════════════════════════════════════════════════════════
