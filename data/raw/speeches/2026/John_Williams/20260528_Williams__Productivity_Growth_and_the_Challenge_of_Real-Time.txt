@@ -1,0 +1,155 @@
+Speech
+Productivity Growth and the Challenge of Real-Time Policymaking
+May 28, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the Reykjavík Economic Conference, Reykjavík, Iceland
+As prepared for delivery
+Introduction
+Thank you for the opportunity  to speak today. I’d like to discuss one of the most fundamental challenges we  face as economic policymakers: understanding structural economic change as it  happens.
+There are many types of  structural change that create such a challenge, including changes in the famous  star variables like the natural rates of unemployment and interest. But today,  I’ll focus on shifts in the trend rate of productivity growth. I’ll boil this topic  down to a simple two-part question: how does the economy respond to a shift in  the rate of productivity growth, and what does it mean for monetary policy? It  may seem like a basic question that should have been long settled by now. But  the further you delve into trying to answer it, the more nuanced it becomes.
+This question is  especially timely today because of all the attention on artificial intelligence  and its potential to spur a productivity boom. But this is not our first  productivity growth rodeo. Thankfully, history provides important lessons for  us to learn from.
+Think back to the 1970s,  when the United States experienced a pronounced productivity slowdown following  a quarter century of remarkable postwar growth. This was followed by an  acceleration beginning in the mid-1990s, which itself reversed in the  mid-2000s.
+These  episodes weren’t minor statistical curiosities—they fundamentally reshaped the macroeconomic  landscape. The productivity slowdown of the 1970s contributed to stagflation. And  the  productivity boom of the late 1990s and early 2000s was a contributing factor to  that decade’s economic  prosperity with low inflation. The subsequent productivity slowdown, although  not associated with high inflation, was a significant influence on driving down  the natural rate of interest.
+1
+Of  course, many other influences were at play during these episodes, clouding one’s  ability to make conclusive inferences regarding the effects of  productivity growth in isolation.
+I will avoid speculating  about the potential of AI for now. Rather, I will take a step back and examine  the key implications of a shift in trend productivity growth for the economy through  the lens of historical experience. To give you a bit of a spoiler, my answer to  the question of the effects of a shift in trend productivity growth on the  economy and monetary policy is, unsurprisingly, “it depends.” In particular, it  depends on the nature and expected duration of the shift in question.
+This is the ideal time  to mention the usual Fed disclaimer that the views I express today are mine  alone and do not necessarily reflect those of the Federal Open Market Committee  (FOMC) or others in the Federal Reserve System.
+The Recognition Problem
+As we try to answer this  question, I will point out something I’d call “the recognition problem.” This  means that while shifts in trend productivity growth may appear crystal clear  in hindsight, it often takes years to distinguish them from the normal ups and  downs in the data. This gradual recognition of shifts in productivity growth  has profound implications for how economies respond.
+Of course, forecasters  and policymakers possess a wide range of views and perspectives in these  situations. But what’s important for this discussion is how overall perceptions  evolve and how that in turn affects the behavior of the economy.
+U.S. productivity growth  data reveal that high-frequency fluctuations dominate the picture: Year-over-year  productivity growth swings from minus 2 percent to 7 percent, compared to the  long-run average of just over 2 percent (
+Figure 1
+). An added wrinkle is that  productivity data are revised over time, often by meaningful amounts, further impeding  one’s ability to discern fundamental shifts in real time.
+2
+Buried under this volatility  are lower-frequency movements in productivity growth (
+Figure 2
+). Seen from this  perspective, the two eras of rapid productivity growth stand out: the postwar  period until the early 1970s, and the internet boom of the mid-1990s to  mid-2000s. In each of these episodes, productivity growth averaged around 3  percent. At other times, relatively slow productivity growth of around 1-1/2  percent prevailed. This pattern of extended periods of low and high  productivity growth has been verified by formal statistical analyses.
+3
+The high proportion of  noise in productivity growth data makes it difficult to recognize a shift in  trend productivity when they happen. When productivity surges or slows, is it a  temporary phenomenon, or does it signal a more fundamental shift in the economy’s  potential?
+The historical record  shows that forecasters have struggled with this exact problem. During the  1970s, estimates of trend productivity growth from the Council of Economic  Advisers declined gradually through most of the decade, then plummeted in 1979—many  years after the slowdown had begun (
+Figure 3
+). This pattern repeated in the  mid-1990s and mid-2000s, with professional forecasters only fully recognizing  the shifts several years after they started.
+This gradual recognition  of shifts in trend productivity growth is not due to a failure of imagination,  but instead is fully consistent with the underlying behavior of the data. For  example, applying a Kalman filter to the data—a standard tool for separating  signal from noise in a time series—yields real-time estimates of trend  productivity growth that change gradually over time (
+Figure 3
+). Note that the  estimated Kalman gain—which measures by how much the trend estimate is updated  based on new information—implies a relatively cautious approach to revising  long-run forecasts.
+This simple model yields  estimates that track remarkably well with those of forecasters. You can see  this correspondence when comparing the model estimates to those from the Council  of Economic Advisers during the 1970s and the Survey of Professional  Forecasters over the past 35 years. This is not to say that forecasters  literally use this model and ignore all the other information at their  disposal. Instead, it shows that simply filtering the productivity data  accounts for a good deal of the information they used in assessing productivity  trends.
+Finally, I should  emphasize that this correspondence between the model’s predictions and the  views of experts isn’t mere curve-fitting; rather, it’s evidence that a simple,  disciplined framework captures how forecasters process productivity information  in real time. Indeed, this model was developed over 20 years ago, so the  subsequent correlation between the model estimates and the survey results is a  true out-of-sample test.
+Macroeconomic Implications of Gradual  Recognition
+The macroeconomic  implications of gradual recognition of shifts in productivity growth are  profound. Assuming immediate recognition, standard macroeconomic theories  predict a paradoxical result: an increase in trend productivity growth drives  up real interest rates and causes an economic downturn, with hours worked,  investment, and output declining.
+4
+This “perverse” result, in  the words of John Campbell (1994),
+5
+stems from the combination  of a strong wealth effect and higher expected real interest rates, which  contribute to a transition period during which households enjoy greater  consumption and leisure. These predictions are at odds with the real-world  experience where periods of high productivity growth are associated with a  strong economy and elevated investment, not the opposite.
+Model simulations of an  economy-wide increase in productivity growth using the New York Fed’s dynamic  stochastic general equilibrium (DSGE) model
+6
+show that real consumption  growth and real interest rates jump at the onset of the productivity surge,  while hours worked dip and investment declines sharply (
+Figure 4
+). In this  simulation, wages and prices are assumed to be flexible. After a couple of  years, the transition dynamics are mostly completed, and the economy adjusts  toward its longer-run balanced growth path with higher growth and real interest  rates.
+7
+Incorporating gradual  recognition dramatically alters these predictions. When trend productivity  accelerates but agents only gradually recognize this, they initially interpret the  rise in productivity growth as primarily a one-time shift not to be repeated.  As a result, the wealth and interest rate effects from persistently higher  productivity growth that act to depress  investment are muted and delayed (
+Figure 5
+). The solid lines show the results  with the estimated Kalman gain, while the other lines show the results  for more rapid paces of recognition.
+With gradual recognition  consistent with empirical evidence, an acceleration in productivity results in  faster growth of both consumption and investment. The rise in real interest  rates is delayed as beliefs about future productivity growth only gradually  rise. And the initial decline in hours worked is much smaller than with  immediate recognition. Over time, the economy  transitions to the same balanced growth path. Note that with a faster rate of  recognition, real interest rates rise more quickly and the rise in  employment and investment is delayed.
+The Nature of Productivity  Acceleration
+So far, I have been  describing a world where the economy benefits from faster productivity growth  that suddenly falls like manna from heaven. This is just one illustrative case,  and shifts in productivity can differ in their transmission to the economy,  which affects the timing and magnitude of the macroeconomic effects.
+For example, improvements  in productivity must often be embodied in new capital investment, as is typically  the case with information technology. In this case, the main components of the  story are the same. In particular, a negative investment response is associated  with immediate recognition. The economy’s response aligns better with  experience by incorporating gradual recognition. There is an added twist that  the shift generates a sizable and sustained investment boom and an earlier  increase in real interest rates than in the case of disembodied productivity  improvement.
+8
+Wage and Price Adjustment
+In addition to the effects  on growth, an increase in productivity growth also reduces costs that  businesses face, contributing to downward pressure on inflation until prices  and wages fully adjust.
+9
+The presence of sticky  wages and prices generates a sustained disinflationary impulse (
+Figure 6
+). The  size and duration of this impulse depend on how quickly businesses and  households recognize the shift in productivity growth, with more rapid  recognition implying a smaller and more short-lived effect. Indeed, with  immediate recognition (not shown), the depressing effect on the inflation rate  is trivial, less than one tenth of a percentage point. In addition, real  interest rates rise immediately upon the onset of the shift in productivity  growth.
+I should emphasize that  the magnitude and timing of the movements in real activity, inflation, and  interest rates can depend on the particular model. Specifically, the  appropriate response of real interest rates depends on the relative movement in  demand and supply during the transition, which depends on the factors I have  discussed as well as model dynamics.
+10
+Robust Policy
+I’ll close with a note  on robust policy, which is related to what I discussed at last year’s  conference here in Reykjavik.
+11
+History—informed by  economic theory and evidence—teaches us that the macroeconomic effects of a  shift in productivity growth depend on the nature and expected duration of the  shift. Although each historical episode is unique, they also share  regularities.
+First, real-time  identification of structural change is extraordinarily difficult, and  expectations of future growth tend to adjust gradually to changes in underlying  productivity growth. As a result, in the initial stages following a shift, the  economy is likely to behave more like a temporary increase in productivity  growth than a permanent one.
+Second, an increase in  trend productivity growth raises real interest rates in the long run. However, the  path of real interest rates depends critically on three factors: how quickly  the shift is recognized by households and businesses; the nature of the shift  in productivity and its implications for the relative responses of demand and  supply during the transition; and the speed of adjustment of wages and prices.
+Third, shifts in  productivity growth are relatively infrequent and inherently highly uncertain.  The confidence bands around any estimates are large. Therefore, as in the case  of any type of structural change, robust policy approaches have an especially  favorable cost-benefit calculus.
+Thank you for your  attention. I look forward to the discussion.
+Presentation
+1
+Holston, Kathryn,  Thomas Laubach, and John C. Williams. 2017. “
+Measuring the Natural  Rate of Interest: International Trends and Determinants,
+”
+Journal of  International Economics
+, 108(S1), May, S59-S75; Williams, John C., “
+The Global Growth  Slump: Causes and Consequences,
+” Federal Reserve Bank of San Francisco  Economic Letter 2017-19, July 3, 2017.
+2
+Edge, Rochelle M.,  Thomas Laubach, and John C. Williams. 2007. “
+Learning and Shifts  in Long-Run Productivity Growth
+,” Journal of Monetary Economics, 54(8),  2421-38.
+3
+See Kahn, James A.  and Robert W. Rich. 2007. “
+Tracking the New  Economy: Using Growth Theory to Detect Changes in Trend Productivity
+,”
+Journal of  Monetary Economics
+54(6): 1670–1701; and Cline, Alexander, James A. Kahn,  and Robert W. Rich. 2025. “
+Is High Productivity  Growth Returning?
+,”  Federal Reserve Bank of Cleveland, Economic Commentary, 2025-01.
+4
+See references in Edge, Rochelle M.,  Thomas Laubach, and John C. Williams. 2007. “
+Learning and Shifts in Long-Run  Productivity Growth
+,”  Journal of Monetary Economics, 54(8), 2421-38.
+5
+Campbell, John Y. 1994. “
+Inspecting the Mechanism: An  Analytical Approach to the Stochastic Growth Model
+,” Journal of Monetary Economics,33(3),  463 – 506.
+6
+Federal Reserve Bank of New York,
+The New York Fed DSGE Model
+.
+7
+Qualitatively similar results are  obtained in other models, as discussed in Edge, Rochelle M., Thomas Laubach,  and John C. Williams. 2005. “
+Monetary Policy and Shifts in Long Run  Productivity Growth
+,”  Mimeo, Federal Reserve Bank of San Francisco; and Edge, Rochelle M., Thomas  Laubach, and John C. Williams. 2007. “
+Learning and Shifts in Long-Run  Productivity Growth
+,”  Journal of Monetary Economics, 54(8), 2421-38.
+8
+Edge, Rochelle M., Thomas Laubach,  and John C. Williams. 2004. “
+Learning and Shifts in Long-Run  Productivity Growth
+,”  Federal Reserve Bank of San Francisco Working Paper 2004-04. Relatedly, one can  imagine scenarios where the increase in productivity growth is expected to  occur in the future once the new technologies are fully developed, as analyzed  by Barsky, Robert B. and Eric R. Sims, 2011. “
+News Shocks and Business Cycles
+,”
+Journal of Monetary Economics,
+58(3), 273-89; and Beaudry, Paul and Franck Portier, 2014. “
+News-Driven Business Cycles: Insights  and Challenges
+,”
+Journal  of Economic Literature
+, 52(4), 993-1074.
+9
+See Edge, Rochelle M., Thomas  Laubach, and John C. Williams. 2005. “
+Monetary Policy and Shifts in Long Run  Productivity Growth
+,”  Mimeo, Federal Reserve Bank of San Francisco, May 9, 2005.
+10
+For example, in the model simulations  of the Federal Reserve Board’s macro model presented for the FOMC meeting in  February 2000, the near-term demand response outweighs the supply response, and  real interest rate need to adjust upward more quickly than absent the  productivity acceleration, see Board of Governors of the Federal Reserve  System, “
+Monetary Policy Alternatives  (Bluebook)
+,” January  28, 2000.
+11
+John C. Williams, “
+Uncertainty and  Robust Monetary Policy,
+” remarks at the Reykjavík Economic Conference,  Reykjavík, Iceland, May 9, 2025.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map
