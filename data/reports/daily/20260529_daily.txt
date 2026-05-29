@@ -1,0 +1,273 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 29, 2026 (Friday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY / NEWLY SCORED
+  1. Philip N. Jefferson  |  Vice Chair  |  Troika
+     "Global Economic Developments and the U.S. Economy"
+     Bank of Japan-Institute for Monetary and Economic Studies Conference,
+     Tokyo, Japan  [delivered May 27; missed in May 28 daily run]
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+     TYPE: A — Full Economic Outlook (compact panel-framing format) → SCORED
+
+SPEECHES CLASSIFIED / NOT SCORED
+  2. John C. Williams  |  NY Fed President  |  Troika
+     "Productivity Growth and the Challenge of Real-Time Policymaking"
+     Reykjavík Economic Conference, Reykjavík, Iceland  [delivered May 28]
+     SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260528
+     TYPE: B — Academic research (productivity growth dynamics, historical
+     episodes, gradual recognition models). No current economic outlook,
+     no policy stance. Scored separately as research context only.
+     STATUS: NOT SCORED — no embedded economic outlook section.
+     NOTE: Williams makes no reference to current inflation, labor, or
+     rate path. The speech's "robust policy" closing is historical
+     principle, not current guidance. Prior scored speech (May 4) remains
+     the current Troika anchor for Williams.
+
+NOTE ON BACKLOG: The pending queue contains 40 additional unscored raw
+  files from January–May 2026, the majority of which are Type B speeches
+  (regulation, AI operations, financial stability, rural investment),
+  stubs with no transcripts, or introductory remarks. None have been
+  reclassified to Type A on today's review. Systematic backlog clearing
+  is deferred; priority has been given to the actionable Troika speech.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  PHILIP N. JEFFERSON  |  Vice Chair  |  Troika
+    "Global Economic Developments and the U.S. Economy"
+    BoJ-IMES Conference, Tokyo, Japan  (May 27, 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[First post-April-29 economic outlook speech from Jefferson.
+ Williams (May 4) was the only prior post-FOMC Troika Type A speech.
+ Warsh has not spoken since confirmation. This is therefore the most
+ significant data point from the Troika since the May 4 Williams speech.]
+
+GROWTH
+  Jefferson echoes the FOMC statement characterization directly ("recent
+  economic growth in the U.S. has been solid"), then adds a deceleration
+  expectation: he "expects a more modest pace of growth this year as
+  households face high energy costs." He flags that he is "watching
+  whether higher energy prices will start to weigh on consumer spending."
+  This is a new addition vs. his April 7 speech, which carried no explicit
+  growth deceleration view. Growth is a secondary concern behind inflation,
+  but the energy-demand channel is now actively monitored at the Troika level.
+  Direction: neutral (solid but moderating; energy drag flagged)
+
+LABOR MARKET
+  Jefferson characterizes the labor market as "broadly stable, with both
+  hiring and firing at relatively low levels." This is slightly more
+  constructive phrasing than his Apr 7 "roughly in balance" — "broadly
+  stable" implies wider confirmation rather than a knife-edge balance.
+  He maintains downside risks: "I see risks to the labor market as
+  somewhat skewed to the downside." This mirrors his Apr 7 language
+  ("susceptible to adverse shocks," downside risks flagged). No change
+  in fundamental assessment.
+  Direction: neutral — stable with maintained downside tail; unchanged
+  from prior speech.
+
+INFLATION
+  Jefferson upgrades his inflation description materially: "In recent
+  months, inflation moved notably higher because of higher energy costs."
+  This is a confirmed-deterioration framing vs. his April 7 language,
+  which described only prospective "upward pressure" from energy costs.
+  He names two concurrent shocks: tariffs (stalling disinflation for
+  "the preceding year") and energy (driving inflation "notably higher"
+  in recent months). His forward view: "I expect inflation to decline
+  later this year as the effects of tariffs and the energy shock wane" —
+  a two-shock conditional for resumed disinflation, directly mirroring
+  the framework Powell articulated in the April 29 press conference Q&A.
+  Upside risk language carried forward: "I view risks around my inflation
+  outlook as tilted to the upside." New emphasis: "I am firmly committed
+  to returning inflation to the FOMC's 2 percent target" — placed as the
+  opening sentence of his policy paragraph, a positioning that signals
+  priority.
+  Direction: hawkish — "moved notably higher" is a meaningful upgrade
+  from prior speeches; two-shock conditional is more restrictive than
+  prior tariff-only framing.
+
+MONETARY POLICY
+  Jefferson echoes the committee holding formula: "this policy stance
+  leaves us well positioned to respond to economic developments based on
+  the incoming data, the evolving outlook, and the balance of risks."
+  New addition: "I have not prejudged the next meeting and look forward
+  to engaging with my colleagues about the policy necessary to best
+  achieve our dual-mandate goals." The "not prejudged" formulation is
+  more deliberately open-ended than his prior speeches' confident "well
+  positioned" language alone. It does NOT echo Waller's and Cook's
+  explicit hike signals ("prepared to raise rates") — Jefferson leaves
+  both directions formally open without endorsing tightening. No cut
+  signal. No hike signal. Explicit inflation commitment new to this speech.
+  Note: Jefferson cites the FFR as "3-1/2 to 3-3/4 percent" — this
+  conflicts with the established 4.25–4.50% rate; flagged as a data
+  quality issue pending analyst verification against official transcript.
+  Direction: neutral with slight hawkish lean — "not prejudged" is
+  structurally more open than prior hold-formula language; inflation
+  commitment emphasis is new.
+
+NET SIGNAL: HAWKISH LEAN — first Troika speech since Williams May 4
+  confirms inflation has deteriorated ("moved notably higher"), adopts
+  the two-shock conditional structure from Powell Apr 29, and opens
+  policy optionality with "not prejudged." Jefferson stops short of
+  Waller/Cook's explicit hike signals but does not contradict them.
+
+vs. PRIOR SPEECH (Apr 7, 2026):
+  HAWKISH LEAN — inflation moved from "upward pressure" to "moved
+  notably higher"; growth deceleration expectation added; two-shock
+  conditional introduced; "not prejudged" replaces unqualified hold formula.
+
+vs. PRE-FOMC SPEECH (Apr 7, 2026 = same):
+  HAWKISH LEAN — same as above; Apr 7 is both prior and pre-FOMC baseline.
+
+vs. COMMITTEE SINCE FOMC:
+  Jefferson sits between the explicit hike signalers (Waller, Cook) and
+  the patient-hold Paulson median-voter position. He is hawkish lean but
+  has NOT joined the hike camp. His "not prejudged" language is softer
+  than Waller's "prepared to raise rates" and Cook's pre-commitment to
+  hike "if expected disinflation does not appear in a timely manner."
+  With Williams' May 4 neutral and Jefferson's May 27 hawkish lean,
+  the Troika has now signaled through two speeches — both lean hawkish
+  relative to prior stances, but neither endorses tightening explicitly.
+  Warsh remains the unknown variable: no post-confirmation public speech.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WILLIAMS (May 28) — RESEARCH CONTEXT NOTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Williams' Reykjavík speech on "Productivity Growth and the Challenge
+of Real-Time Policymaking" is an academic research speech — no current
+economic assessment, no labor/inflation/rate language. It addresses
+the historical difficulty of identifying productivity trend shifts in
+real time (1970s slowdown, 1990s boom). The analytical implication is
+a "robust policy" argument for gradual adjustment to structural changes
+rather than sharp reactions to data that might be noise. This is
+consistent with Williams' existing patient-hold framing but is not
+an update to his current policy stance. Prior scored speech (May 4,
+2026 — "There Is No Try") remains operative.
+
+Note of potential indirect relevance: The AI productivity theme is
+present in Williams' speech ("AI and its potential to spur a
+productivity boom"). His historical analysis suggests that even if
+AI drives a real productivity acceleration, the policy-relevant
+variable is the recognition lag — central banks should adjust
+gradually. This is dovish on margin in an AI-boom scenario but
+Jefferson's May 27 speech and the current cycle context are not
+AI-productivity dominated.
+
+════════════════════════════════════════════════════════════════
+TROIKA STATUS UPDATE (as of May 29, 2026)
+════════════════════════════════════════════════════════════════
+
+Post-FOMC Troika economic outlook speeches:
+  Williams (May 4):   NEUTRAL — "well positioned"; no cut/hike signal;
+                      look-through on tariff/energy; underlying stable.
+  Jefferson (May 27): HAWKISH LEAN — inflation "moved notably higher";
+                      two-shock conditional; "not prejudged"; no hike
+                      signal but optionality kept open.
+  Warsh:              NOT YET SPOKEN (confirmed Apr 29; 30 days silence).
+
+Both available Troika voices lean hawkish relative to prior speeches.
+Neither has crossed into explicit hike territory. Warsh's absence
+means the June 18 statement language is not yet anchored by the new Chair.
+
+PRE-BLACKOUT WINDOW UPDATE:
+  8 calendar days remain before the June 6 blackout (inclusive today).
+  With Jefferson now logged, revised priority:
+    1. Warsh inaugural speech — 30+ days post-confirmation; still absent;
+       critical for June 18 anchoring
+    2. Williams: May 28 speech is research; watch for any subsequent
+       appearances before June 6 with current policy content
+    3. Goolsbee May 27 (BoJ) — transcript still pending; no update
+    4. Kashkari May 7 and May 13 stubs — YouTube recovery pending
+
+════════════════════════════════════════════════════════════════
+FULL POST-FOMC COMMITTEE SCOREBOARD (updated May 29)
+════════════════════════════════════════════════════════════════
+
+  Waller    (May 22): HAWKISH — explicit hike signal; easing bias
+                      removal call; "five years above target"
+  Cook      (May 27): HAWKISH — explicit conditional hike; PCE 3.8%;
+                      AI demand as inflation vector
+  Logan     (May 10): HAWKISH — "inflation still too high"; Apr 29
+                      dissenter; May 27 BoJ remarks: supply context only
+  Jefferson (May 27): HAWKISH LEAN — "moved notably higher"; "not
+                      prejudged"; two-shock conditional
+  Barkin    (May 21): HAWKISH LEAN — cumulative shocks framing (Non Voter)
+  Paulson   (May 19): HAWKISH LEAN — inflation-first bar; pre-cut
+                      conditions unmet (median voter)
+  Collins   (May 13): HAWKISH LEAN — hike scenario floated (Non Voter)
+  Goolsbee  (May 12): HAWKISH LEAN — "not obvious our policy is
+                      restrictive" (Non Voter)
+  Williams  (May 4):  NEUTRAL — patient hold; look-through on shocks
+
+Zero dovish signals from any speaker since April 29.
+Hike camp (explicit): Waller, Cook [two voters]
+Hawkish lean (implicit): Logan, Jefferson, Barkin, Paulson, Collins,
+                         Goolsbee [three voters, three non-voters]
+Neutral: Williams [one Troika vote]
+Warsh: UNKNOWN [one Troika vote; Chair]
+Bowman: UNKNOWN post-FOMC [one voter; last Type A speech was Jan 2026]
+Hammack, Kashkari, Miran: UNKNOWN post-FOMC Type A speech
+
+LANGUAGE TO WATCH (updated):
+  • "Inflation moved notably higher" (Jefferson May 27) — TROIKA-LEVEL
+    upgrade of inflation description; now in use by Waller, Cook, and
+    Jefferson. Watch for Williams or Warsh to adopt or contradict.
+  • "I am prepared to raise rates" (Waller May 22, Cook May 27) —
+    EMERGING SHARED at voter level; Jefferson has NOT adopted. Watch
+    for Troika endorsement or explicit pushback before blackout.
+  • "Have not prejudged the next meeting" (Jefferson May 27) —
+    DISPERSED; new optionality language from Troika; if Williams or
+    Warsh use this before June 6, it signals the June 18 meeting is
+    genuinely live for more than a hold.
+  • Two-shock conditional (tariffs AND energy waning) as disinflation
+    prerequisite — NOW TROIKA-LEVEL: Powell (Apr 29 Q&A) + Jefferson
+    (May 27). Effectively committee guidance until Warsh speaks.
+  • "Five years of above-target inflation" — COMMITTEE-WIDE among
+    non-Troika. Troika has not yet adopted. One Troika adoption =
+    potential statement insertion.
+
+ANALYST FLAG: YES
+  → Jefferson's entry as hawkish lean confirms directional committee
+    momentum but does NOT fully answer the critical pre-blackout question:
+    will the Troika endorse explicit hike language (echoing Waller/Cook)?
+    Jefferson's "not prejudged" suggests the Troika is keeping optionality
+    without pre-committing to the hike camp before engaging with colleagues.
+    Three actionable questions:
+    (1) Will Warsh speak before June 6? If so, his first speech as Chair
+        will anchor the June 18 statement direction. A Warsh speech that
+        echoes Jefferson's optionality language would signal consensus
+        for a "well positioned, not prejudged" hold while updating the
+        risk balance. A Warsh speech that echoes Waller/Cook would signal
+        a pre-announced easing bias removal or rate hike discussion.
+    (2) Does Jefferson's "not prejudged" represent the Troika's consensus
+        restraint on the explicit hike language, or is he simply behind
+        the communications curve?
+    (3) FFR discrepancy: Jefferson cites 3½–3¾% vs. established 4.25–4.50%.
+        Verify against official transcript before relying on surrounding
+        policy language.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches scored today:
+  Jefferson, May 27, 2026 (BoJ-IMES Conference, Tokyo):
+    https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+
+Speeches classified / not scored today:
+  Williams, May 28, 2026 (Reykjavík Economic Conference):
+    https://www.newyorkfed.org/newsevents/speeches/2026/wil260528
+
+Prior speech / pre-FOMC baseline (Jefferson):
+  Jefferson, Apr 7, 2026 "Economic Outlook and the Labor Market":
+    https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm
+
+Most recent scored speech per active speaker (for cross-reference):
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Cook, May 27:      https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Barkin, May 21:    https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Paulson, May 19:   https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+════════════════════════════════════════════════════════════════

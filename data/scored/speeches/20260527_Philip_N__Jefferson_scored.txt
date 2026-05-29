@@ -1,0 +1,215 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-27 | Philip N. Jefferson | Vice Chair | Troika
+"Global Economic Developments and the U.S. Economy"
+Bank of Japan-Institute for Monetary and Economic Studies Conference,
+Tokyo, Japan
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+
+CLASSIFICATION: Type A — Economic Outlook (compact panel-framing format;
+  three global developments + U.S. economy + monetary policy; brevity
+  is structural, not content-limiting)
+
+Reference FOMC:    April 29, 2026
+Pre-FOMC baseline: April 7, 2026  "Economic Outlook and the Labor Market"
+                   (University of Detroit Mercy — scored)
+Post-FOMC prior:   N/A — first post-April-29 Type A speech from Jefferson
+
+⚠ DATA QUALITY FLAG: Jefferson's speech cites the FFR as "3-1/2 to
+  3-3/4 percent." All prior scored files, daily reports (through May 28),
+  and CLAUDE.md consistently record the post-April-29 FFR as 4.25–4.50%.
+  No inter-meeting cut is recorded. This discrepancy is likely a
+  transcription or source error in the raw file. Scoring proceeds using
+  4.25–4.50% as the operative FFR. Analyst should verify against the
+  official transcript at federalreserve.gov.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity has been expanding at a solid pace." [Apr 29 stmt]
+  → Jefferson: "Recent economic growth in the U.S. has been solid."
+    Near-verbatim echo of statement characterization.
+
+Own language:
+  "...though I expect a more modest pace of growth this year as
+   households face high energy costs."
+  → New addition vs. Apr 7: Jefferson names energy costs as a growth
+    headwind for household spending — explicitly flagging demand-side
+    drag. Apr 7 did not include a growth deceleration expectation.
+    "I am watching whether higher energy prices will start to weigh on
+    consumer spending." — active monitoring signal.
+
+Shift vs. prior speech (Apr 7):  SLIGHT DOVISH on growth — Apr 7 had no
+  explicit growth deceleration expectation; May 27 adds "more modest pace"
+  with energy cost identified as mechanism. Not a policy-relevant
+  concern in isolation, but meaningful as backdrop for inflation framing.
+Shift vs. pre-FOMC (Apr 7 = also pre-FOMC baseline): same as above.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  [Apr 29 statement language on labor not directly quoted; Jefferson
+   does not invoke specific statement phrasing here]
+
+Own verdict:
+  "The U.S. labor market is broadly stable, with both hiring and
+   firing at relatively low levels."
+  → "Broadly stable" is slightly more constructive than Apr 7's
+    "roughly in balance" — the modifier "broadly" implies a wider
+    confirmation of stability rather than a knife-edge balance.
+    Low hiring AND low firing is a neutral characterization of
+    a subdued-but-not-deteriorating market.
+
+Own qualifier (carried forward from Apr 7):
+  "I see risks to the labor market as somewhat skewed to the downside."
+  → Near-identical to Apr 7 ("susceptible to adverse shocks"; "downside
+    risk to the labor market"). Same directional content; marginally
+    softened framing ("somewhat skewed" vs. the more alarming
+    "susceptible to adverse shocks"). Not a directional change.
+
+Shift vs. prior speech (Apr 7):  UNCHANGED — verdict stable; downside
+  risks maintained. The Apr 7 "cautious about that assessment" qualifier
+  does not appear in May 27, but the overall framing is equivalent.
+Shift vs. pre-FOMC (Apr 7):  UNCHANGED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains somewhat elevated." [Apr 29 stmt — implicit]
+  → Jefferson does not directly echo the statement phrase; he gives
+    a more specific characterization.
+
+Own language — KEY:
+  "Disinflation in the U.S. stalled over the preceding year, largely
+   because of increased tariffs."
+  → Consistent with Apr 7 characterization.
+
+  "In recent months, inflation moved notably higher because of higher
+   energy costs."
+  → HAWKISH UPGRADE vs. Apr 7. Apr 7 language: "recent increase in
+    energy prices...will apply some upward pressure on headline
+    inflation, at least in the near term." May 27 language: inflation
+    has already "moved notably higher" — present tense, confirmed
+    deterioration, not prospective pressure. This is a meaningful
+    strengthening of the inflation description.
+
+  "I expect inflation to decline later this year as the effects of
+   tariffs and the energy shock wane..."
+  → Jefferson adopts the two-shock conditional structure: disinflation
+    depends on BOTH tariff pass-through AND energy shock waning.
+    This mirrors the two pre-cut conditions Powell named in the
+    Apr 29 Q&A ("backside of the energy shock" AND "progress on
+    tariffs"). Jefferson is aligning his inflation baseline with the
+    Powell-announced framework. [Inference: this language does not
+    appear to be accidental alignment; it echoes the Troika framework
+    set in the Apr 29 press conference.]
+
+  "...but I view risks around my inflation outlook as tilted to the
+   upside."
+  → Direct carryover from Apr 7 ("upside risk to my inflation
+    forecast"). Now durable across two speeches. May 27 formulation
+    slightly broadened: "risks around my inflation outlook" (Apr 7:
+    "risk to my inflation forecast") — same substance.
+
+  "I am firmly committed to returning inflation to the Federal Open
+   Market Committee's 2 percent target."
+  → Explicit inflation commitment, placed at the opening of the policy
+    paragraph — unusual positioning that signals priority ranking.
+    Not present as a standalone commitment sentence in Apr 7.
+
+Shift vs. prior speech (Apr 7):  HAWKISH — "moved notably higher" is
+  a confirmed deterioration vs. Apr 7's prospective "upward pressure";
+  two-shock conditional structure is now explicit where Apr 7 only
+  named tariffs as the primary driver of resumed disinflation.
+Shift vs. pre-FOMC (Apr 7):  HAWKISH — same as above.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "well positioned to respond to a range of outcomes" [Apr 29 stmt]
+  → Jefferson: "this policy stance leaves us well positioned to
+    respond to economic developments based on the incoming data,
+    the evolving outlook, and the balance of risks."
+    Mirrors the committee's holding formula closely.
+
+Own language:
+  "I have not prejudged the next meeting and look forward to
+   engaging with my colleagues about the policy necessary to
+   best achieve our dual-mandate goals."
+  → "Have not prejudged" is a deliberate optionality statement —
+    more open-ended than Apr 7's unqualified "well positioned"
+    formula. In context of the committee's emerging hawkish tilt
+    (Waller May 22, Cook May 27 explicit hike signals), this
+    language does NOT rule out discussion of tightening at June 18.
+    It is also not a hike signal — Jefferson does not echo
+    Waller's "prepared to raise rates" framing.
+    [Inference: "not prejudged" may be Jefferson's way of keeping
+    committee optionality without endorsing the hike direction.
+    Watch for whether he adds directional guidance before June 6 blackout.]
+
+Cut signal status: ABSENT — no "further reductions" language;
+  not carried forward from any prior Jefferson speech.
+Hike signal status: ABSENT — no "prepared to raise rates" or
+  equivalent. But not ruled out by "not prejudged" language.
+
+Shift vs. prior speech (Apr 7):  SLIGHT HAWKISH LEAN — Apr 7
+  projected more certainty in the hold formula ("confident our
+  current policy stance is well-positioned"); May 27 adds the
+  "not prejudged" qualifier, which is structurally more open.
+  The explicit inflation-first commitment ("firmly committed")
+  is also new emphasis.
+Shift vs. pre-FOMC (Apr 7):  SLIGHT HAWKISH LEAN — same as above.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+               Jefferson's first post-April-29 economic outlook
+               speech upgrades the inflation description from
+               prospective pressure to confirmed deterioration
+               ("moved notably higher"). Labor is stable with
+               maintained downside risks. Growth is solid but
+               includes a new energy-cost headwind. Policy hold
+               confirmed with "not prejudged" language that keeps
+               the door open without endorsing the Waller/Cook
+               hike signal. The two-shock conditional (tariffs AND
+               energy) for disinflation resumption is now explicit
+               — Troika-level adoption of the framework Powell
+               named Apr 29.
+
+Language watch:
+  • "Inflation moved notably higher" — HAWKISH upgrade vs. Jefferson's
+    prior language; first time Jefferson uses "moved higher" for
+    inflation (prior: "upward pressure"). Watch for Williams to adopt
+    or contradict.
+  • "Firmly committed to returning inflation to the 2 percent target" —
+    new explicit inflation commitment framing; added emphasis vs. prior
+    speeches. Dispersed stage; watch for spread.
+  • Two-shock conditional ("as the effects of tariffs and the energy
+    shock wane") — confirms Jefferson aligning with Powell Apr 29
+    framework; now Troika consensus on the precondition structure.
+  • "Have not prejudged the next meeting" — optionality language;
+    weaker than an active policy lean but notable for a Troika
+    member this close to blackout. If it spreads to Williams or
+    Warsh, signals June 18 is genuinely live for directional change.
+
+Analyst flag:  YES
+  → Two analytical questions:
+    (1) FFR discrepancy: Jefferson's speech cites "3-1/2 to 3-3/4
+        percent" — materially below established 4.25–4.50%. Verify
+        against official transcript before treating any surrounding
+        policy language as authoritative.
+    (2) "Not prejudged" interpretation: Is Jefferson signaling
+        personal openness to tightening, or simply maintaining
+        standard optionality language under committee-wide pressure?
+        His language does not echo Waller/Cook's explicit hike
+        framing — this may be deliberate Troika restraint (neither
+        endorsing nor contradicting), or it may be a holding pattern
+        before a pre-blackout communication. Analyst should track
+        any further Jefferson comments before June 6.
+══════════════════════════════════════════════════════════
