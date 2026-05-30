@@ -1,0 +1,252 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 30, 2026 (Saturday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 30, 2026)
+  None. No scheduled Fed speeches on Saturday.
+
+NEWLY SCORED FROM PRIOR DAY
+  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "A Framework for Practical Monetary Policy Decision Making"
+     Reykjavík Economic Conference 2026, Central Bank of Iceland,
+     Reykjavík, Iceland  [delivered May 29; absent from May 29 daily run]
+     TYPE: B with embedded Type A outlook ("The Current Situation" section)
+     → SCORED
+
+STUBS / TRANSCRIPT PENDING
+  2. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     BoJ Institute for Monetary and Economic Studies Conference, Tokyo
+     [May 27; stub — no transcript; YouTube recovery pending]
+
+PRE-BLACKOUT WINDOW: 7 calendar days to June 6 blackout (Jun 6–19).
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  MICHELLE W. BOWMAN  |  Vice Chair for Supervision  |  Just Voter
+    "A Framework for Practical Monetary Policy Decision Making"
+    Reykjavík Economic Conference, Iceland  (May 29, 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[First post-April-29 economic outlook speech from Bowman. She gave
+ zero Type A speeches from February 1 through May 28 — a 119-day
+ gap spanning the Iran conflict onset, two FOMC meetings (Mar 19,
+ Apr 29), and the committee's shift toward a hawkish split with
+ explicit hike signals from Waller and Cook. Her January 30 stance
+ (most dovish voter; 3-cut SEP; "fragile" labor; active cut advocacy)
+ was the only prior baseline.]
+
+GROWTH
+  Bowman describes the economy as having "been resilient" with GDP
+  growing at a "moderate to solid pace, supported by strong AI-related
+  business investment." Growth has slowed since last summer on softer
+  real personal income and winter weather weighing on consumer spending.
+  Uniquely, she credits "supportive supply-side policies, including
+  less restrictive regulations and lower business taxes" as growth-
+  supportive — no other scored speaker has made this framing.
+  Direction: neutral — resilient-but-moderating; AI investment offset.
+
+LABOR MARKET
+  KEY SHIFT: Bowman upgrades from January 30's "increasingly fragile
+  and could continue to deteriorate" to "appears to have become more
+  stable in recent months, [but] there are still signs of fragility."
+  Hard data supports: unemployment at 4.3% in April, stronger payroll
+  gains year-to-date. Soft data caution held: job-finding rate "on a
+  downward path," employment concentrated in healthcare/social assistance,
+  long-term unemployment at 25% reflecting "a labor market with low
+  dynamism." The stabilization is acknowledged but not celebrated;
+  structural fragility language is retained beneath the surface.
+  Direction: neutral (slight hawkish lean vs. January 30, which was
+  the most dovish labor characterization from any voter in early 2026).
+
+INFLATION
+  Bowman directly confronts the deterioration: "Progress on lowering
+  inflation appears to have stalled" with total PCE at 3.8% and core
+  PCE at 3.3% — "up noticeably since September." She attributes the
+  headline rise to energy (Iran) and tariff/software idiosyncrasies.
+  Crucially, she maintains her look-through analytical frame: the
+  trimmed mean PCE is "closer to 2 percent since last September," and
+  after removing tariffs and software, core PCE would have "continued
+  to hover only a bit above 2 percent." This is a slight upward revision
+  from her January 30 "close to 2 percent," but the framework is
+  unchanged. She expects the Iran energy shock to be temporary: "once
+  the conflict is resolved, supply disruptions will ease, leaving a
+  temporary imprint in PCE inflation and minimal impacts on domestic
+  economic activity." Risk caveat: if disruptions "persist well into
+  the second half of the year, we could start to see broader effects
+  on inflation."
+  Direction: neutral (slight hawkish lean vs. January 30). Acknowledges
+  deterioration but maintains the most dovish inflation interpretation
+  on the committee via look-through and trimmed-mean anchoring.
+
+MONETARY POLICY
+  Two key signals:
+  (1) "I appreciated and supported keeping the language from the
+      March post-meeting statement about additional policy rate
+      adjustments." — EXPLICIT EASING BIAS ENDORSEMENT. Bowman is
+      the only scored voter who has stated she supports the easing
+      bias language that Waller/Cook want to remove and that Logan,
+      Hammack, and Kashkari dissented against on April 29. This is
+      a meaningful committee anchor: the easing bias has at least
+      one explicit defender at the voter level.
+  (2) "our moderately restrictive policy stance" — CARRIED FORWARD
+      from January 30. All other scored speakers describe policy as
+      "well positioned" or equivalent neutral-hold language. Bowman's
+      "moderately restrictive" characterization implies she sees more
+      room to ease than the committee median, consistent with her
+      higher estimate of the neutral rate.
+  Look-through endorsed: "It is appropriate to look through temporarily
+  elevated inflation readings largely due to higher energy prices,
+  provided that we remain credible in our commitment to achieve our
+  inflation goal and one-off tariff effects wane, as I expect."
+  Conditional escape: she would reconsider if oil prices prove
+  persistent or if broader second-round effects materialize.
+  Cut signal: RETRACTED — no mention of cuts, no SEP disclosure,
+  no "ready to adjust" language. The January 30 3-cut SEP advocacy
+  has been quietly withdrawn.
+  Hike signal: ABSENT — she does not echo Waller or Cook's "prepared
+  to raise rates" language and is implicitly opposed to it via the
+  easing bias endorsement.
+  Direction: neutral-dovish — supports holding, opposes tightening,
+  defends easing optionality.
+
+NET SIGNAL: NEUTRAL-DOVISH — Bowman remains the committee's most
+  explicitly dovish voter. She has moved hawkish relative to her
+  own January 30 stance (cut signal retracted, labor upgraded,
+  inflation acknowledged as stalled) but holds a clearly different
+  position from the hawkish lean of Jefferson, Paulson, and Barkin,
+  and is in direct opposition to Waller and Cook's explicit hike
+  signals. Her endorsement of the easing bias and "moderately
+  restrictive" characterization make her the committee's dovish
+  anchor heading into the June 6 blackout.
+
+vs. PRIOR SPEECH (Jan 30, 2026):     HAWKISH LEAN — labor upgraded
+  from "fragile" to "more stable"; inflation acknowledged as stalled
+  (Jan: "confident inflation will come down"); cut signal retracted;
+  SEP disclosure dropped; 3-cut projection not mentioned.
+
+vs. PRE-FOMC SPEECH (Jan 30, 2026):  HAWKISH LEAN — same as prior
+  (Jan 30 is both prior speech and pre-FOMC baseline).
+
+vs. COMMITTEE SINCE FOMC:  Bowman is the dovish outlier. While
+  Waller, Cook have issued hike signals and Logan/Jefferson/Paulson
+  lean hawkish, Bowman explicitly defends the easing bias and
+  describes policy as "moderately restrictive." She and Jefferson
+  (whose "not prejudged" language is more cautious than a hike signal)
+  are the two voters most resistant to a June tightening move. The
+  committee split heading into blackout: hike camp (Waller, Cook),
+  hawkish lean (Logan, Jefferson, Paulson, Barkin [non-voter]),
+  neutral-hold (Williams), dovish (Bowman). Hammack, Kashkari, Miran
+  remain unheard post-FOMC.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE SCOREBOARD UPDATE (post-Bowman May 29)
+════════════════════════════════════════════════════════════════
+
+  Waller    (May 22): HAWKISH — explicit hike signal; easing bias
+                      removal call; "five years above target"
+  Cook      (May 27): HAWKISH — explicit conditional hike; PCE 3.8%;
+                      AI demand as inflation vector
+  Logan     (May 10): HAWKISH — "inflation still too high"; Apr 29
+                      dissenter [May 27 BoJ remarks: supply context only]
+  Jefferson (May 27): HAWKISH LEAN — "moved notably higher"; "not
+                      prejudged"; two-shock conditional
+  Barkin    (May 21): HAWKISH LEAN — cumulative shocks framing (Non Voter)
+  Paulson   (May 19): HAWKISH LEAN — inflation-first bar; pre-cut
+                      conditions unmet (median voter)
+  Collins   (May 13): HAWKISH LEAN — hike scenario floated (Non Voter)
+  Goolsbee  (May 12): HAWKISH LEAN — "not obvious our policy is
+                      restrictive" (Non Voter)
+  Williams  (May 4):  NEUTRAL — patient hold; look-through on shocks
+  Bowman    (May 29): NEUTRAL-DOVISH — easing bias endorsed; "moderately
+                      restrictive"; look-through on energy; cut signal
+                      retracted but hike signal absent
+
+  Hammack, Kashkari, Miran: UNKNOWN post-FOMC Type A speech
+  Warsh: NOT YET SPOKEN as Chair (confirmed Apr 29)
+  Musalem: low transcript availability
+
+Hike camp (explicit):   Waller, Cook [2 voters]
+Hawkish lean:           Logan, Jefferson, Paulson [3 voters]
+                        + Barkin, Collins, Goolsbee [3 non-voters]
+Neutral:                Williams [1 Troika vote]
+Neutral-dovish:         Bowman [1 voter]
+Unknown:                Warsh [Chair; 1 Troika vote], Hammack,
+                        Kashkari, Miran [3 voters]
+
+════════════════════════════════════════════════════════════════
+PRE-BLACKOUT COVERAGE GAPS (Jun 6 blackout start)
+════════════════════════════════════════════════════════════════
+
+  CRITICAL:
+    1. Warsh — no public speech since confirmation Apr 29.
+       7 days remain. His first speech as Chair would anchor
+       the June 18 statement direction.
+    2. Kashkari (May 7, May 13) — Just Voter; two Q&A events
+       with no transcripts. YouTube recovery needed.
+    3. Goolsbee (May 27) — BoJ stub; no transcript.
+    4. Hammack (Cleveland) — no post-FOMC economic outlook speech
+       (hawkish Apr 29 dissenter; JS-rendered website). YouTube
+       recovery needed.
+    5. Miran (Governor) — new in 2026; no post-FOMC Type A speech.
+       Low transcript availability.
+
+LANGUAGE TO WATCH (updated):
+  • "moderately restrictive" (Bowman May 29) — ISOLATED at one voter.
+    If Williams or Warsh echo this before Jun 6, it signals a Troika
+    dovish lean that would reverse the current committee narrative.
+  • "additional policy rate adjustments" [easing bias] — UNDER SIEGE:
+    Waller/Cook want to remove; 3 hawkish dissenters voted against;
+    Bowman explicitly defends. Jefferson's "not prejudged" is
+    ambiguous. Current status: fragile majority holding.
+  • "I am prepared to raise rates" (Waller May 22, Cook May 27) —
+    EMERGING SHARED at Just Voter level. Bowman is the explicit
+    counterweight. Watch for Jefferson or Williams to adopt or reject
+    before blackout.
+  • Two-shock conditional (tariffs AND energy waning) — NOW
+    COMMITTEE-WIDE as a disinflation prerequisite (Powell, Jefferson,
+    Bowman all use this frame). Bowman is most optimistic that both
+    conditions will be met; others are more cautious.
+
+ANALYST FLAG: YES
+  → The committee scoreboard 7 days before blackout shows a
+    significant directional split: 2 explicit hike signals, 3 hawkish
+    leans among voters, 1 neutral-dovish (Bowman). Warsh's silence
+    is the dominant uncertainty. Three specific questions:
+    (1) Will Warsh speak before June 6? His framing would anchor
+        the June 18 outcome more decisively than any non-Chair signal.
+    (2) Does the easing bias survive to the June 18 statement?
+        Bowman defends it; Waller/Cook want it removed; 3 dissenters
+        voted against it on April 29. If Warsh does not explicitly
+        endorse the easing bias language, its survival at June 18
+        becomes mathematically uncertain.
+    (3) Kashkari/Hammack/Miran are hawkish Apr 29 dissenters whose
+        post-FOMC views are unknown. If all three have moved to the
+        explicit hike camp, the hike-signal bloc would grow from
+        2 to 5 explicit voters — a majority for a hike discussion.
+        Transcript recovery for Kashkari (YouTube) is high priority.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches scored today:
+  Bowman, May 29, 2026 (Reykjavík Economic Conference):
+    https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+    [URL inferred from standard Fed Board pattern — verify at source]
+
+Prior speech / pre-FOMC baseline (Bowman):
+  Bowman, Jan 30, 2026 "Outlook for the Economy and Monetary Policy":
+    https://www.federalreserve.gov/newsevents/speech/bowman20260130a.htm
+
+Stub (transcript pending):
+  Goolsbee, May 27, 2026 (BoJ-IMES Conference, Tokyo):
+    https://www.chicagofed.org/publications/speeches/2026 [search for May 27]
+
+Most recent scored speech per active speaker (cross-reference):
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Cook, May 27:      https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Jefferson, May 27: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Paulson, May 19:   https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+════════════════════════════════════════════════════════════════

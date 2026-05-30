@@ -1,0 +1,313 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-29 | Michelle W. Bowman | Vice Chair for Supervision | Just Voter
+"A Framework for Practical Monetary Policy Decision Making"
+Reykjavík Economic Conference 2026, Central Bank of Iceland,
+Reykjavík, Iceland
+SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+[URL inferred from standard Fed Board pattern — verify at source]
+
+CLASSIFICATION: Type B with embedded Type A outlook. Speech is
+  primarily a framework discussion (hypothetical cut/hike/hold
+  conditions, illustrated with historical FOMC votes). The section
+  "The Current Situation" (beginning "Turning to the current economic
+  conditions...") constitutes a full four-topic economic assessment
+  covering growth, labor, inflation, and monetary policy path.
+  Scored for the embedded "Current Situation" section only.
+
+Reference FOMC:    April 29, 2026 (hold; FFR 4.25–4.50%)
+Pre-FOMC baseline: January 30, 2026  "Outlook for the Economy and
+  Monetary Policy" — SW Graduate School of Banking, Oahu, Hawaii
+  [Last Type A speech before the April 18 blackout; all Feb–May
+   speeches are regulatory Type B. Jan 30 is both the prior speech
+   and the pre-FOMC baseline.]
+Post-FOMC prior:   N/A — first post-April-29 economic outlook speech
+  from Bowman. Jan 30 serves as both prior and pre-FOMC baseline.
+──────────────────────────────────────────────────────────
+
+NOTE ON SIGNIFICANCE: Bowman gave zero economic outlook speeches
+  from February 1 through May 28, 2026 — a 119-day gap during which
+  the Iran conflict (est. May 1) began, the FOMC met twice (Mar 19,
+  Apr 29), and the committee shifted from easing-bias consensus to
+  a hawkish split with explicit hike signals from Waller and Cook.
+  This speech is the first window into her updated policy views post-
+  April-29. Her January 30 stance (most dovish voter; 3-cut SEP;
+  "fragile" labor; active cut advocacy) is the only prior baseline.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: not directly invoked
+  → Bowman does not echo the "solid" activity characterization.
+    She frames growth as resilient-but-moderating.
+
+Own language:
+  "The U.S. economy has been resilient, but the labor market
+   remains vulnerable to adverse shocks and PCE inflation has
+   moved up, due largely to higher energy prices."
+  — Opening sentence of the current assessment; frames the situation
+    as three concurrent challenges (resilience, labor vulnerability,
+    energy-driven inflation) rather than the committee's more
+    uniform "solid activity" framing.
+
+  "real GDP growth has been rising at a moderate to solid pace,
+   supported by strong AI-related business investment. Growth has
+   slowed since last summer, as both softness in real personal
+   income and the severe winter weather have weighed on consumer
+   spending."
+  — Moderate-to-solid; consumer spending is the drag, AI investment
+    the offset. Consistent with other post-FOMC speakers.
+
+  "Supportive supply-side policies, including less restrictive
+   regulations and lower business taxes, will also likely favor
+   these conditions."
+  — Unique addition: Bowman explicitly credits deregulation and tax
+    cuts as growth-supportive. No other scored speaker has made
+    this framing. [Inference: she is more aligned with the
+    administration's supply-side narrative than other officials.]
+
+Shift vs. prior speech (Jan 30, 2026):
+  NEUTRAL — Jan 30 flagged Q4 deceleration; now describes
+  "moderate to solid" pace. The framing is broadly similar.
+
+Shift vs. pre-FOMC (Jan 30, 2026):
+  NEUTRAL — same.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: not directly invoked
+
+Own verdict:
+  "the labor market appears to have become more stable in recent
+   months, there are still signs of fragility."
+  — KEY SHIFT: In January 30, Bowman used "fragile" without
+    qualification, calling it "increasingly fragile" and warning
+    of rapid deterioration risk. Here she upgrades to "more stable"
+    while retaining the "fragility" qualifier. This is her most
+    constructive labor framing since joining the Board.
+
+Own qualifier / additions:
+  "The unemployment rate remained at 4.3 percent in April, with
+   stronger payroll employment gains so far this year."
+  — Acknowledges the stabilization in hard data.
+
+  "The job-finding rate, which measures the percentage of
+   unemployed workers that are able to find a job, has continued
+   on a downward path in recent months."
+  — Soft-data warning held: the flow into jobs from unemployment
+    is still declining, pointing to deteriorating labor market
+    dynamics beneath the stable U rate.
+
+  "employment growth has been concentrated in less cyclically
+   sensitive industries like health care and social assistance"
+  — Compositional concern: not broad-based; narrow sectoral
+    concentration is a fragility signal.
+
+  "the share of long-term unemployed remains around 25 percent,
+   reflecting a labor market with low dynamism"
+  — Low dynamism framing echoes her Jan 30 "labor market can
+    appear stable right up until it isn't" structural concern.
+    [Inference: she still sees the labor market as fragile beneath
+    the surface stabilization.]
+
+Shift vs. prior speech (Jan 30, 2026):
+  HAWKISH LEAN (less dovish) — "more stable" replaces "increasingly
+  fragile and could continue to deteriorate." The alarm level has
+  dropped. Stabilization in hard data acknowledged.
+
+Shift vs. pre-FOMC (Jan 30, 2026):
+  HAWKISH LEAN — same direction.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: not directly invoked explicitly,
+  but her framing is consistent with the committee's look-through
+  stance on energy.
+
+Own language — KEY:
+  "Progress on lowering inflation appears to have stalled, with
+   measures of PCE inflation moving up recently. On a 12-month
+   basis, total PCE inflation picked up to 3.8 percent in April,
+   mostly reflecting higher gasoline and fuel oil prices, and
+   core PCE inflation rose further to 3.3 percent last month,
+   up noticeably since September."
+  — ACKNOWLEDGES deterioration. In January 30, she never saw these
+    headline numbers (Jan PCE was reported in Feb). She now confronts
+    3.8% total and 3.3% core directly. This is her most explicit
+    acknowledgment of inflation worsening.
+
+  "trimmed mean PCE measure, indicate that core inflation has
+   moved down closer to 2 percent since last September."
+  — MAINTAINS look-through anchor: underlying inflation (trimmed
+    mean) is heading toward 2% even as headline deteriorates.
+
+  "After removing these one-off factors [tariffs + software prices],
+   core PCE inflation would have continued to hover only a bit
+   above 2 percent, reflecting no pressures from the labor market
+   and weakness in market rents."
+  — CONSISTENT with her Jan 30 formulation ("After removing these
+    [tariff] effects, core PCE inflation would have hovered close
+    to 2 percent"). She is applying the SAME analytical methodology
+    as January but arriving at "a bit above 2 percent" rather than
+    "close to 2 percent" — a slight but meaningful upward revision
+    to underlying inflation.
+
+  "I am optimistic that, once the conflict is resolved, supply
+   disruptions will ease, leaving a temporary imprint in PCE
+   inflation and minimal impacts on domestic economic activity."
+  — Conditional look-through on Iran energy shock: temporary,
+    not structural. Most dovish interpretation of the shock on
+    the committee.
+
+  Risk qualifier:
+  "But, should disruptions persist well into the second half of
+   the year, we could start to see broader effects on inflation."
+  — Escape valve: she is not fully committed to the look-through
+    if the energy shock proves persistent.
+
+Shift vs. prior speech (Jan 30, 2026):
+  HAWKISH LEAN (less dovish) — Jan 30 described underlying
+  inflation as "close to 2 percent" and "high confidence in
+  disinflation." Now: "a bit above 2 percent" and a new risk
+  qualifier on Iran energy persistence. The confidence level
+  has declined; the underlying inflation estimate has nudged up.
+
+Shift vs. pre-FOMC (Jan 30, 2026):
+  HAWKISH LEAN — same.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "additional policy rate adjustments" (Apr 29, 2026 statement
+   — the easing bias language that Logan, Hammack, Kashkari
+   dissented against on April 29)
+  → Speaker version: "I appreciated and supported keeping the
+    language from the March post-meeting statement about additional
+    policy rate adjustments."
+  — EXPLICIT EASING BIAS ENDORSEMENT. Bowman is the only scored
+    voter who has explicitly stated she supported keeping the easing
+    bias language after April 29. This is a significant signal:
+    she is anchoring the committee's dovish minority against
+    Waller/Cook's push for hike language and the hawkish
+    dissenters' vote against the easing bias altogether.
+
+Own language:
+  "our moderately restrictive policy stance is intended to help
+   maintain stable labor market conditions while allowing
+   inflation to resume its downward trend toward 2 percent
+   once the effects of tariffs and oil prices dissipate."
+  — "Moderately restrictive" CARRIED FORWARD from January 30.
+    This is Bowman's unique marker: every other scored voter
+    uses "well positioned," "close to neutral," or equivalent
+    holding language. Bowman continues to characterize policy
+    as restrictive with room to ease.
+
+  "It is appropriate to look through temporarily elevated
+   inflation readings largely due to higher energy prices,
+   provided that we remain credible in our commitment to achieve
+   our inflation goal and one-off tariff effects wane, as I expect."
+  — Look-through with a credibility proviso. Not unconditional.
+
+  Conditional risk:
+  "the more persistent higher oil prices are — or if we start
+   to see broader effects of higher energy prices on PCE inflation
+   — the more likely I will consider shifting my approach to
+   thinking about the balance of risks."
+  — This is her only hawkish warning: she can be moved if the
+    energy shock broadens. But the threshold is persistence plus
+    broader second-round effects — a high bar.
+
+  "Before our next meeting in June, we will have received one
+   additional month of employment and inflation data. In the
+   meantime, I will continue to evaluate the incoming data..."
+  — Standard data-dependent language; no forward commitment.
+
+Cut signal status: RETRACTED — January 30 had an active cut
+  advocacy signal ("ready to adjust... closer to neutral") and
+  a 3-cut SEP disclosure. This speech mentions no cuts, no SEP,
+  and no cut trajectory. The easing bias endorsement is NOT a
+  cut signal; it signals she prefers the option to cut over the
+  option to hike, but she makes no timing commitment.
+
+[No hike signal — explicitly inconsistent with Waller/Cook framing]
+
+Shift vs. prior speech (Jan 30, 2026):
+  HAWKISH LEAN (less dovish) — cut signal retracted; SEP disclosure
+  dropped; no "ready to adjust" language. She now waits for data
+  rather than advocating action. The easing bias endorsement
+  replaces active cut advocacy as her dovish marker.
+
+Shift vs. pre-FOMC (Jan 30, 2026):
+  HAWKISH LEAN — same.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (vs. prior) / DOVISH LEAN (vs. committee)
+               Bowman has moved hawkish relative to her January 30
+               stance — labor is "more stable," inflation is "stalled"
+               rather than "descending toward 2%," and her 3-cut SEP
+               advocacy has been replaced by data-dependent waiting.
+               However, she remains the most dovish voter on the
+               current committee: the only voter explicitly endorsing
+               the easing bias language, the only voter describing
+               policy as "moderately restrictive," and the only voter
+               applying an aggressive look-through to energy inflation.
+
+               Her core analytical move: tariff-adjusted/trimmed-mean
+               inflation remains the focal variable (≈2%), energy is
+               temporary, labor has stabilized (though fragility
+               remains beneath the surface). Under this framework,
+               the conditions for cuts are not yet met but the
+               conditions for hikes are not met either — she is
+               genuinely in a wait-and-see position.
+
+               The critical committee context: Waller and Cook have
+               explicit hike signals; Logan, Jefferson, and Paulson
+               are hawkish lean. Bowman is the only voter pushing
+               in the opposite direction. Her endorsement of the
+               easing bias provides the committee's June 18 statement
+               with at least one voter anchor for the existing language —
+               but she is in a minority position relative to the vocal
+               hike camp.
+
+Language watch:
+  • "moderately restrictive" — UNIQUE to Bowman; all other voters
+    use neutral/hold language. If this spreads, it signals a dovish
+    committee shift. Currently isolated.
+  • "I appreciated and supported keeping [easing bias] language"
+    — UNIQUE; first explicit post-FOMC easing bias endorsement from
+    any voter. Analytically important as the dovish counterweight
+    to Waller/Cook hike advocacy. Not a cut signal.
+  • "a bit above 2 percent" (underlying inflation) — slight upward
+    revision from her Jan 30 "close to 2 percent." Consistent
+    direction of travel with the rest of the committee, but she
+    remains at the most dovish end of the inflation assessment.
+  • "low dynamism" (labor market) — new phrasing for structural
+    fragility; more nuanced than prior "fragile" language.
+
+Analyst flag:  YES
+  → Three questions require analyst input:
+    (1) Bowman's retraction of the 3-cut SEP and the cut signal is
+        significant. Has she signaled anywhere (media, events not
+        transcribed) that she updated her SEP between January and
+        May? If not, this speech is the first public acknowledgment
+        of a major stance revision.
+    (2) Her "moderately restrictive" rate characterization is an
+        outlier vs. all other voters. Does she estimate a
+        materially different neutral rate (r*) than the Troika,
+        or is this a legacy framing she hasn't updated?
+    (3) She explicitly supports the easing bias. Given that
+        Waller, Cook, and the three hawkish dissenters are all
+        pushing against or beyond that language, Bowman is one
+        of a small number of voters (possibly just her plus
+        Jefferson's "not prejudged") holding the easing bias in
+        place at the June 18 meeting. Analyst to assess the
+        current vote tally on the easing bias: how many voters
+        support it, how many want it removed, and how many want
+        to add hike language?
+══════════════════════════════════════════════════════════
