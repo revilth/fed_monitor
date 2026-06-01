@@ -1,0 +1,241 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 1, 2026 (Monday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (June 1, 2026)
+  None. No Federal Reserve speeches scraped for June 1.
+
+BACKLOG REVIEWED THIS RUN — 40 PENDING FILES, 0 SCORED
+────────────────────────────────────────────────────────────────
+All 40 pending files were classified. None qualify as Type A or
+Type B-with-outlook. Summary by speaker:
+
+KASHKARI (Minneapolis, Just Voter — hawkish Apr 29 dissenter)
+  Six Q&A events with no transcripts:
+    Jan 4  — 2026 ASSA session (stub; video only)
+    Jan 14 — Wisconsin Bankers Association virtual town hall (stub)
+    Feb 19 — Midwest Economic Outlook Summit, Fargo (stub; video only)
+    Mar 3  — Bloomberg Invest conference (stub)
+    May 7  — InvestUP CEO Summit, Marquette (stub)
+    May 13 — St. Paul Area Chamber (stub; video only)
+  → ALL STUBS. Minneapolis Fed page shows audio/video links but no
+    transcripts and no auto-transcript extraction has succeeded.
+    Kashkari's post-FOMC economic stance remains entirely unknown
+    with 5 days to blackout. YouTube recovery is the only remaining
+    path; priority is May 7 and May 13 (closest to June 18 meeting).
+
+GOOLSBEE (Chicago, Non Voter — "not obvious policy is restrictive")
+  Five appearances with no scoreable content:
+    Feb 19 — Joint Conference on Financial Crises (58 words; stub)
+    Mar 6  — Foreign Policy Association dinner (81 words; intro only;
+              edited transcript noted but file contains only lead graf)
+    Mar 31 — Economic Mobility Project virtual event (31 words; stub)
+    Apr 7  — Detroit Economic Club Q&A (stub)
+    May 6  — Milken Institute Global Conference (empty file — 0 bytes)
+  → Most recent scored stance (May 12 Greater Rockford) stands.
+    Non Voter; lower analytical weight for June 18 outcome.
+
+PAULSON (Philadelphia, Just Voter — median voter)
+  Mar 6  — "Private Canaries" (2026 U.S. Monetary Policy Forum)
+             Full transcript present; TYPE B — methodological discussion
+             of private-sector data for policymaking (tiles/mosaic
+             framing). No growth, labor, inflation, or FFR stance.
+             → NOT SCORED.
+  Apr 14 — Rural Investment fireside chat (stub; no transcript).
+             → NOT SCORED.
+  [Paulson's economic stance captured in May 19 scored speech.]
+
+WALLER (Board Governor, Just Voter)
+  Feb 24 — "Operationalizing AI at the Federal Reserve"
+             TYPE B — internal AI deployment; no economic outlook.
+  May 8  — "Update On Federal Reserve Bank Operations"
+             TYPE B — operations briefing; no economic outlook.
+  → NOT SCORED. Stance captured in May 22 scored speech (HAWKISH).
+
+BOWMAN (Vice Chair for Supervision, Just Voter)
+  Eight pending regulatory/supervisory speeches (Jan 7 through May 14):
+    Jan 7 — Modernizing Supervision and Regulation
+    Feb 16 — Revitalizing Bank Mortgage Lending (Basel)
+    Feb 19 — Opening Remarks [conference]
+    Feb 26 — Supervision and Regulation
+    Mar 3  — Liquidity Resiliency and Financial Stability
+    Mar 12 — Capital Rules for the Real Economy
+    Mar 31 — Supporting Small Businesses
+    May 1  — Artificial Intelligence in the Financial System
+    May 5  — A Coordinated Approach to Consumer Fraud Protection
+    May 8  — When Regulation Reshapes Markets
+    May 14 — Opening Remarks (KC Fed Future of Banking Conference)
+  → ALL TYPE B. Per CLAUDE.md calibration: Bowman's post-January
+    appearances are regulatory Type B. Stance captured in May 29
+    scored speech (NEUTRAL-DOVISH).
+
+COOK (Board Governor, Just Voter)
+  Mar 26 — "Reflections on Financial Stability" (Yale FSR/scenario
+             analysis methodology). TYPE B.
+  May 8  — "Perspectives on Tokenization and Implications for the
+             Financial System" (BCEAO conference, Dakar). TYPE B.
+  → NOT SCORED. Stance captured in May 27 scored speech (HAWKISH).
+
+BARR (Board Governor, Just Voter)
+  Mar 31 — Brief Remarks on Stablecoins. TYPE B.
+  Apr 14 — Rural Communities: Worth the Investment. TYPE B (community
+             development; no economic outlook section embedded).
+  May 14 — Efficient and Effective Central Banking: Beyond the Balance
+             Sheet (Money Marketeers/NY). TYPE B — balance sheet and
+             monetary policy implementation mechanics; no current FFR
+             stance or inflation assessment.
+  May 20 — Measuring Financial Health (EMERGE Financial Health).
+             TYPE B — consumer financial inclusion metrics.
+  → NOT SCORED. Barr has not given a post-FOMC economic outlook speech.
+
+LOGAN (Dallas, Just Voter — hawkish Apr 29 dissenter)
+  Jan 29 — Introduces FDIC Chairman Travis Hill (not Logan's remarks).
+  Apr 2  — "The banking system and the demand for reserves." TYPE B.
+  May 27 — "Opening remarks for 'Monetary policy and imbalances' panel"
+             (BoJ-IMES, Tokyo). TYPE B — oil supply update (Hormuz
+             ≈13 mbd reduction; constrained U.S. output), Treasury
+             market resilience, global fertility decline. Already
+             resolved in May 31 report. No monetary policy stance.
+  → NOT SCORED. Stance captured in May 10 scored speech (HAWKISH).
+
+WILLIAMS (NY Fed, Troika)
+  May 28 — "Productivity Growth and the Challenge of Real-Time
+             Policymaking" (Reykjavík). Already resolved in May 31
+             report. TYPE B. → NOT SCORED.
+
+DALY (San Francisco, Non Voter)
+  Apr 1 — "Regionalism at the Federal Reserve: Many Voices, One
+            Purpose." TYPE B (institutional/structural).
+  → NOT SCORED. Stance captured in May 8 scored speech.
+
+COLLINS (Boston, Non Voter)
+  Jan 16 — "Introductory Remarks at Outlook 26" — Collins is
+             introducing keynote speaker Bowman; not Collins's
+             economic remarks. → NOT SCORED.
+  Feb 24 — "Welcoming Remarks at 2026 Technology-Enabled Disruption
+             Conference." TYPE B (fintech/payments).
+  → NOT SCORED. Stance captured in May 13 scored speech (HAWKISH LEAN).
+
+════════════════════════════════════════════════════════════════
+COMMITTEE SCOREBOARD (unchanged from May 31)
+════════════════════════════════════════════════════════════════
+
+  Waller    (May 22): HAWKISH — explicit hike signal; easing bias
+                      removal call; "five years above target"
+  Cook      (May 27): HAWKISH — explicit conditional hike; PCE at 3.8%;
+                      AI demand as inflation vector
+  Logan     (May 10): HAWKISH — "inflation still too high"; Apr 29
+                      dissenter  [May 27 BoJ: supply context only]
+  Jefferson (May 27): HAWKISH LEAN — "moved notably higher"; "not
+                      prejudged"; two-shock conditional framing
+  Paulson   (May 19): HAWKISH LEAN — inflation-first bar; pre-cut
+                      conditions unmet (median voter)
+  Barkin    (May 21): HAWKISH LEAN — cumulative shocks framing (Non Voter)
+  Collins   (May 13): HAWKISH LEAN — hike scenario floated (Non Voter)
+  Goolsbee  (May 12): HAWKISH LEAN — "not obvious policy is restrictive"
+                      (Non Voter)
+  Williams  (May 4):  NEUTRAL — patient hold; look-through on shocks
+                      [May 28 Reykjavík: Type B, not scored]
+  Bowman    (May 29): NEUTRAL-DOVISH — easing bias endorsed; "moderately
+                      restrictive"; look-through on energy; hike signal
+                      absent
+
+  Warsh (Chair):      UNKNOWN — no speech since Apr 29 confirmation
+  Hammack:            UNKNOWN — no post-FOMC Type A speech
+  Kashkari:           UNKNOWN — post-FOMC stances all stubs (see above)
+  Miran:              UNKNOWN — no post-FOMC Type A speech
+  Musalem:            UNKNOWN — low transcript availability
+
+  Hike camp (explicit):  Waller, Cook  [2 voters]
+  Hawkish lean:          Logan, Jefferson, Paulson  [3 voters]
+                         + Barkin, Collins, Goolsbee  [3 non-voters]
+  Neutral:               Williams  [1 Troika vote]
+  Neutral-dovish:        Bowman  [1 voter]
+  Unknown:               Warsh (Chair), Hammack, Kashkari, Miran  [4 votes]
+
+════════════════════════════════════════════════════════════════
+PRE-BLACKOUT COVERAGE GAPS — 5 DAYS TO JUNE 6
+════════════════════════════════════════════════════════════════
+BLACKOUT STARTS SATURDAY JUNE 6. FOMC MEETING JUNE 17–18.
+
+  CRITICAL:
+    1. Warsh — no public speech since confirmation April 29 (33 days).
+       5 days remain before blackout. His first speech as Chair would
+       anchor the June 18 statement direction — easing bias retained vs.
+       removed, and whether a hike is live. If no speech by June 5, the
+       June 18 outcome is entirely unknown.
+    2. Kashkari — Just Voter; hawkish Apr 29 dissenter; 6 stub events
+       (Jan–May 13) with no transcripts. YouTube recovery (May 7 and
+       May 13 appearances) is the only path. His post-FOMC view is
+       completely unknown 5 days out. If hawkish (consistent with Apr 29
+       dissent), explicit hike camp grows to 3 voters. If he has moderated,
+       the balance shifts. Either outcome matters for June 18.
+    3. Hammack (Cleveland) — hawkish Apr 29 dissenter; JS-rendered website;
+       no post-FOMC Type A speech recovered. YouTube recovery needed.
+    4. Miran (Governor) — new in 2026; dissented preferring a CUT at Apr 29.
+       If his dovish lean has held, it creates an unusual split: Miran
+       lobbying for a cut while Waller/Cook push for a hike. Neither
+       outcome is reflected in the scoreboard.
+    5. Goolsbee — five appearances with no transcripts (Feb–May). Non Voter;
+       lower June 18 weight. May 12 scored speech remains effective baseline.
+
+════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH (unchanged from May 31)
+════════════════════════════════════════════════════════════════
+  • "moderately restrictive" (Bowman May 29) — ISOLATED. If Warsh or
+    Williams echo before June 6, signals Troika dovish lean toward
+    holding with easing bias intact.
+  • "additional policy rate adjustments" [easing bias] — UNDER SIEGE:
+    Waller/Cook want removal; 3 Apr 29 dissenters voted against it;
+    Bowman explicitly defends it. Jefferson ambiguous ("not prejudged").
+    Status: fragile majority holding; outcome hinges on Warsh.
+  • "I am prepared to raise rates" (Waller May 22, Cook May 27) —
+    EMERGING SHARED at Just Voter level. Not yet echoed by Troika.
+    Key test: does Williams or Warsh adopt, reject, or ignore before
+    June 6?
+  • Two-shock conditional (tariffs AND energy) — COMMITTEE-WIDE as
+    disinflation prerequisite. Logan's May 27 BoJ remarks implicitly
+    extend the energy shock timeline (constrained supply, finite
+    inventories, no near-term production response). Bowman's "temporary
+    imprint" framing is the outlier optimistic case.
+
+ANALYST FLAG: YES
+  → Three unresolved questions dominate pre-blackout window (5 days):
+    (1) Will Warsh speak before June 6? His first-speech framing will
+        define the June 18 statement more than any other signal. 33-day
+        silence post-confirmation is the committee's largest informational
+        gap. If no speech by June 5, June 18 statement direction is
+        unknowable in advance.
+    (2) Does the easing bias survive to June 18? Waller/Cook want removal;
+        3 dissenters voted against it at Apr 29; Bowman defends it;
+        Jefferson is ambiguous. Without Warsh's position, the outcome is
+        uncertain. An easing bias removal would be the most significant
+        statement change since the cycle began.
+    (3) Kashkari/Hammack stubs (Just Voters, hawkish Apr 29 dissenters):
+        YouTube recovery is high priority for May 7, May 13 (Kashkari)
+        and any post-Apr 29 Hammack appearance. If both are now in the
+        explicit hike camp, that is 4 explicit hike voices — a potential
+        majority. If either has moderated, the hike threshold is not met.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches today (June 1): None.
+
+Backlog files reviewed this run — all Type B or stubs, not scored.
+  (see BACKLOG REVIEWED section above for file-by-file disposition)
+
+Most recent scored speech per active speaker (unchanged from May 31):
+  Bowman, May 29:    https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  Cook, May 27:      https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Jefferson, May 27: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Barkin, May 21:    https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Paulson, May 19:   https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Daly, May 8:       https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2026/
+  Goolsbee, May 12:  https://www.chicagofed.org/publications/speeches/2026/05-12-greater-rockford-chamber
+  Collins, May 13:   https://www.bostonfed.org/news-and-events/speeches.aspx
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+════════════════════════════════════════════════════════════════
