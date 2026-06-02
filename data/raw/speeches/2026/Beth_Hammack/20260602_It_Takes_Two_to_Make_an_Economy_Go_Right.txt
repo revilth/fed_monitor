@@ -1,0 +1,139 @@
+Home
+›
+Speeches
+Speech
+It Takes Two to Make an Economy Go Right
+Download pdf
+Beth M. Hammack
+President and Chief Executive Officer
+06.02.2026
+8:30 AM
+                        EDT
+In Person
+City Club of Cleveland, Cleveland, Ohio
+Introduction
+Thank you, Baiju, for that kind introduction. And thanks to the 50 Club of Cleveland for kicking off the discussions to make this event a reality, to the Greater Cleveland Partnership, for helping organize this event with us, and to the City Club for hosting us today.
+1
+I am going to start by looking back at history—my own. As an aspiring history and economics major in high school in the late 1980s, I myself might qualify as ancient history at this point. But I want to take you back to 1988: Ronald Reagan was president, you may have been carrying around a pager, and Browns’ quarterback Bernie Kosar was featured on the cover of
+Sports Illustrated
+.
+A hip-hop song called “It Takes Two” by Rob Base and DJ EZ Rock was playing on the radio. If you didn’t hear, Rob Base passed away recently, so this song has been top of mind. In case you need a reminder, the refrain goes, “It takes two to make a thing go right. It takes two to make it outta sight.”
+I apologize for my singing voice and my questionable taste in music. And because I’m pretty sure the musical preferences of my colleagues on the Federal Open Market Committee are substantially better than my own, I’ll point out that these are only my views, musically and otherwise.
+What I’m not going to apologize for is that song playing on a loop in your head for the rest of the day, because I want you to use it to remember something: 2 percent is the Federal Reserve’s inflation objective.
+In my remarks today, I want to explain why the FOMC aims to achieve 2 percent inflation, why it matters that we get inflation back to this level, and how I see current conditions and monetary policy affecting our return to this objective. The tl;dr version: For today, it’s reasonable to keep rates steady given the uncertainties around the economic outlook. But if recent data trends continue, it may soon be appropriate for policy to act to address the growing risks of persistently elevated inflation.
+By the time I’m done today, I hope you’ll understand why I believe 2 percent inflation helps to make the economy go right and why getting inflation back to this level in a timely manner will make it outta sight.
+Preventing History from Repeating
+To understand why the FOMC chose 2 percent as its objective, it helps to remember where we came from, so a short history lesson for you. The 1970s and early 1980s were a painful period for Americans. On two separate occasions within a single decade, we experienced double-digit inflation that stretched many people’s ability to afford even basic items. Some of you may remember those days of long lines at gas stations, rapidly rising grocery bills, and double-digit mortgage rates. These weren’t abstractions; they were lived experiences that shook confidence in the American economy. Central banks around the world took notice, and academic researchers began asking a fundamental question: how do you prevent high inflation episodes from ever happening again?
+The initial answer that emerged was inflation targeting, the practice of a central bank’s announcing a specific numerical goal for inflation and organizing policy around achieving it. New Zealand was the pioneer, establishing the world’s first formal inflation targeting framework in 1989.
+2
+The logic was straightforward: if the public knows where inflation is supposed to go, they can plan accordingly, hold the central bank accountable, and help keep inflation anchored through their own expectations. Country after country followed New Zealand’s lead throughout the 1990s.
+The path to defining the inflation objective in the United States was longer. In setting out the objectives for monetary policy, Congress tasked the FOMC to promote the goals of maximum employment, stable prices, and moderate long-term interest rates. Low and stable inflation helps to keep long-term interest rates at moderate levels. So, achieving maximum employment and price stability is often referred to as the FOMC’s “dual mandate.” Through the 1990s and into the 2000s, the FOMC debated and wrestled with how to square a specific inflation goal with our dual mandate. The resolution was “flexible inflation targeting,” an approach that allowed the Committee to pursue both low inflation and maximum employment, without treating one as superior to the other.
+Since the Federal Reserve Act does not define price stability, implementing this approach called for communicating an inflation objective to the public. At first, the FOMC indicated where it thought inflation would go in the long run under appropriate monetary policy. In January 2009, the FOMC’s longer-run projections of inflation were all in a narrow range between 1.5 percent and 2 percent.
+In January 2012, the FOMC formalized its explicit inflation objective in its Statement on Longer-Run Goals and Monetary Policy Strategy. The statement declared that 2 percent inflation, as measured by the personal consumption expenditures price index, was “most consistent over the longer run” with its statutory mandate.
+3
+That commitment has been reaffirmed each year since then, most recently this past January.
+Why 2 Percent, and Why It Matters
+Before turning to current economic conditions, it is worth pausing on three reasons why the 2 percent objective matters—not as a theoretical construct, but as a practical foundation for sound economic decisionmaking by businesses, consumers, and investors.
+The first is that high inflation imposes substantial costs on the economy, costs that are familiar to anyone who has run a business through a period of sustained price increases.
+4
+When inflation is elevated and unpredictable, long-term planning becomes difficult. Capital investments are harder to make when input costs cannot be reliably projected. Multiyear contracts become sources of risk rather than stability. I hear this consistently from businesses across the Fourth District: inflation does not merely raise costs, it raises uncertainty, and sustained uncertainty is a meaningful drag on investment and productivity.
+These costs extend well beyond the business sector. In a high inflation environment, consumers must make hard trade-offs. I was just in Erie, Pennsylvania, and heard from a father who says he hasn’t been able to travel to his son’s spring football games this year because keeping the gas tank full takes up too much of his budget. He’d never missed a game before. High inflation can significantly erode the purchasing power of those on fixed incomes and of workers’ wages if those wages don’t keep up with prices. Lower-income households, who devote a larger share of their budgets to necessities such as food, housing, and energy, often experience higher inflation rates than others.
+5
+The second consideration speaks to the tools of monetary policy itself. One might reasonably ask, if inflation is costly, why not aim for zero? There is evidence that consumers prefer very low inflation, and zero inflation would avoid the associated costs for households and businesses. However, many academic studies do not find that this is optimal for the economy.
+6
+Very low inflation runs the risk of slipping into deflation, or falling prices, something which is usually a symptom of a weak economy and can bring a new set of challenges for businesses and consumers. A key issue for monetary policy is how far nominal interest rates can decline, especially below zero, or what is sometimes referred to as the effective or zero lower bound. A modestly positive inflation objective preserves room for monetary policy to stimulate the economy when conditions deteriorate. The 2 percent objective provides a buffer in case of a downturn, while limiting the extent to which inflation is a burden on households and businesses.
+The third consideration is the role of credibility and inflation expectations.
+7
+FOMC communications anchor inflation expectations, and these expectations affect the decisions that shape actual inflation outcomes: in other words, what you think will happen to prices matters. When businesses set prices, when workers negotiate wages, when finance teams build multiyear forecasts, they are all implicitly forming expectations about where inflation is heading. If these expectations are anchored at 2 percent, the resulting wage and price-setting behavior tends to be consistent with keeping inflation near that level. If longer-term inflation expectations move away from an announced inflation objective, this is a potential sign that the central bank is losing credibility.
+The longer inflation remains above our goal, the greater the risk that it feeds into expectations and becomes embedded in wages, contracts, and pricing behavior. This is why I often use the phrase “in a timely fashion” when I speak of returning inflation to our objective. The passage of time can shape both the persistence of elevated inflation and the difficulty of addressing it.
+Restoring price stability once high inflation has become entrenched is possible, but the historical record is clear that it is costly. In the early 1980s, then-Fed Chair Paul Volcker had to take the unpopular step of sharply raising rates to get inflation under control. The disinflation ultimately succeeded, but it required the most severe recession in a generation to do so. A clearly communicated, credible inflation objective is the mechanism by which we attempt to avoid repeating the experience of that episode.
+Taken together, these considerations lead me to conclude that keeping inflation low, stable, and well anchored at 2 percent is not a technocratic preference or an end in itself. It is the foundation for an economy in which people can plan for the future and the costs associated with inflation are kept to a minimum. Price stability is a key contributor to economic growth and maximum employment in the longer run.
+As is hopefully clear, I’m firmly committed to the FOMC’s 2 percent inflation objective. But I’m also committed to our maximum employment objective. The dual mandate means that monetary policy needs to balance achieving low inflation with maintaining the health of the labor market. This requires monetary policymakers to consider where inflation and the labor market are relative to our goals, both today and going forward. With this in mind, let me turn to economic conditions and what it means for my policy outlook.
+How I See Current Economic Conditions
+The biggest economic storyline this year has been the surge in oil and gasoline prices and the disruption in global supply chains following the start of the conflict with Iran. Sharp increases in oil prices can pose a challenge to monetary policy. They raise production costs for many goods that derive from oil, and rising gasoline prices increase transportation costs. These forces put upward pressure on the prices of many goods and services, challenging the inflation side of our mandate. On the employment side, higher gasoline prices can slow consumer spending and, in turn, economic activity and employment growth. While higher inflation usually calls for more restrictive monetary policy, a softer labor market usually calls for more accommodative monetary policy. To balance these two outcomes, it’s sometimes best for policymakers to “look through” an oil shock by holding interest rates steady.
+What I hear from leaders like you when I’m out traveling the District is that the economy has been resilient so far, despite higher oil, fertilizer, and petrochemical prices. Consumer spending has continued to rise at a moderate pace. Businesses have been ramping up their spending on AI-related investments in data centers, computing equipment, and software. In spite of elevated uncertainty, most conversations that I’ve had with business leaders indicate expectations for solid activity in coming months. The Cleveland Fed’s SORCE indices, which summarize what our regional business contacts are telling us about the state of the economy, show strengthening business conditions, employment, capital expenditures, and cost pressures. You can find these indices on our website,
+clevelandfed.org
+.
+8
+More broadly, measures of financial conditions are supportive of growth rather than holding it back. Optimism around AI has lifted equity markets. Some of the largest technology companies have funded their capital investments at favorable interest rates and attractive credit spreads. I mainly hear about plans for business investment, not that credit markets or interest rates are holding companies back, and this is telling me that policy may not be restrictive. And rising inflation means the real federal funds rate has actually declined over the last few months.
+In the labor market, the incoming data point to resilience and stability. The unemployment rate was 4.3 percent in April, similar to where it was last summer. This is right around my definition of full employment in the long term, when labor demand and labor supply are in balance. Claims for unemployment insurance and notices of mass layoffs remain low, providing no signal of an impending slowdown.
+By contrast, the picture for inflation is not encouraging. Inflation is too high and is moving higher. Headline PCE inflation was 3.8 percent in April, well above our 2 percent objective. Rising gasoline prices have been one factor pushing up inflation recently, but I see many forces at play. Core PCE inflation, which excludes volatile food and energy prices, was 3.3 percent in April, also well above our objective and well above levels from six months or a year ago. Looking within the components of core inflation, I see relatively broad-based price pressures across goods and nonhousing services. Inflation among services excluding housing has been stuck at an elevated rate and has shown little improvement over the last two years, even though these prices should be less impacted by tariffs and energy prices than other components.
+This ongoing stretch of high inflation continues to impose costs on consumers. Conversations with community contacts point to growing struggles with paying rent, especially among senior citizens, as prices have continued to rise for many daily necessities. From my conversations in Erie, the overall sentiment was that consumers were expecting prices to keep going up. One woman shared that she felt like everyone is feeling a genuine sense of despair. Even more concerning was that no one in that room thought things would get better in the next six months or even in the next couple of years.
+Looking Forward to Inform Policy Views
+Because monetary policy affects the economy with a delay, it’s important to be forward-looking when setting interest rates. So I must account not only for conditions today but for the likely path of the economy. Among the many factors I am watching are the future path of oil prices and inflation, the resilience of spending, stabilization in employment, and evolving conditions in financial markets. Elevated uncertainty around the economic outlook means there is elevated uncertainty around the path for monetary policy.
+Given the uncertainties, it’s helpful to think through different scenarios. Under one scenario, it’s possible that an extended period of high oil prices and supply chain pressures will boost inflation while eventually weighing on growth and the labor market. Business and community contacts report that the jump in gasoline prices is already straining budgets for lower-income individuals. Higher income tax refunds have helped support overall consumer spending so far, but those savings could be spent down. In this case, policy could remain on hold for some time to balance weaker prospects for the labor market with elevated inflation. Alternatively, a sharper downturn in spending and the labor market could warrant a more accommodative stance of policy, although I see this as less likely.
+But other outcomes are also plausible. There is a growing risk that inflation could remain elevated if energy costs do not come down quickly and if businesses feel they have no choice other than to raise prices. I’ve heard from business leaders whose companies are very exposed to oil and other commodities affected by the conflict with Iran that they have already seen multiple rounds of large price increases. This is not the only upside risk to inflation. The economy faces ongoing cost pressures in other areas, as well, ranging from electricity to health insurance to software. These broad-based pressures could continue to push up prices, especially if growth and the labor market remain resilient. If inflation persists at an elevated rate, then more restrictive monetary policy could well be needed to bring inflation back to 2 percent in a timely fashion.
+There is an additional risk from inflation that bears watching. With the economy now in its sixth year of elevated inflation, consumers, businesses, and financial markets may start to build in expectations for higher future inflation. This would be a bad development. Preventing an inflationary mindset is critical to delivering on our 2 percent objective. Increases in inflation expectations that threaten our goal warrant taking decisive action.
+For today, it’s reasonable to keep rates steady given the uncertainties around the economic outlook. But if recent trends continue, it may soon be appropriate to act. Based on the data, I’m more concerned about the growing risks of persistently elevated inflation than the risks to full employment and also that monetary policy may not be sufficiently restrictive to bring inflation down to 2 percent. If we wait for definitive evidence that high inflation has become embedded in the economy, it may require larger policy adjustments, at greater cost.
+Let me close by coming back to the song “It Takes Two,” our 1988 ear worm. Two percent inflation helps us achieve maximum employment and price stability in the long run. Or as Rob Base and DJ EZ Rock may have put it, it takes 2 percent inflation to make the economy go right, and it takes 2 percent inflation to make it outta sight.
+Thank you, and I look forward to our discussion.
+Footnotes
+I’m grateful to Dani Carlson, Edward Knotek, Edith Liu, Karen Mracek, Damjan Pfajfar, and Robert Rich for assistance with these remarks.
+Return to 1
+New Zealand’s Reserve Bank Act of 1989 established the framework; the initial Policy Targets Agreement set a target range of 0 percent to 2 percent for CPI inflation. For a historical overview, see Ben S. Bernanke, Thomas Laubach, Frederic S. Mishkin, and Adam S. Posen. 1999.
+Inflation Targeting: Lessons from the International Experience
+. Princeton: University Press.
+Return to 2
+Board of Governors of the Federal Reserve System. 2012. “Federal Reserve Issues FOMC Statement of Longer-Run Goals and Policy Strategy.” Press release, January 25. Available at
+federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals_201201.pdf
+.
+Return to 3
+For a discussion of the long-run costs of higher inflation, see Jean-Paul L’Huillier and Martin DeLuca. 2023. “The Long-Run Costs of Higher Inflation.” Federal Reserve Bank of Cleveland,
+Economic Commentary
+2023-17.
+doi.org/10.26509/frbc-ec-202317
+.
+Return to 4
+See Joshua Klick and Anya Stockburger. 2024. “Examining US inflation across households grouped by equivalized income.” Monthly Labor Review, US Bureau of Labor Statistics.
+doi.org/10.21916/mlr.2024.12
+. See also André Victor D. Luduvice, Anaya Truss-Williams, and Christopher J. Walker. 2025. “Did Inflation Affect Households Differently? A Look at the Postpandemic Inflation and Wage Growth Dynamics.” Federal Reserve Bank of Cleveland,
+Economic Commentary
+2025-11.
+doi.org/10.26509/frbc-ec-202511
+. High inflation is a top concern among low- and moderate-income groups; see the Cleveland Fed’s Community Issues Survey, available at
+clevelandfed.org/publications/community-issues-and-insights
+.
+Return to 5
+For a review of the academic literature on the optimal rate of inflation, see Klaus Adam and Henning Weber. 2024. “The Optimal Inflation Target: Bridging the Gap Between Theory and Policy.” Deutsche Bundesbank Discussion Paper No 44/2024.
+ideas.repec.org/p/zbw/bubdps/311841.html
+. After accounting for the role of the zero lower bound, many studies find that the optimal inflation target is positive but low, in the range of 1 percent to 2.5 percent; for example, see Olivier Coibion, Yuriy Gorodnichenko, and Johannes F. Wieland. 2010. “The Optimal Inflation Rate in New Keynesian Models.” NBER Working Paper Series 16093.
+nber.org/system/files/working_papers/w16093/w16093.pdf
+.
+Return to 6
+The importance of credibility and well-anchored inflation expectations is well established in the monetary economics literature. For a discussion of the costs of disinflation and the Volcker episode, see Marvin Goodfriend and Robert G. King. 2005. “The Incredible Volcker Disinflation.”
+Journal of Monetary Economics
+52(5): 981–1015.
+Return to 7
+The Cleveland Fed’s Survey of Regional Conditions and Expectations (SORCE) provides diffusion indices of economic activity in the Fourth District. Results are updated several weeks before each meeting of the FOMC and are available at
+clevelandfed.org/indicators-and-data/survey-of-regional-conditions-and-expectations
+.
+Return to 8
+Suggested Citation
+Hammack, Beth M.
+		
+			
+			
+			
+			
+			
+				
+					
+					
+					
+					
+					
+					“It Takes Two to Make an Economy Go Right.”
+				Speech,
+			City Club of Cleveland, Cleveland, Ohio,
+			June
+02,
+2026.
+https://doi.org/10.26509/sp-20260602
+Share
+Related resources
+About Us
+The Federal Reserve Bank of Cleveland (commonly known as the Cleveland Fed) is part of the Federal Reserve System, the central bank of the United States.
+Learn more
+President and CEO
+Learn about the work of the president and CEO of the Federal Reserve Bank of Cleveland.
+Learn more
