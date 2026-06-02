@@ -1,0 +1,208 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 2, 2026 (Tuesday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (June 2, 2026)
+  None. No Federal Reserve speeches scraped for June 2.
+
+NEW FILES FROM JUNE 1 COLLECT (added after yesterday's report)
+────────────────────────────────────────────────────────────────
+  1. Jerome H. Powell  |  Governor  |  Troika (former Chair)
+     "Acceptance Remarks — 2026 JFK Profile in Courage Award"
+     John F. Kennedy Library Foundation, Boston, MA
+     May 31, 2026
+     STATUS: TYPE B — civic/institutional speech; no economic content.
+     (See note below.)
+
+  2. Austan Goolsbee  |  President, Chicago Fed  |  Non Voter
+     Chicago Council on Global Affairs — Global Economy Dialogue Series
+     June 25, 2026  |  Status: EVENT STUB — future date, no transcript.
+     Action: Monitor for transcript after blackout lifts (Jun 19).
+
+  3. data/raw/statements/20260601_FOMC_Statement_20260601.txt
+     STATUS: DATA QUALITY FLAG — file contains the August 22, 2025
+     announcement of the FOMC's Statement on Longer-Run Goals and
+     Monetary Policy Strategy (the 2025 framework review completion).
+     This is NOT a new June 2026 rate decision. The scraper appears
+     to have collected a historical/legacy page. Reference FOMC remains
+     April 29, 2026; FFR remains 4.25–4.50% unchanged.
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POWELL MAY 31 — "ACCEPTANCE REMARKS"  |  Governor  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLASSIFICATION: Type B — civic and institutional speech.
+  No economic outlook section. No mention of inflation, labor markets,
+  growth, or rate policy. Not scored.
+
+CONTEXT: This is Powell's first public appearance as a Board Governor
+(Chair term ended May 15; 17 days elapsed). The speech is entirely about
+institutional independence, democratic norms, and Fed credibility — not
+monetary policy. The content honors President Kennedy's legacy and
+defends rule-of-law norms against political interference.
+
+KEY PASSAGES (institutional, not monetary policy):
+  • "If any administration finds a way to remove Fed officials over
+    policy differences, then future administrations will do so as well.
+    The public would lose faith that the central bank will make
+    decisions based only on what's best for all Americans."
+  • "Our credibility has been built and sustained over many decades,
+    and we have a duty to safeguard that priceless asset for our
+    fellow citizens and for generations to come."
+
+SIGNAL FOR COVERAGE PURPOSES:
+  Powell's "low profile" commitment (made at the Apr 29 press
+  conference) is confirmed in practice: 17 days as a Governor with no
+  economic commentary. The JFK Award speech is civic duty, not a
+  policy vehicle. His next economic-content speech (if any) would be
+  the first since Apr 29. No change to Powell's scored stance.
+
+NET SIGNAL: NOT APPLICABLE — Type B, no monetary policy content.
+
+vs. PRIOR SPEECH (Apr 29 press conference): Incomparable. Different
+  document type and purpose entirely.
+vs. COMMITTEE SINCE FOMC: Powell's silence on economic matters since
+  Apr 29 is consistent with his stated "low profile" posture. His
+  absence from the post-FOMC policy dialogue is itself a data point —
+  no shadow-chair signaling, no implicit steering of June 18 outcome.
+
+LANGUAGE TO WATCH: None from this speech applicable to policy scoring.
+ANALYST FLAG: NO — Type B civic speech, no scoring ambiguity.
+
+════════════════════════════════════════════════════════════════
+PRE-BLACKOUT SCOREBOARD (as of June 2 | 4 days to Jun 6 blackout)
+════════════════════════════════════════════════════════════════
+
+TROIKA
+  Powell (Governor)      May 31 — Type B civic speech; no policy stance
+                                  since Apr 29 press conference.
+  Jefferson (Vice Chair) May 27 — HAWKISH. "Upside risk to inflation
+                                  forecast." Tariff AND energy both unresolved.
+  Williams (NY)          May 4  — NEUTRAL-HAWKISH. Cut signal withdrawn.
+                                  Soft data caution; no explicit hike signal.
+  [Warsh (Chair)]        SILENT — 34 days post-confirmation. No public
+                                  speech as Chair. 4 days to blackout.
+
+JUST VOTERS
+  Waller                 May 22 — HAWKISH. "I am prepared to raise rates."
+                                  Explicit hike if inflation does not fall.
+  Cook                   May 27 — HAWKISH. Echoes Waller's hike-ready
+                                  language. "Sequence of shocks" framing.
+  Bowman (VCS)           May 29 — DOVISH. "Moderately restrictive." Defends
+                                  easing bias. Wants proactive easing.
+  Paulson (median)       May 19 — NEUTRAL-HAWKISH. Inflation-first bar.
+                                  "If inflation above 2% and has been
+                                  for some time, I would be more cautious."
+  Logan                  May 10 — HAWKISH. Apr 29 dissenter. Extended energy
+                                  shock timeline. Near-neutral rate framing.
+  Hammack                May 1  — HAWKISH. Apr 29 dissenter. No post-FOMC
+                                  Type A speech recovered. YouTube gap.
+  Kashkari               May 1  — HAWKISH. Apr 29 dissenter. Six stub
+                                  events (Jan–May 13); no post-FOMC
+                                  transcript recovered.
+  Barr (Governor)        May 20 — Type B (financial health); no policy
+                                  stance since May 14 Type B.
+  Miran (Governor)       Mar 26 — DOVISH (last known stance; Apr 29
+                                  dissenter preferring a cut). No post-FOMC
+                                  speech recovered.
+
+NON VOTERS
+  Goolsbee (Chicago)     May 12 — NEUTRAL. "Uncertain whether policy is
+                                  restrictive." Jun 25 fireside chat
+                                  announced (post-blackout).
+  Collins (Boston)       May 13 — NEUTRAL. Data-dependent.
+  Barkin (Richmond)      May 21 — NEUTRAL-HAWKISH. On-the-ground caution;
+                                  "cumulative shock" framing.
+  Daly (SF)              May 8  — NEUTRAL. Balanced risks.
+  Musalem (St. Louis)    No post-FOMC speech; transcript availability low.
+
+════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH
+════════════════════════════════════════════════════════════════
+  • "moderately restrictive" (Bowman May 29) — ISOLATED. If Williams
+    or Warsh echo before Jun 6, signals Troika lean toward holding with
+    easing bias intact.
+  • "additional policy rate adjustments" [easing bias] — UNDER SIEGE:
+    Waller/Cook want removal; 3 Apr 29 dissenters voted against it;
+    Bowman explicitly defends it. Jefferson ambiguous ("not prejudged").
+    Outcome entirely depends on Warsh's undisclosed position.
+  • "I am prepared to raise rates" (Waller May 22, Cook May 27) —
+    EMERGING SHARED at Just Voter level. 2 explicit hike voices.
+    Not yet echoed by Troika. Key test: does Williams or Warsh adopt,
+    reject, or ignore before Jun 6?
+  • Two-shock conditional (tariffs AND energy as prerequisites before
+    considering cuts) — COMMITTEE-WIDE. Barkin and Logan implicitly
+    extend energy shock timeline; Bowman is the outlier with "temporary
+    imprint" framing.
+
+════════════════════════════════════════════════════════════════
+ANALYST FLAG: YES
+════════════════════════════════════════════════════════════════
+  → Four days remain before the Jun 6 blackout (FOMC Jun 17–18).
+
+  OUTSTANDING GAPS — in order of analytical urgency:
+    1. WARSH (Chair) — 34 days of silence since confirmation. If no
+       speech before Jun 6, the June 18 statement direction is
+       unknowable in advance. His first speech as Chair would be the
+       most important single signal of the cycle: easing bias retained
+       vs. removed, hike threshold, and whether the two-shock conditional
+       carries Troika-level endorsement. CRITICAL.
+
+    2. KASHKARI (Just Voter, hawkish Apr 29 dissenter) — Six stub events
+       Jan–May 13 with no transcripts. YouTube recovery for May 7
+       (InvestUP Summit) and May 13 (St. Paul Chamber) is the only path.
+       If explicitly in the hike camp, explicit hike voices rise to 3
+       voters (Waller, Cook, Kashkari). CRITICAL.
+
+    3. HAMMACK (Just Voter, hawkish Apr 29 dissenter) — No post-FOMC
+       Type A speech recovered; Cleveland website JS-rendered. YouTube
+       recovery needed for any May/June appearance. CRITICAL.
+
+    4. MIRAN (Governor, dovish Apr 29 dissenter) — No post-FOMC speech.
+       If his cut preference has held, the June 18 vote could split
+       between hike-camp dissenters AND a cut-camp dissenter
+       simultaneously — an unusual configuration. MODERATE priority.
+
+    5. GOOLSBEE DATA QUALITY — Milken May 6 file is 0 bytes; Mar/Apr
+       stubs have no usable content. Non Voter, so lower June 18 weight,
+       but Jun 25 fireside chat (post-blackout) should be recovered for
+       July context. LOW priority before blackout.
+
+  POWELL CLASSIFICATION NOTE: Powell's May 31 JFK Award speech is
+  confirmed Type B with no economic content. His "low profile" posture
+  is holding. Analysts relying on him to signal Warsh's direction will
+  find nothing here.
+
+  SCRAPER FLAG: data/raw/statements/20260601_FOMC_Statement_20260601.txt
+  contains the 2025 framework review document, not a June 2026 statement.
+  Recommend adding a date-filter to the statement scraper to avoid
+  collecting legacy documents.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches today (June 2): None.
+
+New files from June 1 collect:
+  Powell, May 31 (JFK Award):
+    https://www.federalreserve.gov/newsevents/speech/powell20260531a.htm
+  Goolsbee, Jun 25 (upcoming — event stub):
+    https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+
+Most recent scored speech per active speaker (unchanged from June 1):
+  Warsh, Chair:      No public speech post-confirmation (Apr 29+)
+  Jefferson, May 27: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Cook, May 27:      https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Bowman, May 29:    https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  Paulson, May 19:   https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Barkin, May 21:    https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Goolsbee, May 12:  https://www.chicagofed.org/publications/speeches/2026/05-12-greater-rockford-chamber
+  Collins, May 13:   https://www.bostonfed.org/news-and-events/speeches.aspx
+  Daly, May 8:       https://www.frbsf.org/news-and-media/speeches/mary-c-daly/2026/
+════════════════════════════════════════════════════════════════
