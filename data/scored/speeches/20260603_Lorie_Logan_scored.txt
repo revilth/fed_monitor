@@ -1,0 +1,322 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-06-03 | Lorie Logan | Dallas Fed President | Just Voter
+"Opening remarks for moderated conversation at The University of Texas at El Paso"
+The University of Texas at El Paso, El Paso, TX
+SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+
+CLASSIFICATION: Type A — Full Economic Outlook. Four-section structure:
+  Inflation / Growth / Labor Market / Monetary Policy. Opening remarks
+  prior to moderated conversation with UTEP President Heather Wilson.
+  Second pre-blackout Type A speech (blackout: Jun 6).
+
+Reference FOMC:    April 29, 2026 (hold; FFR 4.25–4.50%)
+Pre-FOMC baseline: February 10, 2026  "Outlook for the Economy and
+  Monetary Policy" (FIA-SIFMA Asset Management Derivatives Forum — scored)
+Post-FOMC prior:   May 1, 2026  "Statement on FOMC dissent" (scored)
+  [Note: May 10 commencement is Type B with 5-sentence embedded outlook;
+   May 27 BOJ conference is Type B on imbalances/demographics with no
+   monetary policy stance. May 1 dissent statement is the effective
+   prior for directional comparisons.]
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity has been expanding at a solid pace." [Apr 29 stmt]
+  → Logan: "Economic activity remains strong." — slightly more emphatic
+    characterization than the statement.
+
+Own language:
+  "Consumer spending is robust, partly supported by wealthy households'
+   investment gains. Although higher energy prices have weighed on
+   lower-income households, the U.S. economy as a whole has weathered
+   the shock so far."
+  → Acknowledges distributional split but characterizes aggregate
+    as resilient. No demand-side growth risk flagged.
+
+  "In the aggregate, corporate earnings are going gangbusters.
+   S&P 500 companies' earnings grew more than 25 percent in the
+   first quarter compared with a year earlier. While tech companies
+   experienced some of the strongest growth, gains are widespread.
+   The median S&P 500 company's earnings rose 14 percent year on year."
+  → Broad-based earnings strength, not just tech-driven. Removes the
+    compositional-growth-risk argument.
+
+  "Financial conditions are accommodative. And AI investment continues
+   to boom."
+  → HAWKISH INFERENCE: "accommodative" financial conditions mirror
+    Hammack's Jun 2 "supportive of growth rather than holding it back"
+    — two voters independently characterizing conditions as permissive
+    within 24 hours. [Note: Logan does not make the real-rate argument
+    explicit, unlike Hammack; she uses "accommodative" as a descriptive
+    judgment, not a calculation.]
+
+  "Productivity improvements from AI could eventually reduce inflation.
+   However, the potential size and timing of those gains are uncertain.
+   The demand is here already."
+  → Qualifies the AI-as-disinflationary argument: benefit uncertain
+    and deferred; demand (inflationary channel) is immediate.
+
+Shift vs. prior speech (May 1 dissent): N/A — no growth section in May 1.
+Shift vs. pre-FOMC (Feb 10): UNCHANGED — Feb 10: "economic activity has
+  rebounded strongly... bolstered by strong consumer spending and business
+  investment." Consistent resilient read; "accommodative" financial
+  conditions is new language in 2026 for Logan.
+
+Direction: neutral-to-hawkish — strong growth, accommodative conditions,
+  no demand-side risk flagged.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, on average, and the unemployment rate
+   has been little changed in recent months." [Apr 29 stmt]
+  → Logan does NOT echo the low-job-gains framing. Her characterization
+    diverges from the statement.
+
+Own verdict:
+  "The labor market appears stable and broadly balanced."
+  → Identical read to May 1 dissent statement ("stable, with low
+    unemployment and payroll job gains keeping pace with labor force
+    growth") and May 10 commencement ("labor market is in balance").
+    Continuity of characterization across three consecutive speeches.
+
+Own quantification:
+  "The unemployment rate has hovered around 4.3 percent for the past
+   year. Employers are adding an average of about 50,000 jobs per month.
+   That might sound low, but it's in line with the slow growth rate of
+   the labor force."
+  → Logan explicitly REFRAMES what the statement frames as weakness
+    (low job gains) as consistency with full employment. This is a
+    deliberate analytical divergence from the committee framing.
+
+KEY INFERENCE:
+  "These conditions indicate that monetary policy is not restraining
+   the economy."
+  → [Inference: Logan is drawing from labor + growth + financial
+    conditions jointly to argue that current rates are not binding.
+    This is not stated as an explicit theorem but is the logical
+    conclusion of her characterization of both sides of the economy
+    as resilient and conditions as "accommodative."] Functionally
+    equivalent to Hammack's "policy may not be restrictive."
+
+Shift vs. prior speech (May 1):  UNCHANGED — "stable" and "payroll
+  gains keeping pace with labor force growth" = same as "50,000/month
+  consistent with slow labor force growth." No shift.
+Shift vs. pre-FOMC (Feb 10):     UNCHANGED — Feb 10: "labor market
+  now appears to be stabilizing, and the downside risks appear to have
+  meaningfully dissipated." Consistent non-dovish labor view across
+  all of 2026.
+
+Direction: neutral-to-hawkish — stable/balanced framing removes the
+  dovish leg of the dual-mandate argument; "not restraining" inference
+  supports the case for tighter policy.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase in
+   global energy prices." [Apr 29 stmt]
+  → Logan does NOT echo the energy attribution framing.
+
+Opening framing — KEY:
+  "Inflation is taking too long to return to the FOMC's 2 percent
+   target."
+  → Duration emphasis: not "elevated," but "taking too long." Same
+    logic as May 1 ("increasingly concerned about how long it will
+    take inflation to return all the way to the 2 percent target").
+    The emphasis is on the timeline failure, not just the level.
+
+Quantitative evidence:
+  Headline PCE: "close to 4 percent over the past 12 months"
+  Core PCE:     3.3% past year
+  Dallas Fed trimmed mean: 2.3% past year
+  Cleveland Fed median PCE: 2.8% past year
+  NY Fed multivariate core trend: "moved above 3 percent this year"
+
+TRIMMED MEAN CAVEAT — ANALYTICALLY IMPORTANT:
+  "my staff's research cautions against putting too much stock in
+   low readings of the trimmed mean. A change in the mix of price
+   increases and decreases is causing the trimmed mean to drop too
+   many price increases. That can pull the trimmed mean below the
+   underlying trend in inflation."
+  → Logan is explicitly setting aside HER OWN bank's trimmed mean
+    (which reads 2.3%) in favor of higher measures. She is identifying
+    a technical artifact that makes inflation look lower than it is.
+    This is intellectually honest and significantly hawkish: even the
+    metric most favorable to the dovish case (Dallas trimmed mean)
+    should not be trusted, per Logan's own researchers.
+
+Tariff attribution — KEY ANALYTICAL SEPARATION:
+  "Dallas Fed researchers have also estimated the amount of inflation
+   directly attributable to tariff increases. As tariff rates
+   stabilize, they will remain a factor in the level of prices. But
+   they should not contribute further to inflation, which is the rate
+   of increase in prices."
+  → Logan isolates tariff inflation to level effects, not ongoing
+    rate effects. This is consistent with her May 1 argument that
+    "underlying inflation was already a concern before the conflict."
+    Both energy and tariffs are additive to, not the cause of, the
+    underlying inflation problem.
+
+VERDICT — KEY:
+  "Putting together all these different analyses and ways of looking
+   at the data, inflation appears to be trending toward the mid 2's
+   — not all the way back to 2 percent."
+  → EXPLICIT ABOVE-2% INFLATION FORECAST. This is the most direct
+    statement from any FOMC voter that 2% will not be achieved under
+    current conditions. Previous formulations were uncertainty-framing
+    ("not yet fully confident," "taking too long") — Logan now
+    provides a positive forecast: settling in the "mid 2's."
+    This changes the analytical baseline: she is not arguing for
+    patience while inflation returns to 2%; she is forecasting it
+    will not return to 2% without policy action.
+
+Inflation expectations watch:
+  "I am closely watching movements in market prices for short-term
+   and long-term inflation compensation, as well as surveys of
+   inflation expectations."
+  → Flags de-anchoring risk without explicitly saying expectations
+    have moved. Consistent with Hammack's "sixth year of elevated
+    inflation" de-anchoring concern (Jun 2).
+
+Shift vs. prior speech (May 10 commencement): HAWKISH lean — May 10:
+  "inflation is still too high." Jun 3 adds multi-measure quantitative
+  analysis, trimmed-mean caveat, tariff level vs. rate separation,
+  and explicit above-2% forecast. The qualitative direction is the
+  same, but Jun 3 provides the full analytical architecture.
+Shift vs. prior speech (May 1 dissent): HAWKISH lean — May 1:
+  "increasingly concerned about how long it will take inflation to
+  return all the way to 2 percent." Jun 3 upgrades to an explicit
+  forecast that it will NOT return all the way to 2%: "trending
+  toward the mid 2's — not all the way back to 2 percent." This is
+  a meaningful escalation: uncertainty about the path → explicit
+  pessimistic forecast.
+Shift vs. pre-FOMC (Feb 10): HAWKISH — Feb 10: "Not yet fully
+  confident inflation is heading all the way back to 2 percent."
+  Jun 3: explicit forecast of settling above 2%. The uncertainty
+  framing has resolved to a bearish inflation forecast.
+
+Direction: HAWKISH — explicit above-2% forecast; trimmed-mean
+  caveat disables the dovish metric; tariff/energy treated as
+  additive to a pre-existing inflation problem.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee will continue to monitor... remains prepared to
+   adjust policy if risks emerge threatening its dual mandate
+   objectives." [Apr 29 stmt — no easing bias; Logan opposed it]
+  → Logan does NOT echo this language.
+
+Own language — KEY:
+  "I am increasingly concerned that higher interest rates could be
+   necessary later this year to fully restore price stability and
+   appropriately balance both sides of the Fed's dual mandate."
+  → CONDITIONAL HIKE SIGNAL — FIRST EXPLICIT FROM LOGAN.
+    Component analysis:
+    "increasingly concerned" — escalation language; not stable worry
+    "higher interest rates" — hike, not hold-and-wait
+    "could be necessary" — conditional (not imminent); calibrated
+    "later this year" — temporal qualifier; not "soon" but within 2026
+    "fully restore price stability" — implies current stance
+      insufficient for the inflation side of the mandate
+    "appropriately balance both sides" — dual mandate framing; she
+      argues a hike serves BOTH goals given the labor/growth picture
+
+  Note on scenario framing: Logan's hike signal is DESCRIPTIVE —
+    she does not name explicit scenarios (cf. Waller Apr 17's
+    "BENIGN/ADVERSE" labels or Hammack Jun 2's "Scenario 1/2"
+    framework). Her framing is a general concern, not a pre-committed
+    scenario response.
+
+Cut signal status: ABSENT — hike signal present (conditional: "could
+  be necessary later this year"). Symmetric framing from May 1 ("either
+  an increase or a cut") has resolved hawkish.
+
+Shift vs. prior speech (May 1 dissent): HAWKISH — SIGNIFICANT.
+  May 1: "Depending on which scenario materializes, it could
+  plausibly be appropriate for the FOMC's next rate change to be
+  either an increase or a cut." Symmetric framing. Jun 3: "higher
+  interest rates could be necessary later this year." The hike is
+  no longer symmetrically possible — it is the primary concern.
+  The shift from symmetric to asymmetric-hawkish is the single most
+  important directional change in this speech.
+Shift vs. pre-FOMC (Feb 10): HAWKISH — Feb 10: "I am more worried
+  about inflation remaining stubbornly high" — asymmetric worry but
+  no explicit hike signal. Jun 3 adds the explicit hike signal. Full
+  trajectory: Feb 10 hawkish worry → May 1 symmetric framing →
+  Jun 3 explicit hike concern.
+
+Direction: HAWKISH — first explicit hike signal from Logan; symmetric
+  policy framing from May 1 resolved hawkish.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — significant escalation from May 1 dissent.
+               Three structural shifts:
+               (1) Symmetric "either increase or cut" → explicit
+                   conditional hike: "higher interest rates could
+                   be necessary later this year";
+               (2) Inflation uncertainty → explicit above-2% forecast:
+                   "trending toward the mid 2's — not all the way
+                   back to 2 percent";
+               (3) "Accommodative" financial conditions + "not
+                   restraining the economy" inference — joins Hammack
+                   Jun 2 in characterizing current policy as
+                   functionally insufficient.
+
+Position relative to committee (Jun 3):
+  Logan joins Waller (May 22), Cook (May 27), and Hammack (Jun 2) as
+  the fourth voter to deploy explicit hike-signaling language in the
+  post-April-29 window. The hike coalition now stands at 4 of 12
+  voters with explicit language. Kashkari's Apr 29 dissent record
+  suggests a fifth hawkish vote. The coalition is numerically
+  sufficient for a rate increase if Warsh or Jefferson align.
+  Bowman (May 29) and Miran (Mar 26, pre-FOMC) remain the only
+  voters with dovish or cut-leaning signals.
+
+Language watch:
+  • "inflation appears to be trending toward the mid 2's — not all
+    the way back to 2 percent" — FIRST explicit above-2% inflation
+    forecast from any voter. This phrase changes the analytical frame:
+    if inflation won't return to 2% under current conditions, the
+    holding language in the Apr 29 statement is insufficient. Watch
+    whether Warsh or Jefferson echo this framing in any pre-blackout
+    remarks. If Troika adopts this forecast, the June 18 statement
+    cannot maintain the hold without policy language changes.
+  • "monetary policy is not restraining the economy" — [Inference
+    from labor + growth + financial conditions sections.] Mirrors
+    Hammack's "policy may not be restrictive." Two voters, different
+    analytical paths, same conclusion within 24 hours.
+  • "higher interest rates could be necessary later this year" —
+    explicit hike signal; "later this year" timeline differs from
+    Hammack's "may soon." Logan's horizon is longer but the direction
+    is identical. Watch for convergence on timeline language.
+  • Trimmed-mean caveat ("cautions against putting too much stock in
+    low readings") — technically specific argument that disables the
+    most dovish of the common inflation metrics. If Dallas Fed staff
+    paper is published, this becomes the basis for cross-speaker
+    citation.
+
+Analyst flag:  YES
+  → HIKE COALITION NOW AT FOUR VOTERS: Waller (May 22), Cook (May 27),
+    Hammack (Jun 2), Logan (Jun 3) — four of 12 voters have deployed
+    explicit hike-ready language in 12 days. The blackout begins Jun 6
+    (3 days). Two critical questions going into June 18:
+    (1) Logan's "mid 2's, not 2 percent" forecast — if this is the
+        committee's baseline inflation view, holding at 4.25-4.50%
+        while inflation settles structurally above 2% requires
+        explicit policy language. Does Warsh share this pessimistic
+        inflation forecast?
+    (2) Trimmed-mean caveat: analyst should locate the Dallas Fed
+        staff research Logan cites. If the trimmed mean composition
+        effect is quantified and widely cited, the dovish reading of
+        2.3% trimmed mean disappears from the debate.
+══════════════════════════════════════════════════════════

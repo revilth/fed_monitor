@@ -4,21 +4,150 @@ Date: June 3, 2026 (Wednesday)
 Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  1. Beth M. Hammack  |  Cleveland Fed President  |  Just Voter
+  1. Lorie Logan  |  Dallas Fed President  |  Just Voter
+     "Opening remarks for moderated conversation"
+     The University of Texas at El Paso, El Paso, TX
+     June 3, 2026  [scraped June 4; scored June 4]
+  2. Beth M. Hammack  |  Cleveland Fed President  |  Just Voter
      "It Takes Two to Make an Economy Go Right"
      City Club of Cleveland, Cleveland, Ohio
      June 2, 2026  [scraped and scored June 3]
-  — NOTE: No speeches dated June 3, 2026 on record.
-    The Hammack speech (June 2) was added to the corpus in yesterday's
-    collect run and is scored here for the first time.
 
 PRE-BLACKOUT NOTE: The FOMC blackout window begins June 6 (3 days).
-  No further policy speeches are expected after June 5. The Hammack
-  speech is the final recoverable Type A speech before blackout.
+  Logan (Jun 3) is the last confirmed pre-blackout Type A speech.
+  No further policy speeches are expected after June 5. The hike-ready
+  language cluster — Waller (May 22), Cook (May 27), Hammack (Jun 2),
+  Logan (Jun 3) — is now complete for the pre-blackout window.
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  BETH M. HAMMACK  |  Cleveland Fed President  |  Just Voter
+1.  LORIE LOGAN  |  Dallas Fed President  |  Just Voter
+    "Opening remarks for moderated conversation at UTEP"
+    University of Texas at El Paso, June 3, 2026
+    CLASSIFICATION: Type A — Full Economic Outlook speech
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Economic activity remains strong." — slightly more emphatic than
+  the Apr 29 statement's "expanding at a solid pace." Consumer spending
+  "robust," corporate earnings "going gangbusters" (S&P 500 earnings
+  +25% Q1 YoY; median company +14%). "Financial conditions are
+  accommodative." — second voter in 24 hours (after Hammack Jun 2)
+  to characterize conditions as permissive rather than restraining.
+  AI investment booming but disinflationary benefits "uncertain"
+  in timing. No compositional demand-side risk flagged.
+  Direction: neutral-hawkish (accommodative conditions framing)
+
+LABOR MARKET
+  "The labor market appears stable and broadly balanced." —
+  Unchanged characterization from May 1 and May 10. Unemployment
+  rate 4.3%, hovered for a year. Critically: Logan reframes 50K/month
+  job gains (which the Apr 29 statement calls "low") as "in line with
+  the slow growth rate of the labor force" — a deliberate analytical
+  divergence from the committee's softness framing. Closes with:
+  "these conditions indicate that monetary policy is not restraining
+  the economy." [Inference: labor + growth + accommodative conditions
+  together argue current rates are insufficient, not just neutral.]
+  Direction: neutral-hawkish (stable framing removes dovish leg;
+  "not restraining" inference mirrors Hammack's "not restrictive")
+
+INFLATION
+  "Inflation is taking too long to return to the FOMC's 2 percent
+  target." Headline PCE ~4% past 12 months; Core PCE 3.3%; Dallas
+  trimmed mean 2.3% but EXPLICITLY DISCOUNTED: "my staff's research
+  cautions against putting too much stock in low readings of the
+  trimmed mean" — a composition effect is pulling it artificially
+  low. Cleveland median PCE 2.8%; NY Fed multivariate core trend
+  above 3%. Dallas Fed tariff research: tariffs affect the LEVEL of
+  prices, not the ongoing inflation RATE. Bottom line — KEY:
+  "inflation appears to be trending toward the mid 2's — not all
+  the way back to 2 percent." First explicit above-2% inflation
+  FORECAST from any voter. Prior formulation (May 1): "taking too
+  long." Now: will not reach 2% under current conditions.
+  Direction: HAWKISH (above-2% forecast; trimmed-mean disabled;
+  tariff/energy treated as additive to pre-existing problem)
+
+MONETARY POLICY
+  "I am increasingly concerned that higher interest rates could be
+  necessary later this year to fully restore price stability and
+  appropriately balance both sides of the Fed's dual mandate."
+  First EXPLICIT HIKE SIGNAL from Logan. Component analysis:
+  "could be necessary" = conditional (not imminent); "later this
+  year" = within 2026 but not "soon" (cf. Hammack: "may soon");
+  "fully restore price stability" = current stance insufficient;
+  "balance both sides" = hike framed as serving BOTH mandate legs.
+  The symmetric framing from May 1 ("either an increase or a cut")
+  has resolved hawkish: hike is now the primary concern, not one of
+  two symmetric options. Scenario framing: DESCRIPTIVE (not named
+  scenario labels per Waller/Hammack framework).
+  Cut signal status: ABSENT. Hike signal: PRESENT — conditional,
+  "later this year."
+  Direction: HAWKISH (first explicit Logan hike signal; symmetric
+  framing resolved to asymmetric-hawkish)
+
+NET SIGNAL: HAWKISH — escalation from May 1 dissent. Three structural
+  shifts: (1) Symmetric "either/or" → explicit conditional hike;
+  (2) Uncertainty about reaching 2% → explicit forecast of settling
+  in "mid 2's"; (3) "Accommodative" financial conditions + "not
+  restraining" inference — policy diagnosis matches Hammack's.
+
+vs. PRIOR SPEECH (May 1, dissent statement):   HAWKISH — May 1:
+  symmetric "either an increase or a cut." Jun 3: hike is the
+  explicit primary concern. Inflation framing upgraded from
+  uncertainty to explicit above-2% forecast. Significant escalation.
+
+vs. PRE-FOMC SPEECH (Feb 10):   HAWKISH — Feb 10: "not yet fully
+  confident inflation is heading all the way back to 2 percent"
+  (uncertainty framing). Jun 3: "trending toward the mid 2's —
+  not all the way back to 2 percent" (explicit pessimistic forecast).
+  Full trajectory: Feb 10 hawkish concern → May 1 symmetric →
+  Jun 3 explicit hike-leaning.
+
+vs. COMMITTEE SINCE FOMC:   Logan joins Waller (May 22), Cook (May 27),
+  and Hammack (Jun 2) as the fourth voter to deploy explicit
+  hike-signaling language post-April-29. She is the third Just Voter
+  (regional president) to do so, alongside two Board Governors (Waller,
+  Cook). Kashkari's Apr 29 dissent record implies a fifth hawkish hold
+  at minimum. Bowman remains the single explicit dovish outlier.
+
+LANGUAGE TO WATCH:
+  • "inflation appears to be trending toward the mid 2's — not all
+    the way back to 2 percent" — FIRST above-2% inflation forecast
+    from any voter. If Warsh or Jefferson echo this phrase before the
+    blackout, it signals the June 18 statement will not include language
+    implying confidence in returning to 2%. The June 18 policy decision
+    may need to address a committee that does not believe its current
+    stance achieves the inflation mandate.
+  • "higher interest rates could be necessary later this year" —
+    conditional hike signal with "later this year" timeline vs.
+    Hammack's "may soon." Two voters now have explicit hike language
+    with different temporal urgency.
+  • "monetary policy is not restraining the economy" — [Inference
+    from the speech's joint reading of labor + growth + financial
+    conditions.] Mirrors Hammack's Jun 2 "policy may not be
+    sufficiently restrictive." Two voters, same diagnosis, within
+    24 hours.
+  • Trimmed-mean caveat — Logan disables the Dallas Fed's own 2.3%
+    reading. This is the most dovish of the standard inflation metrics;
+    its removal narrows the range of measures pointing toward 2%.
+
+ANALYST FLAG: YES
+  → HIKE COALITION NOW FOUR VOTERS: Waller (May 22), Cook (May 27),
+    Hammack (Jun 2), Logan (Jun 3). Four of 12 voters deployed explicit
+    hike-ready language in 12 days. Kashkari (Apr 29 dissent record,
+    no post-FOMC transcript) likely makes five. If Warsh or Jefferson
+    hold similar views, the committee has a hike majority.
+  → Logan's "mid 2's, not 2 percent" forecast is the most important
+    analytical claim in this speech. It implies the current stance
+    is structurally insufficient — not just uncertain. Analyst should
+    assess whether Logan's multi-measure analysis (discounting trimmed
+    mean, citing NY Fed multivariate trend above 3%) represents the
+    committee consensus view of the inflation path going into June 18.
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  BETH M. HAMMACK  |  Cleveland Fed President  |  Just Voter
     "It Takes Two to Make an Economy Go Right"
     City Club of Cleveland, June 2, 2026
     CLASSIFICATION: Type A — Full Economic Outlook speech
@@ -27,122 +156,111 @@ PRE-BLACKOUT NOTE: The FOMC blackout window begins June 6 (3 days).
 GROWTH
   Consumer spending rising at a moderate pace; AI business investment
   strong; Cleveland Fed SORCE indices show strengthening conditions.
-  HAWKISH ADDITION: Hammack argues financial conditions are supportive
-  of growth "rather than holding it back," and that "policy may not
-  be restrictive" — the real FFR has declined as inflation rose over
-  the last few months. This is an argument that the current nominal
-  rate is functionally insufficient in real terms.
-  Direction: neutral-hawkish lean (financial conditions framing)
+  HAWKISH ADDITION: financial conditions are "supportive of growth
+  rather than holding it back," and "policy may not be restrictive"
+  — the real FFR has declined as inflation rose over the last few
+  months. This is an argument that the current nominal rate is
+  functionally insufficient in real terms.
+  Direction: neutral-hawkish (financial conditions framing)
 
 LABOR MARKET
   "The unemployment rate was 4.3 percent in April, similar to where
   it was last summer. This is right around my definition of full
-  employment in the long term, when labor demand and labor supply
-  are in balance." Claims and mass layoff notices remain low; no
-  forward-looking deterioration signal. Hammack's characterization
-  diverges from the Apr 29 statement's "job gains have remained low"
-  language — she simply omits job growth weakness from her framing.
-  Direction: hawkish lean (full employment framing removes dovish leg)
+  employment in the long term, when labor demand and labor supply are
+  in balance." Claims and layoff notices remain low; no forward-looking
+  deterioration signal. Hammack omits the Apr 29 statement's "job gains
+  have remained low" framing — she characterizes 4.3% simply as full
+  employment, removing the dovish labor leg.
+  Direction: hawkish (full employment framing removes dovish leg)
 
 INFLATION
   "Inflation is too high and is moving higher." Headline PCE: 3.8%
-  in April; core PCE: 3.3%, "well above levels from six months or
-  a year ago" — the trajectory is adverse, not merely elevated.
-  Broad-based price pressures across goods and nonhousing services;
-  services ex-housing "has been stuck at an elevated rate and has
-  shown little improvement over the last two years" — a structural
-  argument against the look-through case. Inflation expectations
-  risk flagged explicitly: "sixth year of elevated inflation" may
-  embed expectations; "decisive action" warranted if expectations
-  de-anchor.
-  Direction: hawkish (acceleration framing; duration argument;
-  structural persistence in services; expectations urgency)
+  in April; core PCE: 3.3%, "well above levels from six months or a
+  year ago" — adverse trajectory, not merely elevated level. Broad-based
+  price pressures; services ex-housing "stuck at an elevated rate...
+  for the last two years" — structural argument against look-through.
+  Inflation expectations: "sixth year of elevated inflation" may embed
+  expectations; "decisive action" warranted if expectations de-anchor.
+  Direction: hawkish (acceleration framing; services persistence;
+  expectations urgency; "decisive action" first use in 2026)
 
 MONETARY POLICY
-  Base case: hold. Hammack supports keeping rates steady given
-  uncertainty. But the forward signal is hawkish: "if recent data
-  trends continue, it may soon be appropriate for policy to act to
-  address the growing risks of persistently elevated inflation."
-  Explicit diagnosis: "monetary policy may not be sufficiently
-  restrictive to bring inflation down to 2 percent in a timely
-  fashion." Urgency logic: "if we wait for definitive evidence that
-  high inflation has become embedded, it may require larger policy
-  adjustments, at greater cost" — invokes Volcker episode explicitly.
+  Base case: hold. Forward signal: "if recent data trends continue,
+  it may soon be appropriate for policy to act to address the growing
+  risks of persistently elevated inflation." Explicit diagnosis: "monetary
+  policy may not be sufficiently restrictive." Urgency: "if we wait for
+  definitive evidence that high inflation has become embedded, it may
+  require larger policy adjustments, at greater cost" (Volcker logic).
   Scenario framing: EXPLICIT AND NAMED. Scenario 1 (hold): oil shock
-  fades, balance labor/inflation risks. Scenario 2 (hike): inflation
-  persists if energy costs stay elevated, broad-based pressures
-  continue → "more restrictive monetary policy could well be needed."
-  Cut signal status: ABSENT. Easing bias explicitly opposed (Apr 29
-  dissent). Hike signal: PRESENT — conditional but named.
-  Direction: hawkish (first explicit conditional hike signal from
-  Hammack; "may soon be appropriate to act")
+  fades, balance dual mandate. Scenario 2 (hike): inflation stays
+  elevated → "more restrictive monetary policy could well be needed."
+  Cut signal status: ABSENT. Hike signal: PRESENT — "may soon be
+  appropriate for policy to act." First conditional hike signal from
+  Hammack.
+  Direction: hawkish (first explicit Hammack hike signal; named scenario
+  framing; real-rate diagnostic)
 
-NET SIGNAL: HAWKISH — significant escalation from May 1 dissent
-  statement. Hammack has moved from "remove the easing bias" to
-  "may soon need to raise rates." The temporal dimension ("may soon")
-  is new; the diagnosis that policy "may not be sufficiently
-  restrictive" is the clearest articulation of the hike case from
-  any voter since the April 29 FOMC.
+NET SIGNAL: HAWKISH — significant escalation from May 1 dissent.
+  Five structural shifts: (1) Real rate argued to have FALLEN as
+  inflation rose; (2) Inflation "moving higher," not just elevated;
+  (3) Services ex-housing persistence argument against look-through;
+  (4) Conditional hike signal; (5) Volcker urgency logic.
 
-vs. PRIOR SPEECH (May 1, dissent statement):   HAWKISH — May 1
-  supported the hold explicitly with no forward rate signal. June 2
-  introduces conditional hike language and argues real rates have
-  fallen. Escalation in inflation concern (acceleration vs. broad-
-  based); financial conditions framing added.
-
-vs. PRE-FOMC SPEECH (Mar 6, embedded outlook): HAWKISH — Mar 6
-  characterized rates as "around neutral" with "two-sided risks to
-  rates" (symmetric). June 2: rates "may not be restrictive," real
-  rate declining, hike signal present. The symmetric risk framing
-  from March has resolved decisively hawkish in response to the
-  energy shock + continued broad inflation.
-
-vs. COMMITTEE SINCE FOMC: Hammack is the third voter in 11 days to
-  deploy explicit hike-ready language (Waller May 22: "I am prepared
-  to raise rates"; Cook May 27: similar; Hammack June 2: "may soon
-  be appropriate to act"). She occupies the hawkish flank alongside
-  Logan (May 10) and Kashkari (Apr 29 dissent record; no post-FOMC
-  transcript recovered). Bowman remains the dovish outlier. The
-  committee median (Paulson, May 19: inflation-first bar) has not
-  updated since mid-May.
+vs. PRIOR SPEECH (May 1, dissent):   HAWKISH — May 1 supported hold
+  without forward hike signal. Jun 2 adds conditional hike language,
+  real-rate falling argument, and "decisive action" on expectations.
+vs. PRE-FOMC SPEECH (Mar 6):   HAWKISH — Mar 6: "around neutral,"
+  symmetric risk. Jun 2: policy "may not be restrictive," hike signal
+  present. Symmetric framing resolved decisively hawkish.
+vs. COMMITTEE SINCE FOMC:   Third voter in 11 days with hike-ready
+  language (Waller May 22, Cook May 27, Hammack Jun 2).
 
 LANGUAGE TO WATCH:
-  • "may soon be appropriate for policy to act" — FIRST from Hammack;
-    temporal hike signal. If Logan echoes "may soon" before Jun 6,
-    the hike coalition has explicit pre-FOMC coordination signal.
-  • "monetary policy may not be sufficiently restrictive" — the
-    cleanest hike-logic argument from any voter: not just that rates
-    could go higher, but that current rates are insufficient. Watch
-    for Waller adoption of this specific diagnostic.
-  • "inflation is too high and is moving higher" — acceleration
-    framing, not yet in the FOMC statement (statement uses "elevated
-    in part reflecting energy prices"). If Warsh echoes "moving
-    higher" in any pre-blackout remarks, the June 18 statement is
-    likely to drop the energy-attribution framing.
-  • "decisive action" — first use in 2026 by any voter; references
-    expectations de-anchoring risk. Volcker framing intentional.
-  • "sixth year of elevated inflation" — duration phrase, consistent
-    with Barkin/Logan prior usage. Hammack adopts it explicitly here.
+  • "may soon be appropriate for policy to act" — temporal hike signal;
+    "may soon" is closer-in than Logan's "later this year."
+  • "monetary policy may not be sufficiently restrictive" — cleanest
+    articulation of the hike-logic diagnostic.
+  • "inflation is too high and is moving higher" — acceleration framing.
+  • "decisive action" (on expectations) — new escalation phrase.
 
-ANALYST FLAG: YES
-  → HIKE COALITION NOW AT THREE VOTERS: Waller (May 22), Cook
-    (May 27), and Hammack (Jun 2) have all used explicit hike-ready
-    language in an 11-day window. If Logan and Kashkari (both with
-    no recoverable post-FOMC Type A speech) hold similar views,
-    the hike camp may have 5 voters. The June 18 FOMC is 15 days
-    away; the blackout begins June 6. Three questions for the analyst:
-    (1) Does Warsh's silence before blackout indicate alignment with
-        the hike-ready majority or deliberate ambiguity?
-    (2) Is the June 18 outcome a HOLD + removal of easing bias, or
-        an actual RATE HIKE?
-    (3) Does Hammack's "real FFR has declined" calculation hold when
-        cross-checked against current PCE data (3.8% headline) vs.
-        nominal FFR (4.25%)? Real rate is ~0.45% — near or below
-        neutral by most estimates. Analyst should verify.
+ANALYST FLAG: YES — see Logan section above for combined hike coalition
+  analysis.
 
 ════════════════════════════════════════════════════════════════
-PRE-BLACKOUT SCOREBOARD (as of June 3 | 3 days to Jun 6 blackout)
+CROSS-SPEAKER NOTE (June 2–3)
 ════════════════════════════════════════════════════════════════
+Hammack (Jun 2) and Logan (Jun 3) deliver the same analytical diagnosis
+through different analytical architectures:
+
+FINANCIAL CONDITIONS CONVERGENCE:
+  Hammack: "measures of financial conditions are supportive of growth
+    rather than holding it back... policy may not be restrictive."
+  Logan: "financial conditions are accommodative... these conditions
+    indicate that monetary policy is not restraining the economy."
+  → Independent convergence on "policy is not restrictive" within 24
+    hours, by two regional presidents with different analytical styles
+    (Hammack: explicit real-rate calculation; Logan: multi-measure
+    inflation analysis with trimmed-mean caveat). This is not
+    coordination artifact — it reflects a genuine committee-level
+    assessment forming.
+
+INFLATION FORECAST DIVERGENCE (SIGNIFICANT):
+  Hammack: "inflation is too high and is moving higher" — trajectory
+    is adverse; no explicit settling-point forecast.
+  Logan: "inflation appears to be trending toward the mid 2's — not
+    all the way back to 2 percent" — explicit above-2% forecast.
+  → Logan's framing is more pessimistic about the terminal inflation
+    rate under current policy. Hammack argues for urgency because of
+    acceleration; Logan argues for urgency because current policy
+    is structurally insufficient to achieve 2%.
+
+HIKE TIMELINE DIVERGENCE:
+  Hammack: "may soon be appropriate for policy to act" — short horizon.
+  Logan: "could be necessary later this year" — medium horizon (but
+    within 2026, before the blackout-end for multiple remaining
+    meetings). Two voters, both hawkish, with different speed assessments.
+
+████████ PRE-BLACKOUT SCOREBOARD (as of June 3 | 3 days to Jun 6 blackout)
 
 TROIKA
   [Warsh (Chair)]        SILENT — 35 days post-confirmation.
@@ -151,29 +269,29 @@ TROIKA
   Jefferson (Vice Chair) May 27 — HAWKISH. "Upside risk to inflation
                                   forecast." Energy + tariff both
                                   unresolved.
-  Williams (NY)          May 4  — NEUTRAL-HAWKISH. Cut signal
-                                  withdrawn. Soft data caution.
-  [Powell (Governor)]    May 31 — Type B (JFK Award speech). No
-                                  economic content since Apr 29
-                                  press conference.
+  Williams (NY)          May 4  — NEUTRAL-HAWKISH. Cut signal withdrawn.
+                                  Soft data caution.
+  [Powell (Governor)]    May 31 — Type B (JFK Award speech). No economic
+                                  content since Apr 29 press conference.
 
 JUST VOTERS
   Waller                 May 22 — HAWKISH. "I am prepared to raise
                                   rates." Explicit hike if inflation
                                   does not fall.
-  Cook                   May 27 — HAWKISH. Echoes hike-ready
-                                  language.
-  Hammack ← NEW TODAY    Jun 2  — HAWKISH (escalated). "May soon
-                                  be appropriate for policy to act."
+  Cook                   May 27 — HAWKISH. Echoes hike-ready language.
+  Hammack ← UPDATED      Jun 2  — HAWKISH (escalated). "May soon be
+                                  appropriate for policy to act."
                                   Policy "may not be sufficiently
-                                  restrictive." FIRST HAMMACK HIKE
-                                  SIGNAL.
+                                  restrictive." FIRST HAMMACK HIKE SIGNAL.
+  Logan ← NEW TODAY      Jun 3  — HAWKISH (escalated). "Higher interest
+                                  rates could be necessary later this
+                                  year." Explicit above-2% inflation
+                                  forecast. "Mid 2's, not 2 percent."
+                                  FIRST LOGAN HIKE SIGNAL.
   Bowman (VCS)           May 29 — DOVISH. "Moderately restrictive."
                                   Defends easing bias.
   Paulson (median)       May 19 — NEUTRAL-HAWKISH. Inflation-first
                                   bar. No update since May 19.
-  Logan                  May 10 — HAWKISH. Apr 29 dissenter.
-                                  Extended energy shock timeline.
   Kashkari               May 1  — HAWKISH (inferred from Apr 29
                                   dissent). No post-FOMC transcript.
   Barr (Governor)        May 20 — Type B (financial health). No
@@ -192,59 +310,56 @@ NON VOTERS
   Daly (SF)              May 8  — NEUTRAL. Balanced risks.
   Musalem (St. Louis)    No post-FOMC speech.
 
-EXPLICIT HIKE-READY VOTERS (as of Jun 3):
-  Waller, Cook, Hammack — 3 of 12 voters (Waller/Cook Board
-  Governors; Hammack Cleveland president)
+HIKE COALITION (as of Jun 3):
+  EXPLICIT: Waller, Cook, Hammack, Logan — 4 of 12 voters
+  INFERRED:  Kashkari (Apr 29 dissent record) — likely 5th
+  SILENT:    Warsh (Chair), Jefferson, Williams, Paulson — pivotal
 
 HOLD + EASING BIAS:
   Bowman — 1 voter (explicit)
 
-HOLD + BIAS REMOVAL (inferred):
-  Logan, Kashkari — 2 voters (inferred from Apr 29 dissent; no
-  post-FOMC Type A speech to confirm)
-
-UNKNOWN / SILENT:
-  Warsh (Chair), Jefferson, Williams, Paulson, Barr, Miran — 6
-
 ════════════════════════════════════════════════════════════════
 LANGUAGE TO WATCH (CROSS-SPEAKER, AS OF JUNE 3)
 ════════════════════════════════════════════════════════════════
-  • "may soon be appropriate to act" (Hammack Jun 2) — ISOLATED.
-    First temporal hike signal from any voter. Watch for spread to
-    Logan or Kashkari before Jun 6.
-  • "I am prepared to raise rates" (Waller May 22) / hike-ready
-    language (Cook May 27, Hammack Jun 2) — EMERGING SHARED at
-    Just Voter level. 3 speakers in 11 days. Not yet echoed by
-    Troika.
-  • "monetary policy may not be sufficiently restrictive" (Hammack
-    Jun 2) / "not obvious that policy is restrictive" (Goolsbee
-    Feb 24) — SHARED ACROSS HAWKISH VOTERS. If Williams echoes,
-    the cut signal is functionally dead.
+  • "inflation appearing to settle above 2%" / "mid 2's" (Logan Jun 3)
+    — ISOLATED, CRITICAL. First explicit above-2% forecast. If Troika
+    adopts this view, the June 18 statement cannot hold with current
+    language. Language cycle stage: DISPERSED (single speaker only).
+  • "policy may not be restrictive" (Hammack Jun 2) / "not restraining
+    the economy" (Logan Jun 3, inferred) — EMERGING SHARED at hawkish
+    voter level. Two voters, independent analytical paths, same
+    diagnosis within 24 hours. Language cycle stage: EMERGING SHARED
+    (2 Just Voters; not yet Troika).
+  • "may soon be appropriate for policy to act" (Hammack Jun 2) —
+    ISOLATED. Temporal hike signal. Watch for Logan echo ("later this
+    year" is softer but directionally identical).
+  • Hike-ready language cluster (Waller May 22, Cook May 27, Hammack
+    Jun 2, Logan Jun 3) — EMERGING SHARED at Just Voter level (4
+    speakers, 12 days). Language cycle stage: COMMITTEE-WIDE (all
+    hawkish voters); not yet Troika.
   • "additional adjustments" [easing bias in Apr 29 statement] —
-    UNDER SIEGE: Waller/Cook want removal; 3 Apr 29 dissenters
-    voted against it; Bowman defends it. Hammack opposed it at
-    Apr 29. Jefferson has not committed. Warsh position unknown.
-  • "sixth year of elevated inflation" / "five years above target"
-    (Hammack Jun 2, Logan May 10, Barkin Jan 6) — SHARED MULTI-
-    SPEAKER. Duration framing. Not yet in FOMC statement.
+    UNDER SIEGE. Four voters opposed it at Apr 29 (Hammack, Logan,
+    Kashkari) or post-FOMC (Waller, Cook). One voter defends it
+    (Bowman). Warsh and Jefferson positions unknown.
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Speeches today (June 2–3):
+Speeches June 2–3:
+  Logan, Jun 3:   https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
   Hammack, Jun 2: https://doi.org/10.26509/sp-20260602
 
-Prior speech (Hammack May 1 dissent statement):
-  https://www.clevelandfed.org/collections/speeches
-
-Pre-FOMC baseline (Hammack Mar 6):
-  https://doi.org/10.26509/sp-20260306
+Prior speeches:
+  Logan, May 1 (dissent):     https://www.dallasfed.org/news/speeches/logan/2026
+  Logan, Feb 10 (pre-FOMC):   https://www.dallasfed.org/news/speeches/logan/2026/lkl260210
+  Hammack, May 1 (dissent):   https://www.clevelandfed.org/collections/speeches
+  Hammack, Mar 6 (pre-FOMC):  https://doi.org/10.26509/sp-20260306
 
 Reference comparison speeches:
-  Waller, May 22:  https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
-  Cook, May 27:    https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Cook, May 27:      https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
   Jefferson, May 27: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
-  Bowman, May 29:  https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
-  Logan, May 10:   https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
-  Paulson, May 19: https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Bowman, May 29:    https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  Kashkari, May 1:   https://www.minneapolisfed.org/people/neel-kashkari
+  Paulson, May 19:   https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
 ════════════════════════════════════════════════════════════════
