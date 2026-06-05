@@ -1,0 +1,49 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 4, 2026 (Thursday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  — No new FOMC-member speeches on June 4, 2026.
+
+CORPUS UPDATE (scored today):
+  Logan (Jun 3) — scraped overnight; scored this run.
+  See 20260603_daily.txt (updated) for full analysis.
+  Pending files processed: 43 unscored raw files reviewed;
+  all pre-June 3 files classified as Type B without outlook or
+  stub-only (no transcript) and skipped per methodology.
+════════════════════════════════════════════════════════════════
+
+PRE-BLACKOUT STATUS
+  Blackout begins:  Saturday June 6, 2026 (2 days)
+  Last confirmed Type A speech in corpus: Logan, June 3 (scored today)
+  Possible remaining window: June 5 (Friday) — no speeches on record
+
+HIKE COALITION SUMMARY (entering blackout)
+  EXPLICIT hike-ready voters: Waller (May 22), Cook (May 27),
+    Hammack (Jun 2), Logan (Jun 3) — 4 of 12 voters
+  INFERRED hawkish: Kashkari (Apr 29 dissent; no post-FOMC transcript)
+  SILENT/UNKNOWN: Warsh (Chair; 36 days post-confirmation, no speech),
+    Jefferson (May 27, hawkish), Williams (May 4, neutral-hawkish),
+    Paulson (May 19, neutral-hawkish), Barr, Miran
+  DOVISH: Bowman (May 29, defends easing bias)
+
+KEY ANALYTICAL QUESTION ENTERING JUNE 18 FOMC:
+  Logan (Jun 3) introduced the most important new analytical claim of
+  the pre-blackout window: "inflation appears to be trending toward
+  the mid 2's — not all the way back to 2 percent." This is the first
+  explicit above-2% inflation FORECAST from any voter. If this view
+  is shared by Warsh (Chair, no public statement since confirmation),
+  the June 18 meeting faces a choice: (a) remove the easing bias and
+  hold, or (b) raise rates. Warsh's first policy-framing speech will
+  be the critical post-blackout signal.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No new speeches today.
+
+Most recent scored speeches for reference:
+  Logan, Jun 3:   https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+  Hammack, Jun 2: https://doi.org/10.26509/sp-20260602
+════════════════════════════════════════════════════════════════

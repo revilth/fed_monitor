@@ -1,0 +1,275 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-06-02 | Beth M. Hammack | Cleveland Fed President | Just Voter
+"It Takes Two to Make an Economy Go Right"
+City Club of Cleveland, Cleveland, Ohio
+SOURCE: https://doi.org/10.26509/sp-20260602
+
+CLASSIFICATION: Type A — Full Economic Outlook speech. Four-section
+  structure: Growth / Financial Conditions / Labor Market / Inflation /
+  Monetary Policy. Extensive historical framing (inflation targeting
+  history, Volcker episode) preceding current economic assessment.
+  Followed by Q&A.
+
+Reference FOMC:    April 29, 2026 (hold; FFR 4.25–4.50%)
+Pre-FOMC baseline: March 6, 2026  "Remarks for the Panel: On the
+  Safe-Haven Status of the Dollar" (2026 US Monetary Policy Forum —
+  scored; Type B with embedded outlook)
+Post-FOMC prior:   May 1, 2026  "Statement regarding her vote at
+  the April 28–29, 2026 FOMC meeting" (scored; dissent statement)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: not directly invoked.
+
+Own language:
+  "Consumer spending has continued to rise at a moderate pace."
+  "Businesses have been ramping up their spending on AI-related
+   investments in data centers, computing equipment, and software."
+  "SORCE indices... show strengthening business conditions,
+   employment, capital expenditures, and cost pressures."
+  "In spite of elevated uncertainty, most conversations that I've
+   had with business leaders indicate expectations for solid
+   activity in coming months."
+  → Overall growth characterization: RESILIENT. No weakness signal.
+
+FINANCIAL CONDITIONS — KEY HAWKISH ADDITION:
+  "measures of financial conditions are supportive of growth rather
+   than holding it back."
+  "I mainly hear about plans for business investment, not that
+   credit markets or interest rates are holding companies back,
+   and this is telling me that policy may not be restrictive."
+  "rising inflation means the real federal funds rate has actually
+   declined over the last few months."
+  → HAWKISH FRAMING: Hammack argues that financial conditions are
+    accommodative and that the real FFR has declined as inflation
+    rose — the functional equivalent of saying the Fed has eased
+    even while holding the nominal rate steady. This framing
+    directly supports the case for tighter policy.
+
+Shift vs. prior speech (May 1):   HAWKISH — May 1 statement noted
+  "resilient thus far in 2026" without elaboration. June 2 adds
+  explicit financial conditions analysis arguing policy is NOT
+  restrictive (real rate falling).
+Shift vs. pre-FOMC (Mar 6):       HAWKISH — Mar 6 had no financial
+  conditions analysis. "Policy may not be restrictive" is new to
+  Hammack's framework post-March. Mar 6 said "around neutral";
+  June 2 implies it may now be below neutral in real terms.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have remained low, on average, and the unemployment
+   rate has been little changed" [Apr 29 stmt]
+  → Hammack does NOT echo this language. She omits any mention of
+    low job gains. Her characterization diverges from the statement.
+
+Own verdict:
+  "The unemployment rate was 4.3 percent in April, similar to
+   where it was last summer. This is right around my definition of
+   full employment in the long term, when labor demand and labor
+   supply are in balance."
+  → FULL EMPLOYMENT FRAMING: Identical to May 1 dissent statement.
+    No deterioration, no softening signal, no downside risk.
+
+Own qualifier:
+  "Claims for unemployment insurance and notices of mass layoffs
+   remain low, providing no signal of an impending slowdown."
+  → Explicitly rules out forward-looking labor deterioration.
+    No "soft data diverging from hard data" framing (contrast
+    with Williams, who distinguishes hard vs. soft data).
+
+Shift vs. prior speech (May 1):   UNCHANGED — "near full employment"
+  persists. May 1 used same characterization. No shift.
+Shift vs. pre-FOMC (Mar 6):       HAWKISH — Mar 6 acknowledged
+  "labor market softening we've seen over the last year" as a
+  dual-mandate consideration. June 2 has no such acknowledgment;
+  4.3% is simply "full employment." Hammack has dropped the
+  dovish labor qualifier from her pre-FOMC framework.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation is elevated, in part reflecting the recent increase
+   in global energy prices." [Apr 29 stmt]
+  → Hammack does NOT echo the energy attribution framing.
+
+Own language — KEY:
+  "Inflation is too high and is moving higher."
+  → UPGRADED CHARACTERIZATION. May 1: "inflation pressures continue
+    to be broad based." Mar 6: "inflation is too high." June 2 adds
+    the directional component: "moving higher" — not just elevated
+    but actively accelerating.
+
+  Headline PCE: 3.8% in April, "well above our 2 percent objective."
+  Core PCE: 3.3% in April, "also well above our objective and well
+    above levels from six months or a year ago."
+  → Year-over-year comparison: core inflation worse than six months
+    and one year ago. The trajectory is adverse, not merely elevated.
+
+  "Looking within the components of core inflation, I see relatively
+   broad-based price pressures across goods and nonhousing services."
+  "Inflation among services excluding housing has been stuck at an
+   elevated rate and has shown little improvement over the last two
+   years, even though these prices should be less impacted by tariffs
+   and energy prices than other components."
+  → STRUCTURAL INFLATION ARGUMENT: Services ex-housing — the
+    category most reflective of domestic demand and wages — has
+    been elevated for two years and is NOT attributable to energy
+    or tariffs. This directly undermines the look-through case.
+
+  Inflation expectations risk:
+  "With the economy now in its sixth year of elevated inflation,
+   consumers, businesses, and financial markets may start to build
+   in expectations for higher future inflation."
+  "Preventing an inflationary mindset is critical to delivering on
+   our 2 percent objective. Increases in inflation expectations that
+   threaten our goal warrant taking decisive action."
+  → ESCALATION LANGUAGE: "decisive action" in response to
+    expectations de-anchoring. This is stronger urgency than any
+    prior Hammack statement.
+
+Shift vs. prior speech (May 1):   HAWKISH — May 1: "broad based"
+  inflation. June 2 adds: "moving higher," year-over-year
+  deterioration, two-year services stickiness, and "decisive action"
+  on expectations. Substantially more alarmed tone.
+Shift vs. pre-FOMC (Mar 6):       HAWKISH — Mar 6: "too high,"
+  "broad based." June 2 adds active acceleration, quantified data
+  (3.8% headline, 3.3% core), services persistence argument, and
+  inflation expectations urgency. The energy shock has deepened the
+  inflation concern substantially since March.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "additional adjustments" [easing bias, Apr 29 stmt]
+  → Hammack does NOT echo. She opposed this language in her dissent.
+
+Own language — KEY:
+  "For today, it's reasonable to keep rates steady given the
+   uncertainties around the economic outlook."
+  → Base case: HOLD. Same as May 1. She still supports the hold.
+
+  "But if recent data trends continue, it may soon be appropriate
+   for policy to act to address the growing risks of persistently
+   elevated inflation."
+  → CONDITIONAL HIKE SIGNAL — FIRST FROM HAMMACK. "Act" in this
+    context means tighten: she cites "growing risks of persistently
+    elevated inflation" as the trigger, not labor market weakness.
+    "May soon" adds temporal urgency.
+
+  "Based on the data, I'm more concerned about the growing risks
+   of persistently elevated inflation than the risks to full
+   employment and also that monetary policy may not be sufficiently
+   restrictive to bring inflation down to 2 percent in a timely
+   fashion."
+  → EXPLICIT POLICY DIAGNOSIS: rates may be below the level needed
+    to achieve the 2% target. "Not sufficiently restrictive" is a
+    direct statement that the current FFR is too low. This is the
+    most direct case for a rate increase of any voter.
+
+  Urgency logic:
+  "If we wait for definitive evidence that high inflation has become
+   embedded in the economy, it may require larger policy adjustments,
+   at greater cost."
+  → PROACTIVE RATIONALE FOR HIKING: she invokes the Volcker cost
+    argument — waiting too long requires a larger, more painful
+    adjustment. The Volcker episode is referenced explicitly earlier
+    in the speech. This is not boilerplate; it is a policy argument.
+
+Cut signal status: ABSENT — easing bias explicitly rejected at Apr 29;
+  hike signal now present (conditional: "may soon be appropriate
+  to act").
+
+Scenario framing:
+  Hammack presents two-scenario analysis:
+  Scenario 1 (explicit): Extended oil + supply chain pressures
+    → hold ("balance weaker labor prospects with elevated inflation").
+    Less likely: "sharper downturn" → more accommodation.
+  Scenario 2 (explicit): Inflation remains elevated if energy costs
+    don't fall, businesses raise prices → "more restrictive monetary
+    policy could well be needed."
+  → Framing is EXPLICIT AND NAMED (type: explicit scenario with named
+    outcomes), per CLAUDE.md definition. The hike scenario is
+    presented as a plausible baseline, not a tail risk.
+
+Shift vs. prior speech (May 1):   HAWKISH — May 1: "I supported
+  holding the federal funds rate steady" (no hike signal). June 2:
+  "may soon be appropriate for policy to act" on inflation. First
+  forward-leaning hike language from Hammack.
+Shift vs. pre-FOMC (Mar 6):       HAWKISH — Mar 6: "hold for quite
+  some time," "two-sided risks to rates" (symmetric hike/cut). June 2:
+  upside-biased with conditional hike signal. The symmetric two-sided
+  framing from March has resolved hawkish.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — significant escalation from May 1.
+               Five structural shifts in this speech vs. the prior:
+               (1) Real rate argued to have FALLEN as inflation
+                   rose — removes the "policy is restrictive" premise;
+               (2) Inflation "moving higher," not just elevated;
+               (3) Services ex-housing persistence for two years —
+                   structural argument against look-through;
+               (4) Conditional hike signal: "may soon be appropriate
+                   for policy to act";
+               (5) Explicit urgency logic invoking Volcker costs of
+                   waiting too long.
+               This is the most hawkish Type A speech from any voter
+               since the April 29 FOMC meeting.
+
+Position relative to committee:
+  Hammack now joins Waller (May 22: "I am prepared to raise rates")
+  and Cook (May 27) as the third voter to deploy explicit hike-ready
+  language in the post-April-29 period. The coalition of explicit
+  hike signalers now stands at 3 voters (Waller, Cook, Hammack) plus
+  two implicit hawkish holders (Logan May 10, Kashkari's dissent
+  record). Bowman (May 29) remains the explicit dovish outlier
+  defending the easing bias. Median voter Paulson has not updated
+  her stance since May 19.
+
+Language watch:
+  • "may soon be appropriate for policy to act" — FIRST from Hammack.
+    Temporal ("may soon") + directional ("act" = tighten). If echoed
+    by Logan or Kashkari before Jun 6 blackout, the hike coalition
+    has a strong pre-FOMC signal.
+  • "monetary policy may not be sufficiently restrictive" — the
+    cleanest articulation of the hike argument's logic: not just
+    that rates could go higher, but that current rates are insufficient
+    to achieve the target. Watch whether Waller or Logan adopt this
+    specific framing in any remaining pre-blackout communications.
+  • "inflation is too high and is moving higher" — directional
+    acceleration language; more urgent than "elevated." [Note: not
+    yet in the FOMC statement, which uses "elevated in part
+    reflecting energy prices."]
+  • "decisive action" (on expectations) — escalation phrase; Hammack
+    is the first voter to use this term in 2026.
+  • "sixth year of elevated inflation" — duration framing (similar
+    to "five years" used by Barkin, Logan, and Hammack herself in
+    prior speeches). Inflation expectations de-anchoring is now
+    explicitly named as a tail risk.
+
+Analyst flag:  YES
+  → HIKE COALITION QUESTION: Waller (May 22), Cook (May 27), and
+    Hammack (Jun 2) have all deployed explicit hike-ready language
+    in the span of 11 days. If Logan (no post-May-10 speech
+    recovered) and Kashkari (all post-Apr-29 stubs) share this view,
+    the committee could have 5 hike-ready voters at June 18. Does
+    Warsh hold this position? His silence through 35+ days is the
+    critical gap. The June 18 outcome is ambiguous between hold-with-
+    removal-of-easing-bias and an actual rate increase, depending
+    on Warsh's undisclosed stance.
+  → REAL RATE ARGUMENT: Hammack's claim that the real FFR has
+    declined as inflation rose is worth quantifying. If headline PCE
+    was ~3.8% in April and the nominal FFR is 4.25%, the real rate
+    is approximately 0.45% — plausibly below neutral. This is a
+    materially different picture from the "moderately restrictive"
+    characterization used by Bowman (May 29). Analyst should verify
+    whether this calculation holds across different inflation measures.
+══════════════════════════════════════════════════════════

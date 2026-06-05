@@ -1,0 +1,147 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 31, 2026 (Sunday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY (May 31, 2026)
+  None. No scheduled Fed speeches on Sunday.
+
+PENDING FILES RESOLVED — NOT SCORED
+  1. John C. Williams  |  NY Fed President  |  Troika
+     "Productivity Growth and the Challenge of Real-Time Policymaking"
+     Reykjavík Economic Conference, Reykjavík, Iceland  (May 28, 2026)
+     TYPE: B — Academic/research speech on productivity measurement;
+       historical analysis of 1970s slowdown and 1990s boom; "recognition
+       problem" framing for real-time structural change. No current economic
+       outlook section, no inflation/labor/FFR stance.
+     → NOT SCORED (Type B, no embedded outlook)
+     [Williams's most recent scoreable stance remains: May 4, 2026 — NEUTRAL]
+
+  2. Lorie Logan  |  Dallas Fed President  |  Just Voter
+     "Opening remarks for 'Monetary policy and imbalances' panel"
+     Bank of Japan Institute for Monetary and Economic Studies (IMES)
+     Conference, Tokyo, Japan  (May 27, 2026)
+     TYPE: B — Panel remarks on global imbalances: (a) oil supply update
+       (Hormuz closure ≈ 13 mbd reduction; U.S. output constrained by
+       capital discipline, labor, pipeline limits); (b) Treasury market
+       resilience; (c) global fertility decline. No monetary policy stance,
+       no FFR assessment, no cut/hike signal.
+     NOTE: Logan's oil supply update provides useful background for the
+       energy shock context (one of Powell's two pre-cut conditions) but
+       carries no policy signal. Her description of constrained U.S. output
+       capacity and finite inventory drawdowns is more pessimistic than
+       Bowman's "temporary imprint" inflation framing — implicitly hawkish
+       backdrop — but Logan draws no policy conclusion from it.
+     → NOT SCORED (Type B, no embedded outlook)
+     [Logan's most recent scoreable stance remains: May 10, 2026 — HAWKISH]
+
+PRE-BLACKOUT WINDOW: 6 calendar days to June 6 blackout (Jun 6–19).
+════════════════════════════════════════════════════════════════
+
+COMMITTEE SCOREBOARD (unchanged from May 30)
+════════════════════════════════════════════════════════════════
+
+  Waller    (May 22): HAWKISH — explicit hike signal; easing bias
+                      removal call; "five years above target"
+  Cook      (May 27): HAWKISH — explicit conditional hike; PCE at 3.8%;
+                      AI demand as inflation vector
+  Logan     (May 10): HAWKISH — "inflation still too high"; Apr 29
+                      dissenter  [May 27 BoJ: supply context only]
+  Jefferson (May 27): HAWKISH LEAN — "moved notably higher"; "not
+                      prejudged"; two-shock conditional framing
+  Paulson   (May 19): HAWKISH LEAN — inflation-first bar; pre-cut
+                      conditions unmet (median voter)
+  Barkin    (May 21): HAWKISH LEAN — cumulative shocks framing (Non Voter)
+  Collins   (May 13): HAWKISH LEAN — hike scenario floated (Non Voter)
+  Goolsbee  (May 12): HAWKISH LEAN — "not obvious policy is restrictive"
+                      (Non Voter)
+  Williams  (May 4):  NEUTRAL — patient hold; look-through on shocks
+                      [May 28 Reykjavík: Type B, not scored]
+  Bowman    (May 29): NEUTRAL-DOVISH — easing bias endorsed; "moderately
+                      restrictive"; look-through on energy; hike signal
+                      absent
+
+  Hammack, Kashkari, Miran: UNKNOWN post-FOMC Type A stance
+  Warsh (Chair): NOT YET SPOKEN since confirmation Apr 29
+  Musalem: low transcript availability
+
+  Hike camp (explicit):  Waller, Cook [2 voters]
+  Hawkish lean:          Logan, Jefferson, Paulson [3 voters]
+                         + Barkin, Collins, Goolsbee [3 non-voters]
+  Neutral:               Williams [1 Troika vote]
+  Neutral-dovish:        Bowman [1 voter]
+  Unknown:               Warsh [Chair; 1 Troika vote], Hammack,
+                         Kashkari, Miran [3 voters]
+
+════════════════════════════════════════════════════════════════
+PRE-BLACKOUT COVERAGE GAPS (Jun 6 blackout start — 6 days)
+════════════════════════════════════════════════════════════════
+
+  CRITICAL:
+    1. Warsh — no public speech since confirmation Apr 29. 6 days
+       remain. His first speech as Chair would anchor the June 18
+       statement direction more decisively than any other signal.
+       Silence through blackout means June 18 outcome is unknown.
+    2. Kashkari (May 7, May 13) — Just Voter; hawkish Apr 29
+       dissenter; two Q&A events with no transcripts (stub pages).
+       YouTube recovery needed. His post-FOMC view is unknown.
+    3. Hammack (Cleveland) — no post-FOMC economic outlook speech.
+       Hawkish Apr 29 dissenter; JS-rendered website. YouTube
+       recovery needed.
+    4. Miran (Governor) — new in 2026; no post-FOMC Type A speech.
+       Dissented preferring a CUT at Apr 29. His post-FOMC view
+       (whether he continues to lean dovish or has updated) unknown.
+    5. Goolsbee (May 27) — BoJ stub; no transcript. Non Voter;
+       low analytical weight for June outcome but useful context.
+
+LANGUAGE TO WATCH (unchanged from May 30):
+  • "moderately restrictive" (Bowman May 29) — ISOLATED. If Williams
+    or Warsh echo before Jun 6, signals Troika dovish lean.
+  • "additional policy rate adjustments" [easing bias] — UNDER SIEGE:
+    Waller/Cook want removal; 3 Apr 29 dissenters voted against it;
+    Bowman explicitly defends it. Jefferson ambiguous ("not prejudged").
+    Status: fragile majority holding.
+  • "I am prepared to raise rates" (Waller May 22, Cook May 27) —
+    EMERGING SHARED at Just Voter level. Not yet echoed by Troika.
+    Watch for Williams or Warsh to adopt/reject.
+  • Two-shock conditional (tariffs AND energy) — COMMITTEE-WIDE as
+    disinflation prerequisite. Bowman most optimistic both conditions
+    will resolve; others more cautious. Logan's May 27 oil update
+    implies the energy condition may take longer than Bowman expects.
+
+ANALYST FLAG: YES
+  → Warsh's silence remains the dominant pre-blackout uncertainty.
+    6 days to Jun 6. Three unresolved questions from May 30 carry over:
+    (1) Will Warsh speak before June 6? His framing would anchor the
+        June 18 outcome — easing bias retained vs. removed, and whether
+        a hike is in play.
+    (2) Does the easing bias survive to the June 18 statement? Bowman
+        defends; Waller/Cook want removal; 3 dissenters voted against.
+        Without a Warsh signal, the easing bias outcome is uncertain.
+    (3) Kashkari/Hammack/Miran are hawkish Apr 29 dissenters with
+        unknown post-FOMC views. If all three have moved to explicit
+        hike signals, the hike camp grows to 5 explicit voters —
+        a potential majority. Transcript recovery remains high priority.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches today: None.
+
+Type B (not scored) from prior days — resolved this run:
+  Williams, May 28, 2026 (Reykjavík Economic Conference):
+    https://www.newyorkfed.org/newsevents/speeches/2026/wil260528
+    [URL inferred from NY Fed pattern — verify at source]
+  Logan, May 27, 2026 (BoJ-IMES Conference, Tokyo):
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl260527
+    [URL inferred from Dallas Fed pattern — verify at source]
+
+Most recent scored speech per active speaker:
+  Bowman, May 29:    https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Cook, May 27:      https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Jefferson, May 27: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+  Logan, May 10:     https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Paulson, May 19:   https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+════════════════════════════════════════════════════════════════

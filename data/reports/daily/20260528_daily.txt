@@ -1,0 +1,228 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: May 28, 2026 (Thursday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES REPORTED (delivered May 27, 2026 — not covered in prior run)
+  1. Lisa D. Cook  |  Governor  |  Just Voter
+     "The Opportunities and Risks AI Presents for the Economy and Financial System"
+     Stanford Institute for Economic Policy Research (SIEPR), Stanford, CA
+     TYPE: B with embedded Economic Outlook section → SCORED
+
+  2. Lorie Logan  |  Dallas Fed President  |  Just Voter
+     "Opening remarks for 'Monetary policy and imbalances' panel"
+     Bank of Japan Institute for Monetary and Economic Studies (IMES)
+     Conference, Tokyo, Japan
+     TYPE: B — no embedded economic outlook → NOT SCORED
+     [Logan's remarks cover: (a) oil supply shock — Strait of Hormuz
+      closure reducing global supply ~13M bpd; (b) Treasury market
+      resilience; (c) global demographics/fertility. No monetary policy
+      stance or current inflation/labor/growth assessment. See note below.]
+
+  3. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Panel Discussion"
+     Bank of Japan IMES Conference, Tokyo, Japan (9:25 pm CT, May 27)
+     STATUS: NOT SCORED — event stub only; no transcript posted.
+     ACTION: Chicago Fed page confirms planned participation;
+     remarks summary expected on chicagofed.org after panel; also
+     check BoJ IMES conference website and YouTube for video recovery.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  LISA D. COOK  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Cook treats growth last and briefly — a structural positive with no
+  policy implications. "GDP growth has remained robust" and "labor
+  productivity growth has exceeded its pre-pandemic average." AI is
+  expected to "further boost productivity growth" in the near to medium
+  term. No compositional concerns or demand risks flagged.
+  Direction: neutral
+
+LABOR MARKET
+  Cook characterizes the labor market as "largely stable" with the 4.3%
+  unemployment rate "in line with estimates of the natural rate." Supply
+  and demand of labor are "roughly balanced." She flags elevated downside
+  risks — Middle East conflict uncertainty, low-hire environment, and
+  AI-driven structural displacement ("most significant reorganization of
+  work in generations") — but none of these is a current condition; all
+  are forward-looking risks. Notably, she does not repeat the distributional
+  deterioration flags (part-time workers, youth/Black unemployment) from
+  her Feb 4 speech — suggesting current labor is more benign on balance.
+  Direction: neutral (stable present, elevated downside risks watch-listed)
+
+INFLATION
+  Cook opens her economic outlook with inflation — an unusual ordering that
+  itself signals priority. "Inflation is clearly moving in the wrong
+  direction." PCE at 3.8% (12 months ending April); core PCE at 3.3%,
+  "highest since 2023." She identifies three concurrent upward pressures:
+  (1) tariffs — expected one-time, "should begin to abate soon"; (2) energy
+  from the Iran conflict — uncertain path; (3) AI capital expenditure — "$1.5
+  trillion in data-center plans" driving up chip, construction wage, electricity
+  and water prices. The AI investment demand vector is analytically novel —
+  Cook's first explicit treatment of AI as an inflation contributor rather
+  than just a productivity booster. She closes with the credibility/
+  entrenchment frame: "After five years of above-target inflation, I am
+  particularly attuned to the risk that elevated inflation will become
+  embedded in price- and wage-setting behavior."
+  Direction: hawkish
+
+MONETARY POLICY
+  Cook holds. "I currently believe that the right course of action is to
+  hold rates steady." But the hold is asymmetric: "The risks remain tilted
+  toward higher inflation." She then pre-commits to both sides: baseline
+  case → disinflation resumes without a hike; adverse case → "I am prepared
+  to raise rates, if the expected disinflation does not appear in a timely
+  manner." The hike signal is conditional and descriptive (not a named
+  scenario with a specific trigger), but she pre-commits to a policy
+  response — making it stronger than mere risk language. A subordinate
+  cut signal is also offered ("would be prepared to adjust my policy stance
+  downward should the labor market deteriorate"), but it comes second and
+  is clearly subsidiary.
+  Direction: hawkish — explicit conditional hike signal
+
+NET SIGNAL: HAWKISH — inflation deterioration + explicit hike scenario
+
+vs. PRIOR SPEECH (Feb 4, 2026 "Economic Outlook"):
+  HAWKISH SHIFT — "clearly moving in wrong direction" vs. "progress
+  stalled"; PCE 3.8% vs. 2.9%; explicit conditional hike signal vs. no
+  cut signal / patient hold; AI demand named as new inflation vector.
+
+vs. PRE-FOMC SPEECH (Feb 4, 2026):
+  Same as above — Feb 4 is both the prior Type A speech and the pre-FOMC
+  baseline (no Cook Type A speeches between Feb 4 and April 18 blackout).
+
+vs. COMMITTEE SINCE FOMC (Apr 29):
+  Cook is the second Just Voter to explicitly name hike possibility
+  in the post-FOMC window, joining Waller (May 22). She is more
+  dovish than Logan (hawkish Apr 29 dissenter) but now clearly
+  ahead of the Paulson median-voter hold position. Paulson (May 19)
+  set conditions for cuts; Cook (May 27) sets conditions for hikes —
+  the committee's center of gravity is moving past "patient hold."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTE ON LOGAN (May 27) — NOT SCORED; CONTEXT NOTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Logan's IMES panel remarks cover oil market supply, Treasury market
+resilience, and global demographics. No policy stance expressed, no
+current conditions assessment. However, her oil supply analysis is
+directly relevant to the "energy shock dissipation" pre-cut condition
+(Powell Apr 29 Q&A). Key data: Strait of Hormuz closure has reduced
+global oil supply "by nearly 13 million barrels per day, or more than
+10 percent." Inventory drawdowns have filled much of the shortfall but
+"inventories are finite." U.S. production response is limited: Dallas
+Fed energy survey expects output to rise by at most 250,000 bpd by
+end-2026 and 500,000 bpd in 2027 — constrained by capital discipline,
+labor, and Permian Basin pipeline capacity. Logan's conclusion: "One
+way or another, I expect energy markets to come into rough balance
+before too long. If the molecules aren't available, the world can't
+consume them." This is a supply-constraint framing for the energy shock:
+adjustment comes through demand curtailment, not supply restoration.
+[Inference: Logan's data suggests the energy shock timeline is
+measured in months, not weeks — which delays the first pre-cut
+condition from Powell's list. No explicit policy implication stated.]
+
+Note: Logan's most recent scored economic outlook speech is May 10, 2026
+(hawkish — "inflation still too high," Apr 29 dissenter on easing bias).
+This IMES speech does not change or update that prior assessment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMMITTEE CONTEXT UPDATE (as of May 28)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Post-FOMC economic outlook signals (since Apr 29) — UPDATED:
+  Cook    (May 27): HAWKISH — hike signal explicit; inflation "clearly
+             moving in wrong direction"; PCE 3.8%; AI demand as third
+             inflation vector; five-years framing now explicit.
+  Waller   (May 22): HAWKISH — easing bias removal call; hike risk named;
+             "five years above target" (first voter); services ex-energy
+             0.5% monthly; most hawkish voter speech of the 2026 cycle.
+  Barkin   (May 21): HAWKISH LEAN — cumulative shocks framing; on-the-ground
+             pricing reversal intel (Non Voter).
+  Paulson  (May 19): HAWKISH LEAN — inflation-first bar confirmed; both
+             pre-cut conditions not yet met (median voter).
+  Collins  (May 13): HAWKISH LEAN — hike scenario floated (Non Voter).
+  Goolsbee (May 12): HAWKISH LEAN — inflation-first; "not obvious our
+             policy is restrictive" (Non Voter).
+  Logan    (May 10): HAWKISH — "inflation still too high"; Apr 29 dissenter.
+
+Zero dovish signals from any speaker since April 29.
+
+HIKE RISK WATCH — UPDATED:
+  Stage: EMERGING SHARED (two voters: Waller May 22, Cook May 27).
+  Previously: DISPERSED (one voter only — Waller).
+  Critical threshold: if Troika member echoes this language before June 6
+  blackout, it signals the June 18 statement may introduce explicit
+  symmetric risk language or remove the easing bias.
+
+EASING BIAS REMOVAL WATCH:
+  Status: Waller (explicit advocate); Logan, Hammack, Kashkari (Apr 29
+  dissenters against easing bias language). Cook does not explicitly
+  call for removal but her hike framing is directionally consistent.
+  Troika (Jefferson, Williams, Warsh) have not spoken post-FOMC.
+
+PRE-BLACKOUT WINDOW:
+  8 days remain before June 6 blackout (inclusive of today).
+  Key items (updated priority):
+    1. Warsh inaugural speech — still absent; 13 days since
+       confirmation; no Troika anchor for June 18 FOMC
+    2. Jefferson or Williams — Troika-level confirmation or denial
+       of the hike/easing-bias-removal trend
+    3. Goolsbee May 27 (BoJ) transcript — recovery still pending
+    4. Kashkari May 7 and May 13 stubs — YouTube recovery pending
+    5. Bowman: no post-FOMC economic outlook speech
+
+LANGUAGE TO WATCH:
+  • "Inflation is clearly moving in the wrong direction" (Cook, May 27)
+    — DISPERSED; stronger directional claim than "five years above target";
+    watch for adoption.
+  • "I am prepared to raise rates" (Waller May 22, Cook May 27)
+    — EMERGING SHARED; language cycle stage advanced today; watch for
+    Troika adoption or denial.
+  • "Five years of above-target inflation" — now used by Waller, Cook,
+    Goolsbee, Collins, Barkin across voter/non-voter divide. Approaching
+    COMMITTEE-WIDE among non-Troika. One Troika adoption = statement-ready.
+  • AI investment demand as inflation vector (Cook, May 27; novel framing)
+    — DISPERSED; unique to Cook's analytical vantage; watch for spread to
+    other officials with AI-sector data access.
+  • "Two pre-cut conditions: energy dissipation + tariff progress"
+    — Logan's oil data (13M bpd supply gap, constrained U.S. response)
+    suggests energy condition is not near resolution; hawkish implications
+    for the cutting timeline.
+
+ANALYST FLAG: YES
+  → Two Just Voters (Waller + Cook) have now explicitly named hike
+    possibility within a 5-day window (May 22-27) with 8 days left
+    before the June 6 blackout. The question is whether this is (a)
+    coordinated pre-blackout messaging to shift the June 18 statement,
+    or (b) independent convergence from the same inflation data. If (a),
+    Troika silence is itself a signal — either alignment (no need to
+    contradict) or disagreement (will respond before blackout). The
+    8-day window is critical. Analyst should track whether any Troika
+    member speaks publicly before June 6.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches reported today:
+  Cook, May 27 (SIEPR / Stanford):
+    https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Logan, May 27 (BoJ IMES Conference, Tokyo):
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl260527
+  Goolsbee, May 27 (BoJ IMES Conference, Tokyo — stub):
+    https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+
+Prior speech (vs. PRIOR SPEECH / PRE-FOMC SPEECH):
+  Cook, Feb 4, 2026 "Economic Outlook":
+    https://www.federalreserve.gov/newsevents/speech/cook20260204a.htm
+
+Most recent scored speech per active speaker (for reference):
+  Waller, May 22:   https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Barkin, May 21:   https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+  Paulson, May 19:  https://www.philadelphiafed.org/the-economy/monetary-policy/260519-navigating-uncertainty-inflation-labor-markets-and-the-stance-of-monetary-policy
+  Collins, May 13:  https://www.bostonfed.org/news-and-events/speeches/2026/us-economy-resilience-amid-risks-and-uncertainty.aspx
+  Logan, May 10:    https://www.dallasfed.org/news/speeches/logan/2026/lkl260510
+  Goolsbee, May 12: https://www.youtube.com/watch?v=88dRnkmStR4
+════════════════════════════════════════════════════════════════

@@ -1,0 +1,231 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-05-27 | Lisa D. Cook | Governor | Just Voter
+"The Opportunities and Risks AI Presents for the Economy and Financial System"
+Stanford Institute for Economic Policy Research (SIEPR), Stanford University,
+Stanford, California
+SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+
+CLASSIFICATION: Type B — AI and financial system topic with labeled embedded
+  "Economic Outlook" section that covers all four policy-relevant topics in
+  sequence: inflation → labor → growth → monetary policy. Scored for the
+  Economic Outlook section only; AI/financial stability content not scored.
+
+Reference FOMC:    April 29, 2026 (hold; FFR 4.25–4.50%)
+Pre-FOMC baseline: February 4, 2026  "Economic Outlook," Economic Club of Miami
+  [Last Cook Type A speech before April 18 blackout start; Feb 24 NABE and
+   Mar 26 Yale speeches are Type B without current-conditions assessments
+   and do not constitute a more recent baseline]
+Post-FOMC prior:   May 8, 2026  "Perspectives on Tokenization" — Type B,
+  no economic outlook. February 4 is the effective prior for all
+  directional comparisons.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+[Treated briefly — growth is not Cook's primary concern in this speech;
+mentioned last, and in a clearly positive framing.]
+
+Own language:
+  "GDP growth has remained robust. Labor productivity growth has exceeded
+   its pre-pandemic average."
+  "I expect that AI will further boost productivity growth, contributing
+   to my expectation that GDP will grow robustly in the near to medium term."
+  → Unqualified optimism about growth; AI productivity narrative frames
+    this as a durable, not cyclical, positive.
+
+FOMC statement language echoed: not directly invoked.
+
+Shift vs. prior speech (Feb 4):   unchanged — both speeches treat growth
+  as a non-concern; Cook does not use growth weakness as a policy
+  lever in either direction.
+Shift vs. pre-FOMC (Feb 4):       unchanged — same benign assessment.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict:
+  "The labor market appears to be largely stable. The unemployment rate,
+   4.3 percent in April, has remained unchanged, on net, since last summer.
+   The rate is in line with estimates of the natural rate of unemployment,
+   suggesting that the supply and demand of labor are roughly balanced."
+  → Explicitly balanced framing: supply/demand equilibrium as of May 2026.
+
+Own qualifier:
+  "I view the downside risks to the labor market as being elevated. One
+   factor is heightened uncertainty about output due to the Middle East
+   conflict. A softening in demand could lead to a softening in the labor
+   market."
+  → Named risk vectors: (1) Middle East conflict demand uncertainty,
+    (2) low-hire environment, (3) AI-driven structural labor displacement
+    ("most significant reorganization of work in generations").
+
+  "AI-related job loss could precede job gains. Although we do not have
+   conclusive evidence of this occurring yet, it may still be on the
+   horizon, and increased churn in the labor market could be anticipated."
+  → Forward-looking AI displacement risk — not a current diagnosis
+    but a named monitoring item. Cook explicitly watches for this.
+
+Notable ABSENCE vs. Feb 4: Cook does not repeat the distributional
+  deterioration flags from Feb 4 (part-time workers, youth/Black
+  unemployment). Current labor assessment is less granularly alarming.
+
+Shift vs. prior speech (Feb 4):   HAWKISH LEAN — labor described as
+  "largely stable" and "roughly balanced"; distributional deterioration
+  flags dropped; downside risk flag elevated but offset by stable headline.
+  Feb 4 framing was more attentive to visible softening signals.
+Shift vs. pre-FOMC (Feb 4):       same — see above.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+[Cook leads the Economic Outlook section with inflation — unusual sequence
+ (she opened with labor in Feb 4). The reordering itself signals priority.]
+
+Own language — KEY:
+  "Inflation is clearly moving in the wrong direction."
+  → Strongest negative verdict in Cook's scored corpus.
+    Compare to Feb 4: "Progress on inflation essentially stalled in 2025."
+    May 27 is a directional regression claim — not just stalled but worsening.
+
+Current readings:
+  "PCE price index rose 3.8 percent over the 12 months ending in April.
+   That reading is well above our 2 percent target."
+  "core PCE inflation is estimated to have risen by 3.3 percent over the
+   12 months ending in April — its highest reading since 2023."
+  [Compare to Feb 4: PCE 2.9%, core 3.0%. Headline PCE up 90bp and
+   core PCE up 30bp since her last economic outlook speech.]
+
+Shock stacking:
+  Cook identifies three concurrent inflation pressures:
+  (1) Tariffs — "should result in only a one-time shift upwards in the
+      price level, and the effects of tariffs on inflation should begin
+      to abate soon."
+  (2) Energy/Iran conflict — "path of energy prices is tied to the
+      ongoing conflict, the results of which are highly uncertain."
+  (3) AI investment demand — "companies have announced more than $1.5
+      trillion in data-center plans... Effects of this demand on prices
+      are apparent: prices have risen significantly for chips, other high-
+      tech equipment, and software. Wages in specialty trades in
+      construction have picked up notably. Electricity and water prices
+      have each increased by about 5 percent over the past year."
+  → Cook identifies AI capital expenditure as a third inflation vector
+    distinct from tariffs and energy — a novel analytical frame unique
+    to her position as Financial Stability Committee chair with direct
+    data-center investment research access.
+
+Credibility/entrenchment risk:
+  "After five years of above-target inflation, I am particularly attuned
+   to the risk that elevated inflation will become embedded in price- and
+   wage-setting behavior."
+  → "Five years above target" language now explicit (Feb 4: "nearly five
+    years"). Duration framing now matches Waller (May 22) and the broader
+    committee hawkish coalition.
+
+  "Firms may embed these shocks into their pricing decisions, and workers
+   may incorporate them into wage negotiations."
+  → Wage-price feedback risk named as a medium-term transmission mechanism.
+
+Shift vs. prior speech (Feb 4):   STRONGLY HAWKISH — "clearly moving in
+  wrong direction" vs. "progress stalled"; PCE 3.8% vs. 2.9%; "five years"
+  vs. "nearly five years"; AI investment demand as new third shock named.
+Shift vs. pre-FOMC (Feb 4):       same — see above.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language:
+  "I see elevated risks to both sides of our mandate, and from a
+   risk-management perspective, I currently believe that the right
+   course of action is to hold rates steady."
+  → Hold is the baseline.
+
+  "I want to be clear about my risk assessment: The risks remain tilted
+   toward higher inflation."
+  → Asymmetric framing: dual mandate acknowledged, but inflation side
+    dominates.
+
+  "In my baseline forecast, disinflation should resume in upcoming months
+   without having to raise rates."
+  → Baseline holds: no rate action needed IF disinflation materializes.
+
+  "I am prepared to raise rates, if the expected disinflation does not
+   appear in a timely manner."
+  → EXPLICIT CONDITIONAL HIKE SIGNAL. Condition: disinflation fails
+    to appear "in a timely manner." Framing note: this is descriptive/
+    conditional (not a named scenario with pre-specified trigger), but
+    Cook pre-commits to a response. Stronger than risk language; slightly
+    less explicit than Waller's Apr 17 "BENIGN/ADVERSE" named scenarios.
+
+  "I will continue to monitor labor-market developments, as well, and
+    would be prepared to adjust my policy stance downward should the
+    labor market deteriorate."
+  → Cut signal preserved as a conditional backstop — but subordinate to
+    the inflation framing. She addresses labor first only after stating
+    the hike scenario. Ordering signals priorities.
+
+Cut signal status: CONDITIONAL ONLY (labor backstop), SUBORDINATE to hike scenario.
+Hike signal status: PRESENT — conditioned on disinflation not appearing
+  "in a timely manner." Cook is the SECOND Just Voter (after Waller,
+  May 22) to explicitly name rate hike as a potential outcome in 2026.
+
+Easing bias stance: Cook does not reference or address the committee's
+  current statement easing bias. [Inference: she may be aligned with the
+  easing-bias-removal position given her hike framing, but she does not
+  explicitly call for its removal as Waller did on May 22.]
+
+Shift vs. prior speech (Feb 4):   HAWKISH — from "no cut signal / hold
+  with inflation-first framing" to "prepared to raise rates." This is
+  the clearest directional shift in Cook's 2026 scored corpus.
+Shift vs. pre-FOMC (Feb 4):       same — major hawkish shift.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — explicit hike signal; inflation "clearly moving
+               in wrong direction"; duration framing now explicit; AI demand
+               as novel third inflation vector.
+
+  Cook's May 27 speech represents the most hawkish policy stance she has
+  articulated in the 2026 scored corpus. Three changes from Feb 4 are
+  policy-consequential: (1) inflation described as "clearly moving in the
+  wrong direction" (vs. "stalled progress"); (2) an explicit conditional
+  hike signal, compared to Feb 4's "no cut signal / patient hold"; and
+  (3) AI investment demand named as a third inflationary pressure — a
+  framing unique to Cook and potentially the leading edge of how the
+  committee narrativizes the AI-driven inflation contribution. The "five
+  years" duration framing now matches the hawkish voter coalition (Waller,
+  Goolsbee, Collins, Barkin — all in the 2026 corpus). Cook is the second
+  Just Voter to explicitly name hike possibility (after Waller May 22).
+
+Language watch:
+  • "Inflation is clearly moving in the wrong direction" — first use in
+    Cook's corpus; stronger than Waller's "five years above target" because
+    it asserts direction of change, not just duration. Language cycle stage:
+    DISPERSED (Cook only so far; watch for adoption by other voters).
+  • "I am prepared to raise rates" — EMERGING SHARED (now two Just Voters:
+    Waller May 22, Cook May 27). Language cycle stage advances from DISPERSED.
+    Critical threshold: if Troika member adopts this language, June 18
+    statement shift to explicit symmetric risk becomes likely.
+  • AI investment demand as inflation vector ("$1.5 trillion in data-center
+    plans... electricity and water prices up 5%") — novel framing specific
+    to Cook's data access. Not yet echoed by other officials; could spread
+    as the committee's second-order inflation narrative.
+  • "Five years of above-target inflation" — EMERGING SHARED (now Waller,
+    Goolsbee, Collins, Barkin, Cook). Approaching COMMITTEE-WIDE status
+    among non-Troika voters and non-voters.
+
+Analyst flag:  YES
+  → Two Just Voters (Waller May 22, Cook May 27) have now explicitly
+    named hike possibility within five days. This advances the language
+    cycle stage for hike framing from DISPERSED to EMERGING. The question
+    for the analyst: (a) Is this a coordinated pre-blackout signal designed
+    to shift June 18 statement language toward removing the easing bias, or
+    (b) are Waller and Cook independently arriving at the same conclusion
+    from their inflation data reads? If (a), Troika alignment is implied
+    but not yet confirmed. Analyst should assess whether Jefferson or
+    Williams have communicated informally or in media appearances since
+    the April FOMC. The 9-day pre-blackout window (ends June 6) is the
+    last opportunity for Troika confirmation before June 18.
+══════════════════════════════════════════════════════════
