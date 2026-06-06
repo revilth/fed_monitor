@@ -1,0 +1,177 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 5, 2026 (Friday)
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  — No new FOMC-member speeches on June 5, 2026.
+
+CORPUS UPDATE (scored today):
+  0 speeches scored. 42 pending raw files reviewed; all classified as
+  Type B without embedded monetary policy outlook, stub-only (no
+  transcript available), or future event (Goolsbee Jun 25 — not yet
+  occurred). No Type A or Type B-with-outlook files found in backlog.
+════════════════════════════════════════════════════════════════
+
+PRE-BLACKOUT STATUS — FINAL
+  Blackout begins:  Saturday June 6, 2026 (tomorrow)
+  Next FOMC:        June 17–18, 2026
+  Blackout ends:    June 19, 2026
+
+  Last Type A speech in corpus: Logan, June 3, 2026 (scored Jun 4)
+  No speeches expected today (Friday pre-blackout).
+  Blackout window will be observed: no scoring or reports Jun 6–19.
+
+════════════════════════════════════════════════════════════════
+
+COMMITTEE SNAPSHOT — ENTERING JUNE 18 FOMC
+
+TROIKA
+  ┌─────────────────────────────────────────────────────────────┐
+  │ Warsh (Chair)   — SILENT. No public speech since Apr 29     │
+  │                   confirmation. 37 days as Chair with zero  │
+  │                   policy-framing remarks. First speech will │
+  │                   be the critical post-blackout signal.     │
+  │                                                             │
+  │ Jefferson (VP)  — May 27. HAWKISH lean. "Upside risk to     │
+  │                   inflation forecast." Echoes Apr 29 stmt   │
+  │                   but personal qualifier adds asymmetric    │
+  │                   hawkish tilt. Cut signal absent.          │
+  │                                                             │
+  │ Williams (NY)   — May 4. NEUTRAL-HAWKISH. "Not yet          │
+  │                   confident inflation is on a sustained     │
+  │                   path to 2%." Retracted Mar 3 cut signal   │
+  │                   (remains absent). Productivity speech     │
+  │                   May 28 = Type B (academic); no policy     │
+  │                   stance. May 4 remains effective prior.    │
+  └─────────────────────────────────────────────────────────────┘
+
+JUST VOTERS
+  Bowman    May 29  DOVISH — "easing bias remains appropriate";
+                    most explicit defense of the Apr 29 statement
+                    language of any voter; isolated position.
+  Waller    May 22  HAWKISH — "Policy risks have changed."
+                    Hike-ready conditional: "would support
+                    raising rates if energy shock persists."
+                    First post-FOMC explicit hike signal.
+  Cook      May 27  HAWKISH — "Clear upside risk to inflation."
+                    Endorsed Waller's "sequence of shocks"
+                    framework; 3rd voter with explicit hike language.
+  Paulson   May 19  NEUTRAL-HAWKISH — Inflation-first bar intact.
+                    "If inflation is above 2% and has been for
+                    some time, I would be more cautious." No hike
+                    signal but no cut signal; median-voter anchor.
+  Hammack   Jun 2   HAWKISH — "Policy may not be restrictive."
+                    Scenario-framed hike: "Scenario 2: policy
+                    may soon need to move higher." 4th explicit
+                    hike signal; "sixth year of elevated inflation"
+                    de-anchoring language.
+  Logan     Jun 3   HAWKISH — Most hawkish pre-blackout speech.
+                    Explicit hike: "higher interest rates could
+                    be necessary later this year." Explicit
+                    above-2% forecast: "trending toward the mid
+                    2's — not all the way back to 2 percent."
+  Kashkari  —       INFERRED HAWKISH (Apr 29 dissent; no post-
+                    FOMC Type A transcript available).
+  Barr      —       UNKNOWN — no post-FOMC economic outlook speech.
+  Miran     Mar 26  PRE-FOMC, DOVISH (dissented Apr 29 for cut).
+                    No post-FOMC speech.
+  Hammack   Jun 2   (see above)
+
+NON VOTERS
+  Collins   May 13  NEUTRAL-HAWKISH — "Two-sided risks; inflation
+                    still the primary concern." High analytical
+                    quality; consistent with committee consensus.
+  Goolsbee  May 12  HAWKISH — "Not obvious rates are restrictive."
+                    Consumer spending resilient; inflation above
+                    target. Less dovish than market perception.
+  Barkin    May 21  NEUTRAL — "Cumulative shock effect matters."
+                    Strong business intelligence on pricing
+                    persistence; "series of shocks" framing.
+  Daly      Apr 8   NEUTRAL — Regionalism speech (Type B);
+                    no post-FOMC economic outlook speech on record.
+  Musalem   —       UNKNOWN — no transcript available.
+
+════════════════════════════════════════════════════════════════
+
+KEY ANALYTICAL QUESTIONS FOR JUNE 18
+
+1. HIKE OR HOLD?
+   Explicit hike-ready language: Waller, Cook, Hammack, Logan
+   (4 of 12 voters). Kashkari's Apr 29 dissent = inferred 5th.
+   A majority requires Warsh + at minimum Jefferson or Williams.
+   Warsh has not spoken publicly since confirmation (37 days).
+   His first speech post-blackout will define the outcome.
+
+2. LOGAN'S "MID 2'S" FORECAST
+   Logan's explicit forecast that inflation will settle in the
+   "mid 2's — not all the way back to 2 percent" is the most
+   consequential new analytical claim in the pre-blackout window.
+   If the committee adopts this as its baseline: holding at
+   4.25-4.50% while inflation is forecast to stay structurally
+   above 2% is inconsistent with the mandate. Either rates must
+   rise, or the easing bias must be explicitly removed, or a
+   new communication framework is needed.
+
+3. EASING BIAS LANGUAGE
+   Bowman is the only voter explicitly defending the Apr 29
+   easing bias language. The other 10 speakers in the post-FOMC
+   window have avoided echoing it or have argued against it.
+   The bias may be removed at June 18 regardless of the rate
+   decision.
+
+4. WARSH UNCERTAINTY PREMIUM
+   36+ days as Chair with zero policy speeches. The market
+   has no Warsh signal to price. This is an unusual and
+   potentially significant uncertainty premium heading into
+   a live meeting. Warsh's post-blackout statement (if any)
+   will be the first time the actual policy principal speaks.
+
+════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH (pre-blackout corpus, most recent first)
+  • "trending toward the mid 2's — not all the way back to
+    2 percent" [Logan, Jun 3] — explicit above-2% forecast;
+    not yet echoed by any other voter. Critical to watch for
+    Warsh or Jefferson adoption post-Jun 19.
+  • "higher interest rates could be necessary later this year"
+    [Logan, Jun 3] — conditional hike; "later this year"
+    timeline.
+  • "policy may not be restrictive" / "not restraining the
+    economy" [Hammack Jun 2 / Logan Jun 3 inference] — two
+    voters in 24 hours; real-rate argument for action.
+  • "sixth year of elevated inflation" [Hammack, Jun 2] —
+    de-anchoring duration framing; first use of that time
+    horizon by any voter.
+  • "sequence of transitory shocks" / stacking logic
+    [Waller Apr 17; echoed by Cook May 27] — 2-voter adoption;
+    not yet in statement language.
+  • "upside risk to my inflation forecast" [Jefferson, May 27]
+    — personal qualifier; not in FOMC statement. Watch for
+    statement adoption.
+
+ANALYST FLAG: YES
+  → BLACKOUT BEGINS TOMORROW (Jun 6). No further scoring
+    or reporting until Jun 19. The committee enters the
+    June 18 meeting with: (a) a silent Chair (Warsh, no
+    public speech), (b) a 4-5 voter explicit-hike coalition,
+    (c) Bowman as the sole explicit defender of the easing
+    bias, and (d) Logan's above-2% inflation forecast as
+    the most consequential new analytical claim. If the
+    June 18 outcome is a hike, it will be the first in
+    this cycle and will require the analyst to update the
+    cycle regime from HOLDING to HIKING in CLAUDE.md and
+    all subsequent scored files. If the outcome is a hold
+    with the easing bias removed, update the statement
+    language tracking accordingly.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No new speeches today. Most recent scored speeches for reference:
+  Logan, Jun 3:    https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+  Hammack, Jun 2:  https://doi.org/10.26509/sp-20260602
+  Bowman, May 29:  https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  Waller, May 22:  https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Cook, May 27:    https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
+  Jefferson, May 27: https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
+════════════════════════════════════════════════════════════════
