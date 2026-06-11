@@ -27,3 +27,8 @@ logs/
 # IDE
 .vscode/
 .idea/
+
+# Historical corpus — large bulk download (BIS 366MB CSV, FRASER speeches,
+# FOMC transcripts/minutes). Exceeds GitHub's 100MB file limit; must never be
+# committed or the daily auto-push routine will fail. Kept locally + Drive only.
+data/historical/
