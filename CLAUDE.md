@@ -468,7 +468,7 @@ If multiple speakers appear, add a CROSS-SPEAKER NOTE before the UPCOMING sectio
 
 ```
 ════════════════════════════════════════════════════════════════
-UPCOMING — [TOMORROW: Weekday Mon DD] / [NEXT WEEK: Mon DD – Fri DD]
+UPCOMING — [TOMORROW: Weekday Mon DD]  /  [THIS WEEK: Mon DD – Fri DD]  /  [NEXT WEEK: Mon DD – Fri DD]
 ────────────────────────────────────────────────────────────────
   [Speaker]  |  [Role]  |  [Classification]
   "[Event title or known topic]"
@@ -478,9 +478,11 @@ UPCOMING — [TOMORROW: Weekday Mon DD] / [NEXT WEEK: Mon DD – Fri DD]
 ════════════════════════════════════════════════════════════════
 ```
 
-Monday–Thursday reports: list confirmed or announced appearances for the next calendar day.
-Friday reports: list all known appearances for the following Monday–Friday.
-Source: check each speaker's regional bank event page and the Fed Board calendar. If an appearance is rumored but unconfirmed, list it with "(unconfirmed)" rather than omitting it. If the next day or week falls entirely within an FOMC blackout, note that — no policy speeches will occur.
+The UPCOMING window depends on the weekday the report is **sent** — i.e. the morning run day, NOT the prior-day content date the report covers:
+- **Monday** report → all known appearances for the **current** week (Mon–Fri of the week being entered).
+- **Friday** report → all known appearances for the **following** week (Mon–Fri).
+- **Tuesday–Thursday (and weekends)** → confirmed or announced appearances for the **next calendar day**.
+Source: check the Fed Board events calendar (federalreserve.gov) and each speaker's regional bank event page via web access. If an appearance is rumored but unconfirmed, list it with "(unconfirmed)" rather than omitting it. If the window falls entirely within an FOMC blackout, note that — no policy speeches will occur.
 
 ### Weekly report (save to /reports/weekly/)
 
@@ -561,7 +563,7 @@ See `CALIBRATION.md` for current per-speaker calibration notes. Update that file
 
 ## Scheduling
 
-- **Daily (non-blackout only)**: Check Fed Board website and regional Fed sites for new speeches; generate daily report for any new Type A speech and send by email at 6pm. **Skip entirely on FOMC blackout days** — no policy speeches are given during blackout, so there is nothing to report. Every daily report includes an UPCOMING section: Monday–Thursday reports list confirmed appearances for the next day; Friday reports list all known appearances for the following week. Check each speaker's regional bank event page and the Fed Board calendar to populate this section.
+- **Daily (non-blackout only)**: The pipeline runs each morning at 6:30am ET and reports on the PRIOR day — GitHub Actions scrapes at 5:30am, the routine scores + writes the daily report, and pushing it emails the report. **Skip entirely on FOMC blackout days** — no policy speeches are given during blackout, so there is nothing to report. Every daily report includes an UPCOMING section keyed to the day it is sent (the run day): **Monday** → current week (Mon–Fri); **Friday** → next week (Mon–Fri); **Tuesday–Thursday and weekends** → next calendar day. Check the Fed Board events calendar and each speaker's regional bank event page (via web access) to populate this section.
 - **Post-FOMC meeting**: Immediately process statement diff; schedule minutes processing for ~3 weeks out; **update the reference FOMC date in CLAUDE.md and in all subsequent scored files and daily reports** — the reference date must always reflect the most recent FOMC meeting. Current reference FOMC: **April 29, 2026**.
 
 Blackout dates live in `blackout_periods.json` (repo root) — the single source of truth, read by both `.github/workflows/collect.yml` and the daily scoring routine. Source: the official Fed calendar (https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf). Update that one file from the PDF each year; do not hardcode blackout dates anywhere else.
