@@ -21,18 +21,22 @@ jobs:
         run: |
           python3 - <<'EOF'
           import smtplib, os, glob, sys
-          from datetime import date
+          from datetime import datetime, timedelta
+          from zoneinfo import ZoneInfo
           from email.mime.text import MIMEText
 
-          today = date.today().strftime('%Y%m%d')
-          reports = sorted(glob.glob(f'data/reports/daily/{today}*.txt'))
+          # Daily report is dated for the PRIOR day (ET) — matches the scoring
+          # routine's REPORT_DATE, since scoring runs 6:30am ET reporting on yesterday.
+          et_yesterday = datetime.now(ZoneInfo('America/New_York')) - timedelta(days=1)
+          report_date = et_yesterday.strftime('%Y%m%d')
+          reports = sorted(glob.glob(f'data/reports/daily/{report_date}*.txt'))
 
           if not reports:
-              print(f"No daily report found for {today} — skipping email.")
+              print(f"No daily report found for {report_date} — skipping email.")
               sys.exit(0)
 
           body = '\n\n'.join(open(r, encoding='utf-8').read() for r in reports)
-          date_str = date.today().strftime('%B %d, %Y')
+          date_str = et_yesterday.strftime('%B %d, %Y')
           subject = f'Fed Monitor — Daily Update {date_str}'
 
           msg = MIMEText(body, 'plain', 'utf-8')
