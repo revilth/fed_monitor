@@ -1,14 +1,16 @@
-name: Fed Monitor — FOMC Alert Email
+name: Fed Monitor — Alert Email
 
-# Same-day FOMC alerts (statement diff, press-conference analysis) are written to
-# data/reports/fomc/ by the dedicated FOMC-decision-day runs and emailed immediately
-# on push — separate from the daily report so they go out the moment they land.
+# Event-triggered alerts (FOMC statement diff + press conference; Beige Book) are
+# written to data/reports/fomc/ or data/reports/beige_book/ by their dedicated runs
+# and emailed immediately on push — separate from the daily report so they go out the
+# moment they land.
 
 on:
   push:
     branches: [main]
     paths:
       - 'data/reports/fomc/**.txt'
+      - 'data/reports/beige_book/**.txt'
   workflow_dispatch:
 
 jobs:
@@ -20,7 +22,7 @@ jobs:
         with:
           fetch-depth: 2   # need the previous commit to diff which files were just added
 
-      - name: Email FOMC report(s) just pushed
+      - name: Email alert report(s) just pushed
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
@@ -28,9 +30,10 @@ jobs:
           import smtplib, os, subprocess, sys
           from email.mime.text import MIMEText
 
-          # Files under data/reports/fomc/ changed in the pushed commit.
+          # Alert report files changed in the pushed commit (FOMC + Beige Book).
           out = subprocess.run(
-              ["git", "diff", "--name-only", "--diff-filter=AM", "HEAD~1", "HEAD", "--", "data/reports/fomc/"],
+              ["git", "diff", "--name-only", "--diff-filter=AM", "HEAD~1", "HEAD",
+               "--", "data/reports/fomc/", "data/reports/beige_book/"],
               capture_output=True, text=True
           ).stdout
           files = [f for f in out.splitlines() if f.endswith(".txt")]

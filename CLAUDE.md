@@ -185,6 +185,15 @@ Semi-annual Humphrey-Hawkins testimony. Treat as a high-signal document; the Cha
 ### Type G: Jackson Hole Speech (Chair only)
 Annual speech at the Kansas City Fed's Jackson Hole symposium. Historically used to signal major policy shifts. Treat as highest-priority document.
 
+### Type H: Beige Book
+Published 8 times a year, about two weeks before each FOMC meeting (2:00pm ET; release weekday varies — usually Wednesday). A summary of economic conditions across the twelve districts, compiled by one regional bank. It is part of the Committee's deliberation set, so it is a forecasting input, not a personal communication. Score it like a statement diff, not like a speech.
+
+**Method (same paradigm as the statement diff):**
+1. **National summary ONLY.** Score only the three national-summary sections — **Overall Economic Activity**, **Labor Markets**, and **Prices**. IGNORE all twelve district-by-district sections; they are color, not signal.
+2. **Change vs. the prior Beige Book is the signal.** Compare each national section word-for-word against the immediately prior report. The Beige Book is deliberately adjective-coded — the qualitative intensity words are where the shift lives: "slight / modest / moderate / strong / robust," "little changed," "flat," "softened," "cooled," "picked up," "elevated," "eased." Track every change in these descriptors and any new or dropped characterizations.
+3. **Think hard about the key words.** A single step on the intensity ladder (e.g. "modest" → "slight" growth, or prices "elevated" → "moderating") is the whole signal. Quote the prior word and the current word explicitly; do not paraphrase.
+4. **Per-section directional read.** For each of the three sections, assess the change as hawkish / dovish / neutral, then give a net read and what it implies for the upcoming FOMC meeting.
+
 ---
 
 ## Analytical Framework
