@@ -1,0 +1,54 @@
+name: Fed Monitor — FOMC Alert Email
+
+# Same-day FOMC alerts (statement diff, press-conference analysis) are written to
+# data/reports/fomc/ by the dedicated FOMC-decision-day runs and emailed immediately
+# on push — separate from the daily report so they go out the moment they land.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/reports/fomc/**.txt'
+  workflow_dispatch:
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   # need the previous commit to diff which files were just added
+
+      - name: Email FOMC report(s) just pushed
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python3 - <<'EOF'
+          import smtplib, os, subprocess, sys
+          from email.mime.text import MIMEText
+
+          # Files under data/reports/fomc/ changed in the pushed commit.
+          out = subprocess.run(
+              ["git", "diff", "--name-only", "--diff-filter=AM", "HEAD~1", "HEAD", "--", "data/reports/fomc/"],
+              capture_output=True, text=True
+          ).stdout
+          files = [f for f in out.splitlines() if f.endswith(".txt")]
+          if not files:
+              print("No new FOMC report files in this push — skipping.")
+              sys.exit(0)
+
+          password = os.environ["GMAIL_APP_PASSWORD"].replace(" ", "")
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+              server.login("revilresearch@gmail.com", password)
+              for f in files:
+                  body = open(f, encoding="utf-8").read()
+                  # Subject = first non-empty line of the report (the run writes a clear title there).
+                  title = next((ln.strip() for ln in body.splitlines() if ln.strip()), os.path.basename(f))
+                  msg = MIMEText(body, "plain", "utf-8")
+                  msg["Subject"] = f"Fed Monitor — {title}"
+                  msg["From"] = "revilresearch@gmail.com"
+                  msg["To"] = "thiago_teixeiraferreira@vanguard.com"
+                  server.send_message(msg)
+                  print(f"Sent: {f} -> {title}")
+          EOF
