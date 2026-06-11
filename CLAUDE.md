@@ -595,7 +595,7 @@ python3 main.py schedule         # Start daily background scheduler
 - **Daily (non-blackout only)**: Check Fed Board website and regional Fed sites for new speeches; generate daily report for any new Type A speech and send by email at 6pm. **Skip entirely on FOMC blackout days** — no policy speeches are given during blackout, so there is nothing to report. Every daily report includes an UPCOMING section: Monday–Thursday reports list confirmed appearances for the next day; Friday reports list all known appearances for the following week. Check each speaker's regional bank event page and the Fed Board calendar to populate this section.
 - **Post-FOMC meeting**: Immediately process statement diff; schedule minutes processing for ~3 weeks out; **update the reference FOMC date in CLAUDE.md and in all subsequent scored files and daily reports** — the reference date must always reflect the most recent FOMC meeting. Current reference FOMC: **April 29, 2026**.
 
-Blackout dates are stored in the memory file `project_fomc_blackout_2026.md`. Update `BLACKOUT_PERIODS_2026` in `send_daily_email.py` and the memory file each January with the new year's FOMC calendar.
+Blackout dates live in `blackout_periods.json` (repo root) — the single source of truth, read by both `.github/workflows/collect.yml` and the daily scoring routine. Source: the official Fed calendar (https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf). Update that one file from the PDF each year; do not hardcode blackout dates anywhere else.
 - **Weekly**: Run cross-official language tracking across past 30 days; generate weekly report
 - **Event-triggered**: Jackson Hole, Congressional testimony — treat as priority, process same day
 
