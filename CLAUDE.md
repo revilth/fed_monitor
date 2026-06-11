@@ -8,19 +8,6 @@ The core analytical goal is to forecast what the Fed will do next by tracking ho
 
 ---
 
-## Immediate Task (on first run)
-
-Download all speeches from FOMC members since January 1 of the current year.
-
-Sources to check in order:
-1. Federal Reserve Board website: https://www.federalreserve.gov/newsevents/speeches.htm
-2. Individual regional Fed websites (list below)
-3. ALFRED (Federal Reserve archival data): https://alfred.stlouisfed.org
-
-Save all raw speech text to Google Drive in the folder structure defined below.
-
----
-
 ## Data Sources
 
 ### Primary sources (check in this order)
@@ -29,7 +16,7 @@ Save all raw speech text to Google Drive in the folder structure defined below.
 - **FOMC press conference transcripts**: same URL above
 - **Congressional testimony**: https://www.federalreserve.gov/newsevents/testimony.htm
 
-**Important:** The Fed Board website only posts speeches by Board Governors (Powell, Jefferson, Bowman, Waller, Cook, Kugler, Barr, Miran). Regional Fed presidents post exclusively on their own bank's website.
+**Important:** The Fed Board website only posts speeches by Board Governors (currently: Warsh, Jefferson, Bowman, Waller, Cook, Barr). Regional Fed presidents post exclusively on their own bank's website.
 
 ### Regional Fed websites — verified working URLs and scraper status (tested 2026-04)
 
@@ -130,24 +117,22 @@ Check the current year's voter list at https://www.federalreserve.gov/monetarypo
 - Jerome Powell, Philip Jefferson, John Williams (Troika, always vote)
 - Michelle Bowman (Vice Chair for Supervision)
 - Michael Barr, Lisa Cook, Christopher Waller (Board Governors)
-- Stephen Miran (Board Governor — confirmed 2026)
+- Stephen Miran (Board Governor — appointed 2025; departed after Warsh became Chair May 2026)
 - Anna Paulson (Philadelphia — rotating; replaced Patrick Harker as president)
 - Beth Hammack (Cleveland — rotating)
 - Neel Kashkari (Minneapolis — rotating)
 - Lorie Logan (Dallas — rotating)
 
-**Note on Adriana Kugler:** Kugler appears to have departed the Board before April 29, 2026 — her name was absent from the voter record. Do not count her in voter tallies without confirmation.
+**Note on Adriana Kugler:** Kugler left the Board in August 2025. Miran was appointed to fill her seat.
 
 **Median voter (2026):** Anna Paulson (Philadelphia) was assessed as the committee's median voter before the correct voter list was confirmed. With Logan (hawkish dissenter on April 29) now confirmed as a voter, the committee's effective median may have shifted slightly hawkish. Paulson remains the best single anchor — her inflation-first bar is more restrictive than Jefferson's symmetric framing and less extreme than Logan's dissent position. Reassess if Logan gives an economic outlook speech.
 
 **Roster changes as of 2026:**
 - Anna Paulson replaced Patrick Harker as Philadelphia Fed president (transition occurred before 2026)
 - Raphael Bostic (Atlanta) retired February 2026; interim president in place, not yet posting speeches
-- Stephen Miran is a new Board Governor appointed in 2026
-- Kugler: appears to have left the Board between March 18 and April 29, 2026 — absent from April 29 vote
+- Stephen Miran was a Board Governor (appointed 2025); departed after Warsh became Chair (May 2026) — no longer a voter
+- Kugler left the Board in August 2025; replaced by Miran
 - **April 29, 2026 dissents:** Miran dissented preferring a cut; Hammack, Kashkari, and Logan dissented opposing the easing bias language — three hawkish regional dissenters simultaneously
-
-**IMPORTANT — previous voter list error:** Before April 29, 2026, CLAUDE.md incorrectly listed Collins (Boston), Goolsbee (Chicago), and Musalem (St. Louis) as Just Voters, and Logan (Dallas), Kashkari (Minneapolis), Hammack (Cleveland) as Non Voters. This was reversed. All reports written before April 29 that classify these officials should be read with this correction in mind. Logan's speeches are particularly affected — her hawkish framing was correct as an analytical matter, but her vote weight was understated.
 
 ### Non Voters — FOMC Non-Voters
 Regional presidents who are not currently voting members. Track for information value and as leading indicators of future voter sentiment.
@@ -521,21 +506,14 @@ For each speaker, maintain a chronological log of their policy-relevant language
 - Compare to their pre-FOMC baseline
 - Human review: flag shifts for the analyst to validate before treating as confirmed
 
-### Task 2: Statement / minutes diff
+### Task 2: Statement diff
 When a new FOMC statement arrives:
 - Compare against the prior statement sentence by sentence
 - Identify every word or phrase change
 - For each change, assess whether it represents a hawkish shift, dovish shift, or neutral edit
 - Produce a clean diff report with your interpretation of each change
 
-When minutes arrive:
-- Score the minutes independently; focus on the "Participants' Views" section — not the staff review
-- Three required comparisons (see Type D classification above):
-  1. vs. corresponding press conference opening statement (richest benchmark)
-  2. vs. prior minutes (primary tool for tracking committee-wide shifts)
-  3. vs. corresponding FOMC statement (identifies what was intentionally left out)
-- Flag divergences: participant views not reflected in the statement or opening statement are high-signal
-- On restrictiveness language: note the full range of views expressed; do not over-interpret vague phrases like "within the range of estimates of neutral" as definitively resolving the question
+For minutes diff, follow the three required comparisons in the Type D classification above.
 
 ### Task 3: Cross-official language tracking
 On a weekly basis (or after any cluster of speeches in a short window):
@@ -577,18 +555,9 @@ python3 main.py weekly           # Prepare weekly context for Claude Code
 python3 main.py schedule         # Start daily background scheduler
 ```
 
-### Speaker calibration notes (updated 2026-04-28)
+### Speaker calibration notes
 
-- **Powell** term as Chair ends May 15, 2026. His final press conference (Apr 29) confirmed Kevin Warsh cleared the Senate Banking Committee that morning. Powell will stay on the Board as a governor "for a period of time to be determined" — to protect the institution from "legal attacks by the administration" which he called "unprecedented in our 113-year history." He committed to "keep a low profile" and work collaboratively with Warsh. Key policy signals from the Apr 29 press conference: (1) "labor demand has clearly softened" — first Troika-level demand-side labor admission; (2) HAWKISH Q&A: named two explicit pre-cut conditions — "backside of the energy shock" AND "progress on tariffs" must both occur "before we even thought about reducing rates"; (3) STACKING LOGIC applied explicitly: "we're already looking through the tariff shock, so [looking through energy] requires more caution" — Troika-level adoption of the Waller/Barkin "sequence of shocks" framework; (4) "next two quarters" deadline for tariff pass-through to dissipate. The Q&A is considerably more hawkish than the opening statement. Before Apr 29, Powell gave zero economic outlook speeches in 2026. Jefferson and Williams were carrying the policy signaling load.
-- **Jefferson** uses the three-topic structure cleanly. His FOMC statement language echoing is very close to verbatim; his personal additions are where the signal lives. Key personal language to track: "susceptible to adverse shocks" (labor qualifier, appeared Apr 7) and "upside risk to my inflation forecast" (inflation qualifier, appeared Apr 7 — not yet in statement).
-- **Williams** is the most data-rich Troika communicator. His labor analysis now distinguishes hard data (stabilization) from soft data (gradual softening) — a split the March 18 statement did not capture. His Mar 3 cut signal ("further reductions will eventually be warranted") was deliberately retracted by Mar 30 and remains absent. Track whether it re-emerges post-April FOMC.
-- **Waller** gave the most hawkish Just Voter speech of 2026 on Apr 17. Key new framework: "sequence of transitory shocks" — explicitly warns against the reflexive "look through" approach when shocks stack. If this language spreads to Jefferson or Williams, it would signal a meaningful committee-wide hawkish recalibration. Also the first voter to say he would hold even if the labor market weakens, if inflation risks dominate. **Critical arc for calibration:** Waller dissented at Jan 28 preferring a cut; his Feb 23 speech ("Labor Market Data: Signal or Noise?") frames it as a "coin flip" on labor with "look through" tariffs intact and a conditional cut signal. By Apr 17 — after the February jobs disappointment and the late-February energy shock — he reversed to the committee's most hawkish stance. The Feb 23 scored speech is the essential pre-FOMC baseline for understanding this full reversal.
-- **Paulson** (median voter) has set an explicit inflation-first bar: "If inflation is above 2 percent and has been for some time, I would be more cautious." This means she needs 2% inflation before considering patience on growth signals — more restrictive than Jefferson's symmetric dual-risk framing.
-- **Goolsbee** (Chicago) is significantly less dovish in 2026 than his public reputation suggests. His Feb 24 NABE speech questioned whether rates are even restrictive ("not obvious that our interest rate policy is even restrictive") and explicitly cautioned against front-loading cuts. Do not rely on the "Goolsbee is the committee's dove" heuristic. His post-March speeches have no transcripts; YouTube is the primary fallback.
-- **Bowman** (Vice Chair for Supervision) is the most explicitly dovish voter — "policy is moderately restrictive," wants "proactive" cuts. Her last economic outlook speech was January 16; her post-FOMC appearances are regulatory Type B. Her post-energy-shock policy view is unknown.
-- **Miran** (new Governor) makes supply-side arguments for rate cuts (deregulation is disinflationary, balance sheet reduction warrants lower rates). He dissented at the March 18 meeting in favor of a cut. His analytical frame is distinct from all other officials.
-- **Logan** (Dallas, Just Voter — confirmed Apr 29) uses the most hawkish framing of any voter and has the highest analytical credibility of any regional president (former NY Fed markets desk head). "Policy may be very close to neutral" (Feb 10). Dissented on Apr 29 against easing bias language — alongside Kashkari and Hammack. Her Feb 10 speech was a voter-level signal all along; its weight was previously understated due to incorrect voter classification. Track her as the hawkish anchor of the 2026 voter coalition.
-- **Barkin** (Richmond, Non Voter) is neutral with strong on-the-ground intelligence. Introduced "series of supply shocks / cumulative effect matters" framing alongside Waller — watch for this to spread.
+See `CALIBRATION.md` for current per-speaker calibration notes. Update that file after any speech that shifts a speaker's stance or introduces new tracked language.
 
 ## Scheduling
 
@@ -599,18 +568,4 @@ Blackout dates live in `blackout_periods.json` (repo root) — the single source
 - **Weekly**: Run cross-official language tracking across past 30 days; generate weekly report
 - **Event-triggered**: Jackson Hole, Congressional testimony — treat as priority, process same day
 
----
-
-## Notes for Analyst Review
-
-The analyst has direct experience writing Fed speeches and will provide periodic feedback on:
-- Whether hawk-dove classifications are accurate
-- Which sentences are substantive vs. boilerplate
-- Speaker-specific calibration (some officials use consistently more cautious language regardless of their actual views)
-- Cycle regime updates
-- Median voter assessment (updated as committee composition or views shift)
-
-Flag any speech or sentence where the classification is ambiguous for analyst review before including in reports.
-
----
 
