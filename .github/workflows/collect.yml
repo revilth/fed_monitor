@@ -26,20 +26,15 @@ jobs:
         run: |
           python3 - <<'EOF'
           from datetime import date
-          import subprocess, sys
+          import json, subprocess, sys
 
-          today = date.today()
-          blackouts = [
-              (date(2026,  6,  6), date(2026,  6, 19)),
-              (date(2026,  7, 18), date(2026,  7, 31)),
-              (date(2026,  9,  5), date(2026,  9, 18)),
-              (date(2026, 10, 17), date(2026, 10, 30)),
-              (date(2026, 11, 28), date(2026, 12, 11)),
-          ]
-          for start, end in blackouts:
-              if start <= today <= end:
-                  print(f"BLACKOUT DAY ({today}) — skipping collection.")
-                  sys.exit(0)
+          # Blackout periods: single source of truth (official Fed calendar).
+          today = date.today().isoformat()
+          with open("blackout_periods.json") as f:
+              periods = json.load(f)["periods"]
+          if any(p["start"] <= today <= p["end"] for p in periods):
+              print(f"BLACKOUT DAY ({today}) — skipping collection.")
+              sys.exit(0)
 
           print(f"Not a blackout day ({today}) — collecting...")
           sys.exit(subprocess.run(["pip", "install", "-r", "requirements.txt", "-q"]).returncode

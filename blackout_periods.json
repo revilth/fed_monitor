@@ -1,0 +1,22 @@
+{
+  "_comment": "Single source of truth for FOMC external-communications blackout periods. Read by .github/workflows/collect.yml and the cloud scoring routine. A date d (YYYY-MM-DD) is in blackout when, for any period, start <= d <= end (ISO strings compare chronologically). Per Fed policy, the blackout begins 12:00am ET the second Saturday before an FOMC meeting and ends 11:59pm ET the day after the meeting ends. Update from the official PDF each year.",
+  "_source": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf",
+  "periods": [
+    {"meeting": "2026-01-27/28", "start": "2026-01-17", "end": "2026-01-29"},
+    {"meeting": "2026-03-17/18", "start": "2026-03-07", "end": "2026-03-19"},
+    {"meeting": "2026-04-28/29", "start": "2026-04-18", "end": "2026-04-30"},
+    {"meeting": "2026-06-16/17", "start": "2026-06-06", "end": "2026-06-18"},
+    {"meeting": "2026-07-28/29", "start": "2026-07-18", "end": "2026-07-30"},
+    {"meeting": "2026-09-15/16", "start": "2026-09-05", "end": "2026-09-17"},
+    {"meeting": "2026-10-27/28", "start": "2026-10-17", "end": "2026-10-29"},
+    {"meeting": "2026-12-08/09", "start": "2026-11-28", "end": "2026-12-10"},
+    {"meeting": "2027-01-26/27", "start": "2027-01-16", "end": "2027-01-28"},
+    {"meeting": "2027-03-16/17", "start": "2027-03-06", "end": "2027-03-18"},
+    {"meeting": "2027-04-27/28", "start": "2027-04-17", "end": "2027-04-29"},
+    {"meeting": "2027-06-08/09", "start": "2027-05-29", "end": "2027-06-10"},
+    {"meeting": "2027-07-27/28", "start": "2027-07-17", "end": "2027-07-29"},
+    {"meeting": "2027-09-14/15", "start": "2027-09-04", "end": "2027-09-16"},
+    {"meeting": "2027-10-26/27", "start": "2027-10-16", "end": "2027-10-28"},
+    {"meeting": "2027-12-07/08", "start": "2027-11-27", "end": "2027-12-09"}
+  ]
+}
