@@ -2,7 +2,7 @@ name: Fed Monitor — Collect
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 6:00pm ET (EDT). Change to '0 23 * * *' after Nov 1 (EST).
+    - cron: '30 9 * * *'   # 5:30am ET (EDT) — runs before the 6:30am scoring routine so it captures the full prior day. Change to '30 10 * * *' after Nov 1 (EST).
   workflow_dispatch:         # Allow manual trigger from GitHub UI
 
 jobs:
