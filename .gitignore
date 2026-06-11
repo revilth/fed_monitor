@@ -32,3 +32,6 @@ logs/
 # FOMC transcripts/minutes). Exceeds GitHub's 100MB file limit; must never be
 # committed or the daily auto-push routine will fail. Kept locally + Drive only.
 data/historical/
+
+# Local Claude Code permissions — machine-specific, not shared
+.claude/settings.local.json
