@@ -1,0 +1,169 @@
+BEIGE BOOK — 2026 REVIEW (Jan–Jun backfill)
+════════════════════════════════════════════════════════════════
+Ad-hoc one-time request: score all 2026 Beige Books released to date.
+Released so far: Jan 14, Mar 4, Apr 15, Jun 3 (Jul 15 onward not yet out).
+Method (Type H): national summary only — Overall Economic Activity / Labor
+Markets / Prices; change vs. the prior report; track the qualitative
+intensity words. District detail ignored.
+Reference FOMC: April 29, 2026  |  Cycle: HOLDING  |  FFR: 4.25–4.50%
+Sources: federalreserve.gov/monetarypolicy/files/BeigeBook_YYYYMMDD.pdf
+════════════════════════════════════════════════════════════════
+
+NOTE ON THE JANUARY BASELINE: the Jan 14 comparison uses the report's own
+"since last report" language (the late-2025 reports characterized activity as
+"little change"); the Mar/Apr/Jun diffs are grounded in both reports verbatim.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  JANUARY 14, 2026   (prepared at Richmond; data through Jan 5)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OVERALL ECONOMIC ACTIVITY
+  "increased at a slight to modest pace in eight of the twelve Districts" —
+  and explicitly "an improvement over the last three report cycles where a
+  majority of Districts reported little change." Holiday-led consumer spending;
+  early bifurcation noted (high-income strong; low/moderate "increasingly
+  price sensitive"). Outlooks "mildly optimistic."
+  Direction: hawkish lean — activity firming out of stagnation.
+
+LABOR MARKETS
+  "Employment was mostly unchanged… eight of the twelve Districts reporting no
+  changes in hiring." Hiring "mostly to backfill vacancies rather than create
+  new positions"; "fewer workers were switching jobs." Wages "moderate," with
+  contacts saying wage growth had "returned to 'normal' levels."
+  Direction: neutral — flat, low-churn labor; wage normalization.
+
+PRICES
+  "Prices grew at a moderate rate across a large majority of Districts."
+  Tariff cost pressures "a consistent theme across all Districts"; firms
+  increasingly passing them through as pre-tariff inventories deplete.
+  Outlook: "some moderation," but "prices to remain elevated."
+  Direction: hawkish — broad, moderate, tariff-driven, sticky.
+
+NET: mildly hawkish baseline — firming activity, flat labor, sticky tariff-led prices.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  MARCH 4, 2026   (prepared at Cleveland; data through Feb 23)   vs. Jan 14
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OVERALL ECONOMIC ACTIVITY
+  KEY WORDS: "slight to modest" → "slight to MODERATE" (top end up a notch),
+  BUT breadth narrowed: growing Districts 8 → 7, and flat/declining "increased
+  from four in the prior period to five." Consumer "dampened by economic
+  uncertainty, increased price sensitivity, and lower-income consumers pulling
+  back." Manufacturing "improved overall… eight Districts reporting growth."
+  Direction: neutral / slight softening — pace top-end firmer, breadth softer.
+
+LABOR MARKETS
+  "generally stable… seven of the twelve Districts reported no change" (Jan:
+  eight). Flat/lower employment tied to "rising nonlabor input costs, softer
+  demand, or uncertainty." Wages "modest or moderate."
+  Direction: dovish lean — modest further cooling at the margin.
+
+PRICES
+  "increased moderately… eight Districts moderate, four slight or modest."
+  Tariffs cited by nine Districts. KEY: "firms expected prices to rise at a
+  somewhat slower pace in the near term." — first forward-looking softening.
+  Direction: dovish lean — level still moderate, expectations easing.
+
+NET: dovish lean vs. January — softer breadth, first hint of expected price moderation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  APRIL 15, 2026   (prepared at New York; data through Apr 6)   vs. Mar 4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OVERALL ECONOMIC ACTIVITY
+  KEY WORDS: "slight to moderate" → back to "slight to MODEST" (top end down),
+  "two Districts reported slight to modest declines." NEW SHOCK: "The conflict
+  in the Middle East… a major source of uncertainty," firms "adopting a
+  wait-and-see posture." Housing "softened"; higher-income spending "resilient."
+  Direction: dovish lean on growth — softer pace + a fresh uncertainty shock.
+
+LABOR MARKETS
+  "steady to up slightly." Demand "stable, with low turnover, minimal layoffs,
+  and hiring mostly for replacement"; "labor availability had improved." AI
+  "had enabled many firms to delay or reduce hiring." Wages "modest to moderate."
+  Direction: neutral — stable, slightly looser supply.
+
+PRICES
+  Headline still "mostly remained moderate," BUT the pivot is in costs:
+  "Energy and fuel costs rose SHARPLY in ALL Districts, attributed to the
+  Middle East conflict," plus metals-tariff increases (steel, copper,
+  aluminum); "input cost increases outpaced selling price growth, compressing
+  margins."
+  Direction: hawkish developing — the energy shock enters the cost pipeline;
+  selling prices lag for now.
+
+NET: mixed — growth dovish, but the Middle East energy shock is the pivotal new
+input, loading the price pipeline.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4.  JUNE 3, 2026   (prepared at Kansas City; data through May 27)   vs. Apr 15
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OVERALL ECONOMIC ACTIVITY
+  KEY WORDS: growth BREADTH broadened — "slight to moderate pace for TEN of the
+  twelve Districts" (Apr: eight, with two declines), only one decline / one no
+  change. Manufacturing "modest to strong for nine." BUT consumer
+  "increasingly bifurcated": middle-income "squeezing more life out of every
+  dollar," low-income "greater financial strain"; "weakening consumer spending
+  weighed on sentiment"; outlooks "little change in anticipated growth."
+  Direction: mixed — firmer breadth (esp. manufacturing) vs. consumer-led caution.
+
+LABOR MARKETS
+  KEY: "Employment showed little to no change across eleven Districts."
+  Crystallizes into a "low-hire, low-fire environment, with workers
+  increasingly reluctant to change jobs." Hiring "selective… critical roles or
+  attrition replacement." Wages "modest to moderate… largely in line with
+  inflation," with more "cost-of-living increases to manage increasing fuel and
+  other household cost pressures."
+  Direction: neutral, frozen — note the fuel-driven cost-of-living wage
+  adjustments (a mild second-round flag).
+
+PRICES
+  KEY WORDS: "moderate" → "MODERATE TO STRONG pace overall, with most Districts
+  reporting HIGHER inflation than the previous report." Energy (Middle East)
+  "the primary driver," with spillovers "into shipping, packaging, groceries,
+  and fertilizer"; non-labor input costs "rising faster than selling prices."
+  Direction: hawkish — clear re-acceleration; the energy shock is now broad-based.
+
+NET: hawkish — activity broadened but consumer-cautious; labor frozen; PRICES
+re-accelerating on the energy shock. Inflation is the dominant signal entering
+the June 16–17 meeting.
+
+════════════════════════════════════════════════════════════════
+2026 TRAJECTORY SYNTHESIS (Jan → Jun)
+────────────────────────────────────────────────────────────────
+OVERALL ACTIVITY:  stagnant (late-2025 "little change") → firming (Jan) →
+  brief wobble + Middle East uncertainty (Mar–Apr) → broadened breadth but
+  consumer-bifurcated (Jun). Resilient on net, but growth increasingly
+  concentrated in manufacturing / data centers / defense while the consumer
+  splits by income. Not a growth scare; a composition story.
+
+LABOR MARKETS:  flat the entire period, hardening into "low-hire, low-fire" and
+  "reluctant to change jobs" by June. A frozen, gradually cooling market — no
+  dynamism, but no break. Wages steady modest-to-moderate, increasingly framed
+  as cost-of-living catch-up to fuel costs.
+
+PRICES — THE SIGNAL:  moderate + tariff-driven (Jan) → a fleeting "somewhat
+  slower pace" hope (Mar) → energy shock arrives in costs (Apr) → escalates to
+  "moderate to strong / higher inflation than the previous report" (Jun).
+  Two stacked supply shocks — tariffs THEN Middle-East energy — are compounding,
+  compressing margins and feeding second-round into groceries, shipping, and
+  fertilizer.
+
+POLICY READ (entering Jun 16–17):  The Beige Book corroborates the hawkish
+  committee tilt seen in the speeches. It supports the "hold" posture and the
+  two stated pre-cut conditions — energy-shock dissipation and tariff progress —
+  by showing the opposite of both: an intensifying energy shock and still-
+  passing-through tariffs, against a frozen-but-not-breaking labor market and
+  resilient (if bifurcating) activity. Net directional read of the 2026 arc:
+  HAWKISH, and accelerating into June via the price channel.
+
+  Cross-check vs. the speech side: this maps cleanly onto Waller/Cook/Hammack/
+  Logan's explicit-hike framing and the Troika's "sequence of shocks / look-
+  through requires more caution" language — the Beige Book is the on-the-ground
+  evidence base for that committee hawkishness.
+
+WATCH (next Beige Book, Jul 15, vs. Jun 3):
+  • Whether "moderate to strong" prices escalate further or the energy shock
+    begins to fade (the key pre-cut condition).
+  • Whether "low-hire, low-fire" tips toward actual job cuts (a frozen market
+    can thaw downward quickly).
+  • Whether consumer bifurcation broadens into an outright spending downturn.
+════════════════════════════════════════════════════════════════
