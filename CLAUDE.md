@@ -6,6 +6,8 @@ This agent monitors, collects, and analyzes communications from Federal Open Mar
 
 The core analytical goal is to forecast what the Fed will do next by tracking how the language and emphasis of individual officials changes over time, identifying coordinated messaging across officials, and detecting which sentences get amplified by financial media.
 
+> **Operations:** This file covers analytical methodology. For the automation infrastructure — scheduled triggers (IDs, crons), GitHub Actions workflows, the morning pipeline, FOMC/Beige Book fast paths, DST maintenance, and run-verification — see `OPERATIONS.md`.
+
 ---
 
 ## Data Sources
