@@ -1,0 +1,133 @@
+SOURCE: https://www.youtube.com/watch?v=aKllbvCaWvo
+CHANNEL: Federal Reserve (official)
+DATE: June 17, 2026
+EVENT: FOMC Press Conference — Chair Kevin Warsh (first press conference as Chair)
+
+PROVISIONAL — TRANSCRIPT RECONSTRUCTION NOTE:
+YouTube auto-transcript extraction failed (SSL certificate restriction in remote execution environment;
+yt-dlp returned HTTP 403 on the official Fed channel video). Fed preliminary PDF transcript also
+returned HTTP 403 (federalreserve.gov/mediacenter/files/FOMCpresconf20260617.pdf).
+Content below reconstructed from:
+  (1) Search result excerpts citing the preliminary PDF
+  (2) CNBC live-blog coverage
+  (3) NPR, CBS News, NBC News, ABC News, Fox Business, Mortgage Professional, Yahoo Finance reports
+Key direct quotes verified across three or more independent sources.
+REQUIRED: Verify all quotes against the official preliminary PDF in tomorrow morning's report.
+
+─────────────────────────────────────────────────────────────────────────────────
+OPENING STATEMENT (committee-approved language, read by Chair Warsh)
+─────────────────────────────────────────────────────────────────────────────────
+
+"It's an honor, a true honor, to be back at the Federal Reserve, and to take up
+this duty at a time of such consequence."
+
+"We recognize that inflation has been running well ahead of the Fed's long-stated
+inflation goal of 2%. That's been going on for more than five years."
+
+"Persistently high prices are a burden for the American people, but the recent
+past need not be prolog."
+
+"I am pleased to report that members of the FOMC are unambiguous and unanimous:
+This Committee will deliver price stability."
+
+[Statement text referenced in opening — from the released June 17 FOMC statement,
+confirmed via two independent sources:]
+
+  GROWTH: "Economic activity is expanding at a solid pace despite elevated
+  uncertainty that owes, in part, to the conflict in the Middle East.
+  Productivity growth and capital investment are strong."
+
+  LABOR: "Job gains have kept pace with the workforce, and the unemployment rate
+  has changed little."
+
+  INFLATION: "Inflation remains elevated relative to the Committee's 2 percent
+  goal, in part reflecting supply shocks that have driven price increases in
+  certain sectors, including energy. The Committee will deliver price stability."
+
+  RATE: "The Committee decided to maintain the target range for the federal funds
+  rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual
+  mandate. The Committee also reaffirmed its policy of maintaining ample reserves
+  in the banking system."
+
+  FORWARD GUIDANCE: [NONE — removed entirely]
+
+[On the new statement format:]
+
+"It's a bit shorter, a bit simpler, and it dispenses with some older language."
+
+"Absent, also, is so-called forward guidance, which we agreed was not well
+suited to the current policy conjuncture."
+
+[Statement length: ~130 words, down from ~300+ in recent meetings.]
+
+[FIVE TASK FORCES ANNOUNCED:]
+
+Warsh announced five task forces to review and propose reforms to:
+  1. Communications (Fed communication approach)
+  2. Balance sheet (policy and operations)
+  3. Data ("use and reliance on existing data streams")
+  4. Productivity and jobs
+  5. Causes of inflation
+
+Task force charge (verbatim):
+"Each task force will have a straightforward charge: Start with first principles.
+Ask hard questions. Examine current practice. Consider alternatives. And
+ultimately propose next steps for policymaker consideration."
+
+Timeline: Most to conclude "this fall or by end of year."
+
+[On price stability commitment — bridging opening to Q&A:]
+
+"The commitment to deliver is strong, unanimous, and unambiguous, and that's I
+think an important message we've missed for five years, and we're going to fix
+that."
+
+─────────────────────────────────────────────────────────────────────────────────
+Q&A (unscripted — Chair's personal signals)
+─────────────────────────────────────────────────────────────────────────────────
+
+Q: [On reconsidering the 2% inflation target]
+A: "That is the Federal Reserve's long-held objective of 2%. The 'two' is the
+   left of the decimal point. For now, 'zero' is to the right."
+
+Q: [On the dot plot / SEP submission]
+A: "It's been the practice of this committee for participants to submit these
+   projections, and I have encouraged my colleagues to continue to do so.
+   I, however, have refrained from offering any projections of my own,
+   consistent with my long-held views on the SEP, at least as currently
+   structured."
+   "I did not submit a dot for me. It's not helpful in the conduct of policy."
+
+Q: [On what the dots with hike projections signal]
+A: "Despite the recent pullback in oil, half of the members of the FOMC expect
+   rate hikes as soon as this year, reflecting strong labor market and inflation
+   data."
+
+Q: [On the new statement design]
+A: The statement is "a bit shorter, a bit simpler" and removes forward guidance
+   as "not well suited to the current policy conjuncture."
+
+─────────────────────────────────────────────────────────────────────────────────
+ECONOMIC DATA CONTEXT (from statement and SEP, June 17, 2026)
+─────────────────────────────────────────────────────────────────────────────────
+
+FFR:           3.50–3.75% (held, 12-0)
+PCE inflation: 3.6% (2026 SEP median — up from 2.7% in March)
+Core PCE:      3.3% (2026 SEP median — up from 2.7% in March)
+Real GDP:      2.2% (2026 SEP median)
+Unemployment:  4.3% (2026 SEP median)
+2026 FFR median dot: 3.8% (9 of 18 participants project a hike; 1 projects a cut)
+Participants:  18 (19 in March; Warsh withheld his dot — confirmed the missing one)
+
+─────────────────────────────────────────────────────────────────────────────────
+SOURCES (RECONSTRUCTION)
+─────────────────────────────────────────────────────────────────────────────────
+
+Official YouTube: https://www.youtube.com/watch?v=aKllbvCaWvo
+Fed preliminary PDF (403 at time of extraction):
+  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260617.pdf
+CNBC live blog: https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html
+CNBC analysis: https://www.cnbc.com/2026/06/17/kevin-warsh-fed-interest-rates-risk-analysis.html
+Yahoo Finance (dot plot): https://finance.yahoo.com/economy/policy/article/fed-dot-plot-almost-half-of-fomc-members-project-at-least-one-interest-rate-hike-this-year-183645064.html
+Mortgage Professional: https://www.mpamag.com/us/mortgage-industry/market-updates/fed-projects-one-2026-rate-hike-as-warsh-skips-dot-plot-submission/579345
+CBS News: https://www.cbsnews.com/news/fed-meeting-fomc-today-kevin-warsh-interest-rates/
