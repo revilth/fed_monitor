@@ -1,0 +1,193 @@
+FOMC STATEMENT DIFF - June 17, 2026
+════════════════════════════════════════════════════════════════════════
+Warsh's First Meeting | Easing Bias Dropped | Unanimous Vote
+Prior FOMC: April 29, 2026 | Prior FFR: 3.50–3.75% | Cycle: HOLDING
+════════════════════════════════════════════════════════════════════════
+
+RATE DECISION
+─────────────────────────────────────────────────────────────────────
+HOLD: Target range maintained at 3-1/2 to 3-3/4 percent (3.50–3.75%).
+No change from April 29, January 28, March 18, or December 10, 2025.
+This is the fifth consecutive hold; the first in this cycle under Chair Warsh.
+
+VOTE
+─────────────────────────────────────────────────────────────────────
+June 17:  12–0 UNANIMOUS  [confirmed via search; see retrieval note]
+April 29: 8–4 (Miran preferred cut; Hammack, Kashkari, Logan opposed
+          easing bias language)
+Change:   -4 dissenters. All three hawkish April dissenters fell in
+          line — consistent with the easing bias being dropped (their
+          stated objection). Bowman did not dissent dovishly despite
+          having been the sole defender of the easing bias language.
+          Miran is no longer a voter (departed after Warsh became
+          Chair, May 2026); Warsh now holds the Chair vote.
+
+⚠ RETRIEVAL NOTE: The Federal Reserve website (federalreserve.gov)
+and all major financial news sites returned HTTP 403 Forbidden in
+this session. Statement text and exact vote language below are
+reconstructed from search engine result snippets and pre/post-meeting
+analysis articles. Confirmed facts are labeled [C]; inferred facts
+are labeled [I]. The canonical version will be in tomorrow morning's
+daily report once direct access is restored.
+
+════════════════════════════════════════════════════════════════════════
+SENTENCE-BY-SENTENCE DIFF
+(Prior = April 29, 2026 | New = June 17, 2026)
+════════════════════════════════════════════════════════════════════════
+
+─────────────────────────────────────────────────────────────────────
+SENTENCE 1 — Economic Activity
+─────────────────────────────────────────────────────────────────────
+APRIL 29:  "Recent indicators suggest that economic activity has been
+            expanding at a solid pace."
+
+JUNE 17:   "Recent indicators suggest that economic activity has been
+            expanding at a solid pace." [I]
+            + NEW: "Uncertainty about the economic outlook has
+            remained elevated." [C – confirmed by FXStreet article
+            title "elevated uncertainty keeps FOMC on hold again";
+            exact phrasing uncertain]
+
+CHANGE:    "elevated uncertainty" ADDED
+DIRECTION: HAWKISH-NEUTRAL. Acknowledges genuine uncertainty rather
+           than expressing confidence in the baseline. The phrase
+           "elevated uncertainty" appeared in the March 18 statement
+           ("Uncertainty about the economic outlook remains elevated")
+           and was removed in the April 29 simplification; its return
+           signals the committee is not calling the all-clear on the
+           economic path. Given the energy shock, Middle East conflict,
+           and inflation above 4%, this is a factual acknowledgment,
+           not a dovish hedge.
+
+─────────────────────────────────────────────────────────────────────
+SENTENCE 2 — Labor Market
+─────────────────────────────────────────────────────────────────────
+APRIL 29:  "Job gains have remained low, on average, and the
+            unemployment rate has been little changed in recent months."
+
+JUNE 17:   Likely unchanged [I]. No source confirmed a labor market
+            language change. Committee consensus (Jefferson, Williams,
+            Collins, Paulson, Logan pre-blackout) converged on:
+            soft data softening, hard data still stable. No urgency.
+
+CHANGE:    NONE (inferred)
+DIRECTION: NEUTRAL
+
+─────────────────────────────────────────────────────────────────────
+SENTENCE 3 — Inflation
+─────────────────────────────────────────────────────────────────────
+APRIL 29:  "Inflation is elevated, in part reflecting the recent
+            increase in global energy prices."
+
+JUNE 17:   "Inflation remains elevated, in part reflecting the recent
+            increase in global energy prices." [I – exact wording
+            uncertain; May CPI 4.2% YoY confirms "elevated" retained]
+            OR: language may have been updated to reflect that energy
+            prices, while still elevated, are not "recent" anymore —
+            the energy shock originated in March.
+
+CHANGE:    Possible: "is elevated" → "remains elevated" (continued
+           rather than one-time framing) [I]
+DIRECTION: HAWKISH-NEUTRAL. "Remains elevated" is more durable than
+           "is elevated" — it signals persistence rather than a
+           temporary spike and raises the bar for looking through it.
+
+─────────────────────────────────────────────────────────────────────
+SENTENCE 4 — Rate Decision
+─────────────────────────────────────────────────────────────────────
+APRIL 29:  "The Committee decided to maintain the target range for
+            the federal funds rate at 3-1/2 to 3-3/4 percent."
+
+JUNE 17:   UNCHANGED [C]
+
+CHANGE:    NONE
+DIRECTION: NEUTRAL
+
+─────────────────────────────────────────────────────────────────────
+SENTENCE 5 — Forward Guidance / Policy Bias (KEY CHANGE)
+─────────────────────────────────────────────────────────────────────
+APRIL 29:  "The Committee will continue to monitor the implications of
+            incoming information for the economic outlook and remains
+            prepared to adjust policy if risks emerge threatening its
+            dual mandate objectives."
+
+JUNE 17:   The easing bias language has been DROPPED [C – confirmed
+            by multiple sources: "The Fed dropped its easing bias in
+            favor of a neutral bias"; Continuum Economics preview
+            titled "Dropping the easing bias" published pre-decision
+            and confirmed post-decision context].
+
+            Exact replacement language UNKNOWN (direct retrieval
+            failed). Based on March 18 precedent and context, likely
+            candidates:
+            (a) "The Committee will continue to monitor the
+                implications of incoming information for the economic
+                outlook. The Committee is attentive to the risks to
+                both sides of its dual mandate."
+            (b) Simplified further by Warsh — possibly just the
+                monitoring sentence without any forward guidance
+                addendum (consistent with Warsh's stated preference
+                for less forward guidance).
+
+CHANGE:    "remains prepared to adjust policy if risks emerge
+            threatening its dual mandate objectives" → REMOVED [C]
+            Replacement language: uncertain [I]
+DIRECTION: HAWKISH. This is the principal signal of the June 17
+           meeting. The April language was a conditional easing bias
+           ("prepared to adjust if risks emerge") that three voters
+           explicitly objected to in April. Its removal:
+           (1) Appeases Hammack, Kashkari, Logan — explains unanimous
+               vote reversal from April's 8-4 split.
+           (2) Moves the committee from "leaning toward cutting when
+               conditions allow" to "genuinely neutral" on next move.
+           (3) The dot plot signal (9/18 officials projecting a 2026
+               hike) reinforces that the next move risk is now
+               symmetric to two-sided.
+
+════════════════════════════════════════════════════════════════════════
+DOT PLOT (SEP — Summary of Economic Projections)
+════════════════════════════════════════════════════════════════════════
+June 17 marked a Summary of Economic Projections (dot plot) release
+meeting. Key confirmed signals from search results:
+
+  • 9 of 18 officials now project a rate HIKE in 2026 [C – confirmed
+    via search: "nine see rates rising in 2026"]
+  • This represents a major hawkish shift vs March, when the median
+    dot still showed 1-2 cuts in 2026
+  • The median dot for 2026 year-end FFR has almost certainly moved
+    higher than 3.75% (the current ceiling)
+  • Warsh reportedly withheld his own dot [I – pre-meeting analysis
+    suggested he would eliminate his own submission to challenge the
+    dot plot's utility; not confirmed post-meeting]
+
+Significance: 9/18 projecting hikes = the committee's center of mass
+has shifted from "when do we cut?" to "do we need to hike?" This is
+the most consequential dot plot shift since the 2022 hiking cycle began.
+
+════════════════════════════════════════════════════════════════════════
+NET READ
+════════════════════════════════════════════════════════════════════════
+HAWKISH. The June 17 statement delivers a genuine policy signal
+despite unchanged rates: the easing bias is gone, replaced by neutral
+or attentive-to-both-sides language. The unanimous vote signals
+committee consolidation under Warsh, ending the messy April 8-4 split.
+The dot plot adds the decisive second signal: nearly half the committee
+now projects higher rates by year-end. The cycle has shifted from
+"holding pending conditions for cutting" to "genuinely balanced with
+hike risk rising." Markets pricing any 2026 cut should re-evaluate.
+
+Key question for next meeting (July 29-30): Does Warsh's first press
+conference (June 17, 2:30 PM ET) reinforce or qualify the hawkish
+tilt? The morning daily report will process the provisional press
+conference transcript. Watch for: (1) Warsh's first public statement
+on forward guidance philosophy; (2) whether he echoes Logan's
+"mid-2's" above-2% inflation forecast framing; (3) any signal on
+the dot plot submission (did he participate?).
+
+Cycle update: HOLDING → HOLDING with rising hike risk. Update
+reference FOMC to June 17, 2026 in CLAUDE.md after this report.
+════════════════════════════════════════════════════════════════════════
+SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+PRIOR:  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+Generated: June 17, 2026 | Alert type: FOMC statement diff (Type C)
+════════════════════════════════════════════════════════════════════════

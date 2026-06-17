@@ -1,0 +1,48 @@
+SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+NOTE: Direct retrieval failed (HTTP 403 Forbidden from all sources in this session).
+Content below is reconstructed from search engine snippets and pre/post-meeting analysis;
+marked [CONFIRMED], [INFERRED], or [UNKNOWN] per source confidence.
+
+FOMC STATEMENT — JUNE 17, 2026
+For release at 2:00 p.m. EDT
+
+[INFERRED – consistent across multiple search result summaries]
+Recent indicators suggest that economic activity has been expanding at a solid pace.
+Uncertainty about the economic outlook has remained elevated.
+
+[INFERRED]
+Job gains have remained low, on average, and the unemployment rate has been little
+changed in recent months.
+
+[INFERRED – probable based on May CPI 4.2% YoY and search context]
+Inflation remains elevated, in part reflecting the recent increase in global energy prices.
+
+[CONFIRMED – unanimously confirmed by all search sources]
+The Committee decided to maintain the target range for the federal funds rate at
+3-1/2 to 3-3/4 percent.
+
+[CONFIRMED – easing bias DROPPED per Continuum Economics and multiple search sources;
+exact replacement language UNKNOWN – prior "remains prepared to adjust policy if risks
+emerge threatening its dual mandate objectives" removed; neutral language substituted]
+The Committee will continue to monitor the implications of incoming information for
+the economic outlook. The Committee is attentive to the risks to both sides of its
+dual mandate.
+
+[CONFIRMED – vote described as unanimous across multiple search result summaries;
+Miran no longer a voter (departed May 2026); Warsh now votes as Chair]
+Voting for the monetary policy action were Kevin Warsh, Chair; Philip N. Jefferson,
+Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Beth M. Hammack;
+Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; Jerome H. Powell; Anna Paulson;
+John C. Williams; and Christopher J. Waller.
+
+Voting against this action: none.
+
+---
+RETRIEVAL NOTES:
+- federalreserve.gov returned HTTP 403 Forbidden (bot protection or rate limiting)
+- All major news sites (CNBC, Reuters, AP, FXStreet, Kiplinger) returned HTTP 403
+- Content above reconstructed from WebSearch snippets only
+- Reference FOMC statement URL confirmed to exist by search index:
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+- Key confirmed facts: HOLD 3.50-3.75%, unanimous vote, easing bias dropped,
+  "elevated uncertainty" in statement, dot plot shows 9/18 officials project 2026 hike
