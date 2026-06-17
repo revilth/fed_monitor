@@ -1,48 +1,35 @@
 SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
-NOTE: Direct retrieval failed (HTTP 403 Forbidden from all sources in this session).
-Content below is reconstructed from search engine snippets and pre/post-meeting analysis;
-marked [CONFIRMED], [INFERRED], or [UNKNOWN] per source confidence.
+NOTE: Retrieved live from federalreserve.gov (the 2:05pm run hit HTTP 403 and reconstructed
+from snippets; this is the corrected verbatim text). Paragraph wording high-confidence;
+exact punctuation and the individual voting roster to be reconciled against the official
+PDF in the next-morning canonical run. The press-release page reports a 12–0 vote but does
+not list member names; the roster below is [INFERRED] from the 2026 voter list.
 
 FOMC STATEMENT — JUNE 17, 2026
 For release at 2:00 p.m. EDT
 
-[INFERRED – consistent across multiple search result summaries]
-Recent indicators suggest that economic activity has been expanding at a solid pace.
-Uncertainty about the economic outlook has remained elevated.
+Economic activity is expanding at a solid pace despite elevated uncertainty that owes,
+in part, to the conflict in the Middle East. Productivity growth and capital investment
+are strong.
 
-[INFERRED]
-Job gains have remained low, on average, and the unemployment rate has been little
-changed in recent months.
+Job gains have kept pace with the workforce, and the unemployment rate has changed little.
 
-[INFERRED – probable based on May CPI 4.2% YoY and search context]
-Inflation remains elevated, in part reflecting the recent increase in global energy prices.
+Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting
+supply shocks that have driven price increases in certain sectors, including energy. The
+Committee will deliver price stability.
 
-[CONFIRMED – unanimously confirmed by all search sources]
-The Committee decided to maintain the target range for the federal funds rate at
-3-1/2 to 3-3/4 percent.
+The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to
+3-3/4 percent, in support of the Federal Reserve's dual mandate. The Committee also
+reaffirmed its policy of maintaining ample reserves in the banking system.
 
-[CONFIRMED – easing bias DROPPED per Continuum Economics and multiple search sources;
-exact replacement language UNKNOWN – prior "remains prepared to adjust policy if risks
-emerge threatening its dual mandate objectives" removed; neutral language substituted]
-The Committee will continue to monitor the implications of incoming information for
-the economic outlook. The Committee is attentive to the risks to both sides of its
-dual mandate.
+[No separate forward-guidance sentence — the prior "will continue to monitor… remains
+prepared to adjust policy if risks emerge threatening its dual mandate objectives"
+formulation does NOT appear in this statement. Confirmed absent across two retrievals.]
 
-[CONFIRMED – vote described as unanimous across multiple search result summaries;
-Miran no longer a voter (departed May 2026); Warsh now votes as Chair]
-Voting for the monetary policy action were Kevin Warsh, Chair; Philip N. Jefferson,
-Vice Chair; Michael S. Barr; Michelle W. Bowman; Lisa D. Cook; Beth M. Hammack;
-Philip N. Jefferson; Neel Kashkari; Lorie K. Logan; Jerome H. Powell; Anna Paulson;
-John C. Williams; and Christopher J. Waller.
-
-Voting against this action: none.
-
----
-RETRIEVAL NOTES:
-- federalreserve.gov returned HTTP 403 Forbidden (bot protection or rate limiting)
-- All major news sites (CNBC, Reuters, AP, FXStreet, Kiplinger) returned HTTP 403
-- Content above reconstructed from WebSearch snippets only
-- Reference FOMC statement URL confirmed to exist by search index:
-  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
-- Key confirmed facts: HOLD 3.50-3.75%, unanimous vote, easing bias dropped,
-  "elevated uncertainty" in statement, dot plot shows 9/18 officials project 2026 hike
+VOTE: 12–0 UNANIMOUS.
+Voting members (2026), [INFERRED roster — names not on the press-release page]:
+  Kevin Warsh (Chair), Philip N. Jefferson (Vice Chair), John C. Williams,
+  Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Jerome H. Powell,
+  Christopher J. Waller (Board); Anna Paulson, Beth M. Hammack, Neel Kashkari,
+  Lorie K. Logan (rotating regional). Voting against: none.
+  (Miran is no longer a voter — departed May 2026; Warsh now holds the Chair vote.)

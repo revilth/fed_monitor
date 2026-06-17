@@ -198,7 +198,7 @@ Published 8 times a year, about two weeks before each FOMC meeting (2:00pm ET; r
 
 ### Type I: Summary of Economic Projections (SEP / Dot Plot)
 
-Released **4 times a year** (the March, June, September, and December meetings) at 2:00pm ET **with the statement**. Like the statement and the Beige Book, it is a Committee deliberation artifact, not a personal communication — **score it as a diff vs. the prior quarterly SEP, not as a speech.** The prior SEP is always two meetings back (e.g. June's comparison is March, not April).
+Released only **every other FOMC meeting** — 4 of the 8 per year (the projection meetings, in 2026: March, June, September, December) — at 2:00pm ET **with the statement**. The projection meetings are flagged with `"sep": true` in `blackout_periods.json` (the single source of truth — do not hardcode month names). Like the statement and the Beige Book, the SEP is a Committee deliberation artifact, not a personal communication — **score it as a diff vs. the prior SEP, not as a speech.** Because it skips every other meeting, **the prior SEP is two meetings back** (e.g. June compares to March, not to the intervening April meeting, which had no SEP).
 
 **Method (same paradigm as the statement diff):**
 1. **The change vs. the prior SEP is the signal.** Tabulate the median for all five variables (real GDP, unemployment, headline PCE, core PCE, fed funds rate) across every horizon (current year, +1, +2, longer run) for both SEPs and compute the delta. Quote the prior number and the current number explicitly; never paraphrase a projection.

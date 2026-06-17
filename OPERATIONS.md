@@ -43,15 +43,16 @@ INSIDE blackout. Handled by three pieces:
 | Time (ET) | Component | Type | What it does |
 |---|---|---|---|
 | 2:05pm Wed | **FOMC statement alert** `trig_011raxPgWfnTqPWhGGT5ZsvG` | CCR (cron `5 18 * * 3`) | Self-checks decision day; statement diff (Type C) → `data/reports/fomc/` → push. **On a projection meeting, also pull the SEP / dot plot and write the Type I diff (see below).** |
-| 2:05pm Wed (Mar/Jun/Sep/Dec only) | **SEP / dot plot (Type I)** | CCR (same run as the statement alert) | Projection meetings only. Pull the projection table (`fomcprojtabl<date>.htm`) + dot distribution, diff vs. the PRIOR quarterly SEP (two meetings back), evaluate against inter-meeting speeches → `data/scored/sep/` + `data/reports/fomc/` → push (emailed). |
+| 2:05pm Wed (projection meetings only) | **SEP / dot plot (Type I)** | CCR (same run as the statement alert) | Fires only when the meeting has `"sep": true` in `blackout_periods.json` (SEP is released **every other meeting** — 4 of 8/yr). Pull the projection table (`fomcprojtabl<date>.htm`) + dot distribution, diff vs. the PRIOR SEP (two meetings back), evaluate against inter-meeting speeches → `data/scored/sep/` + `data/reports/fomc/` → push (emailed). |
 | 5:00pm Wed | **FOMC press-conf alert** `trig_01CnKcJgS7KJQ5bXjqe3akh7` | CCR (cron `0 21 * * 3`) | Self-checks decision day; PROVISIONAL press conf (Type E) from YouTube auto-caption → push. |
 | next 6:30am | Daily score routine (FOMC-day branch) | CCR | Detects REPORT_DATE = decision day (doesn't skip despite blackout); writes CANONICAL report from the OFFICIAL transcript, finalizing/correcting the provisional alert. **Folds in the SEP section on projection meetings.** |
 | on push | `.github/workflows/fomc_email.yml` | GitHub Action (push → `data/reports/fomc/` or `data/reports/beige_book/`) | SMTP-emails each pushed alert immediately. |
 
 Decision day = 2nd date of each `meeting` in `blackout_periods.json` (always a Wednesday).
 The two alert triggers fire every Wednesday and self-check; they no-op on non-meeting Wednesdays.
-The SEP fires only on the four **projection meetings** (March / June / September / December);
-the prior-SEP comparison is always two meetings back (June diffs vs. March, not April).
+The SEP fires only on **projection meetings** — flagged `"sep": true` in
+`blackout_periods.json` (released every other meeting, 4 of 8/yr). The prior-SEP
+comparison is always two meetings back (June diffs vs. March, not the intervening April).
 Projection-table URL pattern: `https://www.federalreserve.gov/monetarypolicy/fomcprojtabl<YYYYMMDD>.htm`.
 
 ---
