@@ -1,0 +1,181 @@
+SEP / DOT PLOT — June 17, 2026 (Type I) — WHOLESALE HAWKISH REPRICING
+════════════════════════════════════════════════════════════════════════
+Warsh's First Meeting | Median 2026 path +0.4 | Half the committee now pencils a 2026 HIKE
+Prior SEP: March 18, 2026 | Current FFR: 3.50–3.75% (midpoint 3.625%) | Cycle: HOLDING
+SOURCE (June): https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm
+SOURCE (March): https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260318.htm
+════════════════════════════════════════════════════════════════════════
+
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+The June projections invert the committee's directional bias. In March the
+median dot saw a CUT (3.4%) and NOT ONE participant projected a 2026 hike.
+In June the median sits at 3.8% — at/above the current 3.625% midpoint — and
+NINE of 18 participants pencil in at least one 2026 hike. The driver is a
+single variable: the 2026 headline PCE forecast jumped +0.9 (2.7% → 3.6%),
+core +0.6 (2.7% → 3.3%). Growth is slightly softer and unemployment slightly
+LOWER, so this is purely an inflation repricing, not a labor/growth story —
+the committee is choosing to hold against inflation despite an admittedly
+softening labor market. This ratifies the post-April hawkish drift in the
+speeches and the three April-29 dissents against the easing bias.
+
+════════════════════════════════════════════════════════════════════════
+MEDIAN PROJECTIONS — MARCH → JUNE (the diff is the signal)
+════════════════════════════════════════════════════════════════════════
+                        2026          2027          2028        Longer Run
+─────────────────────────────────────────────────────────────────────
+Real GDP        Mar     2.4           2.3           2.1           2.0
+                Jun     2.2           2.3           2.2           2.0
+                Δ      -0.2 ↓          0           +0.1          0
+                        (slightly softer near-term growth)
+
+Unemployment    Mar     4.4           4.3           4.2           4.2
+                Jun     4.3           4.3           4.2           4.2
+                Δ      -0.1 ↓          0             0            0
+                        (lower, NOT higher — no labor deterioration penciled)
+
+PCE inflation   Mar     2.7           2.2           2.0           2.0
+                Jun     3.6           2.3           2.0           2.0
+                Δ     +0.9 ↑↑↑       +0.1           0            0
+                        (the whole story — a near-1pp upward revision)
+
+Core PCE        Mar     2.7           2.2           2.0           —
+                Jun     3.3           2.5           2.1           —
+                Δ     +0.6 ↑↑        +0.3 ↑        +0.1          —
+                        (and it bleeds into 2027 — not seen as fully transitory)
+
+Fed Funds rate  Mar     3.4           3.1           3.1           3.1
+                Jun     3.8           3.6           3.4           3.1
+                Δ     +0.4 ↑↑        +0.5 ↑↑       +0.3 ↑         0
+─────────────────────────────────────────────────────────────────────
+
+KEY READ ON THE RATE PATH:
+• 2026 median 3.4 → 3.8: a +0.4 jump. In March the median implied roughly one
+  CUT from the current 3.625% midpoint by year-end. In June the median is
+  ABOVE the current rate — the committee's central expectation flipped from
+  "cut once" to "hold, with a real chance of a hike."
+• Longer-run rate UNCHANGED at 3.1%. The committee did NOT raise its estimate
+  of neutral. It is saying policy must stay HIGHER-FOR-LONGER relative to an
+  unchanged neutral, not that neutral moved. The intended degree of
+  restrictiveness roughly doubled: 2026 median minus longer-run was +0.3 in
+  March (3.4 vs 3.1) and is +0.7 in June (3.8 vs 3.1). [Per the CLAUDE.md
+  neutral-rate precision rule: this resolves that the higher path is a
+  restrictiveness call, not a neutral-rate re-estimate.]
+
+════════════════════════════════════════════════════════════════════════
+2026 DOT DISTRIBUTION — THE INVERSION
+════════════════════════════════════════════════════════════════════════
+Rate level        MARCH (19 dots)        JUNE (18 dots)
+─────────────────────────────────────────────────────────────────────
+2.625%                 1                      —
+2.875%                 2                      —
+3.125%                 2                      —
+3.375%                 7                      1
+3.625%  (current)      7                      8
+3.875%                 —                      3
+4.125%                 —                      5
+4.375%                 —                      1
+─────────────────────────────────────────────────────────────────────
+Median             3.375% (10th dot)      3.75% (avg of 9th & 10th)
+Range              2.625% – 3.625%        3.375% – 4.375%
+
+Directional split (vs current 3.625% midpoint):
+                        MARCH              JUNE
+  HIKE  (> 3.625%)      0 / 19  (0%)       9 / 18  (50%)
+  HOLD  (= 3.625%)      7 / 19              8 / 18
+  CUT   (< 3.625%)     12 / 19 (63%)        1 / 18  (6%)
+
+The entire dovish tail (the five dots at 2.625–3.125% in March) is GONE. The
+whole distribution shifted up and to the right by roughly two 25bp steps. The
+modal committee view moved from "cut" to a coin flip between "hold" and "hike."
+
+════════════════════════════════════════════════════════════════════════
+THE ONE FEWER DOT (19 → 18) — what it does and does NOT explain
+════════════════════════════════════════════════════════════════════════
+CONFIRMED: 19 participants in March, 18 in June — one fewer, as flagged.
+
+Accounting [INFERENCE — flag for analyst confirmation]:
+• Board of Governors is unchanged at 7. Warsh was sworn in as Chair and took
+  the seat Miran vacated; Powell stayed on as a governor and still votes (he
+  is in the June statement vote list). So the net −1 is NOT a board seat.
+• The net-missing dot is therefore a regional president who did not submit —
+  most likely ATLANTA (Bostic retired Feb 2026; interim president, not yet
+  posting speeches). Confirm against the official PDF.
+
+SEPARATELY — a hawkish composition SWAP inside the board: Miran (the
+committee's deepest dove — the lone 2.625% dot in March and the lone March-18
+cut dissenter) departed and his seat is now Warsh (hawkish). Dove-out / hawk-in
+tilts the board's dots up independent of anyone changing their mind.
+
+CRITICAL — do NOT over-attribute to composition: the +0.4 median jump and the
+collapse of the dovish tail (5 sub-current dots → 1) CANNOT be explained by
+losing or swapping one participant. The median is set by the 9th–10th dots,
+far from the tail; roughly 13–14 participants moved their own dots up. This is
+a genuine, broad, inflation-driven repricing. The lost/swapped dot reinforces
+the hawkish optics but is a second-order effect, not the cause.
+
+════════════════════════════════════════════════════════════════════════
+EVALUATION AGAINST THE SPEECHES (since the April 29 FOMC)
+════════════════════════════════════════════════════════════════════════
+The SEP confirms — and formalizes into the committee's central forecast — the
+hawkish drift already visible in the speech record:
+
+• THE APRIL-29 DISSENTERS WON. Logan, Hammack, and Kashkari dissented Apr 29
+  against the easing-bias language. The June statement DROPPED the easing bias
+  AND the dots moved up two steps. Their dissent was a leading indicator of the
+  committee's center of gravity, exactly as the bottom-up language cycle predicts.
+
+• WALLER (Apr 17, "sequence of transitory shocks"; first voter to say he'd hold
+  even if the labor market weakens). The SEP's hold-despite-lower-unemployment,
+  inflation-driven path is the numerical expression of that framework.
+
+• POWELL (Apr 29 Q&A): two explicit pre-cut conditions named ("backside of the
+  energy shock" AND "progress on tariffs") plus a "next two quarters" deadline.
+  The median dot sees NO 2026 cut — fully consistent.
+
+• PAULSON, median voter: explicit inflation-first bar — "if inflation is above
+  2 percent and has been for some time, I would be more cautious." With PCE
+  penciled at 3.6% for 2026, that bar implies no cuts; the 3.75% median dot
+  sits right where her framework points.
+
+• GOOLSBEE (non-voter): "not obvious our interest rate policy is even
+  restrictive" — consistent with the upper dot cluster (4.125%, 4.375%).
+
+THE TENSION TO WATCH (bottom-up language-cycle gap):
+The dots are MORE hawkish than the statement. Half the committee pencils a 2026
+hike, yet the statement moved only from an easing bias to NEUTRAL ("attentive
+to the risks to both sides"), not to a tightening bias. Individual hawkish
+positioning has NOT yet consolidated into committee guidance. Two readings,
+both worth holding:
+  (a) Leading indicator — if inflation stays ~3.6%, a tightening bias could
+      surface in a future statement; the dots front-run the language.
+  (b) Warsh anchoring consensus — the new Chair's first meeting produced a
+      UNANIMOUS hold with neutral guidance despite a hawkish dot field,
+      suggesting he is restraining the hawks into consensus rather than
+      ratifying them. Watch his press conference (5pm) for which way he leans.
+
+════════════════════════════════════════════════════════════════════════
+NET READ
+════════════════════════════════════════════════════════════════════════
+Decisively HAWKISH SEP — the most hawkish quarter-over-quarter dot shift of
+the cycle. The committee abandoned its cutting bias and now sees policy
+holding higher-for-longer against an unchanged neutral, on a near-1pp upward
+inflation revision driven by the energy shock and tariff pass-through. The
+labor/growth side gives no cover for cuts. The half-committee 2026 hike signal
+is the new watch item: it is not yet in the statement, and whether it migrates
+there depends on the next two inflation prints.
+
+ANALYST FLAGS:
+1. Confirm the missing participant (Atlanta interim assumed) and whether Warsh
+   submitted a June dot — sharpens the board composition read.
+2. Verify the per-dot histogram counts against the official SEP PDF overnight.
+   (Cross-check passes: computed medians 3.375% Mar / 3.75% Jun match the
+   published table medians 3.4 / 3.8.)
+3. Dots-vs-statement gap: is the committee one hot inflation print away from a
+   tightening bias? Frame for the Warsh press conference and tomorrow's review.
+
+RETRIEVAL NOTE: SEP table + dot distribution retrieved directly from the Fed
+projection-table pages (links above). Medians are high-confidence and
+internally consistent; per-dot counts are as-extracted and will be reconciled
+against the official PDF in tomorrow morning's canonical report.
+════════════════════════════════════════════════════════════════════════
