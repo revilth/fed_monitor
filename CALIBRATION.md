@@ -1,12 +1,26 @@
 # Speaker Calibration Notes
 
-Last updated: 2026-04-28. Update after any speech that shifts a speaker's stance or introduces new tracked language.
+Last updated: 2026-06-18. Update after any speech that shifts a speaker's stance or introduces new tracked language.
 
 ---
 
 ## Troika
 
-**Powell** — Term as Chair ended May 15, 2026. Kevin Warsh cleared the Senate Banking Committee on April 29 (announced by Powell at the press conference). Powell stays on the Board as a governor, committed to a "low profile" and working with Warsh. Key signals from the Apr 29 press conference: (1) "labor demand has clearly softened" — first Troika-level demand-side labor admission; (2) HAWKISH Q&A: two explicit pre-cut conditions named — "backside of the energy shock" AND "progress on tariffs" must both occur "before we even thought about reducing rates"; (3) STACKING LOGIC adopted explicitly: "we're already looking through the tariff shock, so [looking through energy] requires more caution" — Troika-level adoption of the Waller/Barkin "sequence of shocks" framework; (4) "next two quarters" deadline for tariff pass-through to dissipate. Q&A is considerably more hawkish than the opening statement. Before Apr 29, Powell gave zero economic outlook speeches in 2026.
+**Warsh** — Chair as of May 2026; first FOMC press conference June 17, 2026. This is now the primary Troika calibration entry. Key signals from June 17:
+
+INFLATION: Hard 2.0% target — "zero is to the right of the decimal point." Explicitly rules out target reconsideration before 2% is hit. The "five years above 2%" framing is in the opening statement (committee-approved). Not a symmetric AIT framework.
+
+LABOR: Deliberately reframed labor as adequate ("kept pace with the workforce"), rejecting Powell's "labor demand has clearly softened" framing. In Q&A, explicitly rejected Phillips-curve tradeoff: "I don't believe we have a cruel choice... we can make strong growth, low prices and strong employment mutually compatible." Will NOT concede a labor sacrifice in pursuing price stability.
+
+FORWARD GUIDANCE: Removed entirely ("not well suited to the current policy conjuncture"). Academic critique of forward guidance is now operational policy. "At least as currently structured" re: SEP signals reform in progress — Warsh withheld his own dot. Likely reducing press conference frequency from 8/year (one per meeting) to fewer — "when you have one, you want to make sure you have something important to say."
+
+HIKE RISK: Explicitly quantified — "half of the members of the FOMC expect rate hikes as soon as this year." The opening statement is neutral; the Q&A amplifies the hawkish tail. Warsh is anchoring a unified 12–0 hold consensus while leaving the right tail visible.
+
+INSTITUTIONAL REFORM: Five task forces launched (communications, balance sheet, data, productivity/jobs, causes of inflation). The data task force signals Warsh views current official statistics as methodologically inadequate — raises the bar for reacting to individual prints. Most to conclude by fall/year-end.
+
+TRACKED LANGUAGE: "The recent past need not be prologue" (opening statement; committee-level). "The Committee will deliver price stability" (statement; committee-level). "Zero is to the right" (Q&A; personal). "We can make strong growth, low prices and strong employment mutually compatible" (Q&A; personal).
+
+**Powell** — Term as Chair ended May 15, 2026. Stays on the Board as a governor, committed to a "low profile" and working with Warsh. No anticipated economic outlook speeches. Key legacy calibration: Apr 29 press conference — (1) "labor demand has clearly softened" (now inverted by Warsh); (2) two explicit pre-cut conditions ("backside of the energy shock" AND "progress on tariffs"); (3) "next two quarters" deadline for tariff pass-through; (4) stacking logic adopted. Powell's pre-cut conditions framework remains analytically relevant even under Warsh.
 
 **Jefferson** — Uses the three-topic structure cleanly. FOMC statement echoing is very close to verbatim; personal additions are where the signal lives. Key language to track: "susceptible to adverse shocks" (labor qualifier, first appeared Apr 7) and "upside risk to my inflation forecast" (inflation qualifier, appeared Apr 7 — not yet in statement).
 

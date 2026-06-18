@@ -1,0 +1,543 @@
+FED MONITOR — DAILY UPDATE (FOMC DAY — CANONICAL)
+════════════════════════════════════════════════════════════════
+Date: June 17, 2026
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+⚠ FOMC DAY — This report is the CANONICAL FINALIZER that supersedes the two
+same-day provisional alerts emailed June 17:
+  (1) Statement diff alert — data/reports/fomc/20260617_statement_diff.txt
+      [A corrected run had already superseded the 2:05pm provisional before EOD]
+  (2) Press conference provisional — data/reports/fomc/20260617_pressconf_provisional.txt
+  (3) SEP / dot-plot alert — data/reports/fomc/20260617_SEP_dotplot.txt
+
+OFFICIAL TRANSCRIPT STATUS: The Federal Reserve preliminary PDF
+(FOMCpresconf20260617.pdf) returned HTTP 403 as of both the June 17 evening
+run AND this June 18 morning run. This report uses the provisional news-
+reconstructed transcript (data/raw/pressconferences/20260617_pressconf_provisional.txt)
+supplemented by additional web-search verification of key quotes (sources cited
+below). All analyst flags from the provisional are carried forward; further
+confirmation against the official PDF is required when access is restored.
+════════════════════════════════════════════════════════════════
+
+DOCUMENTS TODAY (June 17, 2026)
+  1. Kevin Warsh  |  Chair  |  Troika
+     FOMC Statement — June 17, 2026 (Type C)
+     HOLD 3-1/2 to 3-3/4 percent  |  12–0 UNANIMOUS  |  Structural rewrite
+  2. Kevin Warsh  |  Chair  |  Troika
+     FOMC Press Conference (Type E) — First as Chair
+     Washington, D.C.
+  3. FOMC Summary of Economic Projections / Dot Plot (Type I) — SEP
+     [Full analysis: data/scored/sep/20260617_SEP_scored.txt]
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  FOMC STATEMENT — June 17, 2026  (Type C)
+    Warsh's First  |  HOLD  |  12–0  |  STRUCTURAL REWRITE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RATE DECISION
+  HOLD at 3-1/2 to 3-3/4 percent (3.50–3.75%). Fifth consecutive hold; first
+  under Chair Warsh.
+
+VOTE
+  June 17:  12–0 UNANIMOUS.
+  April 29: 8–4 (Miran preferred a cut; Hammack, Kashkari, Logan opposed the
+            easing-bias language).
+  Change:   −4 dissenters. The three April hawks fall in line — their stated
+            objection (the easing bias) is now GONE. Miran departed May 2026;
+            the dovish dissent seat is gone. All four factions resolved.
+
+VOTING MEMBERS [INFERRED — press-release page 403; names from 2026 voter list]:
+  Kevin Warsh (Chair), Philip N. Jefferson (Vice Chair), John C. Williams,
+  Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Jerome H. Powell,
+  Christopher J. Waller (Board Governors); Anna Paulson (Philadelphia),
+  Beth M. Hammack (Cleveland), Neel Kashkari (Minneapolis), Lorie K. Logan
+  (Dallas) (rotating regional). Voting against: none.
+  NOTE: Confirm full name roster against the official press-release PDF when
+  accessible. The 12-count is confirmed; names [INFERRED] from 2026 rotation.
+
+─── SENTENCE-BY-SENTENCE DIFF (Prior = Apr 29, 2026 | New = Jun 17, 2026) ───
+
+GROWTH (HAWKISH-LEAN)
+  Prior: "Recent indicators suggest that economic activity has been expanding
+          at a solid pace."
+  New:   "Economic activity is expanding at a solid pace despite elevated
+          uncertainty that owes, in part, to the conflict in the Middle East.
+          Productivity growth and capital investment are strong."
+  Changes: (1) "Recent indicators suggest…has been expanding" → "is expanding"
+               — more direct, present-tense, no hedging.
+           (2) ADDED: "despite elevated uncertainty…conflict in the Middle East"
+               — names the geopolitical source; not a demand-side growth concern.
+           (3) ADDED: "Productivity growth and capital investment are strong."
+               — new supply-side resilience sentence; removes growth-slowdown
+               rationale for cuts.
+  Direction: HAWKISH-LEAN.
+
+LABOR (HAWKISH — most consequential single change)
+  Prior: "Job gains have remained low, on average, and the unemployment rate
+          has been little changed in recent months."
+  New:   "Job gains have kept pace with the workforce, and the unemployment
+          rate has changed little."
+  Change: "remained low, on average" → "kept pace with the workforce."
+  This reframes soft payrolls as ADEQUATE given slower labor-supply growth
+  (immigration decline, participation) — the exact opposite of Powell's Apr 29
+  Q&A admission "labor demand has clearly softened." The committee is no longer
+  flagging labor as a reason to cut.
+  Direction: HAWKISH.
+
+INFLATION (STRONGLY HAWKISH — multiple layered additions)
+  Prior: "Inflation is elevated, in part reflecting the recent increase in
+          global energy prices."
+  New:   "Inflation remains elevated relative to the Committee's 2 percent
+          goal, in part reflecting supply shocks that have driven price
+          increases in certain sectors, including energy. The Committee will
+          deliver price stability."
+  Changes: (1) "is elevated" → "remains elevated" — persistence framing.
+           (2) ADDED: "relative to the Committee's 2 percent goal" — re-anchors
+               the target explicitly.
+           (3) "recent increase in global energy prices" → "supply shocks that
+               have driven price increases in certain sectors, including energy"
+               — the Waller/Barkin "sequence of supply shocks" framing is now
+               IN the statement. Language cycle: DISPERSED → EMERGING →
+               COMMITTEE-WIDE → IN STATEMENT (cycle completed).
+           (4) ADDED: "The Committee will deliver price stability." — declarative
+               commitment; unusual formulation for an FOMC statement.
+  Direction: STRONGLY HAWKISH.
+
+IMPLEMENTATION (NEUTRAL on rates)
+  Prior: "The Committee decided to maintain the target range for the federal
+          funds rate at 3-1/2 to 3-3/4 percent."
+  New:   "The Committee decided to maintain the target range for the federal
+          funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal
+          Reserve's dual mandate. The Committee also reaffirmed its policy of
+          maintaining ample reserves in the banking system."
+  Change: Rate UNCHANGED. Added dual-mandate phrase + ample-reserves sentence.
+  Direction: NEUTRAL (no QT acceleration signaled).
+
+FORWARD GUIDANCE (HAWKISH — structural deletion)
+  Prior: "The Committee will continue to monitor the implications of incoming
+          information for the economic outlook and remains prepared to adjust
+          policy if risks emerge threatening its dual mandate objectives."
+  New:   REMOVED — no forward-guidance sentence at all. Confirmed absent across
+          two retrievals. The prior easing bias language is gone; NOT replaced.
+  Direction: HAWKISH + structural. "Will deliver price stability" becomes the
+  de facto stance signal.
+
+BIG PICTURE: This is a STRUCTURAL REWRITE, not an edit. Statement length dropped
+from ~300+ words to ~130 words. More declarative/present-tense throughout. An
+explicit price-stability commitment. Forward guidance eliminated. Every change
+points the same direction. The 8–4 → 12–0 swing is explained entirely by removal
+of the easing-bias language the three April hawks objected to.
+
+NET READ (Statement): DECISIVELY HAWKISH. Cycle stays HOLDING, but the bias has
+flipped from "leaning toward cutting when conditions allow" to two-sided with
+rising hike risk. Warsh's known preference for minimal forward guidance is now
+operational policy.
+
+STATEMENT CORRECTIONS VS. 2:05pm PROVISIONAL:
+  The corrected statement diff (emailed same day) already superseded the 2:05pm
+  provisional. That run hit HTTP 403 and reconstructed from snippets — it missed
+  the structural rewrite, wrongly inferred the labor line unchanged, invented a
+  "attentive to risks to both sides" replacement sentence that does NOT exist, and
+  carried over old templates. No further corrections to the statement text are
+  required; the corrected diff is now confirmed high-confidence.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  FOMC PRESS CONFERENCE — June 17, 2026  (Type E)
+    Warsh's First  |  HOLD  |  12–0  |  Provisional transcript: reused
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOTE ON TRANSCRIPT STATUS: Official PDF still returns HTTP 403 as of June 18
+morning. This analysis uses the provisional news-reconstructed transcript,
+supplemented by additional web-search cross-checking overnight. Key quotes
+verified across three or more independent sources. All quotes should be
+re-verified when the official transcript becomes accessible.
+
+─────────────────────────────────────────────────────────────────────
+OPENING STATEMENT — COMMITTEE CONSENSUS (approved language)
+─────────────────────────────────────────────────────────────────────
+
+GROWTH
+  Warsh opened with the June 17 statement text (confirmed verbatim in opening).
+  Genuinely new vs. Powell's April 29 opening: explicit Middle East naming
+  and the "Productivity growth and capital investment are strong" sentence.
+  Powell's Apr 29 opening: "solid pace" + "business fixed investment has
+  continued to expand at a brisk pace" + "housing remains weak." Warsh's
+  version drops housing weakness and reframes investment as structural strength.
+  Direction: HAWKISH-LEAN.
+
+LABOR
+  Warsh opening carried "kept pace with the workforce" — fully new vs. Powell
+  Apr 29 opening ("job gains have remained low"). Powell's Apr 29 Q&A admission
+  "labor demand has clearly softened" is entirely absent from Warsh's opening.
+  Direction: HAWKISH — removes the labor-market-softening rationale for easing.
+
+INFLATION
+  Four-part inflation block — ALL elements are new vs. Powell's Apr 29 opening:
+  (1) "Inflation remains elevated relative to the Committee's 2 percent goal,
+      in part reflecting supply shocks that have driven price increases in
+      certain sectors, including energy."
+  (2) "The Committee will deliver price stability."
+  (3) "We recognize that inflation has been running well ahead of the Fed's
+      long-stated inflation goal of 2%. That's been going on for more than
+      five years."
+  (4) "Persistently high prices are a burden for the American people, but the
+      recent past need not be prologue."
+  Note: the word is "prologue" (confirmed from multiple sources) — the
+  provisional alert contained the truncation "prolog," now corrected.
+  The "five years above 2%" framing is the first time any Chair has used
+  explicit duration language in an opening statement. It signals the bar for
+  "mission accomplished" has been intentionally raised.
+  "The recent past need not be prologue" signals deliberate discontinuity from
+  the Powell-era approach. Absent from any prior Powell opening statement
+  (confirmed absent Apr 29).
+  Direction: STRONGLY HAWKISH.
+
+MONETARY POLICY / STATEMENT STRUCTURE
+  Warsh explicitly acknowledged the statement changes in the opening:
+  "It's a bit shorter, a bit simpler, and it dispenses with some older language."
+  "Absent, also, is so-called forward guidance, which we agreed was not well
+  suited to the current policy conjuncture."
+  Note: "current policy conjuncture" is narrow — applies to now, not necessarily
+  permanently. Warsh's long-held academic critique of forward guidance predates
+  this conjuncture. [Inference: the diplomatic framing may understate the
+  permanence of the removal.]
+
+  FIVE TASK FORCES ANNOUNCED (new element; no precedent in prior openings):
+  Charged with reviewing: (1) communications, (2) balance sheet, (3) data
+  ("use and reliance on existing data sources"), (4) productivity and jobs,
+  (5) causes of inflation. Charge (verbatim): "Start with first principles.
+  Ask hard questions. Examine current practice. Consider alternatives. And
+  ultimately propose next steps for policymaker consideration." Timeline: most
+  to conclude "this fall or by end of year."
+
+  PRICE STABILITY COMMITMENT (bridging opening to Q&A):
+  "The commitment to deliver is strong, unanimous, and unambiguous, and that's
+  I think an important message we've missed for five years, and we're going to
+  fix that."
+  The candid acknowledgment the Fed "missed" this message for five years is a
+  direct (if implicit) critique of Powell-era forward guidance and the 2020 AIT
+  framework. This is committee-level language (opening statement), not personal.
+  Direction: HAWKISH (structure + institutional reset).
+
+─────────────────────────────────────────────────────────────────────
+Q&A — CHAIR'S PERSONAL SIGNALS (unscripted; Warsh's personal baseline)
+─────────────────────────────────────────────────────────────────────
+
+This is Warsh's first press conference as Chair. The Q&A establishes his
+personal baseline — not a shift from a prior Warsh press conference. Compare
+against his pre-confirmation public record; flag divergences.
+
+KEY Q&A SIGNALS (6 bullets where the Q&A added to or went beyond the opening):
+
+1. ON THE 2% TARGET — zero-tolerance framing goes beyond the statement:
+   "That is the Federal Reserve's long-held objective of 2%. The 'two' is the
+   left of the decimal point. For now, 'zero' is to the right."
+   [Confirmed verbatim by web search across multiple sources.]
+   Additional context: "I see no reason until we have reestablished our
+   commitment and ability to deliver on the 2% inflation objective to revisit
+   that." — explicitly rules out target reconsideration before 2% is hit.
+   Signal: Warsh's personal bar for "done" on inflation is exactly 2.0%, not
+   "near 2%." The zero-tolerance framing is harder than any Powell Q&A in
+   2025–2026. ANALYST FLAG: verify exact phrasing against official transcript.
+
+2. ON THE DOT PLOT / SEP — confirms abstention; signals reform:
+   "I, however, have refrained from offering any projections of my own,
+   consistent with my long-held views on the SEP, at least as currently
+   structured."
+   "I did not submit a dot for me. It's not helpful in the conduct of policy."
+   (a) Confirms Warsh is the missing 19th → 18th dot (March 19 vs June 18).
+   (b) "At least as currently structured" is a key hedge — signals the SEP
+   format is under active review via the communications task force.
+   (c) Explicitly characterizing a core communication tool as "not helpful" is
+   a strong signal it will be reformed or eliminated — likely by September.
+
+3. ON THE HIKE SIGNAL IN THE DOTS:
+   "Despite the recent pullback in oil, half of the members of the FOMC expect
+   rate hikes as soon as this year, reflecting strong labor market and inflation
+   data."
+   The opening statement carries no tightening bias. The Q&A quantifies the
+   latent hike risk explicitly ("half," "as soon as this year") and attributes
+   it to BOTH labor AND inflation, despite the SEP's unemployment projection
+   going DOWN. Warsh reads the labor market as no longer a dovish offset —
+   consistent with the "kept pace with the workforce" reframe.
+
+4. ON FEWER PRESS CONFERENCES — new signal not in provisional:
+   Warsh hinted at reducing the frequency of press conferences from the current
+   8-per-year schedule (one per meeting under Powell): "when you have one, you
+   want to make sure you have something important to say."
+   If Warsh returns to 4 press conferences per year (the pre-2019 format), the
+   inter-meeting information environment changes substantially — fewer scheduled
+   Chair signals, higher weight on non-press-conference communications, more
+   ambiguity between meetings. This is consistent with the communications
+   task force mandate.
+   ANALYST FLAG: Confirm whether this was a direct statement of intent to reduce
+   frequency or a general communication philosophy remark.
+
+5. ON THE DUAL MANDATE — implicit rejection of Phillips-curve tradeoff:
+   "I don't believe that we have a cruel choice. I don't share the view that
+   was expressed a few generations ago that the Federal Reserve chairman show
+   up at the podium and say you've got to choose, and you're going to have to
+   decide whether you're willing to tolerate higher inflation to put more people
+   at work."
+   "What I believe is if we do our job, we can make strong growth, low prices
+   and strong employment mutually compatible."
+   This is Warsh's explicit rejection of the Volcker/Phillips-curve tradeoff
+   framing. Combined with the "kept pace with the workforce" statement reframe,
+   it signals he will NOT concede a labor-market sacrifice in pursuing price
+   stability. This is meaningful: it defends against the political argument
+   that the holding stance will cost jobs — Warsh preemptively contests the
+   premise. Absent from the opening statement; this is personal Q&A signaling.
+
+6. ON DATA QUALITY — task force context:
+   "Most of the data that central bankers and other government officials in the
+   United States consume come with old-fashioned survey methods."
+   "I'm really open-minded that there is a lot of new data sources, that we
+   can learn from the private sector, from reforms in the official sector and
+   new analytic techniques."
+   This goes beyond announcing a data task force — Warsh is signaling that the
+   data the Fed currently uses to make decisions (including the SEP projections)
+   may be methodologically inadequate. Potential policy implication: if data
+   quality is suspect, the bar for acting on individual data prints is higher —
+   a hawkish lean (don't react to one or two soft reports). Also signals the
+   SEP projections themselves may carry reduced weight under Warsh.
+
+─────────────────────────────────────────────────────────────────────
+QUOTE CORRECTIONS VS. THE PROVISIONAL ALERT
+─────────────────────────────────────────────────────────────────────
+1. "prolog" → "prologue" in "The recent past need not be prologue."
+   Confirmed via web search from multiple independent sources. The provisional
+   used "prolog" (a truncation). Not a material meaning change, but corrected
+   for verbatim accuracy.
+2. Three additional Q&A bullets added (items 4, 5, 6 above) not captured in
+   the provisional: fewer press conferences, dual mandate / no cruel choice,
+   data quality. These are new analytical content, not corrections to existing
+   quotes.
+3. All other quotes from the provisional verified consistent across web search.
+   No material changes to items 1–3 (2% target, dot plot, hike signal).
+4. "The recent past need not be prologue" — provisional flagged for analyst
+   confirmation whether this was in the opening statement or Q&A. Based on the
+   provisional raw transcript structure, it appears in the OPENING STATEMENT.
+   Still requires official transcript confirmation. [ANALYST FLAG remains.]
+
+─────────────────────────────────────────────────────────────────────
+vs. PREVIOUS PRESS CONFERENCE (April 29, 2026 — Chair Powell, final)
+─────────────────────────────────────────────────────────────────────
+NOTE: This compares committee opening-statement language (committee consensus).
+Warsh's Q&A is his personal baseline, not a shift from Powell's Q&A.
+
+GROWTH: Powell Apr 29: "solid pace" + "business fixed investment continued to
+  expand at a brisk pace" + "housing remains weak." Warsh Jun 17: "solid pace"
+  (carried over) + "Productivity growth and capital investment are strong" (NEW)
+  + Middle East named explicitly (NEW). Housing dropped. Direction: HAWKISH-LEAN.
+
+LABOR: Powell Apr 29: "job gains have remained low, the unemployment rate has
+  been little changed in recent months." Warsh Jun 17: "kept pace with the
+  workforce" (directional INVERSION). "Labor demand has clearly softened"
+  (Powell Apr 29 Q&A) entirely absent from Warsh opening. Direction: HAWKISH.
+
+INFLATION: Powell Apr 29: "Inflation has moved up and is elevated, in part
+  reflecting the recent increase in global energy prices." Warsh Jun 17: all
+  four inflation elements (persistence + target re-anchor + supply shocks +
+  "deliver price stability") are genuinely NEW (confirmed absent Apr 29).
+  Direction: STRONGLY HAWKISH — every element intensified or added.
+
+POLICY: Powell Apr 29: full forward-guidance paragraph present — "well positioned
+  to determine the extent and timing of additional adjustments...meeting by
+  meeting basis." Warsh Jun 17: ENTIRE GUIDANCE BLOCK REMOVED. Direction: HAWKISH.
+
+DISSENTS: Powell Apr 29: 8–4. Warsh Jun 17: 12–0. Hawks' objection (easing bias)
+  removed; dove (Miran) departed. Committee formally united.
+
+vs. COMMITTEE SINCE PREVIOUS FOMC (Apr 29 → Jun 17):
+  The hawkish drift in inter-meeting speeches (Waller, Paulson, Logan, Hammack,
+  Kashkari, Barkin) is fully ratified by the June statement and SEP. The three
+  Apr-29 dissenting hawks (Logan, Hammack, Kashkari) fall in line — their stated
+  condition was met. The language-cycle prediction from the Apr-29 statement diff
+  (easing bias would be gone by June) is confirmed. Waller/Barkin "sequence of
+  supply shocks" framing has completed its language cycle from dispersed to
+  in-statement (now in two consecutive statements).
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  SEP / DOT PLOT — June 17, 2026  (Type I)  [SUMMARY]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Full scored analysis: data/scored/sep/20260617_SEP_scored.txt]
+
+HEADLINE: Decisively HAWKISH — the most hawkish quarter-over-quarter dot shift
+of the cycle. 2026 median dot 3.4% (Mar) → 3.8% (Jun). 9 of 18 participants
+now pencil a 2026 HIKE vs. 0 of 19 in March. 2026 PCE median +0.9pp (2.7% →
+3.6%); core PCE +0.6pp (2.7% → 3.3%). Growth slightly softer (−0.2), unemployment
+slightly LOWER (−0.1) — this is a pure inflation repricing, not a labor/growth
+story. Intended restrictiveness (median minus longer-run neutral 3.1%) doubled:
++0.3 in March → +0.7 in June. The dovish dot tail (five sub-current dots in
+March) is gone; one sub-current dot remains. 18 participants vs. 19 in March —
+net-missing dot inferred as Atlanta interim (Bostic retired Feb 2026); separately,
+Warsh confirmed he withheld his dot (explains one seat shift). Miran departure
+(hawk-in / deep-dove-out) reinforces hawkish optics but is NOT the cause of the
+median jump — roughly 13–14 participants moved their own dots.
+
+KEY TENSION (dots vs. statement gap): Half the committee pencils a 2026 hike,
+yet the statement contains no tightening bias — only neutral language. Individual
+hawkish positioning has NOT yet consolidated into committee guidance. Two readings:
+(a) dots lead the statement — if inflation stays ~3.6%, tightening bias could
+surface in a future statement; (b) Warsh is restraining hawks into consensus —
+the unanimous hold with neutral guidance suggests he is anchoring a broader
+coalition rather than ratifying the hawkish tail. The inter-meeting speeches
+will be the key data points; watch whether "half the committee expects a hike"
+migrates to any voter's public remarks.
+
+SEP PROVISIONAL ALERT CORRECTIONS: None material. The dot counts and medians
+from the scored file are self-consistent and were cross-checked against the
+published projection table. Per-dot histogram counts will be reconciled against
+the official SEP PDF when accessible.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CROSS-DOCUMENT NOTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The three Warsh documents (statement, opening statement, Q&A) are internally
+consistent and mutually reinforcing:
+• Statement drops labor-softening language → Opening confirms this is deliberate
+  (labor "kept pace") → Q&A adds "I don't believe we have a cruel choice" to
+  preempt the tradeoff argument.
+• Statement commits to "deliver price stability" → Opening escalates to "missed
+  this message for five years" → Q&A delivers "zero is to the right" as the
+  hard operational target.
+• Statement removes forward guidance → Opening explains it "was not well suited
+  to the current policy conjuncture" → Q&A reveals Warsh views forward guidance
+  as structurally problematic, not merely temporarily mismatched.
+• SEP dots (50% see a hike) → Q&A explicitly quantifies this ("half the
+  members...expect rate hikes as soon as this year").
+All four documents align. There is no statement/Q&A gap — the Q&A amplifies,
+not contradicts, the statement.
+
+NET SIGNAL (June 17 FOMC): DECISIVELY HAWKISH — structural break. The cycle
+stays HOLDING but the bias has flipped from leaning-toward-cutting to
+two-sided with rising hike risk. The committee formally united (12–0) precisely
+by removing the easing bias. Any 2026 rate-cut pricing should be re-evaluated
+against a 50% committee hike probability in the SEP and a Chair who has defined
+2% as the only acceptable endpoint.
+
+
+════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH
+────────────────────────────────────────────────────────────────
+• "The 'two' is the left of the decimal point. For now, 'zero' is to the right."
+  — Warsh's personal inflation target framing. Watch for voter echoes; if it
+  spreads, it signals a harder-than-AIT consensus is solidifying. Stage:
+  PERSONAL (Chair Q&A only).
+
+• "The recent past need not be prologue." — New Chair's signaling phrase.
+  Appeared in opening statement (committee-approved). Watch for migration to
+  voter speeches. Stage: IN OPENING STATEMENT.
+
+• "Supply shocks that have driven price increases in certain sectors" — the
+  Waller/Barkin "sequence of shocks" framing. Language cycle COMPLETED:
+  now IN STATEMENT for the second consecutive meeting. Stage: IN STATEMENT.
+
+• "Productivity growth and capital investment are strong." — New supply-side
+  resilience sentence. Watch if it migrates to voter speeches before the next
+  meeting; would formalize a more optimistic growth view reducing cut rationale.
+  Stage: IN STATEMENT (new).
+
+• "At least as currently structured" (re: SEP) — watch for SEP reform proposal
+  before September. If Warsh refrains from the September dot submission as well,
+  the SEP's days as a primary communication tool are numbered. Stage:
+  PERSONAL (Chair Q&A only).
+
+• "When you have one, you want to make sure you have something important to say"
+  (re: press conferences) — potential signal of reduced press conference
+  frequency from 8/year to 4/year. Structural change in the inter-meeting
+  information environment if enacted. Stage: PERSONAL (Chair Q&A only).
+  ANALYST FLAG: Confirm intent vs. general philosophy remark.
+
+• "I don't believe we have a cruel choice" / "mutually compatible" — Warsh's
+  dual-mandate framing that rejects Phillips-curve tradeoff. Watch if this
+  migrates to voter speeches; would signal committee-level rejection of the
+  "hold = employment sacrifice" argument. Stage: PERSONAL (Chair Q&A only).
+════════════════════════════════════════════════════════════════
+
+ANALYST FLAGS
+────────────────────────────────────────────────────────────────
+1. PRIORITY: Verify all quotes against official PDF when it becomes accessible.
+   Top-priority: "zero is to the right" exact phrasing; "prologue" vs. "prolog"
+   (now corrected); "recent past need not be prologue" placement (opening vs.
+   Q&A).
+2. Confirm Warsh explicitly stated intent to reduce press conference frequency,
+   or whether "when you have one, you want to make sure..." is philosophy only.
+3. Confirm the missing SEP participant is Atlanta interim (not another bank).
+4. Confirm Warsh withheld his dot intentionally (confirmed via Q&A; reconcile
+   the exact quote against the official transcript).
+5. Confirm whether Warsh was asked about Fed independence in Q&A — notable
+   absence given Powell's Apr 29 press conference was dominated by that topic.
+6. Confirm whether Warsh read out specific PCE/core PCE numbers in the opening
+   (a Powell practice) or chose a leaner style — consistent with CLAUDE.md flag.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — FRIDAY June 19, 2026
+────────────────────────────────────────────────────────────────
+BLACKOUT STATUS: The June FOMC blackout period (June 6–18) officially ends
+today (June 18). June 19 is the first blackout-free day.
+
+NOTE: June 19, 2026 is Juneteenth National Independence Day — a federal holiday.
+Federal Reserve offices are closed. No speeches are expected. The Fed events
+calendar shows no scheduled appearances for June 19.
+
+NEXT FOMC: July 28–29, 2026 (blackout begins July 18, 2026).
+First post-blackout day for speeches: June 19 (holiday) → substantive Fed
+speaking calendar resumes the week of June 22, 2026.
+
+(None confirmed for June 19 — federal holiday)
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+FOMC Statement (June 17, 2026):
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+  [HTTP 403 as of June 18 morning run; text retrieved live June 17 and stored:
+   data/raw/statements/20260617_FOMC_Statement.txt]
+
+Press Conference — Official YouTube:
+  https://www.youtube.com/watch?v=fR7oZvlk_eY  (confirmed official Fed channel)
+  https://www.youtube.com/watch?v=aKllbvCaWvo  (alternate URL from prior run)
+
+Press Conference — Preliminary PDF Transcript:
+  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260617.pdf
+  [HTTP 403 as of June 18 morning run; using provisional reconstruction:
+   data/raw/pressconferences/20260617_pressconf_provisional.txt]
+
+Prior FOMC Statement (April 29, 2026):
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+
+Prior Press Conference Transcript (April 29, 2026 — Powell, final):
+  data/raw/pressconferences/20260429_FOMC_Pressconf_FedOfficial_full.txt
+
+Statement Diff Alert (June 17, 2026 — corrected):
+  data/reports/fomc/20260617_statement_diff.txt
+
+SEP / Dot Plot scored file (June 17, 2026):
+  data/scored/sep/20260617_SEP_scored.txt
+
+SEP Alert (June 17, 2026 — provisional):
+  data/reports/fomc/20260617_SEP_dotplot.txt
+
+Media verification sources (quotes cross-checked):
+  CNBC live blog: https://www.cnbc.com/2026/06/17/fed-meeting-today-live-updates.html
+  CNBC redline: https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html
+  NPR: https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting
+  Singju Post transcript: https://singjupost.com/fed-chair-kevin-warsh-on-interest-rates-policy-decision-june-17-2026-transcript/
+  TradingView transcript: https://www.tradingview.com/news/macenews:d31687211094b:0-transcript-fed-chair-warsh-says-wants-changes-appoints-five-task-forces-but-will-keep-2-inflation-target/
+  Spectrum News (task forces): https://spectrumlocalnews.com/nys/binghamton/politics/2026/06/17/federal-open-market-committee-decisions-federal-reserve-kevin-warsh-jerome-powell-interest-rates
+  Forex Factory (dual mandate): https://www.forexfactory.com/news/1404141-feds-chair-warsh-i-dont-believe-we-have
+  American Banker: https://www.americanbanker.com/news/we-have-a-task-force-for-that-welcome-to-the-feds-warsh-era
+════════════════════════════════════════════════════════════════
+Generated: June 18, 2026 | Report type: FOMC-day canonical (Type C + Type E + Type I summary)
+Reference FOMC: June 17, 2026 | Next FOMC: July 28–29, 2026
+Finalizes provisionals: 20260617_statement_diff.txt, 20260617_pressconf_provisional.txt,
+  20260617_SEP_dotplot.txt
+════════════════════════════════════════════════════════════════
