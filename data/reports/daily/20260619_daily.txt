@@ -1,0 +1,125 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 19, 2026 (Friday — Juneteenth National Independence Day)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  — No new FOMC-member speeches on June 19, 2026.
+  NOTE: June 19 is Juneteenth National Independence Day — a federal
+  holiday. Federal Reserve offices are closed. No policy speeches
+  scheduled or expected.
+
+CORPUS UPDATE (scored today):
+  0 speeches scored. 7 pending raw files reviewed this run; all
+  classified as Type B without embedded monetary policy outlook
+  or stubs without scorable content. Details:
+
+  • 20260527_Goolsbee (BOJ Institute Conference) — Placeholder stub
+    only; no transcript text. No scorable content.
+  • 20260625_Goolsbee (Chicago Council) — Future event (Jun 25, not
+    yet occurred). Stub/announcement only.
+  • 20260714_Goolsbee (Kenosha Business Alliance) — Future event
+    (Jul 14, not yet occurred). Stub/announcement only.
+  • 20260531_Powell (JFK Profile in Courage Acceptance Remarks) —
+    Full text. Type B: institutional values, Fed independence, rule
+    of law. Zero monetary policy or economic outlook content. Skip.
+  • 20260528_Williams (Productivity Growth and Real-Time
+    Policymaking, Reykjavík) — Full text. Type B: academic/research
+    lecture on historical productivity cycles and macroeconomic
+    implications. No current economic outlook or policy stance.
+    Compares 1970s and 1990s productivity shifts; does not address
+    current cycle. Skip.
+  • 20260527_Logan (BOJ Conference — 'Monetary policy and
+    imbalances' panel) — Full text. Type B: global oil supply
+    disruption (Strait of Hormuz), Treasury market resilience, and
+    demographic/fertility trends. No monetary policy stance or rate
+    signal. Already noted as Type B in the Jun 3 scored file. Skip.
+  • 20260606_Barr (Deregulating in a Financial Boom: What Could Go
+    Wrong?, American University) — Full text. Type B: bank capital
+    requirements, stress testing, supervision, financial regulation.
+    No monetary policy or rate content. Skip.
+
+  Backlog status: 0 Type A or Type B-with-outlook files remain
+  in the backlog. All pending files are cleared.
+
+PENDING ANALYST ITEMS CARRIED FROM JUN 17:
+  Official press conference PDF (FOMCpresconf20260617.pdf) was
+  returning HTTP 403 as of the June 18 morning run. All quotes
+  in the Jun 17 canonical daily were verified via web sources
+  (multiple independent media) and remain flagged for final
+  reconciliation against the official transcript once accessible.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — SUNDAY June 21, 2026
+────────────────────────────────────────────────────────────────
+No Fed appearances expected Sunday (weekend). The first post-
+blackout opportunity for policy speeches is Monday June 22.
+
+NEXT CALENDAR DAY: Sunday June 21
+  (none confirmed)
+
+WEEK AHEAD — June 22–26, 2026 (first full post-blackout week)
+  • Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    Fireside chat at Chicago Council on Global Affairs,
+    Global Economy Dialogue Series
+    Chicago, Illinois  |  5:30 PM CT — Thursday June 25
+    Moderated by Brent Neiman (U Chicago Booth). Livestreamed.
+    SOURCE: https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+    NOTE: This is the first confirmed post-blackout speech from
+    a non-Warsh official. Goolsbee's last scored Type A is
+    May 12. June 25 will be watched closely for any update
+    on whether his "not obvious rates are restrictive" framing
+    has hardened or softened after the June 17 hawkish statement
+    rewrite and hawkish SEP. (CONFIRMED)
+
+  • Fed stress test results — Wednesday June 24 at 4:00 PM EDT
+    Annual bank stress test results for 32 large banks. Barr has
+    been vocal on deregulation risk; Governor comments may follow.
+    NOTE: Results will not affect capital requirements (unchanged
+    until 2027 pending model review). Financial stability, not
+    monetary policy, focus.
+    (CONFIRMED)
+
+  • All other June 22–26 appearances: (none confirmed)
+    No Board Governor speeches publicly announced for June 22–26
+    as of this run. Given the June 17 structural rewrite and Warsh's
+    five task forces (timeline: "this fall or by end of year"), the
+    first post-blackout week may be quiet as the Chair's new
+    communications framework is assembled. Watch for Waller, Paulson,
+    Williams, Jefferson, Logan, and Hammack announcements — each will
+    face pressure to address whether they endorse Warsh's "zero is to
+    the right of the decimal point" framing.
+
+NEXT BLACKOUT: July 18, 2026 (for the July 28–29 FOMC meeting).
+  The post-June-17 inter-meeting window runs June 19 – July 17
+  (29 days). This is the first full cycle under Chair Warsh and
+  the period when his communications norms — fewer speeches,
+  reduced forward guidance, possible press conference frequency
+  reduction — will become apparent.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No new speeches today.
+
+Reference: Jun 17, 2026 canonical daily (FOMC day, statement + press
+conference + SEP):
+  data/reports/daily/20260617_daily.txt
+
+Goolsbee Jun 25 (upcoming):
+  https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+
+Stress test results (Jun 24 announcement):
+  https://www.bloomberg.com/news/articles/2026-06-09/fed-to-release-wall-street-bank-stress-test-results-on-june-24
+
+Most recent scored speeches for cycle reference:
+  Logan, Jun 3:      https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+  Hammack, Jun 2:    https://doi.org/10.26509/sp-20260602
+  Williams, May 28:  [data/scored: Type B, not scored — last Type A: May 4]
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+════════════════════════════════════════════════════════════════
+Generated: June 20, 2026 | Report type: No-speeches (holiday)
+Reference FOMC: June 17, 2026 | Next FOMC: July 28–29, 2026
+════════════════════════════════════════════════════════════════
