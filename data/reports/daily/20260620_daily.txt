@@ -1,0 +1,119 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 20, 2026 (Saturday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  — No new FOMC-member speeches on June 20, 2026.
+  NOTE: June 20 is a Saturday. No Fed speeches are scheduled or
+  expected on weekends.
+
+CORPUS UPDATE (scored today):
+  0 speeches scored. All 7 pending raw files were classified in the
+  June 19 run as Type B without embedded monetary policy outlook or
+  as event stubs without scorable content. No new files have entered
+  the backlog since June 19. Backlog is clear.
+
+  Pending analyst items carried forward from the June 17 canonical daily:
+  • Official press conference PDF (FOMCpresconf20260617.pdf) was
+    returning HTTP 403 as of the June 18–19 morning runs. All quotes
+    in the Jun 17 canonical daily remain verified via web sources.
+    Flag for final reconciliation against the official transcript once
+    accessible.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — MONDAY June 22, 2026
+────────────────────────────────────────────────────────────────
+Post-blackout inter-meeting window status: June 19 – July 17, 2026
+(29 days). Third day of the window. Substantive policy speech
+calendar resumes this week.
+
+MONDAY JUNE 22 — CONFIRMED:
+
+  • Christopher J. Waller  |  Board Governor  |  Just Voter
+    Welcoming Remarks
+    Fifth Conference on the International Roles of the U.S. Dollar
+    Federal Reserve Board + NY Fed (joint), Washington, D.C.
+    June 22–23, 2026 (invitation-only in-person conference)
+    CLASSIFICATION EXPECTED: Type B — research conference welcome.
+    Historical pattern: Waller gave welcoming remarks at the Fourth
+    Conference in 2024 (also Type B). No economic outlook or rate
+    signal expected from welcoming remarks.
+    Conference focus: implications of financial innovations (digital
+    assets, stablecoins) for international dollar roles.
+    Keynote: Eswar Prasad (Cornell); Moderator: Linda Goldberg (NY Fed).
+    NOTE: Waller's last scored speech is May 22, 2026 (Type A — hawkish;
+    "sequence of supply shocks" framing; cut signal absent). His June 22
+    welcome is unlikely to carry policy content, but any embedded economic
+    framing should be checked. His language is the confirmed source of the
+    "supply shocks" phrasing now in the June 17 statement. Watch for any
+    mention of the statement rewrite or dollar strength implications for
+    monetary policy. (CONFIRMED)
+
+WEEK AHEAD — June 22–26 (additional confirmed items):
+
+  • Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    Fireside chat — Chicago Council on Global Affairs,
+    Global Economy Dialogue Series
+    Chicago, Illinois  |  5:30 PM CT — Thursday June 25
+    Moderated by Brent Neiman (U Chicago Booth). Livestreamed.
+    NOTE: Goolsbee's last scored Type A is May 12, 2026. This is his
+    first post-blackout appearance and the first confirmed speech from a
+    non-Warsh official since June 17. Will be watched for whether the
+    hawkish SEP and statement rewrite change his "not obvious rates are
+    restrictive" framing, and whether "zero is to the right of the
+    decimal point" surfaces as a phrase he will or will not echo.
+    Non-voter, but high analytical value — Goolsbee's stance has
+    been persistently inflation-first in 2026 despite being dovish
+    relative to the cycle in late 2024. (CONFIRMED)
+
+  • Fed bank stress test results — Wednesday June 24 at 4:00 PM EDT
+    Annual results for 32 large banks. Not a speech — no rate signal.
+    Governor remarks may follow, particularly from Barr (has been vocal
+    on deregulation risk) or Bowman (framed current capital ratios as
+    sound in her June 4 House testimony). Financial stability context
+    only. (CONFIRMED)
+
+  • All other June 22–26 appearances: (none confirmed as of this run)
+    No Board Governor or regional president speeches publicly announced
+    for June 23–24 or June 26. The first full post-blackout week may
+    remain sparse as Warsh's five task forces (communications, balance
+    sheet, data, productivity/jobs, causes of inflation) are assembled —
+    a communications task force charge consistent with fewer speeches
+    and less forward guidance. Watch for unannounced appearances by
+    Waller (who may add substance on June 23 for day 2 of the dollar
+    conference), Williams, Jefferson, or Logan.
+
+NEXT BLACKOUT: July 18, 2026 (for the July 28–29 FOMC meeting).
+  Effective inter-meeting speaking window: June 19 – July 17 (29 days).
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No new speeches today.
+
+Reference: Jun 17, 2026 canonical daily (FOMC day, statement + press
+conference + SEP):
+  data/reports/daily/20260617_daily.txt
+
+Waller Jun 22 (welcoming remarks, upcoming):
+  https://www.federalreserve.gov/conferences/fifth-conference-on-the-international-roles-of-the-us-dollar.htm
+
+Goolsbee Jun 25 (upcoming):
+  https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+
+Stress test results (Jun 24 announcement):
+  https://www.bloomberg.com/news/articles/2026-06-09/fed-to-release-wall-street-bank-stress-test-results-on-june-24
+
+Most recent scored speeches for cycle reference:
+  Logan, Jun 3:      https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+  Hammack, Jun 2:    https://doi.org/10.26509/sp-20260602
+  Williams, May 28:  [data/scored: Type B, not scored — last Type A: May 4]
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+════════════════════════════════════════════════════════════════
+Generated: June 21, 2026 | Report type: No-speeches (weekend)
+Reference FOMC: June 17, 2026 | Next FOMC: July 28–29, 2026
+════════════════════════════════════════════════════════════════
