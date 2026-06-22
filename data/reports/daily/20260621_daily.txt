@@ -1,0 +1,145 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 21, 2026 (Sunday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  — No new FOMC-member speeches on June 21, 2026.
+  NOTE: June 21 is a Sunday. No Fed speeches are scheduled or
+  expected on weekends.
+
+CORPUS UPDATE (scored today):
+  0 speeches scored. The 7 pending raw files reviewed across the
+  June 19–20 runs are confirmed unscored and remain correctly
+  classified: all Type B or future-event stubs. No new files
+  entered the backlog since June 20. Backlog is clear.
+
+  Confirmed classification summary (carried from June 19 run):
+  • 20260527_Goolsbee (BOJ Institute Conference) — stub only; skip.
+  • 20260625_Goolsbee (Chicago Council) — future event; skip.
+  • 20260714_Goolsbee (Kenosha Business Alliance) — future event; skip.
+  • 20260531_Powell (JFK Profile in Courage Acceptance Remarks) —
+    Type B: institutional values / Fed independence. Skip.
+  • 20260528_Williams (Productivity Growth, Reykjavík) — Type B:
+    academic/methodology lecture on historical productivity cycles.
+    No current-cycle policy stance. Skip.
+  • 20260527_Logan (BOJ Conference — 'Monetary policy and imbalances')
+    — Type B: energy markets, Treasury resilience, demographics.
+    No policy stance (consistent with Jun 3 scored-file notation). Skip.
+  • 20260606_Barr (Deregulating in a Financial Boom, American Univ.)
+    — Type B: bank capital, stress testing, supervisory framework.
+    No monetary policy content. Skip.
+
+  Pending analyst items carried from Jun 17 canonical daily:
+  • Official press conference PDF (FOMCpresconf20260617.pdf) returned
+    HTTP 403 as of June 17–18 runs. All quotes in the Jun 17 report
+    remain web-verified. Flag for final reconciliation against the
+    official transcript when access is restored.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Mon June 22 – Fri June 26
+────────────────────────────────────────────────────────────────
+Inter-meeting window status: June 19 – July 17, 2026 (29 days total;
+Day 3 of 29 as of June 21). Next blackout: July 18, 2026.
+
+MONDAY JUNE 22 — CONFIRMED:
+
+  • Christopher J. Waller  |  Board Governor  |  Just Voter
+    Welcoming Remarks
+    Fifth Conference on the International Roles of the U.S. Dollar
+    Federal Reserve Board + NY Fed (joint), Washington, D.C.
+    June 22–23, 2026 (invitation-only, in-person)
+    EXPECTED TYPE: Type B — research conference welcome; no economic
+    outlook or rate signal expected from welcoming remarks. Waller's
+    last scored Type A was May 22, 2026 (hawkish — "sequence of supply
+    shocks" framing; cut signal absent; language now confirmed as source
+    of "supply shocks" phrasing in the June 17 statement). Any embedded
+    policy language in the welcome should be checked. Conference theme
+    focuses on digital assets, tokenization, and international dollar
+    roles. (CONFIRMED)
+    SOURCE: https://www.federalreserve.gov/conferences/fifth-conference-on-the-international-roles-of-the-us-dollar.htm
+
+TUESDAY JUNE 23:
+
+  • Fifth Conference on the International Roles of the U.S. Dollar
+    continues — Day 2.
+    Williams (NY Fed President, conference co-organizer) may have
+    remarks; no formal speech publicly confirmed. Watch for any
+    embedded policy language if he opens or closes the second day.
+    (unconfirmed)
+
+WEDNESDAY JUNE 24:
+
+  • Annual Bank Stress Test Results — Federal Reserve Board
+    4:00 PM EDT. Results for 32 large banks. Not a speech; no
+    monetary policy content. Governor comments may follow, particularly
+    from Barr (vocal on deregulation risk) or Bowman (has defended
+    current capital frameworks). Financial stability, not rate signal.
+    (CONFIRMED)
+
+THURSDAY JUNE 25 — CONFIRMED:
+
+  • Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    Fireside Chat — Chicago Council on Global Affairs,
+    Global Economy Dialogue Series
+    Chicago, Illinois  |  5:30 PM CT
+    Moderated by Brent Neiman (Edward Eagle Brown Professor,
+    U Chicago Booth). Livestreamed from event webpage.
+    EXPECTED TYPE: Type A — fireside Q&A. FIRST confirmed post-
+    blackout Type A candidate from any non-Warsh official.
+    PRIORITY: Goolsbee's last scored Type A is May 12, 2026.
+    His 2026 framing has been persistently inflation-first despite
+    his 2024 dovish reputation; his "not obvious rates are
+    restrictive" language (Feb 24) has not been retracted.
+    Watch for: (1) whether he echoes the June 17 statement labor
+    reframe ("kept pace with workforce" vs. Powell's "clearly
+    softened"); (2) whether "zero is to the right" surfaces;
+    (3) any update to his restrictiveness assessment given the
+    hawkish SEP (half of FOMC expecting hikes this year per Warsh
+    Q&A). Non-voter, but high analytical value for tracking whether
+    the hawkish June 17 consensus has penetrated to the non-voting
+    regional presidents. (CONFIRMED)
+    SOURCE: https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+
+FRIDAY JUNE 26:
+  (none confirmed as of this run)
+
+ALL OTHER JUNE 22–26 APPEARANCES:
+  No Board Governor or regional president speeches publicly confirmed
+  for June 23 or June 26 as of this run. The post-blackout week is
+  the first full cycle under Chair Warsh's communications framework
+  (forward guidance removed; fewer speeches signaled; five task forces
+  underway with fall/year-end timeline). Watch for unannounced
+  appearances by Jefferson, Logan, Paulson, or Hammack — each faces
+  the question of whether to endorse "zero is to the right of the
+  decimal point" or to reframe their pre-blackout positioning.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No new speeches today.
+
+Reference — Jun 17, 2026 canonical FOMC daily (statement diff,
+press conference, SEP):
+  data/reports/daily/20260617_daily.txt
+
+Upcoming appearances:
+  Waller Jun 22 (welcoming remarks, dollar conference):
+    https://www.federalreserve.gov/conferences/fifth-conference-on-the-international-roles-of-the-us-dollar.htm
+  Goolsbee Jun 25 (fireside chat, Chicago Council):
+    https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+  Stress test results Jun 24:
+    https://www.federalreserve.gov/newsevents.htm
+
+Most recent scored speeches for cycle reference:
+  Logan, Jun 3:      https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+  Hammack, Jun 2:    https://doi.org/10.26509/sp-20260602
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+════════════════════════════════════════════════════════════════
+Generated: June 22, 2026 | Report type: No-speeches (weekend)
+Reference FOMC: June 17, 2026 | Next FOMC: July 28–29, 2026
+════════════════════════════════════════════════════════════════
