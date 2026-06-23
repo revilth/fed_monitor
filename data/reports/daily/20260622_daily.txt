@@ -1,0 +1,172 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 22, 2026 (Monday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Christopher J. Waller  |  Board Governor  |  Just Voter
+     "Welcoming Remarks on the International Role of the U.S. Dollar"
+     Fifth Conference on the International Roles of the Dollar
+     Federal Reserve Board + NY Fed (joint), Washington, D.C.
+     STATUS: NOT SCORED — Type B: conference welcome remarks;
+     no monetary policy stance, no economic outlook content.
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  WALLER  |  Board Governor  |  Just Voter
+    "Welcoming Remarks on the International Role of the U.S. Dollar"
+    Fifth Conference on the International Roles of the Dollar
+    Washington, D.C. — June 22, 2026
+    CLASSIFICATION: Type B — conference welcome; no scoring
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Opening remarks to a joint Fed Board / NY Fed two-day research conference
+on digital assets, stablecoins, and the international roles of the U.S.
+dollar. The remarks (~500 words) introduced the conference's research
+agenda across four paper clusters: (1) stablecoin-based payment and FX
+infrastructure; (2) financial-market spillovers from stablecoin adoption;
+(3) stablecoins and U.S. Treasury demand; (4) revisiting classic
+international finance questions through the lens of digital innovation.
+
+MONETARY POLICY CONTENT: None. Zero sentences on growth, labor, inflation,
+or the rate path. The only remotely policy-adjacent sentence — "As an
+economist, I believe that is a good thing — more competition generally
+leads to better outcomes for both consumers and society as a whole" — refers
+to competition among payment rails and financial intermediation channels,
+not monetary policy.
+
+ASSESSMENT: Pure Type B. No embedded outlook section. The first day of the
+conference (June 22) produced no scorable Waller language. His most recent
+scored Type A remains May 22, 2026 ("Policy Risks Have Changed") — the
+hawkish "sequence of supply shocks" framing that completed its language
+cycle into the June 17 statement. His policy position remains unchanged
+from that speech. Conference Day 2 (June 23) may include Williams (NY Fed
+co-organizer) remarks; none confirmed as of this run.
+
+NET SIGNAL: N/A — no policy content.
+
+CORPUS UPDATE:
+  0 speeches scored today. The Waller June 22 welcoming remarks are
+  classified Type B; added to the confirmed-backlog list below.
+
+  Confirmed Type B / skip inventory (full list, carried from Jun 21):
+  • 20260527_Goolsbee (BOJ Institute Conference) — stub; skip.
+  • 20260625_Goolsbee (Chicago Council) — future event (Jun 25); skip.
+  • 20260714_Goolsbee (Kenosha Business Alliance) — future event; skip.
+  • 20260531_Powell (JFK Profile in Courage Acceptance Remarks) —
+    Type B: institutional values / Fed independence. Skip.
+  • 20260528_Williams (Productivity Growth, Reykjavík) —
+    Type B: academic/methodology on historical productivity cycles. Skip.
+  • 20260527_Logan (BOJ Conference — imbalances panel) —
+    Type B: energy markets, Treasury resilience, demographics. Skip.
+  • 20260606_Barr (Deregulating in a Financial Boom, American Univ.) —
+    Type B: bank capital / supervisory framework. Skip.
+  • 20260622_Waller (Dollar Conference welcoming remarks) — [NEW]
+    Type B: conference welcome / digital assets / stablecoins. Skip.
+
+  Backlog status: 0 Type A or Type B-with-outlook files pending.
+  Backlog is clear.
+
+PENDING ANALYST ITEMS CARRIED FROM JUN 17:
+  Official press conference PDF (FOMCpresconf20260617.pdf) returned
+  HTTP 403 again in this run. All quotes in the Jun 17 canonical daily
+  remain web-verified across multiple independent sources. Flag remains
+  open for final reconciliation against the official transcript when
+  access is restored. Today's search confirmed the PDF URL exists on
+  the Fed's server (https://www.federalreserve.gov/mediacenter/files/
+  FOMCpresconf20260617.pdf) but access is restricted.
+
+LANGUAGE TO WATCH: N/A — no new policy language from today.
+
+ANALYST FLAG: NO new flags from today's material. Existing Warsh
+quote-verification flag (Jun 17) remains open.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Wednesday June 24, 2026
+────────────────────────────────────────────────────────────────
+Inter-meeting window status: June 19 – July 17, 2026 (29 days total;
+Day 4 of 29 as of June 22). Next blackout: July 18, 2026.
+
+WEDNESDAY JUNE 24 — CONFIRMED (non-speech):
+
+  • Annual Bank Stress Test Results — Federal Reserve Board
+    4:00 PM EDT.
+    Results for 32 large banks released simultaneously. The 2026 test
+    scenario: unemployment rises ~5.5pp to peak 10%; asset prices fall
+    (~30% house prices, ~39% CRE). Results will NOT affect capital
+    requirements, which remain unchanged until 2027 pending model
+    review. Financial stability signal, not monetary policy.
+    Governor comments may follow release, particularly from Barr (vocal
+    opponent of deregulation; has dissented from capital-requirement
+    reductions) and Bowman (has defended recent capital frameworks). Any
+    post-release remarks are likely financial-stability framed, not rate
+    guidance. (CONFIRMED)
+    SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+
+  • "2026 State of Small Business Symposium"
+    10:00 AM – 11:00 AM EDT. (Possible Fed official participation; no
+    FOMC member speech confirmed.) (unconfirmed)
+
+WEDNESDAY JUNE 24 — FOMC MEMBER SPEECHES:
+  (none confirmed as of this run)
+
+ALSO THIS WEEK:
+
+  THURSDAY JUNE 25 — CONFIRMED:
+  • Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    Fireside Chat — Chicago Council on Global Affairs,
+    Global Economy Dialogue Series
+    Chicago, Illinois  |  5:30 PM CT
+    Moderated by Brent Neiman (U Chicago Booth). Livestreamed.
+    SOURCE: https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+    EXPECTED TYPE: Type A (fireside Q&A). First confirmed post-blackout
+    Type A from any non-Warsh official. Last scored: May 12, 2026.
+    Watch for: (1) any echo of "kept pace with the workforce" vs. prior
+    "labor demand has clearly softened" framing; (2) whether "not obvious
+    rates are restrictive" (Feb 24) is maintained, softened, or abandoned
+    given the hawkish June 17 SEP; (3) any engagement with "zero is to
+    the right of the decimal point" as an operational bar; (4) updated
+    view on Hormuz/energy shock given recent oil-price developments.
+    Non-voter, but high analytical value for gauging how the hawkish
+    June 17 consensus has or has not penetrated to the non-voting
+    regional presidents. PRIORITY EVENT.
+
+  FRIDAY JUNE 26:
+    (none confirmed as of this run)
+
+  CONFERENCE — JUNE 23 (TODAY):
+  • Fifth Conference on the International Roles of the Dollar — Day 2
+    Federal Reserve Board + NY Fed (joint), Washington, D.C.
+    Williams (NY Fed, conference co-organizer) may make opening or
+    closing remarks on Day 2. No formal speech publicly confirmed.
+    Watch for any embedded policy language if he takes the floor.
+    (unconfirmed)
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Waller Jun 22 (welcoming remarks, dollar conference):
+    https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm
+
+Reference — Jun 17, 2026 canonical FOMC daily (statement diff,
+press conference, SEP):
+  data/reports/daily/20260617_daily.txt
+
+Most recent scored speeches for cycle reference:
+  Waller, May 22:    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
+  Logan, Jun 3:      https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
+  Hammack, Jun 2:    https://doi.org/10.26509/sp-20260602
+  Goolsbee, May 12:  https://www.youtube.com/watch?v=88dRnkmStR4
+  Williams, May 4:   https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+
+Upcoming:
+  Goolsbee Jun 25:
+    https://www.chicagofed.org/publications/speeches/2026/june-25-chicago-council
+  Stress test results Jun 24:
+    https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm
+════════════════════════════════════════════════════════════════
+Generated: June 23, 2026 | Report type: Type-B-only (no policy content)
+Reference FOMC: June 17, 2026 | Next FOMC: July 28–29, 2026
+════════════════════════════════════════════════════════════════
