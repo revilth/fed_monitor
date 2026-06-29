@@ -1,0 +1,213 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-06-25 | John C. Williams | NY Fed President | Troika
+"The Strategy and the Goals"
+Crane's Money Fund Symposium (prepared remarks; per NY Fed Teller Window the
+  speech was not publicly delivered)
+SOURCE: https://tellerwindow.newyorkfed.org/2026/06/25/the-strategy-and-the-goals/
+
+CLASSIFICATION: Type A (Economic Outlook) with an embedded Type-B operational
+  section (~half the text) on monetary-policy implementation / balance sheet
+  (ample reserves, RMPs, SRP, ON RRP). Outlook scored as Type A below; the
+  operational section is summarized at the end (no rate-path stance signal).
+
+REFERENCE FOMC:    June 17, 2026  (HOLD 3.50–3.75%; 12–0; forward guidance
+                   removed; SEP turned hawkish)
+PRE-FOMC BASELINE: May 4, 2026  "There Is No Try" (Type A; his last scored
+                   Type A — May 28 Reykjavík was Type B / academic)
+POST-FOMC PRIOR:   N/A — first scored Williams Type A since the June 17 meeting.
+                   (May 4 is therefore BOTH his prior Type A and his pre-FOMC
+                   baseline; vs-prior and vs-pre-FOMC are the same comparison.)
+
+NOTE: This speech was MISSED by the scraper (Teller Window blog, not the NY Fed
+  speeches index) and recovered/scored manually on 2026-06-28.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace despite elevated uncertainty
+   … conflict in the Middle East. Productivity growth and capital investment are
+   strong." [Jun 17 stmt]
+  → Williams: "the U.S. economy has so far absorbed these shocks and has remained
+    resilient amid the uncertainty … consumer spending has held up, and business
+    investment has remained robust, largely fueled by AI-related investments."
+
+Own language:
+  Real GDP "around 2-1/4 percent this year and over the next two years," with
+  "growth running modestly above its potential rate of 2 percent," and the
+  unemployment rate edging "down gradually to 4 percent in 2028."
+  → A firm, slightly-above-potential growth path; AI investment named as the
+    engine of business investment (consistent with his May 4 framing and the
+    June 17 statement).
+
+Shift vs. prior speech (May 4):  unchanged — same "resilient," AI-investment-led
+  framing; GDP forecast steady at ~2.25%. If anything a hair firmer ("modestly
+  above potential," unemployment edging DOWN), but not a directional change.
+Shift vs. pre-FOMC (May 4):      unchanged.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "the unemployment rate has changed little." [Jun 17 stmt]
+  → Williams: "At 4.3 percent, the unemployment rate has changed little over the
+    past year." (Does not use the statement's "kept pace with the workforce"
+    phrasing, but is consistent with it.)
+
+Own verdict — KEY SHIFT (the soft-data slack concern recedes):
+  "Other labor market measures — including job openings, unemployment claims, and
+   job-finding and separation rates — have likewise been stable or have modestly
+   strengthened. And survey measures of job and worker availability, along with
+   the New York Fed's 'job security gap,' — both of which had been flashing
+   warning signs earlier — have also largely stabilized, albeit at low levels."
+  → This is the most important change vs. May 4. On May 4 these SAME indicators
+    were his dovish leg: perceptions of job availability "continued to trend
+    downward," "we have yet to see signs of sustained stabilization in the 'job
+    security gap'… these indicators suggest increasing labor market slack." On
+    June 25 they have "largely stabilized" and warning signs have receded. The
+    "increasing labor market slack" call is effectively withdrawn. HAWKISH-LEAN.
+    Caveat retained: "albeit at low levels."
+
+Own qualifier (inflation anchor maintained):
+  "we are not seeing evidence that the labor market is adding to inflationary
+   pressures." (stated in the inflation section)
+  → Keeps the May 4 anchor that labor is NOT compounding the supply-shock
+    inflation (the post-2021 lesson). Dovish-protective on this dimension.
+
+Shift vs. prior speech (May 4):  HAWKISH LEAN — May 4's "increasing labor market
+  slack" (soft data) is replaced by "largely stabilized." The dovish labor leg
+  has weakened. Overall labor verdict moves from "conflicting signs" to "resilient
+  … stable."
+Shift vs. pre-FOMC (May 4):      HAWKISH LEAN — same.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in part
+   reflecting supply shocks … including energy." [Jun 17 stmt]
+  → Williams: "inflation is unquestionably elevated and well above the FOMC's
+    longer-run goal of 2 percent."
+
+Own language — KEY (explicit disinflation call, dovish DIRECTION):
+  "In coming quarters, however, I expect inflation readings to edge down …"
+  Three supports: (1) "the direct effects of existing tariffs on prices appear to
+  have mostly played out. Any new tariffs would replace those that were curtailed
+  or will soon expire, implying that we should not see a significant additional
+  impulse on prices"; (2) energy stabilizing then falling later this year if
+  Hormuz resolves; (3) shelter inflation slowing on modest market-rent increases;
+  plus labor not adding pressure.
+  → DOVISH directional read. Note the SHIFT on tariffs: on May 4 a "new round of
+    tariffs in the coming months" was an upside RISK; here new tariffs are
+    downplayed as net-neutral (replacing expiring ones). That is a softening.
+
+Own language — NEW driver + the offsetting hawkish nuance (timeline slips):
+  Adds a THIRD inflation driver new vs. May 4: "robust demand for certain
+  categories of technology goods related to the AI investment boom." And the
+  glide-path date SLIPS: "decline to 3-1/2 percent by year-end, then continue on
+  a glide path toward our 2 percent goal in 2027 and land on target in 2028."
+  → On May 4 he forecast "2% in 2027." Here 2% is not reached until 2028 — the
+    return-to-target timeline is pushed out a full year. So even as DIRECTION is
+    dovish, the DURATION is longer (more persistence acknowledged). AI demand is
+    also flagged as an upside risk ("may push up prices more than expected").
+  Expectations: "medium-term inflation expectations … remained well anchored …
+   one-year-ahead up modestly and three- and five-year-ahead essentially
+   unchanged." (maintains the May 4 anchored-expectations leg.)
+
+Shift vs. prior speech (May 4):  MIXED, net mild dovish on direction / mild
+  hawkish on duration — explicit "edge down" call + new tariffs downplayed
+  (dovish), but 2%-target date slips 2027 → 2028 and AI demand added as a driver/
+  upside risk (hawkish). Net: confident disinflation, but slower.
+Shift vs. pre-FOMC (May 4):      same.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee decided to maintain the target range … 3-1/2 to 3-3/4 percent …
+   in support of the Federal Reserve's dual mandate." [Jun 17 stmt]
+  + the statement's commitment register ("The Committee will deliver price
+   stability.")
+  → Williams: "Given the elevated level of inflation, it is imperative that we
+    restore it to our 2 percent longer-run goal on a sustained basis. The current
+    stance of monetary policy is well positioned to do that." Explicitly endorses
+    the June 17 hold ("at its meeting last week, the FOMC decided to maintain …").
+
+Own language:
+  "well positioned" = the committee's stable holding formula (boilerplate — flag
+  only if it changes; it has not). NO cut signal. NO forward guidance (consistent
+  with Warsh's June 17 removal). Closes on pure data-dependence: "my views, as
+  always, will be based on the evolution of the totality of the data, the economic
+  outlook, and the balance of risks."
+  The "imperative that we restore it … on a sustained basis" phrasing is a touch
+  firmer than May 4's symmetric "balance the risks," echoing the statement's
+  price-stability commitment — mild hawkish framing, not a new signal.
+
+  Cut signal status: ABSENT — unchanged from the April 16 retraction carried
+  through May 4. He neither restores nor forecloses cuts; the disinflation glide
+  path is described without attaching any rate-cut timing to it.
+
+Shift vs. prior speech (May 4):  unchanged on stance — patient hold, no guidance,
+  no cut signal. Commitment language marginally firmer (statement-aligned).
+Shift vs. pre-FOMC (May 4):      unchanged.
+
+──────────────────────────────────────────────────────────
+EMBEDDED OPERATIONAL SECTION (Type B — no rate-path signal)
+──────────────────────────────────────────────────────────
+~Half the speech (Money Fund Symposium audience) covers implementation: ample
+reserves framework; IORB sets the floor, ON RRP reinforces it, SRP sets the
+ceiling at the top of the target range; reserve management purchases (RMPs)
+maintain "ample." Concrete balance-sheet datapoint: after the FOMC judged in
+December that reserves had returned to "ample," the Desk began RMPs at $40B/mo,
+then tapered to $25B (mid-Apr–mid-May) and $10B (mid-May–mid-Jul); "stand ready
+to adjust the pace of RMPs up or down as needed." Informational for money markets
+and the balance-sheet trajectory; NOT a monetary-policy stance signal.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL with a mild HAWKISH lean vs. his May 4 baseline. The
+               Troika holdline is intact (hold endorsed, no cut signal, no
+               guidance). The directional moves: labor — the soft-data "increasing
+               slack" concern from May has "largely stabilized" (hawkish);
+               inflation — confident it will "edge down" and new tariffs downplayed
+               (dovish), but the return-to-2% date slips 2027 → 2028 and AI demand
+               is added as a new driver/upside risk (hawkish). Net, Williams is
+               slightly firmer than May 4 while staying the patient-hold Troika
+               anchor.
+
+Positioning vs. the hawkish June 17 statement: Williams is ALIGNED (he is Troika
+  and helped shape it) but is the CONSTRUCTIVE voice within it — he lays out a
+  concrete disinflation glide path ("edge down," "land on target in 2028") rather
+  than the statement's persistence-and-commitment register. He provides the "hold
+  is well positioned, disinflation is coming, be patient" Troika framing — without
+  signaling cuts.
+
+Language watch:
+  • "I expect inflation readings to edge down" — the clearest forward disinflation
+     call from the Troika since the June meeting. If Jefferson/Warsh echo it, it
+     signals the Troika is preparing the ground for an eventual cut bias (bottom-up
+     language cycle; currently DISPERSED/Troika-only).
+  • "largely stabilized, albeit at low levels" (job-availability / job-security
+     gap) — withdrawal of his May "increasing labor market slack" call. Watch
+     whether the dovish labor leg returns if the July payrolls (Jul 3) soften.
+  • "land on target in 2028" — the return-to-2% horizon has slipped a year vs. his
+     May "2% in 2027." A quiet acknowledgment of more persistence even amid a
+     dovish direction.
+  • "imperative that we restore it … on a sustained basis" — statement-aligned
+     price-stability commitment language; top-down echo, not a personal signal.
+
+Analyst flag: YES
+  → Two things to assess. (1) Williams (Troika) on June 25 expects inflation to
+    "edge down" and frames the hold as well positioned to deliver it — a more
+    constructive read than the hawkish June 17 statement / SEP. Is the Troika
+    quietly laying the groundwork for a later cut bias while the statement still
+    reads hawkish (a bottom-up dots-vs-statement gap)? (2) Same-day CONTRAST with
+    Goolsbee: the non-voter (Goolsbee) is MORE hawkish (AI-productivity overheating
+    + persistence vigilance, cut signal dropped) than the Troika member (Williams,
+    disinflation glide path). The committee's hawkish center may be the regionals,
+    not the Troika — watch whether Jefferson/Warsh side with Williams' "edge down"
+    or the regionals' persistence framing.
+══════════════════════════════════════════════════════════

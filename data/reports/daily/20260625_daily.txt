@@ -2,117 +2,210 @@ FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: June 25, 2026 (Thursday)
 Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
-[BACKFILLED 2026-06-28 — generated retroactively during monitor-outage recovery.
- Goolsbee transcript recovered from YouTube (Chicago Fed channel); the official
- Chicago Fed page served only an event stub.]
+[BACKFILLED/CORRECTED 2026-06-28 — generated retroactively during monitor-outage
+ recovery. Williams (Troika) added 2026-06-28: his prepared remarks were posted to
+ the NY Fed "Teller Window" blog (not the speeches index) and were missed by the
+ scraper. Goolsbee transcript recovered from YouTube (Chicago Fed channel; the
+ official page served only an event stub).]
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+  1. John C. Williams  |  NY Fed President  |  Troika
+     "The Strategy and the Goals"
+     Crane's Money Fund Symposium (prepared remarks; per Teller Window the
+     speech was not publicly delivered)
+  2. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
      "Fireside Chat — Global Economy Dialogue Series"
      Chicago Council on Global Affairs, Chicago, IL
-     (moderated by Brent Neiman, U Chicago Booth; livestreamed)
 ════════════════════════════════════════════════════════════════
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
-    "Fireside Chat — Global Economy Dialogue Series"
-    Chicago Council on Global Affairs, Chicago, IL — June 25, 2026
-    CLASSIFICATION: Type A (fireside Q&A). First post-June-17 Type A
-    from a non-Warsh official.
+1.  WILLIAMS  |  NY Fed President  |  Troika
+    "The Strategy and the Goals" — Crane's Money Fund Symposium
+    Prepared remarks (not publicly delivered) — June 25, 2026
+    CLASSIFICATION: Type A (Economic Outlook) + embedded Type-B operational
+    section (ample reserves / RMP balance-sheet mechanics).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 GROWTH
-  Not a primary topic; discussed through the AI/productivity lens. He cites
-  productivity running "75 basis points, one full percentage point higher"
-  than pre-COVID — echoing the June 17 statement's new "productivity growth
-  and capital investment are strong." Notably DROPS the May 12 consumer
-  precautionary-saving downside risk.
-  Direction: hawkish lean (growth as a strength/overheating vector, not a fragility).
+  Resilient, AI-investment-led — unchanged from May 4. "The U.S. economy has so
+  far absorbed these shocks and has remained resilient." Real GDP ~2-1/4% this
+  year and the next two, "modestly above its potential rate of 2 percent";
+  unemployment edging down to 4% by 2028. Echoes the June 17 statement's strong-
+  investment language.
+  Direction: neutral (a hair firmer).
 
 LABOR MARKET
-  Unchanged from May 12. Verbatim repeat: "the job market in my mind is stable
-  without being good." Same "four horsemen of the truth" frame (unemployment,
-  vacancy, layoff, hiring rates) and the same low-hire/low-fire paradox
-  attributed to business uncertainty ("sit and wait"). No deterioration, no
-  tightening flagged.
-  Direction: neutral (genuinely unchanged).
+  KEY SHIFT. The soft-data slack concern Williams pressed on May 4 has receded.
+  On May 4 the job-availability surveys and the NY Fed "job security gap" were
+  "trending downward" and signalled "increasing labor market slack." On June 25
+  they "had been flashing warning signs earlier — have also largely stabilized,
+  albeit at low levels," and other measures are "stable or have modestly
+  strengthened." The dovish labor leg is effectively withdrawn. He keeps the
+  anchor that labor "is not adding to inflationary pressures."
+  Direction: hawkish lean (the May "increasing slack" call is gone).
 
 INFLATION
-  Services-persistence concern MAINTAINED: "a disturbingly high component of
-  services inflation which isn't really from oil prices … isn't really from
-  tariffs." HARDENS the line by refusing to look dovishly through a possible
-  energy decline: "I cautioned them on the way up … I'm cautioning you on the
-  way down. Don't overreact either." Discounts the one favorable goods-CPI
-  print ("one month is no months"). Calls tariffs "more persistent than people
-  anticipated." Tracks the committee's "supply shocks" framing.
-  Direction: hawkish lean (holds the line as energy headlines improve).
+  Dovish in DIRECTION, more persistent in DURATION. Explicit call: "In coming
+  quarters, however, I expect inflation readings to edge down" — tariff effects
+  "mostly played out," new tariffs downplayed as net-neutral (a softening from
+  May 4, where a new tariff round was an upside RISK), energy stabilizing then
+  falling if Hormuz resolves, shelter slowing. BUT the return-to-2% date SLIPS:
+  "land on target in 2028" vs. his May 4 "2% in 2027" — a full year later. Adds a
+  third driver new vs. May: "robust demand for certain categories of technology
+  goods related to the AI investment boom" (also flagged as an upside risk).
+  Expectations "well anchored."
+  Direction: mixed — dovish direction, mild-hawkish duration; net constructive.
 
 MONETARY POLICY
-  The real move. The May 12 conditional cut signal — "rates can come down still
-  a fair amount" — is ABSENT. In its place, two hawkish-capable additions:
-  (1) NEW productivity-OVERHEATING framing — expected AI productivity gains pull
-  spending forward (wealth effects, trillion-dollar IPOs, data-center capex), so
-  you "can easily overheat the economy in the short run before the magic of the
-  productivity has arrived," drawn explicitly to the late-1990s Greenspan parallel
-  that ended in "raising interest rates very rapidly." (2) His stated top worry is
-  inflation PERSISTENCE and expectations de-anchoring, anchored to the 2021–22
-  "transitory" error ("people already got burned once"). He also ratifies Warsh's
-  removal of forward guidance ("a caffeine cleanse"; "I have always been uneasy
-  with … forward guidance on a routine basis") — governance alignment, not a rate
-  signal. Scenario framing: descriptive (risks named), not explicit/pre-committed.
-  [Inference] The cut-signal absence is partly topic-driven (he was never asked his
-  preferred rate path), so not by itself a retraction — but everything he
-  volunteered leans hawkish with no offsetting cut language.
+  Troika holdline intact. Endorses the June 17 hold; "it is imperative that we
+  restore [inflation] to our 2 percent longer-run goal on a sustained basis. The
+  current stance of monetary policy is well positioned to do that." NO cut signal,
+  NO forward guidance (consistent with Warsh's June 17 removal); closes on pure
+  data-dependence. The "imperative … restore" register is statement-aligned
+  (top-down echo of "will deliver price stability"), marginally firmer than May 4's
+  symmetric "balance the risks" — not a new personal signal. Cut signal: ABSENT
+  (unchanged). Scenario framing: descriptive (AI/Mideast risks named, no policy
+  pre-commitment).
+  Direction: neutral (unchanged hold).
+
+  Operational note (Type B, no stance signal): ample-reserves framework; RMPs
+  maintaining "ample" — tapered $40B/mo (Dec) → $25B → $10B (mid-May–mid-Jul);
+  "stand ready to adjust … up or down." Relevant to money markets / balance-sheet
+  trajectory, not the rate path.
+
+NET SIGNAL: NEUTRAL with a mild HAWKISH lean vs. May 4 — patient-hold Troika
+anchor, but the dovish labor-slack leg is withdrawn and the 2%-target horizon
+slips a year, partly offset by a confident "inflation will edge down" call.
+
+vs. PRIOR SPEECH (May 4):        HAWKISH LEAN — drops "increasing labor market
+  slack"; pushes the return-to-2% date 2027 → 2028; downplays new tariffs (dovish
+  offset).
+vs. PRE-FOMC SPEECH (May 4):     HAWKISH LEAN — same (May 4 is both his prior
+  Type A and his pre-June-17 baseline).
+vs. COMMITTEE SINCE FOMC:        Williams is the CONSTRUCTIVE Troika voice within
+  the hawkish June 17 framing — a concrete disinflation glide path rather than the
+  statement's persistence/commitment register, but no cut signal. Notably LESS
+  hawkish than non-voter Goolsbee the same day (see cross-speaker note).
+
+LANGUAGE TO WATCH:
+  • "I expect inflation readings to edge down" — clearest forward disinflation call
+     from the Troika since June 17. Watch Jefferson/Warsh for echo (bottom-up;
+     DISPERSED/Troika-only). Could presage a future cut bias while the statement
+     still reads hawkish — a dots-vs-statement gap.
+  • "largely stabilized, albeit at low levels" — withdrawal of the May labor-slack
+     concern; reversible if July payrolls (Jul 3) soften.
+  • "land on target in 2028" — return-to-2% horizon slipped a year vs. May.
+
+ANALYST FLAG: YES — Is the Troika quietly laying groundwork for an eventual cut
+bias (Williams' "edge down") while the statement/SEP still read hawkish? And note
+the inversion: the non-voter (Goolsbee) is more hawkish than the Troika member
+(Williams) — the committee's hawkish center may be the regionals.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
+    "Fireside Chat — Global Economy Dialogue Series"
+    Chicago Council on Global Affairs, Chicago, IL — June 25, 2026
+    CLASSIFICATION: Type A (fireside Q&A). Transcript recovered from YouTube.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Not a primary topic; discussed via AI/productivity (productivity "75 basis
+  points, one full percentage point higher" than pre-COVID — echoes the June 17
+  "productivity … strong" line). Drops the May 12 consumer precautionary-saving
+  downside risk.
   Direction: hawkish lean.
 
-NET SIGNAL: HAWKISH LEAN — first concrete evidence the hawkish June 17 consensus
-has penetrated to a non-voting regional. Labor unchanged; inflation concern
-maintained and hardened on energy; cut signal dropped; new productivity-
-overheating risk introduced.
+LABOR MARKET
+  Unchanged from May 12. Verbatim: "the job market in my mind is stable without
+  being good." Same "four horsemen" frame (unemployment, vacancy, layoff, hiring
+  rates), same low-hire/low-fire paradox from business uncertainty.
+  Direction: neutral.
 
-vs. PRIOR SPEECH (May 12):        HAWKISH — drops the "rates can come down still a
-  fair amount" cut signal; adds productivity-overheating + persistence vigilance.
-vs. PRE-FOMC SPEECH (May 12):     HAWKISH — same comparison (May 12 is both his
-  prior speech and his last pre-June-17 appearance).
-vs. COMMITTEE SINCE FOMC:         Moves toward the post-June-17 hawkish center.
-  A previously dovish-leaning regional now voicing an overheating/persistence
-  thesis consistent with the SEP's hawkish turn and Waller's "sequence of supply
-  shocks" framing — the cut-bias holdouts among regionals are thinning.
+INFLATION
+  Services-persistence concern MAINTAINED ("a disturbingly high component of
+  services inflation … isn't really from oil prices … isn't really from tariffs").
+  HARDENS the line by refusing to look dovishly through a possible energy decline:
+  "I cautioned them on the way up … I'm cautioning you on the way down. Don't
+  overreact either." Discounts the one favorable goods-CPI print ("one month is no
+  months").
+  Direction: hawkish lean.
+
+MONETARY POLICY
+  The May 12 conditional cut signal ("rates can come down still a fair amount") is
+  ABSENT. Two hawkish-capable additions: (1) NEW productivity-OVERHEATING framing —
+  expected AI gains pull spending forward (wealth effects, trillion-dollar IPOs,
+  data-center capex), so you "can easily overheat the economy in the short run
+  before the magic of the productivity has arrived," drawn to the late-1990s
+  Greenspan parallel that ended in rapid hikes. (2) Top worry is inflation
+  PERSISTENCE / expectations de-anchoring, anchored to the 2021–22 "transitory"
+  error. Ratifies Warsh's forward-guidance removal ("a caffeine cleanse").
+  [Inference] cut-signal absence is partly topic-driven (never asked his rate path)
+  — not a formal retraction, but everything volunteered leans hawkish.
+  Direction: hawkish lean.
+
+NET SIGNAL: HAWKISH LEAN — first evidence the hawkish June 17 consensus has
+reached a non-voting regional. Labor unchanged; cut signal dropped; new
+productivity-overheating risk introduced.
+
+vs. PRIOR SPEECH (May 12):        HAWKISH — drops "rates can come down still a fair
+  amount"; adds overheating + persistence vigilance.
+vs. PRE-FOMC SPEECH (May 12):     HAWKISH — same comparison.
+vs. COMMITTEE SINCE FOMC:         Moves toward the post-June-17 hawkish center;
+  MORE hawkish than Troika's Williams the same day.
 
 LANGUAGE TO WATCH:
   • "overheat the economy in the short run before the magic of the productivity
-     has arrived" — AI/productivity reframed as an OVERHEATING/inflation risk,
-     not a clean disinflationary tailwind. DISPERSED (single official). Watch
-     Williams/Paulson/Jefferson for pickup.
-  • "I'm cautioning you on the way down. Don't overreact" — committee may treat
-     oil-driven headline relief as policy-irrelevant noise. Watch Troika echo.
-  • "stable without being good" — Goolsbee's stable labor idiom (≥2 appearances).
-  • "caffeine cleanse" — colorful ratification of the Warsh no-forward-guidance regime.
+     has arrived" — AI reframed as an OVERHEATING/inflation risk. DISPERSED.
+  • "I'm cautioning you on the way down. Don't overreact" — energy headline relief
+     treated as policy-irrelevant noise.
 
-ANALYST FLAG: YES — Has Goolsbee (a Non Voter who on May 12 still said "rates can
-come down still a fair amount") genuinely migrated hawkish toward the June 17
-consensus, or is the cut-signal absence an artifact of a Q&A that never asked his
-rate preference? His Feb 24 "not obvious rates are restrictive" line was not
-revisited — probe at his next directly-policy-focused appearance.
+ANALYST FLAG: YES — genuine hawkish migration of a previously dovish-leaning
+regional, or artifact of a Q&A that never asked his rate preference? Probe his
+Feb 24 "not obvious rates are restrictive" line at his next policy appearance.
+
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — Williams (Troika) vs. Goolsbee (Non Voter), same day
+────────────────────────────────────────────────────────────────
+A notable INVERSION: the Troika member is the dove relative to the non-voter.
+  • AGREE: labor is stable/resilient (no rush); AI investment is a genuine engine;
+    the June 17 hold is appropriate; no cut signaled; forward guidance gone.
+  • DIVERGE on AI + inflation trajectory — the key split:
+      – Williams: AI demand is one of three inflation drivers, but overall
+        inflation will "edge down" on a glide path to 2% (in 2028). Constructive.
+      – Goolsbee: the AI boom is itself an OVERHEATING/inflation risk that could
+        force rapid hikes (Greenspan-1990s parallel); top worry is persistence.
+  • DIVERGE on persistence vs. disinflation: Williams expects readings to edge
+    down; Goolsbee warns against "declaring loss" too early and emphasizes the
+    2021–22 burn.
+Read: heading toward the July 28–29 meeting, the committee's hawkish energy is
+coming from the regionals, while the Troika (Williams) is quietly more sanguine on
+the disinflation path — a tension the analyst should track for a dots-vs-statement
+gap. Watch Jefferson/Warsh to see which side the Troika consolidates around.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — NEXT WEEK: Mon June 29 – Fri July 3, 2026
 ────────────────────────────────────────────────────────────────
 Inter-meeting window: June 18 – July 27. Next FOMC: July 28–29 (no SEP).
 Next blackout begins July 18, 2026.
-  • No FOMC-member policy speeches confirmed for the week of June 29 as of
-    this (retroactive) reconstruction. Goolsbee's next known appearance is
-    a July 14 business lunch (Kenosha Area Business Alliance) — outside this
-    window; event stub only, transcript TBD.
+  • No FOMC-member policy speeches confirmed for the week of June 29 as of this
+    (retroactive) reconstruction. June payrolls (Jul 3) is the marquee data input.
+  • Goolsbee's next known appearance: July 14 (Kenosha Area Business Alliance) —
+    event stub only.
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches this date:
+  Williams Jun 25 (Crane's Money Fund Symposium, "The Strategy and the Goals"):
+    https://tellerwindow.newyorkfed.org/2026/06/25/the-strategy-and-the-goals/
   Goolsbee Jun 25 (Chicago Council fireside):
     https://www.youtube.com/watch?v=FQ9osXWVuco
 
-Pre-FOMC baseline / prior speech (vs. comparisons):
+Prior speech / pre-FOMC baselines (vs. comparisons):
+  Williams May 4 ("There Is No Try"):
+    https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
   Goolsbee May 12 (Rockford Chamber fireside):
     https://www.youtube.com/watch?v=88dRnkmStR4
 

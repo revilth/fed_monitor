@@ -1,0 +1,80 @@
+SOURCE: https://tellerwindow.newyorkfed.org/2026/06/25/the-strategy-and-the-goals/
+SPEAKER: John C. Williams (President and CEO, Federal Reserve Bank of New York) — Troika
+DATE: 2026-06-25
+EVENT: Prepared remarks for the Crane's Money Fund Symposium (posted to the NY Fed "Teller Window"; per the page, the speech was not publicly delivered — prepared text)
+TYPE: A (Economic Outlook) with an embedded Type-B operational section on monetary-policy implementation / balance sheet (ample reserves, RMPs, SRP, ON RRP)
+
+--- SPEECH TEXT ---
+It's an exciting time here in New Jersey. Just 10 miles away, more than 80,000 soccer fans are packed into MetLife Stadium for the World Cup. In fact, the match is set to start in about 20 minutes—just as Pete will be grilling me about the U.S. economy and monetary policy. I can assure you that our conversation will be even more thrilling than the game. The seats are cheaper, too.
+
+Today I'm going to talk about how the Federal Reserve is working to achieve its dual mandate goals of maximum employment and price stability. I'll also spend some time talking about how the Fed implements monetary policy.
+
+But first, I must give the standard Fed disclaimer that the views I express today are mine alone and do not necessarily reflect those of the Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+
+The Goalkeeper: Resilient Amid Uncertainty
+
+I'll start with a snapshot of the U.S. economy.
+
+The effects of the Middle East conflict continue to present significant and unpredictable risks to economies around the world. The good news is that the U.S. economy has so far absorbed these shocks and has remained resilient amid the uncertainty.
+
+Households and businesses have been paying more for fuel and other goods that have significant energy inputs. Nevertheless, consumer spending has held up, and business investment has remained robust, largely fueled by AI-related investments.
+
+The Defender: A Source of Stability
+
+Turning to the employment side of the Fed's dual mandate, the labor market has also proven resilient. At 4.3 percent, the unemployment rate has changed little over the past year. Other labor market measures—including job openings, unemployment claims, and job-finding and separation rates—have likewise been stable or have modestly strengthened. And survey measures of job and worker availability, along with the New York Fed's "job security gap,"—both of which had been flashing warning signs earlier—have also largely stabilized, albeit at low levels.
+
+The Midfielder: Reading Inflation
+
+On the price stability side of our dual mandate, inflation is unquestionably elevated and well above the FOMC's longer-run goal of 2 percent.
+
+The rise in inflation primarily reflects three drivers: the effects of increased tariffs on imported goods, higher energy and commodity prices owing to the conflict in the Middle East, and robust demand for certain categories of technology goods related to the AI investment boom.
+
+In coming quarters, however, I expect inflation readings to edge down for several reasons. First, the direct effects of existing tariffs on prices appear to have mostly played out. Any new tariffs would replace those that were curtailed or will soon expire, implying that we should not see a significant additional impulse on prices.
+
+Second, assuming the supply disruptions owing to the closure of the Strait of Hormuz are resolved relatively soon, energy and related goods prices should stabilize, then start to come down later this year.
+
+Third, modest increases in market rents indicate that shelter inflation should continue to slow. And finally, we are not seeing evidence that the labor market is adding to inflationary pressures.
+
+Reassuringly, medium-term inflation expectations in the New York Fed's Survey of Consumer Expectations have remained well anchored through May, with one-year-ahead expectations up modestly and three- and five-year-ahead expectations essentially unchanged since the onset of the Mideast conflict. This pattern is consistent with market-based measures of inflation expectations.
+
+The Forward: Executing Monetary Policy
+
+Given the elevated level of inflation, it is imperative that we restore it to our 2 percent longer-run goal on a sustained basis. The current stance of monetary policy is well positioned to do that. Accordingly, at its meeting last week, the FOMC decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent in support of the Fed's dual mandate.
+
+Turning to my economic outlook, I expect real GDP growth to be around 2-1/4 percent this year and over the next two years. With growth running modestly above its potential rate of 2 percent, I expect the unemployment rate to edge down gradually to 4 percent in 2028.
+
+I expect overall inflation to decline to 3-1/2 percent by year-end, then continue on a glide path toward our 2 percent goal in 2027 and land on target in 2028.
+
+Still, substantial risks remain. The AI investment boom may push up prices more than expected. And the global supply disruptions stemming from the conflict in the Middle East remain a source of risk to both the growth and inflation outlooks.
+
+Ball and Cleats: The Tools of Monetary Policy Implementation
+
+Now, I want to take a few minutes to talk about how the Fed implements monetary policy, including its operational framework, tools, and balance sheet. As you'll hear, the Fed's strategy is designed to be flexible and has proven to be well equipped to respond to changing circumstances and demand.
+
+I'll start with the framework. The core of any monetary policy implementation framework is the central bank's supply of reserves, which ranges from a low level, or "scarce," to "ample" and then "abundant." The FOMC currently operates in what we call an ample reserves framework. Instead of actively managing reserves, the Fed implements monetary policy by exercising interest rate control through the administered rates it sets to achieve the target range for the federal funds rate set by the FOMC.
+
+These administered rates help establish a floor and a ceiling for the federal funds rate. One, the interest rate on reserve balances, is the tool that helps set the floor, and another, the overnight reverse repo—or ON RRP—is the tool that reinforces it. Usage of the ON RRP adjusts automatically to market conditions, rising and falling with supply and demand, which is particularly important in a dynamic market. It has proven to be a very effective and flexible tool to support interest rate control to the downside.
+
+The Fed's standing repo operations—or SRPs—help establish a ceiling for the federal funds rate. The SRP rate is set at the top of the FOMC's target range for the federal funds rate and provides interest rate control to the upside. This combination of an ample supply of reserves and an SRP rate at the top of the target range reduces the day-to-day reliance on these operations—except during periods of significant upward pressure on rates that result from strong liquidity demand or market stress.
+
+By ensuring that adequate liquidity will be available in a wide variety of circumstances, SRPs are a critical tool used to cap temporary upward pressure on rates. It assures markets of effective interest rate control and smooth market functioning.
+
+The Strategy: Maintaining Ample
+
+When reserves are in the ample region, the Fed uses another tool, reserve management purchases—or RMPs—to maintain that level. Adjustments to the quantity of RMPs meet shifts in the demand for reserves, as well as other Fed liabilities that result from changes in the banking system—including financial sector innovations, modifications to regulations, or seasonal fluctuations, such as Tax Day.
+
+Reserves had moved to an abundant level after the onset of the pandemic, when the Fed responded quickly to restore market functioning by adding significant amounts of assets to its balance sheet. After gradually reducing the size of the balance sheet starting in June 2022, the FOMC judged last December that reserves had returned to an ample level.
+
+At that time, the FOMC also anticipated that the April tax season would lead to a large and rapid drain of reserves. This likely would have pushed reserves below ample and potentially created challenges for effective rate control. So in December, the FOMC instructed the New York Fed's Open Market Trading Desk to begin RMPs to maintain reserves within an ample range. The Desk started with a monthly pace of $40 billion.
+
+The strategy worked as designed, maintaining an ample reserves level and ensuring interest rate control. Since Tax Day, the Desk has reduced the monthly pace of RMPs substantially and somewhat gradually, first from $40 billion to $25 billion for the mid-April to mid-May purchase period, and then to $10 billion for the mid-May through mid-July periods. Varying the monthly pace of RMPs over time allows us to address fluctuations in factors that can materially drain and add reserves.
+
+The size of RMPs is based on monitoring and analysis of a variety of market indicators, including a forecast for reserve supply, measures of reserve demand, and money market conditions.
+
+We will continue to carefully monitor these indicators, and we stand ready to adjust the pace of RMPs up or down as needed to maintain reserves within the ample region.
+
+Reaching the Goal Line
+
+Like the World Cup tournament, the economy can take surprising and unpredictable turns. One thing that is certain is my unwavering commitment to supporting maximum employment and bringing inflation down to our 2 percent longer-run goal on a sustained basis.
+
+In assessing the future path of monetary policy, my views, as always, will be based on the evolution of the totality of the data, the economic outlook, and the balance of risks to the achievement of our maximum employment and price stability goals.
