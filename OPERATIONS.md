@@ -4,10 +4,16 @@ The durable, machine-independent record of how the automated pipeline runs.
 Methodology lives in `CLAUDE.md`; this file documents the *infrastructure*
 (schedules, triggers, workflows, maintenance). Last updated: 2026-06-11.
 
-The cloud "routines" (CCR triggers) are NOT stored in this repo — they live in
-claude.ai and are managed via the RemoteTrigger API / the `/schedule` skill.
-This file is the canonical inventory of them, since they are otherwise invisible
-in the codebase. Manage/view at https://claude.ai/code/routines.
+The cloud "routines" (CCR triggers) are registered in claude.ai (not the repo)
+and managed via the RemoteTrigger API / the `/schedule` skill. This file is the
+canonical inventory of them, since they are otherwise invisible in the codebase.
+Manage/view at https://claude.ai/code/routines.
+
+**Routine LOGIC is now version-controlled (2026-06-29).** The daily score
+routine's claude.ai config is a thin bootstrap (clone repo → read+follow
+`data/routine/daily_score_instructions.md`). Edit the routine by editing that
+file and committing — not by re-embedding a giant prompt via the API. The
+trigger *registration* (cron, env, token) still lives in claude.ai.
 
 ---
 
@@ -18,8 +24,8 @@ All times ET. The pipeline runs as a morning batch covering the previous day:
 | Time (ET) | Component | Type | What it does |
 |---|---|---|---|
 | 5:30am | `.github/workflows/collect.yml` | GitHub Action (cron `30 9 * * *`) | Scrape all sources → commit `data/raw/` → push. Blackout-aware (reads `blackout_periods.json`). |
-| 6:30am | **Daily score routine** `trig_01DadwAUENFGnxmNCNJSG6Af` | CCR (cron `30 10 * * *`) | Score new speeches, write the daily report dated for **yesterday (ET)**, push. Branches on blackout / FOMC-day (see below). |
-| on push | `.github/workflows/email.yml` | GitHub Action (push → `data/reports/daily/`) | SMTP-emails the daily report (matches **yesterday-ET** date). |
+| 6:30am | **Daily score routine** `trig_01DadwAUENFGnxmNCNJSG6Af` | CCR (cron `30 10 * * *`) | Bootstrap: clone repo → follow `data/routine/daily_score_instructions.md`. Score new speeches, write the daily report dated for **yesterday (ET)**, push. Branches on blackout / FOMC-day. Has a mandatory robustness fallback: always push at least a minimal report unless the date is blackout. |
+| on push | `.github/workflows/email.yml` | GitHub Action (push → `data/reports/daily/`) | SMTP-emails the daily report(s) **changed in the push** (consolidated into one message), via `git diff` of the push range. Falls back to ET-yesterday if the diff is empty. `workflow_dispatch` accepts `report_date` (single) or `start_date`+`end_date` (range, one consolidated email) for manual resends. *(Changed 2026-06-29 from the old "ET-yesterday only" logic, which silently dropped any backfilled/late report whose date wasn't literally yesterday.)* |
 | 7:30am | `com.fedmonitor.sync` | local launchd (`~/Library/LaunchAgents/`) | `git pull` → syncs to Google Drive. |
 
 **Report dating:** the report is dated for the prior day (REPORT_DATE = yesterday ET),
