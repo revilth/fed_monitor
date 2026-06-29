@@ -1,0 +1,36 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 23, 2026 (Tuesday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+[BACKFILLED 2026-06-28 — generated retroactively during monitor-outage recovery;
+ the scheduled cloud routine produced no report 06-24→06-28. See recovery note below.]
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (None) — no FOMC-member speeches with transcripts dated June 23.
+════════════════════════════════════════════════════════════════
+
+No scorable policy communications dated June 23, 2026.
+
+CONTEXT: Day 2 of the Fifth Conference on the International Roles of the U.S.
+Dollar (Fed Board + NY Fed, Washington, D.C.). Williams (NY Fed co-organizer)
+may have made opening/closing remarks; no transcript or text was posted to the
+NY Fed speeches page, and no economic-outlook content surfaced. No scoring.
+
+Inter-meeting window: June 18 – July 27, 2026. Next FOMC: July 28–29, 2026
+(non-projection meeting; no SEP). Next blackout begins July 18, 2026.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — WEDNESDAY June 24, 2026
+────────────────────────────────────────────────────────────────
+  • Annual Bank Stress Test Results — Federal Reserve Board, 4:00 PM EDT.
+    Financial-stability signal, not monetary policy. Possible post-release
+    governor comments (Barr / Bowman), likely capital-framework framed.
+  • No FOMC-member policy speeches confirmed.
+════════════════════════════════════════════════════════════════
+RECOVERY NOTE
+────────────────────────────────────────────────────────────────
+The daily scoring/report routine produced no output from June 24 through
+June 28, 2026 (last successful report: June 22, emailed June 23). Collection
+(GitHub Actions) and the email workflow remained healthy throughout. This
+report was reconstructed on June 28. No policy content was missed for this date.
+════════════════════════════════════════════════════════════════

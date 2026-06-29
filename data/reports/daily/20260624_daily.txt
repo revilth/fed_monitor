@@ -1,0 +1,61 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 24, 2026 (Wednesday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+[BACKFILLED 2026-06-28 — generated retroactively during monitor-outage recovery.]
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Lisa D. Cook  |  Board Governor  |  Just Voter
+     "Welcome Remarks"
+     State of Small Business Symposium, hosted by the Cleveland Fed
+     (via pre-recorded video)
+     STATUS: NOT SCORED — Type B: ceremonial welcome on the Small Business
+     Credit Survey; no economic-outlook or monetary-policy content.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  COOK  |  Board Governor  |  Just Voter
+    "Welcome Remarks" — State of Small Business Symposium (Cleveland Fed)
+    Pre-recorded video — June 24, 2026
+    CLASSIFICATION: Type B — ceremonial; no scoring
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Pre-recorded welcome to the Cleveland Fed's State of Small Business Symposium,
+marking 10 years of the Federal Reserve's Small Business Credit Survey (SBCS).
+Content is entirely about small-business research and the survey's value: the
+prevalence of small firms (99.9% of U.S. businesses; 61% of net new jobs since
+1995), and one survey finding — "nearly half of small employer firms reported
+using AI in some capacity, and 71% of these firms reported increased
+productivity." She frames this as evidence that small/new firms are
+"resourceful, adaptable" adopters of frontier technology.
+
+MONETARY POLICY CONTENT: None. The only mandate-adjacent sentence is boilerplate
+— "Achieving our dual mandate of maximum employment and stable prices will
+create the conditions where small businesses and all Americans can thrive." No
+growth, labor, inflation, or rate-path characterization. Pure Type B.
+
+NET SIGNAL: N/A — no policy content. Cook's most recent scorable Type A remains
+her last economic-outlook appearance; this welcome adds nothing to her stance.
+
+The AI-productivity finding is notable only as a data point alongside the
+broader committee theme (echoed by Goolsbee June 25 and in the June 17
+statement's "productivity growth … strong" language) — but Cook draws no
+policy implication from it here.
+
+ANALYST FLAG: NO.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THURSDAY June 25, 2026
+────────────────────────────────────────────────────────────────
+  • Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    Fireside Chat — Chicago Council on Global Affairs, Global Economy
+    Dialogue Series, Chicago, IL | 5:30 PM CT. Livestreamed.
+    EXPECTED TYPE: Type A. First post-blackout Type A from a non-Warsh
+    official. PRIORITY EVENT. (Scored — see June 25 report.)
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Cook Jun 24 (Welcome Remarks, SBCS symposium):
+    https://www.federalreserve.gov/newsevents/speech/cook20260624a.htm
+════════════════════════════════════════════════════════════════

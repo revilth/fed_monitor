@@ -1,0 +1,30 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 27, 2026 (Saturday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+[BACKFILLED 2026-06-28 — generated retroactively during monitor-outage recovery.]
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (None) — no FOMC-member speeches with transcripts dated June 27 (weekend).
+════════════════════════════════════════════════════════════════
+
+No scorable policy communications dated June 27, 2026.
+
+Inter-meeting window: June 18 – July 27, 2026. Next FOMC: July 28–29, 2026
+(non-projection meeting; no SEP). Next blackout begins July 18, 2026.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — SUNDAY/MONDAY June 28–29, 2026
+────────────────────────────────────────────────────────────────
+  • No FOMC-member policy speeches confirmed for June 28–29.
+  • Week ahead (Jun 29 – Jul 3): June payrolls (Jul 3) is the marquee input
+    ahead of the July 28–29 FOMC.
+════════════════════════════════════════════════════════════════
+RECOVERY NOTE
+────────────────────────────────────────────────────────────────
+This is the last of five daily reports (June 23–27) reconstructed on June 28
+after the scheduled scoring routine produced no output June 24–28. Only one
+day in the gap (June 25, Goolsbee) carried scorable policy content; it has been
+recovered and scored. Collection and email infrastructure were healthy
+throughout — the failure was isolated to the cloud scoring routine.
+════════════════════════════════════════════════════════════════

@@ -1,0 +1,219 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-06-25 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"Fireside Chat — Global Economy Dialogue Series"
+Chicago Council on Global Affairs, Chicago, IL (moderated by Brent Neiman,
+  U Chicago Booth; livestreamed)
+SOURCE: https://www.youtube.com/watch?v=FQ9osXWVuco
+
+CLASSIFICATION: Type A (Economic Outlook) — fireside Q&A + audience Q&A.
+  Recovered from YouTube auto-transcript (Chicago Fed channel); the official
+  Chicago Fed page served only an event stub. First post-June-17 Type A from
+  any non-Warsh official.
+
+REFERENCE FOMC:    June 17, 2026  (HOLD 3.50–3.75%; 12–0; easing bias/forward
+                   guidance removed; SEP turned decisively hawkish)
+PRE-FOMC BASELINE: May 12, 2026  "Fireside — Greater Rockford Chamber"
+POST-FOMC PRIOR:   N/A — this is Goolsbee's first scored Type A since the
+                   June 17 meeting. (May 12 is BOTH his immediately prior
+                   scored speech AND his pre-FOMC baseline; vs-prior and
+                   vs-pre-FOMC comparisons are therefore the same document.)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Growth was not a primary topic; treated through the AI/productivity lens
+(see INFLATION/overheating below) rather than as a standalone demand read.
+The May 12 precautionary-saving / consumer-sentiment downside risk was NOT
+repeated — no consumer-spending fragility flag this time.
+
+Own language:
+  "fast productivity growth is awesome … we've seen in the last two and a
+   half years productivity growth is a fair bit higher — 75 basis points,
+   one full percentage point higher than … before COVID."
+  → Supply-side resilience framing; aligns with the June 17 statement's new
+    "Productivity growth and capital investment are strong" sentence.
+
+Shift vs. prior speech (May 12):  hawkish lean — drops the May 12 consumer
+  precautionary-saving downside risk; growth discussed as a strength/overheating
+  vector rather than a fragility.
+Shift vs. pre-FOMC (May 12):      same.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Jun 17 stmt]
+  → Speaker version: does NOT echo the "kept pace with the workforce"
+    formulation. Stays with his own four-indicator frame.
+
+Own verdict (verbatim repeat from May 12):
+  "the job market in my mind is stable without being good."
+  → Identical characterization to May 12 ("stable without being good").
+    UNCHANGED.
+
+Own framework (repeat):
+  "the four horsemen of the truth … the unemployment rate, the vacancy rate,
+   the layoff rate, and the hiring rate … The labor market has been remarkably
+   stable for more than a year."
+  → Same "four horsemen" frame as May 12. Same low-hire/low-fire paradox
+    ("hiring rate is extremely low … the layoff rate is also extremely low"),
+    same attribution to business uncertainty ("we just don't know what the
+    rules are going to be … sit and wait").
+
+Own qualifier:
+  "the hiring rate is extremely low … who's it going to affect? … new college
+   graduates."
+  → Distributional point (recent grads bear the low-hiring environment);
+    color, not a directional shift.
+
+Shift vs. prior speech (May 12):  UNCHANGED — verdict, framework, and causal
+  story are materially identical. No deterioration and no tightening flagged.
+Shift vs. pre-FOMC (May 12):      UNCHANGED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "supply shocks that have driven price increases in certain sectors,
+   including energy" [Jun 17 stmt]
+  → Speaker version: tracks the same supply-shock framing in his own words —
+    tariffs ("supposed to be temporary … one-time increase") plus the energy/
+    war shock, layered on a pre-existing above-target run. Consistent with
+    the committee's "sequence of supply shocks" language now in the statement.
+
+Own language — KEY (services persistence, maintained from May 12):
+  "there's been a kind of a disturbingly high component of services inflation
+   which isn't really from oil prices … isn't really from tariffs … it's worth
+   keeping an eye on that."
+  → SAME core concern as May 12 ("services going the wrong way … the part I'm
+    nervous about"). The services-persistence worry is maintained, framed as
+    the hard-to-look-through component. Tone slightly less alarmed than the
+    fresh-CPI reaction of May 12, but the substance is unchanged.
+
+Energy — symmetric caution (NEW emphasis):
+  "I cautioned them on the way up … I'm cautioning you on the way down. Don't
+   overreact either … the most important thing is trying to get the through
+   line of inflation."
+  → Explicit symmetry: just as he looked through the energy spike upward, he
+    will look through a war-de-escalation energy decline. A potential oil
+    decline is "a nice tailwind … headline inflation could come way down,"
+    but he refuses to let it pull policy dovish. NET HAWKISH-NEUTRAL: declines
+    to bank disinflation he views as noise.
+
+Tariffs (persistence):
+  "more persistent than people anticipated … runup of prices was delayed more
+   than we thought … now it's been more persistent than we thought."
+  → Reinforces the persistence narrative; recent goods CPI showed "a little
+    bit of progress … back to mild deflation," but he explicitly discounts one
+    month ("one month is no months … certainly doesn't make a trend").
+
+Shift vs. prior speech (May 12):  hawkish lean — services concern maintained;
+  ADDS explicit symmetric refusal to look dovishly through an energy decline,
+  and discounts the one favorable goods-CPI print. Net: holds the hawkish line
+  rather than easing it as energy headlines improve.
+Shift vs. pre-FOMC (May 12):      same.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed / committee process:
+  Extended, sympathetic commentary on Chair Warsh removing forward guidance —
+  the single most distinctive Jun 17 statement change:
+  "the statement this time was dramatically shorter and did not involve … forward
+   guidance … Chairman Warsh has never been a public fan of forward guidance …
+   I have always been uneasy with the use of forward guidance on a routine basis."
+  Likens it to "a caffeine cleanse." Names the cost of guidance: it can make the
+  Committee "slow-footed … move too late," and a missed prediction dings credibility.
+  → This is process/governance endorsement of the new communications regime, NOT
+    a personal rate-path signal. Treat as committee-consensus alignment (he is
+    ratifying the Warsh statement architecture), per the top-down language rule.
+    He also flags Warsh as a "foxhole buddy" from the financial crisis — collegial
+    signal, not analytical.
+
+Own language — NEW hawkish-capable framing (productivity overheating):
+  "this is the most expected increase in productivity growth … of our lifetimes …
+   expected productivity growth is … an increase in your wealth today … you start
+   spending now … IPOs worth a trillion dollars … data centers have massive
+   investments … you can easily overheat the economy in the short run before the
+   magic of the productivity has arrived."
+  Greenspan/late-1990s parallel, carried to its hawkish conclusion:
+  "by 1999 … the Fed actually starts raising the interest rates very rapidly …
+   on the grounds that … this is overheating the economy and there are dangers of
+   inflation."
+  → This is the speech's most consequential new content. Goolsbee frames the AI
+    productivity boom as a potential SHORT-RUN OVERHEATING / inflation risk
+    (demand pulled forward via wealth effects and capex), explicitly invoking a
+    historical episode that ended in rapid hikes. Hawkish-capable. Aligns with
+    the June 17 SEP's hawkish turn and the statement's strong-investment language.
+
+Own language — primary worry is PERSISTENCE, not labor downside:
+  "the worrisome stuff … in the Fed's sense … is that inflation proves
+   substantially more persistent than we are currently forecasting … the Fed made
+   a mistake thinking inflation is just going to go away … people already got
+   burned once … if people go down … 'I think inflation's going to be 7% next
+   year, so I'm going to need 8% wage' … that kind of a spiral … is really
+   difficult to get out of."
+  → Names inflation persistence + expectations de-anchoring as his top policy
+    worry, invoking the 2021–22 transitory error as the cautionary template.
+    Vigilance framing, hawkish.
+
+Cut signal status: ABSENT this appearance. The May 12 conditional dovish signal
+  — "rates can come down still a fair amount" pending inflation progress — was
+  NOT repeated. [Inference: partly topic-driven — the moderator never asked his
+  preferred rate path directly, so the absence is not by itself a deliberate
+  retraction. Do not over-read it as a withdrawn cut call.] However, the
+  affirmative content he DID volunteer (productivity-overheating risk + inflation-
+  persistence vigilance + refusal to look dovishly through energy) all leans
+  hawkish, with zero offsetting cut-path language. Net effect: his stance reads
+  meaningfully less dovish than May 12.
+
+Shift vs. prior speech (May 12):  hawkish lean — drops the explicit "rates can
+  come down still a fair amount" cut signal; adds the productivity-overheating
+  risk and the inflation-persistence vigilance frame.
+Shift vs. pre-FOMC (May 12):      same.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (vs. his own May 12 baseline).
+               Labor is unchanged ("stable without being good," four horsemen).
+               Inflation concern is maintained on services and HARDENED by an
+               explicit refusal to look dovishly through a potential energy
+               decline. Monetary policy is the real move: the May 12 conditional
+               cut signal is gone, replaced by (a) a new AI-productivity SHORT-RUN
+               OVERHEATING risk drawn to a hike-ending historical parallel, and
+               (b) inflation-persistence/expectations vigilance anchored to the
+               2021–22 error. He also ratifies Warsh's forward-guidance removal.
+               This is the first concrete evidence that the hawkish June 17
+               consensus has penetrated to a non-voting regional president — the
+               key question the June 22 report flagged for this event.
+
+Language watch:
+  • "you can easily overheat the economy in the short run before the magic of
+     the productivity has arrived" — AI/productivity reframed as an OVERHEATING/
+     inflation risk rather than a clean disinflationary tailwind. Novel among the
+     regionals; watch whether Williams/Paulson/Jefferson pick up the
+     productivity-overheating frame. Language cycle: DISPERSED (single official).
+  • "stable without being good" — labor verdict, now used in ≥2 consecutive
+     Goolsbee appearances. Stable personal idiom; not spreading committee-wide.
+  • "I'm cautioning you on the way down. Don't overreact" — symmetric look-through
+     on energy; a marker that the committee will not treat oil-driven headline
+     relief as policy-relevant disinflation. Watch for echo in Troika language.
+  • "caffeine cleanse" (forward-guidance removal) — colorful ratification of the
+     Warsh communications regime; quotable, but governance commentary, not a rate
+     signal.
+
+Analyst flag: YES
+  → Goolsbee — a Non Voter who as recently as May 12 still volunteered "rates can
+    come down still a fair amount" — has, post-June-17, dropped the cut signal and
+    introduced a productivity-driven OVERHEATING risk plus persistence vigilance.
+    Assess: is this a genuine hawkish migration of a previously dovish-leaning
+    regional toward the June 17 consensus (leading indicator for the broader
+    non-voting bloc), or partly an artifact of a Q&A that never asked his rate
+    preference directly? His Feb 24 "not obvious rates are restrictive" line was
+    NOT revisited here — worth probing whether he still holds it given the SEP's
+    hawkish turn. Confirm against his next directly-policy-focused appearance.
+══════════════════════════════════════════════════════════

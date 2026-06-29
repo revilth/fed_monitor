@@ -1,0 +1,121 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: June 25, 2026 (Thursday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+[BACKFILLED 2026-06-28 — generated retroactively during monitor-outage recovery.
+ Goolsbee transcript recovered from YouTube (Chicago Fed channel); the official
+ Chicago Fed page served only an event stub.]
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Fireside Chat — Global Economy Dialogue Series"
+     Chicago Council on Global Affairs, Chicago, IL
+     (moderated by Brent Neiman, U Chicago Booth; livestreamed)
+════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  GOOLSBEE  |  Chicago Fed President  |  Non Voter
+    "Fireside Chat — Global Economy Dialogue Series"
+    Chicago Council on Global Affairs, Chicago, IL — June 25, 2026
+    CLASSIFICATION: Type A (fireside Q&A). First post-June-17 Type A
+    from a non-Warsh official.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Not a primary topic; discussed through the AI/productivity lens. He cites
+  productivity running "75 basis points, one full percentage point higher"
+  than pre-COVID — echoing the June 17 statement's new "productivity growth
+  and capital investment are strong." Notably DROPS the May 12 consumer
+  precautionary-saving downside risk.
+  Direction: hawkish lean (growth as a strength/overheating vector, not a fragility).
+
+LABOR MARKET
+  Unchanged from May 12. Verbatim repeat: "the job market in my mind is stable
+  without being good." Same "four horsemen of the truth" frame (unemployment,
+  vacancy, layoff, hiring rates) and the same low-hire/low-fire paradox
+  attributed to business uncertainty ("sit and wait"). No deterioration, no
+  tightening flagged.
+  Direction: neutral (genuinely unchanged).
+
+INFLATION
+  Services-persistence concern MAINTAINED: "a disturbingly high component of
+  services inflation which isn't really from oil prices … isn't really from
+  tariffs." HARDENS the line by refusing to look dovishly through a possible
+  energy decline: "I cautioned them on the way up … I'm cautioning you on the
+  way down. Don't overreact either." Discounts the one favorable goods-CPI
+  print ("one month is no months"). Calls tariffs "more persistent than people
+  anticipated." Tracks the committee's "supply shocks" framing.
+  Direction: hawkish lean (holds the line as energy headlines improve).
+
+MONETARY POLICY
+  The real move. The May 12 conditional cut signal — "rates can come down still
+  a fair amount" — is ABSENT. In its place, two hawkish-capable additions:
+  (1) NEW productivity-OVERHEATING framing — expected AI productivity gains pull
+  spending forward (wealth effects, trillion-dollar IPOs, data-center capex), so
+  you "can easily overheat the economy in the short run before the magic of the
+  productivity has arrived," drawn explicitly to the late-1990s Greenspan parallel
+  that ended in "raising interest rates very rapidly." (2) His stated top worry is
+  inflation PERSISTENCE and expectations de-anchoring, anchored to the 2021–22
+  "transitory" error ("people already got burned once"). He also ratifies Warsh's
+  removal of forward guidance ("a caffeine cleanse"; "I have always been uneasy
+  with … forward guidance on a routine basis") — governance alignment, not a rate
+  signal. Scenario framing: descriptive (risks named), not explicit/pre-committed.
+  [Inference] The cut-signal absence is partly topic-driven (he was never asked his
+  preferred rate path), so not by itself a retraction — but everything he
+  volunteered leans hawkish with no offsetting cut language.
+  Direction: hawkish lean.
+
+NET SIGNAL: HAWKISH LEAN — first concrete evidence the hawkish June 17 consensus
+has penetrated to a non-voting regional. Labor unchanged; inflation concern
+maintained and hardened on energy; cut signal dropped; new productivity-
+overheating risk introduced.
+
+vs. PRIOR SPEECH (May 12):        HAWKISH — drops the "rates can come down still a
+  fair amount" cut signal; adds productivity-overheating + persistence vigilance.
+vs. PRE-FOMC SPEECH (May 12):     HAWKISH — same comparison (May 12 is both his
+  prior speech and his last pre-June-17 appearance).
+vs. COMMITTEE SINCE FOMC:         Moves toward the post-June-17 hawkish center.
+  A previously dovish-leaning regional now voicing an overheating/persistence
+  thesis consistent with the SEP's hawkish turn and Waller's "sequence of supply
+  shocks" framing — the cut-bias holdouts among regionals are thinning.
+
+LANGUAGE TO WATCH:
+  • "overheat the economy in the short run before the magic of the productivity
+     has arrived" — AI/productivity reframed as an OVERHEATING/inflation risk,
+     not a clean disinflationary tailwind. DISPERSED (single official). Watch
+     Williams/Paulson/Jefferson for pickup.
+  • "I'm cautioning you on the way down. Don't overreact" — committee may treat
+     oil-driven headline relief as policy-irrelevant noise. Watch Troika echo.
+  • "stable without being good" — Goolsbee's stable labor idiom (≥2 appearances).
+  • "caffeine cleanse" — colorful ratification of the Warsh no-forward-guidance regime.
+
+ANALYST FLAG: YES — Has Goolsbee (a Non Voter who on May 12 still said "rates can
+come down still a fair amount") genuinely migrated hawkish toward the June 17
+consensus, or is the cut-signal absence an artifact of a Q&A that never asked his
+rate preference? His Feb 24 "not obvious rates are restrictive" line was not
+revisited — probe at his next directly-policy-focused appearance.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Mon June 29 – Fri July 3, 2026
+────────────────────────────────────────────────────────────────
+Inter-meeting window: June 18 – July 27. Next FOMC: July 28–29 (no SEP).
+Next blackout begins July 18, 2026.
+  • No FOMC-member policy speeches confirmed for the week of June 29 as of
+    this (retroactive) reconstruction. Goolsbee's next known appearance is
+    a July 14 business lunch (Kenosha Area Business Alliance) — outside this
+    window; event stub only, transcript TBD.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee Jun 25 (Chicago Council fireside):
+    https://www.youtube.com/watch?v=FQ9osXWVuco
+
+Pre-FOMC baseline / prior speech (vs. comparisons):
+  Goolsbee May 12 (Rockford Chamber fireside):
+    https://www.youtube.com/watch?v=88dRnkmStR4
+
+Reference — Jun 17, 2026 canonical FOMC daily (statement diff + SEP):
+  data/reports/daily/20260617_daily.txt
+════════════════════════════════════════════════════════════════
