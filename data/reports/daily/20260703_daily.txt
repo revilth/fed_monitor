@@ -1,0 +1,123 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 3, 2026 (Friday — pre-Independence Day)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (None) — no FOMC-member speeches with transcripts dated July 3, 2026.
+  Holiday effect: July 3 is the pre-Independence Day trading holiday; no
+  policy speeches are expected on this date.
+
+SCRAPER NOTE: The automated scraper has been producing mis-dated files
+  (20260630–20260703) in data/raw/statements/ and data/raw/pressconferences/
+  containing stale content — the August 22, 2025 Framework Review press
+  release and the June 17, 2026 FOMC meeting index page, respectively. These
+  files are NOT new FOMC communications. Action item: investigate and fix the
+  scraper to prevent recurring false positives on these paths.
+════════════════════════════════════════════════════════════════
+
+No scorable policy communications dated July 3, 2026.
+
+Inter-meeting window: June 18 – July 17, 2026. Next FOMC: July 28–29, 2026
+(non-projection meeting; no SEP). Next blackout begins July 18, 2026 (two
+weeks away as of this run). Scoring window for policy speeches: June 18 –
+July 17, 2026.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MONITORING GAP NOTE — June 28 – July 2, 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The daily scoring routine did not produce reports for June 28 – July 2, 2026
+(last confirmed report: June 27). Raw speech files for this window are absent
+from data/raw/speeches/, confirming no FOMC-member policy speeches were
+scraped during this period — consistent with the pre-holiday calendar and
+the absence of a second scraper run gap.
+
+SIGNIFICANT DEVELOPMENT NOT CAPTURED BY SCRAPER:
+  Chair Kevin Warsh — ECB Forum on Central Banking, Sintra, Portugal
+  July 1, 2026 (panel with ECB President Lagarde, BoE Governor Bailey,
+  Bank of Canada Governor Macklem)
+  STATUS: NOT SCORED — transcript not on federalreserve.gov; media-only
+  coverage available (CNBC, Bloomberg, PBS, CNN, C-SPAN video).
+  Action item: Recover full transcript from C-SPAN/YouTube and score as
+  Type A (economic outlook) or Type B-with-outlook depending on content
+  structure; this was Warsh's first major public appearance since June 17.
+
+  Key signals from media coverage (unverified; pending transcript recovery):
+  • INFLATION: "prices are too high" — consistent with June 17 framing.
+    "Expectations of inflation over the first four weeks of this period have
+    come down, inflation risks have come down." — SOFTER than June 17 hike-
+    risk quantification; notes progress on expectations, not just level.
+    "We're going to deliver price stability in the US" — verbatim echo of
+    June 17 statement language ("The Committee will deliver price stability").
+  • RATE PATH (July 28–29): Declined to signal. "When we get into that room
+    and shut the door, we're going to have a good debate, but I don't have
+    much more for you than that." — consistent with no-forward-guidance stance.
+  • FORWARD GUIDANCE: Reiterated opposition; joined Lagarde, Bailey, and
+    Macklem in committee-of-central-bankers consensus against forward guidance
+    as a tool. Institutional alignment on display.
+  • AI / PRODUCTIVITY: "Open-mindedness on these questions of AI, open-
+    mindedness on productivity" — consistent with June 17 statement's new
+    "Productivity growth and capital investment are strong" language.
+  • FED INDEPENDENCE: "We've been an independent central bank for a very long
+    time. We're going to be an independent central bank at this moment." —
+    unprompted reaffirmation; consistent with June 17 tone.
+  • DATA REFORM: "My hope, my aspiration, is that nine–12 months from now we're
+    going to be using new technologies to understand what's happening in the real
+    economy in a contemporaneous real-time way." — continued framing of data
+    task force as near-term deliverable.
+
+  Provisional net read (pending transcript verification): SLIGHT DOVISH LEAN
+  vs. June 17 press conference. The "inflation risks have come down" note is
+  new and softer than the explicit hike-risk language from June 17 Q&A ("half
+  of the members expect rate hikes as soon as this year"). However, the price-
+  stability commitment and no-forward-guidance posture are unchanged. This
+  suggests Warsh is monitoring the incoming data (payrolls, CPI, PCE) and has
+  not pre-committed to a July direction. Key verification: does the full
+  transcript contain a growth or labor market assessment? Media coverage did
+  not surface one.
+
+  ANALYST FLAG: YES — Warsh's first post-FOMC public appearance is a Troika
+  priority; the "inflation risks have come down" phrase needs verbatim
+  verification against the full transcript before it can be treated as a
+  confirmed directional shift. Also flag: did Warsh reiterate the "half of
+  members expect hikes this year" quantification, or drop it?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+════════════════════════════════════════════════════════════════
+UPCOMING — SUNDAY July 5, 2026
+────────────────────────────────────────────────────────────────
+  Sunday July 5: (none confirmed) — weekend; holiday recovery day after
+  July 4 Independence Day. No FOMC-member policy speeches expected.
+
+  WEEK AHEAD — July 6–11, 2026 (first full week post-holiday):
+  • No FOMC-member speeches confirmed for July 6–11 as of this run
+    (unconfirmed) — calendar lookup via federalreserve.gov returned 403;
+    individual bank event pages also unavailable. Check the Fed Board
+    calendar (federalreserve.gov/newsevents/calendar.htm) and regional bank
+    pages Monday morning for any newly posted appearances.
+  • MAJOR SCHEDULED EVENT: FOMC Minutes from June 16–17, 2026 meeting
+    release Wednesday, July 8 at 2:00 p.m. ET. (Type D scoring priority —
+    the first detailed readout of the June 17 deliberations under Chair Warsh.
+    Score using three required comparisons: vs. June 17 press conference
+    opening statement, vs. April 29 minutes, vs. June 17 statement.)
+  • Pre-blackout communications window: July 6–17, 2026 (blackout begins
+    July 18). This is the primary window for officials to establish their
+    pre-meeting positioning ahead of July 28–29 FOMC. Expect increased
+    activity, particularly from Waller, Jefferson, Williams, Paulson, Logan.
+  • No Humphrey-Hawkins testimony currently scheduled.
+  • Next blackout: July 18 – July 30, 2026 (inclusive).
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches dated July 3, 2026: (none)
+
+Warsh ECB Forum context (media only — transcript not yet recovered):
+  CNBC:    https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html
+  Bloomberg: https://www.bloomberg.com/news/articles/2026-07-01/warsh-says-fed-charting-new-course-repeats-no-forward-guidance
+  PBS:     https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation
+  C-SPAN:  https://www.c-span.org/event/international-telecasts/federal-reserve-chair-warsh-speaks-at-european-central-bank-forum/444516
+  ECB:     https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html
+
+FOMC Minutes release date:
+  Fed calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+════════════════════════════════════════════════════════════════
