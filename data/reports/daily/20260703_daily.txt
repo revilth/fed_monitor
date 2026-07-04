@@ -6,7 +6,7 @@ Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.5
 SPEECHES TODAY
   (None) — no FOMC-member speeches with transcripts dated July 3, 2026.
   Holiday effect: July 3 is the pre-Independence Day trading holiday; no
-  policy speeches are expected on this date.
+  policy speeches expected on this date.
 
 SCRAPER NOTE: The automated scraper has been producing mis-dated files
   (20260630–20260703) in data/raw/statements/ and data/raw/pressconferences/
@@ -29,95 +29,171 @@ MONITORING GAP NOTE — June 28 – July 2, 2026
 The daily scoring routine did not produce reports for June 28 – July 2, 2026
 (last confirmed report: June 27). Raw speech files for this window are absent
 from data/raw/speeches/, confirming no FOMC-member policy speeches were
-scraped during this period — consistent with the pre-holiday calendar and
-the absence of a second scraper run gap.
+scraped during this period. Two significant communications were missed by the
+scraper (both external events):
 
-SIGNIFICANT DEVELOPMENT NOT CAPTURED BY SCRAPER:
-  Chair Kevin Warsh — ECB Forum on Central Banking, Sintra, Portugal
-  July 1, 2026 (panel with ECB President Lagarde, BoE Governor Bailey,
-  Bank of Canada Governor Macklem)
-  STATUS: NOT SCORED — transcript not on federalreserve.gov; media-only
-  coverage available (CNBC, Bloomberg, PBS, CNN, C-SPAN video).
-  Action item: Recover full transcript from C-SPAN/YouTube and score as
-  Type A (economic outlook) or Type B-with-outlook depending on content
-  structure; this was Warsh's first major public appearance since June 17.
+──────────────────────────────────────────────────────────────
+SIGNIFICANT EVENT 1 — NOT SCORED (Troika; transcript not scraped)
+Chair Kevin Warsh — ECB Forum on Central Banking
+Sintra, Portugal, July 1, 2026 (panel with Lagarde/Bailey/Macklem)
+STATUS: NOT SCORED — no Fed Board transcript posted; media-only coverage
+  (CNBC, Bloomberg, PBS, C-SPAN video available).
+  Action item: Recover full transcript from C-SPAN or YouTube and score
+  as Type B or Type B-with-outlook; this was Warsh's first major public
+  appearance since June 17, 2026.
 
-  Key signals from media coverage (unverified; pending transcript recovery):
-  • INFLATION: "prices are too high" — consistent with June 17 framing.
-    "Expectations of inflation over the first four weeks of this period have
-    come down, inflation risks have come down." — SOFTER than June 17 hike-
-    risk quantification; notes progress on expectations, not just level.
-    "We're going to deliver price stability in the US" — verbatim echo of
-    June 17 statement language ("The Committee will deliver price stability").
-  • RATE PATH (July 28–29): Declined to signal. "When we get into that room
-    and shut the door, we're going to have a good debate, but I don't have
-    much more for you than that." — consistent with no-forward-guidance stance.
-  • FORWARD GUIDANCE: Reiterated opposition; joined Lagarde, Bailey, and
-    Macklem in committee-of-central-bankers consensus against forward guidance
-    as a tool. Institutional alignment on display.
-  • AI / PRODUCTIVITY: "Open-mindedness on these questions of AI, open-
-    mindedness on productivity" — consistent with June 17 statement's new
-    "Productivity growth and capital investment are strong" language.
-  • FED INDEPENDENCE: "We've been an independent central bank for a very long
-    time. We're going to be an independent central bank at this moment." —
-    unprompted reaffirmation; consistent with June 17 tone.
-  • DATA REFORM: "My hope, my aspiration, is that nine–12 months from now we're
-    going to be using new technologies to understand what's happening in the real
-    economy in a contemporaneous real-time way." — continued framing of data
-    task force as near-term deliverable.
+Key signals from media coverage (unverified; pending transcript recovery):
+• INFLATION: "prices are too high" — consistent with June 17 framing.
+  "Expectations of inflation over the first four weeks of this period have
+  come down, inflation risks have come down." — softer than June 17 hike-risk
+  quantification; notes near-term progress but does not retract the structural
+  "deliver price stability" commitment.
+  "We're going to deliver price stability in the US" — verbatim echo of the
+  June 17 statement language; committee-level, not personal.
+• RATE PATH (July 28–29): Declined to signal. "You're back to forward
+  guidance. I'm going to disabuse you of trying to extract that. When we get
+  into that room and shut the door, we're going to have a good debate, but I
+  don't have much more for you than that." — consistent with no-forward-
+  guidance stance; notably resolute on refusing to pre-commit.
+• FORWARD GUIDANCE: Reiterated opposition; joined Lagarde, Bailey, and
+  Macklem in a committee-of-central-bankers consensus against forward guidance
+  as a policy tool. International alignment now explicit and public.
+• AI / PRODUCTIVITY: "Open-mindedness on these questions of AI, open-
+  mindedness on productivity" — consistent with June 17 statement's "Productivity
+  growth and capital investment are strong."
+• FED INDEPENDENCE: "We've been an independent central bank for a very long
+  time. We're going to be an independent central bank at this moment." —
+  unprompted reaffirmation; consistent in tone with June 17.
+• DATA REFORM: "My hope, my aspiration, is that nine–12 months from now we're
+  going to be using new technologies to understand what's happening in the real
+  economy in a contemporaneous real-time way." — data task force framed as a
+  near-term deliverable; timing update vs. June 17 ("by fall/year-end").
 
-  Provisional net read (pending transcript verification): SLIGHT DOVISH LEAN
-  vs. June 17 press conference. The "inflation risks have come down" note is
-  new and softer than the explicit hike-risk language from June 17 Q&A ("half
-  of the members expect rate hikes as soon as this year"). However, the price-
-  stability commitment and no-forward-guidance posture are unchanged. This
-  suggests Warsh is monitoring the incoming data (payrolls, CPI, PCE) and has
-  not pre-committed to a July direction. Key verification: does the full
-  transcript contain a growth or labor market assessment? Media coverage did
-  not surface one.
+Provisional net read (pending transcript verification): SLIGHT DOVISH LEAN
+vs. June 17 press conference. The "inflation risks have come down" note is
+new and softer than the explicit hike-risk language from June 17 Q&A ("half
+of the members expect rate hikes as soon as this year"). However, this reads
+more as acknowledging near-term data improvement than as a policy pivot —
+the "deliver price stability" anchor and the refusal to pre-commit on July
+are unchanged.
 
-  ANALYST FLAG: YES — Warsh's first post-FOMC public appearance is a Troika
-  priority; the "inflation risks have come down" phrase needs verbatim
-  verification against the full transcript before it can be treated as a
-  confirmed directional shift. Also flag: did Warsh reiterate the "half of
-  members expect hikes this year" quantification, or drop it?
+ANALYST FLAG: YES — Priority transcript recovery. Key verification questions:
+(1) Does the full transcript contain a growth or labor market assessment?
+Media coverage did not surface one. (2) Did Warsh reiterate or drop the
+"half of members expect hikes this year" quantification? (3) Was the
+"inflation risks have come down" framing in response to a question about the
+June payrolls print or the Iran-ceasefire-related oil price decline?
+
+──────────────────────────────────────────────────────────────
+SIGNIFICANT EVENT 2 — NOT SCORED (Non Voter; transcript not scraped)
+SF Fed President Mary Daly — Banco de España Conference
+Santander, Spain, July 2, 2026
+STATUS: NOT SCORED — transcript not on frbsf.org; media-only coverage.
+  Action item: Check frbsf.org speaker page and Banco de España conference
+  site for transcript; if unavailable, recover from video if posted.
+
+Key signals from media coverage (unverified):
+• STANCE: "Policy slightly restrictive." — consistent with her prior framing.
+• SCENARIOS: Two explicit scenarios flagged — (1) persistent inflation
+  requiring tighter policy; (2) growth slowdown requiring easing. No named
+  probability assigned. [Descriptive framing, not Waller-style explicit
+  pre-commitment — per CLAUDE.md, note this distinction.]
+• DATA: Cited AI investment uncertainty and oil price decline post-Iran war
+  ceasefire as factors in her outlook. The ceasefire-driven oil drop is a new
+  post-June-17 development; Daly is the first official to reference it.
+• NET SIGNAL: [Provisional] neutral-to-slightly-dovish — "slightly restrictive"
+  stance and two-scenario framing suggest she is watching data but not
+  pre-committed. Needs full text to score directional shift vs. prior speech.
+
+ANALYST FLAG: YES — Daly is a non-voter; flag for awareness but lower
+  priority than Warsh transcript recovery.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+KEY DATA — June Payrolls (Released July 2, 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Nonfarm Payrolls: +57,000 (well below 110,000 consensus; May revised to
+    +129,000 from +138,000)
+  Unemployment Rate: 4.2% (down from 4.3%)
+  Average Hourly Earnings: +3.5% YoY (up from +3.4%)
+
+  Policy read: The payrolls miss is significant — the smallest monthly gain
+  since the post-COVID labor market normalization. However, the split is
+  analytically ambiguous for the FOMC: the headline is soft (dovish), the
+  unemployment rate FELL (hawkish), and wage growth ACCELERATED (hawkish).
+  This is precisely the "cooling labor quantity but sticky wage pressure"
+  pattern that most hawkish members have flagged as the scenario where they
+  would NOT ease despite headline payroll softness. Rate-hike probability by
+  September is reported at ~50% (down from ~65% pre-release). The June 17
+  statement language — "Job gains have kept pace with the workforce" — is now
+  being tested; July 8 FOMC Minutes will reveal the degree to which the June
+  17 deliberations anticipated exactly this scenario.
+
+  [Inference]: This NFP print makes the July 28–29 meeting outcome less
+  predictable. Watch for officials to address the payrolls/wages split
+  explicitly in the pre-blackout window (July 6–17).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — SUNDAY July 5, 2026
 ────────────────────────────────────────────────────────────────
-  Sunday July 5: (none confirmed) — weekend; holiday recovery day after
-  July 4 Independence Day. No FOMC-member policy speeches expected.
+  Sunday July 5: (none confirmed) — weekend; holiday recovery day.
+  No FOMC-member policy speeches expected.
 
   WEEK AHEAD — July 6–11, 2026 (first full week post-holiday):
-  • No FOMC-member speeches confirmed for July 6–11 as of this run
-    (unconfirmed) — calendar lookup via federalreserve.gov returned 403;
-    individual bank event pages also unavailable. Check the Fed Board
-    calendar (federalreserve.gov/newsevents/calendar.htm) and regional bank
-    pages Monday morning for any newly posted appearances.
-  • MAJOR SCHEDULED EVENT: FOMC Minutes from June 16–17, 2026 meeting
-    release Wednesday, July 8 at 2:00 p.m. ET. (Type D scoring priority —
-    the first detailed readout of the June 17 deliberations under Chair Warsh.
-    Score using three required comparisons: vs. June 17 press conference
-    opening statement, vs. April 29 minutes, vs. June 17 statement.)
-  • Pre-blackout communications window: July 6–17, 2026 (blackout begins
-    July 18). This is the primary window for officials to establish their
-    pre-meeting positioning ahead of July 28–29 FOMC. Expect increased
-    activity, particularly from Waller, Jefferson, Williams, Paulson, Logan.
-  • No Humphrey-Hawkins testimony currently scheduled.
-  • Next blackout: July 18 – July 30, 2026 (inclusive).
+
+  No individual FOMC-member speeches confirmed for July 6–11 as of this run.
+  Given the weak June payrolls print (+57K, released July 2), one or more
+  officials may make opportunistic remarks, but nothing is announced.
+  Check federalreserve.gov/newsevents/calendar.htm Monday morning.
+
+  MAJOR SCHEDULED EVENTS this week:
+  • Wednesday July 8, 2:00 p.m. ET — FOMC MINUTES (June 16–17 meeting)
+    Type D scoring priority — first detailed readout of deliberations under
+    Chair Warsh. Three required comparisons: (1) vs. June 17 press conference
+    opening statement; (2) vs. April 29 minutes; (3) vs. June 17 statement.
+    Special attention: how the committee characterized the dot-plot hawkish
+    shift, the three-hawk dissent pattern (Hammack/Logan/Kashkari vs. easing
+    bias), and the removal of forward guidance. The "half of members expect
+    hikes this year" Warsh Q&A comment will have its minutes correlate.
+
+  LATER IN JULY (confirmed/announced):
+  • Tuesday July 14, 12:00 PM CT — Austan Goolsbee (Non Voter, Chicago)
+    Fireside chat, Kenosha Area Business Alliance Business Lunch, Kenosha, WI
+    (livestreamed). First in-person economic remarks in Kenosha — watch for
+    June payrolls response.
+  • Tuesday July 14 — June CPI Release (time TBD)
+    Prior: headline +4.2% YoY; core +2.9% YoY. Last major inflation read
+    before the July 29 FOMC decision.
+  • Thursday July 16, 11:30 AM CDT — Lorie Logan (Just Voter, Dallas)
+    "Listening in 360" tour, Houston Branch, 1801 Allen Parkway, Houston, TX.
+    Last pre-blackout appearance from a hawkish dissenter.
+  • Wednesday July 15, 4:15 PM ET — BEIGE BOOK
+    Type H scoring; compare national-summary sections vs. prior Beige Book.
+  • Friday July 18 — BLACKOUT BEGINS (July 18–30)
+    Final inter-meeting window closes; next report cover: July 17 (Thursday).
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches dated July 3, 2026: (none)
 
-Warsh ECB Forum context (media only — transcript not yet recovered):
-  CNBC:    https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html
+Warsh ECB Forum coverage (media; transcript not recovered):
+  CNBC:      https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html
   Bloomberg: https://www.bloomberg.com/news/articles/2026-07-01/warsh-says-fed-charting-new-course-repeats-no-forward-guidance
-  PBS:     https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation
-  C-SPAN:  https://www.c-span.org/event/international-telecasts/federal-reserve-chair-warsh-speaks-at-european-central-bank-forum/444516
-  ECB:     https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html
+  PBS:       https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation
+  C-SPAN:    https://www.c-span.org/event/international-telecasts/federal-reserve-chair-warsh-speaks-at-european-central-bank-forum/444516
+  CNN:       https://www.cnn.com/2026/07/01/economy/fed-chairman-warsh-first-global-speech
+  ECB:       https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html
 
-FOMC Minutes release date:
+Daly Santander coverage (media; transcript not recovered):
+  FXStreet:  https://www.fxstreet.com/news/feds-daly-there-is-a-scenario-where-fed-has-to-fight-inflation-202607021246
+
+June NFP (July 2, 2026):
+  Kiplinger: https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar
+
+FOMC Minutes scheduled date:
   Fed calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+Logan Houston appearance:
+  Dallas Fed: https://www.dallasfed.org/events/2026/26loganhou
 ════════════════════════════════════════════════════════════════
