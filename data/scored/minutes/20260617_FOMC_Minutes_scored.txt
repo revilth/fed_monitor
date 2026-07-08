@@ -1,0 +1,391 @@
+══════════════════════════════════════════════════════════
+FOMC MINUTES ANALYSIS — TYPE D
+══════════════════════════════════════════════════════════
+June 16–17, 2026 FOMC Meeting
+Minutes released: July 8, 2026 (3 weeks post-meeting)
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm
+
+Corresponding statement: June 17, 2026
+Corresponding press conference: June 17, 2026 (Warsh's first; provisional
+  transcript — SOURCE: https://www.youtube.com/watch?v=aKllbvCaWvo)
+Prior minutes: April 28–29, 2026
+  → SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm
+Corresponding SEP: data/scored/sep/20260617_SEP_scored.txt (decisively hawkish;
+  2026 median dot 3.4%→3.8%; 9 of 18 pencil a 2026 hike)
+
+FFR decision: Hold at 3-1/2 to 3-3/4%
+Vote: 12–0 UNANIMOUS — Warsh (Chair), Williams, Barr, Bowman, Cook, Hammack,
+  Jefferson, Kashkari, Logan, Paulson, Powell, Waller. No dissents.
+  (April 29 was 8–4; Miran departed May 2026, no longer a voter.)
+Next meeting: July 28–29, 2026.
+
+NOTE ON METHOD: Primary source is Participants' Views on Current Conditions
+and the Economic Outlook and the Committee Policy Actions sections. Staff
+review sections are background context only. Three comparisons are made:
+(1) vs. the June 17 press conference opening statement (Warsh's first —
+committee-approved language); (2) vs. April 29 minutes — to track how the
+distribution of views shifted; (3) vs. the June 17 statement — to identify
+what was intentionally omitted from the 130-word public document.
+──────────────────────────────────────────────────────────
+
+GROWTH — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+Participants:
+  "Participants generally observed that economic activity had continued to
+   expand at a solid pace, despite elevated uncertainty, supported by strong
+   business investment and resilient consumer spending." Business investment
+   "remained concentrated in AI-related expenditures, which showed no signs
+   of slowing." Some participants suggested these investments "would likely
+   increase the growth of productivity and of potential output," though
+   "considerable uncertainty remained regarding both the timing and
+   magnitude" of the payoff.
+
+  Compositional detail (NEW — the growth-section flag your methodology
+  calls for): "stock market gains and federal income tax refunds sent
+  earlier this year had provided support to consumer spending, particularly
+  among higher-income households. They noted, however, that lower-income
+  households were increasingly relying on credit to maintain spending and
+  continued to face disproportionate pressures from elevated gasoline and
+  grocery prices."
+
+vs. June 17 press conference opening statement:
+  Opening: "Economic activity is expanding at a solid pace despite elevated
+  uncertainty that owes, in part, to the conflict in the Middle East.
+  Productivity growth and capital investment are strong."
+  → Aligned on solid pace / Middle East uncertainty / investment strength.
+    The higher- vs. lower-income compositional split does NOT appear in the
+    opening statement — richer detail than the committee's public framing.
+
+vs. April 29 minutes:
+  April: "Several participants noted energy price strains on lower-income
+  households." A single, brief mention.
+  June: explicit two-tier characterization — higher-income households
+  supported by stock gains/tax refunds; lower-income households "increasingly
+  relying on credit," facing "disproportionate pressures" from gas/groceries.
+  → Escalation: the compositional concern is now more specific and more
+    starkly two-sided than April's single-line mention.
+
+vs. June 17 statement:
+  Statement: "Economic activity is expanding at a solid pace despite
+  elevated uncertainty... Productivity growth and capital investment are
+  strong." No mention of the income-composition split.
+  → The compositional concern did not make the public statement at all.
+
+Direction: NEUTRAL-TO-HAWKISH — headline growth unambiguously solid; the
+compositional concern is a watch-item, not yet a policy driver.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+Participants — hard data verdict:
+  "Participants generally observed that the unemployment rate had remained
+   relatively stable over the past year at a level near participants'
+   estimates of its longer-run level. Participants generally remarked that
+   payroll employment gains had strengthened this year and appeared roughly
+   consistent with underlying labor force growth."
+  → This is now a GENERAL characterization (not qualified to "most" as in
+    April) — broader consensus on stabilization.
+
+Participants — remaining caveats (minority):
+  "Several participants noted, however, that declines in the job-finding
+   rate and certain survey measures of job availability reflected a labor
+   market with relatively low dynamism."
+  "Many participants remarked that the labor market was not currently a
+   source of inflationary pressures, or that nominal wage growth remained
+   consistent with inflation moving toward 2 percent."
+
+Near-term outlook — explicit self-correction:
+  "Some participants remarked that their concerns earlier this year about
+   labor market deterioration had eased with recent data, and several
+   participants noted that the solid payroll employment data in recent
+   months could signal increased labor market momentum."
+
+vs. June 17 press conference opening statement:
+  Opening: "Job gains have kept pace with the workforce, and the
+  unemployment rate has changed little."
+  → For the first time this cycle, the opening statement and the minutes
+    AGREE on labor. In April, Powell's opening statement went further with
+    "labor demand has clearly softened" — a phrase absent from the minutes'
+    participants section. That divergence is now closed: the "kept pace
+    with the workforce" reframe is fully consistent with the minutes.
+
+vs. April 29 minutes — the key change:
+  April risk balance: "Most participants judged... that risks to the
+  employment side of the Committee's dual mandate were tilted to the
+  downside."
+  June (Monetary Policy section): "downside risks to achieving maximum
+  employment had moderated a bit."
+  → Real de-escalation of the labor-side risk case for cutting. The June
+    minutes explicitly self-reference the shift ("concerns... had eased
+    with recent data").
+  April fragility language ("a few participants pointed to the possibility
+  that the low rates of job growth were a sign of labor market fragility")
+  has no equivalent in June — the minority-fragility framing has receded.
+
+vs. June 17 statement:
+  Statement: "Job gains have kept pace with the workforce, and the
+  unemployment rate has changed little."
+  → Well aligned with the minutes; no divergence to flag.
+
+Direction: HAWKISH SHIFT — the labor-market insurance-cut rationale that
+was live in April is fading.
+
+──────────────────────────────────────────────────────────
+INFLATION — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+Participants:
+  "Participants generally noted that inflation had increased further and
+   remained well above the Committee's 2 percent longer-run objective."
+  Attribution: "lingering effects of tariffs, supply chain disruptions
+   related to the closure of the Strait of Hormuz, and strength in demand
+   for some goods and services stemming from robust AI-related investment."
+  Breadth (NEW): "Several participants commented that price pressures had
+   become more broad based, with a large share of goods and services—
+   including transportation, airfares, petrochemical products, and
+   agricultural inputs—experiencing substantial increases."
+  "Several participants remarked that services price inflation excluding
+   housing had declined little and remained high."
+
+  Expectations:
+  "The majority of participants commented that most measures of medium- and
+   longer-term inflation expectations remained at levels consistent with
+   the Committee's 2 percent objective." But: "The majority of participants
+   highlighted the possibility that, after several years of inflation above
+   2 percent, continued elevated inflation rates could begin to affect
+   inflation expectations and wage- and price-setting decisions."
+
+  New demand-side channel (NOT present in April): "Most participants
+   remarked that growth in economic activity that exceeded that of
+   potential output, owing in part to strong AI business investment, could
+   contribute to more persistent inflationary pressures."
+
+  Partial offset acknowledged: "Some participants remarked that
+   productivity gains associated with AI adoption would eventually reduce
+   production costs and increase aggregate supply... though they noted this
+   effect would likely take time to materialize." "Several participants
+   noted that the deceleration in housing services prices was likely to
+   continue to be a source of disinflationary pressure."
+
+vs. June 17 press conference opening statement:
+  Opening: "Inflation remains elevated relative to the Committee's 2
+  percent goal, in part reflecting supply shocks that have driven price
+  increases in certain sectors, including energy. The Committee will
+  deliver price stability." (Plus extended Q&A: "running well ahead...for
+  more than five years"; "the recent past need not be prolog.")
+  → The statement's terse "supply shocks... including energy" is a fraction
+    of what's in the minutes. Broad-based sectoral pressure, the AI-demand
+    channel, and the expectations-fragility risk (now "majority," up from
+    April's "several") are all absent from the public opening statement.
+
+vs. April 29 minutes — escalation on three axes:
+  Intensity: April "inflation had moved up" → June "increased further and
+  remained well above." (April minutes: "Participants observed that
+  overall inflation had moved up.")
+  Breadth: April was a narrow tariff/core-goods story (with a software-
+  price look-through nuance from "a few" participants) → June is explicitly
+  multi-sector ("transportation, airfares, petrochemical products,
+  agricultural inputs").
+  Mechanism: April was supply-only (tariffs) → June adds a genuine
+  demand-side channel (growth exceeding potential via AI investment) not
+  present at all in April.
+  Expectations fragility: April "several participants highlighted the
+  possibility" → June "the majority of participants highlighted" the same
+  risk — "several" to "majority" is a clear escalation in how many
+  officials worry about de-anchoring.
+
+vs. June 17 statement:
+  Statement mentions only "supply shocks... including energy." The
+  demand-side channel (AI/above-potential growth) and the broad-based
+  sectoral characterization are entirely omitted from the public document.
+  → Widest comparison-3 gap of the three background sections.
+
+Direction: HAWKISH ESCALATION — the largest directional move of the three
+background topics.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY — PARTICIPANTS' VIEWS
+──────────────────────────────────────────────────────────
+On the hold decision — HIGH SIGNAL, present-tense hike case:
+  "A few participants commented that, in light of these developments,
+   there was a case for raising the target range for the federal funds
+   rate, but those participants indicated that they supported maintaining
+   the current target range at this meeting."
+  → This is materially different from April's framing, which was purely a
+    conditional/future reaction function ("a majority of participants
+    highlighted that some policy firming would likely become appropriate
+    IF inflation were to continue to run persistently above 2 percent").
+    June documents an actual case for hiking NOW, declined only on
+    process/timing grounds, not substance.
+
+On restrictiveness — the neutral-rate hedge phrase is GONE:
+  "Several participants remarked that they did not see the current policy
+   stance as restrictive, while a few other participants commented that
+   they saw the current policy stance as slightly restrictive."
+  → CRITICAL: the vague hedge used in both March and April minutes —
+    "participants generally judged that the current policy rate was
+    within the range of plausible estimates of its neutral level" — does
+    NOT appear anywhere in the June minutes (confirmed by full-text search).
+    It has been replaced by an explicit, resolved split: the larger group
+    ("several") says policy is NOT restrictive at all; the smaller group
+    ("a few") says only "slightly restrictive." Per the CLAUDE.md
+    neutral-rate precision rule: this doesn't just fail to resolve the
+    ambiguity — it resolves it in the hawkish direction. No participant is
+    quoted characterizing policy as meaningfully above neutral.
+
+Named scenario framing — committee-wide, matching the language-cycle
+methodology (dispersed → committee-wide, one stage short of the statement):
+  "Most participants remarked on scenarios in which inflationary pressures
+   would dissipate and inflation would soon begin to return to 2 percent.
+   In such scenarios, almost all of these participants noted that it would
+   likely be appropriate to maintain or eventually lower the target range."
+  "Most participants, however, also pointed to scenarios in which... in the
+   context of stable labor market conditions, inflation would remain
+   elevated due to strong AI-related demand, the conflict in the Middle
+   East, or the effects of tariffs. In such scenarios, almost all of these
+   participants indicated that some policy firming would likely be
+   warranted."
+  → This is the Waller-style (Apr 17, "BENIGN/ADVERSE") explicit named
+    two-scenario device, now appearing COMMITTEE-WIDE in the minutes for
+    the first time. Bottom-up language cycle: dispersed (Waller, Apr 17) →
+    committee-wide (minutes, June). Watch for it entering the statement.
+
+Individual dot positioning — ties directly to the scored SEP:
+  "Many participants indicated that the appropriate level of the federal
+   funds rate would be within or slightly below the current target range
+   at the end of this year. Many other participants, however, assessed
+   that the appropriate level of the federal funds rate would be above
+   the current target range at the end of this year."
+  → Matches the SEP's quantified split: 9 of 18 participants pencil at
+    least one 2026 hike (0 of 19 in March); median dot 3.4%→3.8%; the
+    entire dovish tail (five sub-3.625% dots in March) is gone. Warsh's
+    own Q&A quantified this verbally: "half of the members of the FOMC
+    expect rate hikes as soon as this year."
+
+Statement redesign rationale — confirms the April minutes' prediction:
+  "A number of participants noted that it was an opportune time to
+   consider significant changes to the FOMC's postmeeting statement. A
+   majority of participants remarked that they saw advantages in
+   shortening the statement. Most participants emphasized that they
+   preferred not to repeat the language in the previous postmeeting
+   statement that had suggested an easing bias."
+  → Validates the April 29 minutes' scored prediction that easing-bias
+    removal was "a single meeting away."
+
+New institutional item:
+  "The Chairman described plans to establish five independent task forces
+   to examine issues related to the broad conduct of monetary policy."
+  → Matches what Warsh's June 17 Q&A already flagged (communications,
+    balance sheet, data sources, productivity/jobs, causes of inflation);
+    now confirmed as discussed at the meeting itself, not just announced
+    after.
+
+vs. June 17 press conference opening statement:
+  The opening statement is neutral in its forward language (no explicit
+  tightening bias stated) even though the minutes reveal an actual,
+  present-tense hike case was made and declined, and the restrictiveness
+  view now tilts toward "not restrictive." The Q&A (Warsh, unscripted)
+  went further than the opening statement — quantifying the hike risk at
+  "half" the committee — but even the Q&A did not disclose the explicit
+  "case for raising... at this meeting" language now visible in the
+  minutes. The minutes are the most hawkish of the three documents.
+
+vs. April 29 minutes — net-hawkish across the board:
+  A. HIKE CASE: conditional/future (April) → present-tense, actually made
+     and declined (June). Clear escalation.
+  B. RESTRICTIVENESS: vague "within range of plausible neutral estimates"
+     (April, unchanged from March) → explicit "not restrictive" (several)
+     vs. "slightly restrictive" (a few) split (June). The hedge is gone.
+  C. NAMED SCENARIOS: absent in April → committee-wide benign/adverse
+     framing in June. New device.
+  D. CUT CASE: April had an explicit near-term cut case — "several
+     participants highlighted that it would likely be appropriate to
+     lower the target range... once there are clear indications that
+     disinflation is firmly back on track." June has NO equivalent
+     language anywhere in the monetary policy discussion — the dovish
+     minority case that existed one meeting ago has dropped out entirely.
+
+vs. June 17 statement:
+  By far the widest comparison-3 gap of the four topics. None of the
+  following appear in the 130-word public statement: the hike-case
+  discussion, the restrictiveness split, the named scenario framework, the
+  individual dot positioning, or the five task forces.
+
+Direction: HAWKISH — the strongest signal of the four topics, and the
+most consequential finding in this release.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH vs. April 29 minutes; HAWKISH vs. the June 17 opening
+               statement; HAWKISH vs. the June 17 statement. Consistent
+               across all three comparisons, with monetary policy carrying
+               the strongest signal.
+
+The most analytically significant findings:
+
+  1. "A few participants commented that... there was a case for raising
+     the target range... at this meeting" — the first present-tense hike
+     case documented in minutes this cycle (previously only a conditional
+     future reaction function).
+  2. The neutral-rate hedge phrase ("within the range of plausible
+     estimates of its neutral level") — present verbatim in both March
+     and April minutes — is completely ABSENT from June, replaced by an
+     explicit split that leans "not restrictive."
+  3. The explicit April cut case ("several participants... appropriate to
+     lower... once disinflation is firmly back on track") has NO
+     equivalent in June — the dovish minority framing has disappeared
+     from the discussion, not merely weakened.
+  4. A committee-wide named benign/adverse scenario framework appears for
+     the first time — the Waller-style device has moved from dispersed to
+     committee-wide, one stage short of the statement itself.
+  5. The labor-market risk balance eased ("downside risks... moderated a
+     bit," down from April's "most... tilted to the downside") even as
+     the inflation and monetary-policy sections hardened — labor is no
+     longer providing a dovish counterweight.
+
+vs. press conference opening statement:
+  The minutes are more hawkish than either the opening statement or even
+  Warsh's unscripted Q&A. The opening statement carries neutral forward
+  language; the Q&A quantified the hike risk ("half the committee") but
+  did not disclose that an actual hike case was made and declined at the
+  meeting, or that the "not restrictive" framing had become the larger
+  camp. The minutes are the richest and most hawkish of the three June 17
+  documents.
+
+On the neutral rate (precision note):
+  Unlike March and April, the June minutes do NOT use the vague "within
+  the range of plausible estimates" hedge. The explicit split — "several:
+  not restrictive" vs. "a few: slightly restrictive" — resolves in the
+  hawkish direction: nobody is quoted describing policy as meaningfully
+  above neutral, and the "not restrictive" camp is described as larger
+  than the "slightly restrictive" camp.
+
+Language watch:
+  • "Case for raising the target range" — first present-tense hike
+    advocacy in minutes this cycle. Watch for this framing to appear in a
+    Just Voter speech before the July 28–29 meeting.
+  • Named benign/adverse scenario framing — now committee-wide in the
+    minutes (Waller's Apr 17 device generalized). Watch for it entering
+    the next statement — that would complete the bottom-up cycle.
+  • Disappearance of "within the range of plausible estimates of its
+    neutral level" — the vague neutral hedge is gone. If it does not
+    reappear in the July minutes, treat its absence as durable, not a
+    one-meeting fluke.
+  • Disappearance of the April "firmly back on track" cut threshold
+    language — no successor phrase for a near-term cut case appeared in
+    June at all.
+
+Analyst flag: YES
+  → Is the "case for raising" minority (currently "a few") on track to
+    become the median view by July 28–29, given the SEP already shows 9
+    of 18 penciling a 2026 hike and the median dot (3.8%) sits above the
+    current 3.625% midpoint?
+  → The explicit disappearance of the near-term dovish cut case (present
+    in April, absent in June) — is this driven specifically by the
+    Middle East/AI inflation channel (potentially transitory pending a
+    Strait of Hormuz resolution, which the staff review notes had already
+    been reached by the end of the intermeeting period), or does it
+    reflect a more durable hawkish consolidation under Warsh's first
+    meeting? This distinction matters for how quickly the committee could
+    pivot back toward cuts if energy prices retrace.
+══════════════════════════════════════════════════════════

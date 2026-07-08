@@ -1,0 +1,122 @@
+FOMC MINUTES — June 16-17, 2026 (released July 8, 2026)
+════════════════════════════════════════════════════════════════════════
+Warsh's First Meeting | HOLD 3.50–3.75% | 12–0 unanimous | Cycle: HOLDING,
+rising hike risk
+Prior FOMC minutes: April 28–29, 2026 | SEP: decisively hawkish (see
+data/scored/sep/20260617_SEP_scored.txt)
+════════════════════════════════════════════════════════════════════════
+
+Full scored analysis: data/scored/minutes/20260617_FOMC_Minutes_scored.txt
+Full three-way comparison method (vs. June 17 opening statement, vs. April
+29 minutes, vs. June 17 statement) applied per CLAUDE.md Type D.
+
+NET SIGNAL: HAWKISH — consistent across all three comparisons. Monetary
+policy carries the strongest signal of the four topics.
+
+────────────────────────────────────────────────────────────────────────
+TOP FINDINGS
+────────────────────────────────────────────────────────────────────────
+
+1. PRESENT-TENSE HIKE CASE (new this meeting)
+   "A few participants commented that... there was a case for raising the
+   target range for the federal funds rate, but those participants
+   indicated that they supported maintaining the current target range at
+   this meeting."
+   April's equivalent was purely conditional/future ("some policy firming
+   would likely become appropriate IF inflation continues persistently
+   above 2 percent"). June documents an actual case made and declined —
+   not just a future reaction function.
+
+2. THE NEUTRAL-RATE HEDGE PHRASE IS GONE
+   March and April minutes both used: "policy rate was within the range
+   of plausible estimates of its neutral level" — deliberately vague,
+   spanning mildly-restrictive to neutral views.
+   June instead: "Several participants remarked that they did not see the
+   current policy stance as restrictive, while a few other participants
+   commented that they saw the current policy stance as slightly
+   restrictive."
+   The vague hedge is replaced by an explicit split that resolves
+   hawkish — the larger group says NOT restrictive at all; nobody is
+   quoted calling policy meaningfully above neutral.
+
+3. THE APRIL CUT CASE HAS NO JUNE EQUIVALENT
+   April: "Several participants highlighted that it would likely be
+   appropriate to lower the target range... once there are clear
+   indications that disinflation is firmly back on track."
+   June: no equivalent language anywhere in the monetary policy
+   discussion. The near-term dovish case has dropped out, not just
+   weakened.
+
+4. COMMITTEE-WIDE NAMED SCENARIO FRAMING (bottom-up language cycle)
+   "Most participants" discussed a BENIGN scenario (inflation dissipates
+   → maintain or eventually lower) and an ADVERSE scenario (AI demand /
+   Middle East / tariffs keep inflation elevated → policy firming
+   warranted). This is Waller's Apr 17 named-scenario device, now
+   appearing committee-wide in the minutes for the first time — one stage
+   short of appearing in the statement itself.
+
+5. LABOR RISK EASED, REMOVING A DOVISH COUNTERWEIGHT
+   April: "most participants judged... risks to the employment side...
+   tilted to the downside."
+   June: "downside risks to achieving maximum employment had moderated a
+   bit." Minutes explicitly self-reference the shift: "concerns earlier
+   this year about labor market deterioration had eased with recent
+   data."
+
+6. DOT POSITIONING MATCHES THE SCORED SEP
+   "Many participants... within or slightly below current range at
+   year-end. Many other participants... above current range." Matches
+   the SEP's 9-of-18 hike dots (0 of 19 in March), median 3.4%→3.8%,
+   collapsed dovish tail. Warsh's own Q&A: "half of the members of the
+   FOMC expect rate hikes as soon as this year."
+
+────────────────────────────────────────────────────────────────────────
+GROWTH — brief
+────────────────────────────────────────────────────────────────────────
+Solid pace, AI investment "showing no signs of slowing." New compositional
+flag: higher-income spending supported by stock gains/tax refunds; lower-
+income households "increasingly relying on credit," facing "disproportion-
+ate pressures" from gas/groceries — sharper than April's single-line
+mention, and absent from both the opening statement and the public
+statement. Direction: neutral-to-hawkish.
+
+────────────────────────────────────────────────────────────────────────
+INFLATION — brief
+────────────────────────────────────────────────────────────────────────
+"Increased further and remained well above" 2% (vs. April's "moved up").
+Attribution widened to Strait of Hormuz closure + AI demand, beyond
+tariffs. New broad-based sectoral characterization (transportation,
+airfares, petrochemicals, agricultural inputs) not present in April. New
+demand-side channel: growth exceeding potential (via AI investment) as an
+inflation driver — absent from April entirely. Expectations-fragility
+concern escalated from "several" to "majority." Direction: hawkish
+escalation — the largest move of the three background topics.
+
+────────────────────────────────────────────────────────────────────────
+WHAT DIDN'T MAKE THE STATEMENT
+────────────────────────────────────────────────────────────────────────
+The 130-word June 17 statement omits: the present-tense hike case, the
+restrictiveness split, the named benign/adverse scenario framework, the
+individual dot positioning, the income-composition growth detail, and the
+five task forces the Chairman described (communications, balance sheet,
+data sources, productivity/jobs, causes of inflation) — matching what
+Warsh's Q&A already flagged, now confirmed as discussed at the meeting.
+
+────────────────────────────────────────────────────────────────────────
+ANALYST FLAG: YES
+────────────────────────────────────────────────────────────────────────
+Is the "case for raising" minority on track to become the median view by
+July 28–29, given the SEP already shows 9 of 18 penciling a 2026 hike with
+the median dot above the current midpoint? And: is the disappearance of
+the near-term dovish cut case driven specifically by the Middle East/AI
+inflation channel (potentially transitory — the staff review notes a
+Strait of Hormuz agreement was reached by the end of the intermeeting
+period), or does it reflect a more durable hawkish consolidation under
+Warsh's first meeting?
+
+════════════════════════════════════════════════════════════════════════
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm
+PRIOR MINUTES: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm
+Full analysis: data/scored/minutes/20260617_FOMC_Minutes_scored.txt
+Generated: July 8, 2026 | Alert type: FOMC minutes (Type D)
+════════════════════════════════════════════════════════════════════════
