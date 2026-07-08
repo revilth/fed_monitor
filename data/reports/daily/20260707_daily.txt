@@ -1,0 +1,161 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 7, 2026 (Tuesday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "Opening Remarks on Sound Practices for Artificial Intelligence"
+     Financial Stability Board Virtual Outreach Event
+     STATUS: NOT SCORED — Type B, no economic outlook section. Pure AI
+       governance/supervision topic (FSB consultation report on responsible
+       AI adoption by financial institutions). No monetary policy signals.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm
+════════════════════════════════════════════════════════════════
+
+No scorable policy communications dated July 7, 2026.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  MICHELLE W. BOWMAN  |  Vice Chair for Supervision  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLASSIFICATION: Type B — Financial regulation / AI governance. Speech
+  delivered at the FSB (Financial Stability Board) Virtual Outreach Event
+  on a consultation report covering sound practices for responsible AI
+  adoption by financial institutions. Bowman chairs the FSB's Standing
+  Committee on Supervisory and Regulatory Cooperation.
+
+Content summary: Bowman discussed the FSB report's framework for AI
+  governance, including materiality assessment, proportionality for
+  smaller institutions, and supervisory intensity calibrated to use-case
+  risk. No reference to the economic outlook, inflation, labor markets,
+  or the rate path. No monetary policy signals of any kind.
+
+NOT SCORED FOR POLICY CONTENT — no economic outlook embedded.
+
+Calibration note: Bowman's last scored economic outlook speech was
+  May 29, 2026 ("A Framework for Practical Monetary Policy Decision
+  Making," Reykjavík Economic Conference), classified Type B with
+  embedded Type A. Her policy stance from that speech (moderately
+  restrictive; seeking a "proactive" approach; full four-topic assessment
+  post-April 29) remains the current calibration anchor. That speech
+  post-dates the June 6 blackout start and is therefore her most recent
+  pre-June-17 economic assessment. No post-June-17 Type A from Bowman
+  exists yet.
+
+ACTION ITEM: Watch for a post-June-17 economic outlook speech from
+  Bowman. Given her "moderately restrictive, proactive cuts" stance from
+  May 29 (under the April 29 / 4.25–4.50% regime), her post-June-17
+  update will be critical — the June 17 meeting cut rates 75bp and
+  removed forward guidance. Whether she accepts the new regime or
+  retains a dovish lean relative to the hawkish June 17 SEP is the key
+  question.
+
+ANALYST FLAG: NO — Type B with no policy content. No action needed
+  on this speech.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SCORING BACKLOG NOTE — July 4–7, 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+July 4 (Independence Day) and July 5–6 (weekend): No FOMC-member
+  speeches. Routine non-speech days.
+
+Pending from July 6, 2026 (NOT dated today; deferred to next
+  applicable run):
+
+  Governor Christopher J. Waller (Just Voter)
+  "Two Thoughts on the Transmission of Monetary Policy"
+  Bank of Italy ESCB Research Conference, Rome, Italy (July 6, 2026)
+  STATUS: RAW FILE IN BACKLOG — NOT SCORED in this run (dated July 6,
+    not REPORT_DATE July 7). Preliminary read: Type B on monetary
+    policy transmission methodology (initial conditions; forward
+    guidance). The "initial conditions" section uses the 2022
+    labor-market vacancy ratio as a case study. The "forward guidance"
+    section is a methodological critique, not a current-rate-path
+    signal. No direct economic outlook assessment found in the text.
+    Likely Type B without scorable outlook — but must verify in full
+    before classifying final. Score in a separate run or as a
+    catch-up item. Source URL pattern: waller20260706a.htm
+  ANALYST FLAG: YES — Waller is a Just Voter; the "initial conditions"
+    framing may carry an implicit message about how he is reading the
+    post-payrolls (June +57K) labor data against the June 17 regime.
+    The Rome speech's methodological content may be signaling how he
+    would calibrate a response to the soft payrolls print without
+    explicitly committing to a stance. Analyst judgment needed.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday July 9, 2026
+────────────────────────────────────────────────────────────────
+No FOMC-member speeches confirmed for Thursday July 9, 2026.
+
+CONTEXT — FOMC MINUTES RELEASED TODAY (Wednesday July 8, 2:00 PM ET):
+  The June 16–17, 2026 FOMC Minutes drop this afternoon. This is the
+  first detailed readout of deliberations under Chair Warsh. Key items
+  to watch:
+  • Dot-plot deliberations: 9 participants projected at least one hike
+    this year; 8 projected hold; 1 projected a cut. Warsh withheld his
+    dot (first chair to do so since the dot plot launched in Jan 2012).
+    The minutes will clarify the reasoning behind the hawkish shift and
+    the three-hawk dissent (Hammack, Logan, Kashkari against the easing
+    bias language).
+  • Forward guidance removal: the committee's internal debate on
+    eliminating forward guidance — and whether the "at least as currently
+    structured" language on the SEP signals formal reform.
+  • Labor-market characterization: how the June 17 deliberations framed
+    the labor outlook relative to Warsh's "kept pace with the workforce"
+    reframe. Whether a significant minority expressed concern about the
+    soft data divergence from hard data.
+  • Neutral rate views: whether any participants moved their longer-run
+    dot or revised their restrictiveness assessment at 3.50–3.75%.
+  Type D scoring priority. Three required comparisons (per CLAUDE.md):
+    (1) vs. June 17 press conference opening statement;
+    (2) vs. April 29, 2026 minutes;
+    (3) vs. June 17 statement.
+  File to: data/scored/minutes/ after reading.
+
+REMAINDER OF PRE-BLACKOUT WINDOW (July 8–17):
+  • Tuesday July 14, 12:00 PM CT — Austan Goolsbee (Non Voter, Chicago)
+    Fireside chat, Kenosha Area Business Alliance Business Lunch,
+    Kenosha, WI (livestreamed). First confirmed post-June-17 Type A
+    appearance. Watch for June payrolls (+57K miss) response.
+  • Tuesday July 14 — June CPI Release (time TBD)
+    Last major inflation read before the July 29 FOMC decision. Prior:
+    headline +4.2% YoY; core +2.9% YoY.
+  • Wednesday July 15, 4:15 PM ET — Beige Book
+    Type H scoring; compare national-summary sections vs. prior
+    Beige Book. Key: does anecdotal evidence of labor-market softness
+    corroborate the June +57K payrolls print?
+  • Thursday July 16, 11:30 AM CDT — Lorie Logan (Just Voter, Dallas)
+    "Listening in 360" tour, Houston Branch, 1801 Allen Parkway,
+    Houston, TX. Last pre-blackout appearance from a hawkish dissenter.
+  • Friday July 18 — BLACKOUT BEGINS (July 18–30)
+    Final inter-meeting window closes. No policy speeches during
+    blackout. Next report after July 17 (Thursday) will skip or be
+    BLACKOUT-classified.
+
+TRANSCRIPT RECOVERY PRIORITY (outstanding from prior window):
+  1. Chair Kevin Warsh — ECB Forum on Central Banking, Sintra, Portugal,
+     July 1, 2026 (panel with Lagarde/Bailey/Macklem). C-SPAN video
+     available. Full transcript still not recovered. TOP PRIORITY before
+     the July 18 blackout.
+  2. SF Fed President Mary Daly — Banco de España Conference, Santander,
+     Spain, July 2, 2026. Check frbsf.org speaker page.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches dated July 7, 2026:
+  Bowman (July 7):  https://www.federalreserve.gov/newsevents/speech/bowman20260707a.htm
+
+Waller July 6 (backlog):
+  https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
+
+FOMC Minutes (July 8):
+  https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+Goolsbee Kenosha (July 14):
+  https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking
+
+Logan Houston (July 16):
+  https://www.dallasfed.org/events/2026/26loganhou
+════════════════════════════════════════════════════════════════
