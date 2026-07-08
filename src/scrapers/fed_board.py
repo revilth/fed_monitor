@@ -139,7 +139,11 @@ class FedBoardScraper(BaseScraper):
 
         for block in soup.select("div.fomc-meeting, div.panel"):
             meeting_date = self._extract_meeting_date(block)
-            if meeting_date and not self.is_after_cutoff(meeting_date):
+            # A block with no parseable meeting date is not a meeting block
+            # (e.g. stray framework-review press releases on the calendar
+            # page) — skip it rather than falling back to today's date,
+            # which previously re-saved stale content as a "fresh" doc daily.
+            if meeting_date is None or not self.is_after_cutoff(meeting_date):
                 continue
             for link in block.select("a[href]"):
                 label = link.get_text(strip=True).lower()
@@ -159,8 +163,8 @@ class FedBoardScraper(BaseScraper):
                     continue
                 records.append(SpeechRecord(
                     speaker="FOMC" if doc_type != "pressconf" else "Jerome Powell",
-                    date=meeting_date or date.today(),
-                    title=f"FOMC {doc_type.title()} {(meeting_date or date.today()).strftime('%Y%m%d')}",
+                    date=meeting_date,
+                    title=f"FOMC {doc_type.title()} {meeting_date.strftime('%Y%m%d')}",
                     url=href, text=text, source=self.source_name,
                     doc_type=doc_type, tier=1, voter=True,
                 ))

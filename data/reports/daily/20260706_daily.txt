@@ -1,0 +1,64 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 6, 2026 (Monday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+[BACKFILLED 2026-07-08 — generated retroactively during monitor-outage recovery.
+Supersedes the placeholder "pending backlog" note carried in the July 7 report;
+this is the full classification.]
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "Two Thoughts on the Transmission of Monetary Policy"
+     Bank of Italy ESCB Research Conference ("Challenges for Monetary Policy
+     Transmission in a Changing World"), Rome, Italy
+     STATUS: NOT SCORED — Type B, no embedded economic outlook section.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
+════════════════════════════════════════════════════════════════
+
+No scorable policy communications dated July 6, 2026.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  CHRISTOPHER J. WALLER  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLASSIFICATION: Type B — Monetary policy transmission methodology. An academic
+  conference remarks piece built around "two thoughts": (1) the importance of
+  "initial conditions" in assessing how policy transmits, illustrated with the
+  2022 job-vacancy-to-unemployment ratio as a historical case study, and (2) a
+  methodological critique of forward guidance, illustrated with the September
+  2020–2021 liftoff guidance episode.
+
+Content summary: Both sections are retrospective/methodological. The initial-
+  conditions discussion revisits why 2022 tightening did not produce the
+  unemployment spike historical models predicted (citing his own 2022–2023
+  work on vacancies and "big shocks travel fast"). The forward-guidance
+  discussion revisits the 2020 "on track to moderately exceed 2 percent"
+  guidance as a cautionary example of guidance that "tied the hands of the
+  FOMC" — again historical, not a present-day characterization. No reference
+  to current inflation, the labor market, the rate path, the June 17
+  statement, or the July 28–29 meeting anywhere in the text.
+
+NOT SCORED FOR POLICY CONTENT — no economic outlook embedded, no current-cycle
+  language of any kind. This is a stronger, confirmed read than the July 7
+  report's placeholder (which flagged possible implicit signaling from the
+  "initial conditions" framing); the full text contains no application of
+  that framing to 2026 conditions.
+
+ANALYST FLAG: NO — pure methodology piece, no monetary-policy signal to
+  validate. [Inference: the "initial conditions" lens Waller lays out here
+  could plausibly inform how he reads a future soft-labor-data print, but he
+  does not apply it to current conditions in this speech — flagging only as
+  a framework to watch for, not a signal.]
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT CALENDAR DAY: Tuesday July 7, 2026
+────────────────────────────────────────────────────────────────
+  Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+  "Opening Remarks on Sound Practices for Artificial Intelligence"
+  Financial Stability Board Virtual Outreach Event
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches dated July 6, 2026:
+  Waller (July 6):  https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
+════════════════════════════════════════════════════════════════
