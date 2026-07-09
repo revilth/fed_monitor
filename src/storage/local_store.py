@@ -53,7 +53,10 @@ def save_raw(rec: SpeechRecord) -> Path:
     if path.exists():
         logger.debug(f"Already exists, skipping: {path.name}")
         return path
-    path.write_text(rec.text, encoding="utf-8")
+    body = rec.text
+    if rec.url and not body.lstrip().startswith("SOURCE:"):
+        body = f"SOURCE: {rec.url}\n\n{body}"
+    path.write_text(body, encoding="utf-8")
     rec.raw_filename = str(path)
     logger.info(f"Saved raw: {path}")
     return path

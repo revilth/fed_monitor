@@ -1,6 +1,6 @@
 # Speaker Calibration Notes
 
-Last updated: 2026-06-18. Update after any speech that shifts a speaker's stance or introduces new tracked language.
+Last updated: 2026-07-09. Update after any speech that shifts a speaker's stance or introduces new tracked language.
 
 ---
 
@@ -19,6 +19,8 @@ HIKE RISK: Explicitly quantified — "half of the members of the FOMC expect rat
 INSTITUTIONAL REFORM: Five task forces launched (communications, balance sheet, data, productivity/jobs, causes of inflation). The data task force signals Warsh views current official statistics as methodologically inadequate — raises the bar for reacting to individual prints. Most to conclude by fall/year-end.
 
 TRACKED LANGUAGE: "The recent past need not be prologue" (opening statement; committee-level). "The Committee will deliver price stability" (statement; committee-level). "Zero is to the right" (Q&A; personal). "We can make strong growth, low prices and strong employment mutually compatible" (Q&A; personal).
+
+**Warsh — July 1, 2026 update (ECB Forum, Sintra panel; first appearance since June 17):** Full score at data/scored/speeches/20260701_Warsh_scored.txt. Reaffirmed June 17 stance, added: (1) GROWTH — quantified "structural productivity in the high 2% range" (trailing 4 quarters, pre-AI-surge), strengthening the no-growth-case-for-cuts argument; (2) INFLATION — new tactical softening, "inflation risks have come down" / "inflation expectations... have come down," but declined to confirm/deny his June 17 debut was "hawkish" — structural 2% target unchanged; (3) SEP — firmer sunset signal, "there will still be dots for a short time, at the very least" (vs. June 17's "at least as currently structured"); (4) BALANCE SHEET — new topic, personal pre-Chair view reaffirmed (smaller balance sheet, rates as dominant tool), process will be slow and well-telegraphed ("18 years in, won't take more than 18 weeks to unwind"); (5) FED INDEPENDENCE — directly asked about the Lisa Cook Supreme Court ruling for the first time as Chair; measured/legalistic response ("I believe in Article 3 judges... rule of law"), plus an unprompted independence line ("no matter what the president wants"); (6) LABOR — explicitly declined to update his "labor markets are steady" framing for "recent events," stated one day BEFORE the weak June NFP print (+57K, July 2) — watch how this trend-over-print discipline holds once the committee actually digests that report. Task force membership expected week of July 6, 2026 — score as a discrete event when named.
 
 **Powell** — Term as Chair ended May 15, 2026. Stays on the Board as a governor, committed to a "low profile" and working with Warsh. No anticipated economic outlook speeches. Key legacy calibration: Apr 29 press conference — (1) "labor demand has clearly softened" (now inverted by Warsh); (2) two explicit pre-cut conditions ("backside of the energy shock" AND "progress on tariffs"); (3) "next two quarters" deadline for tariff pass-through; (4) stacking logic adopted. Powell's pre-cut conditions framework remains analytically relevant even under Warsh.
 

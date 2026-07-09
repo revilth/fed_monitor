@@ -37,7 +37,7 @@ FOMC_MEMBER_NAMES = {
     "Powell", "Jefferson", "Williams", "Barr", "Bowman", "Cook",
     "Goolsbee", "Harker", "Collins", "Musalem", "Kugler", "Waller",
     "Kashkari", "Logan", "Bostic", "Barkin", "Daly", "Hammack",
-    "Schmid", "Adriana",  # Kugler often referred to by first name
+    "Schmid", "Adriana", "Warsh", "Paulson", "Miran",
 }
 
 # Title keywords that indicate a monetary policy / economic outlook event
@@ -324,6 +324,9 @@ def infer_speaker_from_title(title: str) -> str:
                 "Bowman": "Michelle Bowman",
                 "Cook": "Lisa Cook",
                 "Barr": "Michael Barr",
+                "Warsh": "Kevin Warsh",
+                "Paulson": "Anna Paulson",
+                "Miran": "Stephen Miran",
             }
             return name_map.get(name, name)
 

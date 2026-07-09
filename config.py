@@ -20,27 +20,29 @@ LOCAL_SCORED = DATA_DIR / "scored"
 LOCAL_REPORTS = DATA_DIR / "reports"
 
 # Speaker tiers
+# Succession: Warsh sworn in as Chair May 2026; Powell remains a Board governor
+# (low profile, not Troika). See CLAUDE.md "Troika — Core" for details.
 TIER_1_SPEAKERS = {
-    "Jerome Powell": "Chair",
+    "Kevin Warsh": "Chair",
     "Philip Jefferson": "Vice Chair",
     "John Williams": "NY Fed President",
 }
 
 # 2026 FOMC voters (update annually from https://www.federalreserve.gov/monetarypolicy/fomc.htm)
+# Confirmed from the April 29, 2026 FOMC dissent record; see CLAUDE.md.
 TIER_2_VOTERS = {
-    "Jerome Powell",
+    "Kevin Warsh",
+    "Jerome Powell",        # remains a Board governor, still votes
     "Philip Jefferson",
     "John Williams",
     "Michael Barr",
     "Michelle Bowman",
     "Lisa Cook",
-    "Austan Goolsbee",     # Chicago
-    "Anna Paulson",        # Philadelphia (new president 2026; replaced Harker)
-    "Susan Collins",       # Boston (rotating)
-    "Alberto Musalem",     # St. Louis (rotating)
-    "Adriana Kugler",
     "Christopher Waller",
-    "Stephen Miran",       # New Board Governor 2026
+    "Anna Paulson",         # Philadelphia (rotating; replaced Harker)
+    "Beth Hammack",         # Cleveland (rotating)
+    "Neel Kashkari",        # Minneapolis (rotating)
+    "Lorie Logan",          # Dallas (rotating)
 }
 
 # Current cycle regime (analyst updates this)

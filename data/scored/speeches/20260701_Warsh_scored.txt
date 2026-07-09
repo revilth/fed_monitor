@@ -1,0 +1,311 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+July 1, 2026 | Kevin Warsh | Chair | Troika
+"ECB Forum on Central Banking 2026 — Policy Panel"
+Panel with Christine Lagarde (ECB), Andrew Bailey (BoE), Tiff Macklem (BoC);
+moderated by Sara Eisen (CNBC). Sintra, Portugal.
+SOURCE: https://www.youtube.com/watch?v=Ohg5Sav1kpw (CNBC, full ~66-min panel,
+verified against transcript; cross-checked against Bloomberg/PBS/CNN/C-SPAN
+media coverage already logged in the July 3, 2026 daily report)
+
+REFERENCE FOMC:    June 17, 2026
+PRE-FOMC BASELINE: N/A — Warsh had no speech as Chair before the June 17 FOMC
+                    (sworn in May 2026; June 17 was his first meeting/press conf).
+POST-FOMC PRIOR:   June 17, 2026 press conference (Type E; provisional score at
+                    data/reports/fomc/20260617_pressconf_provisional.txt).
+                    This is Warsh's first public appearance since that meeting.
+
+FORMAT NOTE: Unlike a solo speech, this is a moderated multi-official panel with
+no separate committee-approved "opening statement" — every Warsh utterance here
+is unscripted, so the whole transcript is scored like press-conference Q&A
+(personal signal), with FOMC-language echoes flagged inline. Classified Type B
+(Special Topic — forward guidance philosophy, AI, financial stability, balance
+sheet, task forces, Fed independence) WITH EMBEDDED OUTLOOK — Sara Eisen asked
+direct growth/labor/inflation/policy questions throughout, so full Growth/
+Labor/Inflation/Monetary Policy sections are scored below per Type A method,
+followed by a SPECIAL TOPICS section for the Type B content.
+
+TIMING NOTE: This appearance is dated July 1 — one day BEFORE the weak June
+payrolls report (+57K, released July 2; see 20260703_daily.txt). Warsh's labor
+characterization below explicitly predates that print and states a methodological
+commitment not to react to "recent events." Treat this as the pre-NFP baseline
+against which the committee's eventual reaction to the payrolls miss should be
+measured.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Given fuller treatment than usual: Warsh volunteered a specific productivity
+figure not disclosed June 17, directly relevant to the growth-slowdown-as-
+cut-rationale debate.
+
+FOMC statement language echoed: June 17 opening added "Productivity growth
+and capital investment are strong" (first appearance of that sentence, per
+the provisional press-conf score).
+  → Speaker version, Sintra: extends it with an actual number — "over the
+    last four quarters in the US structural productivity is in the high 2%
+    range. So potential growth looks like it's trended up."
+
+Own language:
+  "This is a time that the labor markets hours worked are relatively flat.
+  Um history says that we go from periods of low productivity to periods of
+  high productivity. Nothing is in the bank at this time of consequence. But
+  if the last four quarters are an indication, which is really largely before
+  the advent of the new surge in what artificial intelligence can do, I think
+  there's reason to be optimistic." — structural optimism, explicitly framed
+  as pre-AI-surge (i.e., the "high 2%" number undercounts any future AI
+  productivity contribution).
+  "Now, does that optimism convey into policy in the next six or nine months?
+  Still too soon to say." — deliberately non-committal; refuses to translate
+  the growth optimism into a policy signal, consistent with the no-forward-
+  guidance posture.
+
+Shift vs. POST-FOMC PRIOR (June 17):    HAWKISH-LEAN — quantifies and
+  reinforces the June 17 "productivity and capital investment are strong"
+  line with a specific, previously undisclosed figure. Strengthens the
+  "no growth-slowdown rationale for cuts" framing.
+Shift vs. pre-FOMC:                     N/A (no pre-FOMC baseline).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 opening: "Job gains have kept pace with the workforce, and the
+  unemployment rate has changed little."
+  → Speaker version, Sintra: "when we met two weeks ago, I think the way we
+    as a committee described the labor side of the mandate is we said labor
+    markets are steady. We said the demand side of the economy was solid and
+    we said the supply side of the economy, especially capex and
+    productivity... was strong."
+
+Own qualifier — KEY:
+  "I don't want to sound like a Wall Street newsletter and update that with
+  recent events because we follow trends." — an explicit methodological
+  commitment to trend-based, not print-based, reading of labor data. Note
+  [Inference]: this statement was made the day before the weak June NFP
+  release (July 2); Warsh could not have been referring to that print
+  specifically, but the framing signals how he is likely to treat it once
+  released — as noise to be smoothed, not an immediate policy trigger, aligned
+  with the data task force's stated skepticism of "government agencies with
+  mismeasurement problems" and "surveys that are no longer relevant" (see
+  SPECIAL TOPICS below).
+
+Shift vs. POST-FOMC PRIOR (June 17):    UNCHANGED in substance ("steady" is
+  Warsh's own shorthand paraphrase of "kept pace with the workforce") but ADDS
+  an explicit anti-reactivity commitment absent June 17.
+Shift vs. pre-FOMC:                     N/A.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17: "The Committee will deliver price stability."
+  → Speaker version, Sintra: "We're going to deliver price stability in the
+    US. That's what this committee has signed up to do and our objective is
+    to do that." — near-verbatim continuation.
+
+Own language — KEY:
+  "Expectations of inflation over the first four weeks of this period, they've
+  come down. Inflation risks have come down." — GENUINELY NEW since June 17;
+  softer in degree, acknowledging near-term progress (confirmed against media
+  coverage already logged in the July 3 report; full context now verified: the
+  "four weeks" reference frames this as post-June-17 progress, likely tied to
+  the oil-price retreat discussed elsewhere on the panel — "$72/barrel now vs.
+  $120 in March," per Lagarde on the same stage).
+  "If there were people in household or the business sector or the financial
+  markets who thought that this central bank was going to be comfortable with
+  an inflation objective above 2%. Well, I guess they'd be disappointed. We're
+  going to deliver price stability in the US." — reaffirms the hard 2% target
+  in substance, without repeating the literal "zero is to the right of the
+  decimal point" phrase from June 17.
+
+Notable non-answer: Sara Eisen asked directly, "So the market was right to
+  interpret your first news conference as hawkish?" Warsh: "Nice try... I've
+  just gotten advice from my senior statesman on this group not to do that."
+  He declined to confirm or deny, then pivoted straight to the "inflation
+  risks have come down" line — a soft signal at the margin without an actual
+  retraction of the June 17 hawkish framing.
+
+Shift vs. POST-FOMC PRIOR (June 17):    SLIGHT DOVISH-LEAN, tactical/near-term
+  only — near-term inflation risk and inflation-expectations language has
+  softened. STRUCTURAL STANCE UNCHANGED: the hard-2%, "deliver price
+  stability" anchor is fully reaffirmed, not walked back.
+Shift vs. pre-FOMC:                     N/A.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none literally new (forward guidance already
+  dropped June 17); this appearance is a doubling-down and elaboration of
+  that posture, in front of an audience of three other central bank heads
+  who converged on the same view.
+
+Own language:
+  On the July 28–29 decision: "There's a lot of data that we received in that
+  meeting [June 17]. I see many of my FOMC colleagues here in Sintra. I take
+  their views very seriously. I want us to have a good family fight when we
+  meet in four weeks. There's a lot of late-breaking news on a series of
+  these things and when we get into that room and shut the door, we're going
+  to have a good debate... I don't have much more for you than that." —
+  refused to signal July outcome when asked directly ("Is July on the table
+  for a rate hike?").
+  On forward guidance philosophy — new, more personal framing than June 17:
+  "My view is financial markets and the real economy work best when you look
+  at what's happening in the real economy, you make your own judgments...
+  There has been a tendency — and I take plenty of blame for this — [from]
+  the '08 crisis, where we were trying to suppress volatility, where we
+  thought we needed to spoon-feed markets to get out of that. That was the
+  right policy for a crisis. It is not the right policy for the time that we
+  have now." — GENUINELY NEW: a personal, self-implicating critique of his
+  own earlier-career-era Fed (he was a Governor 2006–2011) that goes beyond
+  June 17's more abstract "not well suited to the current policy conjuncture"
+  framing.
+
+Cut/hike signal status: ABSENT for July. The June 17 Q&A quantification
+  ("half of the members of the FOMC expect rate hikes as soon as this year")
+  was NEITHER reiterated NOR retracted here — the topic simply did not come
+  up in this format. Do not read silence as a retraction.
+
+SEP / dot plot — reform signal STRENGTHENED:
+  "I'm going to let one panel discussion go without me sort of wagering on
+  the dots. There will still be dots for a short time, at the very least,
+  but we have a task force for that and we'll revisit it." — "for a short
+  time, at the very least" is MORE explicit than June 17's "at least as
+  currently structured"; raises the probability, in the analyst's read, that
+  the dot-plot format changes as soon as the September SEP meeting.
+
+Balance sheet — NEW content, not addressed June 17:
+  Asked directly for a target balance-sheet level (currently $6.7T): declined
+  a number, citing the new balance-sheet task force. But volunteered his
+  standing personal framework: "There is no secret that from the 2011 period
+  when I was leaving the Fed through now, I wanted the Fed's balance sheet to
+  be smaller... interest rate policy [is] the fairest of the broad
+  constellation... My four weeks at the Fed haven't disabused me of that
+  idea." Process commitment: any change "will be well deliberated publicly,
+  well understood and will not be implemented until financial markets have
+  come to understand what those are... it won't take us more than 18 weeks
+  to bring it down to size" (contrasted against the 18 years it took to build
+  up). [Inference: this reads as Warsh pre-committing to a slow, telegraphed
+  QT resumption or balance-sheet reduction later in his tenure, not an
+  imminent move.]
+
+Shift vs. POST-FOMC PRIOR (June 17):    HAWKISH structurally (no rate signal,
+  reform program deepening) with the same caveat as June 17: this is a
+  process signal, not a directional stance on rates. SEP-abandonment signal
+  intensified; balance-sheet framework made explicit for the first time.
+Shift vs. pre-FOMC:                     N/A.
+
+──────────────────────────────────────────────────────────
+SPECIAL TOPICS (Type B content)
+──────────────────────────────────────────────────────────
+FED INDEPENDENCE — directly asked, not merely a passing reference (this
+  resolves ANALYST FLAG #3 from the July 3, 2026 daily report, which
+  speculated the topic was avoided; it was not):
+  Asked about the Supreme Court ruling allowing Governor Lisa Cook to keep
+  her seat: "We were doing so well. Before the Supreme Court the Fed acted
+  independently and followed its remit. After the Supreme Court ruling the
+  Fed will continue to do so. I read the opinion on the plane over here...
+  I believe in Article 3 judges. I believe in the rule of law. We'll follow
+  the Supreme Court decision, but day-to-day the decision reaffirms what
+  President Lagarde already said. We are calling balls and strikes as best
+  we can." — measured, legalistic, deferential tone; the wry "we were doing
+  so well" deflection acknowledges the awkwardness without dodging the
+  question. Also unprompted, earlier in the panel, apropos of nothing asked:
+  "No matter what the president wants, we've been an independent central
+  bank for a very long time. We're going to be an independent central bank
+  at this moment, and you're going to see no changes on that." [Inference:
+  the unprompted framing suggests independence messaging is a deliberate,
+  rehearsed talking point Warsh is proactively deploying, not just reactive.]
+
+AI / PRODUCTIVITY: "The AI shock is leading to a boom in capital expenditures.
+  We see that first and foremost in demand, but I'm confident we're going to
+  see it in supply at some point." — near-term demand-side effect (potentially
+  inflationary via capex) vs. later supply-side effect (disinflationary) —
+  an explicit two-stage timing view. Contrasted favorably against 1990s-2000s
+  "financial engineering" (buybacks) as a better allocation of corporate
+  capital. On jobs: "lump of labor fallacy... we are in the first or second
+  inning of this revolution... jobs will be greater, prosperity will be
+  stronger. The question... is timing, and we have to take that very
+  seriously. We have a dual mandate." — long-run optimism paired with an
+  explicit near-term monitoring commitment.
+
+FINANCIAL STABILITY: Prompted on stretched valuations / AI-trade excess and
+  leveraged basis trades in sovereign debt markets (a theme Bailey and
+  Macklem led): Warsh declined an independent judgment — "I'm not prepared
+  to sort of make a broad comment denoting risks that are available in the
+  system" — deferring to the joint central-bank view rather than breaking
+  from it. [Descriptive framing only; no named policy response — contrast
+  with Waller-style explicit scenario pre-commitment per CLAUDE.md's
+  scenario-framing distinction.]
+
+TASK FORCES: First concrete timeline disclosed: "I can tell you likely next
+  week who will be the outside experts" — task-force membership (the five
+  groups announced June 17: communications, balance sheet, data, productivity/
+  jobs, causes of inflation) to be named the week of July 6, 2026. Watch for
+  this announcement as a near-term catalyst.
+
+INTERNATIONAL ALIGNMENT: Explicit multilateral convergence against forward
+  guidance — Warsh, on Lagarde's answer: "We have found common cause... I
+  couldn't have said it better myself." All four central bank heads on stage
+  endorsed a reaction-function-over-forward-guidance framework, reinforcing
+  the June 17 U.S. domestic signal as part of a coordinated international
+  shift, not an idiosyncratic U.S. move.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal: HAWKISH-ANCHORED CONTINUATION of June 17, with a narrow, tactical
+  dovish note on near-term inflation trajectory that does NOT alter the
+  structural stance.
+
+  Warsh reaffirmed every load-bearing element of his June 17 debut — the hard
+  2% target, no forward guidance, the reform task forces, skepticism of the
+  SEP — and added two new hawkish reinforcements: a quantified productivity
+  figure strengthening the "no growth case for cuts" argument, and a more
+  explicit signal that dot-plot submission is on a short countdown. The one
+  softening element — "inflation risks have come down" / "inflation
+  expectations... have come down" — is real but narrow: it describes recent
+  data/oil-price improvement, not a change in reaction function, and Warsh
+  pointedly declined to characterize his own June 17 debut as hawkish or
+  walk it back when asked directly. He also explicitly pre-committed to NOT
+  reacting to "recent events" in labor data — a stance stated one day before
+  the weak June payrolls report landed, worth revisiting once officials
+  respond to that print.
+
+  Two items newly resolved from the July 3, 2026 daily report's open
+  questions: (1) growth/labor WAS discussed (contrary to the media-only
+  read); (2) Fed independence WAS addressed directly, via the Lisa Cook
+  Supreme Court question, with a measured/legalistic response. The "half of
+  members expect hikes this year" June 17 quantification was neither
+  reiterated nor retracted — it simply wasn't raised in this format.
+
+Language watch:
+  • "There will still be dots for a short time, at the very least" — SEP/dot
+    plot; stronger version of June 17's "at least as currently structured."
+    Watch for a September SEP-meeting format announcement.
+  • "I take plenty of blame for this, the '08 crisis... spoon-feed markets" —
+    new personal, self-implicating framing for the forward-guidance critique.
+    Watch whether this self-referential note recurs in future Warsh remarks
+    or stays a one-off Sintra aside.
+  • "18 years... won't take us more than 18 weeks" — balance-sheet framing;
+    watch for the balance-sheet task force's eventual output against this
+    "slow and telegraphed" commitment.
+  • "Inflation risks have come down" — watch whether this phrase persists or
+    is walked back once the weak June payrolls print (and its wage-growth
+    acceleration) is digested by the committee.
+
+Analyst flag: YES
+  → (1) Track the committee's actual response to the June payrolls miss
+    (+57K, released July 2, the day after this panel) against Warsh's
+    explicit "we follow trends, not recent events" commitment stated here —
+    does he hold to that discipline once the print is in hand, or does the
+    unemployment-rate decline + wage acceleration split give him grounds to
+    stay hawkish while still technically "not reacting" to the headline miss?
+  → (2) Task force membership expected week of July 6 — score as a discrete
+    event when named; the "causes of inflation" and "communications" task
+    forces are the highest-signal for SEP/forward-guidance reform timing.
+  → (3) The Fed independence answer (Lisa Cook ruling) is the first time
+    Warsh has been asked about it directly as Chair — worth a standing
+    comparison point if the question recurs at future appearances.
+══════════════════════════════════════════════════════════
