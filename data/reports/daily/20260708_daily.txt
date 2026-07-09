@@ -1,0 +1,231 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 8, 2026 (Wednesday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+DOCUMENTS TODAY
+  1. FOMC Minutes — June 16–17, 2026
+     Released: 3:00 p.m. ET, July 8, 2026
+     TYPE D — scored July 8 (alert emailed same day)
+     SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm
+     Full analysis: data/scored/minutes/20260617_FOMC_Minutes_scored.txt
+     Alert: data/reports/fomc/20260617_minutes_alert.txt
+
+  No FOMC-member speeches on July 8, 2026.
+════════════════════════════════════════════════════════════════
+
+The June 16–17 FOMC Minutes were released at 3:00pm ET. They were scored
+and an alert was pushed the same evening (6:33pm ET, commit 806656c).
+The key findings are summarized below. See the full scored file and the
+alert for complete three-way comparison analysis.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOMC MINUTES — June 16–17, 2026  |  Type D
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FFR: Hold at 3-1/2 to 3-3/4%. Vote: 12–0 unanimous. (April 29 vote was
+8–4 with Miran for cut and Hammack/Kashkari/Logan against easing bias;
+Miran departed May 2026, June is Warsh's first meeting as Chair.)
+Prior minutes: April 28–29, 2026.
+Prior SEP: June 17 (decisively hawkish; 2026 median dot 3.4%→3.8%; 9 of
+18 participants pencil a 2026 hike; entire March dovish tail is gone).
+
+METHOD: Three comparisons per CLAUDE.md Type D — (1) vs. June 17 press
+conference opening statement; (2) vs. April 29 minutes; (3) vs. June 17
+statement.
+
+GROWTH
+  Solid pace; AI investment "showing no signs of slowing." New
+  compositional detail not in the opening statement or public statement:
+  higher-income households supported by stock gains and tax refunds;
+  lower-income households "increasingly relying on credit," facing
+  "disproportionate pressures" from gas and groceries. Sharper two-tier
+  characterization than April's single-line mention of energy-price
+  strains. A watch item, not yet a policy driver.
+  Direction: NEUTRAL-TO-HAWKISH
+
+LABOR MARKET
+  "Participants generally" (not a qualified minority as in April) observed
+  payroll gains "roughly consistent with underlying labor force growth" and
+  unemployment near the longer-run level. Minority caveats remain (low job-
+  finding rate; low dynamism in surveys). Key shift: "Several participants
+  remarked that their concerns earlier this year about labor market
+  deterioration had eased with recent data." April: "most participants
+  judged risks to the employment side tilted to the downside." June: "downside
+  risks to achieving maximum employment had moderated a bit." The April
+  fragility framing ("a few pointed to the possibility that low job growth
+  signaled labor market fragility") has no June equivalent.
+  Direction: HAWKISH SHIFT — the insurance-cut rationale for labor is fading.
+
+INFLATION
+  "Increased further and remained well above the Committee's 2 percent
+  longer-run objective" (vs. April's "moved up"). Attribution broadened
+  to Strait of Hormuz + AI demand (beyond April's tariff-only story).
+  New broad-based sectoral characterization: "transportation, airfares,
+  petrochemical products, and agricultural inputs." New demand-side
+  channel: growth exceeding potential via AI investment — absent from
+  April entirely. Expectations-fragility risk escalated from "several"
+  to "the majority" of participants. Partial offsets: housing disinflation
+  expected to continue; AI productivity may eventually reduce costs
+  (though "would likely take time to materialize").
+  Direction: HAWKISH ESCALATION — largest directional move of the four topics.
+
+MONETARY POLICY
+  Four high-signal findings:
+
+  1. PRESENT-TENSE HIKE CASE (new this cycle):
+     "A few participants commented that... there was a case for raising the
+     target range for the federal funds rate, but those participants
+     indicated that they supported maintaining the current target range at
+     this meeting." April's equivalent was purely conditional/future ("some
+     policy firming would likely become appropriate IF inflation continues
+     persistently above 2 percent"). June documents an actual case made and
+     declined at the meeting — not just a future reaction function.
+
+  2. NEUTRAL-RATE HEDGE PHRASE GONE:
+     March and April both used: "policy rate was within the range of
+     plausible estimates of its neutral level" — deliberately vague.
+     June: "Several participants remarked that they did not see the current
+     policy stance as restrictive, while a few other participants commented
+     that they saw the current policy stance as slightly restrictive."
+     The larger group says NOT restrictive at all; nobody is quoted calling
+     policy meaningfully above neutral. Resolves hawkish.
+
+  3. APRIL CUT CASE HAS NO JUNE EQUIVALENT:
+     April: "several participants highlighted that it would likely be
+     appropriate to lower the target range... once there are clear
+     indications that disinflation is firmly back on track."
+     June: no near-term dovish cut case anywhere in the monetary policy
+     discussion. The minority that provided a dovish counterweight one
+     meeting ago has dropped out entirely.
+
+  4. COMMITTEE-WIDE NAMED SCENARIO FRAMING:
+     "Most participants" discussed a BENIGN scenario (inflation dissipates
+     → maintain or lower rates) and an ADVERSE scenario (AI demand / Middle
+     East / tariffs → policy firming warranted). This is Waller's Apr 17
+     named-scenario device — now appearing committee-wide in the minutes for
+     the first time. Language cycle: dispersed (Waller Apr 17) →
+     committee-wide (June minutes). One stage short of the statement.
+
+  Also: dot positioning matches the SEP quantitatively (many within/below
+  current range vs. many above; SEP: 9 of 18 pencil a 2026 hike). Statement
+  redesign: "a majority... preferred not to repeat the language... that had
+  suggested an easing bias" — validates April minutes' prediction. Five
+  Warsh task forces (confirmed as discussed at the meeting, not just
+  announced after).
+
+  Direction: HAWKISH — strongest signal of the four topics; most consequential.
+
+vs. JUNE 17 PRESS CONFERENCE OPENING STATEMENT:
+  Minutes are more hawkish than both the opening statement and Warsh's
+  unscripted Q&A. The opening statement carries neutral forward language;
+  the Q&A quantified the hike risk ("half the committee") but did not
+  disclose that an actual hike case was made and declined at the meeting,
+  or that the "not restrictive" framing had become the larger camp.
+
+vs. APRIL 29 MINUTES:
+  Net hawkish across all four topics — hike case escalated (conditional →
+  present-tense); restrictiveness resolved hawkish (hedge phrase gone);
+  dovish cut case disappeared; named scenario framing new; labor risk eased
+  removing the April dovish counterweight.
+
+vs. JUNE 17 STATEMENT:
+  Widest comparison-3 gap of any document this cycle. The 130-word public
+  statement omits: the hike-case discussion, the restrictiveness split, the
+  named scenario framework, the dot positioning, the income-composition
+  growth detail, and the five Warsh task forces.
+
+NET SIGNAL: HAWKISH — consistent across all three comparisons.
+  The most hawkish minutes document in this cycle. The June 17 statement
+  and press conference understated how hawkish the internal deliberations
+  were; the minutes close that gap.
+
+LANGUAGE TO WATCH:
+  • "Case for raising the target range" — first present-tense hike advocacy
+    in minutes this cycle. Watch for Just Voter speeches to use this
+    framing explicitly before the July 28–29 meeting.
+  • Named benign/adverse scenario framework — now committee-wide (Waller
+    Apr 17 → June minutes). Watch for it entering the July 28–29 statement.
+  • Disappearance of "within the range of plausible estimates of its neutral
+    level" — gone from June; if absent from July minutes, treat as durable.
+  • Disappearance of the "firmly back on track" cut threshold — no successor
+    dovish phrase appeared anywhere.
+
+ANALYST FLAG: YES
+  → Is the "case for raising" minority on track to become the median view
+    by July 28–29, given the SEP already shows 9 of 18 penciling a 2026
+    hike with the median dot above the current midpoint?
+  → Is the disappearance of the near-term dovish cut case driven by the
+    Middle East/AI channel (potentially transitory — staff review notes a
+    Strait of Hormuz agreement was reached by the end of the intermeeting
+    period), or does it reflect a more durable hawkish consolidation? This
+    distinction matters for how quickly the committee could pivot back
+    toward cuts if energy prices retrace.
+
+════════════════════════════════════════════════════════════════
+OUTSTANDING TRANSCRIPT RECOVERY ITEMS
+────────────────────────────────────────────────────────────────
+Still unrecovered as of this report:
+  1. Chair Kevin Warsh — ECB Forum on Central Banking, Sintra, Portugal,
+     July 1, 2026 (panel with Lagarde/Bailey/Macklem). C-SPAN video
+     available. TOP PRIORITY before the July 18 blackout.
+  2. SF Fed President Mary Daly — Banco de España Conference, Santander,
+     Spain, July 2, 2026. Check frbsf.org speaker page.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday July 10, 2026
+────────────────────────────────────────────────────────────────
+  (None confirmed) — calendar lookup returned no scheduled speeches for
+  July 10. Fed Board events calendar inaccessible this run (HTTP 403);
+  no speech announcements found via web search for July 10.
+
+  REMAINDER OF PRE-BLACKOUT WINDOW (July 11–17):
+  • Tuesday July 14, 12:00 PM CT — Austan Goolsbee (Non Voter, Chicago)
+    Fireside chat, Kenosha Area Business Alliance Business Lunch, Kenosha,
+    WI (livestreamed from Chicago Fed page). First confirmed post-June-17
+    Type A appearance. Watch for June payrolls (+57K miss) response and
+    whether Goolsbee accepts the Warsh hawkish reframe or pushes back.
+    SOURCE (stub): data/raw/speeches/2026/Austan_Goolsbee/20260714_Business_Lunch___Kenosha_Area_Business_Alliance.txt
+
+  • Tuesday July 14 — June CPI Release
+    Last major inflation read before the July 28–29 FOMC decision. Prior:
+    headline elevated; core still well above 2%. Interpretation will hinge
+    on whether Strait of Hormuz energy-price dynamics have begun to retrace.
+
+  • Wednesday July 15, 4:15 PM ET — Beige Book
+    Type H scoring. Compare national-summary sections (Activity, Labor,
+    Prices) vs. the prior Beige Book. Key question: does anecdotal
+    evidence corroborate the June +57K payrolls print, or does it show
+    resilience inconsistent with the headline softness?
+
+  • Thursday July 16, 11:30 AM CDT — Lorie Logan (Just Voter, Dallas)
+    "Listening in 360" tour, Houston Branch, 1801 Allen Parkway, Houston,
+    TX. Last pre-blackout appearance from a hawkish dissenter. First
+    confirmed post-June-17 appearance from Logan.
+
+  • Saturday July 18 — BLACKOUT BEGINS (July 18–30, inclusive)
+    No policy speeches during the blackout. Last scoring run before July 18
+    blackout will carry the mandatory FOMC cycle summary (Saturday
+    blackout-entry report, covering Friday July 17 as REPORT_DATE).
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+FOMC Minutes (released July 8):
+  https://www.federalreserve.gov/monetarypolicy/fomcminutes20260617.htm
+
+Prior minutes (comparison):
+  https://www.federalreserve.gov/monetarypolicy/fomcminutes20260429.htm
+
+June 17 press conference (comparison):
+  https://www.youtube.com/watch?v=aKllbvCaWvo  [provisional transcript]
+
+June 17 FOMC statement (comparison):
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+
+Full scored analysis:
+  data/scored/minutes/20260617_FOMC_Minutes_scored.txt
+
+Alert (pushed July 8):
+  data/reports/fomc/20260617_minutes_alert.txt
+════════════════════════════════════════════════════════════════
