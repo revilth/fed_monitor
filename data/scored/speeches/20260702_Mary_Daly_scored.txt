@@ -1,0 +1,274 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+July 2, 2026 | Mary C. Daly | SF Fed President | Non Voter
+"Global Monetary Policy and Institutional Challenges" — High-level Policy Dialogue
+5th Conference on the Spanish Economy (Banco de España / CEMFI / UIMP),
+"Housing and Institutions: Challenges and Opportunities for Spain"
+Santander, Spain — with Governor José Luis Escrivá (Banco de España)
+SOURCE: https://www.youtube.com/watch?v=sIiuFfzMyuk (Banco de España official
+upload, full ~61-min dialogue; corroborates the FXStreet quote already logged
+in the July 3, 2026 daily report)
+
+REFERENCE FOMC:    June 17, 2026
+PRE-FOMC BASELINE: May 8, 2026  "Challenging Conventional Wisdom: Inflation
+                    Dashboards and Policy" (Hoover Institution)
+POST-FOMC PRIOR:   N/A — first Daly appearance since the June 17 FOMC (also
+                    coincides with the pre-FOMC baseline above, since no
+                    Daly speech exists between May 8 and June 17 either).
+
+FORMAT NOTE: Two-person moderated dialogue (Daly + Escrivá), not a solo
+speech — scored as unscripted Q&A throughout. Classified Type B (Special
+Topic — AI, housing/institutions) WITH EMBEDDED OUTLOOK: the moderator asked
+Daly directly for the US medium-term outlook and risk factors, so full
+Growth/Labor/Inflation/Monetary Policy sections are scored below.
+
+TIMING NOTE — CRITICAL: Daly's labor-market remarks were made roughly 30
+minutes BEFORE the June jobs report was released ("We'll wait for the jobs
+numbers in just... half an hour... but one data point is not going to make
+or break our analysis"). The report came in at +57K vs. ~110K consensus (see
+20260703_daily.txt). This is the clean pre-print baseline for how the
+committee characterized labor just ahead of that miss — read together with
+Warsh's near-identical framing from Sintra the day before ("we follow trends
+... not recent events"), this is now a TWO-OFFICIAL convergence on
+explicitly discounting the next single data point before it even landed.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: June 17 opening — "Productivity growth and
+  capital investment are strong."
+  → Speaker version: "very strong investment growth, exceedingly strong
+    investment growth... in AI, and it's driven a lot [by] physical
+    construction, but also investment in... AI equipment... computers and
+    tech/IT equipment... I don't see any sense in which that's going to
+    start coming down."
+
+Own language:
+  "Consumers, despite the fact that they've been dealing with high
+  inflation, above-target inflation for 5 years, they're just staying in
+  the game. They're not the main driver of our growth — the investment side
+  is — but they're not leaving either." — reads consumer resilience as a
+  secondary but real growth support, distinct from the AI-capex-led primary
+  driver.
+  "This is good for the United States growth rate, it's good for the US
+  labor market." — direct causal link drawn from AI investment growth to
+  both mandate variables.
+
+Shift vs. PRE-FOMC BASELINE (May 8):    The May 8 speech was framed almost
+  entirely around the tariff/oil "dashboard" methodology and did not give a
+  comparable growth assessment; this is a materially fuller growth section,
+  emphasizing AI-capex strength as the primary growth engine. Direction:
+  HAWKISH-LEAN new information (structural growth resilience, echoing
+  Warsh's June 17 and July 1 productivity framing — see LANGUAGE WATCH).
+Shift vs. POST-FOMC PRIOR:              N/A.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: June 17 — "Job gains have kept pace with the
+  workforce, and the unemployment rate has changed little."
+  → Speaker version: "the job market... it's steady. We had a little bit of
+    concern last year that it might be softening, but now it's stabilized."
+
+Own qualifier — KEY (stated ~30 min before the June NFP release):
+  "We'll wait for the jobs numbers in just... half an hour... for the US,
+  but one data point is not going to make or break our analysis of this.
+  It really has, across a variety of measures, looked to be steady." —
+  explicit pre-commitment to discount the imminent print regardless of
+  outcome, on methodological (multi-indicator) grounds. [Cross-reference:
+  Warsh made an almost identical trend-over-print commitment one day earlier
+  at Sintra — see data/scored/speeches/20260701_Warsh_scored.txt. Two Troika-
+  adjacent officials independently pre-committing to the same discounting
+  framework immediately ahead of a data release is itself a signal worth
+  tracking — see LANGUAGE WATCH below.]
+
+Shift vs. PRE-FOMC BASELINE (May 8):    May 8 did not directly assess labor
+  (framed around tariff/oil pass-through, not labor conditions). This is new
+  ground: "steady," softening concern from "last year" now resolved. Direction:
+  neutral (consistent with June 17 "kept pace with the workforce" framing,
+  no new softening flagged).
+Shift vs. POST-FOMC PRIOR:              N/A.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: June 17 — "remains elevated relative to the
+  Committee's 2 percent goal, in part reflecting supply shocks."
+  → Speaker version: "we have inflation still printing above target. In
+    fact, inflation's risen on the back of some of the still the tariff
+    effects and also the oil price shock, but now with oil prices back down
+    to near 70 and futures markets thinking they'll stay there, that has
+    some hope for relief."
+
+Own language — KEY:
+  "I'm say[ing] this is good for the United States growth rate, it's good
+  for the US labor market, and we continue to have policy in a slightly
+  restrictive position, so inflation should come down." — explicit
+  restrictiveness self-assessment (consistent with the July 3 report's
+  provisional "Policy slightly restrictive" quote, now confirmed verbatim
+  in context) combined with a constructive near-term inflation call.
+
+Explicit scenario framing — DESCRIPTIVE, not Waller-style named
+  pre-commitment (per CLAUDE.md distinction):
+  "There's a scenario where we have to fight inflation that turns out to be
+  more persistent. There's also a scenario where the growth just doesn't
+  continue to sustain itself... Those are not more likely than the [modal
+  outlook], but they are the risks that we face." — two risk scenarios
+  named (persistent-inflation / growth-pullback) but NEITHER is attached to
+  a specific policy response — purely descriptive risk-flagging, not an
+  explicit pre-committed reaction like Waller's Apr 17 BENIGN/ADVERSE
+  framework.
+
+Shift vs. PRE-FOMC BASELINE (May 8):    May 8 ("dashboard... starting to see
+  red" on the oil shock) was more alarmed about the oil-driven inflation
+  risk than this speech, which treats the oil retreat to ~$70 as a
+  stabilizing, "hopeful" development. Direction: DOVISH-LEAN relative to
+  May 8 — the oil-shock red flag from the dashboard speech has faded.
+Shift vs. POST-FOMC PRIOR:              N/A.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: policy stance described as "slightly
+  restrictive," consistent with the committee's hold at 3.50–3.75%.
+
+Own language — NOTABLE DIVERGENCE FROM THE CHAIR:
+  "That's why you see a lot of central bankers not moving away from the
+  principle [of forward guidance]. I will speak for myself: I don't move
+  away from the principle about forward guidance. I understand its
+  importance in monetary policy, but... the worst kind of guidance you can
+  give is certain guidance in an uncertain world. And so, that would be
+  false guidance and not forward guidance." — this reframes the current
+  "no forward guidance" posture as a response to uncertainty, NOT a
+  rejection of forward guidance as a tool. This is subtly but genuinely
+  different from Warsh's June 17/July 1 framing, which characterizes forward
+  guidance as structurally "not well suited" and something he has "long
+  written about" wanting to move away from on principle. [Inference: Daly is
+  not contradicting the committee's current practice, but her underlying
+  rationale differs from the Chair's — worth flagging as a language-cycle
+  data point: is "no forward guidance" committee-wide doctrine (Warsh's
+  framing) or a shared tactical response to unusual uncertainty (Daly's
+  framing)? Not yet resolved; watch other officials' framing.]
+
+  On decision frequency: explicitly declined to speculate — "I'm not going
+  to speak for the Federal Reserve here, and certainly anything like that
+  hasn't been discussed." — directly relevant given Warsh's June 17 hint
+  about reducing press-conference frequency; Daly does not confirm or amplify
+  that direction.
+
+  On pace: "I'm much more of a gradualist when it comes to these things and
+  taking it slowly to do it well." — self-described gradualism, consistent
+  with "slightly restrictive, patient" positioning; no urgency in either
+  direction.
+
+  On the Strait of Hormuz / Middle East risk: "hopefully that is fully
+  resolved... geopolitical issues are something central bankers don't
+  control... we take the economy that we have." — declines to escalate
+  concern; treats it as an exogenous risk to monitor, not a policy trigger.
+
+Cut/hike signal status: ABSENT. No rate-path signal offered in either
+  direction; framing is entirely about maintaining the current "slightly
+  restrictive" stance while data resolves the two named scenarios.
+
+Shift vs. PRE-FOMC BASELINE (May 8):    May 8 was watchful/dashboard-driven
+  with an implicit hawkish lean (oil shock flashing red, tariff look-through
+  intact but conditional). This speech is calmer — the oil dashboard signal
+  has faded (~$70 vs. the earlier spike), and the framing is more balanced
+  between the two risk scenarios. Direction: SLIGHT DOVISH-LEAN relative to
+  May 8, though "slightly restrictive" stance itself is unchanged.
+Shift vs. POST-FOMC PRIOR:              N/A.
+
+──────────────────────────────────────────────────────────
+SPECIAL TOPICS (Type B)
+──────────────────────────────────────────────────────────
+AI: Sees the US in "the very early stages" of an AI-driven productivity
+  cycle, explicitly analogized to electrification's slow-build-then-
+  exponential curve; reports a shift in her nine-Western-states district
+  from "doom sayers vs. enthusiasts" polarization to broad-based adoption
+  ("now there's a lot of people in the middle... not just consumers, I mean
+  firms"). On financing/financial-stability risk: notes AI capex is
+  currently financed mostly through equity and operating cash flow rather
+  than debt — "I haven't seen that as a major concern yet" — but flags
+  leverage as the variable to monitor going forward. [Descriptive risk
+  framing, not a named policy response.]
+
+HOUSING: Extensive discussion (the conference's core theme). "Housing supply
+  is limited... this is a problem the central bank cannot solve... but it is
+  a problem I hear... second to inflation" at US conferences. Notes housing
+  inflation has been coming down in the US even as pent-up demand persists —
+  an implicit disinflationary tailwind distinct from the energy/tariff
+  channels. Traces the US demand/supply wedge back to the 2008 financial
+  crisis construction slowdown, paralleling Escrivá's Spain-specific
+  supply-constraint diagnosis (construction-sector productivity, permitting
+  delays, regulatory density).
+
+MANDATE / MEASUREMENT: Pushed back gently, without naming Warsh, on any
+  suggestion the Fed would redefine its mandate in response to AI-era
+  uncertainty: "no, we're not moving the goal posts, but we definitely will
+  continue to study, modernize, and do better tomorrow than we did today." —
+  a notably more conservative framing than Warsh's task-force language
+  (which explicitly questions whether current data/measurement practices are
+  adequate); Daly frames improvement as continuous refinement, not a
+  first-principles review. [Inference: this is not a direct contradiction of
+  Warsh's task forces, but a different emphasis — worth tracking whether
+  Daly's tone shifts once the task forces report.]
+
+DECISION CADENCE / GRADUALISM: On whether faster-changing conditions should
+  mean more frequent policy decisions: "You don't want to react quickly when
+  the world is changing quickly. You want to assess before you jump... I'm
+  much more of a gradualist." — directly counters any inference that
+  Warsh's institutional-reform push implies faster or more reactive
+  decision-making; Daly's framing is explicitly the opposite emphasis
+  (patience under uncertainty, not speed).
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL-TO-SLIGHT-DOVISH-LEAN vs. her May 8 pre-FOMC baseline;
+               broadly consistent with, but not identical in rationale to,
+               the June 17 committee stance.
+
+  Daly reaffirms the "slightly restrictive" stance and a steady labor market,
+  and — like Warsh a day earlier at Sintra — explicitly pre-committed to
+  discount the imminent June payrolls print on multi-indicator grounds
+  minutes before it landed weak. Her May 8 oil-shock "dashboard" alarm has
+  faded now that oil has retreated to ~$70; that is the main dovish delta
+  versus her own prior speech. The most analytically significant finding is
+  not a directional shift but a RATIONALE DIVERGENCE from the Chair: Daly
+  defends forward guidance "in principle" as valuable, framing its current
+  absence as a response to uncertainty ("false guidance... not forward
+  guidance"), whereas Warsh frames forward guidance as structurally
+  ill-suited and something he has long wanted to retire. Both land on the
+  same practice (no forward guidance now) via different doctrines — this is
+  a live language-cycle question, not yet resolved by convergence.
+
+Language watch:
+  • "One data point is not going to make or break our analysis" — stated
+    just ahead of the June NFP miss; near-identical to Warsh's Sintra
+    framing the day before ("we follow trends... not recent events"). Watch
+    whether this becomes explicit shared committee language for handling the
+    weak print in upcoming communications (Minutes, July FOMC).
+  • "That would be false guidance and not forward guidance" — Daly's
+    defense-in-principle of forward guidance; watch whether this framing is
+    echoed by other officials or stays an outlier against Warsh's more
+    absolute rejection.
+  • "We're not moving the goal posts" — implicit, unprompted contrast with
+    the tenor of Warsh's data/measurement task forces; watch for tension or
+    convergence as the task forces report (expected week of July 6).
+
+Analyst flag: YES
+  → (1) The forward-guidance rationale gap (Daly: response to uncertainty;
+    Warsh: structural rejection) is worth tracking across the next several
+    Just Voter and Non Voter speeches — if others adopt Daly's "false
+    guidance" framing rather than Warsh's structural critique, it suggests
+    the no-forward-guidance shift is more tactical/consensus-driven than the
+    Chair's personal reform agenda implies.
+  → (2) Both Warsh and Daly pre-committed publicly to discount the June
+    payrolls print within 24 hours of its release, before either had seen
+    it. Now that the print came in weak with an offsetting unemployment-rate
+    decline and wage acceleration (see 20260703_daily.txt), track whether
+    officials actually hold to that discipline or selectively cite the
+    print's hawkish components (falling unemployment, rising wages) while
+    calling the miss itself noise.
+══════════════════════════════════════════════════════════

@@ -1,0 +1,123 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 2, 2026 (Thursday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+BACKFILL NOTE: This report fills the remaining half of the gap flagged in the
+  July 3, 2026 daily report's "MONITORING GAP NOTE — June 28 – July 2, 2026"
+  section (Warsh's July 1 Sintra appearance was backfilled separately in
+  data/reports/daily/20260701_daily.txt). The scraper missed this appearance
+  too — external event, no frbsf.org transcript. Recovered from the Banco de
+  España's official YouTube upload and scored against CLAUDE.md methodology.
+
+SPEECHES TODAY
+  1. Mary Daly  |  SF Fed President  |  Non Voter
+     "Global Monetary Policy and Institutional Challenges" — High-level
+     Policy Dialogue with Governor José Luis Escrivá (Banco de España)
+     5th Conference on the Spanish Economy, Santander, Spain
+     SOURCE: https://www.youtube.com/watch?v=sIiuFfzMyuk
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  MARY DALY  |  SF Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FORMAT NOTE: Two-person moderated dialogue, not a solo speech. Full scored
+  file: data/scored/speeches/20260702_Mary_Daly_scored.txt
+
+TIMING NOTE: Made roughly 30 minutes BEFORE the June jobs report landed
+  (+57K vs. ~110K consensus, released later that day — see the July 3, 2026
+  daily report). Daly explicitly pre-committed to discount that print before
+  seeing it — a near-identical move to Warsh's Sintra remarks the day before.
+
+GROWTH
+  AI capex is the primary growth engine in her read: "very strong investment
+  growth... I don't see any sense in which that's going to start coming
+  down." Consumer spending framed as a secondary but real support, not the
+  main driver. Echoes and extends the June 17 statement's "productivity
+  growth and capital investment are strong" line.
+  Direction: hawkish lean
+
+LABOR MARKET
+  "The job market... it's steady. We had a little bit of concern last year
+  that it might be softening, but now it's stabilized." Then, ~30 minutes
+  before the June NFP release: "one data point is not going to make or break
+  our analysis of this" — an explicit pre-commitment to discount the
+  imminent print on multi-indicator grounds.
+  Direction: neutral
+
+INFLATION
+  "We continue to have policy in a slightly restrictive position, so
+  inflation should come down." Oil's retreat to ~$70/barrel treated as
+  "hope for relief" — a fading of the acute oil-shock alarm from her May 8
+  "dashboard... starting to see red" framing. Two risk scenarios named
+  (persistent inflation / growth pullback) but NEITHER attached to a
+  specific policy response — descriptive framing, not a Waller-style
+  explicit pre-commitment.
+  Direction: dovish lean (vs. her own May 8 baseline; policy stance itself unchanged)
+
+MONETARY POLICY
+  No rate-path signal in either direction; self-described "gradualist."
+  Declined to speculate on any change to meeting/decision frequency (a live
+  question since Warsh's June 17 remarks). NOTABLE: diverges from Warsh's
+  forward-guidance rationale — she defends forward guidance "in principle,"
+  framing its current absence as a response to unusual uncertainty ("false
+  guidance... not forward guidance"), versus Warsh's structural rejection of
+  the tool itself. Same practice, different doctrine — worth tracking across
+  future speeches to see which framing spreads.
+  Cut signal status: absent
+  Direction: neutral
+
+NET SIGNAL: neutral-to-slight-dovish lean vs. her May 8 pre-FOMC baseline
+  (oil-shock alarm has faded); broadly consistent with, but not doctrinally
+  identical to, the June 17 committee stance.
+
+vs. PRIOR SPEECH (May 8, 2026):         dovish lean — May 8's oil-shock
+  "dashboard... red" alarm has faded now that oil sits near $70.
+vs. PRE-FOMC SPEECH (May 8, 2026):      same comparison (no intervening
+  Daly speech between May 8 and the June 17 FOMC).
+vs. COMMITTEE SINCE FOMC:               Consistent labor/inflation framing
+  with Warsh's July 1 Sintra remarks (both pre-committed to discount the
+  June NFP print before its release); diverges from Warsh specifically on
+  forward-guidance rationale (see MONETARY POLICY above).
+
+LANGUAGE TO WATCH:
+  • "One data point is not going to make or break our analysis" — stated
+    just ahead of the June NFP miss; near-identical to Warsh's Sintra framing
+    a day earlier. Watch whether this becomes explicit shared language for
+    how the committee handles the weak print in the July 8 Minutes.
+  • "That would be false guidance and not forward guidance" — a defense-in-
+    principle of forward guidance that cuts against Warsh's more absolute
+    rejection. Watch whether other officials echo Daly's or Warsh's framing.
+
+ANALYST FLAG: YES — (1) Track whether other officials adopt Daly's "false
+  guidance" framing or Warsh's structural rejection of forward guidance —
+  resolves whether the no-forward-guidance shift is committee-wide doctrine
+  or a shared tactical response to unusual uncertainty. (2) Both Warsh and
+  Daly pre-committed to discount the June NFP print before seeing it; track
+  whether officials hold that discipline once the print's hawkish components
+  (falling unemployment, rising wages) are in hand.
+
+════════════════════════════════════════════════════════════════
+UPCOMING
+────────────────────────────────────────────────────────────────
+This backfilled report does not restate the UPCOMING window — see the
+July 3, 2026 daily report (data/reports/daily/20260703_daily.txt) for the
+current week-ahead schedule (July 6–11, 2026) and the confirmed later-July
+calendar (FOMC Minutes July 8, Goolsbee July 14, CPI July 14, Logan July 16,
+Beige Book July 15, blackout begins July 18).
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Mary Daly, July 2, 2026:  https://www.youtube.com/watch?v=sIiuFfzMyuk
+    (Banco de España official upload; corroborates the FXStreet quote
+    already logged in the July 3, 2026 daily report)
+
+Pre-FOMC baseline / prior speech (vs. PRIOR SPEECH / PRE-FOMC SPEECH):
+  Mary Daly, May 8, 2026:  https://www.youtube.com/watch?v=Utsy1M4SKVc
+    (scored file: data/scored/speeches/20260508_Mary_Daly_scored.txt)
+
+Cross-reference (vs. COMMITTEE SINCE FOMC):
+  Kevin Warsh, July 1, 2026: data/reports/daily/20260701_daily.txt
+════════════════════════════════════════════════════════════════
