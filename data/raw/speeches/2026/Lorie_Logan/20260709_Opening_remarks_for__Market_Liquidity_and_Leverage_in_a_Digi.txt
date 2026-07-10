@@ -1,0 +1,36 @@
+SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl260709
+
+Skip to main content
+Speech by President Lorie Logan
+Opening remarks for ‘Market Liquidity and Leverage in a Digital Age’ panel
+Lorie Logan
+July 09, 2026
+Dallas Fed President Lorie Logan delivered these remarks during the
+The  Future of Market Liquidity and Functioning Workshop
+at the Federal Reserve Bank of New York.
+Thank you,
+Julie [Remache],
+for that kind introduction. And thank you to all the organizers for putting together such a stimulating program and giving me the opportunity to moderate this fascinating panel.
+I’d like to share a few thoughts to frame the conversation before turning over the floor to our panelists. These are my views and not necessarily those of my Federal Reserve colleagues.
+The title of this panel, “Market Liquidity and Leverage in a Digital Age,” brings together three of the most critical issues in financial markets today.
+First, market liquidity: the ease with which traders can buy and sell assets. Core U.S. financial markets are ordinarily extremely liquid, especially the Treasury and money markets that underpin the financial system and monetary policy implementation. That liquidity fosters efficient capital allocation and the flow of credit, and it ultimately contributes to the strength of the U.S. economy. But as we saw at the onset of the pandemic in 2020, when these markets seize up, they can become the economy’s Achilles’ heel.
+Second, leverage: the ability to borrow against assets. Access to leverage, or funding liquidity, interacts with market liquidity. The easier it is to borrow against an asset, the easier it becomes to trade that asset, and market liquidity generally improves. But leverage also amplifies losses and gains. In a downturn, levered investors may be forced to sell assets at a rapid clip. That can overwhelm the market’s intermediation capacity and strain market liquidity. We saw this dynamic, too, in 2020. Maintaining strong and efficient financial markets requires both market participants and the official sector to appropriately balance the benefits and risks of leverage and its interaction with market liquidity.
+And third, technology. New technologies are transforming the economy, and finance is no exception. People sometimes view the technology that processes trades as mere plumbing, out of sight and out of mind. To which I say: Plumbing matters. It matters in your house, and it matters in markets. Implemented thoughtfully, new technologies can increase market liquidity, reduce risk and ultimately improve the flow of capital and credit and help the economy grow. But if they are not implemented well, new technologies can also increase risk and undermine market functioning.
+The electronification of equity trading in the early decades of this century illustrates both possibilities. Electronic trading reduced costs and increased investors’ access to the stock market. But in 2012, a runaway algorithm at one of the leading early electronic market makers, Knight Capital, triggered dramatic market volatility and Knight’s collapse.
+Market participants and regulators learned from that episode and now put more robust controls on trading algorithms. That feedback loop is critical as markets adopt new technology. The benefits and risks of innovation can’t always be foreseen. Ongoing dialogue helps everyone involved in markets learn, improve and make the most of novel tools.
+Progress in the Treasury market over the past two decades demonstrates the value of this dialogue. In 2007, with the encouragement of the Federal Reserve Bank of New York, private sector market participants came together to form the Treasury Market Practices Group (TMPG). Since then, the TMPG has published an extensive series of analyses and best practice recommendations. The official sector has also led important studies of the market’s evolution, particularly following the 2014 flash crash and the market stresses in 2020. And market participants and regulators come together in an annual Treasury Markets Conference, which will have its 12th installment this fall, to examine developments together. These studies and dialogues have generated many important steps to strengthen the market.
+Among the most important of those changes in recent years has been the Securities and Exchange Commission’s mandate for central clearing of many Treasury cash and repo transactions. I expect broader central clearing to strengthen the market by establishing stronger and more uniform risk management, mitigating settlement risk, freeing up space on intermediaries’ balance sheets and increasing transparency. The clearing mandate does not apply to the Federal Reserve’s transactions. However, I believe the FOMC could make its open market operations more efficient and effective, and support the strength of U.S. markets more generally, by centrally clearing its operations on a voluntary basis.
+In our conversation today, I look forward to examining how markets are adapting to changes such as broader central clearing that are already well in train, as well as developments that are at earlier stages, like the potential to use blockchains to better integrate market segments and speed the flow of collateral. Besides looking at how market participants are using digital technology, we’ll explore how digital technology is changing the shocks that hit markets, especially in the form of cyber risk.
+We have three outstanding experts with us today, representing both public and private sector perspectives.
+Roberto Perli
+is manager of the System Open Market Account at the New York Fed. He has more than 20 years of experience in finance in the Federal Reserve System, private sector and academia.
+Don Wilson
+is founder and chief executive officer of DRW, a principal trading firm headquartered in Chicago and active across asset classes globally.
+Jay Kahn
+is a principal economist at the Federal Reserve Board, where he conducts research on short-term funding markets.
+The format for the panel will be as follows. Roberto, Don and Jay will each give about 15 minutes of initial remarks. I’ll follow up with a few questions for them, and then we’ll open it up for questions from the audience. So get your questions ready.
+With that, I’ll invite Roberto to get us started.
+Share this
+Lorie Logan
+is president and CEO of the Federal Reserve Bank of Dallas.
+The views expressed are my own and do not necessarily reflect official positions of the Federal Reserve System.
