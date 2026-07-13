@@ -1,0 +1,204 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 12, 2026 (Sunday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (None) — Sunday; no FOMC-member speeches.
+
+════════════════════════════════════════════════════════════════
+NO NEW SPEECHES — July 12, 2026
+════════════════════════════════════════════════════════════════
+July 12 was a Sunday. No scheduled policy speeches or Fed
+communications. No scoring required.
+
+Most recent scored document: July 10, 2026 — Monetary Policy Report
+(MPR, July 2026), analyzed in the July 10 daily report.
+  → data/reports/daily/20260710_daily.txt
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Monday July 13 – Friday July 17, 2026
+PRE-BLACKOUT WINDOW (Blackout begins Saturday July 18; FOMC July 28–29)
+────────────────────────────────────────────────────────────────
+This is the final week for policy communication before the July 28–29
+FOMC meeting. The week carries an unusually heavy schedule: Chair Warsh's
+first Humphrey-Hawkins testimony (Tuesday–Wednesday), June CPI and PPI
+releases, the pre-meeting Beige Book, and multiple regional bank
+appearances. Every item is high-signal ahead of a live hike decision.
+Current market pricing: ~30% probability of a July 28–29 rate increase
+(CME FedWatch, as of the July 10 daily).
+
+────────────────────────────────────────────────────────────────
+MONDAY, July 13
+────────────────────────────────────────────────────────────────
+  Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+  Event: (unconfirmed — calendar lookup shows a Bowman speech on
+    July 13; specific event name and location not confirmed this run)
+  SIGNIFICANCE: Last-window Type B or Type A before Warsh takes the
+    floor on July 14. Bowman's May 29 Reykjavík speech ("A Framework
+    for Practical Monetary Policy Decision Making") was classified Type
+    B-with-outlook; she laid out explicit cut/hold/hike decision
+    conditions. Has not given a scored economic outlook speech since
+    the June 17 FOMC. Watch for any update on her personal hike
+    threshold vs. the SEP's 9-of-18 hike signal.
+
+────────────────────────────────────────────────────────────────
+TUESDAY, July 14 — HIGH-SIGNAL DAY
+────────────────────────────────────────────────────────────────
+  8:30 a.m. ET — June CPI (BLS release)
+    Last major inflation data point before the July 28–29 FOMC
+    decision. Prior read: headline at ~4.2% (three-year high, driven
+    by Iran/Hormuz energy shock, tariffs, AI-tech goods). Watch core
+    CPI and trimmed-mean PCE proxy for evidence of the MPR's
+    "sequential supply shocks" thesis vs. demand pass-through. CPI
+    lands 90 minutes before Warsh's opening statement — he will be
+    expected to comment on it immediately.
+
+  10:00 a.m. ET — Kevin Warsh  |  Chair  |  Troika
+    Testimony, House Financial Services Committee
+    "Semiannual Monetary Policy Report" (Type F — congressional
+    testimony; highest-signal format; Chair speaks more candidly
+    under questioning than in public speeches)
+    Warsh's FIRST Humphrey-Hawkins testimony as Chair. Will present
+    the July 10 MPR. Watch: (1) verbal characterization of June CPI
+    (released same morning) vs. the MPR's May-cutoff read; (2)
+    explicit rate-path language under direct member questioning —
+    market pricing ~30% July hike; (3) whether "will deliver price
+    stability" from the MPR appears verbatim; (4) any comment on the
+    money-supply framework addition to the MPR; (5) dissent framing —
+    does he address the April 29 split (Miran: dovish; Hammack/
+    Kashkari/Logan: hawkish)?
+    Classified Type F (high signal; score immediately upon transcript
+    release). Prior Troika appearances: Sintra panel July 1 (scored;
+    unscripted; hawkish on inflation; refused rate-path pre-commitment).
+
+  ~12:00 p.m. CT (1:00 p.m. ET) — Austan Goolsbee  |  Chicago  |  Non Voter
+    Fireside chat, Kenosha Area Business Alliance Business Lunch
+    Kenosha, WI (moderated by Alliance President Nicole Ryf;
+    livestreamed from Chicago Fed page)
+    SIGNIFICANCE: FIRST confirmed post-June-17 economic outlook
+    appearance from a non-Troika Just Voter or Non Voter in this
+    pre-blackout window (last scored Type A: June 25, Chicago Council
+    on Global Affairs — "inflation is clearly the problem; trending
+    the wrong way"; glimmer of hope on services cooling was his hedge).
+    Lands the same morning as June CPI: watch whether Goolsbee
+    updates his inflation view in light of the live data, and whether
+    he echoes Warsh's "structural-shock / will deliver" framing or
+    maintains his dual-mandate balance language. Transcript recovery:
+    Chicago Fed often posts only an event stub; YouTube (Chicago Fed
+    channel) is the primary fallback for the full transcript.
+
+  (unconfirmed) — Christopher J. Waller  |  Governor  |  Just Voter
+    Possible appearance on July 14 (noted in multiple financial
+    calendar data providers; no confirmed event name or location
+    this run). Waller's July 6 Rome speech was Type B on monetary
+    policy transmission (academic; no current stance signal). If a
+    July 14 Type A appears, score immediately — Waller is a key
+    hawkish anchor post-May 22 ("Policy Risks Have Changed").
+
+────────────────────────────────────────────────────────────────
+WEDNESDAY, July 15
+────────────────────────────────────────────────────────────────
+  8:30 a.m. ET — June PPI (BLS release)
+    Pipeline inflation read; upstream price pressure after the Iran
+    energy shock and tariff pass-through chain. Watch whether PPI
+    confirms or contradicts the CPI read from July 14.
+
+  10:00 a.m. ET — Kevin Warsh  |  Chair  |  Troika
+    Testimony, Senate Banking, Housing and Urban Affairs Committee
+    "Semiannual Monetary Policy Report" (Type F, day 2)
+    Senate Q&A is typically more probing than the House session. Watch
+    for explicit rate-path language under senator questioning —
+    particularly on the July 28–29 hike probability, the April 29
+    dissent structure, and how June CPI factors into the path.
+
+  2:00 p.m. ET — Beige Book (Type H)
+    Released two weeks before the July 28–29 FOMC meeting. Compare
+    national-summary sections (Overall Economic Activity, Labor
+    Markets, Prices) vs. the prior Beige Book. Key question: do
+    district-level anecdotes corroborate the MPR's "solid growth /
+    stabilized labor / stepped-up inflation" framework, or does the
+    June NFP weak print (+57K, released July 2) appear in district
+    labor commentary? The Beige Book is a committee input — shifts
+    in its qualifier words (modest / moderate / solid; elevated /
+    easing / rising) are direct inputs into the July 28–29
+    deliberations.
+
+  (unconfirmed) — Multiple officials potentially speaking July 15:
+    • Michael S. Barr  |  Governor  |  Just Voter  (unconfirmed)
+    • Lisa D. Cook  |  Governor  |  Just Voter  (unconfirmed)
+    • John C. Williams  |  NY Fed President  |  Troika  (unconfirmed)
+    • Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+        (second appearance this week — unconfirmed)
+    Multiple financial calendar sources flag July 15 as a heavy Fed
+    speaker day alongside the Senate testimony. Specific events and
+    topics not confirmed this run. If Williams gives a Type A, it is
+    high priority — last scored Type A: June 25 ("The Strategy and
+    the Goals"; his first post-June-17 Type A; hawkish recalibration
+    confirmed). Cook's last post-June-17 scored content: June 24
+    welcome remarks (Type B, no policy signal). Barr's most recent
+    scored speech was pre-blackout (May 14).
+
+────────────────────────────────────────────────────────────────
+THURSDAY, July 16
+────────────────────────────────────────────────────────────────
+  11:30 a.m. CDT — Lorie Logan  |  Dallas Fed President  |  Just Voter
+    "A conversation with Dallas Fed President Lorie Logan"
+    Houston Branch, Federal Reserve Bank of Dallas
+    1801 Allen Parkway, Houston, TX
+    SOURCE: https://www.dallasfed.org/events/2026/26loganhou
+    SIGNIFICANCE: First confirmed post-June-17 Type A or moderated
+    conversation from a hawkish dissenter. Logan dissented April 29
+    against the easing-bias language; last scored Type A was June 3
+    (UTEP, El Paso — "policy may be close to neutral; not clearly
+    restrictive"). Watch: (1) whether Logan updates her
+    neutral-rate proximity framing post-June-17 SEP hawkish shift;
+    (2) any explicit pre-commitment to a July 28–29 vote; (3)
+    reaction to June NFP weak print (+57K) — does she maintain
+    "labor market solid" or acknowledge deterioration?
+
+  (unconfirmed) — Lisa D. Cook  |  Governor  |  Just Voter
+    Calendar sources note a possible Cook appearance July 16;
+    specific event unconfirmed this run. Cook's last scored post-
+    June-17 content: June 24 welcome remarks (Type B/no policy
+    signal). A Type A would be her first post-June-17 economic
+    outlook speech.
+
+────────────────────────────────────────────────────────────────
+FRIDAY, July 17
+────────────────────────────────────────────────────────────────
+  (None confirmed) — Last full pre-blackout day. Watch for any
+    late-week announcements from regional bank event pages. Any
+    Type A from a voter this day would be the FINAL pre-blackout
+    policy signal before the July 18 communications freeze.
+
+────────────────────────────────────────────────────────────────
+SATURDAY, July 18 — BLACKOUT BEGINS (through July 30)
+  July 18–30 inclusive: no policy speeches.
+  FOMC meets July 28–29, 2026 (non-projection; no SEP).
+  Note: Saturday July 18 run covers Friday July 17 content. If any
+  official gives a scored speech on July 17, the Saturday report
+  MUST include the mandatory FOMC Cycle Summary per CLAUDE.md
+  (blackout-entry report synthesizes the full inter-meeting cycle:
+  Troika → Just Voters → Non Voters, shared language, key questions
+  the meeting will resolve, net lean).
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No speeches this date (July 12, 2026 — Sunday).
+
+Context and comparison references:
+  July 10, 2026 MPR analysis: data/reports/daily/20260710_daily.txt
+  June 17, 2026 FOMC statement:
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+  Warsh July 14–15 testimony:
+    https://pioneerlands.org/story/warsh-to-give-first-humphrey-hawkins-testimony-july-14
+    https://www.banking.senate.gov/hearings/07/08/2026/the-semiannual-monetary-policy-report-to-the-congress
+  Goolsbee July 14 event stub:
+    data/raw/speeches/2026/Austan_Goolsbee/20260714_Business_Lunch___Kenosha_Area_Business_Alliance.txt
+  Logan July 16 Houston event:
+    https://www.dallasfed.org/events/2026/26loganhou
+  June NFP context: +57K (released July 2, 2026)
+  Inflation context: ~4.2% headline (three-year high as of June MPR data)
+════════════════════════════════════════════════════════════════
