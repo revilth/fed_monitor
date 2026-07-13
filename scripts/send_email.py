@@ -104,8 +104,8 @@ def main() -> int:
                    help=f"Recipient (repeatable). Default: {DEFAULT_TO}")
     p.add_argument("--cc", action="append", metavar="ADDR", help="CC (repeatable).")
     p.add_argument("--bcc", action="append", metavar="ADDR", help="BCC (repeatable).")
-    p.add_argument("--subject", required=True, help="Subject line.")
-    g = p.add_mutually_exclusive_group(required=True)
+    p.add_argument("--subject", help="Subject line. (required unless --verify)")
+    g = p.add_mutually_exclusive_group()
     g.add_argument("--body", help="Inline plain-text body.")
     g.add_argument("--body-file", help="Path to a UTF-8 plain-text body file.")
     p.add_argument("--from", dest="from_addr", default=DEFAULT_FROM,
@@ -113,7 +113,24 @@ def main() -> int:
     p.add_argument("--password-file", help="Path to a file holding the App Password.")
     p.add_argument("--dry-run", action="store_true",
                    help="Build the message and print a summary, but do NOT send.")
+    p.add_argument("--verify", action="store_true",
+                   help="Connect and authenticate to Gmail SMTP, then quit. "
+                        "Sends NO email. Use to confirm the App Password works.")
     args = p.parse_args()
+
+    # --verify: prove the credential + SMTP login work, send nothing.
+    if args.verify:
+        password = load_password(args.password_file)
+        ctx = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ctx) as server:
+            server.login(LOGIN_USER, password)
+            server.noop()
+        print(f"OK: authenticated to Gmail SMTP as {LOGIN_USER}. No email sent.")
+        return 0
+
+    if not args.subject or (args.body is None and args.body_file is None):
+        p.error("--subject and one of --body/--body-file are required "
+                "(unless using --verify).")
 
     to = args.to or [DEFAULT_TO]
     body = args.body if args.body is not None else \
