@@ -56,6 +56,20 @@ DEFAULT_TO = "thiago_teixeiraferreira@vanguard.com"   # matches email.yml
 DEFAULT_PW_FILE = Path.home() / ".fedmonitor_smtp"
 
 
+def ssl_context() -> ssl.SSLContext:
+    """SSL context with a working CA bundle.
+
+    The macOS python.org framework build does not use the system keychain, so
+    the default context often fails with CERTIFICATE_VERIFY_FAILED. Prefer
+    certifi's bundle when available; fall back to the stdlib default otherwise.
+    """
+    try:
+        import certifi
+        return ssl.create_default_context(cafile=certifi.where())
+    except Exception:
+        return ssl.create_default_context()
+
+
 def load_password(explicit_file: str | None) -> str:
     # 1) explicit file
     if explicit_file:
@@ -121,7 +135,7 @@ def main() -> int:
     # --verify: prove the credential + SMTP login work, send nothing.
     if args.verify:
         password = load_password(args.password_file)
-        ctx = ssl.create_default_context()
+        ctx = ssl_context()
         with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ctx) as server:
             server.login(LOGIN_USER, password)
             server.noop()
@@ -161,7 +175,7 @@ def main() -> int:
         return 0
 
     password = load_password(args.password_file)
-    ctx = ssl.create_default_context()
+    ctx = ssl_context()
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ctx) as server:
         server.login(LOGIN_USER, password)
         server.send_message(msg, from_addr=args.from_addr, to_addrs=recipients)
