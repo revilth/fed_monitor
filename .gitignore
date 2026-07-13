@@ -35,3 +35,7 @@ data/historical/
 
 # Local Claude Code permissions — machine-specific, not shared
 .claude/settings.local.json
+
+# Local Gmail App Password for scripts/send_email.py (never commit)
+.fedmonitor_smtp
+*.fedmonitor_smtp
