@@ -1,0 +1,7938 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/files/20260710_mprfullreport.pdf
+For use at 11:00 a.m. EDT
+July 10, 2026
+
+R E P O R T  T O  C O N G R E S S
+
+Monetary Policy Report
+
+July 2026
+
+B O A R D  O F  G O V E R N O R S  O F  T H E  F E D E R A L  R E S E RV E  S Y S T E M
+
+i
+
+Contents
+
+Statement on Longer-Run Goals and Monetary Policy Strategy  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . iii
+
+Abbreviations   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . v
+
+Summary   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+Recent Economic and Financial Developments  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+Monetary Policy  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Special Topics  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+
+Recent Economic and Financial Developments   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Domestic Developments  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Box 1 .  Employment and Earnings across Demographic Groups   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Financial Developments  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Box 2 .  Developments Related to Financial Stability  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30
+International Developments   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 33
+
+Monetary Policy  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 37
+Box 3 .  Developments in the Federal Reserve’s Balance Sheet and Money Markets  .  .  .  . 40
+Box 4 .  Monetary Policy Rules in the Current Environment   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 42
+
+Summary of Economic Projections  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 45
+Box 5 .  Forecast Uncertainty   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 61
+
+Appendix: Source Notes  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 63
+
+ii 
+
+Monetary Policy Report
+
+Data Notes
+
+This report reflects information that was publicly available as of noon EDT on July 8, 2026 . 
+
+Unless otherwise stated, the time series in the figures extend through, for daily data, 
+
+July 2, 2026; for monthly data, May 2026; and, for quarterly data, 2026:Q1 . In bar charts,  
+
+except as noted, the change for a given period is measured as the change between a year’s  
+
+final quarter and the final quarter of the preceding year .1
+
+1  For figures 28, 39, and 46, note that the S&P Cotality Case-Shiller U .S . National Home Price Index, the 
+
+S&P 500 Index, and the Dow Jones Bank Index are products of S&P Dow Jones Indices LLC and/or its affiliates and 
+have been licensed for use by the Board . Copyright © 2026 S&P Dow Jones Indices LLC, a division of S&P Global, 
+and/or its affiliates . All rights reserved . Redistribution, reproduction, and/or photocopying in whole or in part are 
+prohibited without written permission of S&P Dow Jones Indices LLC . For more information on any of S&P Dow Jones 
+Indices LLC’s indices, please visit www .spdji .com . S&P® is a registered trademark of Standard & Poor’s Financial Ser-
+vices LLC, and Dow Jones® is a registered trademark of Dow Jones Trademark Holdings LLC . Neither S&P Dow Jones 
+Indices LLC, Dow Jones Trademark Holdings LLC, their affiliates, nor their third-party licensors make any representa-
+tion or warranty, express or implied, as to the ability of any index to accurately represent the asset class or market 
+sector that it purports to represent, and neither S&P Dow Jones Indices LLC, Dow Jones Trademark Holdings LLC, 
+their affiliates, nor their third-party licensors shall have any liability for any errors, omissions, or interruptions of any 
+index or the data included therein .
+
+iii
+
+Statement on Longer-Run Goals  
+and Monetary Policy Strategy
+
+Adopted effective January 24, 2012; as reaffirmed effective January 27, 2026
+
+The Federal Open Market Committee (FOMC) is firmly committed to fulfilling its statutory mandate 
+
+from Congress of promoting maximum employment, stable prices, and moderate long-term inter-
+
+est rates . The Committee seeks to explain its monetary policy decisions to the public as clearly 
+
+as possible . Such clarity facilitates well-informed decisionmaking by households and businesses, 
+
+reduces economic and financial uncertainty, increases the effectiveness of monetary policy, and 
+
+enhances transparency and accountability, which are essential in a democratic society .
+
+The Committee’s monetary policy strategy is designed to promote maximum employment and 
+
+stable prices across a broad range of economic conditions . Employment, inflation, and long-term 
+
+interest rates fluctuate over time in response to economic and financial disturbances . Monetary 
+
+policy plays an important role in stabilizing the economy in response to these disturbances . The 
+
+Committee’s primary means of adjusting the stance of monetary policy is through changes in the 
+
+target range for the federal funds rate . The Committee is prepared to use its full range of tools to 
+
+achieve its maximum employment and price stability goals, particularly if the federal funds rate is 
+
+constrained by its effective lower bound .
+
+Durably achieving maximum employment fosters broad-based economic opportunities and bene-
+
+fits for all Americans . The Committee views maximum employment as the highest level of employ-
+
+ment that can be achieved on a sustained basis in a context of price stability . The maximum level 
+
+of employment is not directly measurable and changes over time owing largely to nonmonetary 
+
+factors that affect the structure and dynamics of the labor market . Consequently, it would not be 
+
+appropriate to specify a fixed goal for employment; rather, the Committee’s policy decisions must 
+
+be informed by assessments of the maximum level of employment, recognizing that such assess-
+
+ments are necessarily uncertain and subject to revision . The Committee considers a wide range 
+
+of indicators in making these assessments .
+
+Price stability is essential for a sound and stable economy and supports the well-being of all 
+
+Americans . The inflation rate over the longer run is primarily determined by monetary policy, and 
+
+hence the Committee can specify a longer-run goal for inflation . The Committee reaffirms its 
+
+judgment that inflation at the rate of 2 percent, as measured by the annual change in the price 
+
+index for personal consumption expenditures, is most consistent over the longer run with the 
+
+Federal Reserve’s statutory maximum employment and price stability mandates . The Committee 
+
+judges that longer-term inflation expectations that are well anchored at 2 percent foster price sta-
+
+bility and moderate long-term interest rates and enhance the Committee’s ability to promote max-
+
+imum employment in the face of significant economic disturbances . The Committee is prepared 
+
+to act forcefully to ensure that longer-term inflation expectations remain well anchored .
+
+iv 
+
+Monetary Policy Report
+
+Monetary policy actions tend to influence economic activity, employment, and prices with a lag . 
+
+Moreover, sustainably achieving maximum employment and price stability depends on a stable 
+
+financial system . Therefore, the Committee’s policy decisions reflect its longer-run goals, its 
+
+medium-term outlook, and its assessments of the balance of risks, including risks to the financial 
+
+system that could impede the attainment of the Committee’s goals .
+
+The Committee’s employment and inflation objectives are generally complementary . However, if 
+
+the Committee judges that the objectives are not complementary, it follows a balanced approach 
+
+in promoting them, taking into account the extent of departures from its goals and the poten-
+
+tially different time horizons over which employment and inflation are projected to return to levels 
+
+judged consistent with its mandate . The Committee recognizes that employment may at times 
+
+run above real-time assessments of maximum employment without necessarily creating risks to 
+
+price stability .
+
+The Committee intends to review these principles and to make adjustments as appropriate at its 
+
+annual organizational meeting each January, and to undertake roughly every 5 years a thorough 
+
+public review of its monetary policy strategy, tools, and communication practices .
+
+v
+
+Abbreviations
+
+AFE
+
+AI
+
+ELB
+
+EME
+
+advanced foreign economy
+
+artificial intelligence
+
+effective lower bound
+
+emerging market economy
+
+EPOP ratio
+
+employment-to-population ratio
+
+FOMC
+
+GDP
+
+GenAI
+
+Federal Open Market Committee; also, the Committee
+
+gross domestic product
+
+generative artificial intelligence
+
+IORB rate
+
+interest on reserve balances rate
+
+JOLTS
+
+LFPR
+
+M2
+
+Job Openings and Labor Turnover Survey
+
+labor force participation rate
+
+monetary aggregate consisting of currency, liquid deposits (deposits readily 
+
+usable in transactions), small time deposits, and retail money funds
+
+ON RRP
+
+overnight reverse repurchase agreement
+
+PCE
+
+repo
+
+RMP
+
+SOMA
+
+S&P
+
+UR
+
+VIX
+
+personal consumption expenditures
+
+repurchase agreement
+
+reserve management purchase
+
+System Open Market Account
+
+Standard & Poor’s
+
+unemployment rate
+
+implied volatility for the S&P 500 index
+
+1
+
+Summary
+
+Inflation has risen this year and remains elevated relative to the Federal Open Market Commit-
+
+tee’s (FOMC) longer-run objective of 2 percent, in part reflecting supply shocks that have driven 
+
+price increases in certain sectors, including energy . The labor market has been broadly stable, 
+
+with the unemployment rate changing little and remaining at a low level . Labor productivity growth 
+
+is strong . Meanwhile, real gross domestic product (GDP) grew at a moderate pace in the first 
+
+quarter, with capital investment rising considerably but household consumption increasing only 
+
+very modestly . Overall, economic activity is expanding at a solid pace despite elevated uncer-
+
+tainty that owes, in part, to the conflict in the Middle East .
+
+Against this backdrop and in support of the Federal Reserve’s dual mandate, the FOMC has main-
+
+tained the target range for the federal funds rate at 3½ to 3¾ percent since the beginning of the 
+
+year . At the June FOMC meeting, the Committee emphasized its commitment to delivering price 
+
+stability .
+
+Regarding the Federal Reserve’s balance sheet, at the December 2025 meeting, the FOMC 
+
+judged that reserve balances had declined to ample reserve levels and initiated the purchases 
+
+of shorter-term Treasury securities as needed to maintain an ample supply of reserves on an 
+
+on  going basis . At the June meeting, the Committee reaffirmed its policy of maintaining ample 
+
+reserves in the banking system .
+
+Over the remainder of the year, independent task forces led by the very best minds from inside 
+
+and outside of the economics profession, supported by key subject-matter professionals within 
+
+the Federal Reserve, will examine five areas that are central to the Federal Reserve’s conduct 
+
+of monetary policy: (1) communications, (2) balance sheet policy, (3) the quality of existing data 
+
+sources, (4) productivity and jobs in an era of transformation, and (5) frameworks for analyz-
+
+ing the drivers of inflation . Each task force will start with first principles, ask hard questions, 
+
+examine current practice, consider alternatives, and, ultimately, propose next steps for the 
+
+Federal Reserve’s consideration .
+
+Recent Economic and Financial Developments
+
+Inflation. Measures of consumer price changes began trending up last year and then stepped up 
+
+further this spring . Over the 12 months ending in May, the price index for total personal consump-
+
+tion expenditures (PCE) rose 4 .1 percent . Core PCE prices—which exclude often-volatile food and 
+
+energy prices and are generally considered a better guide to future inflation developments—rose 
+
+3 .4 percent . Both measures were notably above their year-earlier readings . Among the factors 
+
+2 
+
+Monetary Policy Report
+
+contributing to higher measured prices are earlier tariff hikes that pushed up domestic prices 
+
+of some imported goods, a surge in energy prices associated with constraints on oil supplies 
+
+following the start of the Middle East conflict in late February, and increased demand for some 
+
+high-tech products that support artificial intelligence (AI) applications . Some measures of shorter-
+
+term inflation expectations moved higher following the jump in energy prices earlier this year . By 
+
+contrast, most measures of longer-term inflation expectations have remained within the range of 
+
+values observed over the decade before the pandemic and continue to be broadly consistent with 
+
+the FOMC’s longer-run objective of 2 percent inflation .
+
+The labor market. Following a period of cooling, the labor market has stabilized, with demand 
+
+and supply roughly in balance . The unemployment rate, at 4 .2 percent in June, was low and 
+
+has been little changed since last summer . Layoffs have been subdued and job vacancies have 
+
+been roughly flat, on balance, this year, though private payroll gains have picked up . A marked 
+
+slowdown in immigration and ongoing declines in labor force participation due to the aging of the 
+
+population led to a slowdown in labor supply growth . Finally, solid nominal wage growth has been 
+
+accompanied by strong growth in labor productivity .
+
+Economic activity. In the first quarter, real GDP moved up at a moderate annual rate of 
+
+2 .1 percent, similar to last year’s pace . The gains in the first quarter were supported by robust 
+
+growth in high-tech business investment and a bounceback in federal purchases following the 
+
+government shutdown in the fourth quarter of last year . Through the first five months of this year, 
+
+household consumption rose at a modest average annualized rate of 1 .3 percent . Activity in the 
+
+housing market has remained stagnant, with both sales of existing homes and construction of 
+
+new single-family homes little changed so far this year . In the manufacturing sector, output has 
+
+moved up strongly this year, partly reflecting increased demand for goods related to the buildout 
+
+of data centers supporting AI services . The economy’s productive capacity appears to be rising at 
+
+a solid pace as historically subdued growth in the labor force has been offset by strong growth in 
+
+labor productivity .
+
+Financial conditions. Since the start of the year, Treasury yields have risen and the market- 
+
+implied expected path of the federal funds rate has moved up . The largest increases in Treasury 
+
+yields occurred at shorter maturities, as market expectations of a higher federal funds rate 
+
+path pushed up real interest rates . This revised assessment by market participants of expected 
+
+monetary policy appeared to reflect both the effects of the Middle East conflict on inflation and 
+
+increased confidence in the stability of the labor market . Broad equity price indexes moved up, 
+
+while yields on corporate bonds rose moderately . Credit remained broadly available to most non-
+
+financial firms, households, and municipalities, although small businesses and households con-
+
+tinued to face relatively tight credit conditions . Bank lending grew in the first half of 2026, likely 
+
+reflecting easier lending standards and stronger demand .
+
+Summary 
+
+3
+
+In the modern economy, it is difficult to measure the stock of money . One of a number of series 
+
+traditionally used to provide an empirical approximation to the stock of money is the M2 monetary 
+
+aggregate . Over the first five months of the year, 12-month rates of increase in M2 were moder-
+
+ate and broadly similar to the pace typically observed during the 2010s .
+
+Financial stability. Overall, the U .S . financial system remained sound and resilient, with vulnera-
+
+bilities roughly unchanged, on net, since the beginning of the year . Asset valuations remain above 
+
+historical norms across equity, corporate debt, and residential real estate markets . Total debt 
+
+of nonfinancial businesses and households as a fraction of GDP continued to edge down over 
+
+the first half of 2026 and currently stands at its lowest level since the early 2000s . Leverage of 
+
+hedge funds and the largest life insurers remained elevated relative to historical standards . Risk-
+
+based regulatory capital levels at banks stayed high compared with the past few decades, and 
+
+bank capital positions became less sensitive to increases in long-term yields . Assessments of 
+
+vulnerabilities stemming from funding risks are consistent with historical norms across most sec-
+
+tors of the financial system . Some private credit vehicles faced notable increases in redemption 
+
+requests in the first quarter of 2026, reflecting some defaults and concerns about the quality of 
+
+underlying assets . In most cases, the managers of these funds imposed limits on redemptions, 
+
+and private credit markets continued to function normally . (See the box “Developments Related to 
+
+Financial Stability .”)
+
+International developments. Growth in foreign economic activity was subdued overall in the first 
+
+half of 2026, in part reflecting headwinds generated by the Middle East conflict and U .S . tariffs . 
+
+However, these headwinds were partially offset by the surge in AI-related investment . Foreign 
+
+headline inflation has increased notably in recent months in response to the sharp rise in prices 
+
+of energy and other related commodities during the conflict . Foreign producer prices have also 
+
+risen, possibly posing additional inflationary risks abroad . In response, several foreign central 
+
+banks raised their policy rates, and others shifted their communications to emphasize their com-
+
+mitment to price stability, despite weaker growth prospects . Equity prices abroad rose even as 
+
+foreign sovereign bond yields increased . The trade-weighted exchange value of the U .S . dollar has 
+
+appreciated modestly, on net, since the start of this year, remaining strong in real terms relative 
+
+to its historical average .
+
+Monetary Policy
+
+Interest rate policy. In support of the Federal Reserve’s dual mandate, the FOMC has maintained 
+
+the target range for the federal funds rate at 3½ to 3¾ percent since the beginning of the year . 
+
+The Committee has noted that economic activity is expanding at a solid pace despite elevated 
+
+uncertainty that owes, in part, to the conflict in the Middle East; productivity growth and capital 
+
+investment are strong; job gains have kept pace with the workforce; and the unemployment rate 
+
+ 
+4 
+
+Monetary Policy Report
+
+has changed little . Inflation remains elevated relative to the Committee’s 2 percent goal, in part 
+
+reflecting supply shocks that have driven price increases in certain sectors, including energy . The 
+
+Committee will deliver price stability .
+
+Balance sheet policy. At the December 2025 meeting, the FOMC judged that reserve balances 
+
+had declined to ample reserve levels and initiated purchases of shorter-term Treasury secu-
+
+rities to maintain an ample supply of reserves on an ongoing basis . At the June meeting, the 
+
+Committee reaffirmed its policy of maintaining ample reserves in the banking system .
+
+Special Topics
+
+Employment and earnings across groups. Employment disparities across sex, race, ethnicity, 
+
+and education continue to be relatively narrow compared with historical levels . Nevertheless, 
+
+significant disparities in absolute levels remain . Additionally, the robust real wage gains experi-
+
+enced by some historically disadvantaged groups in recent years have since moderated as labor 
+
+market tightness has eased and consumer price inflation has remained elevated . (See the box 
+
+“Employment and Earnings across Demographic Groups .”)
+
+Federal Reserve’s balance sheet and money markets. The FOMC continued reserve management 
+
+purchases to maintain an ample supply of reserves . Usage of the overnight reverse repurchase 
+
+agreement facility remained near zero on most days, and standing repurchase agreement opera-
+
+tions were tapped when economically sensible . Overnight money markets were stable . (See the 
+
+box “Developments in the Federal Reserve’s Balance Sheet and Money Markets .”)
+
+Monetary policy rules. Policymakers routinely consult information derived from the analysis of 
+
+simple monetary policy rules . However, existing rules cannot capture all of the considerations that 
+
+go into the formation of appropriate monetary policy; nevertheless, some principles of effective 
+
+monetary policy can be understood by examining the current policy implications of these rules . 
+
+(See the box “Monetary Policy Rules in the Current Environment .”)
+
+5
+
+Recent Economic and Financial 
+Developments
+
+Domestic Developments
+
+Inflation trended up last year and moved notably higher in recent months
+
+After having fluctuated around a rate somewhat above the Federal Open Market Committee’s 
+
+(FOMC) 2 percent target in 2024 and early 2025, measures of consumer price inflation moved up 
+
+steadily over the remainder of last year amid signs that increases in tariffs on U .S . goods imports 
+
+had pushed up domestic prices for some consumer goods . Measured inflation then stepped 
+
+up further in March as energy prices surged after the start of the Middle East conflict . Over the 
+
+12 months ending in May, the price index for personal consumption expenditures (PCE) rose 
+
+4 .1 percent, up substantially from a 2 .5 percent pace a year earlier (figure 1) . Core price infla-
+
+tion—which excludes food and energy items and historically has been a better gauge of future 
+
+inflation—was 3 .4 percent over the 12 months ending in May, up from a 2 .8 percent pace a year 
+
+earlier . By contrast, some other measures of inflation that attempt to reduce the influence of 
+
+idiosyncratic price movements have moved lower over the past year . For example, the 12-month 
+
+change in the trimmed mean measure of PCE prices constructed by the Federal Reserve Bank of 
+
+Dallas declined from 2 .6 percent last May to 2 .4 percent this May .2
+
+Figure 1. Personal consumption expenditures price indexes
+
+Percent change from year earlier
+
+Monthly
+
+Trimmed mean
+Total
+Ex. food and energy
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The horizontal line indicates the Federal Open Market Committee’s objective of 2 percent inflation .
+
+Consumer energy prices have risen sharply since February, while food prices 
+continued to increase moderately
+
+PCE energy prices leaped 24 percent over the 12 months ending in May (figure 2, left panel) . 
+
+Much of the gain reflects a jump in oil and gasoline prices following the start of the military 
+
+2  Although the trimmed mean measure is often a better predictor of future headline inflation than is core PCE (an advan-
+tage), it can provide misleading signals when the distribution of price changes shifts—a disadvantage that may have 
+contributed to its delayed rise during the inflation surge of 2021 . For a discussion of the advantages and disadvan-
+tages of the Federal Reserve Bank of Dallas’s trimmed mean measure of PCE prices, see Tyler Atkinson, Jim Dolmas, 
+and Rebecca Zarutskie (2026), “Skewness Warrants Caution as Trimmed Mean PCE Inflation Eases,” Federal Reserve 
+Bank of Dallas, Dallas Fed Economics (blog), April 16, https://www .dallasfed .org/research/economics/2026/0416 .
+
+ 
+6 
+
+Monetary Policy Report
+
+Figure 2. Price indexes for subcomponents of personal consumption expenditures
+
+Food and energy
+Percent
+
+Monthly
+
+Food and beverages (right scale)
+Energy (left scale)
+
+Percent
+
+Components of core prices
+
+Monthly
+
+Housing services
+Services ex. energy and housing
+Goods ex. food, beverages, and energy
+
+Percent
+
+12
+
+9
+
+6
+
+3
+
+0
+
+−3
+
+15
+
+12
+
+9
+
+6
+
+3
+
+0
+
+−3
+
+−6
+
+75
+
+60
+
+45
+
+30
+
+15
+
+0
+
+−15
+
+−30
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: Percent change is from year earlier .
+
+Figure 3. Oil prices
+
+Weekly
+
+Dollars per barrel
+
+Brent crude price
+24-month-ahead futures contracts
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: The data are weekly averages of daily data and 
+extend through July 2, 2026 .
+
+conflict in the Middle East, which severely 
+
+constrained shipping through the Strait of 
+
+Hormuz—a key passageway for oil—and 
+
+damaged some of the region’s energy infra-
+
+structure . As a consequence, oil prices rose 
+
+sharply and have been volatile since then, 
+
+fluctuating on news regarding negotiations 
+
+between the U .S . and Iran (figure 3) .
+
+Although the pace of increase in PCE food 
+
+prices remained moderate, it has picked 
+
+up this year . Food prices rose 2 .4 percent 
+
+over the 12 months ending in May, up from 
+
+Figure 4. Spot prices for commodities
+
+1 .8 percent at the same time last year 
+
+Week ending January 4, 2019 = 100
+
+Weekly
+
+Industrial metals
+Agriculture and livestock
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: The data are weekly averages of daily data and 
+extend through July 2, 2026 .
+
+(figure 2, left panel) . A few somewhat inter-
+
+related factors contributing to the step-up 
+
+in measured food price inflation include the 
+
+effects of higher tariffs and increases in 
+
+agricultural and livestock commodity prices 
+
+(figure 4, blue line) .
+
+Lower-income households are particularly 
+
+sensitive to changes in the costs of food and 
+
+energy, as these necessities account for a 
+
+large share of their expenditures . Reflecting 
+
+the sharp run-ups seen in 2021 and 2022, 
+
+Recent Economic and Financial Developments 
+
+7
+
+as well as the increase this year, food prices are almost 30 percent higher than before the 
+
+pandemic, well above the 8 percent increase that would have been observed if these prices had 
+
+continued rising at their average rates over the decade before the pandemic .3
+
+Core goods price inflation continued to move up early this year
+
+In assessing the outlook for inflation, it is helpful to consider three separate components of core 
+
+prices: core goods, housing services, and core nonhousing services (figure 2, right panel) . Core 
+
+goods price inflation moved up notably over 2025 and continued to rise in the early months of 
+
+this year . The 12-month change in PCE core goods prices stood at 2 .4 percent in May, far higher 
+
+than the 0 .6 percent pace recorded a year earlier .
+
+The effects of tariffs cannot be observed directly in the official consumer price statistics, and 
+
+these effects depend on the responses of consumers, firms, importers, and foreign exporters . 
+
+Nonetheless, the pattern of price changes last year suggests that tariff increases contributed in 
+
+part to the upturn in consumer goods price increases . As an example, relative to their pre-tariff 
+
+trends, average monthly price increases were higher in goods categories that are more exposed 
+
+to tariff increases due to their relatively high import content, such as household appliances and a 
+
+variety of consumer electronics .
+
+In the early months of 2026, rapid gains in consumer prices for software and accessories, com-
+
+puters, and other electronics also contributed to overall measured core goods inflation .4 These 
+
+prices are quite elevated relative to their year-earlier levels, and the gains likely reflect the surge 
+
+in demand for semiconductors and other components important to the buildout of data centers 
+
+that provide the infrastructure needed for artificial intelligence (AI) applications and services . 
+
+Although a large portion of high-tech goods are imported, most of these products are exempt 
+
+from tariffs, so changes in tariff rates are not an important factor in their prices .
+
+Rising prices for fuel, metals, and other key inputs have increased cost pressures on domestic 
+
+manufacturers and are likely feeding into core goods prices . This year, purchasing managers 
+
+have reported in both the Institute for Supply Management manufacturing survey and regional 
+
+Federal Reserve surveys that the prices they paid for inputs used in production moved higher 
+
+(figure 5) . Many respondents cited geo political tensions in the Middle East, rising fuel and 
+
+3  In recent years, it has often been useful to assess the state of economic activity relative to a pre-pandemic bench-
+
+mark . Unless otherwise indicated, mentions of “pre-pandemic” or of periods “before the pandemic” generally refer to 
+2019, the last full year before the onset of the pandemic .
+
+  Because energy prices can experience especially large and volatile swings, it is more helpful to focus on food prices 
+
+than energy prices for longer-term assessments of household well-being . That said, the recent run-up in energy prices 
+has undoubtedly affected low-income households .
+
+4  In the PCE price index, computer software and accessories are classified as goods .
+
+ 
+8 
+
+Monetary Policy Report
+
+Figure 5. Prices paid indexes from 
+manufacturing surveys
+
+Monthly
+
+ISM manufacturing
+Average of regional Fed surveys
+
+Diffusion index
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data extend through June 2026 . The 
+regional survey average comprises data from the 
+Dallas Fed’s Texas Manufacturing Outlook Survey, 
+the Kansas City Fed’s Survey of Tenth District 
+Manufacturers, the New York Fed’s Empire State 
+Manufacturing Survey, and the Philadelphia Fed’s 
+Manufacturing Business Outlook Survey . ISM is 
+Institute for Supply Management .
+
+transportation costs, and broad supply con-
+
+straints as primary drivers of these elevated 
+
+input costs . Indeed, global benchmark prices 
+
+for industrial metals have risen consider-
+
+ably, on net, this year, likely reflecting supply 
+
+constraints resulting from the conflict in the 
+
+Middle East and increased demand arising 
+
+from data center construction and outfitting 
+
+(figure 4, black line) . Finally, the Federal 
+
+Reserve Bank of New York’s Global Supply 
+
+Chain Pressure Index—which incorporates 
+
+information from a range of sources— 
+
+indicates that supply chain pressures have 
+
+jumped in recent months .
+
+Published nonfuel import prices, which mea-
+
+sure the prices charged by foreign suppliers 
+
+Figure 6. Nonfuel import price index
+
+and exclude tariffs, have risen sharply this 
+
+Percent change from year earlier
+
+Monthly
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The missing value for the nonfuel import 
+price index in October 2025 is estimated 
+using the average of the September 2025 and 
+November 2025 values .
+
+8
+
+6
+
+4
+
+2
+
+0
+
+−2
+
+−4
+
+−6
+
+year, driven up by higher prices for industrial 
+
+metals, computers, and semiconductors 
+
+(figure 6) . By contrast, the prices paid by 
+
+domestic producers to import these prod-
+
+ucts, which do include tariffs, are estimated 
+
+to have decreased this year . These price 
+
+reductions primarily reflect a decline in the 
+
+average U .S . tariff rate following February’s 
+
+Supreme Court ruling that invalidated many 
+
+prevailing tariff measures and whose repeal 
+
+was only partially offset by new, alternative 
+
+tariff measures .
+
+Housing services price inflation moved lower
+
+Housing services price inflation declined considerably last year and is now close to its pre-
+
+pandemic pace . Over the 12 months ending in May, housing services prices rose 3 .2 percent, a 
+
+notably smaller gain than the 4 .1 percent increase for the comparable period in 2025 (figure 7) .
+
+Core nonhousing services price inflation remains above its pre-pandemic average
+
+Finally, prices for core nonhousing services—a broad group that includes medical, travel and din-
+
+ing, and financial services—increased 3 .9 percent over the 12 months ending in May, somewhat 
+
+above the range of readings this measure has recorded since the middle of last year . Robust 
+
+increases in prices for medical services, accommodations, and airfares (likely due to a recent 
+
+Figure 7. Measures of rental price inflation
+
+Monthly
+
+PCE housing services prices
+Apartment List single-family and multifamily units
+Zillow single-family and multifamily units
+Cotality single-family detached units
+
+Recent Economic and Financial Developments 
+
+9
+
+Percent change from year earlier
+
+21
+18
+15
+12
+9
+6
+3
+0
+−3
+−6
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data start in January 2016 for Zillow and January 2018 for Apartment List . PCE is personal consumption 
+expenditures . Apartment List, Zillow, and Cotality data measure market-rate rents—that is, rents for a new lease by 
+a new tenant .
+
+surge in jet fuel prices) have contributed to the gains in this category . Despite the recent uptick in 
+
+the pace of price increases, there do not appear to be persistent cost pressures for firms in this 
+
+sector, where labor is the most important input: Wage growth has declined gradually in recent 
+
+years, and even though it remains at a solid level, it has been accompanied by strong productiv-
+
+ity growth .
+
+Most measures of longer-term inflation expectations have been stable, while 
+most measures of shorter-term expectations have risen in recent months
+
+A generally held view among economists is 
+
+that inflation expectations influence actual 
+
+inflation by affecting wage- and price-setting 
+
+decisions . Most measures suggest that 
+
+longer-term inflation expectations remain 
+
+well anchored . Survey-based measures 
+
+produced by Blue Chip Financial Forecasts, 
+
+the Federal Reserve Banks of New York 
+
+and Atlanta, and the Survey of Professional 
+
+Figure 8. Measures of inflation expectations
+
+Percent
+
+Michigan survey median, next 12 months
+Michigan survey median, next 5 to 10 years
+SPF, next 10 years
+SPF, 6 to 10 years ahead
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Forecasters from the Federal Reserve Bank 
+
+2011
+
+2014
+
+2017
+
+2020
+
+2023
+
+2026
+
+of Philadelphia have moved roughly sideways 
+
+in recent months and remain within the range 
+
+seen in the decade before the pandemic, 
+
+when inflation was low (figure 8) .5 For exam-
+
+ple, the median forecaster in the Survey of 
+
+Note: The data for the Michigan survey are monthly 
+and extend through June 2026 . The data for the 
+Survey of Professional Forecasters (SPF) are 
+quarterly and extend through 2026:Q2 .
+
+Professional Forecasters continued to expect inflation to average 2 .1 percent over the five years 
+
+beginning five years from now . Similarly, market-based measures of longer-term inflation 
+
+5  An exception among the longer-term measures is the University of Michigan Surveys of Consumers, in which the 
+
+median reading of expected inflation over the next 5 to 10 years climbed from 3 .3 percent in February to 3 .9 percent 
+in May . This measure, though, fell back to 3 .3 percent in June and is well below the high rates that were seen for part 
+of last year .
+
+ 
+10  Monetary Policy Report
+
+Figure 9. Inflation compensation implied by 
+Treasury Inflation-Protected Securities
+
+Daily
+
+Percent
+
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+
+5-year
+5-to-10-year
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data are at a business-day frequency and 
+are estimated from smoothed nominal and inflation-
+indexed Treasury yield curves .
+
+compensation based on financial instruments 
+
+linked to inflation have been little changed so 
+
+far this year (figure 9) .
+
+By contrast, most measures of shorter-term 
+
+inflation expectations have risen this year—
+
+particularly since the start of the conflict in 
+
+the Middle East—though the extent of the 
+
+increases has varied considerably . At one 
+
+extreme, 12-month inflation expectations in 
+
+the University of Michigan survey rose from 
+
+3 .4 percent in February to 4 .6 percent in 
+
+June, an elevated rate that was neverthe-
+
+less still well below the peak that followed 
+
+last year’s announcements of tariff increases (figure 8, black line) . Other short-term measures, 
+
+such as those produced by the Federal Reserve Bank of New York’s Survey of Consumer Expec-
+
+tations, the Blue Chip survey, and many measures of businesses’ expectations of inflation and 
+
+cost increases, have risen less dramatically or have changed little, on net, as have market-based 
+
+inflation compensation measures .
+
+A task force will explore inflation frameworks
+
+Against the backdrop of persistently elevated inflation, the Federal Reserve has commissioned an 
+
+independent task force to explore inflation frameworks . In particular, the task force will examine 
+
+the drivers of inflation, consider first principles, and weigh a wide range of ideas on how monetary 
+
+policy can deliver price stability in a changing economy .
+
+Labor market conditions have been broadly stable so far this year
+
+Figure 10. Civilian unemployment rate
+
+Monthly
+
+Percent
+
+2005 2008 2011 2014 2017 2020 2023 2026
+
+Note: The data extend through June 2026 . 
+Missing data for October 2025 are estimated 
+using the average of the September 2025 and 
+November 2025 values .
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+As measured across a range of indicators, 
+
+the labor market has stabilized this year 
+
+following a period of cooling . In June, the 
+
+unemployment rate stood at 4 .2 percent—
+
+low by historical standards—and it has been 
+
+little changed this year (figure 10) . Similarly, 
+
+unemployment rates across most demo-
+
+graphic groups have held stable at low levels 
+
+(figure 11) . (The box “Employment and Earn-
+
+ings across Demographic Groups” provides 
+
+further details .) Layoffs have been subdued, 
+
+Recent Economic and Financial Developments 
+
+11
+
+Figure 11. Unemployment rate, by race and ethnicity
+
+Monthly
+
+Black or African American
+Hispanic or Latino
+White
+Asian
+
+Percent
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: All data shown are 3-month moving averages and extend through June 2026 . Unemployment rate measures 
+total unemployed as a percentage of the labor force . Persons whose ethnicity is identified as Hispanic or Latino 
+may be of any race . Small sample sizes preclude reliable estimates for Native Americans and other groups for which 
+monthly data are not reported by the Bureau of Labor Statistics . Missing data for October 2025 are estimated using 
+the average of the September 2025 and November 2025 values .
+
+and job vacancies have been roughly flat on 
+
+net . Meanwhile, job growth has picked up 
+
+so far this year, although it remains soft by 
+
+historical standards: Following very anemic 
+
+average monthly gains of about 30,000 in the 
+
+second half of last year, private payroll gains 
+
+increased to nearly 80,000 in the first quarter 
+
+of this year and then stepped up further 
+
+to almost 100,000 in the second quarter 
+
+Figure 12. Nonfarm payroll employment
+
+Thousands of jobs
+
+Monthly
+
+Nonfarm payroll employment
+Nonfarm private employment
+
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+−100
+−200
+
+(figure 12) . Across industries, while employ-
+
+2021     2022     2023     2024     2025    2026
+
+ment growth in health care has been relatively 
+
+strong, other industries have posted more 
+
+modest gains, with employment in leisure and 
+
+hospitality, information, and financial activi-
+
+ties recording declines .
+
+Note: The data shown extend through June 2026 
+and are a 3-month moving average of the change in 
+nonfarm payroll employment .
+
+Growth in labor supply has been historically low . . .
+
+Growth in the supply of labor—determined by both the growth of the working-age population and 
+
+changes in the labor force participation rate, which is the share of the population either currently 
+
+employed or actively looking for work—has slowed notably over the past two years to a pace that 
+
+is extremely subdued relative to historical norms .6 Much of the slowdown can be attributed to 
+
+6  See, for example, Seth Murray and Ivan Vidangos (2026), “Labor Force Growth, Breakeven Employment, and Potential 
+GDP Growth,” FEDS Notes (Washington: Board of Governors of the Federal Reserve System, April 2), https://doi .org/ 
+10 .17016/2380-7172 .4045 .
+
+ 
+12  Monetary Policy Report
+
+Box 1.  Employment and Earnings across Demographic Groups
+
+Employment disparities across sex, race, ethnicity, and education groups—some of which reached 
+record lows in 2023 and early 2024 in an especially tight labor market—continue to be relatively 
+narrow compared with historical levels . However, despite the labor market progress for many demo-
+graphic groups in recent years, signiﬁ cant disparities in absolute levels across groups remain . Addi-
+tionally, the robust real wage gains experienced by some historically disadvantaged groups in recent 
+years have since moderated as labor market tightness has eased and consumer price inﬂ ation has 
+remained elevated .
+
+Among prime-age people (aged 25 to 54), the employment-to-population (EPOP) ratio for Black or 
+African American workers softened considerably in the ﬁ rst half of 2025 but has since partially recov-
+ered and, in recent months, has been a touch above its average level in 2019 (ﬁ gure A, left panel) .1 
+This development primarily reﬂ ects an increase in the unemployment rate for this group over early 
+2025 that has since partially reversed .2 At the same time, the employment rate for white workers has 
+continued to gradually drift higher over the past year . As a result, the EPOP ratio gap between Black 
+and white individuals has widened, on net, over the past year, although it remains narrow compared 
+with its historical level .3 By contrast, the employment rate for Hispanic or Latino workers has held 
+roughly steady, on net, over the past year, while the employment rate for Asian workers has edged 
+
+(continued)
+
+Figure A. Prime-age employment-to-population ratios compared with the 2019 average ratio,
+by group
+
+Race and ethnicity
+
+Monthly
+
+Percentage points
+
+Asian
+White
+Black or African American
+Hispanic or Latino
+
+Sex and educational attainment
+
+Percentage points
+
+Monthly
+
+Women, some college or more
+Women, high school or less
+Men, some college or more
+Men, high school or less
+
+4
+2
+0
+−2
+−4
+−6
+−8
+−10
+−12
+−14
+
+4
+2
+0
+−2
+−4
+−6
+−8
+−10
+−12
+−14
+
+2020
+
+2022
+
+2024
+
+2026
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data are 3-month moving averages . The data by race and ethnicity extend through June 2026 . 
+Prime age is 25 to 54 . All series are seasonally adjusted by Federal Reserve Board staff . Data by sex and 
+education before January 2026 are estimated by Federal Reserve Board staff to eliminate discontinuities in 
+the published history . Missing data for October 2025 are estimated using the average of the September 2025 
+and November 2025 values .
+
+1  Because of the government shutdown in 2025, the Bureau of Labor Statistics did not collect October employment and wage 
+data . Therefore, October 2025 employment and nominal wage values are estimated as the average of September 2025 and 
+November 2025 values .
+
+The missed collection of employment data for October 2025 may complicate the comparison of employment and labor force 
+participation rates across demographic groups because of the varying effect across groups of a form of survey sampling error 
+referred to as “excess rotation group” bias . For a discussion of this possible bias, see Hie Joo Ahn and James D . Hamilton 
+(2022), “Measuring Labor-Force Participation and the Incidence and Duration of Unemployment,” Review of Economic 
+Dynamics, vol . 44 (April), pp . 1–32 .
+
+2  The EPOP ratio—that is, employment divided by population—can also be expressed as LFPR * (1 – UR), where LFPR is the 
+
+labor force participation rate and UR is the unemployment rate . The EPOP ratio therefore decreases as the LFPR decreases or 
+as the unemployment rate increases . The EPOP ratio is multiplied by 100 for presentation purposes in the figures .
+
+3 
+
+In figures A and B, EPOP ratios are shown indexed to their 2019 average; therefore, gaps between groups are not readily 
+evident . Through December 2025, EPOP ratios by sex and education are constructed using harmonized microdata weights . 
+For more information, see John Coglianese, Seth Murray, and Christopher J . Nekarda (2025), “Harmonized Population and 
+Labor Force Statistics,” Finance and Economics Discussion Series 2025-057 (Washington: Board of Governors of the 
+Federal Reserve System, August), https://doi .org/10 .17016/FEDS .2025 .057 .
+
+ 
+Recent Economic and Financial Developments 
+
+13
+
+Box 1—continued
+
+down a touch, although the ratios for both groups are elevated by historical standards . The EPOP 
+ratio gap between Hispanic and white workers is roughly unchanged relative to a year ago, while the 
+gap between Asian and white workers has widened .4
+
+The EPOP ratio for prime-age women grew strongly during the post-pandemic recovery and peaked 
+in 2024, which led to a historically narrow EPOP ratio gap between prime-age men and women . This 
+increase in the EPOP ratio for women mostly reﬂ ects the continuation of the pre-pandemic trend of 
+rising female labor force participation—some of which is likely attributable to increased educational 
+attainment—among other factors .5 In the past year, growth in the female EPOP ratio has leveled off, 
+but given that the male EPOP ratio has been roughly ﬂ at over this time, the employment gap between 
+men and women has remained near its low point . Both women with and without some college edu-
+cation currently have EPOP ratios a bit above their pre-pandemic levels (ﬁ gure A, right panel) . By con-
+trast, male EPOP ratios are about equal to their pre-pandemic levels for both these education groups .
+
+Among all prime-age people (aged 25 to 54), the EPOP ratio has remained roughly stable over the 
+past year (ﬁ gure B) . The EPOP ratio for people aged 55 or older, though, has continued to gradually 
+decline and is now approximately 3 .5 percentage points below its 2019 average . Most of this short-
+fall relative to 2019 reﬂ ects retirements related to the aging of the baby-boom generation . As this 
+cohort has grown older, the median age of people in the aged 55 or older population has risen, and 
+because older workers are more likely to have retired, this trend has lowered the group’s EPOP ratio . 
+Further, workers in this group, particularly those aged 65 or older, began retiring somewhat earlier 
+than usual during the pandemic, which has put some additional downward pressure on their EPOP 
+ratio .6 After falling a fair bit from its post-pandemic peak in 2024, the EPOP ratio of younger workers 
+(aged 16 to 24) has remained ﬂ at, on net, over the past year, and now sits a touch below its average 
+
+(continued)
+
+Figure B. Employment-to-population ratios compared with the 2019 average ratio, by age
+
+Monthly
+
+Percentage points
+
+4
+2
+0
+−2
+−4
+−6
+−8
+−10
+−12
+−14
+
+Ages 16 to 24
+Ages 25 to 54
+Ages 55+
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The data are 3-month moving averages and extend through June 2026 . All series are seasonally 
+adjusted by Federal Reserve Board staff . Data before January 2026 are estimated by Federal Reserve Board 
+staff to eliminate discontinuities in the published history . Missing data for October 2025 are estimated using 
+the average of the September 2025 and November 2025 values .
+
+4  As monthly series have greater sampling variability for smaller groups, we do not plot EPOP ratio estimates for 
+
+American Indians or Alaska Natives .
+
+5  For a discussion of the contribution of educational attainment to prime-age female labor force participation before the pan-
+
+demic, see Didem Tüzemen and Thao Tran (2019), “The Uneven Recovery in Prime-Age Labor Force Participation,” 
+Federal Reserve Bank of Kansas City, Economic Review, vol . 104 (Third Quarter), pp . 21–41, https://www .kansascityfed .
+org/Economic%20Review/documents/652/2019-The%20Uneven%20Recovery%20in%20Prime-Age%20Labor%20Force%20
+Participation .pdf .
+
+6  For an analysis on the increase in retirements following the pandemic, see Joshua Montes, Christopher Smith, and Juliana 
+
+Dajon (2022), “ ‘The Great Retirement Boom’: The Pandemic-Era Surge in Retirements and Implications for Future Labor Force 
+Participation,” Finance and Economics Discussion Series 2022-081 (Washington: Board of Governors of the Federal Reserve 
+System, November), https://doi .org/10 .17016/FEDS .2022 .081 .
+
+ 
+14  Monetary Policy Report
+
+Box 1—continued
+
+level in 2019 . The net decline relative to 2024 likely reﬂ ects a combination of factors particular to 
+this age group: greater sensitivity of labor force participation decisions to the easing labor market 
+conditions of the past two years, potential vulnerability to the adoption of generative artiﬁ cial intelli-
+gence (GenAI) across employers, and potential negative effects of remote-work policies on early-
+career workers .7
+
+Although employment disparities across many demographic groups remain near the historical lows 
+reached during the post-pandemic recovery period, substantial gender, racial, ethnic, and geographic 
+gaps in levels persist . Currently, prime-age women are employed at a rate 11 percentage points less 
+than men, while prime-age Black and Hispanic workers are employed at a rate 6 percentage points 
+and 3 percentage points below white workers, respectively, underscoring long-standing structural 
+factors .8
+
+Real wage growth has cooled a bit further in the past year as consumer price inﬂ ation has stepped 
+up . Earlier in the current expansion, the tight labor market led to robust real wage growth, particularly 
+for lower-wage workers and for many historically disadvantaged groups; however, since mid-2024, 
+wage growth for these groups has slowed . As shown in the top-left panel of ﬁ gure C, real wage 
+growth—as measured by the Federal Reserve Bank of Atlanta’s Wage Growth Tracker and deﬂ ated by 
+the personal consumption expenditures price index—was generally stronger for workers in the bottom 
+half of the income distribution during the post-pandemic recovery through the ﬁ rst half of 2024 . This 
+strength was driven by both labor demand outpacing labor supply in lower-wage industries during the 
+post-pandemic reopening of the economy and strong wage growth for job switchers over the same 
+period who were disproportionately lower-wage workers .9 However, since late 2024, real wage growth 
+for workers in the bottom quartile has fallen below that of the other quartiles but has remained pos-
+itive, on average, over the past 12 months . Real wage growth among the highest income quartile 
+remained robust through mid-2025 but has since slowed sharply . (The data used in this discussion 
+to measure real wage growth across demographic groups are a 12-month moving average and are 
+therefore lagged relative to actual real wage growth .10 As a result, the group-speciﬁ c real wage growth 
+
+(continued)
+
+7  For a discussion of the cyclical dynamics of labor force participation, see Tomaz Cajner, John Coglianese, and Joshua Montes 
+
+(forthcoming), “The Long-Lived Cyclicality of the Labor Force Participation Rate,” Review of Economics and Statistics . For 
+analyses of the effect of GenAI adoption on the employment of early-career workers, see Erik Brynjolfsson, Bharat Chandar, 
+and Ruyu Chen (2025), “Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence,” 
+working paper, Stanford Digital Economy Lab, November; and Seyed Mahdi Hosseini Maasoum and Guy Lichtinger (2025), 
+“Generative AI as Seniority-Biased Technological Change: Evidence from U .S . Résumé and Job Posting Data,” working paper, 
+August (revised June 2026) . For analyses of the potential effects of remote-work policies on early-career workers, see 
+Natalia Emanuel, Emma Harrington, and Amanda Pallais (2023), “The Power of Proximity to Coworkers,” NBER Working Paper 
+Series 31880 (Cambridge, Mass .: National Bureau of Economic Research, November; revised June 2026), https://www .nber .
+org/system/files/working_papers/w31880/w31880 .pdf; and Peter John Lambert and Yannick Schindler (2026), “The Broken 
+Ladder: AI, Remote Work, and Early-Career Hiring,” working paper, May .
+
+8  These structural factors include observable features—such as persistent educational differences—as well as important com-
+ponents that cannot be explained by observable factors . For further discussion of employment disparities by gender, see 
+Claudia Goldin (2021), Career and Family: Women’s Century-Long Journey toward Equity (Princeton, N .J .: Princeton University 
+Press) . For further discussion of employment disparities by race and ethnicity, see Tomaz Cajner, Tyler Radler, David Ratner, 
+and Ivan Vidangos (2017), “Racial Gaps in Labor Market Outcomes in the Last Four Decades and over the Business Cycle,” 
+Finance and Economics Discussion Series 2017-071 (Washington: Board of Governors of the Federal Reserve System, June), 
+https://doi .org/10 .17016/FEDS .2017 .071 .
+
+9  For a discussion of labor market tightness and wage growth during the pandemic recovery, see David Autor, Arindrajit Dube, 
+and Annie McGrew (2023), “The Unexpected Compression: Competition at Work in the Low Wage Labor Market,” NBER 
+Working Paper Series 31010 (Cambridge, Mass .: National Bureau of Economic Research, March; revised May 2024), 
+https://www .nber .org/papers/w31010 .
+
+10  Figure C shows the 12-month moving averages of the groups’ median 12-month real wage change in order to reduce noise due 
+to sampling variation, which can be pronounced when considering disaggregated groups’ wage changes . Thus, by construc-
+tion, these series lag the actual real wage changes .
+
+Recent Economic and Financial Developments 
+
+15
+
+Box 1—continued
+
+measures discussed here remain positive even while the aggregate real wage growth measures dis-
+cussed elsewhere in this report have turned negative .)
+
+The recent cooling in real wage growth is visible across all broad demographic groups, including 
+among some groups for whom, up until a year ago, wage growth had remained robust . Wage growth 
+for nonwhite workers had been a bit stronger than for white workers from 2022 through mid-2024 
+but has been similar to white workers’ since then (ﬁ gure C, top-right panel) . Similarly, wage growth for 
+workers with a high school diploma or less was strong relative to other groups in the post-pandemic 
+tight labor market; however, as labor market conditions softened in 2024, wage growth for this 
+group fell below that for college-educated workers in early 2024 and has been slowing, on net, since 
+mid-2024 (ﬁ gure C, bottom-left panel) . Some of this softening may be spreading to workers with an 
+associate’s degree, for whom real wage growth has eased more signiﬁ cantly in the past year and cur-
+rently stands below that for other education groups . Finally, wages for men and women largely grew 
+in tandem until the middle of 2024, but real wage growth for women was a bit stronger than that for 
+men from mid-2024 through mid-2025 (ﬁ gure C, bottom-right panel) . However, in recent months, wage 
+growth for women has tapered a bit and is now a touch below that of men .
+
+Figure C. Median real wage growth, by group
+
+Wage quartiles
+
+Monthly
+
+Percent
+
+1st quartile
+2nd quartile
+3rd quartile
+4th quartile
+
+2020
+
+2022
+
+2024
+
+2026
+
+Educational attainment
+
+Monthly
+
+Percent
+
+High school or less
+Associate’s degree
+Bachelor’s degree or more
+
+Race
+
+Monthly
+
+Sex
+
+Monthly
+
+4
+
+3
+
+2
+
+1
+
+0
+
+−1
+
+−2
+
+−3
+
+−4
+
+4
+
+3
+
+2
+
+1
+
+0
+
+−1
+
+−2
+
+−3
+
+−4
+
+Percent
+
+Nonwhite
+White
+
+2020
+
+2022
+
+2024
+
+2026
+
+Percent
+
+Women
+Men
+
+4
+
+3
+
+2
+
+1
+
+0
+
+−1
+
+−2
+
+−3
+
+−4
+
+4
+
+3
+
+2
+
+1
+
+0
+
+−1
+
+−2
+
+−3
+
+−4
+
+2020
+
+2022
+
+2024
+
+2026
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: Series show 12-month moving averages of the median percent change in the hourly wage of individuals 
+observed 12 months apart, deflated by the 12-month moving average of the 12-month percent change in the 
+personal consumption expenditures price index . In the top-left panel, workers are assigned to wage quartiles 
+based on the average of their wage reports in both Current Population Survey outgoing rotation group 
+interviews; workers in the lowest 25 percent of the average wage distribution are assigned to the 1st quartile, 
+and those in the top 25 percent are assigned to the 4th quartile .
+
+ 
+16  Monetary Policy Report
+
+Figure 13. Labor force participation rate
+
+Monthly
+
+Percent
+
+a sharp reduction in net immigration . Accord-
+
+ing to estimates produced by the Census 
+
+Bureau, strong immigration from 2022 
+
+through 2024 contributed to elevated popu-
+
+lation growth in those years, but immigration 
+
+slowed markedly over the 12 months ending 
+
+in June 2025; more recent indicators point to 
+
+very low immigration and population growth 
+
+since then . Meanwhile, the labor force partic-
+
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+
+2005 2008 2011 2014 2017 2020 2023 2026
+
+ipation rate has moved down since reaching 
+
+Note: The data extend through June 2026 . Values 
+before January 2026 are estimated by Federal 
+Reserve Board staff to eliminate discontinuities 
+in the published history . Missing data for 
+October 2025 are estimated using the average of the 
+September 2025 and November 2025 values .
+
+its recent peak in 2023, reflecting downward 
+
+pressure from population aging (figure 13) .
+
+. . . and growth in labor demand appears to have stabilized at a modest pace
+
+Job openings, as measured in the Job Openings and Labor Turnover Survey (JOLTS), have moved 
+
+a little higher since late last year . Meanwhile, an alternative measure of vacancies that uses job 
+
+postings data produced by Indeed, a large online job board, has flattened out this year following 
+
+declines in previous years . Indicators of layoff activity have remained muted, as initial claims for 
+
+unemployment insurance have been moving sideways, on net, and the JOLTS layoff rate has aver-
+
+aged only 1 .1 percent so far this year, similar to its pre-pandemic average (figure 14) .
+
+Figure 14. Indicators of layoffs
+
+Percent
+
+Thousands
+
+Initial unemployment claims (right scale)
+JOLTS layoff rate (left scale)
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+750
+
+625
+
+500
+
+375
+
+250
+
+125
+
+0
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data for initial unemployment claims cover regular state programs, are reported as a 4-week moving 
+average, and extend through June 27, 2026 . The data for the Job Openings and Labor Turnover Survey (JOLTS) layoff 
+rate are monthly . Series are truncated at the top of the figure in 2020 and 2021 .
+
+With growth in labor supply and demand about equally subdued, many key indicators 
+of labor market conditions and resource utilization have been broadly stable
+
+Various indicators that track labor market conditions have held mostly steady this year, suggest-
+
+ing that the labor market has become neither notably more nor less tight . For example, the JOLTS 
+
+Recent Economic and Financial Developments 
+
+17
+
+measure of the percentage of workers quitting their jobs each month—an indicator of the avail-
+
+ability of attractive job prospects—has been largely flat in recent months . Additionally, the gap 
+
+between the total number of available jobs (measured by employed workers plus job openings) 
+
+and the number of available workers (measured by the size of the labor force) has edged slightly 
+
+higher this year after having drifted a bit lower last year (figure 15) . Finally, after declining steadily 
+
+through last year, the share of respondents to the Conference Board Consumer Confidence 
+
+Survey who say that jobs are plentiful flattened out in early 2026, though it moved down in June .
+
+Figure 15. Available jobs versus available workers
+
+Monthly
+
+Available workers
+Available jobs
+
+Millions
+
+175
+
+170
+
+165
+
+160
+
+155
+
+150
+
+145
+
+140
+
+135
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data extend through June 2026 . Available jobs are employment plus job openings as of the end of the 
+previous month . Available workers are the labor force . Data for employment and labor force before January 2026 
+are estimated by Federal Reserve Board staff to eliminate discontinuities in the published history . Missing data for 
+October 2025 are estimated using the average of the September 2025 and November 2025 values .
+
+Labor productivity increased robustly last year
+
+Since late 2019, business-sector labor 
+
+productivity growth has averaged 2 .1 percent 
+
+per year—notably faster than the 1 .5 percent 
+
+average pace over the previous business 
+
+cycle between the fourth quarters of 2007 
+
+and 2019 (figure 16) . The strong gains in 
+
+productivity over the past few years are 
+
+likely attributable to a variety of factors, 
+
+including firms’ investments in labor-saving 
+
+technologies and high-tech capital to improve 
+
+efficiency as well as the elevated pace 
+
+of business formation since 2020 . More 
+
+recently, businesses’ adoption of AI technolo-
+
+gies could also be a contributing factor, albeit 
+
+modest to date .
+
+Figure 16. Average U.S. labor 
+productivity growth
+
+Percent, annual rate
+
+3.1
+
+2.8
+
+1.6
+
+1.5
+
+2.1
+
+1948:Q4—
+1973:Q4
+
+1973:Q4—
+1995:Q4
+
+1995:Q4—
+2007:Q4
+
+2007:Q4—
+2019:Q4
+
+2019:Q4—
+2026:Q1
+
+Note: The data are output per hour in the 
+business sector .
+
+4
+
+3
+
+2
+
+1
+
+0
+
+ 
+18  Monetary Policy Report
+
+A task force will explore productivity and jobs
+
+One of the recently announced independent task forces will explore the subject of productivity 
+
+and jobs . It will survey the pace, the reach, and the economic effects of generative AI—a new 
+
+general-purpose technology—and other innovations . The task force will explore the implications 
+
+for the Federal Reserve in pursuit of its maximum-employment and price-stability mandates .
+
+Wage growth remains solid and, with persistently strong productivity growth, is 
+roughly consistent with 2 percent inflation over time
+
+Figure 17. Measures of change in hourly 
+compensation
+
+Percent change from year earlier
+
+Atlanta Fed’s Wage Growth Tracker
+Average hourly earnings, private sector
+Employment cost index, private sector
+
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: For the Atlanta Fed’s Wage Growth Tracker, 
+the data are shown as a 3-month moving average 
+of the 12-month percent change; for private-sector 
+average hourly earnings, the data are 12-month 
+percent changes and extend through June 2026; for 
+the private-sector employment cost index, change is 
+over the 12 months ending in the last month of each 
+quarter .
+
+Measures of nominal wage growth remain 
+
+solid, although they have edged down this 
+
+year on net . Total hourly compensation 
+
+for private-sector workers, as measured 
+
+by the employment cost index, increased 
+
+3 .4 percent over the year ending in March, 
+
+unchanged from its pace a year earlier but 
+
+well below its peak increase of 5 .5 percent in 
+
+mid-2022 (figure 17) . However, other meas-
+
+ures of labor compensation growth, such 
+
+as average hourly earnings (a less compre-
+
+hensive measure of compensation) and the 
+
+Federal Reserve Bank of Atlanta’s Wage 
+
+Growth Tracker (which reports the median 
+
+12-month wage growth of individuals respond-
+
+ing to the Current Population Survey), have 
+
+moved lower over the past year .
+
+Although wage growth remains a touch above its pre-pandemic pace, persistently strong labor 
+
+productivity growth suggests that current nominal wage growth is roughly consistent with 
+
+2 percent inflation over time .
+
+Solid nominal wage gains have nonetheless been outpaced by overall price inflation over the past 
+
+year . With the recent jump in energy prices boosting the change in PCE prices to 4 .1 percent over 
+
+the 12 months ending in May, the purchasing power of workers’ wages, in the aggregate, declined 
+
+somewhat over this period . That said, for the year ending in May 2025, wage gains outpaced 
+
+price inflation . The effects on individual households, though, depend in part on workers’ cir-
+
+cumstances—because nominal wage changes vary significantly across industry and occupation 
+
+and because households consume different baskets of goods than the one represented in the 
+
+aggregate PCE price index . (For details on how real wage gains have differed across demographic 
+
+groups, see the box “Employment and Earnings across Demographic Groups .”)
+
+Recent Economic and Financial Developments 
+
+19
+
+Gross domestic product growth has been moderate
+
+Real gross domestic product (GDP) moved up 2 .1 percent at an annual rate in the first quarter of 
+
+this year, about the same pace as last year (figure 18) . The first-quarter gain was supported by 
+
+solid growth in high-tech-related business investment and a bounceback in real federal purchases 
+
+following the government shutdown in the fourth quarter of last year . However, first-quarter output 
+
+growth was tempered somewhat by a decline in residential investment, by a very modest gain in 
+
+consumer spending, and by the high import share of AI-related business spending, as imports are 
+
+subtracted from other spending flows in the GDP calculation to isolate the value-added of domes-
+
+tic production .
+
+Figure 18. Change in real gross domestic product, gross domestic income, and private domestic 
+final purchases
+
+GDP
+GDI
+PDFP
+
+Percent, annual rate
+
+Q1
+
+7
+6
+5
+4
+3
+2
+1
+0
+−1
+−2
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The key identifies bars in order from left to right . GDP is gross domestic product; GDI is gross domestic 
+income; PDFP is private domestic final purchases .
+
+Among other measures of economic activity, real private domestic final purchases—which com-
+
+prises consumer spending, business fixed investment, and residential investment and which is 
+
+usually considered a better indicator of the underlying momentum in the economy than GDP—
+
+grew a modest 1 .7 percent in the first quarter of this year, somewhat below its pace last year . 
+
+In addition, gross domestic income—a measure of economic activity conceptually equivalent to 
+
+GDP but estimated from the total income earned and the costs incurred in producing goods and 
+
+services—increased a subdued 1 .2 percent in the first quarter .
+
+Output in the manufacturing sector has moved up strongly this year, consistent with the pickup 
+
+in manufacturing new orders (figure 19) . The momentum in the sector has been supported by 
+
+industries producing computer and electronic products, metals, and machinery, suggesting that 
+
+demand in these industries may be deriving support from AI-related investments and, in some 
+
+cases, tariffs . In addition, motor vehicle production rebounded after disruptions in the supply of 
+
+metals and semiconductors constrained production in the fourth quarter of 2025 .
+
+ 
+20  Monetary Policy Report
+
+Figure 19. Manufacturing new orders
+
+Monthly
+
+ISM manufacturing
+Average of regional Fed surveys
+
+Diffusion index
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The data extend through June 2026 . The 
+regional survey average comprises data from 
+the Dallas Fed’s Texas Manufacturing Outlook 
+Survey, the Kansas City Fed’s Survey of Tenth 
+District Manufacturers, the New York Fed’s Empire 
+State Manufacturing Survey, the Philadelphia 
+Fed’s Manufacturing Business Outlook Survey, 
+and the Richmond Fed’s Fifth District Survey of 
+Manufacturing Activity . ISM is Institute for Supply 
+Management .
+
+Consumer spending growth has slowed
+
+Following two years of robust gains, consumer 
+
+spending growth slowed to a moderate pace 
+
+of about 2 percent last year, and it slowed 
+
+further over the first five months of this year, 
+
+increasing at an average annualized rate 
+
+of 1 .3 percent (figure 20) . The slowdown in 
+
+consumer spending growth last year and 
+
+this year can be explained in large part by a 
+
+moderation in real disposable income growth, 
+
+which reflects lower net immigration, easing 
+
+wage growth, and the effects of tariffs and 
+
+elevated gasoline prices on consumer prices . 
+
+These headwinds have more than offset sup-
+
+port from rising equity prices and the recent 
+
+pickup in job growth .
+
+Most measures of consumer sentiment moved down after the start of the Middle East conflict, 
+
+with many survey respondents pointing to elevated gasoline prices as an important factor . Most 
+
+notably, the Michigan index of consumer sentiment fell to an extraordinarily low level by historical 
+
+standards (figure 21) . By contrast, the Conference Board measure—which relies on questions 
+
+that are not as directly related to inflation—held up fairly well . In recent weeks, sentiment meas-
+
+ures appear to have stabilized or started to rebound, likely in response to the positive news on 
+
+negotiations between the U .S . and Iran and the decline in gasoline prices . In any case, in recent 
+
+years low sentiment readings have not presaged particularly weak consumption growth .
+
+Broadly, household balance sheets and finances appear healthy . Aggregate wealth is high, and 
+
+debt remains at moderate levels . Net worth is elevated relative to its 2019 level and has risen 
+
+Figure 20. Change in real personal 
+consumption expenditures
+
+Figure 21. Indexes of consumer sentiment 
+
+1985 average = 100
+
+February 1966 = 100
+
+Monthly
+
+Michigan survey (right scale)
+Conference Board (left scale)
+
+Percent, annual rate
+
+Jan.–
+May
+
+8
+7
+6
+5
+4
+3
+2
+1
+0
+−1
+−2
+
+170
+
+150
+
+130
+
+110
+
+90
+
+70
+
+50
+
+30
+
+10
+
+120
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2006
+
+2010
+
+2014
+
+2018
+
+2022
+
+2026
+
+Note: The data extend through June 2026 .
+
+ 
+Recent Economic and Financial Developments 
+
+21
+
+in recent years for households across the income distribution . Even so, there are indications 
+
+that the financial situation of some households is becoming stretched . In particular, auto loan 
+
+delinquency rates have increased for consumers residing in low- and moderate-income census 
+
+tracts . For the first quarter, a preliminary estimate of the saving rate stood at 3 .9 percent, a fair 
+
+bit below its pre-pandemic level, which could be another sign of financial pressure on households .
+
+Consumer credit flow picked up, while borrowing costs remained elevated
+
+For most households, consumer credit contin-
+
+ued to be generally available through the first 
+
+quarter of 2026 . After growing slowly in Jan-
+
+uary and February, credit card and auto loan 
+
+balances have picked up in recent months, 
+
+more notably in the case of credit card loans 
+
+(figure 22) . However, the borrowing costs 
+
+associated with these loans continued to be 
+
+elevated . Auto loan rates fell slightly, on net, 
+
+Figure 22. Consumer credit flows
+
+Billions of dollars, monthly rate
+
+Student loans
+Auto loans
+Credit cards
+
+Apr.
+
+Q1
+
+through May but remained somewhat above 
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+the levels seen in 2019 .
+
+Note: Auto loan balances were little changed 
+in 2025 . The data are seasonally adjusted by 
+Federal Reserve Board staff .
+
+Residential investment growth remains weak
+
+Figure 23. Existing home sales
+
+Monthly
+
+Millions, annual rate
+
+Following a decline in 2025, residential invest-
+
+ment fell further in the first quarter of this 
+
+year, and indicators suggest that activity in 
+
+the housing market remained stagnant in April 
+
+and May . Sales of existing homes have been 
+
+trending sideways for a few years at very low 
+
+levels and were little changed, on net, over 
+
+the first five months of this year (figure 23) . 
+
+One factor likely holding down home sales is 
+
+30
+25
+20
+15
+10
+5
+0
+−5
+−10
+−15
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+“rate lock,” a phenomenon that discourages 
+
+2012 2014 2016 2018 2020 2022 2024 2026
+
+homeowners who secured mortgages at rates 
+
+well below current levels from moving . Even though mortgage rates have moved down somewhat 
+
+over the past couple of years, the majority of outstanding mortgages still have interest rates 
+
+below 4 percent—substantially lower than the prevailing 30-year fixed interest rate of 6 .4 percent 
+
+(figures 24 and 25) .
+
+Single-family housing starts have been trending down since early 2024, as high inventories 
+
+of unsold homes have forestalled new construction (figure 26) . Construction of multifamily 
+
+ 
+22  Monetary Policy Report
+
+Figure 24. Mortgage interest rates 
+
+Figure 25. Distribution of interest rates on 
+outstanding mortgages
+
+Weekly
+
+Percent
+
+Monthly
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Percent
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Below 6 percent
+Below 5 percent
+Below 4 percent
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2012 2014 2016 2018 2020 2022 2024 2026
+
+Note: The data are contract rates on 30-year, fixed-
+rate conventional home mortgage commitments and 
+extend through July 1, 2026 .
+
+Note: The sample only includes outstanding 
+mortgages current on their payments . 
+
+Figure 26. Private housing starts
+
+Millions of units, annual rate
+
+Monthly
+
+Single-family starts
+Multifamily starts
+
+units—which are predominantly rental units—
+
+has returned to more typical levels after a 
+
+wave of new construction for multifamily units 
+
+broke ground from 2021 through 2023 .
+
+Consistent with the generally weak housing 
+
+market, market sentiment is downbeat as 
+
+measured by low readings for builders’ ratings 
+
+of new home sales and homebuyers’ senti-
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+2012 2014 2016 2018 2020 2022 2024 2026
+
+ment (figure 27) . In addition, growth in house 
+
+prices has slowed further (figure 28) . That 
+
+said, the level of house prices is still well 
+
+above its pre-pandemic level .
+
+Figure 27. Builder and homebuyer sentiment
+
+Monthly
+
+Builders’ ratings
+Homebuying conditions
+
+Diffusion index
+
+100
+80
+60
+40
+20
+0
+−20
+−40
+−60
+−80
+−100
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The data extend through June 2026; the June data are preliminary . The builders’ ratings of new home sales 
+series measures the percentage of respondents saying current sales conditions are good less the percentage 
+responding conditions are poor . The Michigan survey of homebuying conditions measures the percentage of 
+respondents saying it is a good time to buy less the percentage responding it is a bad time to buy .
+
+Recent Economic and Financial Developments 
+
+23
+
+25
+20
+15
+10
+5
+0
+−5
+−10
+−15
+−20
+−25
+−30
+
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+−5
+−10
+
+Figure 28. Growth rate in house prices
+
+Monthly
+
+Percent change from year earlier
+
+Zillow
+Cotality
+S&P Cotality Case-Shiller
+
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+2008
+
+2011
+
+2014
+
+2017
+
+2020
+
+2023
+
+2026
+
+Note: The data for Cotality and S&P Cotality Case-Shiller extend through April 2026 .
+
+Capital spending growth has been brisk, reflecting strong demand for 
+investment related to artificial intelligence
+
+After having increased at a solid rate of 
+
+5½ percent in 2025, business fixed invest-
+
+ment moved up at a robust annual rate of 
+
+11 percent in the first quarter of this year 
+
+(figure 29) . Most of the strength in invest-
+
+ment appears to be connected to building 
+
+the infrastructure necessary to support AI 
+
+services . Construction spending on new 
+
+data centers has surged since 2022, and 
+
+announced plans for future data center 
+
+construction have skyrocketed . As spending 
+
+on the construction of new data centers has 
+
+increased, so has spending on the equip-
+
+ment and software required to operate them . 
+
+Outside of AI-related categories, investment 
+
+Figure 29. Change in real business fixed 
+investment
+
+Percent, annual rate
+
+Total business ﬁxed investment
+High-tech equipment
+
+Q1
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: Business fixed investment is known as “private 
+nonresidential fixed investment” in the national 
+income and product accounts . The key identifies 
+bars in order from left to right .
+
+spending—particularly for offices and manufacturing structures—has been fairly weak on net . 
+
+Still, overall investment has likely benefited from fiscal policy tailwinds following changes in 2025 
+
+to reinstate full expensing for certain types of investment .
+
+Drilling and mining investment contracted about 10 percent last year and has increased only mod-
+
+estly so far this year . While oil prices rose sharply in early March, the industry seemed cautious 
+
+about ramping up investment, likely due to uncertainty about the persistence of elevated prices . 
+
+That said, the number of active drilling rigs crept up from March through June .
+
+Measures of business sentiment and measures of capital spending plans have been mixed . 
+
+Analyst expectations of corporate earnings growth are strong, corporate bond spreads are at 
+
+ 
+24  Monetary Policy Report
+
+very low levels, and measures of business uncertainty from financial markets—such as the one-
+
+month option-implied volatility on the S&P 500 index, or the VIX—have returned to typical levels 
+
+after spiking at the start of the Middle East conflict . However, other indicators of trade and geo-
+
+political policy uncertainty are still quite high, and although measures of business sentiment have 
+
+improved somewhat, they remain on the low side by historical standards .
+
+Business financing conditions have been uneven
+
+Financing conditions for large businesses remained generally accommodative, including financing 
+
+conditions in capital markets . Gross nonfinancial corporate bond issuance continued at a robust 
+
+pace in the first half of the year . Net issuance of investment-grade corporate bonds was particu-
+
+larly strong in the first quarter, in part driven by large, publicly traded tech firms, which increased 
+
+their debt financing of AI infrastructure expansion . Investor sentiment in private credit markets 
+
+weakened amid net outflows from semi-liquid investment vehicles, but the spillover into broader 
+
+credit markets was limited .
+
+By contrast, small business financing conditions remained somewhat restrictive . Loan origina-
+
+tions declined somewhat, on net, while credit card borrowing by businesses steadily increased in 
+
+the first half of this year . The increasing level of revolving balances on small business credit card 
+
+debt, a high-cost credit option, suggests small businesses have been finding it difficult to obtain 
+
+loans or credit lines from banks . Interest rates on short-term loans and credit cards have fallen 
+
+somewhat in 2026, but they remain high by recent years’ standards . Short-term delinquency rates 
+
+have begun to tick up after moderating somewhat earlier this year; they now stand above their 
+
+pre-pandemic levels .
+
+Imports and exports surged in the first quarter
+
+Figure 30. Change in real imports and exports 
+of goods and services
+
+Percent, annual rate
+
+Imports
+Exports
+
+Q1
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: The key identifies bars in order from left 
+to right .
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+−5
+
+−10
+
+−15
+
+Real imports and exports of goods and 
+
+services jumped in the first quarter, as the 
+
+AI-related trade of high-tech goods soared 
+
+(figure 30) . Both nominal imports and exports 
+
+grew further in April, supported by continued 
+
+strong trade in high-tech goods and by a 
+
+jump in U .S . energy exports amid reduced 
+
+foreign supplies caused by the conflict in the 
+
+Middle East . All told, net exports subtracted 
+
+about 0 .4 percentage point from GDP growth 
+
+in the first quarter, and the trade deficit as a 
+
+share of GDP edged down to 2 .1 percent from 
+
+2 .4 percent in the second half of last year .
+
+Recent Economic and Financial Developments 
+
+25
+
+Federal purchases fell last year but rebounded this year
+
+Federal purchases declined last year because of a reduction in the size of the federal workforce 
+
+and the government shutdown that temporarily lowered purchases in the fourth quarter . Pur-
+
+chases then rebounded in the first quarter of this year as the effects of the shutdown unwound .7
+
+The budget deficit and federal debt continue to be elevated
+
+In fiscal year 2025 and so far in fiscal 2026, 
+
+the federal budget deficit—the difference 
+
+between federal expenditures and receipts—
+
+has been around 6 percent of GDP, little 
+
+changed since fiscal 2023 and notably larger 
+
+than in the years preceding the pandemic 
+
+(figure 31) . The elevated budget deficit results 
+
+from both higher noninterest outlays that have 
+
+outpaced receipts and higher debt-servicing 
+
+costs that reflect elevated interest rates and 
+
+a higher level of debt . Reflecting large annual 
+
+deficits, the ratio of federal debt held by the 
+
+public to GDP has been moving higher for 
+
+some time and is now close to its historical 
+
+peak at the end of World War II (figure 32) .
+
+Figure 31. Federal receipts and expenditures
+
+Percent of nominal GDP
+
+Annual
+
+Expenditures
+Receipts
+
+32
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+
+1998 2002 2006 2010 2014 2018 2022 2026
+
+Note: Through 2025, the receipts and expenditures 
+data are on a unified-budget basis and are for fiscal 
+years (October to September); gross domestic 
+product (GDP) is for the 4 quarters ending in Q3 . 
+For 2026, receipts and expenditures are annualized 
+for the first 8 months of the fiscal year; GDP is the 
+average of 2025:Q4 and 2026:Q1 .
+
+Figure 32. Federal government debt and net interest outlays
+
+Percent of nominal GDP
+
+Annual
+
+Debt held by the public (right scale)
+Net interest outlays on federal debt (left scale)
+
+Percent of nominal GDP
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+1906
+
+1916
+
+1926
+
+1936
+
+1946
+
+1956
+
+1966
+
+1976
+
+1986
+
+1996
+
+2006
+
+2016
+
+2026
+
+Note: Federal debt held by the public equals federal debt excluding most intragovernmental debt, evaluated at the 
+end of the quarter . Net interest outlays are the cost of servicing the debt held by the public, offset by certain types 
+of interest income the government receives . Through 2025, federal debt data, which begin in 1900, are on a fiscal 
+year basis; net interest outlays data, which begin in 1948, are on a unified-budget basis and are for fiscal years 
+(October to September); and gross domestic product (GDP) is for the 4 quarters ending in Q3 . For 2026, federal debt 
+and net interest outlays are annualized for the first 8 months of the fiscal year; GDP is the average of 2025:Q4  
+and 2026:Q1 .
+
+7  Through a decline in hours worked by federal employees, the shutdown is estimated to have directly reduced GDP 
+
+growth about 1 percentage point at an annual rate in the fourth quarter of 2025, an effect that was reversed in the 
+first quarter of 2026 .
+
+ 
+26  Monetary Policy Report
+
+State and local government revenue grew moderately
+
+Figure 33. State and local tax receipts
+
+Percent change from year earlier
+
+Quarterly
+
+Total state taxes
+Property taxes
+
+State tax revenue grew moderately last year, 
+
+rising roughly in line with the broader econ-
+
+omy (figure 33) . According to the National 
+
+Association of State Budget Officers, states’ 
+
+total balances—that is, including rainy day 
+
+fund balances and previous-year surplus 
+
+funds—are estimated to have declined 
+
+in fiscal 2026 as a share of general fund 
+
+spending but remain very elevated relative 
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+−5
+
+−10
+
+2012 2014 2016 2018 2020 2022 2024 2026
+
+to pre-pandemic norms . At the local level, 
+
+Note: Receipts shown are year-over-year percent 
+changes of 4-quarter moving averages beginning in 
+2012:Q4 . Property taxes are primarily collected by 
+local governments .
+
+growth in property tax receipts was firm 
+
+in 2025 overall, although growth moved 
+
+noticeably lower at the end of the year and 
+
+remained low in early 2026 . While the near-
+
+term fiscal position of state and local governments remains solid in the aggregate, significant 
+
+variation exists across jurisdictions .
+
+State and local government spending growth moderated
+
+Figure 34. Change in state and local 
+government payroll employment
+
+Thousands of jobs
+
+H1
+
+600
+
+400
+
+200
+
+0
+
+−200
+
+−400
+
+−600
+
+−800
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The annual values are the difference between 
+the average level in one year and the average level in 
+the previous year . 2026:H1 data are the annualized 
+change from 2025:Q4 to 2026:Q2 .
+
+The rise in state and local government pur-
+
+chases moderated, on average, over 2025 
+
+and so far this year relative to the rapid pace 
+
+of increase in the years immediately follow-
+
+ing the pandemic . In particular, the pace of 
+
+hiring by these governments moved down 
+
+from recent years, returning very roughly to 
+
+the rate of jobs added during the years before 
+
+the pandemic (figure 34) . Real construction 
+
+outlays have been edging down, though they 
+
+remain elevated .
+
+A task force will evaluate new data sources
+
+Achieving the Federal Reserve’s dual mandate requires high-quality and timely information on eco-
+
+nomic conditions . Accordingly, the Federal Reserve has commissioned an independent task force 
+
+to evaluate new information sources and consider methodological changes to improve data gath-
+
+ering . The ultimate goal is to provide the Federal Reserve with more accurate, relevant, contempo-
+
+raneous, and, perhaps most important, actionable information on the state of the economy .
+
+Recent Economic and Financial Developments 
+
+27
+
+Financial Developments
+
+The expected path of the federal funds rate shifted up notably . . .
+
+significantly following the onset of the conflict 
+
+Quarterly
+
+Market-based measures of the expected 
+
+path of the federal funds rate showed lit-
+
+tle change early in 2026 before moving up 
+
+in the Middle East (figure 35) . Earlier in the 
+
+year, expectations of a decline in inflation 
+
+and lingering concerns about stabilization 
+
+in the labor market contributed to the view 
+
+that the policy rate would fall further toward 
+
+estimates of its long-run neutral level . Subse-
+
+quently, however, the policy rate path moved 
+
+above the levels prevailing at the start of 
+
+the year . Upward revisions to expectations 
+
+of the path of the policy rate partly reflected 
+
+assessments that the Middle East conflict 
+
+would lead to higher inflation this year and 
+
+increased confidence in the stability of the 
+
+U .S . labor market . Federal funds futures 
+
+Figure 35. Market-implied federal funds 
+rate path
+
+Percent
+
+December 31, 2025
+July 2, 2026
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+Note: The federal funds rate path is implied by 
+quotes on overnight index swaps—a derivative 
+contract tied to the effective federal funds rate . The 
+implied path as of December 31, 2025, is compared 
+with that as of July 2, 2026 . The path is estimated 
+with a spline approach, assuming a term premium 
+of 0 basis points . The December 31, 2025, path 
+extends through 2029:Q4 and the July 2, 2026, path 
+through 2030:Q2 .
+
+quotes suggest that investors currently expect the federal funds rate to increase about 30 basis 
+
+points above the current effective rate to around 4 percent by year-end 2026 . The market-implied 
+
+path of the federal funds rate also shifted higher for the period beyond 2026 .
+
+. . . and yields on nominal Treasury securities are higher on net
+
+Since the beginning of the year, yields on 
+
+nominal Treasury securities have increased, 
+
+on net, with the largest moves concentrated 
+
+Figure 36. Yields on nominal Treasury 
+securities
+
+at shorter maturities . The 2- and 10-year nom-
+
+Daily
+
+inal Treasury yields have risen, on net, about 
+
+60 basis points and around 35 basis points, 
+
+respectively (figure 36) . Short-term infla-
+
+tion compensation increased sharply after 
+
+the onset of the conflict in the Middle East 
+
+but retraced later following headlines of 
+
+de-escalation . Meanwhile, inflation compen-
+
+sation at longer horizons was a touch lower 
+
+and stayed at levels consistent with the 
+
+Committee’s inflation objective .
+
+10-year
+5-year
+2-year
+
+Percent
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+ 
+28  Monetary Policy Report
+
+Yields on other long-term debt rose moderately on net
+
+Since the start of the year, corporate bond yields across credit categories have risen moder-
+
+ately, while spreads over comparable-maturity Treasury securities have narrowed somewhat, 
+
+remaining low by historical standards (figure 37) . Meanwhile, yields on municipal bonds were 
+
+roughly unchanged from the start of the year and remained at elevated levels . Yields on agency 
+
+mortgage-backed securities—an important factor in the setting of home mortgage interest 
+
+rates—rose modestly and recorded spreads over Treasury security rates that were little changed, 
+
+on net, since the start of the year (figure 38) .
+
+Figure 37. Corporate bond yields, by securities 
+rating, and municipal bond yield
+
+Figure 38. Yield and spread on agency 
+mortgage-backed securities
+
+Percent
+
+Daily
+
+Spread (right scale)
+Yield (left scale)
+
+Basis points
+
+Daily
+
+Percent
+
+High-yield corporate
+Investment-grade corporate
+Municipal
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: High-yield corporate reflects the effective yield 
+of the ICE Bank of America Merrill Lynch (BofAML) 
+High Yield Index (H0A0) . Investment-grade corporate 
+reflects the effective yield of the ICE BofAML triple-B 
+U .S . Corporate Index (C0A4) . Municipal reflects 
+the yield to worst of the ICE BofAML U .S . Municipal 
+Securities Index (U0A0) . 
+
+Note: Yield shown is for the uniform mortgage-
+backed securities 30-year current coupon, the 
+coupon rate at which new mortgage-backed 
+securities would be priced at par, or face, value for 
+dates after May 31, 2019; for earlier dates, the yield 
+shown is for the Fannie Mae 30-year current coupon . 
+Spread shown is to the average of the 5-year and 
+10-year nominal Treasury yields .
+
+Broad equity price indexes increased, largely driven by robust corporate 
+earnings and optimism about artificial intelligence
+
+Figure 39. Equity prices
+
+December 31, 2019 = 100
+
+Daily
+
+Dow Jones bank index
+S&P 500 index
+
+The S&P 500 equity price index has increased 
+
+about 9 percent since the beginning of the 
+
+year amid sizable fluctuations and reactions 
+
+to news about AI-sector developments and 
+
+the Middle East conflict (figure 39) . Reflecting 
+
+increased investor enthusiasm regarding AI 
+
+technology and strong earnings growth in the 
+
+sector, stock prices in the S&P 500 Informa-
+
+tion Technology industry group are up about 
+
+250
+225
+200
+175
+150
+125
+100
+75
+50
+25
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+16 percent . The strong stock market perfor-
+
+mance occurred amid increased volatility, with 
+
+large price declines from late January through 
+
+late March . In early February, aggregate stock 
+
+Recent Economic and Financial Developments 
+
+29
+
+prices declined amid news about the potential 
+
+of AI to disrupt certain industries and emerg-
+
+ing concerns about over-investment in AI infra-
+
+structure . The decline continued in March, as 
+
+concerns over the inflation outlook emerged 
+
+from the Middle East conflict . Subsequently, 
+
+stock prices recovered to reach new record 
+
+highs, supported by strong corporate earnings 
+
+results and improved investor risk sentiment . 
+
+The VIX reached elevated levels of around 
+
+30 percent in late March but, on net, has 
+
+increased only modestly since the beginning 
+
+of the year and currently sits near the median 
+
+of its historical distribution (figure 40) . (For a 
+
+discussion of financial stability issues, see 
+
+the box “Developments Related to Financial 
+
+Stability .”)
+
+Figure 40. S&P 500 volatility
+
+Daily
+
+Percent
+
+VIX
+Expected volatility
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The VIX is an option-implied volatility measure 
+that represents the expected annualized variability 
+of the S&P 500 index over the following 30 days . 
+The expected volatility series shows a forecast of 
+1-month realized volatility, using a heterogeneous 
+autoregressive model based on 5-minute S&P 500 
+returns .
+
+Major asset markets functioned in an orderly manner
+
+Functioning in the markets for both Treasury securities and equities has been orderly since the 
+
+start of the year . That said, Treasury securities market liquidity deteriorated amid the heightened 
+
+volatility following the Middle East conflict . Liquidity recovered in subsequent weeks to near- 
+
+January levels . Meanwhile, liquidity conditions in equity markets have deteriorated slightly since 
+
+the start of the year and have remained low, with a notable feature being a low reading on market 
+
+depth—a measure of the availability of contracts at the best quoted prices . Corporate and munic-
+
+ipal bond markets functioned in an orderly manner .
+
+Short-term money market conditions remained stable
+
+Conditions in overnight bank funding and repurchase agreement (repo) markets remained sta-
+
+ble but have softened somewhat since the start of the year . The Federal Reserve continued to 
+
+purchase Treasury bill securities to ensure an ample supply of reserves, and as a result, reserve 
+
+balances have increased slightly since the beginning of January . The effective federal funds rate 
+
+decreased, on net, by 1 basis point below the interest on reserve balances (IORB) rate to 2 basis 
+
+points below the IORB rate, and other unsecured rates also decreased, with limited volatility . The 
+
+Secured Overnight Financing Rate declined relative to the IORB rate and exhibited limited volatility 
+
+on Treasury settlement days and quarter-ends . Over the period, there was limited uptake at the 
+
+overnight reverse repurchase agreement facility or of standing repo operations . Overall, condi-
+
+tions in money markets suggest that reserve balances remain within the range consistent with 
+
+ample reserves . (See the box “Developments in the Federal Reserve’s Balance Sheet and Money 
+
+Markets .”)
+
+ 
+30  Monetary Policy Report
+
+Box 2.  Developments Related to Financial Stability
+
+This discussion reviews vulnerabilities in the U .S . ﬁ nancial system . The framework used by the 
+Federal Reserve Board for assessing the resilience of the U .S . ﬁ nancial system focuses on ﬁ nancial 
+vulnerabilities in four broad areas: asset valuations, business and household debt, leverage in the 
+ﬁ nancial sector, and funding risks .
+
+Overall, the U .S . ﬁ nancial system remained sound and resilient, with vulnerabilities roughly 
+unchanged since January . This assessment reﬂ ects elevated asset valuations, low levels of total 
+business and household debt, strong bank capital positions, and moderate funding risk, along with 
+high leverage of hedge funds and some strains in private credit funds .
+
+Asset prices remained above levels consistent with their historical relationship to certain fundamen-
+tals across several major asset classes . In equity markets, the price of S&P 500 ﬁ rms relative to 
+analysts’ earnings projections stayed in the upper range of its historical distribution . Measures of 
+the equity premium increased from overall low levels late last year amid periods of higher equity and 
+broader market volatility but remained at the lower end of their historical range . Corporate bond and 
+loan spreads remained low by historical standards, although credit concerns increased for riskier 
+debt and spreads widened for speculative-grade technology bonds and leveraged loans . For property 
+markets, house price growth continued to moderate, but the ratio of house prices to rents remained 
+well above historical norms . Commercial real estate markets showed further signs of stabilization, 
+with little change in vacancy rates and rent growth across a broad range of property sectors .
+
+The combined debt of nonﬁ nancial businesses and households as a share of gross domestic product 
+stood at its lowest level since the early 2000s (ﬁ gure A) . Some measures of the aggregate leverage 
+of publicly traded ﬁ rms stayed high relative to their historical distributions, but solid interest coverage 
+ratios suggest these ﬁ rms remained well positioned to continue servicing their debt . Debt-servicing 
+capacity was lower among some publicly traded non-investment-grade ﬁ rms and riskier private ﬁ rms, 
+especially those relying on ﬂ oating-rate debt such as leveraged loans and private credit . In the house-
+hold sector, balance sheets remained strong overall, with most debt being owed by borrowers with 
+strong credit histories . Mortgage credit risk remained low due to large home equity cushions and 
+strong underwriting standards . That said, delinquencies on credit cards and auto loans remained 
+above levels that have prevailed over the past decade .
+
+Figure A. Nonfinancial business and household debt-to-GDP ratios
+
+Quarterly
+
+Household
+Nonﬁnancial business
+
+(continued)
+
+Ratio
+
+1.1
+
+0.9
+
+0.7
+
+0.5
+
+0.3
+
+1982
+
+1986
+
+1990
+
+1994
+
+1998
+
+2002
+
+2006
+
+2010
+
+2014
+
+2018
+
+2022
+
+2026
+
+Note: GDP is gross domestic product .
+
+Recent Economic and Financial Developments 
+
+31
+
+Box 2—continued
+
+Leverage at hedge funds remained near all-time highs and was concentrated in a small number of 
+large funds . This leverage is associated with a broad range of strategies, including those involving 
+Treasury securities, interest rate derivatives, and equities . Leverage at the largest life insurers stayed 
+well into the upper quartile of its historical distribution, albeit well above regulatory benchmarks . In 
+the banking sector, regulatory measures of bank capital remained near historically high levels . Banks 
+continued to reduce exposure to a potential rise in interest rates as their balance sheets moved 
+toward less interest rate sensitive short-duration securities . These actions helped reduce fair value 
+losses on banks’ ﬁ xed-rate assets relative to peaks in 2022, but these losses remained sizable . 
+Intermediation activity at broker-dealers continued to support a range of markets, including those 
+for Treasury securities, while their leverage remained roughly unchanged, with asset-to-equity ratios 
+slightly below their historical median .
+
+With regard to funding risks, banks’ funding proﬁ les remain mostly unchanged since January . 
+Uninsured deposits have declined for the banking system as a whole since early 2023, and the reduc-
+tion has been most pronounced among those banks that were most reliant on this source of funding 
+at that time . Outside of the banking system, assets in cash-management vehicles continued to grow, 
+largely driven by government money market funds, which historically have been the least susceptible 
+to large-scale investor redemptions . Finally, some types of private credit vehicles faced increased 
+redemption requests triggered by concerns about reduced returns and the quality of some underlying 
+assets . In most cases, the managers of these funds chose to accommodate redemption requests up 
+to 5 percent of net asset value, and private credit markets continued to function normally .
+
+ 
+32  Monetary Policy Report
+
+Following the onset of the Middle East conflict, spreads on lower-rated commercial paper wid-
+
+ened but have since returned to historically normal ranges as geopolitical tensions eased . Money 
+
+market mutual funds maintained near-record levels of assets under management, as the yields 
+
+they offered to potential customers continued to be more attractive than interest rates available 
+
+on bank deposits .
+
+Bank credit expanded at a strong pace
+
+Banks’ core loan holdings increased at a 5 .5 percent annualized rate in the first quarter, above 
+
+the growth rate in 2025, and expanded at a similar pace during the second quarter (figure 41) . 
+
+Banks’ responses to the April 2026 Senior Loan Officer Opinion Survey on Bank Lending 
+
+Practices indicated, over the first quarter of 2026, easier lending standards across loan cate-
+
+gories for the third consecutive quarter and stronger demand, on net, for the fourth consecutive 
+
+quarter, supporting the uptick in loan growth . Measures of credit quality, including loan delin-
+
+quency rates and loan loss provisioning across loan categories, were little changed, on average, 
+
+over the first quarter of 2026 . Bank profitability measures were also little changed, on net, in the 
+
+first quarter (figure 42) .
+
+Figure 41. Ratio of total commercial bank 
+credit to nominal gross domestic product
+
+Figure 42. Profitability of bank holding 
+companies
+
+Quarterly
+
+Percent
+
+75
+
+70
+
+65
+
+60
+
+55
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+−0.5
+−1.0
+−1.5
+−2.0
+−2.5
+
+Percent, annual rate
+
+Percent, annual rate
+
+Quarterly
+
+Return on assets (left scale)
+Return on equity (right scale)
+
+40
+
+30
+
+20
+
+10
+
+0
+
+−10
+
+−20
+
+−30
+
+−40
+
+2005 2008 2011 2014 2017 2020 2023 2026
+
+2006 2010 2014 2018 2022 2026
+
+The M2 measure of money grew in line with trends observed in the 2010s
+
+A measure of the stock of money potentially has a role to play in the evaluation of financial 
+
+and economic conditions . Although it is difficult to measure the stock of money in the modern 
+
+economy, one of a number of series traditionally used to provide an empirical approximation to 
+
+the concept of the stock of money is the M2 monetary aggregate . During the first five months 
+
+of the year, M2—which consists of currency, liquid deposits (deposits readily usable in transac-
+
+tions), small time deposits, and retail money funds—was 4 .7 percent higher, on average, than 
+
+its level from a year earlier . The rates of increase in M2 seen so far this year have been closer 
+
+Recent Economic and Financial Developments 
+
+33
+
+to the range typically observed in the 2010s and stand in contrast to the first half of the current 
+
+decade, which saw high double-digit growth rates of M2 followed by a period of negative growth 
+
+rates . The sizable increase in the public’s holdings of real money balances that took place during 
+
+the pandemic has largely been unwound . In the first quarter of 2026, M2 velocity—the ratio of 
+
+nominal GDP to the quarterly average of M2—was only slightly below its level in the fourth quarter 
+
+of 2019 .
+
+International Developments
+
+Foreign economic growth slowed in the first half of 2026
+
+Economic activity abroad has been affected recently by U .S . trade policy, the AI boom, and the 
+
+emergence of the Middle East conflict . Real GDP growth abroad stepped down in the first quarter 
+
+from its trend pace in the second half of last year, largely reflecting a sharp contraction in Mexico 
+
+and stagnant activity in Canada, with U .S . sectoral tariffs continuing to weigh on manufacturing 
+
+in these economies . In most euro-area countries, growth remained lackluster, as uncertainty 
+
+weighed on investment and exports continued to be weak . By contrast, economic activity in 
+
+several Asian economies—particularly in Taiwan and South Korea—remained robust, on strong 
+
+high-tech exports linked to soaring AI-related investment, especially in the U .S . In China, growth 
+
+picked up to a solid pace, with strong exports and industrial production offsetting weakness in 
+
+domestic demand .
+
+Recent indicators point to continued subdued growth abroad in the second quarter, with the 
+
+Middle East conflict and supply disruptions associated with the closure of the Strait of Hormuz 
+
+weighing on activity through higher energy costs, longer supplier delivery times, and weaker 
+
+confidence . These effects appear most pronounced in regions reliant on energy imports from the 
+
+Middle East, particularly lower-income Asian economies . In Europe and Japan, activity indicators, 
+
+including industrial production and retail sales, have also softened . At the same time, in a few 
+
+Asian economies with large high-tech sectors, ongoing investment in AI capacity in the U .S . and 
+
+elsewhere has continued to lift tech production and exports, helping to cushion the headwinds 
+
+from the Middle East conflict .
+
+Inflation abroad rose notably amid higher energy costs
+
+Foreign headline inflation has increased since the start of the Middle East conflict, mainly reflect-
+
+ing the sharp rise in retail energy prices in both advanced foreign economies (AFEs) and emerg-
+
+ing market economies (EMEs) (figure 43) . Foreign producer prices have also increased notably 
+
+in recent months, especially for industries exposed to disruptions from the Middle East conflict 
+
+or benefiting from strong AI-related demand . Conversely, inflation in China has remained low, at 
+
+around 1 percent, as the weakness in the property sector continues to limit price pressures .
+
+ 
+34  Monetary Policy Report
+
+Figure 43. Consumer price inflation in foreign economies
+
+Monthly
+
+Foreign ex. China
+EMEs ex. China
+AFEs
+China
+
+Percent change from year earlier
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+−2
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The advanced foreign economy (AFE) aggregate is the average of Canada, the euro area, Japan, and the U .K ., 
+weighted by shares of U .S . non-oil goods imports . The emerging market economy (EME) aggregate is the average of 
+Argentina, Brazil, Chile, Colombia, Hong Kong, India, Indonesia, Israel, Malaysia, Mexico, the Philippines, Russia, 
+Saudi Arabia, Singapore, South Korea, Taiwan, Thailand, and Vietnam, weighted by shares of U .S . non-oil goods 
+imports . The foreign aggregate is the import-weighted average of all aforementioned economies . The inflation 
+measure is the Harmonised Index of Consumer Prices for the euro area and the consumer price index for the other 
+economies .
+
+Several foreign central banks raised policy rates or signaled policy tightening 
+amid rising inflationary pressures
+
+At the beginning of the year, market participants generally had expected foreign central banks 
+
+to keep policy rates on hold or ease them modestly further, reflecting the significant progress 
+
+in reestablishing price stability . Since the onset of the Middle East conflict, however, policy rate 
+
+paths implied by financial market pricing indicate that markets expect AFE central banks to 
+
+raise interest rates (figure 44) . Indeed, several central banks, including the Bank of Japan, the 
+
+European Central Bank, and the Reserve Bank of Australia, have already responded to higher 
+
+inflation by raising policy rates . Meanwhile, other central banks have emphasized inflation devel-
+
+opments and risks in their communications, along with the importance of keeping inflation expec-
+
+tations anchored, signaling that they might raise policy rates despite weaker growth prospects .
+
+Figure 44. 24-month policy expectations for selected advanced foreign economies
+
+Weekly
+
+U.K.
+Canada
+Euro area
+Japan
+
+Basis points
+
+700
+600
+500
+400
+300
+200
+100
+0
+−100
+−200
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The data are weekly averages of daily 24-month market-implied central bank policy rates and extend through 
+July 2, 2026 . The 24-month policy rates are implied by quotes on overnight index swaps tied to the policy rates .
+
+Recent Economic and Financial Developments 
+
+35
+
+Equity prices rose even as sovereign bond yields increased . . .
+
+Since early 2026, near-dated sovereign yields have risen in many AFEs, as markets antici-
+
+pated higher policy rates in response to inflationary pressures resulting from the conflict in the 
+
+Middle East (figure 45) . Nonetheless, most major foreign equity price indexes increased briskly, 
+
+on net, in the first half of 2026, supported by improved corporate earnings, AI optimism, and 
+
+strong GDP growth in higher-income Asia (figure 46) . EMEs have seen notable portfolio capital 
+
+outflows since the start of the conflict .
+
+Figure 45. Nominal 2-year government bond 
+yields in selected advanced foreign economies
+
+Figure 46. Equity indexes for selected foreign 
+economies
+
+Weekly
+
+Canada
+U.K.
+Germany
+Japan
+
+Percent
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+−1
+
+−2
+
+Week ending January 4, 2019 = 100
+
+Weekly
+
+Euro area
+Japan
+China
+U.K.
+
+275
+250
+225
+200
+175
+150
+125
+100
+75
+50
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: The data are weekly averages of daily 
+benchmark yields and extend through July 2, 2026 .
+
+Note: The data are weekly averages of daily data and 
+extend through July 2, 2026 .
+
+. . . and the exchange value of the dollar also rose modestly
+
+Since the beginning of the year, the broad dollar index—a measure of the exchange value of the 
+
+dollar against a trade-weighted basket of foreign currencies—increased modestly, on net, despite 
+
+some volatility amid Middle East developments (figure 47) . The dollar remained strong in real 
+
+terms relative to its historical average .
+
+Figure 47. U.S. dollar exchange rate index
+
+Weekly
+
+Week ending January 4, 2019 = 100
+
+Dollar appreciation
+
+115
+
+110
+
+105
+
+100
+
+95
+
+90
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The data, which are in foreign currency units per dollar, are weekly averages of daily values of the broad 
+dollar index and extend through July 2, 2026 . As indicated by the arrow, increases in the data reflect U .S . dollar 
+appreciation and decreases reflect U .S . dollar depreciation .
+
+ 
+37
+
+Monetary Policy
+
+The Federal Open Market Committee held the federal funds rate steady
+
+The Federal Open Market Committee (FOMC) has maintained the target range for the  
+
+federal funds rate at 3½ to 3¾ percent since the beginning of the year, in support of the  
+
+Federal Reserve’s dual mandate (figure 48) . Economic activity is expanding at a solid pace 
+
+despite elevated uncertainty that owes, in part, to the conflict in the Middle East . Productivity 
+
+growth and capital investment are strong . Job gains have kept pace with the workforce, and the 
+
+unemployment rate has changed little . Inflation remains elevated relative to the Committee’s 
+
+2 percent goal, in part reflecting supply shocks that have driven price increases in certain  
+
+sectors, including energy . The Committee will deliver price stability .
+
+Figure 48. Selected interest rates
+
+Daily
+
+Target federal funds rate
+10-year Treasury rate
+2-year Treasury rate
+
+Percent
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: The 2-year and 10-year Treasury rates are the constant-maturity yields based on the most actively traded 
+securities .
+
+The Federal Reserve continued to conduct reserve management purchases to 
+keep reserves within the ample range
+
+At the December 2025 meeting, the FOMC judged that reserve balances had declined to ample 
+
+reserve levels and initiated the purchases of shorter-term Treasury securities to maintain an 
+
+ample supply of reserves on an ongoing basis . At the June meeting, the Committee reaffirmed its 
+
+policy of maintaining ample reserves in the banking system .
+
+Since early January 2026, the FOMC has continued reserve management purchases of  
+
+Treasury bills, and as a result, the total size of the balance sheet has ticked up (figure 49) . 
+Reserve balances—the largest liability item on the Federal Reserve’s balance sheet—have 
+
+increased since early January to a level of about $3 .1 trillion and remain within the ample range . 
+
+(See the box “Developments in the Federal Reserve’s Balance Sheet and Money Markets .”)
+
+ 
+38  Monetary Policy Report
+
+Figure 49. Federal Reserve assets and liabilities
+
+Weekly
+
+Other assets
+Credit and liquidity facilities
+Agency debt and mortgage-backed securities holdings
+Treasury securities held outright
+
+Federal Reserve notes in circulation
+Deposits of depository institutions (reserves)
+Reverse repurchase agreements
+Capital and other liabilities
+
+Trillions of dollars
+
+15
+
+12
+
+9
+
+6
+
+3
+
+0
+
+−3
+
+−6
+
+−9
+
+−12
+
+−15
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+Note: “Other assets” includes repurchase agreements, FIMA (Foreign and International Monetary Authorities) 
+repurchase agreements, and unamortized premiums and discounts on securities held outright . “Credit and liquidity 
+facilities” consists of primary, secondary, and seasonal credit; term auction credit; central bank liquidity swaps; 
+support for Maiden Lane, Bear Stearns Companies, Inc ., and AIG; and other credit and liquidity facilities, including 
+the Primary Dealer Credit Facility, the Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility, 
+the Commercial Paper Funding Facility, the Term Asset-Backed Securities Loan Facility, the Primary and Secondary 
+Market Corporate Credit Facilities, the Paycheck Protection Program Liquidity Facility, the Municipal Liquidity Facility, 
+and the Main Street Lending Program . “Agency debt and mortgage-backed securities holdings” includes agency 
+residential mortgage-backed securities and agency commercial mortgage-backed securities . “Capital and other 
+liabilities” includes the U .S . Treasury General Account and the U .S . Treasury Supplementary Financing Account .  
+The key identifies shaded areas in order from top to bottom . The data extend through July 1, 2026 .
+
+A task force will review balance sheet policy
+
+One of the new independent task forces will explore the benefits and risks associated with the 
+
+current ample-reserves regime and will examine considerations related to the composition of 
+
+the Federal Reserve’s balance sheet as part of an assessment of alternative frameworks for the 
+
+conduct and operation of monetary policy .
+
+The Federal Open Market Committee will continue to consider a broad range of 
+information sources
+
+The FOMC considers a broad range of information sources, including contemporaneous market 
+
+signals, official government statistics, nontraditional data sources, and updates provided by busi-
+
+ness contacts and other informed parties around the country, as summarized in the Beige Book . 
+
+The Federal Reserve also regularly hears from a broad range of participants in the U .S . economy 
+
+about how monetary policy affects people’s daily lives . For example, the Federal Reserve has 
+
+continued to gather insights into these matters through the Federal Reserve System’s community 
+
+development outreach .
+
+Policymakers routinely consult information derived from the analysis of various monetary policy 
+
+rules . However, simple rules may not be able to capture all of the considerations that go into 
+
+the formation of appropriate monetary policy . Practical considerations make it undesirable, at 
+
+present, for the FOMC to adhere strictly to the prescriptions of any single rule . That said, some 
+
+Monetary Policy 
+
+39
+
+principles of effective monetary policy can be better understood by examining these prescriptive 
+
+rules . (See the box “Monetary Policy Rules in the Current Environment .”)
+
+A task force will explore Federal Reserve communications
+
+One of the new independent task forces will explore Federal Reserve communications, includ-
+
+ing the Summary of Economic Projections, with the possibility of suggesting changes to current 
+
+arrangements .
+
+ 
+40  Monetary Policy Report
+
+Box 3.  Developments in the Federal Reserve’s Balance Sheet 
+and Money Markets
+
+The Federal Open Market Committee (FOMC) continued reserve management purchases (RMPs)
+to maintain an ample supply of reserves . Since early January 2026, the Federal Reserve’s System 
+Open Market Account (SOMA) portfolio has purchased nearly $250 billion in Treasury bills of which 
+approximately $160 billion are RMPs and $90 billion are reinvestments from principal payments of 
+agency mortgage-backed securities, consistent with the Committee’s intention to hold primarily 
+Treasury securities in the SOMA . As a result, Federal Reserve assets have increased about 
+$150 billion, bringing the total size of the balance sheet to $6 .7 trillion (table A and ﬁ gure A) . 
+Reserves, the largest liability item on the Federal Reserve’s balance sheet, have grown $54 billion 
+to a level of about $3 .1 trillion (ﬁ gure B) . Usage of the overnight reverse repurchase agreement 
+
+Table A. Balance sheet comparison
+Billions of dollars
+
+July 1, 2026
+
+January 7, 2026
+
+Change
+(since January 2026)
+
+(continued)
+
+Change
+(since the Fed
+ended runoff on
+December 1, 2025)
+
+Assets
+
+Total securities
+
+Treasury securities
+
+Agency debt and MBS
+
+Unamortized premiums
+
+Repurchase agreements
+
+Loans and lending facilities
+
+Discount window
+
+Other loans and lending facilities
+
+Central bank liquidity swaps
+
+Other assets
+
+Total assets
+
+Liabilities
+
+Federal Reserve notes
+
+Reserves held by depository
+
+institutions
+
+Reverse repurchase agreements
+
+Foreign ofﬁcial and
+
+international accounts
+
+Others
+
+U.S. Treasury General Account
+
+Other deposits
+
+Other liabilities and capital
+
+Total liabilities and capital
+
+4,492
+
+1,951
+
+214
+
+0
+
+8
+
+1
+
+0
+
+59
+
+6,725
+
+2,423
+
+3,077
+
+337
+
+1
+
+807
+
+259
+
+−180
+
+6,725
+
+4,236
+
+2,041
+
+224
+
+0
+
+7
+
+2
+
+0
+
+63
+
+6,574
+
+2,391
+
+3,023
+
+324
+
+5
+
+784
+
+235
+
+−187
+
+6,574
+
+257
+
+−91
+
+−10
+
+0
+
+1
+
+−1
+
+0
+
+−4
+
+151
+
+33
+
+54
+
+14
+
+−4
+
+24
+
+23
+
+7
+
+151
+
+303
+
+−105
+
+−12
+
+0
+
+0
+
+−2
+
+0
+
+5
+
+189
+
+46
+
+199
+
+7
+
+−2
+
+−101
+
+31
+
+8
+
+189
+
+Note: January 7, 2026, is the date of the ﬁrst Federal Reserve Statistical Release H.4.1, “Factors Affecting
+Reserve Balances,” of 2026 that is not affected by year-end distortions. MBS is mortgage-backed securities.
+Components may not sum to totals because of rounding. The change since the Fed ended balance sheet runoff
+reﬂects changes since December 3, 2025, the date of the ﬁrst Federal Reserve Statistical Release H.4.1 after
+the Fed ended balance sheet runoff on December 1, 2025.
+
+Source: Federal Reserve Board, Statistical Release H.4.1, “Factors Affecting Reserve Balances.”
+
+Monetary Policy 
+
+41
+
+Box 3—continued
+
+Figure A. Federal Reserve assets
+
+Weekly
+
+Trillions of dollars
+
+Other assets
+Loans
+Central bank liquidity swaps
+Repurchase agreements
+Agency debt and MBS
+Treasury securities held outright
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The data extend through July 1, 2026 . MBS is mortgage-backed securities . The key identifies shaded 
+areas in order from top to bottom .
+
+Figure B. Federal Reserve liabilities
+
+Weekly
+
+Trillions of dollars
+
+Overnight reverse repurchase agreements
+Deposits of depository institutions (reserves)
+U.S. Treasury General Account
+Other deposits
+Capital and other liabilities
+Federal Reserve notes
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The data extend through July 1, 2026 . “Capital and other liabilities” includes the liability for earnings 
+remittances due to the U .S . Treasury and contributions from the U .S . Treasury; the sum is negative from 
+June 2023 onward because of the deferred asset that the Federal Reserve reports . The key identifies shaded 
+areas in order from top to bottom .
+
+(ON RRP) facility remained near zero on most days, and standing repurchase agreement operations 
+were tapped when economically sensible .
+
+Overnight money markets were stable, with conditions softening somewhat since the beginning of 
+the year and RMPs effectively accommodating seasonal ﬂ uctuations in nonreserve liabilities, such 
+as April and June tax inﬂ ows . The Federal Reserve’s administered rates—the interest rate paid on 
+reserve balances and the ON RRP offering rate—remained highly effective at maintaining the effec-
+tive federal funds rate within the target range .
+
+Since early January, the consolidated deferred asset of the Federal Reserve System has decreased 
+$7 billion to a level of around $236 billion . Net income and remittances to the U .S . Treasury are cal-
+culated at the Federal Reserve Bank level . As a result, the Systemwide deferred asset is an aggrega-
+tion of each Reserve Bank whose net income is yet to extinguish its respective accumulated deferred 
+asset . By contrast, Reserve Banks that no longer have a deferred asset have collectively remitted 
+around $6 billion to the U .S . Treasury this year . Negative net income and the associated deferred 
+asset do not affect the Federal Reserve’s conduct of monetary policy .
+
+ 
+42  Monetary Policy Report
+
+Box 4.  Monetary Policy Rules in the Current Environment
+
+Simple interest rate rules relate a policy interest rate, such as the federal funds rate, to a small 
+number of other economic variables—typically including measures of the current deviation of inﬂ a-
+tion from its target value and of resource slack in the economy . This discussion provides an update 
+to the prescriptions of several simple policy rules that policymakers regularly consult as part of their 
+monetary policy deliberations and that have been considered in past Monetary Policy Reports . The 
+simple policy rules covered here called for levels of the policy rate in the ﬁ rst quarter of this year that 
+were a little above the current target range for the federal funds rate of 3½ to 3¾ percent, reﬂ ecting 
+the fact that the measure of inﬂ ation used to calculate the prescriptions of these rules has moved 
+up . However, the prescriptions shown here ignore that the economy would have evolved differently if 
+the policy rate had followed one of the paths prescribed by the rules, and, hence, these prescriptions 
+should be interpreted with care .
+
+In many economic models, desirable economic outcomes can be achieved over time if monetary 
+policy responds to changes in economic conditions in a manner that is predictable and adheres to 
+some key design principles—including the notion that the policy rate should be adjusted sufﬁ ciently 
+to ensure a return of inﬂ ation to the central bank’s longer-run price-stability objective and to anchor 
+longer-term inﬂ ation expectations at levels consistent with that objective . Simple policy rules do, how-
+ever, also have important limitations . For example, they mechanically respond to only a small set of 
+economic variables and thus necessarily involve abstracting from many of the factors that the 
+Federal Open Market Committee (FOMC) considers when it assesses the appropriate setting of the 
+policy rate . Relatedly, although simple policy rules typically respond to particular measures of inﬂ ation 
+and resource slack, other measures could be used to calculate the rule prescriptions . Most simple 
+policy rules also require measures of unobservable variables, like the neutral real interest rate and 
+unemployment rate in the longer run, which can only be estimated with considerable uncertainty . In 
+light of these and other limitations, achieving the potential beneﬁ ts associated with using policy rules 
+as part of a policy strategy requires efforts to promote the public’s understanding of monetary policy 
+strategy and the incorporation of timely data to measure the factors entering policy rules and the 
+broader strategy . The recently announced task forces will be considering matters related to this point .
+
+Selected Policy Rules: Descriptions
+
+Table A shows the well-known Taylor (1993) rule, the “adjusted Taylor (1993)” rule, the “balanced 
+approach” rule, and the “ﬁ rst difference” rule .1 All rules considered here feature the difference 
+between the annual change in the core personal consumption expenditures (PCE) price index and 
+the FOMC’s longer-run objective of 2 percent .2 With the exception of the ﬁ rst-difference rule, all rules 
+
+(continued)
+
+1  The Taylor (1993) rule was introduced in John B . Taylor (1993), “Discretion versus Policy Rules in Practice,” Carnegie-
+
+Rochester Conference Series on Public Policy, vol . 39 (December), pp . 195–214 . The adjusted Taylor (1993) rule was studied in 
+David Reifschneider and John C . Williams (2000), “Three Lessons for Monetary Policy in a Low-Inflation Era,” Journal of Money, 
+Credit and Banking, vol . 32 (November), pp . 936–66 . The balanced-approach rule was analyzed in John B . Taylor (1999),
+“A Historical Analysis of Monetary Policy Rules,” in John B . Taylor, ed ., Monetary Policy Rules (Chicago: University of Chicago 
+Press), pp . 319–41 . The first-difference rule is based on a rule suggested by Athanasios Orphanides (2003), “Historical 
+Monetary Policy Analysis and the Taylor Rule,” Journal of Monetary Economics, vol . 50 (July), pp . 983–1022 . A review of 
+policy rules is provided in John B . Taylor and John C . Williams (2011), “Simple and Robust Rules for Monetary Policy,” in 
+Benjamin M . Friedman and Michael Woodford, eds ., Handbook of Monetary Economics, vol . 3B (Amsterdam: North-Holland), 
+pp . 829–59 . The same volume of the Handbook of Monetary Economics also discusses approaches to deriving policy rate pre-
+scriptions other than through the use of simple rules .
+
+2 
+
+In its Statement on Longer-Run Goals and Monetary Policy Strategy, the Committee reaffirmed its judgment that inflation at 
+the rate of 2 percent, as measured by the annual change in the PCE price index, is most consistent over the longer run with 
+the Federal Reserve’s statutory maximum-employment and price-stability mandates . All the rules respond to the change in 
+core PCE prices, rather than headline PCE prices, because current and near-term core inflation rates tend to outperform head-
+line inflation rates as predictors of the medium-term behavior of headline inflation .
+
+Monetary Policy 
+
+43
+
+Box 4—continued
+
+Table A. Monetary policy rules 
+
+Taylor (1993) rule
+
+Rt
+
+T93 = rt
+
+LR + πt + 0.5(πt − πLR) + (ut
+
+LR − ut)
+
+Adjusted Taylor (1993) rule
+
+Rt
+
+T93adj = max{Rt
+
+T93 − Zt, ELB}
+
+Balanced-approach rule
+
+Rt
+
+BA = rt
+
+LR + πt + 0.5(πt − πLR) + 2(ut
+
+LR − ut)
+
+First-difference rule
+
+Rt
+
+FD = Rt−1 + 0.5(πt − πLR) − (ut
+
+ − ut−4)
+
+T93, Rt
+
+T93adj, Rt
+
+BA, and Rt
+
+FD represent the values of the nominal federal funds rate prescribed by the 
+
+Note: Rt
+Taylor (1993), adjusted Taylor (1993), balanced-approach, and first-difference rules, respectively .
+Rt−1 denotes the average midpoint of the target range for the federal funds rate in quarter t−1, ut
+average unemployment rate in quarter t, and πt denotes the 4-quarter core personal consumption expenditures 
+price inflation for quarter t . In addition, ut
+LR is 
+the level of the neutral real federal funds rate in the longer run that is expected to be consistent with sustain-
+ing maximum employment and keeping inflation at the Federal Open Market Committee’s 2 percent longer-run 
+objective, represented by πLR . Zt is the cumulative sum of past deviations of the federal funds rate from the 
+prescriptions of the Taylor (1993) rule when that rule prescribes setting the federal funds rate below an effec-
+tive lower bound (ELB) of 12 .5 basis points . Box note 1 provides references for the policy rules .
+
+LR is the rate of unemployment expected in the longer run, and rt
+
+ is the 
+
+use the unemployment rate gap—measured as the difference between an estimate of the rate of 
+unemployment in the longer run (ut
+LR) and the current unemployment rate—and an estimate of the 
+LR) .3 The ﬁ rst-difference rule uses the change in the 
+neutral real interest rate in the longer run (rt
+unemployment rate over the past four quarters, rather than the unemployment rate gap, and the 
+value of the policy rate in the preceding quarter, rather than the neutral interest rate in the long run .4
+
+Unlike the other simple rules featured here, the adjusted Taylor (1993) rule recognizes that the fed-
+eral funds rate cannot be reduced materially below the effective lower bound (ELB) . By contrast, the 
+standard Taylor (1993) rule prescribed policy rates that, during the pandemic-induced recession, 
+were far below zero . To make up for the cumulative shortfall in policy accommodation following a 
+period during which the federal funds rate is constrained by its ELB, the adjusted Taylor (1993) rule 
+prescribed delaying the return of the policy rate to the (positive) levels prescribed by the standard 
+Taylor (1993) rule .
+
+Selected Policy Rules: Prescriptions
+
+Figure A shows historical prescriptions for the federal funds rate under the four simple rules along-
+side the actual target federal funds rate . For each quarterly period, the ﬁ gure reports the policy rates 
+
+(continued)
+
+3 
+
+Implementations of simple rules often use the output gap as a measure of resource slack in the economy . In the rules 
+described in table A, the output gap has been replaced with the unemployment rate gap (using a relationship known as 
+Okun’s law) because that gap better captures the FOMC’s statutory goal to promote maximum employment . Movements in 
+these alternative measures of resource utilization tend to be highly correlated . The neutral real interest rate in the longer run 
+LR) is the level of the real federal funds rate that is expected to be consistent, in the longer run, with maximum employment 
+(rt
+and stable inflation . Like ut
+
+LR, rt
+
+4  The first-difference rule shown in table A does not require estimates of rt
+
+LR is determined largely by nonmonetary factors .
+LR or ut
+
+LR, a feature that is touted by proponents of 
+
+such rules as providing an element of robustness . However, this rule has its own shortcomings . For example, research sug-
+gests that this sort of rule often results in greater volatility in employment and inflation than what would be obtained under 
+the Taylor (1993) and balanced-approach rules .
+
+ 
+44  Monetary Policy Report
+
+Box 4—continued
+
+LR and rt
+
+prescribed by the rules, taking as given the prevailing economic conditions and, where applicable, 
+survey-based estimates of ut
+LR at the time . All of the rules considered called for highly accom-
+modative monetary policy in response to the pandemic-driven recession, followed by tighter policy as 
+inﬂ ation picked up and labor market conditions strengthened . Starting around 2023, the prescribed 
+values associated with most of the rules declined, as inﬂ ation eased and the unemployment rate 
+increased . Subsequently, because the annual change in the core PCE price index has been somewhat 
+above 2 percent, the prescriptions of the simple policy rules have also remained somewhat elevated 
+relative to their pre-2020 levels .
+
+Figure A. Historical federal funds rate prescriptions from simple policy rules
+
+Federal funds rate
+Taylor (1993) rule
+Adjusted Taylor (1993) rule
+Balanced-approach rule
+First-difference rule
+
+Percent
+
+9
+6
+3
+0
+−3
+−6
+−9
+−12
+−15
+−18
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+Note: The rules use historical values of core personal consumption expenditures (PCE) inflation, the 
+unemployment rate, and, where applicable, the midpoint of the target range for the federal funds rate 
+constructed as the average of the lower and upper limits of the target range . Quarterly projections of 
+longer-run values for the federal funds rate, the unemployment rate, and inflation used in the computation 
+of the rules’ prescriptions are interpolations to quarterly values of projections from the Survey of Market 
+Expectations . The rules’ prescriptions are quarterly, and the federal funds rate data are the monthly average 
+of the daily midpoint of the target range for the federal funds rate and extend through June 2026 .
+
+45
+
+Summary of Economic Projections
+
+A version of the following material was released after the conclusion of the June 16–17, 2026,  
+
+meeting of the Federal Open Market Committee.
+
+In conjunction with the Federal Open Market Committee (FOMC) meeting held on June 16–17, 2026, 
+
+meeting participants, aside from the Chairman, submitted their projections of the most likely 
+
+outcomes for real gross domestic product (GDP) growth, the unemployment rate, and inflation for 
+
+each year from 2026 to 2028 and over the longer run . Each participant’s projections were based on 
+
+information available at the time of the meeting, together with her or his assessment of appropriate 
+
+monetary policy—including a path for the federal funds rate and its longer-run value—and assump-
+
+tions about other factors likely to affect economic outcomes . The longer-run projections represent 
+
+Table 1.  Economic projections of Federal Reserve Board members and Federal Reserve Bank  
+presidents, under their individual assumptions of projected appropriate monetary policy, June 2026
+
+Percent
+
+Median1
+
+Central Tendency2
+
+Range3
+
+Variable
+
+2026 2027 2028
+
+Longer 
+run
+
+2026
+
+2027
+
+2028
+
+2.2
+2.4
+4.3
+4.4
+3.6
+2.7
+3.3
+2.7
+
+Change in real GDP
+  March projection
+Unemployment rate
+  March projection
+PCE inflation
+  March projection
+Core PCE inflation4
+  March projection
+Memo: Projected appropriate policy path
+Federal funds rate
+  March projection
+
+2.3
+2.3
+4.3
+4.3
+2.3
+2.2
+2.5
+2.2
+
+3.8
+3.4
+
+3.6
+3.1
+
+2.2
+2.1
+4.2
+4.2
+2.0
+2.0
+2.1
+2.0
+
+3.4
+3.1
+
+2.0
+2.0
+4.2
+4.2
+2.0
+2.0
+
+2.0–2.3
+2.2–2.5
+4.3–4.4
+4.3–4.5
+3.5–3.7
+2.6–3.1
+3.2–3.5
+2.5–2.8
+
+2.0–2.4
+2.0–2.4
+4.2–4.5
+4.2–4.4
+2.2–2.5
+2.0–2.3
+2.3–2.6
+2.0–2.4
+
+2.0–2.3
+2.0–2.3
+4.1–4.3
+4.0–4.4
+2.0–2.1
+2.0
+2.0–2.2
+2.0
+
+Longer 
+run
+
+1.8–2.0
+1.8–2.0
+4.0–4.3
+4.0–4.3
+2.0
+2.0
+
+2026
+
+2027
+
+2028
+
+Longer 
+run
+
+1.8–2.6
+2.1–2.7
+4.3–4.6
+4.3–4.6
+2.7–4.1
+2.3–3.3
+2.6–3.5
+2.2–3.0
+
+1.9–2.9
+2.0–2.7
+4.0–4.6
+4.0–4.5
+1.9–2.8
+1.8–2.4
+2.0–3.0
+2.0–2.5
+
+1.8–2.6
+1.7–2.5
+1.8–2.7
+1.7–2.5
+4.0–4.4 3.8–4.5
+4.0–4.5 3.8–4.5
+2.0–2.3
+1.9–2.2
+2.0–2.4
+2.0–2.2
+
+2.0
+2.0
+
+3.1
+3.1
+
+3.6–4.1
+3.1–3.6
+
+3.1–3.9
+2.9–3.6
+
+3.1–3.6
+2.9–3.6
+
+3.0–3.5
+2.9–3.5
+
+3.4–4.4
+2.6–3.6
+
+2.9–4.4
+2.4–3.9
+
+2.9–3.9 2.9–3.9
+2.6–3.9 2.6–3.9
+
+Note:  Projections of change in real gross domestic product (GDP) and projections for both measures of inflation are 
+percent changes from the fourth quarter of the previous year to the fourth quarter of the year indicated . PCE inflation 
+and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption 
+expenditures (PCE) and the price index for PCE excluding food and energy . Projections for the unemployment rate are 
+for the average civilian unemployment rate in the fourth quarter of the year indicated . Each participant’s projections are 
+based on his or her assessment of appropriate monetary policy . Longer-run projections represent each participant’s 
+assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in 
+the absence of further shocks to the economy . The projections for the federal funds rate are the value of the midpoint 
+of the projected appropriate target range for the federal funds rate or the projected appropriate target level for the 
+federal funds rate at the end of the specified calendar year or over the longer run . The March projections were made 
+in conjunction with the meeting of the Federal Open Market Committee on March 17–18, 2026 . Nineteen participants 
+submitted  information  in  conjunction  with  the  March  17–18,  2026,  meeting .  Eighteen  participants  submitted  infor-
+mation in conjunction with the June 16–17, 2026, meeting; one of these 18 participants did not submit projections 
+for 2028 .
+
+1  For each period, the median is the middle projection when the projections are arranged from lowest to highest . When 
+
+the number of projections is even, the median is the average of the two middle projections .
+
+2  The central tendency excludes the three highest and three lowest projections for each variable in each year .
+
+3  The range for a variable in a given year includes all participants’ projections, from lowest to highest, for that variable 
+
+in that year .
+
+4  Longer-run projections for core PCE inflation are not collected .
+
+ 
+46  Monetary Policy Report
+
+each participant’s assessment of the value to which each variable would be expected to converge, 
+
+over time, under appropriate monetary policy and in the absence of further shocks to the economy . 
+
+“Appropriate monetary policy” is defined as the future path of policy that each participant deems 
+
+most likely to foster outcomes for economic activity and inflation that best satisfy his or her individ-
+
+ual interpretation of the statutory mandate to promote maximum employment and price stability .
+
+Summary of Economic Projections 
+
+47
+
+Figure 1. Medians, central tendencies, and ranges of economic projections, 2026–28 and over the 
+longer run
+
+Percent
+
+Change in real GDP
+
+Actual
+
+Median of projections
+
+Central tendency
+
+Range of projections
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+Longer run
+
+Unemployment rate
+
+Percent
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+Longer run
+
+PCE inflation
+
+Percent
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+Longer run
+
+Core PCE inflation
+
+Percent
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+Longer run
+
+Note: Definitions of variables and other explanations are in the notes to table 1 . The data for the actual values of the 
+variables are annual .
+
+ 
+48  Monetary Policy Report
+
+Figure 2. FOMC participants’ assessments of appropriate monetary policy: Midpoint of target range or 
+target level for the federal funds rate
+
+Percent
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+
+2026
+
+2027
+
+2028
+
+Longer run
+
+Note: Each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual 
+participant’s judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate 
+target level for the federal funds rate at the end of the specified calendar year or over the longer run .
+
+Summary of Economic Projections 
+
+49
+
+Figure 3.A. Distribution of participants’ projections for the change in real GDP, 2026–28 and over the 
+longer run
+
+Number of Participants
+
+2026
+
+     June projections
+
+March projections
+
+1.4−
+1.5
+
+1.6−
+1.7
+
+1.8−
+1.9
+
+2.0−
+2.1
+
+2.2−
+2.3
+
+Percent range
+
+2.4−
+2.5
+
+2.6−
+2.7
+
+2.8−
+2.9
+
+Number of Participants
+
+1.4−
+1.5
+
+1.6−
+1.7
+
+1.8−
+1.9
+
+2.0−
+2.1
+
+2.2−
+2.3
+
+Percent range
+
+2.4−
+2.5
+
+2.6−
+2.7
+
+2.8−
+2.9
+
+Number of Participants
+
+2027
+
+2028
+
+1.4−
+1.5
+
+1.6−
+1.7
+
+1.8−
+1.9
+
+2.0−
+2.1
+
+2.2−
+2.3
+
+Percent range
+
+2.4−
+2.5
+
+2.6−
+2.7
+
+2.8−
+2.9
+
+Longer run
+
+Number of Participants
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+1.4−
+1.5
+
+1.6−
+1.7
+
+1.8−
+1.9
+
+2.0−
+2.1
+
+2.2−
+2.3
+
+Percent range
+
+2.4−
+2.5
+
+2.6−
+2.7
+
+2.8−
+2.9
+
+Note: Definitions of variables and other explanations are in the notes to table 1 .
+
+ 
+50  Monetary Policy Report
+
+Figure 3.B. Distribution of participants’ projections for the unemployment rate, 2026–28 and over the 
+longer run
+
+Number of Participants
+
+2026
+
+     June projections
+
+March projections
+
+3.6−
+3.7
+
+3.8−
+3.9
+
+4.0−
+4.1
+
+4.2−
+4.3
+
+4.4−
+4.5
+
+4.6−
+4.7
+
+Percent range
+
+Number of Participants
+
+3.6−
+3.7
+
+3.8−
+3.9
+
+4.0−
+4.1
+
+4.2−
+4.3
+
+4.4−
+4.5
+
+4.6−
+4.7
+
+Percent range
+
+Number of Participants
+
+2027
+
+2028
+
+3.6−
+3.7
+
+3.8−
+3.9
+
+4.0−
+4.1
+
+4.2−
+4.3
+
+4.4−
+4.5
+
+4.6−
+4.7
+
+Percent range
+
+Longer run
+
+Number of Participants
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+3.6−
+3.7
+
+3.8−
+3.9
+
+4.0−
+4.1
+
+4.2−
+4.3
+
+4.4−
+4.5
+
+4.6−
+4.7
+
+Percent range
+
+Note: Definitions of variables and other explanations are in the notes to table 1 .
+
+Summary of Economic Projections 
+
+51
+
+Figure 3.C. Distribution of participants’ projections for PCE inflation, 2026–28 and over the longer run
+
+Number of Participants
+
+2026
+
+     June projections
+
+March projections
+
+1.5−
+1.6
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+3.7−
+3.8
+
+3.9−
+4.0
+
+4.1−
+4.2
+
+Percent range
+
+2027
+
+Number of Participants
+
+1.5−
+1.6
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+3.7−
+3.8
+
+3.9−
+4.0
+
+4.1−
+4.2
+
+Percent range
+
+2028
+
+Number of Participants
+
+1.5−
+1.6
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+3.7−
+3.8
+
+3.9−
+4.0
+
+4.1−
+4.2
+
+Percent range
+
+Longer run
+
+Number of Participants
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+1.5−
+1.6
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+3.7−
+3.8
+
+3.9−
+4.0
+
+4.1−
+4.2
+
+Note: Definitions of variables and other explanations are in the notes to table 1 .
+
+Percent range
+
+ 
+52  Monetary Policy Report
+
+Figure 3.D. Distribution of participants’ projections for core PCE inflation, 2026–28
+
+Number of Participants
+
+2026
+
+     June projections
+
+March projections
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+Percent range
+
+Number of Participants
+
+2027
+
+2028
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+Percent range
+
+Number of Participants
+
+20
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+20
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+20
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+1.7−
+1.8
+
+1.9−
+2.0
+
+2.1−
+2.2
+
+2.3−
+2.4
+
+2.5−
+2.6
+
+2.7−
+2.8
+
+2.9−
+3.0
+
+3.1−
+3.2
+
+3.3−
+3.4
+
+3.5−
+3.6
+
+Percent range
+
+Note: Definitions of variables and other explanations are in the notes to table 1 .
+
+Summary of Economic Projections 
+
+53
+
+Figure 3.E. Distribution of participants’ judgments of the midpoint of the appropriate target range for 
+the federal funds rate or the appropriate target level for the federal funds rate, 2026–28 and over the 
+longer run
+
+Number of Participants
+
+2026
+
+     June projections
+
+March projections
+
+2.13−
+2.37
+
+2.38−
+2.62
+
+2.63−
+2.87
+
+2.88−
+3.12
+
+3.13−
+3.37
+
+3.38−
+3.62
+
+3.63−
+3.87
+
+3.88−
+4.12
+
+4.13−
+4.37
+
+4.38−
+4.62
+
+Percent range
+
+Number of Participants
+
+2027
+
+2028
+
+2.13−
+2.37
+
+2.38−
+2.62
+
+2.63−
+2.87
+
+2.88−
+3.12
+
+3.13−
+3.37
+
+3.38−
+3.62
+
+3.63−
+3.87
+
+3.88−
+4.12
+
+4.13−
+4.37
+
+4.38−
+4.62
+
+Percent range
+
+Number of Participants
+
+2.13−
+2.37
+
+2.38−
+2.62
+
+2.63−
+2.87
+
+2.88−
+3.12
+
+3.13−
+3.37
+
+3.38−
+3.62
+
+3.63−
+3.87
+
+3.88−
+4.12
+
+4.13−
+4.37
+
+4.38−
+4.62
+
+Percent range
+
+Longer run
+
+Number of Participants
+
+2.13−
+2.37
+
+2.38−
+2.62
+
+2.63−
+2.87
+
+2.88−
+3.12
+
+3.13−
+3.37
+
+3.38−
+3.62
+
+3.63−
+3.87
+
+3.88−
+4.12
+
+4.13−
+4.37
+
+4.38−
+4.62
+
+Note: Definitions of variables and other explanations are in the notes to table 1 .
+
+Percent range
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+ 
+54  Monetary Policy Report
+
+Figure 4.A. Uncertainty and risks in projections of GDP growth
+
+Median projection and conﬁdence interval based on historical forecast errors
+
+Change in real GDP
+
+Actual
+
+Median of projections
+70% confidence interval
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+FOMC participants’ assessments of uncertainty and risks around their economic projections
+
+Number of Participants
+
+Number of Participants
+
+Uncertainty about GDP growth
+
+      June projections
+
+March projections
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Risks to GDP growth
+
+      June projections
+
+March projections
+
+Percent
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+−1
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Lower
+
+Broadly
+similar
+
+Higher
+
+Weighted to
+downside
+
+Broadly
+balanced
+
+Weighted to
+upside
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, 
+of the percent change in real gross domestic product (GDP) from the fourth quarter of the previous year to the 
+fourth quarter of the year indicated . The confidence interval around the median projected values is assumed to be 
+symmetric and is based on root mean squared errors of various private and government forecasts made over the 
+previous 20 years; more information about these data is available in table 2 . Because current conditions may differ 
+from those that prevailed, on average, over the previous 20 years, the width and shape of the confidence interval 
+estimated on the basis of the historical forecast errors may not reflect FOMC participants’ current assessments 
+of the uncertainty and risks around their projections; these current assessments are summarized in the lower 
+panels . Generally speaking, participants who judge the uncertainty about their projections as “broadly similar” to 
+the average levels of the past 20 years would view the width of the confidence interval shown in the historical fan 
+chart as largely consistent with their assessments of the uncertainty about their projections . Likewise, participants 
+who judge the risks to their projections as “broadly balanced” would view the confidence interval around their 
+projections as approximately symmetric . For definitions of uncertainty and risks in economic projections, see the box 
+“Forecast Uncertainty .”
+
+Summary of Economic Projections 
+
+55
+
+Figure 4.B. Uncertainty and risks in projections of the unemployment rate
+
+Median projection and conﬁdence interval based on historical forecast errors
+
+Unemployment rate
+
+Actual
+
+Median of projections
+70% confidence interval
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+FOMC participants’ assessments of uncertainty and risks around their economic projections
+
+Number of Participants
+
+Number of Participants
+
+Uncertainty about the unemployment rate
+
+      June projections
+
+March projections
+
+Risks to the unemployment rate
+
+      June projections
+
+March projections
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Percent
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Lower
+
+Broadly
+similar
+
+Higher
+
+Weighted to
+downside
+
+Broadly
+balanced
+
+Weighted to
+upside
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of the 
+average civilian unemployment rate in the fourth quarter of the year indicated . The confidence interval around the 
+median projected values is assumed to be symmetric and is based on root mean squared errors of various private 
+and government forecasts made over the previous 20 years; more information about these data is available in 
+table 2 . Because current conditions may differ from those that prevailed, on average, over the previous 20 years, 
+the width and shape of the confidence interval estimated on the basis of the historical forecast errors may not 
+reflect FOMC participants’ current assessments of the uncertainty and risks around their projections; these current 
+assessments are summarized in the lower panels . Generally speaking, participants who judge the uncertainty 
+about their projections as “broadly similar” to the average levels of the past 20 years would view the width of the 
+confidence interval shown in the historical fan chart as largely consistent with their assessments of the uncertainty 
+about their projections . Likewise, participants who judge the risks to their projections as “broadly balanced” would 
+view the confidence interval around their projections as approximately symmetric . For definitions of uncertainty and 
+risks in economic projections, see the box “Forecast Uncertainty .”
+
+ 
+56  Monetary Policy Report
+
+Figure 4.C. Uncertainty and risks in projections of PCE inflation
+
+Median projection and conﬁdence interval based on historical forecast errors
+
+PCE inflation
+
+Actual
+
+Median of projections
+70% confidence interval
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+FOMC participants’ assessments of uncertainty and risks around their economic projections
+
+Number of Participants
+
+Number of Participants
+
+Uncertainty about PCE inflation
+
+      June projections
+
+March projections
+
+Lower
+
+Broadly
+similar
+
+Higher
+
+Number of Participants
+
+Uncertainty about core PCE inflation
+
+      June projections
+
+March projections
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Risks to PCE inflation
+
+      June projections
+
+March projections
+
+Weighted to
+downside
+
+Broadly
+balanced
+
+Weighted to
+upside
+
+Number of Participants
+
+Risks to core PCE inflation
+
+      June projections
+
+March projections
+
+Percent
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Lower
+
+Broadly
+similar
+
+Higher
+
+Weighted to
+downside
+
+Broadly
+balanced
+
+Weighted to
+upside
+
+Note: The blue and red lines in the top panel show actual values and median projected values, respectively, of 
+the percent change in the price index for personal consumption expenditures (PCE) from the fourth quarter of the 
+previous year to the fourth quarter of the year indicated . The confidence interval around the median projected 
+values is assumed to be symmetric and is based on root mean squared errors of various private and government 
+forecasts made over the previous 20 years; more information about these data is available in table 2 . Because 
+current conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape 
+of the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants’ 
+current assessments of the uncertainty and risks around their projections; these current assessments are 
+summarized in the lower panels . Generally speaking, participants who judge the uncertainty about their projections 
+as “broadly similar” to the average levels of the past 20 years would view the width of the confidence interval shown 
+in the historical fan chart as largely consistent with their assessments of the uncertainty about their projections . 
+Likewise, participants who judge the risks to their projections as “broadly balanced” would view the confidence 
+interval around their projections as approximately symmetric . For definitions of uncertainty and risks in economic 
+projections, see the box “Forecast Uncertainty .”
+
+Summary of Economic Projections 
+
+57
+
+Figure 4.D. Diffusion indexes of participants’ uncertainty assessments
+
+Change in real GDP
+
+Diffusion Index
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Unemployment rate
+
+Diffusion Index
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+PCE inflation
+
+Diffusion Index
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Core PCE inflation
+
+Diffusion Index
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: For each SEP, participants provided responses to the question “Please indicate your judgment of the 
+uncertainty attached to your projections relative to the levels of uncertainty over the past 20 years .” Each point 
+in the diffusion indexes represents the number of participants who responded “Higher” minus the number who 
+responded “Lower,” divided by the total number of participants . Figure excludes March 2020 when no projections 
+were submitted .
+
+ 
+58  Monetary Policy Report
+
+Figure 4.E. Diffusion indexes of participants’ risk weightings
+
+Change in real GDP
+
+Diffusion Index
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Unemployment rate
+
+Diffusion Index
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+PCE inflation
+
+Diffusion Index
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Core PCE inflation
+
+Diffusion Index
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0.00
+
+−0.25
+
+−0.50
+
+−0.75
+
+−1.00
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+
+Note: For each SEP, participants provided responses to the question “Please indicate your judgment of the risk 
+weighting around your projections .” Each point in the diffusion indexes represents the number of participants who 
+responded “Weighted to the Upside” minus the number who responded “Weighted to the Downside,” divided by the 
+total number of participants . Figure excludes March 2020 when no projections were submitted .
+
+Summary of Economic Projections 
+
+59
+
+Figure 5. Uncertainty and risks in projections of the federal funds rate
+
+Federal funds rate
+
+Midpoint of target range
+Median of projections
+70% confidence interval*
+
+Actual
+
+Percent
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+Note: The blue and red lines are based on actual values and median projected values, respectively, of the 
+Committee’s target for the federal funds rate at the end of the year indicated . The actual values are the midpoint 
+of the target range; the median projected values are based on either the midpoint of the target range or the target 
+level . The confidence interval around the median projected values is based on root mean squared errors of various 
+private and government forecasts made over the previous 20 years . The confidence interval is not strictly consistent 
+with the projections for the federal funds rate, primarily because these projections are not forecasts of the likeliest 
+outcomes for the federal funds rate, but rather projections of participants’ individual assessments of appropriate 
+monetary policy . Still, historical forecast errors provide a broad sense of the uncertainty around the future path 
+of the federal funds rate generated by the uncertainty about the macroeconomic variables as well as additional 
+adjustments to monetary policy that may be appropriate to offset the effects of shocks to the economy .
+
+The confidence interval is assumed to be symmetric except when it is truncated at zero - the bottom of the lowest 
+target range for the federal funds rate that has been adopted in the past by the Committee . This truncation would 
+not be intended to indicate the likelihood of the use of negative interest rates to provide additional monetary policy 
+accommodation if doing so was judged appropriate . In such situations, the Committee could also employ other tools, 
+including forward guidance and large-scale asset purchases, to provide additional accommodation . Because current 
+conditions may differ from those that prevailed, on average, over the previous 20 years, the width and shape of 
+the confidence interval estimated on the basis of the historical forecast errors may not reflect FOMC participants’ 
+current assessments of the uncertainty and risks around their projections .
+
+* The confidence interval is derived from forecasts of the average level of short-term interest rates in the 
+fourth quarter of the year indicated; more information about these data is available in table 2 . The shaded area 
+encompasses less than a 70 percent confidence interval if the confidence interval has been truncated at zero .
+
+ 
+60  Monetary Policy Report
+
+Table 2. Average Historical Projection Error Ranges
+
+Percentage points
+
+Variable
+
+Change in real GDP 1
+
+Unemployment rate1
+
+Total consumer prices2
+
+Short-term interest rates3
+
+2026
+
+± 1.7
+
+± 0.9
+
+± 1.0
+
+± 0.7
+
+2027
+
+± 1.8
+
+± 1.4
+
+± 1.6
+
+± 1.8
+
+2028
+
+± 2.2
+
+± 1.9
+
+± 1.4
+
+± 2.3
+
+Note: Error ranges shown are measured as plus or minus the root mean squared error of projections for 2006 through 
+2025 that were released in the summer by various private and government forecasters . As described in the box “Fore-
+cast Uncertainty,” under certain assumptions, there is about a 70 percent probability that actual outcomes for real 
+GDP, unemployment, consumer prices, and the federal funds rate will be in ranges implied by the average size of projec-
+tion errors made in the past . For more information, see David Reifschneider and Peter Tulip (2017), “Gauging the Uncer-
+tainty  of  the  Economic  Outlook  Using  Historical  Forecasting  Errors:  The  Federal  Reserve’s  Approach,”  Finance  and 
+Economics Discussion Series 2017-020 (Washington: Board of Governors of the Federal Reserve System, February), 
+https://dx .doi .org/10 .17016/FEDS .2017 .020 .
+
+1  Definitions of variables are in the general note to table 1 .
+
+2  Measure is the overall consumer price index, the price measure that has been most widely used in government and 
+
+private economic forecasts . Projections are percent changes on a fourth quarter to fourth quarter basis .
+
+3  For Federal Reserve staff forecasts, measure is the federal funds rate . For other forecasts, measure is the rate on 
+
+3-month Treasury bills . Projection errors are calculated using average levels, in percent, in the fourth quarter .
+
+Box 5.  Forecast Uncertainty
+
+The economic projections provided by the members of the Board of Governors and the presidents 
+
+of the Federal Reserve Banks inform discussions of monetary policy among policymakers and can 
+
+aid public understanding of the basis for policy actions . Considerable uncertainty attends these pro-
+
+jections, however . The economic and statistical models and relationships used to help produce eco-
+
+nomic forecasts are necessarily imperfect descriptions of the real world, and the future path of the 
+
+economy can be affected by myriad unforeseen developments and events . Thus, in setting the stance 
+
+of monetary policy, participants consider not only what appears to be the most likely economic out-
+
+come as embodied in their projections, but also the range of alternative possibilities, the likelihood of 
+
+their occurring, and the potential costs to the economy should they occur .
+
+Table 2 summarizes the average historical accuracy of a range of forecasts, including those reported 
+
+in past Monetary Policy Reports and those prepared by the Federal Reserve Board’s staff in advance 
+
+of meetings of the Federal Open Market Committee (FOMC) . The projection error ranges shown in 
+
+the table illustrate the considerable uncertainty associated with economic forecasts . For example, 
+
+suppose a participant projects that real gross domestic product (GDP) and total consumer prices will 
+
+rise steadily at annual rates of, respectively, 3 percent and 2 percent . If the uncertainty attending 
+
+those projections is similar to that experienced in the past and the risks around the projections are 
+
+broadly balanced, the numbers reported in table 2 would imply a probability of about 70 percent that 
+
+actual GDP would expand within a range of 1 .3 to 4 .7 percent in the current year, 1 .2 to 4 .8 percent 
+
+in the second year, and 0 .8 to 5 .2 percent in the third year . The corresponding 70 percent conﬁ dence 
+
+intervals for overall inﬂ ation would be 1 .0 to 3 .0 percent in the current year, 0 .4 to 3 .6 percent in the 
+
+second year, and 0 .6 to 3 .4 percent in the third year . Figures 4 .A through 4 .C illustrate these conﬁ -
+
+dence bounds in “fan charts” that are symmetric and centered on the medians of FOMC participants’ 
+
+projections for GDP growth, the unemployment rate, and inﬂ ation . However, in some instances, the 
+
+risks around the projections may not be symmetric . In particular, the unemployment rate cannot be 
+
+negative; furthermore, the risks around a particular projection might be tilted to either the upside or 
+
+the downside, in which case the corresponding fan chart would be asymmetrically positioned around 
+
+the median projection .
+
+Because current conditions may differ from those that prevailed, on average, over history, partici-
+
+pants provide judgments as to whether the uncertainty attached to their projections of each eco-
+
+nomic variable is greater than, smaller than, or broadly similar to typical levels of forecast uncertainty 
+
+seen in the past 20 years, as presented in table 2 and reﬂ ected in the widths of the conﬁ dence 
+
+intervals shown in the top panels of ﬁ gures 4 .A through 4 .C . Participants’ current assessments of the 
+
+uncertainty surrounding their projections are summarized in the bottom-left panels of those ﬁ gures . 
+
+Participants also provide judgments as to whether the risks to their projections are weighted to the 
+
+upside, are weighted to the downside, or are broadly balanced . That is, while the symmetric historical 
+
+fan charts shown in the top panels of ﬁ gures 4 .A through 4 .C imply that the risks to participants’ pro-
+
+jections are balanced, participants may judge that there is a greater risk that a given variable will be 
+
+above rather than below their projections . These judgments are summarized in the lower-right panels 
+
+of ﬁ gures 4 .A through 4 .C .
+
+As with real activity and inﬂ ation, the outlook for the future path of the federal funds rate is subject 
+
+to considerable uncertainty . This uncertainty arises primarily because each participant’s assessment 
+
+of the appropriate stance of monetary policy depends importantly on the evolution of real activity and 
+
+inﬂ ation over time . If economic conditions evolve in an unexpected manner, then assessments of the 
+
+appropriate setting of the federal funds rate would change from that point forward . The ﬁ nal line in 
+
+table 2 shows the error ranges for forecasts of short-term interest rates . They suggest that the histor-
+
+ical conﬁ dence intervals associated with projections of the federal funds rate are quite wide . It should 
+
+be noted, however, that these conﬁ dence intervals are not strictly consistent with the projections for 
+
+the federal funds rate, as these projections are not forecasts of the most likely quarterly outcomes 
+
+but rather are projections of participants’ individual assessments of appropriate monetary policy and 
+
+(continued)
+
+Summary of Economic Projections 
+
+61
+
+Box 5.  Forecast Uncertainty
+
+The economic projections provided by the members of the Board of Governors and the presidents 
+of the Federal Reserve Banks inform discussions of monetary policy among policymakers and can 
+aid public understanding of the basis for policy actions . Considerable uncertainty attends these pro-
+jections, however . The economic and statistical models and relationships used to help produce eco-
+nomic forecasts are necessarily imperfect descriptions of the real world, and the future path of the 
+economy can be affected by myriad unforeseen developments and events . Thus, in setting the stance 
+of monetary policy, participants consider not only what appears to be the most likely economic out-
+come as embodied in their projections, but also the range of alternative possibilities, the likelihood of 
+their occurring, and the potential costs to the economy should they occur .
+
+Table 2 summarizes the average historical accuracy of a range of forecasts, including those reported 
+in past Monetary Policy Reports and those prepared by the Federal Reserve Board’s staff in advance 
+of meetings of the Federal Open Market Committee (FOMC) . The projection error ranges shown in 
+the table illustrate the considerable uncertainty associated with economic forecasts . For example, 
+suppose a participant projects that real gross domestic product (GDP) and total consumer prices will 
+rise steadily at annual rates of, respectively, 3 percent and 2 percent . If the uncertainty attending 
+those projections is similar to that experienced in the past and the risks around the projections are 
+broadly balanced, the numbers reported in table 2 would imply a probability of about 70 percent that 
+actual GDP would expand within a range of 1 .3 to 4 .7 percent in the current year, 1 .2 to 4 .8 percent 
+in the second year, and 0 .8 to 5 .2 percent in the third year . The corresponding 70 percent conﬁ dence 
+intervals for overall inﬂ ation would be 1 .0 to 3 .0 percent in the current year, 0 .4 to 3 .6 percent in the 
+second year, and 0 .6 to 3 .4 percent in the third year . Figures 4 .A through 4 .C illustrate these conﬁ -
+dence bounds in “fan charts” that are symmetric and centered on the medians of FOMC participants’ 
+projections for GDP growth, the unemployment rate, and inﬂ ation . However, in some instances, the 
+risks around the projections may not be symmetric . In particular, the unemployment rate cannot be 
+negative; furthermore, the risks around a particular projection might be tilted to either the upside or 
+the downside, in which case the corresponding fan chart would be asymmetrically positioned around 
+the median projection .
+
+Because current conditions may differ from those that prevailed, on average, over history, partici-
+pants provide judgments as to whether the uncertainty attached to their projections of each eco-
+nomic variable is greater than, smaller than, or broadly similar to typical levels of forecast uncertainty 
+seen in the past 20 years, as presented in table 2 and reﬂ ected in the widths of the conﬁ dence 
+intervals shown in the top panels of ﬁ gures 4 .A through 4 .C . Participants’ current assessments of the 
+uncertainty surrounding their projections are summarized in the bottom-left panels of those ﬁ gures . 
+Participants also provide judgments as to whether the risks to their projections are weighted to the 
+upside, are weighted to the downside, or are broadly balanced . That is, while the symmetric historical 
+fan charts shown in the top panels of ﬁ gures 4 .A through 4 .C imply that the risks to participants’ pro-
+jections are balanced, participants may judge that there is a greater risk that a given variable will be 
+above rather than below their projections . These judgments are summarized in the lower-right panels 
+of ﬁ gures 4 .A through 4 .C .
+
+As with real activity and inﬂ ation, the outlook for the future path of the federal funds rate is subject 
+to considerable uncertainty . This uncertainty arises primarily because each participant’s assessment 
+of the appropriate stance of monetary policy depends importantly on the evolution of real activity and 
+inﬂ ation over time . If economic conditions evolve in an unexpected manner, then assessments of the 
+appropriate setting of the federal funds rate would change from that point forward . The ﬁ nal line in 
+table 2 shows the error ranges for forecasts of short-term interest rates . They suggest that the histor-
+ical conﬁ dence intervals associated with projections of the federal funds rate are quite wide . It should 
+be noted, however, that these conﬁ dence intervals are not strictly consistent with the projections for 
+the federal funds rate, as these projections are not forecasts of the most likely quarterly outcomes 
+but rather are projections of participants’ individual assessments of appropriate monetary policy and 
+
+(continued)
+
+ 
+62  Monetary Policy Report
+
+Box 5—continued
+
+are on an end-of-year basis . However, the forecast errors should provide a sense of the uncertainty 
+around the future path of the federal funds rate generated by the uncertainty about the macro-
+economic variables as well as additional adjustments to monetary policy that would be appropriate 
+to offset the effects of shocks to the economy .
+
+If at some point in the future the conﬁ dence interval around the federal funds rate were to extend 
+below zero, it would be truncated at zero for purposes of the fan chart shown in ﬁ gure 5; zero is the 
+bottom of the lowest target range for the federal funds rate that has been adopted by the Committee 
+in the past . This approach to the construction of the federal funds rate fan chart would be merely 
+a convention; it would not have any implications for possible future policy decisions regarding the 
+use of negative interest rates to provide additional monetary policy accommodation if doing so were 
+appropriate . In such situations, the Committee could also employ other tools, including forward guid-
+ance and asset purchases, to provide additional accommodation .
+
+While ﬁ gures 4 .A through 4 .C provide information on the uncertainty around the economic projec-
+tions, ﬁ gure 1 provides information on the range of views across FOMC participants . A comparison of 
+ﬁ gure 1 with ﬁ gures 4 .A through 4 .C shows that the dispersion of the projections across participants 
+is much smaller than the average forecast errors over the past 20 years .
+
+63
+
+Appendix: Source Notes
+
+Figure 1 . Personal consumption expenditures price indexes 
+
+For trimmed mean, Federal Reserve Bank of Dallas; for all else, Bureau of Economic Analysis; all 
+
+via Haver Analytics .
+
+Figure 2 . Price indexes for subcomponents of personal consumption expenditures 
+
+Bureau of Economic Analysis via Haver Analytics .
+
+Figure 3 . Oil prices 
+
+ICE Brent Futures via Bloomberg .
+
+Figure 4 . Spot prices for commodities 
+
+For industrial metals, S&P GSCI Industrial Metals Spot Index; for agriculture and livestock, 
+
+S&P GSCI Agriculture & Livestock Spot Index; both via Haver Analytics .
+
+Figure 5 . Prices paid indexes from manufacturing surveys 
+
+Institute for Supply Management, Manufacturing Report on Business; Federal Reserve Bank of 
+
+Dallas, Texas Manufacturing Outlook Survey; Federal Reserve Bank of Kansas City, Survey of 
+
+Tenth District Manufacturers; Federal Reserve Bank of New York, Empire State Manufacturing 
+
+Survey; Federal Reserve Bank of Philadelphia, Manufacturing Business Outlook Survey; all via 
+
+Haver Analytics .
+
+Figure 6 . Nonfuel import price index 
+
+Bureau of Labor Statistics .
+
+Figure 7 . Measures of rental price inflation 
+
+Bureau of Economic Analysis, PCE, via Haver Analytics; Apartment List, Inc ., via Haver Analytics; 
+
+Zillow, Inc .; Cotality; Federal Reserve Board staff calculations .
+
+Figure 8 . Measures of inflation expectations 
+
+University of Michigan Surveys of Consumers; Federal Reserve Bank of Philadelphia, SPF .
+
+Figure 9 . Inflation compensation implied by Treasury Inflation-Protected Securities 
+
+Federal Reserve Bank of New York; Federal Reserve Board staff calculations .
+
+Figure 10 . Civilian unemployment rate 
+
+Bureau of Labor Statistics via Haver Analytics .
+
+Figure 11 . Unemployment rate, by race and ethnicity 
+
+Bureau of Labor Statistics via Haver Analytics .
+
+Figure 12 . Nonfarm payroll employment 
+
+Bureau of Labor Statistics via Haver Analytics .
+
+64  Monetary Policy Report
+
+Box 1. Employment and Earnings across Demographic Groups
+
+Figure A . Prime-age employment-to-population ratios compared with the 2019 average ratio, 
+
+by group 
+
+Bureau of Labor Statistics; U .S . Census Bureau, Current Population Survey; Federal Reserve 
+
+Board staff calculations .
+
+Figure B . Employment-to-population ratios compared with the 2019 average ratio, by age 
+
+Bureau of Labor Statistics; U .S . Census Bureau, Current Population Survey; Federal Reserve 
+
+Board staff calculations .
+
+Figure C . Median real wage growth, by group 
+
+Federal Reserve Bank of Atlanta, Wage Growth Tracker; Bureau of Labor Statistics; U .S . Census 
+
+Bureau, Current Population Survey; Federal Reserve Board staff calculations .
+
+Figure 13 . Labor force participation rate 
+
+Bureau of Labor Statistics via Haver Analytics .
+
+Figure 14 . Indicators of layoffs 
+
+Bureau of Labor Statistics via Haver Analytics; Department of Labor, Employment and Training 
+
+Administration .
+
+Figure 15 . Available jobs versus available workers 
+
+Bureau of Labor Statistics via Haver Analytics; Federal Reserve Board staff calculations .
+
+Figure 16 . Average U .S . labor productivity growth 
+
+Bureau of Labor Statistics via Haver Analytics; Federal Reserve Board staff calculations .
+
+Figure 17 . Measures of change in hourly compensation 
+
+Bureau of Labor Statistics; Federal Reserve Bank of Atlanta, Wage Growth Tracker; all via 
+
+Haver Analytics .
+
+Figure 18 . Change in real gross domestic product, gross domestic income, and private domestic 
+
+final purchases 
+
+Bureau of Economic Analysis via Haver Analytics .
+
+Figure 19 . Manufacturing new orders 
+
+Institute for Supply Management, Manufacturing Report on Business; Federal Reserve Bank of 
+
+Dallas, Texas Manufacturing Outlook Survey; Federal Reserve Bank of Kansas City, Survey of 
+
+Tenth District Manufacturers; Federal Reserve Bank of New York, Empire State Manufacturing 
+
+Survey; Federal Reserve Bank of Philadelphia, Manufacturing Business Outlook Survey; 
+
+Federal Reserve Bank of Richmond, Fifth District Survey of Manufacturing Activity; all via 
+
+Haver Analytics .
+
+Figure 20 . Change in real personal consumption expenditures 
+
+Bureau of Economic Analysis via Haver Analytics .
+
+Appendix: Source Notes 
+
+65
+
+Figure 21 . Indexes of consumer sentiment 
+
+University of Michigan Surveys of Consumers; Conference Board .
+
+Figure 22 . Consumer credit flows 
+
+Federal Reserve Board, Statistical Release G .19, “Consumer Credit .”
+
+Figure 23 . Existing home sales 
+
+National Association of Realtors via Haver Analytics .
+
+Figure 24 . Mortgage interest rates 
+
+Freddie Mac Primary Mortgage Market Survey via Haver Analytics .
+
+Figure 25 . Distribution of interest rates on outstanding mortgages 
+
+ICE, McDash® .
+
+Figure 26 . Private housing starts 
+
+U .S . Census Bureau via Haver Analytics .
+
+Figure 27 . Builder and homebuyer sentiment 
+
+National Association of Home Builders (U .S .), Housing Market Index; University of Michigan 
+
+Surveys of Consumers .
+
+Figure 28 . Growth rate in house prices 
+
+Cotality, Home Price Index; Zillow, Inc ., Real Estate Data; S&P Cotality Case-Shiller U .S . National 
+
+Home Price Index . The S&P Cotality Case-Shiller index is a product of S&P Dow Jones Indices LLC 
+
+and/or its affiliates . (For Dow Jones Indices licensing information, see the Data Notes page .)
+
+Figure 29 . Change in real business fixed investment 
+
+Bureau of Economic Analysis via Haver Analytics .
+
+Figure 30 . Change in real imports and exports of goods and services 
+
+Bureau of Economic Analysis via Haver Analytics .
+
+Figure 31 . Federal receipts and expenditures 
+
+Department of the Treasury, Bureau of the Fiscal Service; Office of Management and Budget and 
+
+Bureau of Economic Analysis via Haver Analytics .
+
+Figure 32 . Federal government debt and net interest outlays 
+
+For GDP, Bureau of Economic Analysis via Haver Analytics; for federal debt, Congressional 
+
+Budget Office and Federal Reserve Board, Statistical Release Z .1, “Financial Accounts of the 
+
+United States .”
+
+Figure 33 . State and local tax receipts 
+
+U .S . Census Bureau, Quarterly Summary of State and Local Government Tax Revenue .
+
+Figure 34 . Change in state and local government payroll employment 
+
+Bureau of Labor Statistics via Haver Analytics .
+
+ 
+66  Monetary Policy Report
+
+Figure 35 . Market-implied federal funds rate path 
+
+Bloomberg; Federal Reserve Board staff estimates .
+
+Figure 36 . Yields on nominal Treasury securities 
+
+Department of the Treasury via Haver Analytics .
+
+Figure 37 . Corporate bond yields, by securities rating, and municipal bond yield 
+
+ICE Data Indices, LLC, used with permission .
+
+Figure 38 . Yield and spread on agency mortgage-backed securities 
+
+Department of the Treasury; J .P . Morgan . Courtesy of J .P . Morgan Chase & Co ., Copyright 2026 .
+
+Figure 39 . Equity prices 
+
+S&P Dow Jones Indices LLC via Bloomberg . (For Dow Jones Indices licensing information, see the 
+
+Data Notes page .)
+
+Figure 40 . S&P 500 volatility 
+
+Cboe Volatility Index® (VIX®) via Bloomberg; LSEG Data & Analytics, DataScope; Federal Reserve 
+
+Board staff estimates .
+
+Box 2. Developments Related to Financial Stability
+
+Figure A . Nonfinancial business and household debt-to-GDP ratios 
+
+Federal Reserve Board, Statistical Release Z .1, “Financial Accounts of the United States”; 
+
+Bureau of Economic Analysis, national income and product accounts; Federal Reserve Board staff 
+
+calculations .
+
+Figure 41 . Ratio of total commercial bank credit to nominal gross domestic product 
+
+Federal Reserve Board, Statistical Release H .8, “Assets and Liabilities of Commercial Banks in 
+
+the United States”; Bureau of Economic Analysis via Haver Analytics .
+
+Figure 42 . Profitability of bank holding companies 
+
+Federal Reserve Board, Form FR Y-9C, Consolidated Financial Statements for Holding Companies .
+
+Figure 43 . Consumer price inflation in foreign economies 
+
+Federal Reserve Board staff calculations; Haver Analytics .
+
+Figure 44 . 24-month policy expectations for selected advanced foreign economies 
+
+Bloomberg; Federal Reserve Board staff calculations .
+
+Figure 45 . Nominal 2-year government bond yields in selected advanced foreign economies 
+
+Bloomberg .
+
+Figure 46 . Equity indexes for selected foreign economies 
+
+For the euro area, Dow Jones Euro Stoxx Index; for Japan, Tokyo Stock Price Index; for China, 
+
+Shanghai Composite Index; for the U .K ., FTSE 100 Index; all via Bloomberg . (For Dow Jones 
+
+Indices licensing information, see the Data Notes page .)
+
+Appendix: Source Notes 
+
+67
+
+Figure 47 . U .S . dollar exchange rate index 
+
+Federal Reserve Board, Statistical Release H .10, “Foreign Exchange Rates .”
+
+Figure 48 . Selected interest rates 
+
+Department of the Treasury; Federal Reserve Board .
+
+Figure 49 . Federal Reserve assets and liabilities 
+
+Federal Reserve Board, Statistical Release H .4 .1, “Factors Affecting Reserve Balances .”
+
+Box 3. Developments in the Federal Reserve’s Balance Sheet and Money Markets
+
+Figure A . Federal Reserve assets 
+
+Federal Reserve Board, Statistical Release H .4 .1, “Factors Affecting Reserve Balances .”
+
+Figure B . Federal Reserve liabilities 
+
+Federal Reserve Board, Statistical Release H .4 .1, “Factors Affecting Reserve Balances .”
+
+Box 4. Monetary Policy Rules in the Current Environment
+
+Figure A . Historical federal funds rate prescriptions from simple policy rules 
+
+For core PCE inflation, PCEPILFE; for the unemployment rate, UNRATE; for the lower and upper 
+
+limits of the federal funds target range, DFEDTARL and DFEDTARU, respectively; all from 
+
+Federal Reserve Bank of St . Louis, Federal Reserve Economic Data; Federal Reserve Bank of 
+
+New York, Survey of Market Expectations; Federal Reserve Board staff estimates .
+
+ 
+Find other Federal Reserve Board publications at www.federalreserve.gov/publications/default.htm,
+or visit our website to learn more about the Board and how to connect with us on social media.
+
+www.federalreserve.gov
+0726
+
+

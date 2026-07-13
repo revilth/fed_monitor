@@ -31,129 +31,147 @@ Released July 10 at 11:00am EDT ahead of his debut Humphrey-Hawkins
 testimony (House, July 14; Senate, July 15). The MPR is a committee
 document, not a personal speech; assessment is relative to (a) the
 June 17, 2026 FOMC statement — the most recent committee language —
-and (b) the prior MPR (February 2026, last under Powell).
+and (b) the prior MPR (June 20, 2025, last under Powell — there was NO
+February 2026 MPR). Full diff: data/scored/mpr/20260710_MPR_scored.txt.
 
-NOTE ON ACCESS: The MPR PDF (federalreserve.gov) returned HTTP 403
-during this run. The analysis below is drawn from contemporaneous
-media reporting (Bloomberg, The Globe and Mail, American Banker,
-Yahoo Finance / AP) and verified web search results. Quote marks
-indicate language attributed to the report by multiple sources;
-paraphrase is labelled as such.
+NOTE ON SOURCING (REVISED): The MPR PDF returned HTTP 403 on the original
+run and the first pass was written from media coverage. The PDF was
+subsequently retrieved with a browser user-agent and this section was
+re-scored directly from the source document (data cutoff: noon July 8,
+2026; monthly series through May, labor data through June). All quotes
+below are verbatim from the report.
 
 GROWTH
-  Growth characterized as "solid" with "productivity as strong" and
-  "little sign of risk in the banking system." Upbeat framing. Consistent
-  with June 17 statement language ("Economic activity has continued to
-  expand at a solid pace") and the June minutes' characterization of AI
-  investment "showing no signs of slowing." No material change in growth
-  narrative from the June committee documents.
+  Q1 real GDP +2.1% ("moderate pace… similar to last year's pace"),
+  "capital investment rising considerably but household consumption
+  increasing only very modestly" (+1.3% annualized over five months).
+  "Overall, economic activity is expanding at a solid pace despite
+  elevated uncertainty that owes, in part, to the conflict in the Middle
+  East" — verbatim from the June 17 statement. "Labor productivity growth
+  is strong." Compositional caveat: growth is investment-led (AI/data
+  centers) while consumption is soft — a demand-breadth flag, not a
+  headline concern.
   Direction: NEUTRAL — stable vs. June 17 consensus.
 
 LABOR MARKET
-  Labor market described as having "stabilized after weakening in 2025."
-  Data through May 2026: private employers added an average of 117,000
-  jobs/month vs. an average of 10,000 jobs/month across 2025. This is
-  a material improvement in the month-count narrative — the June minutes
-  noted "several participants remarked that their concerns earlier this
-  year about labor market deterioration had eased with recent data." The
-  MPR's stabilization framing is directionally consistent with the June
-  minutes' shift from April's dovish-labor-risk framing.
-  CAVEAT: The MPR data cutoff is May 2026. The June NFP (+57K, released
-  July 2) came in well below expectations and is NOT in the MPR. Warsh
-  will face direct questions about June labor data in oral testimony
-  July 14. The gap between the MPR's "stabilized" read and the weak June
-  print is the primary labor tension heading into the hearing.
-  Direction: NEUTRAL-TO-HAWKISH — stabilization framing (through May)
-  removes the dovish labor floor present in April; June NFP complicates
-  this and will be addressed in testimony.
+  "The labor market has stabilized, with demand and supply roughly in
+  balance. The unemployment rate, at 4.2 percent in June, was low and has
+  been little changed since last summer… private payroll gains have
+  picked up." Labor-supply growth slowed (immigration + aging/LFPR).
+  Echoes June 17 verbatim: "Job gains have kept pace with the workforce,
+  and the unemployment rate has changed little."
+  CORRECTION: the MPR is NOT blind to June data. It cites the June UR
+  (4.2%) and the July 2 payroll read; the information cutoff is noon
+  July 8. The "stale May-cutoff vs. weak June jobs" tension asserted in
+  the first pass does not hold. (The "117k vs. 10k jobs/month" figures in
+  the first pass are not in the document.)
+  Direction: NEUTRAL — stabilization framing removes the spring's dovish
+  labor floor; no fresh hawkish push.
 
 INFLATION
-  Inflation described as having "moved higher over the past year due to
-  the impact of the Iran war, tariffs and soaring costs for technology
-  goods." Multiple sources characterize the MPR's inflation language as
-  "stepped-up inflation." Attribution is three-channel (Iran/Hormuz,
-  tariffs, AI-tech demand) — matching the June minutes' expanded
-  attribution beyond the earlier tariff-only story.
-  PARTIAL OFFSET: The MPR notes that "other inflation gauges, including
-  a so-called trimmed-mean measure of price gains, had declined over the
-  past year." This is a meaningful concession not present in the June 17
-  statement or statement redline; it suggests the committee's analytical
-  framework distinguishes headline/shock-driven inflation from underlying
-  trend. The trimmed-mean caveat is a potential dovish anchor if supply
-  shocks retrace.
-  Direction: NEUTRAL — reaffirms June 17 structural-shock narrative with
-  a trimmed-mean offset. "Stepped-up inflation" is a new register vs.
-  prior MPR language; trimmed-mean caveat prevents a pure hawkish read.
+  Headline PCE +4.1% and core PCE +3.4% (12 months ending May; up from
+  2.5% / 2.8% a year earlier). Energy +24%. Inflation "stepped up further
+  this spring." Three drivers, verbatim: "earlier tariff hikes… a surge
+  in energy prices associated with constraints on oil supplies following
+  the start of the Middle East conflict in late February… and increased
+  demand for some high-tech products that support artificial intelligence
+  (AI) applications." (NOT "the Iran war" — the report says "Middle East
+  conflict"; Iran appears only re: U.S.–Iran oil negotiations.)
+  Echoes June 17 verbatim: "Inflation remains elevated relative to the
+  Committee's 2 percent goal, in part reflecting supply shocks that have
+  driven price increases in certain sectors, including energy."
+  PARTIAL OFFSET (real, quantified): Dallas Fed trimmed-mean PCE DECLINED
+  from 2.6% (last May) to 2.4% (this May) even as headline/core rose —
+  the Committee distinguishes shock-driven headline from underlying trend
+  (footnote 2 adds a caveat that trimmed-mean can mislead when the price-
+  change distribution shifts). Long-run inflation expectations remain
+  anchored near 2%.
+  Direction: NEUTRAL — reaffirms June 17 structural-shock narrative;
+  declining trimmed-mean + anchored expectations prevent a hawkish read
+  despite the 4.1% headline.
 
 MONETARY POLICY
-  The MPR uses "The Committee will deliver price stability" — verbatim
-  from the June 17 FOMC statement's structural rewrite (hawkish departure
-  from the Powell-era "committed to returning inflation to" phrasing).
-  Now formalized in the congressional semiannual report, this is the
-  committee's official posture heading into the July 28–29 meeting.
-  NEW STRUCTURAL FEATURES under Warsh:
-    (1) MONEY SUPPLY featured for the first time in a Fed MPR. Reflects
-        Warsh's stated monetarist orientation and the data task force's
-        early influence. This is a committee-document-level formalization
-        of a Warsh personal methodological preference. Language cycle
-        stage: Warsh personal → MPR/congressional document. Not yet in
-        FOMC statement or minutes.
-    (2) No forward guidance language. Consistent with June 17 statement
-        redesign removing easing bias and forward guidance entirely.
-  Direction: HAWKISH — "will deliver" unconditional commitment elevated
-  to congressional-record level; money supply inclusion signals a
-  structural methodological shift.
+  The interest-rate-policy paragraph is a VERBATIM reproduction of the
+  June 17 statement, closing with "The Committee will deliver price
+  stability." No forward guidance, no easing bias (consistent with the
+  June 17 redesign). No new policy ground vs. June 17 — the MPR's
+  function is to formalize that posture on the congressional record.
+  Market rate path (report's own framing): the expected funds-rate path
+  has "moved above the levels prevailing at the start of the year,"
+  reflecting the Middle East conflict's inflation impulse and "increased
+  confidence in the stability of the U.S. labor market" — reported as an
+  observation, not a Committee endorsement.
+  BALANCE-SHEET PIVOT: the Fed ended runoff (Dec 2025) and is now BUYING
+  short-term Treasuries — ~$250bn in T-bills since January, balance sheet
+  back to $6.7tn — the mirror image of the June 2025 MPR's active runoff.
+  Plumbing, not stance, but note the direction flip.
+  STRUCTURAL / WARSH FEATURES (the genuine novelty of this report):
+    (1) FIVE independent task forces on (1) communications, (2) balance
+        sheet policy, (3) data quality, (4) productivity/jobs, (5)
+        frameworks for the drivers of inflation. Task force (1) will
+        review the SEP itself "with the possibility of suggesting changes
+        to current arrangements" — the dot-plot format is under review.
+    (2) M2 / "stock of money" appears, but NEUTRALLY, not as a hawkish
+        monetarist signal: "it is difficult to measure the stock of
+        money… 12-month rates of increase in M2 were moderate and broadly
+        similar to the pace typically observed during the 2010s." Moderate
+        growth = no inflationary money signal.
+  Direction: NEUTRAL vs. June 17 (verbatim echo, no new signal).
 
-NET SIGNAL: NEUTRAL-TO-HAWKISH
-  The MPR does not break new ground vs. the June 17 statement and
-  minutes. Its primary function is formalization: "will deliver price
-  stability" is now a congressional commitment, not just an FOMC
-  statement phrase. The trimmed-mean caveat is the only material addition
-  vs. June 17 committee language. Money supply inclusion is the structural
-  novelty. Net: the document anchors the committee's hawkish posture
-  ahead of the July 28–29 meeting without signaling a pivot in either
-  direction.
+NET SIGNAL: NEUTRAL vs. June 17 committee language; HAWKISH-IN-TONE vs.
+the true prior MPR (June 2025).
+  The MPR breaks no new policy ground vs. June 17 — its rate-policy
+  paragraph is reproduced verbatim and "will deliver price stability" is
+  carried over, not new. Its function is formalization ahead of Warsh's
+  debut testimony. The only material analytical addition is the trimmed-
+  mean offset; the structural novelty is the five task forces (incl. an
+  SEP review), NOT the money-supply box (neutral).
 
-vs. JUNE 17 STATEMENT:   CONSISTENT — MPR formalizes statement language
-  at the congressional document level. "Will deliver price stability"
-  appears. No new directional signal; trimmed-mean caveat is an addition.
+vs. JUNE 17 STATEMENT:   CONSISTENT — the interest-rate-policy paragraph
+  is a verbatim reproduction; "will deliver price stability" carried over.
+  No new directional signal. Trimmed-mean detail is a context addition.
 
-vs. FEBRUARY 2026 MPR (Powell): HAWKISH SHIFT — "Will deliver" is new
-  and unconditional. Money supply addition is structural. "Stepped-up
-  inflation" vs. prior MPR's more measured register. No forward guidance
-  or easing-bias language. Chair is Warsh (Powell's first year as Chair
-  was the Feb MPR comparator).
+vs. JUNE 2025 MPR (Powell): HAWKISH SHIFT IN TONE — from June 2025's
+  symmetric, conditional register ("strongly committed to supporting
+  maximum employment and returning inflation to its 2 percent objective…
+  will carefully assess incoming data… well positioned to wait for more
+  clarity") to July 2026's terse, unconditional "The Committee will
+  deliver price stability" with no dual-mandate balancing sentence and no
+  forward guidance. CAVEAT: over the same span the FFR was CUT 75bp
+  (4.25–4.50% → 3.50–3.75%) and inflation roughly doubled (PCE 2.1% →
+  4.1%), so this is a communication/tone hardening on an easier rate
+  level against a firmer inflation backdrop — not a signal of intended
+  additional tightening.
 
 LANGUAGE TO WATCH:
-  • "The Committee will deliver price stability" — formalized in a
-    congressional record. Watch for Warsh to use verbatim in oral
-    testimony July 14–15 (language cycle: FOMC statement → MPR/Congress).
-  • Money supply — new in an MPR. Watch for reference in July 28–29
-    FOMC statement, July minutes, or post-meeting Warsh speech.
-  • "Stepped-up inflation" — new register in official documents. Watch
-    for adoption by other officials post-July 14 testimony.
-  • Trimmed-mean inflation — watch whether this appears in oral testimony
-    as a dovish hedge, or whether Warsh distances himself from it under
-    Senate questioning.
+  • "The Committee will deliver price stability" — committee consensus now
+    on the congressional record. Watch for Warsh to use it verbatim in
+    oral testimony (Jul 14–15) and for adoption by other officials.
+  • Five task forces — esp. (1) communications reviewing the SEP and (5)
+    frameworks for inflation drivers. Watch the July 28–29 statement/
+    minutes and Warsh speeches for any procedural or framework change.
+  • Trimmed-mean PCE (2.4%, declining) — watch whether Warsh uses it as a
+    dovish hedge or distances from it under questioning (footnote pre-loads
+    the caveat).
+  • Balance-sheet flip (now buying T-bills, $6.7tn) — watch for questions
+    tied to task force (2), balance-sheet policy.
 
 ANALYST FLAG: YES
-  → The MPR is dated through May 2026. June NFP (+57K, well below trend)
-    and June CPI (released July 14, same morning as the House hearing)
-    will be the live data Warsh must address. The "stabilized" labor
-    narrative in the MPR vs. the weak June print is a key tension that
-    could produce a dovish adjustment in oral testimony — or Warsh could
-    apply the trend-over-print discipline he signaled at Sintra ("I tend
-    to look at it over rolling periods" re: single data points).
-  → Money supply inclusion: is this a Warsh personal view being introduced
-    into committee documents, or a formal committee data-framework change?
-    If Warsh explicitly cites M2 growth in oral testimony, it becomes a
-    committee-level analytical anchor for how the Fed assesses inflationary
-    pressure — with significant implications for how the committee would
-    react if money supply growth reaccelerates.
+  → Live-data gap is NARROWER than first reported: the MPR already
+    incorporates June UR (4.2%) and the July 2 payroll read. The remaining
+    live inputs Warsh must address are June CPI (Jul 14, hearing morning)
+    and June PPI (Jul 15) — not a stale-vs-June-jobs gap.
+  → "Will deliver price stability" with NO dual-mandate balancing sentence
+    is a deliberate communication choice. Confirm whether to treat the
+    dropped symmetric "supporting maximum employment / returning inflation
+    to 2 percent" language as a durable framework change (consistent with
+    the June 17 redesign) rather than a one-off.
+  → Task force (1) reviews the SEP "with the possibility of suggesting
+    changes": the September SEP could arrive in a revised format — a
+    forward process risk to the dot-plot diff methodology.
   → Market is pricing ~30% probability of a July 28–29 hike (CME
-    FedWatch). The oral testimony will either validate or compress this
-    probability. Watch the 2-year yield reaction to the oral statement
-    vs. the MPR written language for a market-based read on the delta.
+    FedWatch). The oral testimony will validate or compress this. Watch the
+    2-year reaction to the oral statement vs. the written MPR.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — TOMORROW: Sunday July 12, 2026
@@ -245,18 +263,17 @@ SATURDAY, July 18 — BLACKOUT BEGINS (through July 30)
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Monetary Policy Report — July 10, 2026:
+Monetary Policy Report — July 10, 2026 (PRIMARY — scored directly from source):
   https://www.federalreserve.gov/monetarypolicy/files/20260710_mprfullreport.pdf
-  (PDF unavailable via WebFetch this run — HTTP 403; analysis from
-   contemporaneous media reporting)
+  Raw:    data/raw/mpr/20260710_monetary_policy_report.txt
+  Scored: data/scored/mpr/20260710_MPR_scored.txt
+  (PDF returned HTTP 403 on the original run; retrieved with a browser
+   user-agent and re-scored from the document. This section supersedes the
+   earlier media-based pass.)
 
-Coverage of MPR release:
-  Bloomberg: "Fed Vows to Deliver Price Stability in Monetary Policy Report"
-  The Globe and Mail: "First U.S. monetary policy report under Fed's Warsh cites
-    'stepped-up' inflation"
-  American Banker: "Money supply features in first Fed monetary policy report
-    under Warsh"
-  Yahoo Finance / AP: "Fed's message to Congress: We will bring down inflation"
+Prior MPR (vs. PRIOR MPR comparison) — June 20, 2025 (Powell):
+  https://www.federalreserve.gov/monetarypolicy/files/20250620_mprfullreport.pdf
+  (No February 2026 MPR exists — confirmed absent from the Fed MPR archive.)
 
 June 17, 2026 FOMC statement (comparison):
   https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
