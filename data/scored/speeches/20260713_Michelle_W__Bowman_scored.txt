@@ -1,0 +1,26 @@
+══════════════════════════════════════════════════════════
+TYPE B — NOT SCORED FOR POLICY CONTENT
+══════════════════════════════════════════════════════════
+2026-07-13 | Michelle W. Bowman | Vice Chair for Supervision | Just Voter
+"Modernizing Financial Regulation"
+Bank Policy Institute London Conference, London, United Kingdom
+SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm
+
+CLASSIFICATION: Type B — FSB regulatory/supervisory modernization topic.
+  No embedded economic outlook section. No current conditions assessment;
+  no inflation, labor market, growth, or monetary policy rate-path content.
+
+Speech scope: FSB Standing Committee on Supervisory and Regulatory
+  Cooperation (SRC) modernization work — Bowman chairs the SRC. Four
+  guiding principles outlined: (1) prioritize material financial risks;
+  (2) tailor regulation to risk profile; (3) transparency/accountability;
+  (4) forward-looking on emerging risks. U.S. implementation: 2026 Basel
+  III capital framework proposal (simplified requirements, G-SIB surcharge
+  recalibration, index to nominal growth); new Supervisory Operating
+  Principles (first-ever public disclosure of Fed supervisory approach);
+  updated asset thresholds; FSB AI sound-practices consultation report
+  (open for comment through July 22).
+
+No monetary policy signal. No policy scoring output.
+This file marks the raw speech as reviewed and classified.
+══════════════════════════════════════════════════════════

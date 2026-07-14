@@ -1,0 +1,148 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 13, 2026 (Monday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "Modernizing Financial Regulation"
+     Bank Policy Institute London Conference, London, United Kingdom
+     STATUS: NOT SCORED — Type B regulatory/supervisory topic; no economic
+       outlook embedded; no monetary policy stance content.
+
+════════════════════════════════════════════════════════════════
+NO NEW POLICY SPEECHES — July 13, 2026
+════════════════════════════════════════════════════════════════
+
+One speech appeared on July 13: Vice Chair for Supervision Michelle W.
+Bowman at the Bank Policy Institute London Conference ("Modernizing
+Financial Regulation"). The speech was reviewed in full and classified
+as Type B — FSB regulatory modernization — with no embedded economic
+outlook section and no current conditions assessment.
+
+Speech coverage: Bowman outlined the FSB Standing Committee on
+Supervisory and Regulatory Cooperation's (SRC) modernization framework
+— she chairs the SRC — including four guiding principles (material
+risk focus, proportionality, transparency, forward-looking innovation
+support). U.S. implementation highlights: (1) the 2026 Basel III
+capital framework proposal, simplifying requirements and recalibrating
+the G-SIB surcharge with an index to nominal economic growth; (2) newly
+published Supervisory Operating Principles (first public disclosure of
+Fed supervisory approach); (3) updated asset thresholds indexed for
+economic growth; (4) FSB AI sound-practices consultation report, open
+for comment through July 22.
+
+No rate-path, inflation, labor market, growth, or monetary policy
+forward guidance content of any kind. This speech carries zero signal
+for the July 28–29 FOMC decision.
+
+Context: July 13 is the first day of the final pre-blackout week (blackout
+begins Saturday July 18). Bowman's most recent scored economic outlook
+speech remains her May 29 Reykjavík appearance ("A Framework for Practical
+Monetary Policy Decision Making," Type B-with-embedded-outlook), where she
+described policy as "moderately restrictive" and expressed preference for
+"proactive" cuts. That view has not been publicly updated since the June 17
+FOMC restructure (easing bias removed, SEP turned hawkish). Bowman's
+pre-blackout policy stance remains TBD — any update would be high priority.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Wednesday July 15, 2026
+────────────────────────────────────────────────────────────────
+High-signal day: Senate testimony (Day 2), June PPI, Beige Book, and a
+potential Williams appearance running concurrently.
+
+────────────────────────────────────────────────────────────────
+8:30 a.m. ET — June PPI (BLS release)
+  Pipeline inflation data following Tuesday's June CPI. Key read on
+  upstream energy and goods price pressure in the wake of the Iran/Hormuz
+  shock and tariff pass-through chain. Watch whether PPI corroborates or
+  diverges from the CPI print. Note: PPI will already be in senators'
+  hands when Warsh takes his seat at 10:00 a.m.
+
+10:00 a.m. ET — Kevin Warsh  |  Chair  |  Troika
+  Testimony, Senate Banking, Housing and Urban Affairs Committee
+  "The Semiannual Monetary Policy Report to the Congress"
+  Dirksen Senate Office Building, Room 538, Washington, D.C.
+  Type F — Day 2 of Warsh's first Humphrey-Hawkins testimony as Chair.
+  SOURCE: https://www.banking.senate.gov/hearings/07/08/2026/the-semiannual-monetary-policy-report-to-the-congress
+  Senate Q&A is typically more probing than the House session. After
+  Tuesday's House testimony and CPI release (not yet reported as of this
+  run), senators will likely press on: (1) whether Warsh's reading of the
+  June CPI shifts his rate path view; (2) explicit July 28–29 hike vs.
+  hold framing — market pricing ~30% July hike pre-testimony; (3) the
+  SEP reform and Warsh's withheld dot; (4) the April 29 dissent structure
+  (three hawkish regionals: Hammack, Kashkari, Logan); (5) Fed independence
+  and the Lisa Cook Supreme Court ruling. Score immediately upon transcript
+  release. This is the single highest-signal event of the pre-blackout
+  window.
+
+~2:00 p.m. ET — Beige Book (Type H)
+  Released approximately two weeks before the July 28–29 FOMC meeting.
+  Compare national-summary sections — Overall Economic Activity, Labor
+  Markets, Prices — word-for-word against the June 3, 2026 Beige Book.
+  Key question: do district labor anecdotes reflect the weak June NFP
+  print (+57K, released July 2) or corroborate the MPR's "stabilized
+  labor / stepped-up inflation" framework? Qualifier shifts (modest /
+  moderate / elevated / easing) are direct deliberation inputs for
+  July 28–29. Score same day; include in the July 15 daily.
+
+John C. Williams  |  NY Fed President  |  Troika  (unconfirmed)
+  Multiple calendar sources flag a Williams speech on July 15; specific
+  event title, location, and time not confirmed this run. Williams's most
+  recent scored Type A: June 25 ("The Strategy and the Goals" — hawkish
+  recalibration post-June-17; "will deliver price stability" echoed;
+  balance sheet implementation detail). A Type A on July 15 would be the
+  Troika's first pre-blackout economic update since Sintra (July 1,
+  Warsh). Mark: (unconfirmed).
+
+Additional officials (unconfirmed):
+  Multiple financial calendar sources note possible additional Fed speaker
+  appearances on July 15, consistent with the high density of pre-blackout
+  communications activity this week. Specific events not confirmed this
+  run. Monitor regional bank event pages for late announcements.
+
+────────────────────────────────────────────────────────────────
+Note on this week's coverage context:
+  TUESDAY July 14 (covered in tomorrow's daily, 7/15 run):
+    8:30am ET: June CPI — first major inflation print since May;
+      watch for energy passthrough from the Iran/Hormuz shock.
+    10:00am ET: Warsh House Financial Services testimony (Type F, Day 1) —
+      score on release; will incorporate live June CPI reaction.
+    ~12pm CT: Goolsbee (Non Voter) fireside, Kenosha Area Business Alliance
+      — first confirmed post-June-17 Type A from a non-Troika official in
+      this pre-blackout window. Chicago Fed page often stub-only;
+      YouTube (Chicago Fed channel) is primary fallback.
+    12:30–5:30pm ET: Fed Annual Financial Inclusion Conference, Washington:
+      Barr (12:40pm, Type B) and Cook (1:30pm, Type B) speaking; no
+      expected policy outlook content but monitor for embedded stance.
+
+  THURSDAY July 16:
+    11:30am CDT: Logan (Just Voter, hawkish dissenter) — Houston Branch
+      moderated conversation; confirmed. First post-June-17 appearance
+      from a hawkish-dissenting voter. High signal.
+  FRIDAY July 17: Nothing confirmed. Last full pre-blackout day.
+  SATURDAY July 18: Blackout begins through July 30.
+    → Saturday's daily run (covering Friday July 17) will include the
+      mandatory FOMC Cycle Summary per scheduling instructions.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Bowman, July 13:
+    https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm
+
+Upcoming confirmed sources:
+  Warsh Senate Banking testimony (July 15):
+    https://www.banking.senate.gov/hearings/07/08/2026/the-semiannual-monetary-policy-report-to-the-congress
+  Logan Houston event (July 16):
+    https://www.dallasfed.org/events/2026/26loganhou
+
+Prior reference documents:
+  Bowman last economic outlook (May 29):
+    https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  June 17 FOMC statement:
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+  Williams June 25 (last scored Type A):
+    https://tellerwindow.newyorkfed.org/2026/06/25/the-strategy-and-the-goals/
+════════════════════════════════════════════════════════════════
