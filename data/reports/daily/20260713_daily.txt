@@ -2,48 +2,159 @@ FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: July 13, 2026 (Monday)
 Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+[REVISED July 14 — supersedes the morning version, which reported "no new
+policy speeches." Waller's July 13 NYABE speech was posted to
+federalreserve.gov after the morning scoring run and was collected at
+7:07am ET, 23 minutes after the report was generated. Full score below.]
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "Monetary Policy at a Crossroads"
+     New York Association for Business Economics, New York, NY
+     Type A — full economic outlook. SCORED.
+  2. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
      "Modernizing Financial Regulation"
      Bank Policy Institute London Conference, London, United Kingdom
      STATUS: NOT SCORED — Type B regulatory/supervisory topic; no economic
        outlook embedded; no monetary policy stance content.
-
-════════════════════════════════════════════════════════════════
-NO NEW POLICY SPEECHES — July 13, 2026
 ════════════════════════════════════════════════════════════════
 
-One speech appeared on July 13: Vice Chair for Supervision Michelle W.
-Bowman at the Bank Policy Institute London Conference ("Modernizing
-Financial Regulation"). The speech was reviewed in full and classified
-as Type B — FSB regulatory modernization — with no embedded economic
-outlook section and no current conditions assessment.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  CHRISTOPHER J. WALLER  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Type A economic outlook delivered the day before June CPI (July 14) and
+two days before PPI — Waller explicitly conditions his policy path on
+this week's data. First post-June-17 outlook speech from him (June 22
+and July 6 appearances were Type B, no outlook).
 
-Speech coverage: Bowman outlined the FSB Standing Committee on
-Supervisory and Regulatory Cooperation's (SRC) modernization framework
-— she chairs the SRC — including four guiding principles (material
-risk focus, proportionality, transparency, forward-looking innovation
-support). U.S. implementation highlights: (1) the 2026 Basel III
-capital framework proposal, simplifying requirements and recalibrating
-the G-SIB surcharge with an index to nominal economic growth; (2) newly
-published Supervisory Operating Principles (first public disclosure of
-Fed supervisory approach); (3) updated asset thresholds indexed for
-economic growth; (4) FSB AI sound-practices consultation report, open
-for comment through July 22.
+GROWTH
+  "Economic activity continues to be solid"; private domestic final
+  purchases "likely rose strongly"; AI investment expected "at a strong
+  pace in the near term and most likely next year as well." The May 22
+  income-bifurcation and April discretionary-softness caveats are not
+  repeated — "the real side of the economy is in good shape" clears
+  growth out of the policy decision.
+  Direction: neutral (marginally firmer than May 22)
 
-No rate-path, inflation, labor market, growth, or monetary policy
-forward guidance content of any kind. This speech carries zero signal
-for the July 28–29 FOMC decision.
+LABOR MARKET
+  Verdict: "stability and a balance between supply and demand";
+  employment "close to its maximum sustainable level, neither a source
+  of concern... nor a source of inflationary pressure." Explicitly looks
+  through the weak June NFP (57K + downward revisions): 3-month average
+  111K/month "reflects a strong level of labor demand relative to
+  supply" under his recalibrated low-labor-supply break-even; prime-age
+  participation drop dismissed as likely noise. Gatekeeper line: "Unless
+  I see evidence of a significantly weakening labor market, my focus
+  will be on inflation."
+  Direction: neutral (hawkish in effect — weak June print did not move him)
 
-Context: July 13 is the first day of the final pre-blackout week (blackout
-begins Saturday July 18). Bowman's most recent scored economic outlook
-speech remains her May 29 Reykjavík appearance ("A Framework for Practical
-Monetary Policy Decision Making," Type B-with-embedded-outlook), where she
-described policy as "moderately restrictive" and expressed preference for
-"proactive" cuts. That view has not been publicly updated since the June 17
-FOMC restructure (easing bias removed, SEP turned hawkish). Bowman's
-pre-blackout policy stance remains TBD — any update would be high priority.
+INFLATION
+  Core PCE "steadily moved up" 3.0% (Dec 2025) → 3.4% (May); "we are
+  past the point where we can attribute large price increases to
+  earlier tariff hikes" — he dismantles the June 17 statement's supply-
+  shock attribution (tariff effects "mostly over," energy pass-through
+  "greatly diminished"), leaving an unexplained core uptrend. Breadth:
+  ~70% of core services categories above 3%. New third driver named: AI
+  demand (chips/servers/memory feeding retail goods prices). One dovish
+  update: expectations concern RETIRED — 2y/5y TIPS at 2.1%/2.3%,
+  "down a bit in recent weeks," "anchored near our 2 percent target" —
+  but he blocks the dovish inference: anchored expectations mean hikes
+  can be deliberate and less persistent, not unnecessary ("Sternly
+  staring at inflation until it melts before our withering gaze is not
+  an option").
+  Direction: hawkish lean
+
+MONETARY POLICY
+  Explicit, named scenario framing with a dated trigger (June CPI/PPI
+  this week):
+  HOLD branch — needs "several months of lower readings" on core to
+    hold at current range.
+  TIGHTEN branch — "If we get another hot reading on core inflation
+    this week, then the FOMC will need to consider tightening monetary
+    policy in the near term."
+  Escalation arc: Apr 17 hold-only → May 22 "can no longer rule out
+  rate hikes further down the road" → Jul 13 committee-level "near
+  term" tightening consideration. With the July 28–29 meeting 15 days
+  away, a July hike consideration is formally on the table. New
+  two-sided guardrails (verified new vs. May 22): "determined to avoid
+  overtightening policy and risking a recession"; "avoid... fighting
+  the last war"; labor not tight (V/U ~1) and anchored expectations
+  argue for deliberate, less persistent tightening — calibration of HOW
+  a hike would proceed, not whether. Cut signal: ABSENT (second
+  consecutive outlook speech).
+  Direction: hawkish
+
+NET SIGNAL: HAWKISH lean — hike moved from tail risk (May 22) to live
+  near-term consideration with a named data trigger; real economy
+  cleared out of the decision; core inflation the sole variable.
+
+vs. PRIOR SPEECH (Jul 6, Type B):        n/a for policy content — but its
+  forward-guidance skepticism (no "weighted average base case" in
+  divergent scenarios) prefigures the crossroads two-branch framing here.
+vs. PRE-FOMC SPEECH (May 22):            HAWKISH — "further down the road"
+  → "near term"; personal ("I can no longer rule out") → committee ("the
+  FOMC will need to consider"); expectations worry retired but its
+  dovish implication explicitly rebutted; new overtightening guardrails
+  bound the size, not the likelihood, of tightening.
+vs. COMMITTEE SINCE FOMC:                Most explicit near-term hike
+  conditionality of any official post-June-17. Outflanks the statement's
+  supply-shock framing on core. Sits hawk-side of Warsh (Sintra Jul 1)
+  and Daly (Jul 2), who discounted the June NFP but attached no
+  near-term tightening conditionality. Pre-blackout reads still to come:
+  Warsh testimony (Jul 14–15), Logan (Jul 16).
+
+LANGUAGE TO WATCH:
+  • "the FOMC will need to consider tightening monetary policy in the
+    near term" — first voter to put tightening on the near-term table
+    with a dated trigger. Stage: DISPERSED. If Warsh (testimony) or
+    Logan (Jul 16) echo post-CPI, a July 28–29 hike becomes a live
+    scenario.
+  • "at a crossroads" — binary-fork/turning-point framing; watch for
+    pre-blackout spread.
+  • "avoid overtightening... and risking a recession" / "fighting the
+    last war" — hawks' symmetric-caution formula; spread would signal a
+    deliberate-pace hike consensus, not a 2022-style campaign.
+  • Anchored expectations ≠ no response ("any serious policy rule calls
+    for raising the policy rate") — rebuttal aimed at the dovish
+    anchored-expectations argument; watch for counter-echo (Bowman,
+    Goolsbee).
+  • AI-demand inflation channel — first voter articulation; check the
+    July 15 Beige Book prices section for corroboration.
+
+ANALYST FLAG: YES —
+  (1) Waller pre-committed a decision rule one day before CPI: "hot"
+      core reading this week → near-term tightening consideration. The
+      June CPI printed July 14; assess his threshold against the print
+      immediately — his reaction defines the hawk baseline into blackout.
+  (2) "Near term" is unresolved between July 28–29 and September; Warsh
+      and Logan appearances are the remaining pre-blackout evidence.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  MICHELLE W. BOWMAN  |  Vice Chair for Supervision  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOT SCORED — Type B, FSB regulatory modernization; reviewed in full, no
+embedded economic outlook and no current-conditions assessment. Coverage:
+FSB SRC modernization framework (she chairs the SRC) — four guiding
+principles (material risk focus, proportionality, transparency,
+forward-looking innovation support); 2026 Basel III capital proposal
+with G-SIB surcharge recalibration indexed to nominal growth; newly
+published Supervisory Operating Principles; FSB AI sound-practices
+consultation (comment through July 22). Zero signal for July 28–29.
+
+Context: Bowman's last scored economic outlook remains May 29 (Reykjavík
+— "moderately restrictive," preference for "proactive" cuts). That view
+predates the June 17 restructure (easing bias removed, hawkish SEP) and
+has not been publicly updated. Her pre-blackout policy stance remains
+TBD — any update would be high priority, particularly now that Waller
+has put near-term tightening on the table; she is the most explicitly
+dovish voter on record.
+
+CROSS-SPEAKER NOTE
+  Both July 13 speakers are Board-side Just Voters, but only Waller
+  carried policy signal. The gap to watch is Waller (near-term hike
+  consideration) vs. Bowman's stale May 29 dovish baseline — the widest
+  intra-Board spread on record this cycle, unresolved going into
+  blackout unless Bowman speaks by Friday.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — TOMORROW: Wednesday July 15, 2026
@@ -57,7 +168,9 @@ potential Williams appearance running concurrently.
   upstream energy and goods price pressure in the wake of the Iran/Hormuz
   shock and tariff pass-through chain. Watch whether PPI corroborates or
   diverges from the CPI print. Note: PPI will already be in senators'
-  hands when Warsh takes his seat at 10:00 a.m.
+  hands when Warsh takes his seat at 10:00 a.m. ADDED SIGNIFICANCE:
+  CPI + PPI together are the named trigger in Waller's July 13 decision
+  rule ("another hot reading on core inflation this week").
 
 10:00 a.m. ET — Kevin Warsh  |  Chair  |  Troika
   Testimony, Senate Banking, Housing and Urban Affairs Committee
@@ -69,7 +182,8 @@ potential Williams appearance running concurrently.
   Tuesday's House testimony and CPI release (not yet reported as of this
   run), senators will likely press on: (1) whether Warsh's reading of the
   June CPI shifts his rate path view; (2) explicit July 28–29 hike vs.
-  hold framing — market pricing ~30% July hike pre-testimony; (3) the
+  hold framing — market pricing ~30% July hike pre-testimony, and Waller
+  has now put near-term tightening consideration on the record; (3) the
   SEP reform and Warsh's withheld dot; (4) the April 29 dissent structure
   (three hawkish regionals: Hammack, Kashkari, Logan); (5) Fed independence
   and the Lisa Cook Supreme Court ruling. Score immediately upon transcript
@@ -82,9 +196,11 @@ potential Williams appearance running concurrently.
   Markets, Prices — word-for-word against the June 3, 2026 Beige Book.
   Key question: do district labor anecdotes reflect the weak June NFP
   print (+57K, released July 2) or corroborate the MPR's "stabilized
-  labor / stepped-up inflation" framework? Qualifier shifts (modest /
-  moderate / elevated / easing) are direct deliberation inputs for
-  July 28–29. Score same day; include in the July 15 daily.
+  labor / stepped-up inflation" framework? Also check the Prices section
+  for the AI-demand channel Waller named July 13 (chips/servers/memory
+  → retail goods). Qualifier shifts (modest / moderate / elevated /
+  easing) are direct deliberation inputs for July 28–29. Score same
+  day; include in the July 15 daily.
 
 John C. Williams  |  NY Fed President  |  Troika  (unconfirmed)
   Multiple calendar sources flag a Williams speech on July 15; specific
@@ -105,7 +221,8 @@ Additional officials (unconfirmed):
 Note on this week's coverage context:
   TUESDAY July 14 (covered in tomorrow's daily, 7/15 run):
     8:30am ET: June CPI — first major inflation print since May;
-      watch for energy passthrough from the Iran/Hormuz shock.
+      watch for energy passthrough from the Iran/Hormuz shock. Now also
+      the explicit trigger in Waller's July 13 decision rule.
     10:00am ET: Warsh House Financial Services testimony (Type F, Day 1) —
       score on release; will incorporate live June CPI reaction.
     ~12pm CT: Goolsbee (Non Voter) fireside, Kenosha Area Business Alliance
@@ -119,7 +236,8 @@ Note on this week's coverage context:
   THURSDAY July 16:
     11:30am CDT: Logan (Just Voter, hawkish dissenter) — Houston Branch
       moderated conversation; confirmed. First post-June-17 appearance
-      from a hawkish-dissenting voter. High signal.
+      from a hawkish-dissenting voter. High signal — first test of
+      whether Waller's near-term tightening language spreads.
   FRIDAY July 17: Nothing confirmed. Last full pre-blackout day.
   SATURDAY July 18: Blackout begins through July 30.
     → Saturday's daily run (covering Friday July 17) will include the
@@ -129,8 +247,18 @@ Note on this week's coverage context:
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches this date:
+  Waller, July 13:
+    https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm
   Bowman, July 13:
     https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm
+
+Prior speech (vs. PRIOR SPEECH):
+  Waller, July 6 (Type B, not scored):
+    https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Waller, May 22:
+    https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm
 
 Upcoming confirmed sources:
   Warsh Senate Banking testimony (July 15):
