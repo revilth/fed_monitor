@@ -1,0 +1,81 @@
+SOURCE: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+NOTE: Full official transcript NOT available in raw data. The scraper ran at 5:30am ET;
+testimony was delivered beginning 10:00am ET and posted to federalreserve.gov later that
+morning. federalreserve.gov is blocked by the session's egress proxy policy. Content
+reconstructed from media extracts (CNN, CNBC, Bloomberg, Spectrum News, U.S. News, QZ,
+Axios — all July 14, 2026). ACTION REQUIRED: retrieve full transcript from
+federalreserve.gov/newsevents/testimony/warsh20260714a.htm and re-score with complete text.
+
+July 14, 2026
+Testimony on the Semiannual Monetary Policy Report to the Congress
+Chair Kevin Warsh
+Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+
+[This is Warsh's first Humphrey-Hawkins testimony as Chair. Senate testimony (Day 2)
+follows July 15, 2026. The hearing coincided with the 8:30am ET release of June CPI:
+headline 3.5% YoY (down from 4.2%), core flat MoM / 2.6% YoY — well below the
+consensus of 3.8% headline / +0.2% MoM core.]
+
+════════════════════════════════════════════
+PREPARED REMARKS — EXTRACTS FROM MEDIA COVERAGE
+════════════════════════════════════════════
+
+Inflation commitment:
+"The members of our Committee have no tolerance for persistently elevated inflation.
+And we share a resolute commitment to restoring price stability."
+
+"If we get policy right — and we will — the inflation surge of the last five years
+will be a thing of the past."
+
+"While monthly price fluctuations are inevitable – especially in an unsettled world –
+underlying inflation over longer time horizons is determined largely by monetary policy."
+
+AI / growth:
+"[AI investment is] the most striking feature of the economy right now."
+(Warsh said the Fed is "monitoring the implications" for inflation and jobs.)
+
+Labor:
+Assessed labor market as "broadly stable."
+
+Economy:
+Economy "expanding and has proven to be resilient to a variety of headwinds."
+
+Policy framework changes:
+Task forces (announced June 17, 2026): communications; balance sheet policy; economic
+data; productivity and jobs; inflation frameworks.
+"Regime change" language: Warsh described the Fed's approach as a "regime change"
+to rid inflation as a "tax" on Americans.
+
+════════════════════════════════════════════
+KEY Q&A EXCHANGES — from media coverage
+════════════════════════════════════════════
+
+On June CPI (released same morning, headline 3.5% / core flat MoM):
+"There might be some that look at this morning's data and say, 'mission accomplished.'
+That is not my view."
+[Additional context: Warsh noted the figures represented just one month of data and
+said he does not see inflation as defeated.]
+
+On July FOMC rate path:
+No signal given. Declined to indicate whether rate increases would be necessary.
+Consistent with stated no-forward-guidance policy ("not well suited to the current
+policy conjuncture," June 17).
+
+On Fed independence:
+"We're an independent central bank."
+"My commitment to you is to follow the law and follow the data. Follow our very best
+judgment."
+[Context: Rep. Nydia Velázquez asked whether he "works for Trump."]
+
+════════════════════════════════════════════
+MEDIA SOURCES
+════════════════════════════════════════════
+CNN, "Takeaways from Fed Chairman Kevin Warsh's first congressional testimony," July 14 2026
+CNN live blog, "Latest improvement on inflation isn't 'mission accomplished,' Warsh says"
+CNBC, "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people"
+Spectrum News, "Warsh tells Congress the Fed has 'no tolerance' for high inflation"
+U.S. News & World Report, "Fed Chairman Warsh Vows to Solve Inflation," July 14 2026
+Axios, "Fed's Warsh stays mum on rate plans, pledges price stability," July 14 2026
+Bloomberg live blog, "Live: Fed's Warsh Testifies Before House Panel," July 14 2026
+QZ, "Fed chair Kevin Warsh promises to defeat five years of elevated inflation," July 14 2026
+InvestingLive FX wrap, "CPI lower. Warsh remains cautious," July 14 2026

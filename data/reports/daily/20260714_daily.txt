@@ -1,0 +1,314 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 14, 2026 (Tuesday)
+Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.50–3.75%
+Next FOMC: July 28–29, 2026 (non-projection; blackout begins Saturday July 18)
+════════════════════════════════════════════════════════════════
+MACRO CONTEXT — June CPI (8:30am ET)
+  Headline CPI: -0.4% MoM (SA); +3.5% YoY (down from 4.2% in May).
+  Core CPI: flat (0.0%) MoM; +2.6% YoY.
+  Energy: -5.7% MoM (prior months: +3.9% May, +3.8% Apr, +10.9% Mar).
+  Dovish surprise vs. consensus (+3.8% headline / +0.2% core MoM).
+  KEY: Under Waller's July 13 decision rule ("if we get another hot reading on core
+  inflation this week, then the FOMC will need to consider tightening monetary policy
+  in the near term"), a flat core print is NOT a hot reading. The hold branch of
+  Waller's own framework is activated, not the tighten branch.
+  Market reaction: July hike probability fell to ~15%; September ~65%. Treasury
+  yields sharply lower; equities positive.
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Kevin Warsh  |  Chair  |  Troika
+     "Semiannual Monetary Policy Report to the Congress (Day 1)"
+     Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+     Type F — Congressional Testimony. SCORED (partial — from media extracts; see note).
+     NOTE: Raw transcript not in data/raw/ (posted ~10am ET; scraper ran 5:30am ET;
+     federalreserve.gov blocked by session proxy). Reconstructed from CNN, CNBC,
+     Bloomberg, Spectrum News, U.S. News, Axios (all July 14, 2026). Full official
+     transcript recovery required from federalreserve.gov/newsevents/testimony/
+     warsh20260714a.htm and re-scoring recommended.
+
+  2. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Fireside Chat"
+     Kenosha Area Business Alliance Business Lunch, Kenosha, WI
+     STATUS: NOT SCORED — raw file is an event stub (no transcript); Chicago Fed
+     page stub-only; YouTube recovery required (chicago Fed channel). Partial media
+     account below. ACTION: Retrieve transcript from Chicago Fed YouTube channel.
+
+  3. Michael S. Barr  |  Governor  |  Just Voter
+     "Artificial Intelligence and Financial Inclusion"
+     Next-Gen Financial Inclusion Conference, Federal Reserve Board, Washington, D.C.
+     STATUS: NOT SCORED — Type B (AI and financial inclusion); no economic outlook
+     or monetary policy rate-path content.
+
+  4. Lisa D. Cook  |  Governor  |  Just Voter
+     Panel moderation on emerging innovation, AI, and financial inclusion
+     Next-Gen Financial Inclusion Conference, Federal Reserve Board, Washington, D.C.
+     STATUS: NOT SCORED — Type B (panel moderation, financial inclusion topic);
+     no economic outlook content.
+
+  5. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "Responsible Innovation and Financial Inclusion"
+     Next-Gen Financial Inclusion Conference, Federal Reserve Board, Washington, D.C.
+     STATUS: NOT SCORED — Type B (financial inclusion / responsible innovation);
+     no economic outlook or monetary policy stance content.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  KEVIN WARSH  |  Chair  |  Troika
+    "Semiannual Monetary Policy Report to the Congress (Day 1)"
+    House Financial Services Committee
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Type F (Congressional Testimony) — Humphrey-Hawkins Day 1, House. First HH testimony
+as Chair. Coincided with the June CPI release (8:30am ET: headline 3.5% / core flat
+MoM). Scored from media extracts; re-score recommended against full official transcript.
+
+GROWTH
+  Economy "expanding and has proven to be resilient to a variety of headwinds." AI
+  investment named "the most striking feature of the economy right now" — extending
+  the June 17 "productivity and capital investment are strong" language with an explicit
+  AI anchor. Fed "monitoring the implications" for inflation and jobs. No growth-based
+  rationale for rate cuts.
+  Direction: neutral
+
+LABOR MARKET
+  "Broadly stable" — Warsh's compact shorthand, consistent with June 17 ("job gains
+  have kept pace with the workforce") and Sintra Jul 1 ("labor markets are steady").
+  The weak June NFP (+57K, released July 2) is now processed; Warsh's assessment did
+  NOT update downward, consistent with his Sintra commitment to "follow trends, not
+  recent events."
+  Direction: neutral
+
+INFLATION
+  Prepared remarks: "The members of our Committee have no tolerance for persistently
+  elevated inflation. And we share a resolute commitment to restoring price stability."
+  "The inflation surge of the last five years will be a thing of the past."
+  "While monthly price fluctuations are inevitable – especially in an unsettled world –
+  underlying inflation over longer time horizons is determined largely by monetary policy."
+  Q&A on June CPI: "There might be some that look at this morning's data and say,
+  'mission accomplished.' That is not my view."
+  "Regime change" framing (via CNBC): describes the Fed's new approach as a "regime
+  change" ridding inflation as a "tax" on Americans.
+  KEY: The Sintra (Jul 1) "inflation risks have come down" tactical softening does NOT
+  appear in today's testimony — Warsh returns to the full June 17 hawkish-vigilance
+  framing without acknowledging the benign CPI as a structural turning point.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  No rate signal — declined to indicate whether July 28–29 would produce a rate change.
+  Consistent with no-forward-guidance policy. Did NOT echo Waller's July 13 "near-term
+  tightening consideration" language; did NOT endorse or reject it — deliberate silence
+  preserving committee optionality.
+  Independence: "We're an independent central bank. My commitment to you is to follow
+  the law and follow the data. Follow our very best judgment." (Third public independence
+  declaration in Warsh's tenure, in response to a congressman asking whether he "works
+  for Trump.")
+  Task forces: reiterated (communications; balance sheet; economic data; productivity/
+  jobs; inflation frameworks).
+  Cut signal: ABSENT. Hike signal: ABSENT by design.
+  Direction: neutral (by deliberate design)
+
+NET SIGNAL: NEUTRAL by design, HAWKISH by framing.
+  The operative signal is "not mission accomplished" — an explicit, real-time refusal
+  to let the benign CPI print shift the committee's narrative. The structural framing
+  ("underlying inflation... determined by monetary policy") frames the CPI as noise,
+  not signal. Warsh is in the multi-period trend-discipline he committed to at Sintra.
+  Notably: he did NOT amplify Waller's near-term tightening conditionality, leaving
+  July 28–29 optionality fully open.
+
+vs. PRIOR SPEECH (Jul 1, Sintra):        HAWKISH LEAN — Sintra's "inflation risks
+  have come down" tactical softening is absent; full June 17 hawkish vigilance
+  restored. "Not mission accomplished" directly forecloses the dovish CPI reading.
+vs. PRIOR PRESS CONFERENCE (Jun 17):     UNCHANGED substantively — same themes,
+  same framing, same no-signal posture. New element: "not mission accomplished"
+  addresses the July 14 CPI context directly.
+vs. COMMITTEE SINCE FOMC:               Warsh maintains the orchestrator role:
+  "no tolerance" + "regime change" anchors the committee's public stance, while
+  Waller (Jul 13) has set the explicit hike-conditionality on the hawk side and
+  Goolsbee (below) reacts cautiously to the benign CPI on the less-hawkish side.
+  Warsh's refusal to signal holds the center while preserving the right tail.
+
+LANGUAGE TO WATCH:
+  • "Not mission accomplished" — first use in this context; high spread probability.
+    Watch for Logan (Jul 16) and Senate testimony (Jul 15) echoes. Stage: DISPERSED.
+  • "No tolerance for persistently elevated inflation" + "resolute commitment" —
+    committee-level language (prepared remarks = MPR consensus). Stage: COMMITTEE-WIDE.
+  • "Regime change" — populist framing for congressional audience; watch whether it
+    migrates into technical policy speeches or stays audience-specific.
+  • Absence of "inflation risks have come down" (from Sintra) — tacit retraction.
+
+ANALYST FLAG: YES
+  → (1) CRITICAL DATA TRIGGER: June core CPI flat MoM is not a "hot reading" under
+    Waller's July 13 rule — his stated framework should push toward hold. But Warsh's
+    "not mission accomplished" reframes the print as insufficient progress, not as
+    evidence for hold. Does Waller publicly update his conditionality, or do both
+    officials hold their framing — Warsh's "multi-period trend" and Waller's "named
+    data trigger now resolved dovishly" — in separate, compatible coexistence?
+  → (2) Full official transcript recovery required for re-scoring.
+  → (3) Senate testimony (Jul 15) Q&A — typically more probing; watch for whether
+    Warsh updates the Sintra "inflation risks have come down" line or explicitly
+    buries it.
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  AUSTAN GOOLSBEE  |  Chicago Fed President  |  Non Voter
+    Fireside Chat, Kenosha Area Business Alliance Business Lunch
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOT SCORED — raw file is an event stub (no transcript). Chicago Fed page shows
+only: "will participate in a fireside chat... livestream from this webpage."
+No yt-dlp/YouTube access in this environment. YouTube recovery required
+(Chicago Fed channel; event moderated by Alliance President Nicole Ryf).
+
+PARTIAL MEDIA ACCOUNT (from Reuters, FXStreet, Yahoo Finance/Reuters, July 14, 2026):
+
+Goolsbee spoke during the event and commented on the morning's June CPI release.
+Key quotes from media reporting:
+  • June CPI "surprisingly benign"
+  • "I'm heartened by this CPI (data) today, but we need a lot more than one month
+    to think that it is going well."
+  • Services inflation "way too high" — but most recent reading "encouraging"
+  • PCE threshold: "if the PCE versions of inflation matched the CPI readings for
+    several months, his outlook would improve"
+  • Labor market: "stable without being strong"
+  • General caution: "policymakers should never overreact to one month of inflation
+    data; several consecutive months of similar readings needed"
+
+INTERPRETATION (based on partial media account — not a full scored file):
+Goolsbee's reaction to the benign CPI is classically hedged — he labels it positive
+("surprisingly benign," "heartened") but immediately conditions any inference on
+multi-month persistence. His "several consecutive months" threshold for improving
+his outlook is the Non Voter equivalent of Waller's "several months of lower readings"
+for the hold branch — both officials are data-conditional, and the flat June core
+satisfies neither official's bar for a decisive verdict. His "services inflation way
+too high" caveat is important: core services remains the stubborn component, and
+Goolsbee is not prepared to declare it conquered from one print. Labor as "stable
+without being strong" aligns with Waller's "neither a source of concern nor a source
+of inflationary pressure."
+
+NOTE: June 25 fireside chat (Chicago Council on Global Affairs, scored) is the most
+recent Goolsbee Type A available. Today's account is too partial for a directional
+shift assessment — full transcript recovery is required.
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3–5.  BARR, COOK, BOWMAN  |  Just Voters  |  Financial Inclusion Conference
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOT SCORED. Three Board-side Just Voters appeared at the Fed's third annual
+"Next-Gen Financial Inclusion" conference (Washington, D.C.). Topics:
+  • Barr: AI and financial inclusion (speech)
+  • Cook: moderated a panel on emerging innovation, AI, and financial inclusion
+  • Bowman: responsible innovation and financial inclusion (speech)
+All three: pure Type B (financial inclusion and AI governance); no economic outlook,
+no current-conditions assessment, no monetary policy rate-path content in any of the
+three appearances. Zero signal for July 28–29.
+
+NOTE: Barr's last scored economic outlook speech predates the June 17 restructure;
+Cook's last scored Type A is May 27 (SIEPR/Stanford — post-April 29 baseline);
+Bowman's last scored economic outlook is May 29 (Reykjavík — "moderately restrictive,"
+"proactive" cuts — NOW SIGNIFICANTLY STALE, predates the June 17 easing-bias removal).
+Bowman has NOT publicly updated her stance post-June 17. This conference did not
+provide an update. Her policy view remains the widest intra-Board gap on record
+versus Waller's hike conditionality.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE
+────────────────────────────────────────────────────────────────
+The benign June CPI produced three distinct non-responses from the three July 14
+officials who addressed it:
+  • Warsh: "Not mission accomplished" — rejects the dovish narrative; stays on the
+    multi-period trend framing. Chair's refusal to declare progress is itself a
+    hawkish signal.
+  • Goolsbee: "Surprisingly benign" but "need a lot more than one month" — embraces
+    the print but conditions any inference on multi-month persistence. The most
+    positive framing of any official on the day, but with the same data-conditional
+    caution.
+  • Waller (July 13, the day before): Pre-committed a decision rule with a named
+    data trigger. Flat core = his HOLD branch. Under his own rule, July 28–29
+    tightening is now off the table unless June PPI (July 15) is hot. But he has
+    not yet publicly updated the conditionality post-CPI.
+
+The distribution reveals: the committee is NOT moving toward a hike in response to
+the benign print, but Warsh's "not mission accomplished" prevents the print from
+triggering a dovish pivot either. The July 28–29 meeting is shaping up as a hold.
+The debate is whether the September meeting re-opens the hike scenario.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday July 16, 2026
+────────────────────────────────────────────────────────────────
+  Lorie Logan  |  Dallas Fed President  |  Just Voter  (hawkish dissenter, Apr 29)
+  "A Conversation with Dallas Fed President Lorie Logan"
+  Houston Branch, Federal Reserve Bank of Dallas, 1801 Allen Parkway, Houston, TX
+  11:30am–1:00pm CDT
+  SOURCE: https://www.dallasfed.org/events/2026/26loganhou
+  TYPE: Moderated conversation — likely includes economic outlook (Type A or
+  Type B with embedded outlook). CONFIRMED.
+
+  CONTEXT: Logan is the highest-priority remaining pre-blackout speaker.
+  She is a Just Voter and one of three hawkish dissenters at April 29 (alongside
+  Hammack and Kashkari). Calibration note: Feb 10 last scored Type A — "policy
+  may be very close to neutral," a framing that was already hawkish before the
+  June 17 restructure. Her FIRST post-June-17 public appearance. The central
+  analytical question: does she echo Waller's "near-term tightening consideration"
+  (confirming the hawk side has multiple voices), note the flat June core as reducing
+  hike urgency, or offer an independent hawkish framing more extreme than Waller?
+  Score on release or recover via YouTube if Dallas Fed site stub-only.
+  This is the single highest-signal event of the pre-blackout window remaining.
+
+────────────────────────────────────────────────────────────────
+NOTE ON TODAY (July 15, Wednesday — covered in tomorrow's daily):
+  8:30am ET: June PPI (BLS release) — the second half of Waller's named data trigger.
+    Under his decision rule, a hot PPI following a flat core CPI could reopen the
+    near-term tightening consideration. Watch the core PPI figure.
+  10:00am ET: Warsh Senate Banking Committee testimony (Day 2, Type F).
+    Senate Q&A is typically more probing than the House. Senators will press on: (a)
+    whether Warsh updates the July 14 "not mission accomplished" framing post-PPI;
+    (b) near-term July vs. September hike debate given the benign CPI; (c) any
+    update on task force membership/timeline; (d) Fed independence questions. Score
+    immediately upon transcript release.
+  ~2:00pm ET: Beige Book (Type H) — released approximately 2 weeks before July 28–29.
+    Compare national-summary sections word-for-word vs. the June 3, 2026 Beige Book.
+    Key question: does the Prices section note the energy-price reversal (CPI energy
+    -5.7% in June) and does the Labor section confirm or contradict the weak June NFP?
+    Watch for the Waller-named "AI demand" inflation channel (chips/servers/memory
+    → retail goods) in the Prices section.
+
+NOTE ON BLACKOUT: Blackout for July 28–29 FOMC begins Saturday July 18.
+  After Logan (Thursday Jul 16), Friday July 17 is the final business day before
+  the blackout silence. The Saturday July 18 daily run (covering Friday July 17) will
+  include the mandatory FOMC Cycle Summary per scheduling instructions.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Warsh, July 14 (House testimony):
+    https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+    [Proxy-blocked; media extracts used — full retrieval pending]
+  Goolsbee, July 14 (Kenosha — partial media account):
+    Chicago Fed event page: https://www.chicagofed.org/publications/speeches/2026/jul-14-kenosha-business-alliance
+    Media: FXStreet July 14 2026 / Reuters / Yahoo Finance July 14 2026
+  Barr, July 14 (Financial Inclusion Conference):
+    https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm [not retrieved]
+  Cook, July 14 (Financial Inclusion Conference panel):
+    Not individually sourced — Fed event page: https://www.federalreserve.gov/conferences/next-gen-financial-inclusion.htm
+  Bowman, July 14 (Financial Inclusion Conference):
+    https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm [not retrieved]
+
+Macro data:
+  June 2026 CPI (BLS, released July 14 2026):
+    https://www.bls.gov/news.release/cpi.nr0.htm
+
+Prior speech comparisons:
+  Warsh, July 1, 2026 (Sintra):
+    https://www.youtube.com/watch?v=Ohg5Sav1kpw
+  Warsh, June 17, 2026 (press conference):
+    data/reports/fomc/20260617_pressconf_provisional.txt
+  Goolsbee, June 25, 2026 (last scored Type A):
+    https://www.youtube.com/watch?v=FQ9osXWVuco
+
+Upcoming confirmed source:
+  Logan, July 16 (Houston Branch conversation):
+    https://www.dallasfed.org/events/2026/26loganhou
+════════════════════════════════════════════════════════════════

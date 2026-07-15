@@ -1,0 +1,194 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+July 14, 2026 | Kevin Warsh | Chair | Troika
+"Semiannual Monetary Policy Report to the Congress"
+Committee on Financial Services, U.S. House of Representatives, Washington, D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+
+CLASSIFICATION: Type F — Congressional Testimony (Humphrey-Hawkins, Day 1 of 2).
+  This is Warsh's first semiannual testimony as Chair. Day 2 (Senate Banking
+  Committee) follows July 15. Scored from media extracts — full transcript not
+  available due to scraper/proxy timing issue; see raw file for details.
+  ACTION REQUIRED: Re-score against official full transcript.
+
+NOTE ON CONTEXT: This testimony coincided with the 8:30am ET release of June CPI:
+  headline 3.5% YoY (down from 4.2% in May), core PCE-proxy flat on the month,
+  12-month core 2.6% YoY. A significant dovish surprise relative to consensus
+  (3.8% headline, +0.2% core MoM). The June CPI result directly engages Waller's
+  July 13 decision rule ("hot reading → near-term tightening consideration"). A flat
+  core is NOT a hot reading under Waller's stated threshold — hold branch activated.
+
+REFERENCE FOMC:    June 17, 2026  (HOLD 3.50–3.75%; unanimous; easing bias / forward
+                   guidance removed; "will deliver price stability"; hawkish SEP)
+PRE-FOMC BASELINE: N/A — Warsh had no speech as Chair before the June 17 FOMC.
+POST-FOMC PRIOR:   July 1, 2026  "ECB Forum on Central Banking — Policy Panel" (Sintra)
+                   (scored; full Type B with embedded outlook)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 opening: "Productivity growth and capital investment are strong."
+  → Testimony: "the most striking feature of the economy right now" is AI investment;
+    monitoring implications for inflation and jobs. Economy "expanding and has proven
+    to be resilient to a variety of headwinds." Consistent with the June 17 framing.
+
+Own language:
+  "The most striking feature of the economy right now" — AI investment.
+  → Elaborates on the June 17 / Sintra "AI boom in capex" framing with a directional
+    emphasis; AI is now explicitly named as THE defining economic feature, not one
+    of several.
+  Economy "expanding... resilient to a variety of headwinds" — reaffirms the solid
+  growth baseline; no growth-based rationale for cuts.
+
+Shift vs. prior speech (Jul 1, Sintra):   UNCHANGED/slightly firmer — Sintra
+  quantified "structural productivity in the high 2% range"; testimony elevates
+  AI investment to headline status as the defining growth dynamic. Consistent.
+Shift vs. pre-FOMC:  N/A (no pre-FOMC baseline for Warsh as Chair).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17: "Job gains have kept pace with the workforce, and the unemployment rate
+  has changed little."
+  → Testimony: "broadly stable." Warsh's personal shorthand continues to be more
+    compact than the full statement formulation; consistent with his Sintra "labor
+    markets are steady" paraphrase.
+
+Own qualifier:
+  "Broadly stable" — unchanged from the Sintra formulation. The weak June NFP (+57K,
+  released July 2) has now been processed; Warsh's labor characterization did NOT
+  update downward in response, consistent with his Sintra pre-NFP commitment to
+  "follow trends, not recent events."
+
+Shift vs. prior speech (Jul 1, Sintra):   UNCHANGED — "steady" (Sintra) → "broadly
+  stable" (testimony). No capitulation to the weak June payrolls print.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 stmt: "The Committee will deliver price stability."
+  June 17 stmt: "Inflation has been running somewhat above the Committee's 2 percent
+  longer-run goal."
+  → Testimony: "no tolerance for persistently elevated inflation"; "resolute commitment
+    to restoring price stability"; "inflation surge of the last five years will be a
+    thing of the past." All reinforce the June 17 stance with emphatic committee-level
+    language in the prepared remarks.
+
+Own language — KEY:
+  "There might be some that look at this morning's data and say, 'mission accomplished.'
+  That is not my view." — Warsh's direct response to the benign June CPI print, given
+  in Q&A. Explicitly rejects the reading that one good month signals victory.
+
+  "While monthly price fluctuations are inevitable – especially in an unsettled world –
+  underlying inflation over longer time horizons is determined largely by monetary policy."
+  — Structural framing that subordinates any single month's reading to the multi-period
+  trend. The "unsettled world" clause acknowledges supply-shock volatility without
+  using it as an excuse to declare mission accomplished.
+
+  "The inflation surge of the last five years will be a thing of the past." — future-
+  tense commitment rather than a present-tense observation. Signals Warsh views
+  the fight as ongoing, not won.
+
+  "Regime change" — (via CNBC coverage): Warsh described the Fed's new framework as
+  a "regime change" to rid inflation as a "tax" on Americans. More populist/political
+  framing than the technical June 17 language; calibrated for a congressional audience.
+
+Comparison with Sintra (Jul 1) — NOTE:
+  At Sintra, Warsh acknowledged "inflation risks have come down" and "expectations...
+  have come down" — a tactical near-term softening. The testimony shows NO echo of
+  that softening language; instead Warsh returns to full hawkish vigilance in the
+  prepared remarks. The "not mission accomplished" Q&A response directly contradicts
+  the dovish reading of the CPI print. Net interpretation: the Sintra softening was
+  tactical (oil-price retreat framing) and has NOT consolidated into a more dovish
+  structural posture. The testimony re-establishes the June 17 hawkish anchor.
+
+Shift vs. prior speech (Jul 1, Sintra):   HAWKISH LEAN — returns to full hawkish
+  vigilance; Sintra's "inflation risks have come down" tactical softening not echoed.
+  "Not mission accomplished" directly addresses and rejects the dovish CPI narrative.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  No forward guidance in June 17 stmt (removed).
+  → Testimony: no forward guidance, consistent. No rate path signaled.
+
+Own language:
+  No rate signal — declined to indicate whether July 28–29 meeting would produce
+  a rate change. Consistent with Warsh's stated no-forward-guidance policy.
+
+  Independence: "We're an independent central bank. My commitment to you is to follow
+  the law and follow the data. Follow our very best judgment." — when asked if he "works
+  for Trump." This is now the third explicit public independence declaration: (1) Sintra
+  spontaneous; (2) Sintra in response to the Lisa Cook Supreme Court ruling question;
+  (3) testimony response to a direct congressional challenge.
+
+  Task forces: Reiterated (communications; balance sheet; economic data; productivity/
+  jobs; inflation frameworks). Membership expected to be named week of July 6 per
+  Sintra — no update in available media coverage on whether this occurred.
+
+Cut signal status: ABSENT (consistent across all post-June-17 Warsh appearances).
+Hike conditionality: ABSENT — Warsh did NOT echo Waller's July 13 "FOMC will need
+  to consider tightening in the near term" language. He neither endorsed nor
+  rejected it. Deliberate silence consistent with his role as orchestrator of
+  committee consensus, not advocate for a specific data-contingent outcome.
+
+Shift vs. prior speech (Jul 1, Sintra):   UNCHANGED — consistent no-signal posture.
+  Independence language now in its third congressional/public formulation.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL by design, HAWKISH by framing.
+
+  Warsh delivered exactly what his stated policy dictates: no rate path signal.
+  His prepared remarks maintained the June 17 hawkish anchor — "no tolerance,"
+  "resolute commitment," "regime change" — without adding any conditionality.
+  The critical unscripted moment was his "not mission accomplished" response to
+  the benign June CPI print: it is a direct, real-time refusal to let one good
+  month shift the committee's narrative. The structural vs. single-print framing
+  ("underlying inflation... is determined by monetary policy") is the key message
+  for portfolio managers: Warsh is explicitly in the multi-period, trend-over-
+  print discipline he committed to at Sintra.
+
+  Notably absent: any echo of Waller's July 13 "near-term tightening consideration"
+  language. Warsh's silence is not a retraction of Waller — it is the Chair
+  maintaining optionality while a more hawkish voter has set the upside boundary.
+  The July 28–29 decision space remains: (a) hold if core readings continue to cool,
+  (b) hike if inflation re-accelerates — Warsh has not narrowed that space.
+
+Language watch:
+  • "Not mission accomplished" — first use; strong candidate to spread as the
+    committee's standardized response to the benign CPI print. Watch for Logan
+    (Jul 16) and Senate testimony (Jul 15) echoes. Stage: DISPERSED.
+  • "No tolerance for persistently elevated inflation" + "resolute commitment" —
+    committee-level language in the prepared remarks; likely reflects the MPR
+    consensus, not just Warsh personally. Stage: COMMITTEE-WIDE (prepared).
+  • "Regime change" — populist framing, calibrated for Congress; less likely to
+    appear in technical speeches but signals the messaging strategy for public
+    communication on inflation.
+  • Absence of "inflation risks have come down" (from Sintra) — watch whether the
+    Sintra softening resurfaces in Senate testimony (Jul 15) or disappears entirely;
+    if gone, it was purely tactical/situational.
+
+Analyst flag:  YES
+  → (1) CRITICAL: The June CPI (core flat MoM, 2.6% YoY) directly triggers
+    Waller's July 13 decision rule — flat core is NOT a "hot reading," so Waller's
+    own stated framework should push toward hold. But Warsh's "not mission
+    accomplished" frames this as insufficient progress, not as evidence for hold.
+    Does Waller update his conditionality in response to the CPI print? Track
+    Waller's next public statement (the blackout eliminates post-Wednesday
+    opportunities other than informal channels).
+  → (2) Task force membership: expected week of July 6 per Sintra; no confirmation
+    in available media for July 14. Check Senate testimony (Jul 15) for any update.
+  → (3) Warsh Senate testimony (Jul 15) will be MORE detailed than House testimony —
+    Senate Banking is traditionally more technically probing. The opening statement
+    will be identical; Q&A is the signal. Score on release.
+══════════════════════════════════════════════════════════
