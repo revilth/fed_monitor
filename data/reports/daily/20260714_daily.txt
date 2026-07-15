@@ -26,9 +26,8 @@ SPEECHES TODAY
   2. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
      "Fireside Chat"
      Kenosha Area Business Alliance Business Lunch, Kenosha, WI
-     STATUS: NOT SCORED — raw file is an event stub (no transcript); Chicago Fed
-     page stub-only; YouTube recovery required (chicago Fed channel). Partial media
-     account below. ACTION: Retrieve transcript from Chicago Fed YouTube channel.
+     Type B (fireside chat) with embedded economic outlook. Scored from the
+     full transcript (Chicago Fed YouTube channel).
 
   3. Michael S. Barr  |  Governor  |  Just Voter
      "Artificial Intelligence and Financial Inclusion"
@@ -178,40 +177,100 @@ ANALYST FLAG: YES
 2.  AUSTAN GOOLSBEE  |  Chicago Fed President  |  Non Voter
     Fireside Chat, Kenosha Area Business Alliance Business Lunch
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-NOT SCORED — raw file is an event stub (no transcript). Chicago Fed page shows
-only: "will participate in a fireside chat... livestream from this webpage."
-No yt-dlp/YouTube access in this environment. YouTube recovery required
-(Chicago Fed channel; event moderated by Alliance President Nicole Ryf).
+Type B (fireside chat — roughly half the event is Fed-explainer and community
+content) with embedded economic outlook, scored per Type A methodology. Moderated
+by KABA President Nicole Ryf. Same-day June CPI reaction. Full scored file:
+data/scored/speeches/20260714_Austan_Goolsbee_scored.txt
 
-PARTIAL MEDIA ACCOUNT (from Reuters, FXStreet, Yahoo Finance/Reuters, July 14, 2026):
+GROWTH
+  No cyclical growth read — long-run optimism boilerplate only (Buffett/Dow-
+  since-1900 story). Housing treated as structural affordability with a supply
+  answer ("you got to build more houses"), not a demand signal. The Jun 25
+  AI-productivity overheating frame was not reprised in this venue; AI appears
+  only as a possible offset to the Midwest demographic drag.
+  Direction: neutral
 
-Goolsbee spoke during the event and commented on the morning's June CPI release.
-Key quotes from media reporting:
-  • June CPI "surprisingly benign"
-  • "I'm heartened by this CPI (data) today, but we need a lot more than one month
-    to think that it is going well."
-  • Services inflation "way too high" — but most recent reading "encouraging"
-  • PCE threshold: "if the PCE versions of inflation matched the CPI readings for
-    several months, his outlook would improve"
-  • Labor market: "stable without being strong"
-  • General caution: "policymakers should never overreact to one month of inflation
-    data; several consecutive months of similar readings needed"
+LABOR MARKET
+  Verdict verbatim for the third consecutive appearance: "remarkably stable
+  without being good. So it's not a super boom, but it's not falling apart."
+  Payrolls have "broken down as the leading indicator of the business cycle"
+  (population/immigration measurement uncertainty); the rates-based measures —
+  "the hiring rate, the layoff rate, the vacancy rate, the unemployment rate...
+  have been largely flat. And I think those are the best indicators." [Inference:
+  this is his look-through of the weak June NFP; he does not cite the print
+  directly.] Same low-hire/low-fire paradox, attributed to uncertainty; "on the
+  job side we're still going to see that" — stability expected to persist.
+  Direction: neutral
 
-INTERPRETATION (based on partial media account — not a full scored file):
-Goolsbee's reaction to the benign CPI is classically hedged — he labels it positive
-("surprisingly benign," "heartened") but immediately conditions any inference on
-multi-month persistence. His "several consecutive months" threshold for improving
-his outlook is the Non Voter equivalent of Waller's "several months of lower readings"
-for the hold branch — both officials are data-conditional, and the flat June core
-satisfies neither official's bar for a decisive verdict. His "services inflation way
-too high" caveat is important: core services remains the stubborn component, and
-Goolsbee is not prepared to declare it conquered from one print. Labor as "stable
-without being strong" aligns with Waller's "neither a source of concern nor a source
-of inflationary pressure."
+INFLATION
+  June CPI "surprisingly benign... a bit cutting the other way from what things
+  have been for the last six months" — but "one month is no months," and, in
+  closing: "I'm heartened by this CPI today, but we need a lot more than one
+  month to think that it's going well." Services persistence remains the named
+  worry ("services inflation has been way too high — historically services
+  inflation is quite persistent... That number has been making me nervous"),
+  with today's services component "very encouraging." The persistence question
+  ("is inflation going to be more persistent than what we wanted it to be...
+  the thing I've been trying to grapple with") remains his stated central
+  concern. Names PPI (Jul 15) and PCE as the next gates.
+  Direction: neutral — framework unchanged; favorable print acknowledged, not banked
 
-NOTE: June 25 fireside chat (Chicago Council on Global Affairs, scored) is the most
-recent Goolsbee Type A available. Today's account is too partial for a directional
-shift assessment — full transcript recovery is required.
+MONETARY POLICY
+  Declined the direct rate-path question: "I have never been a huge fan of
+  forecasting here's what the interest rate is going to do even at the next
+  meeting. I don't like even implicitly tying our hands" — consistent with the
+  guidance-free regime he endorsed Jun 25. KEY own-language: "if we got PCE
+  versions of inflation that look like what the CPI inflation was today and we
+  got that for several months and it was clear we're back on a path toward
+  2%... the sooner we can show that we're headed back to 2%, I think the sooner
+  we can normalize" — a data-conditional normalization path, the dovish-side
+  counterpart to Waller's Jul 13 hike conditionality, keyed to the same
+  near-term inflation data. Scenario framing: descriptive-conditional (a data
+  path with a policy direction, no named scenarios, no timing pre-commitment) —
+  weaker than Waller's explicit rule. On Warsh: "levelheaded... I've been
+  impressed"; independently corroborates the task-force topics (inflation,
+  AI/productivity, balance sheet). No engagement with Waller's tightening
+  conditionality; no hike language anywhere.
+  Cut signal: CONDITIONAL — several months of CPI-like PCE prints → "normalize."
+  Direction: dovish lean (conditional)
+
+NET SIGNAL: DOVISH LEAN vs. Jun 25, entirely data-conditional. Labor and
+  inflation frameworks are unchanged; the move is the conditional normalization
+  path, which Jun 25 lacked. Nothing here resists a July 28–29 hold.
+
+vs. PRIOR SPEECH (Jun 25):     DOVISH — volunteers a conditional normalization
+  path where Jun 25 had no cut language; the productivity-overheating risk is
+  not reprised.
+vs. PRE-FOMC SPEECH (May 12):  HAWKISH — the cut signal survives only in
+  weakened form ("normalize" on a multi-month PCE condition vs. May 12's "rates
+  can come down still a fair amount"), consistent with the intervening June 17
+  hawkish consensus.
+vs. COMMITTEE SINCE FOMC:      The most receptive official to the benign June
+  CPI and the only one to sketch the dovish exit ramp — bracketed by Warsh's
+  "not mission accomplished" (no progress declared) and Waller's Jul 13 hike
+  conditionality (the opposite branch, keyed to the same data).
+
+LANGUAGE TO WATCH:
+  • "the sooner we can show that we're headed back to 2%, the sooner we can
+    normalize" — conditional normalization; dovish counterpart to Waller's
+    conditionality. Watch whether any voter adopts a symmetric two-sided
+    conditional frame. Stage: DISPERSED.
+  • "one month is no months" — Goolsbee idiom, second consecutive appearance,
+    here applied symmetrically to a favorable print.
+  • Payrolls "broken down as the leading indicator of the business cycle" —
+    rates-based measures preferred; consistent with Daly (Jul 2) and Warsh
+    (Sintra) discounting single prints.
+
+ANALYST FLAG: YES
+  → The committee now has explicit conditional branches on both sides from
+    different officials — Waller (Jul 13): hot core reading → consider
+    tightening; Goolsbee (Jul 14): several CPI-like PCE months → "normalize" —
+    both keyed to the same near-term inflation data (PPI Jul 15, then PCE).
+    Assess whether Goolsbee's branch is a genuine reopening of his cut path
+    after its Jun 25 absence, or venue-driven softness.
+  → "Normalize" implies above-neutral policy — tension with his Feb 24 "not
+    obvious that our interest rate policy is even restrictive." Probe at his
+    next directly policy-focused appearance.
 
 ════════════════════════════════════════════════════════════════
 
@@ -243,10 +302,10 @@ officials who addressed it:
   • Warsh: "Not mission accomplished" — rejects the dovish narrative; stays on the
     multi-period trend framing. Chair's refusal to declare progress is itself a
     hawkish signal.
-  • Goolsbee: "Surprisingly benign" but "need a lot more than one month" — embraces
-    the print but conditions any inference on multi-month persistence. The most
-    positive framing of any official on the day, but with the same data-conditional
-    caution.
+  • Goolsbee: "Surprisingly benign" but "one month is no months" — embraces the
+    print, conditions any inference on multi-month PCE persistence, and sketches
+    the dovish branch: several such months → "the sooner we can normalize." The
+    most positive framing of any official on the day.
   • Waller (July 13, the day before): Pre-committed a decision rule with a named
     data trigger. Flat core = his HOLD branch. Under his own rule, July 28–29
     tightening is now off the table unless June PPI (July 15) is hot. But he has
@@ -254,8 +313,10 @@ officials who addressed it:
 
 The distribution reveals: the committee is NOT moving toward a hike in response to
 the benign print, but Warsh's "not mission accomplished" prevents the print from
-triggering a dovish pivot either. The July 28–29 meeting is shaping up as a hold.
-The debate is whether the September meeting re-opens the hike scenario.
+triggering a dovish pivot either. Waller and Goolsbee now hold explicit conditional
+branches on opposite sides of the same near-term data. The July 28–29 meeting is
+shaping up as a hold; the debate is whether September re-opens the hike scenario —
+or, on Goolsbee's branch, the normalization scenario.
 ════════════════════════════════════════════════════════════════
 
 ════════════════════════════════════════════════════════════════
@@ -310,9 +371,9 @@ Speeches this date:
   Warsh, July 14 (House testimony):
     https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
     Q&A (C-SPAN full hearing): https://www.youtube.com/watch?v=JUMld3jiJos
-  Goolsbee, July 14 (Kenosha — partial media account):
-    Chicago Fed event page: https://www.chicagofed.org/publications/speeches/2026/jul-14-kenosha-business-alliance
-    Media: FXStreet July 14 2026 / Reuters / Yahoo Finance July 14 2026
+  Goolsbee, July 14 (Kenosha fireside chat):
+    https://www.youtube.com/watch?v=sfB5QnbNjwM (Chicago Fed YouTube channel)
+    Event page: https://www.chicagofed.org/publications/speeches/2026/jul-14-kenosha-business-alliance
   Barr, July 14 (Financial Inclusion Conference):
     https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm [not retrieved]
   Cook, July 14 (Financial Inclusion Conference panel):
@@ -329,8 +390,10 @@ Prior speech comparisons:
     https://www.youtube.com/watch?v=Ohg5Sav1kpw
   Warsh, June 17, 2026 (press conference):
     data/reports/fomc/20260617_pressconf_provisional.txt
-  Goolsbee, June 25, 2026 (last scored Type A):
+  Goolsbee, June 25, 2026 (prior speech):
     https://www.youtube.com/watch?v=FQ9osXWVuco
+  Goolsbee, May 12, 2026 (pre-FOMC baseline, Rockford):
+    https://www.youtube.com/watch?v=88dRnkmStR4
 
 Upcoming confirmed source:
   Logan, July 16 (Houston Branch conversation):

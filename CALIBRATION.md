@@ -52,7 +52,7 @@ TRACKED LANGUAGE: "The recent past need not be prologue" (opening statement; com
 
 ## Non Voters
 
-**Goolsbee** (Chicago) — Significantly less dovish in 2026 than his public reputation suggests. Feb 24 NABE speech questioned whether rates are even restrictive ("not obvious that our interest rate policy is even restrictive") and explicitly cautioned against front-loading cuts. Do not rely on the "Goolsbee is the committee's dove" heuristic. Post-March speeches have no transcripts; YouTube is the primary source.
+**Goolsbee** (Chicago) — Significantly less dovish in 2026 than his public reputation suggests. Feb 24 NABE speech questioned whether rates are even restrictive ("not obvious that our interest rate policy is even restrictive") and explicitly cautioned against front-loading cuts. Do not rely on the "Goolsbee is the committee's dove" heuristic. Post-March speeches have no transcripts; YouTube is the primary source. Jul 14, 2026 update (Kenosha fireside; scored at data/scored/speeches/20260714_Austan_Goolsbee_scored.txt): conditional normalization path — several months of CPI-like PCE prints → "the sooner we can normalize" — the dovish counterpart to Waller's Jul 13 hike conditionality; "normalize" sits in tension with the Feb 24 not-restrictive line (probe at next policy-focused appearance). Fixed idioms to track verbatim: "stable without being good" (labor verdict, 3 consecutive appearances May 12 / Jun 25 / Jul 14 — media sometimes misrender as "stable without being strong"; transcript is canonical), "one month is no months," "stagflationary dust in the air," payrolls "broken down as the leading indicator" (rates-based measures preferred).
 
 **Collins** (Boston) — High analytical quality. Rotating non-voter.
 
