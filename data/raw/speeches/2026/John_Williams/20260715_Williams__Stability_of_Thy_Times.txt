@@ -1,0 +1,99 @@
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
+
+Speech
+Stability of Thy Times
+July 15, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the Partnership for New York City, New York, New York
+As prepared for delivery
+Introduction
+Thank  you, Steve, for that introduction. And thank you, Rob, for what will surely be  a fantastic discussion.
+Today’s  event is an example of a great partnership in action. The New York Fed and the  Partnership for New York City both have missions that are focused on promoting  economic prosperity and stability. We’ve enjoyed a strong and fruitful  relationship over the years, sharing ideas, data, and resources with each other  in an effort to better understand how New York City can be best positioned for  long-lasting economic success. This has been especially true during times of disruption  and uncertainty.
+That’s  why this is such a fitting place for this discussion. When Rockefeller Center  was built during the Great Depression, these words were chosen to be inscribed in  stone: “Wisdom and knowledge shall be the stability of thy times.” If you  didn’t see it on your way in, make sure to take a look on your way out. Or just  rewatch the opening credits of
+30 Rock.
+Today,  I’ll point out sources of stability in our profoundly uncertain and  unpredictable times, as well as places where the economy is showing less  resilience. I’ll also discuss shifts and trends we are seeing right here in New  York City, and I’ll share my outlook for the U.S. economy more generally. I’ll close  by explaining how the Federal Reserve is working to achieve its goals of  maximum employment and price stability.
+Standing  in this building, I’m compelled to now say, “Live from New York!” Instead, I’ll  just give the standard Fed disclaimer that the views I express today are mine  alone and do not necessarily reflect those of the Federal Open Market Committee  (FOMC) or others in the Federal Reserve System.
+A  Resilient U.S. Economy
+So,  let’s start with a zoomed-out view of the U.S. economy, which has remained  remarkably resilient amid uncertain and challenging times. While the effects of  the Middle East conflict undoubtedly pose significant and unpredictable risks  to economies around the world, the U.S. economy so far has absorbed these events  fairly well.
+Recent  data on economic activity support this reading. For the past year and a half,  we’ve seen solid GDP growth, at around 2 percent. There are pockets of red-hot  growth fueled by optimism, productivity increases, and strong investment. But  the economy has been only growing near its trend rate because weakness in other  sectors has been offsetting these gains.
+The  resilience is in large part due to strong optimism around technology and AI,  leading to surging business investment and stock market gains that are boosting  consumer spending. These positive factors have helped offset declines in  spending in other sectors, such as residential construction, expenditures by  the federal government, and the effects of higher energy costs on household  spending.
+A Stable  Labor Market
+When  it comes to the labor market—one side of the Fed’s dual mandate—we’re seeing  similar signs of resilience and stability. The unemployment rate has stayed  within a narrow range of about 4-1/4 to 4-1/2 percent over the past year. Payroll  employment growth has been positive. Other labor market measures—including job  openings, unemployment insurance claims, and job-finding and separation rates—have  likewise been stable or have modestly strengthened. And survey measures of job  and worker availability, along with the New York Fed’s “job security gap”—all of  which previously flashed warning signs—have also largely stabilized, albeit at  low levels.
+Elevated  Inflation
+Now  I’ll turn to the price stability side of our dual mandate. Inflation is  unquestionably too high at about 4 percent,
+1
+well  above the FOMC’s longer-run goal of 2 percent.
+This  elevation primarily reflects three drivers. The first is the effect of higher  tariffs on imported goods. The second is supply chain disruptions and higher  energy and commodity prices owing to the conflict in the Middle East. And the  third is the robust demand for certain categories of goods and electricity  associated with the surge in technology investment.
+Robust  investment related to AI is a topic worthy of further examination. I am  confident that these investments will support strong productivity growth in  coming years. But, right now, we’re in a race between available supply and surging  demand. So far, demand is outpacing supply in certain categories of goods. As a  result, we are seeing sharp increases in the prices of semiconductors, power  transformers, and other technology that is essential for the AI buildout.  Because these inputs are also used in other goods purchased by consumers and  businesses, higher costs are starting to affect prices.
+These  three factors together have driven inflation over the past year. But there are encouraging  reasons to expect that inflation has peaked and should edge down in coming  quarters.
+One  explanation is that the direct effects of existing tariffs on prices appear to  have in large part played out, although some businesses report they expect  further tariff-related price increases.
+2
+My  expectation is that any new tariffs will primarily replace those that were  curtailed or will soon expire, so we shouldn’t see a significant additional impulse  on prices from this source going forward.
+A  second reason is that the data continue to show relatively modest increases in  market rents, which implies that shelter inflation should remain on the downward  trajectory observed over the past three years.
+Third,  based on oil prices today and futures market pricing into next year, it appears  that prices for energy and related goods have likely peaked and will come down  closer to levels seen before the initial closure of the Strait of Hormuz. Of  course, this situation is fluid and subject to a great deal of uncertainty, a  topic I will return to shortly.
+Fourth,  the supply-demand imbalances stemming from AI-related investment should recede over  time as more supply comes online. That said, the magnitude and duration of  these supply-demand imbalances are highly uncertain.
+Fifth,  we do not see evidence of the labor market adding to inflationary pressures.  This is supported by the New York Fed’s HPW Labor Market Tightness Index
+3
+and the data on wage growth, which are consistent with low inflation.
+Lastly,  medium- and longer-term inflation expectations remain well anchored. In the New  York Fed’s Survey of Consumer Expectations, one- and three-year-ahead  expectations are up modestly, and five-year-ahead expectations are essentially  unchanged since the onset of the Middle East conflict. This pattern is  consistent with market-based measures of inflation expectations.
+4
+A City  Like No Other
+Let’s zoom  back in on New York City. When I joined the New York Fed eight years ago, the city’s  economy was booming as the innovation sector broadened the region’s economic  base. Rapid growth resulted in challenges to affordability, as well as a  housing shortage.
+Since  then, a series of unprecedented events has created new and daunting challenges  for the city. There was the devastating human toll of the pandemic, followed by  the move to remote and hybrid work. Then we had the implementation of new  immigration and trade policies. And now, the surge in energy prices stemming  from the conflict in the Middle East.
+Despite  these very real ongoing challenges, the city’s economy has fully recovered from  the pandemic and is experiencing strong momentum for future growth. I should be  clear that this conclusion is not just an emotional response to the recent  excitement in our region—including an NBA championship 53 years in the making, hosting  the World Cup, an American version of a royal wedding, and the  semiquincentennial celebrations.
+Instead,  my optimism is based on careful analysis of the hard data. After being driven  primarily by healthcare over the past few years, employment growth in and  around New York City has broadened to include the technology sector. Besides  being a global financial center, the city has become a powerful technology hub  that has grown significantly in recent years, employing tens of thousands of  tech workers.
+Just a few  years ago, the mood around the prospects for New York City’s commercial real  estate was decidedly glum. Today, with more employers bringing people back into  offices and a resurgence in demand from technology-related companies, demand  for city office space is soaring.
+With this  economic strength, the challenges of affordability and housing are once again dominating  discussions about how to create sustained and broad-based economic prosperity.
+A  Well-Positioned Monetary Policy Stance
+I’ll  close with what this means for the national economic outlook and monetary  policy.
+Growth  in the economy is solid and on trend, and the labor market is likewise solid  and stable. But with inflation running high, it is imperative that we restore  it to the Federal Reserve’s 2 percent longer-run goal on a sustained basis. The  current stance of monetary policy is well positioned to do that. Accordingly,  at its meeting in mid-June, the FOMC decided to maintain the target range for  the federal funds rate at 3-1/2 to 3-3/4 percent in support of the Fed’s dual  mandate.
+5
+An  Economic Forecast
+Looking  ahead, I expect real GDP growth to be around 2 to 2-1/4 percent this year and  over the next two years. With growth running modestly above my estimate of its  potential rate of 2 percent, I expect the unemployment rate to edge down very gradually  to 4 percent in 2028.
+For  the reasons I outlined a moment ago, I expect overall inflation to decline to around  3-1/4 percent by year-end, then continue on a glide path toward our 2 percent  goal in 2027 and land on target in 2028.
+Even  with many sources of stability, substantial risks remain. The full effects of  the AI investment surge on growth, employment, and inflation are hard to  predict. And the global supply disruptions stemming from the conflict in the  Middle East continue to be a source of risk to the outlooks for both growth and  inflation.
+Conclusion
+This  is why I remain firmly committed to achieving the Federal Reserve’s goals of  maximum employment and bringing inflation down to our 2 percent longer-run goal  on a sustained basis. And with the shifts we are seeing right here in the city,  the Partnership for New York City has an equally important commitment to advancing  New York as the global center of economic opportunity.
+The  economy can be highly unpredictable and uncertain. But the architects of this  building remind us that we must be guided by knowledge and wisdom. In assessing  the future path of monetary policy, my views, as always, will be based on the  evolution of the totality of the data, the economic outlook, and the balance of  risks to the achievement of our maximum employment and price stability goals.
+1
+As  measured by the
+Personal  Consumption Expenditures (PCE) Price Index
+(Bureau of Economic Analysis).
+2
+Jaison  R. Abel, Mary Amiti, Richard Deitz, Sebastian Heise, and Nick Montalbano, “
+More Tariff Pass‑Through  Is in the Pipeline
+,”  Federal Reserve Bank of New York
+Liberty Street Economics
+, July 8, 2026.
+3
+Federal  Reserve Bank of New York,
+Heise,  Pearce, Weber (HPW) Labor Market Tightness Index
+(May  2026).
+4
+Federal  Reserve Bank of New York,
+Survey of Consumer  Expectations
+(June 2026).
+5
+Board  of Governors of the Federal Reserve System,
+Federal  Reserve issues FOMC statement
+, June 17, 2026.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map
