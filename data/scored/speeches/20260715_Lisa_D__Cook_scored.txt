@@ -1,0 +1,205 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-07-15 | Lisa D. Cook | Governor | Just Voter
+"Economic Outlook"
+The Exchequer Club, Washington, D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
+[Full transcript unavailable — federalreserve.gov blocked by proxy this run.
+ Scored from media compilation of key quotes; all quotes verified across
+ multiple independent wire sources. See raw file for sourcing details.]
+
+CLASSIFICATION: Type A — Economic Outlook (pure; no special-topic embedding)
+
+REFERENCE FOMC:    June 17, 2026 (HOLD 3.50–3.75%; 12–0; easing bias removed;
+                   structural rewrite; SEP hawkish)
+PRE-FOMC BASELINE: May 27, 2026  "The Opportunities and Risks AI Presents
+                   for the Economy and Financial System" (SIEPR, Stanford —
+                   Type B with embedded Type A outlook; scored at
+                   data/scored/speeches/20260527_Lisa_D__Cook_scored.txt)
+POST-FOMC PRIOR:   N/A — this is Cook's FIRST Type A speech since the
+                   June 17 meeting. May 27 is therefore BOTH the pre-FOMC
+                   baseline AND the effective prior for all comparisons.
+                   (June 24 "Welcome Remarks" was a brief introduction,
+                   no policy content.)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+[Brief — growth is stable and not Cook's primary concern; she routes it
+ through the AI/productivity lens consistent with her prior.]
+
+Own language:
+  GDP 2025: ~2.0%; FOMC projects 2026: ~2.2%
+  Labor productivity: ~2.5% annual average over the past two years (robust)
+  → Stable, slightly-above-trend growth framing; consistent with May 27.
+    AI investment boom named as the engine — identical to her prior framing.
+    No growth concern invoked as a policy lever.
+
+FOMC statement language echoed: "Economic activity is expanding at a solid
+  pace" [Jun 17 stmt] — consistent with Cook's characterization.
+
+Shift vs. pre-FOMC (May 27):  unchanged — growth treated as a non-concern
+  in both speeches; AI productivity framing consistent throughout.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "the unemployment rate has changed little" [Jun 17 stmt]
+  → Cook: unemployment at 4.2% (down from 4.3% in April per May 27 speech);
+    "nearly all indicators point to stability."
+
+Own verdict — KEY HAWKISH SHIFT vs. pre-FOMC:
+  "I see few reasons that today's labor market has more risk than a year earlier."
+  → Explicit downgrade of labor downside risk. Compare May 27: "I view the
+    downside risks to the labor market as being elevated" — explicitly named
+    Middle East demand uncertainty, low-hire environment, AI displacement risk.
+    July 15 reverses that: labor risk is now *not elevated* vs. a year ago.
+
+Own verdict — balance of risks:
+  "I see a notable shift in the balance of risks relative to a year or so ago,
+   with inflation risks now outweighing employment risks."
+  → Explicit risk-rebalancing statement. This is a formal June-17-framework
+    adoption: easing bias is gone because labor risk no longer justifies it.
+    Cook endorses the structural rewrite directly in her own words.
+
+Shift vs. pre-FOMC (May 27):  HAWKISH — from "downside risks to labor are
+  elevated" to "I see few reasons today's labor market has more risk."
+  The AI-displacement risk and Middle East demand-disruption flags from May 27
+  are absent. Employment risk explicitly de-prioritized vs. inflation risk.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal"
+  [Jun 17 stmt — "in part reflecting supply shocks"]
+  → Cook: PCE 3.7% YoY (1.7pp above target). Three drivers: AI demand +
+    tariffs + Middle East — identical to her May 27 framework and the
+    June 17 statement framework.
+
+Own language — LEVEL ASSESSMENT:
+  "The initial assessment is easy: Inflation is simply too high."
+  → "Simply too high" is a plain declarative level verdict — stronger than
+    May 27's directional "clearly moving in the wrong direction." The May 27
+    framing flagged trajectory; July 15 flags the state itself as unacceptable.
+    [Note: PCE is lower (3.7% vs. 3.8% May), so the wording is a choice to
+    emphasize the gap-to-target, not the trajectory.]
+
+Own language — DURATION AND COMMITMENT:
+  "I am fully committed to reaching our inflation target, and this commitment
+   is unwavering."
+  → Echoes the June 17 structural rewrite ("The Committee will deliver price
+    stability"). The "unwavering" qualifier is own-language, not statement boilerplate.
+
+Shift vs. pre-FOMC (May 27):  ROUGHLY CONSISTENT, slightly more emphatic —
+  May 27: "inflation is clearly moving in the wrong direction" (directional);
+  July 15: "simply too high" (level). PCE is lower (3.7% vs. 3.8%) so the
+  tonal firmness is a deliberate framing choice. Three-driver framework unchanged.
+  "Unwavering" commitment language is new; aligns with June 17 statement register.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee decided to maintain the target range for the federal funds
+   rate at 3-1/2 to 3-3/4 percent" [Jun 17 stmt]
+  → Endorsed implicitly.
+
+Own language — RESTRICTIVENESS CHARACTERIZATION (new):
+  Policy rate characterized as "mildly restrictive."
+  → This is a new characterization not present in her May 27 scored file.
+    "Mildly" is calibrated — it leaves open whether policy is sufficiently
+    tight, which supports the patience framing.
+  "The FOMC can take its time, I can take my time, to observe more data
+   to understand whether it's really restrictive or not."
+  → "Really restrictive" language pairs with "mildly" — acknowledging
+    uncertainty about the transmission mechanism; more cautious about claiming
+    policy is working than Waller's "at a crossroads" framing.
+
+Own language — HIKE SIGNAL (conditional, explicit):
+  "If we do not see signs of disinflation soon, I am prepared to act."
+  → EXPLICIT CONDITIONAL HIKE SIGNAL. Condition: absence of disinflation "soon."
+    Compare May 27: "I am prepared to raise rates, if the expected disinflation
+    does not appear in a timely manner." July 15 version is substantively identical
+    (slightly more colloquial). The hike signal is MAINTAINED across the June 17
+    FOMC meeting with no weakening.
+  [Inference: "act" = hike, given context — Cook names no other form of action
+   and the speech has zero dovish content.]
+
+Hike signal: PRESENT — conditional on no disinflation "soon." First post-June-17
+  Type A from Cook confirms the May 27 hike signal survived the committee's
+  12–0 hold. No cut language anywhere.
+
+Cut signal status: ABSENT — no reference to employment backstop cut signal that
+  was present in the May 27 scored file ("prepared to adjust my policy stance
+  downward should the labor market deteriorate"). This conditional cut signal
+  appears to have been dropped or is now considered secondary to the point of
+  omission. [Inference: consistent with her explicit "inflation risks now
+  outweigh employment risks" balance-of-risks statement.]
+
+Shift vs. pre-FOMC (May 27):  HAWKISH NET — (1) "Mildly restrictive"
+  characterization is new (May 27 did not characterize restrictiveness);
+  (2) hike signal maintained in substantively identical form; (3) cut
+  language/employment backstop appears DROPPED (present in May 27, absent
+  July 15); (4) balance-of-risks explicitly tilted toward inflation mandate.
+  The overall effect is a post-June-17 confirmation and slight hawkish
+  consolidation: the hike stays, the dove leg recedes.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — Cook's first post-June-17 Type A speech confirms and
+               consolidates the committee's hawkish structural rewrite. The
+               explicit hike signal ("prepared to act") is maintained from
+               May 27 without weakening. The employment downside risk that was
+               "elevated" in May 27 is now explicitly minimized ("I see few
+               reasons today's labor market has more risk"). The cut backstop
+               from May 27 appears dropped. Balance of risks explicitly tilted
+               to inflation. "Mildly restrictive" characterization on the rate
+               leaves the door open to more tightening if disinflation does not
+               appear "soon." The benign June CPI (-0.4% headline) and PPI
+               (-0.3% final demand, released same morning) are not addressed —
+               Cook does not update her conditionality in response to the data.
+
+               Cook is the first Board governor to give a full Type A post-June-17
+               speech. She represents the committee's non-Troika hawkish wing.
+               With Waller (Jul 13) and Cook (Jul 15) both carrying explicit
+               conditional hike signals into the final pre-blackout window,
+               the hawkish conditional branch now has two Just Voter voices.
+
+Language watch:
+  • "Inflation is simply too high" — own-language, first use; a level verdict
+    rather than a directional one. Watch for committee spread. Stage: DISPERSED.
+  • "I am prepared to act" — maintained from May 27's "prepared to raise rates";
+    substantively identical. Cook + Waller (Jul 13) both carry explicit
+    conditionality. Stage: EMERGING (two Just Voters; no Troika member yet).
+  • "balance of risks... inflation risks now outweighing employment risks" —
+    formal endorsement of June 17's easing-bias removal in Cook's own words;
+    now on the record as a signed-off committee-wide view for at least one
+    Just Voter. Stage: COMMITTEE-WIDE (aligns with statement structure).
+  • "mildly restrictive" (rate characterization) — new language from Cook;
+    watch whether other officials adopt this calibration or whether Waller's
+    more hawkish framing ("at a crossroads") dominates. Stage: DISPERSED.
+  • Absence of cut backstop ("prepared to adjust... downward") — present May 27,
+    absent July 15. This absence, if permanent, signals Cook's balance-of-risks
+    shift is a durable stance change, not a meeting-specific expression.
+
+Analyst flag:  YES
+  → (1) Cook drops the May 27 employment-softening cut backstop language.
+    If this is a deliberate omission (not a venue/length artifact), it implies
+    Cook now views the risk function as asymmetric: only act on inflation,
+    not on labor. Does Troika member Jefferson adopt or reject this asymmetry?
+  → (2) "Mildly restrictive" characterization alongside "prepared to act"
+    creates a logical tension: if policy is only mildly restrictive, why
+    would you wait and watch rather than act preemptively? This may be
+    Cook's version of Warsh's deliberate patience — but watch whether she
+    updates this characterization if inflation does not show signs of easing
+    in August data.
+  → (3) Cook and Waller both carry hike conditionality into the blackout.
+    Is there coordination, or independent convergence? If coordinated, a
+    third official (ideally Troika) would need to endorse it for it to
+    become a statement-level signal. No Troika member has endorsed the
+    conditional hike so far.
+══════════════════════════════════════════════════════════

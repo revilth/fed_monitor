@@ -1,0 +1,44 @@
+SOURCE: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+[NOTE: Day 2 (Senate Banking Committee) used IDENTICAL PREPARED REMARKS as Day 1 (House Financial Services Committee, July 14, 2026). The full prepared-remarks text is therefore identical to data/raw/testimony/20260714_Warsh_HH_testimony.txt. Only Q&A content was new on Day 15. Key Q&A exchanges compiled from media coverage.]
+
+SPEAKER: Kevin Warsh, Federal Reserve Chair
+COMMITTEE: Senate Committee on Banking, Housing, and Urban Affairs
+DATE: July 15, 2026 (Wednesday)
+CLASSIFICATION: Type F — Congressional Testimony, Day 2 of semiannual Monetary Policy Report to Congress
+
+PREPARED REMARKS: IDENTICAL TO JULY 14 HOUSE TESTIMONY
+(See: data/raw/testimony/20260714_Warsh_HH_testimony.txt for full prepared text)
+
+--- NEW Q&A CONTENT (July 15 Senate only) ---
+
+ON JUNE PPI (released 8:30am ET July 15, -0.3% final demand):
+  "any central bank would be happy to have the data going in the right direction"
+  — warmer acknowledgment of benign data than his Day 1 "not mission accomplished"
+
+  "These are all imperfect measures of the state of underlying inflation"
+  — maintains data-skepticism framing from the inflation-measurement task force
+
+ON FED INDEPENDENCE (exchange with Sen. Chris Van Hollen, D-MD):
+  Van Hollen asked about discussions with the President regarding interest rates.
+  Warsh: "I don't want to be in the business of sharing discussions that the
+  president and I have."
+  Warsh: "They chose an independent guy to do an independent job, and that's
+  exactly what I plan on doing."
+
+ON RATE DIRECTION:
+  No rate signal anywhere in the Senate Q&A.
+  July 28-29 meeting not explicitly addressed; hold widely expected by markets.
+  No echo of Waller's Jul 13 hike conditionality; no endorsement of Cook's
+  "prepared to act" language.
+
+MARKET CONTEXT:
+  June PPI (8:30am ET July 15): final demand -0.3% MoM (consensus: flat);
+  core PPI +0.2%; core ex-trade +0.1%. Combined with June CPI (core flat MoM),
+  both data points are below Waller's July 13 "hot reading" threshold.
+  Market: July hike probability fell further; September ~55-65%.
+
+SOURCES:
+  Axios: https://www.axios.com/2026/07/15/warsh-inflation-ppi-rates
+  NWA Democrat-Gazette (AP): https://www.nwaonline.com/news/2026/jul/16/fed-chair-interviewed-by-senate/
+  NPR: https://www.npr.org/2026/07/15/nx-s1-5894712/in-first-congressional-testimony-new-fed-chief-warsh-vows-to-fight-inflation
+  CNBC analysis: https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html

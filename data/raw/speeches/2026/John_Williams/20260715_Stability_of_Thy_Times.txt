@@ -1,0 +1,52 @@
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
+[NOTE: Full transcript not retrieved — federalreserve.gov/newyorkfed.org blocked by proxy during this run. Content below compiled from media coverage (CNBC, Bloomberg, NY Fed Teller Window key-takeaways page, wire services, July 15, 2026). Key quotes verified across multiple sources. Full text available at the SOURCE URL above.]
+
+SPEAKER: John C. Williams, NY Fed President and CEO
+TITLE: "Stability of Thy Times"
+EVENT: Partnership for New York City, New York City, New York
+DATE: July 15, 2026 (Wednesday)
+CLASSIFICATION: Type A — Economic Outlook speech
+
+--- COMPILED CONTENT ---
+
+GROWTH:
+- "Growth in the economy is solid and on trend"
+- Real GDP growth projected at "around 2 percent to 2.25 percent this year and over the next two years"
+- Growth running "modestly above its potential rate of 2 percent"
+- AI-related investment continues to be the primary engine of business investment
+- Unemployment rate expected to edge "down gradually to 4 percent in 2028"
+
+LABOR MARKET:
+- "The labor market is likewise solid and stable"
+- Labor market is NOT a source of inflationary pressure
+- Inflation expectations "well-anchored" — giving the Fed "policy breathing room"
+- "we are not seeing evidence that the labor market is adding to inflationary pressures"
+
+INFLATION:
+- "Inflation is unquestionably too high" at approximately 3.7-4 percent
+- "There are encouraging reasons to expect that inflation has peaked and should edge down in coming quarters"
+- Five reasons cited for expected disinflation (specific list from Teller Window key-takeaways; details to be confirmed from full text)
+- Three inflation drivers: (1) tariffs on imported goods; (2) Middle East conflict supply/energy disruptions; (3) robust AI investment demand for technology goods and electricity
+- Inflation expected to decline to approximately 3.25 percent by year-end 2026 (updated from June 25's 3.5% forecast)
+- Then continue on a glide path toward 2 percent goal in 2027, "land on target" in 2028
+- Medium-term inflation expectations remain well-anchored
+
+MONETARY POLICY:
+- "The current stance of monetary policy is well positioned to do that" [restore 2% inflation]
+- "well positioned" — stable holding formula; no cut signal, no hike signal
+- No forward guidance; pure data-dependence
+- "my views, as always, will be based on the evolution of the totality of the data, the economic outlook, and the balance of risks"
+- Williams supports holding rates steady; does not echo Waller's/Cook's near-term hike conditionality
+
+KEY QUOTES (verified across multiple sources):
+  "Growth in the economy is solid and on trend, and the labor market is likewise solid and stable."
+  "Inflation is unquestionably too high."
+  "There are encouraging reasons to expect that inflation has peaked and should edge down in coming quarters."
+  "The current stance of monetary policy is well positioned to do that."
+  "my views, as always, will be based on the evolution of the totality of the data, the economic outlook, and the balance of risks."
+
+SOURCES FOR COMPILED CONTENT:
+  NY Fed Teller Window (key takeaways): https://tellerwindow.newyorkfed.org/2026/07/15/key-takeaways-from-president-williamss-speech-on-the-economic-outlook-and-monetary-policy-27/
+  CNBC: https://www.cnbc.com/amp/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html
+  Bloomberg: https://www.bloomberg.com/news/articles/2026-07-15/fed-s-williams-says-rates-well-positioned-despite-ai-demand
+  Yahoo Finance: https://finance.yahoo.com/economy/policy/articles/fed-williams-says-rates-well-124152535.html
