@@ -1,0 +1,1159 @@
+SOURCE: https://www.youtube.com/watch?v=WqVOO7B4ukQ
+OFFICIAL PREPARED REMARKS: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+SPEAKER: Kevin Warsh, Federal Reserve Chair
+EVENT: Semiannual Monetary Policy Report to the Congress (Day 2 of 2)
+COMMITTEE: Senate Committee on Banking, Housing, and Urban Affairs
+DATE: July 15, 2026 (Wednesday)
+[Full ~2h05m hearing, Yahoo Finance YouTube recording, auto-generated transcript
+ with a light cleanup pass for speaker names and Fed-specific terms. Prepared
+ remarks as delivered track the July 14 House testimony text (official version at
+ the federalreserve.gov URL above). Residual auto-transcript errors remain in
+ places; verify exact wording against video before external quotation.]
+
+Today, the committee welcomes Chairman Kevin Warsh for his first semiannual monetary policy hearing since 
+taking office. I know it's been seven weeks, but it probably feels like a couple of years. We are really 
+happy to have you with us and really excited about the direction of the Fed. Today is about how the Fed is 
+serving the American people and how Chairman Warsh is working to combat years of mission creep at the Fed and 
+restoring the Fed's credibility, especially to the general public. The decisions that the Fed makes affect 
+everyday life in South Carolina and around our country. For example, those decisions affect the mortgage 
+payment a couple is trying to afford the credit card bill a single mom is trying to pay down and the 
+decisions a small business owner makes about whether they can off afford a loan or not. Frankly, the Fed even 
+has impact on the interest interest rate environment. As you know, uh, ranking member and I spent over a year 
+working on a housing bill that will actually help us increase housing supply, help us expedite the process of 
+building a house through NEPA reform. It'll create more diversity in housing selection at the end, the 
+removal of the chassis requirement. These are important issues that will make housing affordability 
+incredibly easier, but it will never get to the main point of interest rates. The interest rate is something 
+that you control that we don't control. We want you to follow the facts, however, because that is really 
+important for the long-term durability of our economy. But in North Charleston, where I grew up, families do 
+not talk about monetary policy, Kevin. They just don't talk at those terms. But they fully understand the 
+principle that when prices rise faster than paychecks, it's really hard to make their ends meet. That is why 
+affordability must be at the center of our conversation. The Federal Reserve has a mandate to pursue and 
+promote a strong labor market through maximum employment and stable prices. Those are serious 
+responsibilities and I'm glad that you are the man for the job and you've taken it seriously. They require 
+clear thinking, steady leadership, and the commitment to follow the data no matter the political 
+ramifications. It also requires understanding the forces shaping our economy, including AI's impact on jobs, 
+wages, productivity, and prices. Independence is not a slogan. It is a responsibility. And the best way for 
+the Fed to protect its independence is to stay focused on its mission. For too many years, the Federal 
+Reserve drifted into issues outside of its core responsibilities and America paid a price for it. Mission 
+creep makes the Fed less accountable and undermines public trust. I am encouraged by the steps that you are 
+taking to reform our central bank. But that starts with a more disciplined approach to how the Fed 
+communicates. Moving away from overly detailed predictions about where interest rates might be going in the 
+next several months is a helpful step to make sure the Fed is able to adapt when conditions change. Families, 
+small businesses, and markets are better served when the Fed follows the data in front of them, not a 
+forecast that may change in an instant. Less guessing and more discipline will help the Fed stay flexible, 
+credible, and focused. The five independent task forces that you set up also sends a very important signal 
+that the Fed is willing to start from its core principles and pursue thoughtful reforms to deliver on its 
+statutory mandate. You and I had a quick conversation before walking in here and I wanted to note that I 
+think that the working groups are fantastic. Uh, frankly, I think the the composition of the working groups 
+really important. One of the things that we talked about was a balance sheet working working group. I must 
+concede that I'm a fan of Abraham Lincoln's approach of these team of rivals and it seems like you have 
+Jeremy Stein and you might know Jeremy from Harvard as well as the former governor of the India central bank 
+Mr. Rajan. They have very nicely put competing approaches and philosophies about the balance sheet. But if 
+you're going to be intellectually honest, you need to have a serious debate about what direction to go and 
+frankly how to get there. And so I'm really excited about what you're doing there and I look forward to 
+hearing how that works out for you, for the Federal Reserve, and more importantly for the American people 
+because uh unwinding a balance sheet the size that we have today is [clears throat] going to take a 
+deliberate effort that will have to be paced properly not to create instability and volatility in our market. 
+So thank you for taking on that seriously. As AI reshapes the economy, the Fed should understand its impact 
+on jobs, productivity, and prices and the fi financial system without using technological change to expand 
+its mandate. That same discipline should guide the Fed's approach to bank regulation. The US banking system 
+is sound and resilient, but we cannot take that for granted. Preserving that strength requires regulation and 
+supervision [clears throat] that are clear, appropriately tailored, and focused on real real risks. According 
+to the July 2026 monetary policy report, bank capital is near historically high levels. As the Fed finalizes 
+Basel 3 endgame and other capital rules, it should pursue better calibrated requirements that preserve 
+resilience without unnecessarily restricting lending. When capital is stuck on the sidelines, a family in 
+Irmal, South Carolina may find it very difficult to get a mortgage. A small business may find it hard to get 
+a loan. A community bank may spend more time satisfying Washington than serving its own customers. That is 
+why this committee will continue pressing for regulations that protect the system without cutting off access 
+to credit. I want the Fed to be very successful. We need the Fed to be successful. Prices become more stable 
+when your job is done well. Markets gain confidence, wages grow, and more families have the opportunity to 
+save, invest, buy a home, and live their version of the American dream. Welcome today, ranking member. The 
+floor is yours. >> Uh, thank you, Mr. Chairman, and welcome back, Mr. Warsh. So about two months ago, 
+you appeared in front of this committee for your nomination hearing and you refused to answer basic factual 
+questions. I assume because you were afraid of contradicting President Trump. Your answers during the hearing 
+were so troubling that this committee had a partyline vote for Fed chair for the first time ever in our 
+history. You were confirmed by the Senate in the tightest vote for a Fed chair in US history. So, you now 
+face an uphill battle to show that you have the independence needed to run America's central bank and to 
+serve American families and not just President Trump and his billionaire friends. Now, President Trump's 
+corruption and failed economic agenda is raising costs across the board. Inflation has kept real wages from 
+growing for the third consecutive month. That means in the Trump economy, families are falling behind with 
+less to spend every day that goes by. High interest rates are making mortgages, auto loans, and credit cards 
+more expensive. More and more people are falling behind on their bills. 95% of Americans believe that the US 
+is suffering an affordability crisis. While President Trump continues to call affordability a hoax, telling 
+Americans their concerns about the cost of living are made up. Lower interest rates would provide some relief 
+to families, but the Fed hasn't lowered interest rates and may be forced to raise rates even more. All 
+because of one man, President Trump. Now, the president knows this. So, instead of changing course, he wants 
+to take over the Fed. Installing you as Fed chair was a critical part of his plan. You reportedly told the 
+president uh exactly what he wanted to hear in your Oval Office interview, and Trump confirmed it afterwards, 
+saying, quote, "War thinks you have to lower interest rates." Now, for your part, you were the only member of 
+the last Fed meeting who declined to submit economic projections. Projections that are supposed to show how 
+the Fed's decisions under your leadership are likely to affect American consumers and American workers. 
+People might look at that and conclude that you don't want to tell the truth about inflation under Trump. 
+Trump may have you in his pocket, but he will not stop until he controls the Fed. And he just needs one more 
+seat to do that. And that's why he has had his Department of Justice open bogus criminal investigations into 
+both Governor Lisa Cook and former Chair Jerome Powell. And that is why he illegally tried to fire Fed 
+Governor Cook. His own Supreme Court recently blocked the firing, at least for now. But Trump has vowed to 
+try again to fire Governor Cook. The fight for control is a fight over interest rates, but it it is also 
+about corruption. President Trump likes to play king, and the Fed offers many appealing opportunities for the 
+president to enrich himself while he fleces the American people. Start with crypto. Trump's family crypto 
+company is World Liberty Financial, the centerpiece of the crypto enterprise that let him rake in $1.4 
+billion in 2025 alone. Now, it is currently applying for a bank charter. After that charter is granted by 
+Trump's own bank regulator, World Liberty could seek special privileges from the Federal Reserve to juice its 
+own profits, like a master account that would give Trump's own company direct access to the Fed's core 
+payment rails. And there's more. If he can control the Fed, Trump could threaten to revoke banks access to 
+Fed's services if they refuse to do his bidding. He could hijack the Fed's extraordinary powers to bail out 
+financial markets, making sure that he rewards his friends and punishes his enemies in a crisis. And you 
+better bet that Trump will turbocharge the Wall Street deregulation that is already underway, juicing mega 
+bank profits and CEO bonuses, knowing that American taxpayers will be on the hook once again if there's 
+another devastating financial crash. Congress and the American people will be watching closely whether you 
+serve the public or whether you become yet another instrument of Donald Trump's corruption. Thank you, Mr. 
+President. Uh Mr. Chairman, >> thank you ma'am. Chairman Warsh, thank you for being with us. The floor 
+is yours. Five minutes. >> Thank you very much, Mr. Chairman, Ranking Member Warren, other members of 
+the K committee. Good morning. It's a privilege to join you. It's my first appearance before this panel as 
+chairman and I'm particularly honored to represent my superb colleagues from across the Federal Reserve 
+system. In submitting the monetary policy report, I can't help but think of a long line of central bank 
+chiefs who came before the Congress in keeping with the Federal Reserve Act. And I can't help but think of 
+the best of the Fed's traditions. As a country, we just marked our 250th year. And when Americans count our 
+blessings, we can include an economy predicated on the brilliance of our constitutional design and system of 
+ordered liberty. An economy without equal in all it's done for human flourishing. Some forms of 
+communication, including some that the ranking member referenced, are discretionary, but not this one. And 
+for good reason. It's a prudent and wisely conceived obligation designed to keep the Fed responsible, 
+accountable, and faithful to the mandate that you gave us of full employment and price stability. These 
+obligations are of a peace with the Fed's rightful independence in the conduct of monetary policy. Today, 
+we're at a hinge point in history, and it's up to each of us, myself included, to meet this moment. The Fed's 
+number one objective is to get monetary policy right. That's our clear and constant aim, the star by which we 
+steer by. And if we get policy right, and we will, the inflation surge of the last five years will be a thing 
+of the past. Just a month ago, I chaired my very first FOMC meeting. My colleagues and I recognize that high 
+inflation has been an undue burden on American households and businesses. And while monthly fluctuations are 
+inevitable, especially in an unsettled world, underlying inflation over longerterm horizons is determined 
+largely by monetary policy. As I've said before and will say today, inflation is a choice. The members of our 
+committee have no tolerance for persistently elevated inflation and we share a resolute commitment to restore 
+price stability. That was our focus when we met a month ago at which we decide to hold the target range in 
+the federal funds rate at 3 and 1 half to 3 and 3/4%. Naturally, our work at the Fed demands a proper reading 
+of economic conditions. As you might have seen in our report, economic activity is expanding at a solid pace. 
+showing resilience in the face of recent developments. Household consumption growth is moderate and 
+manufacturing output has moved up steadily this year. The housing sector, however, strikes a different note. 
+It gives a different picture and continues to lag. I want to highlight the most striking feature of our 
+economy right now and its business investment. It is a surge in capital expenditures. Compare that to what 
+we've seen for a long long period of financial engineering. This is a better situation. The rapid rate, the 
+rapid pace of capex which appears to be accelerating reflects in large part the construction of 
+infrastructure including in and around AI and the immense demand for AI related equipment and software. 
+Investment in equipment overall increased about 8% for the year in the first quarter. Within that category, 
+high-tech spending logged an especially impressive growth rate of about 25%. We don't yet know the extent to 
+which the economy will benefit from this buildout. Yet, it seems inevitable, at least to me, that what is now 
+called AI investment will soon just be called investment. Even so, new opportunities for the economy 
+introduce new challenges for policymakers. We at the Fed are monitoring the implications for the inflation 
+and for the labor market. That brings me to the supply side of the economy, a subject worthy of equal 
+attention where productivity growth has been strong. And I'll note that this productivity growth predates 
+gains from AI adoption. America's labor force appears to be broadly stable. Job creation has kept pace with 
+the workforce. the unemployment rate low and has changed little quite frankly over the last year. We're 
+seeing relatively few layoffs and only slight variance in the rate of job vacancies. Solid growth in nominal 
+wages, too. I've been heartened by the welcome I've received and by the encourage encouragement of my 
+colleagues. We have a duty to point the institution forward, to take a fresh look at current practices, to 
+make sure we're serving our objectives, and we're going about it systematically. As the chairman referenced, 
+I appointed a task force in each of five areas that are central to the conduct of monetary policy. I'll just 
+reference them and close. First, Fed communications. Second, our balance sheet policy. Third, our use of 
+existing data. Fourth, productivity and jobs. And finally, the Fed's inflation framework. Our purpose here is 
+to make better decisions in the conduct of monetary policy and put these years of high inflation behind us. 
+We are the Federal Reserve, Mr. Chairman, and as determined as ever to fulfill our mission. Thank you, and I 
+welcome your questions. >> Thank you, chairman. Each member will have five minutes to ask questions and 
+get answers, and I'll start that off. I I'll start off with the with your working groups. I think credibility 
+equals transparency. And the names that I've seen on your your working groups from Doug McMillian, former CEO 
+of Walmart to Mark Andre on productivity and AI tells me that you're serious about getting real world 
+experience and expertise involved in making decisions at the Fed. I want to give you just just a minute of my 
+time to to walk us through perhaps one or two pieces of that. As we talked about the importance of having 
+contrast on the committee on the working groups really important from my perspective. I think it lends itself 
+to having more confidence in the Federal Reserve. I want to give you a minute to talk about one part of it 
+and then I want to move quickly to AI. >> All right. Let let me let me be brief, Mr. Chairman, but 
+you're highlighting something that's awfully important. all institutions including the Federal Reserve which 
+I am so proud to lead filled with great people on occasion we need to bring new ideas to the four and after 
+63 months of inflation above the Fed's target it struck me that any new leader should arrive at this 
+organization and look to the very best minds that we could find there's a lot of great ones at the Fed but 
+there's a lot of great ones that aren't even in economics profession and I reached out to 15 people who I 
+have known and trusted with a diversity of views to see whether they would take the most important questions 
+that are going to be the determinants of monetary policy and the determinance of the economy next five years 
+and see if they could sharpen their pencils and do their best work. It's a move towards transparency and new 
+ideas. I'll just give one example before turning it back to you. In the last couple of days, we've gotten uh 
+data on consumer price index today on the producer price index. um any central bank would be h happy to have 
+the data going in the right direction. My view is these are all imperfect measures of the state of underlying 
+inflation. So one of the task force is going to see whether we can do better have better data from external 
+sources and even better ideas as to how important organizations like the Bureau of Labor Statistics, the 
+Bureau of Economic Affairs might think about how they could do a better job in uh in an evolving economy. 
+>> Thank you. We met uh just a few weeks ago with Dr. Felin who's slated to be the head of the 
+president's uh economic adviserss and we talked a lot about artificial intelligence and the impact it will 
+have on our economy and whether or not it will destroy jobs, create jobs and ultimately at the end of the day 
+his conclusion was it'll create more jobs. Artificial intelligence has an opportunity to change how we do so 
+many things and much of the debate for me can be bifrocated into automation. things go away in augmentation. 
+People make more money because production goes up. And you've argued that perhaps there's a way for us to see 
+a reduction in interest rates because of that increase in productivity. One of the things standing in the way 
+of that conversation is what's happening in South Carolina where data centers are meaning real headwinds. New 
+York is basically banned them. We have a moratorum in parts of South Carolina because of issues like 
+electricity bills, water use, aesthetics. So getting to the future that we're talking about and frankly 
+beating China in this AI race might come down to something as important as electricity bills and water usage, 
+which could prevent us from having a serious conversation about productivity gains. Thoughts? Yeah, it's I 
+can't think, Mr. Chairman, of a more consequential change to the US and global economy in my in my adult 
+lifetime than the surge of investment and the potential in around AI. Um that's part of the reason why one of 
+my task forces is to focus on what's the effect of this general purpose technology on both parts of the Fed's 
+mandate on uh ensuring stable prices but also on full employment. You gave us both parts of that. Y >> 
+we don't have any legislative orphans at the Fed. There's no disfavored part. I would say it is a huge 
+opportunity but it's not without challenges. I'll make two other brief points. I think the United States is 
+extremely well positioned to be at the cutting edge and extract more productivity which should be good for US 
+companies and US workers than any other country in the world. Any other country would exchange positions with 
+us uh in a moment. Second thing is I do want to make it clear that in the near term I think this investment 
+is probably quite good for jobs as we're building out the infrastructure and over the long term my best guess 
+is that this will inc imp improve American productivity and will improve the real wages and will help us on 
+full employment. But between the short term and the long term, it can have a disruptive effect and uh we're 
+attuned to that and it's part of the reason why I wanted to shed some new light on it with some outsiders. 
+>> My time is up, but I will submit one uh question for the record around the issue of indexing 
+indexing our regulatory thresholds. uh we've seen so much growth in the last since 2019 that our institutions 
+might need to see a little calibration a reccalibration on on the thresholds that we we have uh put upon 
+them. Ranking member Warren. >> Uh thank you Mr. Chairman. So the Federal Reserve has long been plagued 
+by a culture of corruption and coziness with Wall Street. Over the last five years, at least six senior Fed 
+officials have been implicated in serious ethics scandals related to personal stock trading and self-deing. 
+But instead of trying to repair this broken culture, I'm concerned that you seem to be embracing it. At the 
+time of your nomination, you owned more than hund00 million worth of shares in private investment vehicles 
+called the Juggernaut Funds and THSDFS LLC. And you refuse to disclose the underlying assets to the Senate 
+and to the public. You say now that you've sold those shares. In other words, somebody wrote you a check for 
+more than $100 million days before you entered office. Chair Warsh, who wrote that check? Uh, Senator Warren, 
+this is a discussion you and I had in the public square seven weeks ago, and I'm thrilled to tell you that I 
+fully honored the obligations I had under the office of the agreement I had with the Office of Government 
+Ethics, and there is continued disclosure, which I'm happy to make as consistent with the agreement. >> 
+Specific question, who gave you $100 million right before you were sworn in? Was it a billionaire who has 
+business with the Fed? Was it Stanley Druckenmiller who's made billions of dollars betting on what the Fed 
+does or was it a different billionaire? Who gave you the money? >> Uh, I will fully comply with the 
+Office of Government Ethics. Well, it is an answer actually, Senator, because there are obligations and I 
+will satisfy million dollars that you got just before you were sworn in and you won't tell the American 
+people where it came from. Let's go to another incident. As you know, the Fed imposes a blackout period where 
+senior Fed officials are prohibited from talking about economic issues with outsiders. The idea is to quote 
+reinforce the public's confidence in the transparency and integrity of the monetary policy process. In other 
+words, no one gets some special insider information from the Fed. But shortly after your first FOMC meeting 
+as chair, right in the middle of the blackout period, the Fed's vice chair for supervision, Michelle Bowman, 
+was reportedly the featured guest at a secret dinner hosted by Bank of America for its hedge fund and Wall 
+Street clients. At this closed door, she reportedly spoke about both monetary policy topics and regulatory 
+policy. Now, I've called on the inspector general to review her conduct, but you're the guy in charge. As 
+chair, you set the tone on culture. Did Vice Chair Bowman provide any non-public information to the attendees 
+at that secret dinner or discuss any regulatory policy matters that are subject to open comment periods? Uh, 
+Senator, I agree with with one of the premises of your question, which is I do set the culture. >> 
+Good. >> Uh, after my very first week at the Fed, I sent a letter to the 21,000 people at the Fed 
+outlining our culture. >> I appreciate that, but we have very limited time and a very strict chairman. 
+So, can you just answer the question about the vice chair and her secret meeting? >> Sure. I'm I'm 
+happy to to the extent I can share it with you. I um uh the vice chair has been an excellent colleague in my 
+first seven weeks. I'm aware of the letter you sent to the inspector general out of an enormous respect for 
+him. Uh his investigation, what he chooses to do with it, I'm going to leave to him to do without trying to 
+micromanage that. I'd be interested in the judgments that he that he comes to. >> So, you will support 
+his investigation. Have you made your own investigation? Did you ask her if she spoke at a secret meeting 
+during the blackout period? I agree with the suggestion um that the inspector general is an independent actor 
+and I'd be very interested in his decision. >> You just said you're the guy in charge. Did you ask her 
+about the secret meeting that took place? >> Did you ask her? >> I I can answer a simple question 
+which is I wasn't at the meeting. I don't I don't know the facts, but I'd be very interested in the fact 
+being done by an independent inspector. enough to ask how can you be chair and not ask your own vice chair 
+whether or not she violated the blackout period, violated the law. >> I think it'd be inappropriate for 
+me to prejudge facts that are being discovered by an independent >> judge them if you don't ask. 
+>> Well, I don't know how to prejudge them if I wasn't in the attendance of a meeting. >> Did you 
+ask? >> Uh she's been an excellent colleague. >> Did you ask? I've asked her a lot of things 
+about supervision and regulation because we've been busy doing a lot of real work last. I got to say, I'm 
+gonna take the same time you did. I just got to say, >> you hope so. >> The tone that you are 
+setting is one that seems to invite corruption and that's going to be a real problem. >> We had set 
+we've had seven weeks, Senator Warren, and we've set a tone of performance, accountability, responsibility, 
+and integrity. Senator >> has the floor. >> Thank you, Mr. Chairman. Mr. Walsh, welcome to your 
+first meeting. >> Thank you, Senator. >> Uh, let me give you an opportunity. I I think I've got 
+some questions that I think are important with regard to the Basel 3 and what we're going to do with it. But 
+before we get into that, I think you've been basically harassed a little bit in terms of making accusations 
+to you. Let me give you just a minute to perhaps respond in a just straightforward manner to some of this 
+stuff. Anybody give you a hund00 million dollars? >> Uh, no, Senator. No one did s any such thing? 
+>> Possible that you may have had assets that were sold based upon an agreement that you had uh as you 
+became the nominee for the chairmanship. Yes, I had earned assets over a long period of time and went over 
+and above uh any ethics agreements and have sold or in the process of selling have nearly completely sold 
+everything that I had earned during that period and have rolled those into the equivalent of cash and tea 
+bills. >> So basically away from investments uh based upon the market and back to to treasuries. Yes, 
+exactly right. I thought that that was the prudent thing to do given the responsibilities and the importance 
+of setting the tone at the top. Culture is the big driver of a lot of things and in my first seven weeks, 
+Senator, we're doing our very best in the best of the Fed's traditions to get the culture right, to get the 
+strategy right, and to get policy right. And if we can do those things, all of which are to the left of the 
+decimal point, might not be of such great interest to people that are trading on Wall Street, then I think 
+the decisions we make to the right of the decimal decimal point can be better. So we can do a better job of 
+fulfilling the mandate you gave us. >> Yeah. you um the ranking member had had asked a question with 
+regard to another member on the committee um uh Nikki Bowman and you indicated that if there was an 
+accusation being made as to an inappropriate meeting that if the inspector general was doing it that you were 
+going to hands h you were going to be hands off on it. Seems to me that that's pretty appropriate. Uh because 
+if you would have gotten involved in it the accusation from some members on this committee would have been 
+that you were trying to influence it. Yes. >> Uh, can you talk a little bit about the logic? Am I on 
+the right track with regard to the reasoning that you have for allowing the inspector general to do the job 
+that they were asked to do in the first place by members on this committee? Yes, Senator, you're you're 
+exactly on the right track. Um, I'll just say more broadly that my fellow governors, my reserve bank 
+presidents, they've received me incredibly warmly. I admit that I show up with a lot of ideas for reform in 
+monetary policy and supervision regulation and payments. I've only been there a short while for seven weeks, 
+but instead of an institution acting inert, what I found is my colleagues are really open-minded to change. 
+What I found is we're going to have a good family fight. I'm not imposing ideas. That's part of the idea of 
+the task force as the chairman referenced. But we're going to try to be better at our jobs, fulfill our 
+mission, be accountable, be responsible, and do it all with the utmost integrity. That's my intention. We're 
+early into this. I don't want to prejudge outcomes. We made a lot of progress in a short period of time, and 
+frankly, I'm proud of it. >> I I like the idea that you're putting together working groups. I think 
+that will give up give an opportunity for a fresh look at a lot of things going on. As I shared with you in a 
+phone call earlier, it's not a matter of being necessarily vindictive or angry with previous chairs or 
+previous members. It's a matter of making things better for the American people. And that's really what we 
+ought to be talking about today. So, let me just in the minute and 14 seconds that I've got left on mine, let 
+me talk a little bit about Basel 3 in particular. I I I think you and Vice Chairman Bowman and the respective 
+financial regulators, I think you've done a good job in terms of your roles with regard to the Basel 3 
+reproposal that was issued this March. The 2023 proposal would have substantially increased common equity 
+capital requirements for category 1 and category 2 banks by approximately 19% failing to strike a balance 
+between maintaining resiliency of our banking system and doing so without hampering lending. I think this is 
+a really critical item and next to next to what artificial intelligence is going to do in terms of our our 
+our productivity, I think it's one of the biggest issues out there. With the June 18th comment deadline now 
+behind us, are there any other categories of feedback that you're weighing more heavily than others such as 
+the adjustments to leverage ratios or anything along that line? And if I could, is there going to be a go 
+live date this year sometime? any any idea when you might actually uh be able to talk about the when this 
+thing is going to go public for us? >> Uh Senator, well, thank you for your question on supervision 
+regulation. As as I mentioned before, I've shown up with a lot of ideas for reform, not just in monetary 
+policy, but in supervision and regulation, too. When I was before this committee some 20 years ago, there was 
+a debate about what the Basel process should be. Boy, we should get to the bottom of that 20 years later and 
+we should end up with a set of reforms in the United States that makes our financial system and our banks 
+safer, sounder, and more competitive. It is that competition which provides better and more uh agile credit 
+to the real economy. Uh the Basel endgame, Senator, is not America's endgame. I am happy to work with 
+international regulators to try to find common views, but we're going to do the right thing for the US 
+economy. As you mentioned, we're out for public comment. I'll be very interested in the comments before we go 
+final with a prop with a proposed final rule. >> Let me just say uh this is already off to a good 
+start. [laughter] We're going to stay around five minutes period. Thank you'all. Senator Reid, floor is 
+yours. >> Thank you, Mr. Chairman. Uh um Chairman Warsh, I want to see if I put a cap on this 
+discussion between Senator Warren and Senator Rounds. When will you disclose who brought your assets? When? 
+>> Um I believe there's periodic requirements under the ethics laws and I'll fully comply with them. I 
+think the next reporting requirement is at some point in the next quarter or so >> and you will fully 
+disclose who you sold your assets to. >> Well, fully comply with the with the law and the ethics 
+agreement. >> Thank you. uh AI is making a huge impact on everything we do uh particularly the banking 
+system and as you're aware uh an inter agency governmental group commerce treasury energy always etc has 
+authorized the major banks the eight major banks to use mythos to evaluate their security u would you agree 
+that's important for all financial institutions to have access to these types of AI tools so that they could 
+analyze their u operations for cyber vulnerabilities. >> Yes, I think the broad financial system has 
+new vulnerabilities with these new technologies. I wouldn't want to just isolate mythos though. The other 
+large language models have rival products. The changes the efficient frontier has changed even in the last 
+month. But as these new models find their way more broadly, our banking system and frankly the Federal 
+Reserve needs to do all we can to patch any vulnerabilities that we have. Uh >> what are you doing to 
+ensure that these uh midsize and smaller banking institutions have access to whatever AI tools appropriate as 
+quickly as possible. >> Yeah. So I I I share the sentiment Senator Reid. There is a we are not the 
+deciders as to who has access but I have not been shy in sharing my views with authorities across the 
+government about the vulnerabilities and have been asking for access not just for the Federal Reserve but for 
+other institutions to a whole range of these new uh uh artificial intelligence models so that they can 
+protect themselves. uh if you said to me what worries you over the course of the next several months, I want 
+to make sure that we're as protected as we can be from uh foreign actors that want to do us harm. >> 
+Well, let me uh change stay with AI, but change the focus a moment. Uh recently, Governor Waller and New York 
+Fed President John Williams have warned that AI investments may be increasing inflation and many economists 
+have similar warnings. So, so are AI investments current drivers of inflation? >> Um, this is one of 
+the good family fights. Uh, let me give my own view on it, which might be somewhat nuanced from from the way 
+you just described it and some of my colleagues. Um, the shock of AI, the supply shock of AI has an effect on 
+demand and supply. We see the effect on demand much more quickly. We see it in the capital investment I 
+referenced. We see it in the prices of chips that are going up. We're inferring, which is just a fancy word 
+for guessing, when the effects will happen on the supply side of the economy. I don't view a one-time change 
+in prices as necessarily being inflationary because I think there's a supply response in that way. This is 
+different from a foreign conflict and what it might do, which tends to reduce the supply side of the economy. 
+Will it increase measured prices over the course of the next 12 months? I suspect it will be. Whether that's 
+inflationary or not, that's up to the Federal Reserve and we're going to have something to say about that. 
+>> Okay. Now, uh one of the interesting things about uh our economy, it's becoming more and more 
+productive. But one of the dis disappointing things is that household pay is not rising uh relative to that 
+productivity. and we're seeing less benefit from productivity gain. So, uh, what's driving this trend? 
+>> Yeah, it's a it's a it's a great question. I don't have a perfect answer to it. Like you, we think a 
+lot about real take-home pay. The part that the Fed can do a lot about is the real part. Um, if inflation 
+were lower, real take-home pay would be higher. That's just the arithmetic. Mhm. >> Your other question 
+is a broader one, which is what are we going to see the productivity improvements lead to a surge in wages? 
+Wages have moved up at a reasonable pace, but it's likely that as productivity moves up more, we should see 
+wages move more. Getting that timing right, understanding when that happens, that's a puzzle and it's a 
+puzzle we're going to continue to work on. >> In the last 10 seconds, will AI eliminate jobs at a 
+catastrophic rate? So, you're you're asking me to prejudge the task force. My short short answer is over the 
+long term, absolutely not. I believe that this is a long-term job creator, but will it be disruptive and will 
+some people have their jobs at jeopardy because of the new technologies? On that, I can't offer any sort of 
+guarantee or comfort. Senator, >> thank you, Mr. Chairman. Um, chair, thank you so much for being here 
+with us today. certainly appreciate the opportunity to have a conversation and obviously so early in your 
+tenure um in in this new role. Uh in this year's monetary policy report, one of the most encouraging themes 
+is the increased in business investment that we're seeing across the country in Alabama and many places. 
+We're seeing companies expand uh manufacturers grow and communities will are benefiting from that investment. 
+I believe that these are good signs and that they're also important for the future because they help us 
+determine whether America remains the most competitive economy in the world. My question for you is as you 
+look at the economy, what data tells you that today's investments are laying the groundwork and the 
+foundation for a stronger long-term growth and greater American competitiveness? >> So, it's a it's a 
+great question and thanks for highlighting the capital investment boom. This is what most countries are 
+searching for. This is the this is the seed corn for the next group of job creation and productivity. To be 
+honest, over the last dozen or so years, we have been waiting for the surge in business investment. I know in 
+some academic accounting sense this is leading to a surge in prices in the la in the next 12 months. I don't 
+want to sound dismissive of it. The surge in prices is real. But I'd sure rather the most successful 
+companies in the world investing in property, plant, and equipment than doing a share buyback. So I'm 
+encouraged by it. Uh the trend is our friend here, and this business capital investment is contributing 
+massively to the GDP we've seen in the last 12 months. My colleagues know I'm not big for forward guidance, 
+but I would guess that that trend continues. Um what gives me optimism about it? Well, when the private 
+sector deploys this amount of capital, they must see something shiny at the other end of that rainbow, they 
+must see a very good return on investment. That's why they're taking this capital and they're putting it to 
+work. I tend to think that private investment has a multiplier way higher than one. Um, I'll let you and 
+others judge whether that's true of government spending, too. >> Um, I'm going to go ahead and and 
+switch gears because I know we're on a tight time frame today, which I appreciate. Um, and I'm going to 
+follow up on a question that the chairman asked. I'd like to get you to kind of dig into this. Some banks are 
+already approaching and crossing into new tailoring categories, and they're making staffing and compliance 
+and long-term business decisions based on thresholds that haven't been updated since 2019. At the same time, 
+the Federal Reserve continues to rely on those categories and other regulatory frameworks. So my question is 
+how are you thinking about updating these tailoring frameworks when it comes to what banks can expect to see 
+and and proposals in the future? >> So it's a it's a great question one I take seriously to be candid 
+with you and the chairman the other members of the committee. Monetary policy has distracted me a bit in the 
+first seven weeks but the Federal Reserve chairman is supposed to be the chairman of uh monetary policy and 
+payments and consumer affairs and supervision regulation. But I can tell you this. Uh, Vice Chairman Bowman 
+has been working on these initiatives. She has briefed me about them. And broadly, I'll step back and say 
+modernizing our banking systems, streamlining regulations so that the rules that apply to the systemically 
+important financial institutions are not one-sizefits-all for every other. [snorts] The secret to the 
+American economy is we have a few thousand banks and other providers of credit who know their smaller markets 
+bigger. I'd rather have that system than what most of our G20 peers have where they have a half a dozen 
+institutions implicitly backed by their government. I think reform is coming to supervision and regulation. I 
+have my own ideas that might be as dramatic as I've already shared on monetary policy here. And I think the 
+sooner we can get to the bottom of it, the better. If I could say one more thing, the reforms we've been 
+putting in place over the last 15 years coming out of DoddFrank, as we learned in the Silicon Valley Bank 
+example and the first Republic example, they didn't work perfectly. My predecessors had very little choice 
+but then to do another overall bailout. We don't want that to happen again. So, we want to tailor the rules 
+and the capital so they serve the best interests of the US economy, which I describe as a system that is 
+safe, sound, and competitive. And I I just hope um given what you've said, we we double down on reviewing the 
+framework. We know how important tailoring is and also just the need for regulatory certainty. So, thank you 
+for that. In my last remaining seconds, I just want to say thank you for your commitment in the first seven 
+weeks, uh almost two months. You said it earlier, but to performance, to accountability, to responsibility, 
+and to integrity. um appreciate what you're doing and look forward to continuing to work with you. >> 
+Thank you, Senator Senator Warner. >> Thank you, Mr. Chairman. Chairman Warsh, it's um good to see you 
+again. Um 7 weeks in, you got a hell of a job. Inflation's still too high. How you predict the president's 
+chaotic foreign policy wars in the Middle East. Um I'm going to come to an AI question, but let me be clear. 
+As I said to you yesterday, I didn't vote for you, but we're going to find a lot of common ground to work 
+together. I am going to hold you and I've been appreciative of your comments about inflation about the Fed's 
+independence but I think there are many many common areas we can work together on and look forward to that. I 
+want to hit you know when one of the things that most impressed me in our first meeting was rec your 
+recognition that probably the biggest issue you're going to face is AI. Um my two cents is I think it is 
+going to have long-term I agree with you going to be job creation. Very short term I think you may see some 
+upsurge in terms of you know energy production and data center buildout. Years two through five 2 through six 
+I think there could be massive economic disruption particularly towards new college grads. You know, it's 
+policymakaker's job, but if this is going to have the potential effect, I hope I'm wrong, but I wouldn't. I'd 
+take a bet with you that three years out, we could see 30% recent college grad unemployment. If we see that, 
+what do you see as the Fed's role is in turn terms of urging your actions, but also helping us sort that out? 
+>> Senator, first of all, I appreciate it. Um um I promise to >> Don't say nice things about me. 
+He's he's got me on a clock. Answer my question. >> All right, good. Well, let me just say I >> I 
+do indeed. >> I Let me just say this. I appreciate that you haven't given up me given up on me. I 
+haven't given up on you. I haven't given up on your colleagues. I'm the independent head of a central bank. 
+No matter how people voted, I'm going to be serving all of you. >> This doesn't count against my time. 
+[laughter] >> AI, let me let me get to the core of your question. Um I am more confident that there 
+will be a surge in output because the US is at the cutting edge of AI than any certainty about the effect on 
+the labor market in the next few years. Um the United States will be a winner. That is my my informed 
+judgment. But this is a time filled with both challenges and risks. We take both parts of our dual mandate 
+seriously. Do I believe that the productivity improve improvements over time will be structurally 
+disinflationary? I do. I believe everything technology touches ultimately gets cheaper. Your background, I 
+think, would be consistent with that. What are going to be the effect on the labor markets in years 2 through 
+5? It's a fair question. The way I would frame it to you on college graduates, if you're a new college 
+graduate, AI is probably native to you. you've been playing with with AI effectively since your high school 
+years. I feel as though you likely have the skills and the intuitions the same way that people of my 
+generation or younger were native to the internet. If you're already been in the workforce for a while and 
+you're a little resistant to change, that's where the encouragement needs to be to think about how these 
+skills can make you more productive. These are fair questions. I don't have easy answers, but I do have a 
+task force that we have to work. >> We have to work together on because if we hit this >> bump 
+and I think it's going to come, we got to we got to collaborate. Now, Senator Reed asked a very good question 
+about Mythos and I 100% agree. Mythos is already yesterday's news, >> right? >> Um because these 
+models are coming out so quickly and they pose such security risks. I think it's incumbent because of the 
+risk it provides to our financial system that at some point you you're going to be and I'm asking you now. I 
+think Personally, I believe we need some level of mandatory testing be pre-release because of the potentially 
+draconian and dramatic effects. Now, how long who's on that panel is critical, but what do you think about 
+pre-esting release regime going forward more than just the voluntary willingness of a company to come 
+forward? >> Yeah. So, two things. First, these models are are in their capabilities are growing at an 
+exponential rate. In technology, we would say hyper Moore's law. It wasn't long ago people sitting in my 
+position thought that the US was a time of secular stagnation. All the good stuff had been invented. Boy, 
+that seems awfully annoc. Um, I don't have, as it currently structured, decision rights as to who has access, 
+but I do have a bully pullpit, as you mentioned, and I'm unafraid to share my views with the Treasury 
+Secretary and others. uh the cutting edge is moving very quickly. Key institutions are vulnerable. The the 
+sooner they can mitigate their vulnerabilities, the better. I'm looking forward to >> I hope I hope 
+that you will be willing to advocate moving on beyond a voluntary regime because the down the downside risk. 
+Um 12 seconds, you know, quickly address the role of all of the Federal Reserve banks and your vision of what 
+the role they should play. >> So, very quickly, I'll just say this. Um, we should be good stewards of 
+taxpayer money. We should be consolidating functions where we can. But my mental model, Senator, as I 
+mentioned to you yesterday, is we should have 12 centers of excellence. I've got more than 12 problems on my 
+plate. And if each reserve bank were to develop an expertise on something that matters to our remitt and the 
+American economy, I'd encourage them to develop that advantage. >> Senator Rickettts. >> Thank 
+you, Mr. Chairman. Chairman Warsh, great to see you. Thank you uh for being here and congratulations on your 
+first semiannual reports. Good to see you here again. >> Uh we got some good news this week. Inflation 
+was down and that's progress. Progress under this administration and under uh your new leadership at the Fed. 
+During the Biden administration, we saw reckless spending that drove prices up and left Nebraska families to 
+foot the bill. In 2019, the federal deficit was roughly $900 billion and by 2024 that was $1.9 trillion. and 
+we saw inflation go up 20% really stressing Nebraska families at the grocery uh store. Cleaning out this mess 
+is going to take discipline and it's going to take reform. Chairman Warsh, we discussed in our meeting also 
+how to implement some reforms such as process improvement. We talked specifically about lean six sigma and 
+the opportunity there. You promised to have a reform uh oriented Federal Reserve and we're willing to break 
+up or you know make a break from some of the mistakes of the past. I commend you for that and want to work 
+with you to see it through. One of the most important places to start is with the Fed's balance sheet, an 
+issue I've consistently raised with other Fed governors. The Fed expanded its balance sheet dramatically 
+during the pandemic, peaking at nearly $9 trillion. Since 2022, the Fed has shrunk it down to about 6.5 
+trillion in December 2025. And u I'm glad to see that the Fed was making progress over the last few years, 
+but the balance sheet is still not down to precoid levels. Actually, the balance sheet is rising again and 
+now stands at around $6.7 trillion today. Chairman Morris, do you see the balance sheet increasing again as a 
+trend in the right direction or the wrong direction? >> Uh Senator, thank you for the question. Um, 
+I've been focused on the Fed's balance sheet, frankly, since my last day at the Fed some 15 years ago and to 
+the present. Uh, I don't want to prejudge the the conclusions of this balance sheet task force where, as the 
+chairman said, I put together a team of rivals to to fiddle with it, to evaluate it, to come up with their 
+own judgments. But I'll give you my predelections. Um, monetary policy is made currently through at least two 
+material instruments, interest rates and the balance sheet. In fact, we grew the balance sheet, created 
+quantitative easing when I served the last time in the darkest days of the crisis because we had already cut 
+rates to zero. So, expanding the balance sheet had the intent of helping markets clear, but it was also 
+another tool of monetary policy. I still believe that is >> Wasn't that supposed to be temporary? Uh 
+indeed that was our entry principle was that we would get out of that business. The central bank has not for 
+a whole range of reasons gotten out of that business. My general view is as we think about inflation risks 
+and we think about the conduct of monetary policy at large. We have two instruments that we should be 
+thinking about. The balance sheet is one of them. I'll make only one other point. Um uh >> monetary 
+policy needs to be architected, needs to be designed by the policy makers around the FOMC. The plumbing, the 
+operations, how we do that is conducted by the New York Fed. I want the architecture to drive the plumbing, 
+not the plumbing to drive the architecture. We're going to make a monetary policy decision with respect to 
+the balance sheet. Uh I'm very open-minded to changes and any changes we make will be well discussed, well 
+shared and I think quite deliberate and the financial markets who have seen the the balance sheet grow 
+effectively for a generation. They'll have plenty of time to adjust if we make changes. >> I know you 
+said you just wanted to make that one comment, but I'm going to push you to ask for a little more. What is 
+what do you believe is the smallest balance sheet that the Fed could operate with? Um my predelection my 
+inclination is interest rate policy should be the driver of monetary policy. The balance sheet should be as 
+small as practicable to conduct operations and the balance sheet can expand when there's a crisis. The balance 
+sheet can also expand if an institution needs liquidity. That's part of the reason why we've created uh a 
+discount window. but a permanently large balance sheet with a duration of assets that are larger than the 
+duration of assets of treasuries, for example, that are held in the uh broader public markets. Boy, that sure 
+seems a little bit more like fiscal policy than I'm comfortable with. So, I would like us to have a leaner, 
+meaner balance sheet, but it's a discussion for my colleagues, and I've got three real pros that are going to 
+help us think it through. >> All right. Well, I have run out of time, and I'm sure the chair will be 
+happy. I'm going to maybe get done before it reaches zero. >> But I do have a a question I'll follow up 
+with uh for the record on scams because this is something that the banking industry is telling me they're 
+increasingly seeing and it's costing uh people who have deposits a lot of money. So I'll follow up with that. 
+>> Senator, we're opposed to scams, but I'm happy to follow up. [laughter] >> Tough stance. 
+>> Good. Good to hear. Good to hear. This is great. Senator Van Hollen. >> Uh thank you, Mr. 
+Chairman. And Mr. Chairman, we we agree on that point. Um, let me uh turn to the headline inflation numbers 
+that came out uh yesterday at 3.5% above the Fed's 2% target. Prices are too high for families and we need to 
+get them down. I think we can agree on that. At [snorts] your press conference a few weeks ago, you said that 
+higher inflation in part, and I quote, reflects supply shocks that have driven price increases in certain 
+sectors, including energy, unquote. In other words, a reason that we're seeing prices go up is that the 
+supply of products and services has dropped in some areas of the economy, right? >> Yes. >> And I 
+do think it's important that the public understand the causes of some of these supply shocks. Uh you would 
+agree, would you not, Mr. Chairman, that the war in Iran has caused a supply chock in the energy markets? 
+>> Yeah, the military conflicts have caused the price of oil to be higher than it otherwise would. 
+>> Absolutely right. and Americans are paying the the burden of of that as we as we go. Um, we've also 
+seen supply shocks in other areas. Last year, your your colleague Austin Goolsbee uh president of the Chicago 
+Fed said that, and I quote, "A tariff is like a negative supply shock," unquote. And we've seen plenty of 
+tariffs. Obviously, we have the Supreme Court decision that may bring those down over time, the impact of it. 
+uh but the negative supply shocks uh have been real and can be traced to the Trump administration agenda. So 
+when you say that supply shocks are part of the reason prices are going up, you would acknowledge that 
+they're the result of decisions that have been made by the president like going to war with Iran, right? 
+>> So what I'd say is um particular price shocks happen to particular prices that we don't have control 
+over. But I don't want to suggest we don't have control over inflation in the medium term. That's our job. 
+But screworm affects beef prices. Other things affect oil prices and milk prices. And I I understand that has 
+an effect on people's household household budgets. Indeed it does. And I think we've seen the the price of 
+energy go up by billions and billions of dollars. And the American people are essentially paying for that at 
+the at the pump and other places in their pocketbooks. Um, as you know, your your predecessor as chairman was 
+regularly harassed and bered by the president of the United States on social media with respect to interest 
+rates. Uh, at least so far, you seem to have escaped um that that fate. Uh, but I do think it's important 
+that we have an understanding of whether or not the president is trying to influence uh Fed conduct. Uh, I 
+know you were asked recently at your last press conference um about any communications with the president. I 
+I think your response was on the president. I don't have anything for you. Mr. Chairman, was that a yes or no 
+with respect to whether you've had communications with President Trump? >> So, I like what I said the 
+first time, Senator, I don't have anything for you. I will say this though. I do meet with the Treasury 
+Secretary. I talk to him often between that. Mr. I just want to make sure I make my own decisions policy. 
+>> I just want to understand the answer. >> Have you or have you not had communications with 
+President Trump since you took this position? >> So, I just don't want to be in the business of sharing 
+uh discussions that the president and I have. Okay. >> I will tell you what I've said to the president 
+repeatedly instead of the Treasury Secretary. Uh they chose an independent guy to do an independent job and 
+that's exactly what I plan on doing. And I'd like to think over the last seven weeks, given the decisions 
+we've made and the things we've done, that it's not just words, it's actions now to start to demonstrate 
+that. >> So, so Mr. Chairman, I I mean, I think it's important I take from your answer, you've had 
+communications, you don't want to disclose the content. Um, will you commit to do what your predecessor did, 
+which was to release your appointment schedule and conversations with President Trump? >> Uh, I don't 
+know what the past practice was. Um, I will be in full compliance with the law. As I understand it, there's 
+an ongoing foyer request on my calendar and I will share it consistent with the law. I believe the first 
+one's already come out. >> I think this was a this wasn't in response to, you know, any illegal 
+requirement forced by FOYA. It was a question of transparency. And I do think given the president's past 
+record of trying to influence Fed behavior via social media with respect to your predecessor, if he's trying 
+to influence Fed behavior through private conversations with you, I think that needs to be something the 
+public is aware of. And I'm asking you whether you will commit to disclosing when you have conversations with 
+President United States. >> Senator, I can offer you this assurance. Uh the president has not uh before 
+I took this office, before I raised my right hand, he has not tried to influence the conduct of monetary 
+policy. And if he tried to, I would continue to keep my head down and do the job. I don't have a long record, 
+but I've got a 7-week record, and before that, I had a 25-year record, and I think that should count for 
+something. >> I appreciate that. I hope you'll just follow the president, your predecessor, >> 
+Senator Kennedy, the floor is yours. Um, well, Senator Van Hollen's my buddy, so I don't, this is not meant 
+toward him, but I always get a kick out of my Democratic friends talking about transparency, you know, toward 
+toward the end, God bless him, you could you could bake a Thanksgiving turkey in the time that it took 
+President Biden to walk across the stage and Uh they kept it quiet till they couldn't. U I'm sorry it was in 
+that condition, but [snorts] this transparency stuff cuts both ways. What's wrong with you talking to the 
+president of the United States? >> So Senator, I've got a wide lens. I'm interested in hearing points 
+of view from a whole range of people. We have a narrow remit, but I'm interested what's happening in the 
+world in the Middle East. >> I mean, is there anything wrong with it? Do you have to when when you do 
+it, do you have to like go out and look for the last phone booth in Washington and put a bag over your head 
+and sneak in there and call him >> or return his call? Is anything wrong with that? >> I 
+certainly don't feel uncomfortable receiving a call from the chairman of this committee or the president of 
+the United States. >> Okay. You do you think Ben Bernanke ever talked to the president? Uh I when I was 
+a governor, I recall several conversations and >> frean >> when I was a young staffer in the 
+White House, I remember being honored by uh him coming into the White House and meeting with the president 
+and the president's adviserss quite frequently. >> Okay. The the the uh I think what I would give me 
+concern and I think it's the basis for my colleagues concern is that that uh uh you just do whatever the 
+president says. But you're not going to do that, are you? Where are you, >> Senator? I'm going to call 
+it the best I see it. Uh the president never asked me to do anything inappropriate and if he did, I wouldn't 
+do it. I'm going to follow the law and do my best to follow the remit you gave us. >> Okay. So, in the 
+last year or so, recent past, I'll say the Fed cut rates three times because they were worried about the 
+labor market. Is that a fair assessment? >> That's my sense of what they did for >> work. It 
+worked. Correct. >> Well, uh that's a longer discussion. They did. Is the labor market in a mess today? 
+>> Uh, the labor market's in good shape, but I wouldn't want to call that causal connection. >> 
+So, it so I don't have much time, Mr. Chairman. I love you like a taco, but I'm going Yeah, you don't feel a 
+buster on me. Um, [laughter] so it worked. Okay. Now, well, now we have inflation. Okay. What caused it? 
+>> In 20 seconds. >> In 20 seconds. Inflation uh is caused when a one-time change in prices 
+broaden out. >> I know what inflation is >> and the federal and the federal caused it. >> 
+Monetary policy, sir. >> Okay. Well, I would say what caus it is causing it is AI. Um the conflict with 
+Iran, duh. Um and probably the residual effect of the fact that some imports have become more expensive. 
+Okay. And I think any fair-minded person would conclude that um there was a lot of economists said, "Oh, you 
+know, the impact of inflation on the rise in the cost of imports would be a oneshot deal." You know, you can 
+teach that one round or flat. I don't know. I think it's probably had an residual effect. Okay. Is it 
+temporary or is it permanent? The inflation? >> Uh, it's not going to be permanent under my watch, 
+Senator. >> Okay. What are you going to do about it? So, we're going to do three things. One is for 
+those people in markets that think the Fed really was comfortable with a higher level of inflation, we're 
+doing our best to disabuse the money. >> Okay. You're going to talk about it. What's the second thing 
+you're going to do? >> We're going to take ownership of it. We're going to say we have the power to do 
+something. >> Okay. You're going to own it. That's right. >> What's the third thing you're going 
+to do? >> We're going to look at our tools in the changing economy, both balance sheet and interest 
+rate, and see whether we need to adjust policy to take it head-on. You're going to look at your tools. That's 
+the third thing. Um I'm not asking you what action the Fed's going to take. That would be improper, Mr. 
+Chairman. I wouldn't do that and you wouldn't tell me anyway. Um give specifically like you're talking to a 
+10th grader. Okay. Not not what are your what are your what are your your options? Leave it alone, right? 
+Leave rates alone. Is this one option? >> That is an option, Senator. >> Raise rates. >> 
+Another option. >> Uh cut rates. >> Uh a third option, a non-exclusive list of options, but yes. 
+>> And a lot of it depends on whether it's temporary or permanent. So, how do you decide whether it's 
+temporary or permanent? I got that in with six seconds left. >> Uh well done. You use five task forces 
+to get to the big and hard questions instead of trying to paper it over with uh policies that have not been 
+proven as successful. >> Senator Cortez Masto. >> Thank you, Mr. Chairman. Uh Chairman Warsh, 
+good to see you again. Thank you for meeting with me. >> Um you've talked about the task forces. What's 
+the timeline for getting reports from the task forces? >> So, um I'm a I'm not a very patient person. 
+Uh people have said that to do all this good work, you'll need years. I gave him six months. >> 
+Wonderful. Thank you. And that will be made public. >> Yeah. The the the details, the even much of the 
+deliberations, I want to do that in the public square because we all own uh we all own these decisions at the 
+end of the day. Ultimately, decisions will be be made by my FOMC colleagues. I think they'll start to get 
+briefings on some of the early reports from the task force, early indications, hopefully as early as 
+September with my expectation and hope by year end we're going to hear their conclusions and decide what to 
+do with it. >> Thank you. And then just for clarification in January of 2025, do you recall the 
+inflation rate? It was about 3%. Correct. >> I'm going to have to take your word for the precise 
+number, but I knew inflation was still well above target. Yeah, it it was about 3% and that's when Joe Biden 
+left office and the current inflation rate right now is about 3.5%. Is that correct? >> Uh there are 
+various measures. I'm confident in telling you it's been above target for 63 months. It's not% >> by 
+some measures by other measures it's not. But I don't want to suggest I'm happy with any of those measures. 
+I'm not. >> Okay. I appreciate it. Um let me talk a little bit about an area that is important for me 
+and I think many states that deal with a um hospitality tourism industry. Um unfortunately under this 
+administration we've seen significant declines [snorts] in the number of international visitors to the US. 
+The current situation has actually led to our travel trade deficit in this country going from a $51 billion 
+surplus in 2019 to a 72 billion deficit today. How does the the Federal Reserve governors consider the 
+specific impact of higher unemployment, lower wages, and reduced economic activities in communities with 
+large tourism economies like Las Vegas? So we're we are consumers of this information. We are keenly 
+interested in the good side of the economy and the services side of the economy. My my view which is not 
+universally shared in the economics profession is that there's no limit to what this economy can grow. 
+Productivity growth can move higher and that doesn't tell me it's inflationary. But we care about the 
+services part of the economy and we're trying to take that into account when we try to make decisions about 
+the dual mandate. >> Well, I appreciate that because you're right. Your dual mandate is maintain stable 
+prices and full employment. Let me tell you what's happening in the hospitality industry because of the 
+policies of this administration. When you talk about full employment, it is not happening. What I am hearing 
+from people in my state is that it's not necessarily full employment with good wages. It and livable wages. 
+They're patching together multiple low-wage jobs because they are taking down from full unemployment to 
+part-time employment. Do you consider that in your analysis going from full-time employment to part-time and 
+many individuals having several part-time jobs? How do you calculate that into your analysis? >> So, we 
+think hard about it. You heard in my opening statement um the the clear judgment of of my colleagues and me 
+which is the labor market broadly looks in balance. But I don't want to make that sound like it's easy for 
+hardworking Americans in your state and other and else and other places. There's a lot of dynamism happening 
+in the economy. There's a lot of structural change and during periods of transition, it's often true that the 
+labor markets um in aggregate look better than people feel in in different parts and during disruption, they 
+try to recreate a job they had before through uh the gig economy and other means. We take it into account. 
+Overall, I would say the labor market part of our mandate uh looks pretty good. The price stability part of 
+our mandate looks less good. >> All right. and and and I I'm I am concerned because not just Las Vegas 
+but many tourism based industries and hospitality what we're seeing is lower full employment and I would hope 
+and this is a conversation I've had with previous chairs as well. I would hope that that you're considering 
+that it is a large sector of employment across the country and I know you made a statement that rise in 
+prices is not necessarily inflationary. Correct. At what point do you consider it to be inflationary? Is 
+there a timeline associated with that? >> So when an increase in prices in a in a particular category 
+like oil or like milk or eggs when we see that broaden out and affect the generalized price level, that's 
+something we can do something about. That's what the way I think of inflation. When prices go up, I know it 
+hits your constituents every day. I'm not trying to sound dismissive of it, but I also don't want to say that 
+there's much that we can do about cattle prices or milk prices today, but there's a lot we can do to make 
+sure that the entire grocery aisle doesn't have higher prices, and that's what we're committed to do. 
+>> Thank you, >> Senator Hagerty. >> Thank you, Mr. Chairman. Chairman Warsh, on July 18th, 
+almost a year ago today, President Trump signed my legislation, the Genius Act, into law. A thorough 
+rulemaking process is absolutely vital to ensure that US dollar dominance exists here in the digital age and 
+I look forward to seeing the Federal Reserve's ongoing work in this matter. I just want to make that point 
+clear. It's important needs to be done and very much appreciate the Fed's attention to it. I want to turn now 
+though to a broader concern and that has to do with the independence of monetary policy. You've had a number 
+of conversations with my colleagues about this. I want to emphasize something that I think is quite 
+important. the special insulation uh that the Fed receives with regard to monetary policy. Um I think as far 
+as I'm concerned, it shouldn't extend to every other function of what the Fed does. I think it should be 
+limited to monetary [snorts] policy. For example, you think about bank regulations and supervision. That's 
+entirely distinct from monetary policy. Regulation requires normative policy judgments about capital, about 
+credit availability, about risk, economic growth, the structure of the banking system. All of these 
+considerations need to roll into it. And you think about what's happened in recent years, regulation has even 
+strayed farfield. You think about what's happened uh with respect to climate policy or Michael Bar's failed 
+Basel 3 proposal. Uh these decisions are not the same as setting interest rates or managing the Fed's balance 
+sheet. And quite simply, I think they're forms of executive regulatory power. The Supreme Court has 
+clarified, for example, that the FDIC is subject to ordinary principles of executive accountability. 
+Comparable regulatory functions at the Fed shouldn't be held to a different standard in my view simply 
+because they sit within the central bank. So my question is this, Mr. Chairman, do you agree that the Federal 
+Reserve's independence should be narrowly tied to its monetary mandate? >> Uh, Senator, thank you for 
+the question. Like you said, independence is at its peak in the conduct of monetary policy. I believe that 
+when I showed up at the Fed in 2006. I believed at my confirmation hearing uh seven or eight weeks ago. I 
+believe it now. In the conduct of bank and regulatory policy on things like the Genius Act, my general view 
+is we should be working with our bank regulators, uh the other bank regulators, the OC and the FDIC. See if 
+we can't put out our rules together. What I don't think we want is any kind of regulatory arbitrage where 
+firms are trying to game who's got the lightest regulation and race there. I don't think there's anything 
+wrong with us working together with other bank regulators to try to figure out what's the best policy. I've 
+got some extraordinary colleagues at the Fed. They've been able to think hard about these issues. I think 
+those discussions should happen and do happen. >> I I don't disagree at all with that and I like I like 
+your approach in terms of coordination, but there's something deeper that I'm concerned about, Mr. chairman 
+and that is just make make an example. Let's suppose a future Congress decides to embed some sort of 
+regulatory function inside the Fed seeking to insulate it from our supervision from our oversight [snorts] in 
+some way that could become a backdoor that I don't think any of us want to see. And and what I'm trying to 
+make clear is that beyond monetary policy, you you just I'll ask you the question. Do you think that this 
+special insulation applies to other regulatory and supervisory types of functions? >> So I I spent 
+eight weeks as a summer associate at a law firm. So I'm probably not best best position to to opine on the 
+Supreme Court. Uh Senator Warren could do a better job than I. I do recall in the most recent opinion a 
+footnote from the majority that says we are not suggesting that if other things went to the Federal Reserve 
+it would it would get any insulation. Beyond that I'm on shaky ground in trying to opine on what the Supreme 
+Court uh opinion means prospectively. >> Yeah, I I wasn't looking for your legal opinion, but I do just 
+think as a matter of common sense I wanted to get that on the record that there is a real distinction here 
+and I appreciate that. Um I want I want to turn to to another important matter and that's the monetary policy 
+report that um that that you work with the most recent monetary policy report added a new aggregate to the to 
+the measurements the M2 aggregate and I just wanted to ask you to explain why this metric is useful and why 
+why it's been added. >> Uh thank you Senator. Um that was an Easter egg that we hid in there to see if 
+anyone read these monetary policy reports. So I'm I'm I'm encouraged that you did. Um there is there are 
+there is almost a page talking about M2 and monetary aggregates that was done with a purpose. Um uh I do not 
+show up here as a monetarist. I do not show up and say the secret to inflation is if we only knew M2 
+everything would be swell. But monetary aggregates had been taken out of the monetary policy report probably 
+about a decade ago maybe a bit longer. My view is that a modern central banker should have a mosaic of 
+information and should not be allergic to any data that happens to be inconsistent with dogma that he or she 
+might have been taught in econ one. Um I have this old-fashioned view that monetary policy has something to 
+do with money. >> I remember an old professor of mine that said who was a proper Keynesian economist. 
+He said, 'Well, I don't understand how to how to think about inflation in a place like Zimbabwe without 
+talking about money. So, I think money matters. What we witness when we looked at some of the monetary 
+aggregates is they are not perfect. We don't measure money very well. We don't measure the velocity of money 
+very well, >> but it's a pretty good cross check. And had we seen the surge and paid attention to the 
+surge in inflation and money in 21-22, we might have seen this problem sooner. I apologize, Mr. Senator 
+Smith. >> Uh, thank you, Mr. Chair and Ranking Member. Um, uh, Chair Warsh, uh, welcome to the 
+committee. So, you may know that Minnesota Senator Hubert Humphrey, who's um, once held the seat that I now 
+occupy for Minnesota, led the charge in Congress to include maximum employment as part of the Fed's uh, dual 
+mandate. And we can probably agree that keeping these two goals of maximum employment and stable prices 
+within the con confines of the monetary policy power that the Fed wields that just makes sense. Um because 
+it's a strategy that delivers stable prices, you know, a strate excuse me, a strategy that delivers stable 
+prices while working people can't find jobs or can't afford their lives. I mean, that's not a healthy 
+economy. I'm expect you to agree with that. >> And I do. Thank you. So, I was very interested um in the 
+task forces that you established last month to advise you on reform and modernization. And I want to just ask 
+you about one of them particular. You've created a task force looking at productivity and jobs. And that's 
+really good. It seems to me this task force should be able to get at the power of the Fed's dual mandate and 
+ask also some of the big questions that everyone is asking about the power the impact of AI on wages and 
+people's income and employment. So let me just ask about this particular task force on productivity and jobs. 
+So, as I understand it, um it is led by three people. Um venture capitalist and investor Mark Andre who's 
+made billions from AI and is a major Trump donor. Um another tech executive who recently laid off thousands 
+of people and then an academic economist from my alma mater uh Stanford University who is currently on leave 
+to do research at Anthropic. So, I want to ask about this. Is there anyone on the task force who has 
+experience in the labor market or somebody who can bring the perspective of an employer rather than an 
+investor to the questions that are going to be asked and hopefully answered by this task force? >> Um, 
+so if I could say two things, one is those three people you referenced are three of the smartest people that 
+I know and I've been >> I'm not disputing that. And I'm wondering how you intend to bring into this 
+work the perspective of people who are working people. Bring in the perspective of labor and not just 
+investors. >> I think it's a fair question. Um I've got 18 colleagues who are going to join me and 
+consume the deliberations they have in the report and we're the ones that have the dual mandate and as I said 
+to your colleague there is no disfavored part of our mandate and we're awfully focused on full employment. So 
+that's my commitment to you. We haven't outsourced this decision to three people. What we've outsourced to is 
+a bunch of thinking about this massive technology shock. And I'll only note one other thing. Chad Jones, that 
+professor that you mentioned, his academic work, he's an academic. I'll admit that. But >> I'm not 
+opposed to that. I'm just trying to figure out. >> But his academic work has been very very focused on 
+what is the effect of the labor markets of these technology shocks, both the good and the bad. And I think 
+that history he can bring to bear to the work of the task force. >> So can you can you understand why a 
+task force that is led by people in large part who were likely to get richer by AI might not be the most 
+credible people to folks on the ground who were doing the work who were worried about what impact this AI is 
+going to have on their jobs. and and there there's the concern of course is that the the productivity that is 
+expected to be delivered by AI if that actually happens that that the benefits of that productivity are going 
+to acrue to capital and not to labor and that it seems to me the credibility of this task force rests on 
+hearing the perspective of working folks in in that in their deliberations. I would expect before they come 
+to their conclusions, they are going to hear from folks that will be affected. They are going to hear from 
+employers that are getting struck with this technology shock and have disruption in their labor force. But I 
+don't want to suggest to you that in any of these task forces that we have the uh 19 people of all different 
+backgrounds. But I what I want to tell you is if you think they have a credibility deficit, I don't. I think 
+they're incredibly talented and we will make sure to take both parts of our dual mandate in consideration of 
+their output. >> I think the issue um sir is that um when there are the big guys sitting at the table, 
+is there anybody sitting at the table who's bringing the perspective of working people to those really 
+important questions? There are labor leaders, there are labor economists, they are folks that whose expertise 
+is in issues around uh wage stagnation and the how that impacts working people. And I would ask you to 
+consider bringing that perspective, not to be heard on the side, but to be actually at the table with the 
+with the big guys. I think that is a credibility issue that you could address very easily. Thank you, Mr. 
+Chair. >> Thank you. >> You're welcome. >> Senator Tillis, >> um, >> good 
+morning. >> Good morning. >> I think you're doing a great job today. I appreciate your composure. 
+Uh, Mr. Warsh, a a quick question on uh just u immigration. You know, some people are proudly discussing how 
+we had almost net zero u uh immigration uh in the last quarter, but we're we're starting to look a little bit 
+like China, Japan, European countries in terms of our replacement rate um in terms of natural replacement 
+rate. So if net immigration were to ref remain near zero for [snorts] an extended period, how would that 
+change your estimates on GDP uh the neutral interest rate and the amount of non-inflationary job growth the 
+economy can sustain? >> And and in some ways it touches on I think Senator Cortez Masto's uh 
+question too about jobs unfilled, but just curious. Uh >> thank you Senator. You you sure didn't toss 
+up a softball there. Um, the way I think about it is immigration policy is said by you and the 
+administration, but we are I I don't want you to talk about policy. I I what I'm trying to do is communicate 
+to the American people, we can make the mistake of Western Europe, Japan, and other industrialized nations or 
+we can fix this population growth problem. If we don't, these are policies, then how does that make your job 
+more difficult if we were to sustain the current trajectory? The way those decisions affect us is it affects 
+potential GDP. The biggest hardest decision we make is what can this economy produce? How fast can we grow? 
+Potential GDP is a function of two things. How many hours are we working? People in this country working. 
+>> But just in a word because I want to ask a few other questions they >> and then second 
+productivity. If at the end of the day if the work if the worker hours are constant, we need a productivity 
+boom. >> Just a real quick question. Would you be thrilled to know that we could guarantee zero net 
+growth for the next decade because that would make your job easier? >> Um, we're going to take the 
+number of hours the American people and your policies produce and we're going to do it the best we can. 
+>> We got a problem. You you can't fix it. But what I'm saying is if we're trying to make your job 
+easier, having this on the agenda is not going to make your job easier. And I and I understand the position 
+you have to take, but I want to point to something that people are high-fiving and talking about net zero 
+immigration growth as if it's a good thing. It's only a good thing if you want to repeat the mistakes of 
+Western Europe, Japan, China, and other nations that didn't get their replacement rate, right? You know, 
+bringing in uh great people that may have been born in Colombia and aspired to become a senator, for example. 
+Those sorts of things. Um I mean didn't get it right every time but u no u [laughter] the uh and uh Mr. Wsh I 
+I I told you also um and just for the American people do you have a magic wand where you can just walk in and 
+convince seven people of the FOMC to vote exactly the way you want them to. >> Uh perhaps I wish I do 
+but I do not have such a wand. >> So so you are one of a body where you have to gain consensus to make 
+an interest rate move right monetary policy move right? Yes. And it's a consensus consensusled organization 
+>> and based on some of the comments from even u uh Governor Waller who we'd consider to be, you know, 
+pretty hawkish just this week. He's not guaranteeing uh that we're going to be able to lower interest rates 
+anytime soon based on datadriven decisions. Did that just occur this week >> in a speech I think up in 
+New York? >> There are diversity of views. I wouldn't want to dwell on any one of them in particular. 
+>> No, it's okay. But what I've tried to explain to people who think the president can give you a call 
+or you make a decision, it happens. That never happens. Wouldn't have happened under Powell. Wouldn't happen 
+under you. Wouldn't happen under anybody who's responsible. Uh chairman. Um I just wanted to make that point. 
+The last thing if you could just tell me, I know you don't want to get in. I think Senator Britt asked you 
+some questions. I love the fact that you're doing reform. I would like to see the program, the project 
+charter for the task forces. If you have that, if people are managing this milestones, any sort of dashboard 
+you have, the things that any well put together uh set of task forces would would have assembled for a 
+six-month project, I'd like to just track it. Not not necessarily for the record, but if you could commit to 
+have a meeting with the people running it with me, I'd like to see that just to watch the mechanics play out 
+over the next six months. Um, and then lastly, if you can, uh, I believe Silicon Valley Bank is a is a 
+classic example of why the Fed needs to have its independence on monetary policy, but on bake examination and 
+supervision. I believe a US senator should minimally be able to go into a skiff and understand why banks like 
+Silicon Valley Bank had multiple matterers requiring attention and then matterers requiring immediate 
+attention. well before they failed and nobody knew except some examin examiner and and likely people in in 
+San Francisco in the San Francisco Fed. That stuff has got to change. I don't see any rational basis for that 
+independence and we've got some legislation I'd like to talk with you about. Thank you, Mr. Chair. >> 
+Thank you. >> The chair recognizes Mr. Warnock. >> Madam Chair. >> Well, thank you so very 
+much, >> Madam Chair. uh the American economy is heavily leveraged on the success of artificial 
+intelligence and uh this is an issue that I'm very interested in been engaging and talking to folks in the 
+industry and folks outside of the industry various stakeholders according to a Bloomberg analysis AI spending 
+most recently climbed to about 8% of the US gross domestic product driving the country's economic growth. 
+Chair Warsh, you have long been bullish on AI. However, up to now, despite investors betting big on them, 
+none of the major AI models have been meaningfully profitable. What are the consequences to our economy if 
+none of these companies ever ever become profitable? So if they were to disappoint investors, I think the 
+capital markets would dry up for them and some of that capital investment would be curtailed. Um, I guess 
+that's one way of putting it. I'm I guess I'm getting at where ordinary folks are in the midst of that. These 
+the markets behind the markets are real people. >> Yeah. uh who have retirement savings and uh who are 
+trying to make their present as well as their future work. American retirement accounts are increasingly tied 
+to AI. Uh and so there's the the human issue uh driven by massive increases in the stock prices of chip and 
+AI companies. You might talk about the the current markets in a way sort of is it's it's tall and narrow. Uh 
+let's imagine if we are in an AI bubble, an AI bubble, what would happen to our economy and more specifically 
+Americans retirement savings if that bubble popped? >> Yeah. So, so I think it's a it's a fair 
+question, Senator. I take it seriously. Um, I'm not in the business of providing a Wall Street newsletter. 
+But I'll say broadly to your question about the effects on the economy. Um, booms and busts do not help the 
+real economy and they don't make the central bank's job easier. What the central bank is trying to achieve is 
+price stability, full employment all in the context of financial stability. On the question of these AI 
+companies, certainly their the surge in in their investment and the surge in their valuations is notable, but 
+I'll also note one other thing, Senator. Over the course of the last couple of months, we've seen the market 
+cap both of the public companies and of private companies under some pressure. But the overall indices, we do 
+seem to see a broadening out. Now, why is that? Because earnings now for the last several quarters more 
+broadly are moving up. I don't want to suggest that that should give us any complacency, but what the Fed's 
+looking for is economic strength to broaden and the inflation that we talked about earlier to become more 
+narrow. So, I'd be worried about a massive economic slowdown. You know, the the impact of Wall Street on Main 
+Street, and I' I'd be worried about job losses, stock prices tumbling would mean Americans could not retire 
+as planned. Um, and I I don't want to see taxpayers holding the bag should this AI bubble pop. I'm not 
+against AI. AI is not going anywhere. It has both promise and peril. I just want us to be thinking critically 
+uh about this from all angles. Earlier this month, you announced a new task force to assess the effect of AI 
+on productivity and jobs. The three individuals you chose for the task force are tech executives who have 
+directly worked for or with AI Labs, all three of them. Yes or no? Will the Fed include anyone on this task 
+force with an alternative viewpoint on AI? For example, anyone who represents the workers whose lives may be 
+upended by increased adoption of AI tools and technology. >> So, Senator, it's a fair question. I, as I 
+mentioned to your colleague a few moments ago, what I'd say is one of the people on those task force is an 
+academic. Now, I don't want to suggest that the academic is uh representing some some some suggest that the 
+academic is being academic. >> I don't want to suggest that. But this isn't a faculty lounge 
+discussion. What I do want to suggest is that academics work has spent a lot of time talking about prior 
+technology shocks and the displacement that it has on labor. The assurance I can give you is that these three 
+people on that task force, like the other task forces, they're not the deciders. You're talking to one of the 
+deciders, right? the 19 of us around the FOMC with a breath of backgrounds and interest, we're going to 
+decide what we think of their conclusions. >> As a decision maker, I I always want various viewpoints. 
+I certainly have nothing against an academic expertise. I think, you know, that that's important and it's too 
+often ignored uh in some of the appointments that we've seen around here lately. But here's my problem. 
+Americans are worried about what AI will do economy. I'm wrapping up, sir. and I'm worried that this 
+viewpoint isn't represented at the Fed and I I would look to broaden. >> Senator Lummis, your time is 
+yours. >> Thank you so much. >> Uh thank you, Mr. Chairman. Uh and welcome, Mr. Chairman. 
+>> Um I have a couple questions about bank supervision before we go to monetary policy. Uh the first 
+one is uh vice chair Bowman has ordered an independent review [snorts] of the supervision of Silicon Bank and 
+Signature Banks and I think that's a really good thing. I applaud her and support her efforts there. So have 
+you instructed your staff including the attorneys in the legal division uh to cooperate with this independent 
+review? >> Yeah. So so thank you Senator Lummis. This call for a a review of what happened around 
+Silicon Valley Bank preceded my time at the Fed, >> but I'm certainly aware of the ongoing 
+investigation and my general re my general rule is that we should be cooperative do investigations and we 
+should try to get to the bottom of the facts of uh on regulatory and supervisory issues. You know, there are 
+rumors that there may have been destruction of records uh by some of the staff uh at the um division of bank 
+supervision. And of course, that's a crime. So, if records relating to the supervision of these banks were 
+intentionally deleted by staff before you were at the Fed, before you ever became chairman, um, will you 
+order your staff to assist in recovery of these records and cooperate with law enforcement? >> Yes. So, 
+I made a bold statement to one of your colleagues before that I was opposed to scams. I can make a bold 
+statement. I'm opposed to criminal activity. I have no reason to believe there is any criminal activity here, 
+but I think we want to get to the bottom of uh of an investigation. If there's an ongoing investigation, and 
+investigators generally uh want access to things, there's no reason why they shouldn't have access. >> 
+Thank you. Um, I want to turn to uh a proposed rule uh that is being considered and ask for your thoughts on 
+the proposed rule and it has to do with the Federal Reserve Board's payment accounts. Uh, skinny master 
+accounts is kind of a term that's used. You know, my staff has told me that if a uh a doctor submits uh 
+statements to a uh an insurance company, they have two choices. They can pay 5% in bank fees or wait 90 to 
+120 days for a paper check. Um it seems to me that the Federal Reserve is really on to something by trying to 
+uh join other countries uh that restrict access to the payment system [snorts] um to consumerf facing banks. 
+Um I we're the only major country in the world that restricts access to the payment system to the consumerf 
+facing banks. So, uh, I think the you're on the right track, uh, to expand the opportunities to serve, um, 
+consumers and, uh, I'm curious about what your thoughts are about the proposal, how it's going, uh, when you 
+expect the rule to be finalized. >> Yeah. So, so, as I understand it, this, uh, uh, skinnier account, 
+skinnier master account proposals out for comment. Um it was sent out before I arrived, but I'm keenly 
+interested in what the comments are. My mental model is that um the critical infrastructure, the rails that 
+the Fed runs um should be available to those that are applicable, that can comply with our rules and 
+regulations. If I were to draw a hard distinction, um this is a public good and it's a public good that 
+should be used by intermediaries. I don't want the public good to be used by consumers, by people that are on 
+the front lines. But if financial institutions, new and old, um, want to comply with our regulations and take 
+advantage of this public good, uh, my general predelection is to encourage it. >> Well, I think that's 
+admirable and important. Um, so that's it's out for comment now. Do you anticipate uh finalizing sometime 
+this year? I I I owe you a better answer on the timeline from here and I and I pledge to give it to you. 
+>> Thank you. >> Um I share uh a concern that was expressed by my colleague Mr. Hagerty uh that 
+monetary policy uh should enjoy um a the committee not having to uh be as transparent about it its process. I 
+agree with Senator Hagerty also that the bank supervision component should not enjoy that same level of 
+non-scrutiny. I think we need to scrutinize bank supervision. I'm concerned that area was sort of hidden from 
+public view for too long and so I want to just echo what Mr. Hagerty said. Thanks Mr. Chairman. >> Yes 
+ma'am. Senator Kim. >> Yeah. Thank you, chairman, and and chairman, thank you for coming on out. I 
+actually wanted to build on something that Senator Warnock was was going into about AI. And I I guess I wanted 
+to ask you, you know, I've seen some public reporting that there was a report produced by Treasury staff for 
+Secretary Bessent to Federal Reserve and other financial regulators that outlines the risks associated with 
+the AI boom. Are you familiar with this report? I can't say that I've read that report, but it's certainly a 
+discussion that the secretary and I have had. >> Is that something we can follow up on, get a sense of 
+of where the status of this report is? >> Yeah, I I' I'd be happy to both engage in the report and 
+share with you my views. Yeah, but you know, regardless of the report itself, I from what I understand, it 
+it's raising concerns that um that much of our financial system right now rests upon AI meeting expectations 
+for protect productivity gains as profitability and as well as raising concerns about the concentration uh in 
+a small number of firms that are heavily relying on private market financing um specifically invested in data 
+centers in particular. I want to just get a sense. Do you agree with these underlining economic risks or do 
+you believe that that analysis is overstating the risks? >> So I think this is the most important 
+change in our economy in my adult lifetime. I think it has plenty of opportunities and also plenty of risks 
+and I take both of them seriously. >> Yeah. I mean it's something I'm trying to grapple with too. So 
+I'm, you know, I'm not expecting that you have a fully baked answer right now, but I I hope we can work on 
+this together because I I do think when we're looking at that future, trying to think through the data, I'm 
+trying to think through what data is going to allow us to understand how exposed we are, you know, what the 
+concerns are. And I guess I would just ask you as you're looking at the data, how would you assess our 
+economy, the state of our economy, if you were to isolate out AI, you know, which I know is driving so much 
+of our our growth right now. How is the rest of our economy doing? >> So, it's a it's a fair question. 
+We can start to do a little bit of that. So, I mentioned in my opening statement the importance of capital 
+expenditures to aggregate GDP. A good share of that capex boom is broadly in and around infrastructure 
+related artificial intelligence. Um, not exclusively, but it it's it's part of the real story here. If I were 
+to fast forward 12 months, whether these AI models continue to grow in their efficacy on some exponential 
+curve or not, most of this capex is going into things like data centers, new sources of energy. And let's say 
+there was a disappointment on the returns and what AI could do. Many of these investments have alternative 
+uses. But if the if the question is really how much productivity do we expect to ultimately get from AI, the 
+answer is I don't know. But um I'm optimistic that over a longer time horizon, it'll be quite good for the 
+United States and good for both parts of the dual mandate, lower prices and uh a stronger labor force. 
+>> Well, I hope we can work on this together and try to get a a clearer understanding of just how much 
+risk there is. And and look, I I'm glad to hear about this, you know, this task force that you're putting 
+together about the productivity side. I will just say the concern amongst young people in particular is very 
+potent and very real and and we we we have to come up with a an answer to them to to help them feel reassured 
+right now because I get it. They are as you said more native in the technology but that doesn't necessarily 
+help them when the companies themselves are saying we don't need to hire as many you know junior associates 
+or or or uh you know or other jobs especially on the entry more entry level side of things no matter how much 
+native fluency that they have or tech or or understanding and skills if the businesses are saying you know we 
+don't need as many people at the younger lower end and so as you're dealing with this task force, I hope it's 
+something that can interact with this committee. I hope we have a chance to be able to talk to some of them 
+uh and hear from them in that capacity. But I also say, you know, we need to make sure we're speaking human 
+about this and not just getting kind of caught up in that. So, I just wanted to flag that for you. One last 
+thing I wanted to just touch base on is uh you know Senator Reid mentioned the concerns about uh whatever we 
+want to call it mythos proofing or AI proofing using AI to be able to shore up our vulnerabilities. Um you 
+know we number of us have been talking to some of the financial sector other critical infrastructure. I guess 
+I just want to ask you does does the Fed have all it needs to be able to kind of shore up our vulnerabilities 
+patch up any vulnerabilities? Has that been a process that you all feel have confidence in so far? >> 
+Closer to a yes or no answer on that one. >> I'm I'm working on it and I look forward to working with 
+you on >> Let us know how we can help. >> Yeah. >> Thank you, Senator Marino. >> Uh 
+thank you, Mr. Chairman, and thank you to you, Chairman Warsh, for being here. Uh it is such a pleasure to 
+have you here compared to your predecessor. I can't explain to you in words uh the uh feelings that I had 
+when your predecessor testified versus the feelings of having you here. So truly appreciate the hard work. 
+Some quick questions. Uh you obviously take uh we have a whole regulatory structure around banks. What's 
+happened to deposits in American banks since last August? Have they gone up, stayed the same, or gone down? 
+>> Uh generally speaking, there are differences, but generally speaking, deposits held in banks is 
+moving positively over that period. >> And you worry about that. Of course, you watch that because if 
+you had a massive deposit flight, that would be a problem. Correct. I worry about it, but I also use as a 
+helpful input. When average deposit balances are up, sometimes that could be for good or bad reasons. My 
+sense of the underlying growth is more good than bad. >> Right. But as a banker, the bankers want 
+deposits to go up. They sure and I I just find that interesting as a data point, Mr. because we've talked 
+about or we've had testimony anecdotally from uh the bank CEOs saying that stable coins were going to drop 
+deposits in banks and I just want to point out for the record that the exact opposite has happened. So as 
+they say uh that was a bunch of uh blankety blank argument. Okay. Uh you have two mandates. Let's talk about 
+full employment for a second. If we have incentives that we put in place here legislatively for Americans not 
+to work, does that round counter to your objective of full employment? >> It doesn't make doesn't make 
+the Fed's life any easier, >> right? So if we if we say if we actually incentivize somebody from 
+actually participating and being productive in a workforce, that's not good. things like for example we did 
+in the working families tax cuts last year which is to put in place where you have to verify twice a year 
+whether you're working volunteering or studying would be a positive demotivator for not working correct 
+meaning it encourages work >> I can't opine on the policies you make but for the implications of the 
+Fed we're in the business of assessing potential growth the more hours that are worked and the more 
+productive those hours are the stronger the economy can which is good when you're mandated. And if if if you 
+had tens of millions of people entering the country illegally, >> it makes your challenge of full 
+employment more difficult also. Correct. >> I'm I'm going to steer clear from immigration policy and 
+leave it with you and the administration. >> So pre pretend they're just naturally grown humans uh on 
+the soil of America. If you have dramatically more humans in the United States looking for work, by 
+definition, it makes full employment more difficult. Correct. So if those people are employed and are working 
+and are productive, that's a good thing. >> No, if they're not employed. >> Well, that that that 
+that can be a challenge to to one if not both parts of our mandate. >> Okay, let's talk about data 
+centers really quick. So if you felt or the Federal Reserve felt that data center investment was driving 
+inflation, [snorts] what is the tool that you could use to combat that? So I think that investment in data 
+centers and in AI generally do affect the demand side of the economy and we can see it and we can see prices 
+move up but unlike some of these other shocks with a lag it also affects the supply side. >> No but 
+what I'm saying is if you felt that you had to do something about it would it be accurate to say really again 
+you don't have a lot of tools. Uh I think some of my colleagues think that you do have a magic wand uh but 
+ultimately you'd have to raise interest rates. The idea would be you're going to make it more expensive uh to 
+borrow money to build these things. Ultimately, that's basically the tool that you have just roughly 
+speaking. Correct. >> We we have powerful tools to deal with what we deem to be inflation above target, 
+>> right? So you would raise interest rates if you really is the tool that you'd use. Does it make any 
+sense for us to be thinking that in inflation is being caused by data center investment and the answer would 
+be to look to the Fed to raise interest rates when in reality you have government that's providing tax 
+subsidies which is lowering the cost and thus encouraging more irrational investment. Doesn't it make more 
+sense to say let's not do any tax subsidies? Now we can't do that here at the federal level because a lot of 
+these subsidies are coming from cities, counties, and states. I actually believe and I think chairman we 
+should think about providing a 100% federal tax uh on these subsidies uh so that if a company wants to take 
+subsidies from uh some state tax it at the federal level 100% to discourage it because I think it is 
+absolutely insanity for us to use taxpayer dollars to subsidize multi-billion dollar companies and by the way 
+those incentives don't exist. Would you agree that that that seems reasonable? Um >> fiscal policy is 
+your decision. I'm going to let you guys fight that one out. >> Good. early. Thank you, Senator Alsobrooks. 
+>> All right. Thank you so much, Chair Scott and Ranking Member Warren, uh, for holding today's 
+hearing. And Chairman Warsh, uh, it's good to see you again. Um, before we talk about the economy, I want to 
+briefly return to your confirmation hearing. We're under questioning from Senator Gallego and myself. You said 
+that the president never quote generally or specifically instructed you to lower interest rates and your 
+testimony at the time uh did contradict reporting by the Wall Street Journal. Uh so Senator Gallego and I sent 
+you a letter on April 26th uh clarifying your testimony and we have we have not yet received a response. So, 
+as you as we stated in our letter, President uh Trump told the Wall Street Journal that he thinks you have to 
+lower he his quote was he thinks you have to lower interest rates. And under your sworn testimony in this 
+committee, you said that the president never generally or specifically instructed you on interest rates. And 
+so, I wonder whether you will just commit to responding to our letter. >> Sure. I um I stand by every 
+word that I said at my confirmation hearing and now I have a seven-week track record subsequent to that and 
+you can judge not just my words but my actions and I'm happy to continue the discussion with you about this 
+topic if you think it's it's fruitful. I will say I've spent seven weeks doing a lot of hard business of 
+reform but I'm happy to continue to engage. >> Okay. And you will respond to the letter that Senator 
+Ggo and I sent to you. Uh, I'm I'm happy to find the letter. I think it came to me before I was confirmed to 
+the Fed. I'm happy to to to find it and and and and work with you and uh and your colleagues to answer any 
+questions you have. >> Okay. Thank you. Now, Federal uh Governor Christopher Waller recently announced 
+a framework to radically transform uh the Fed systems of 12 regional uh reserve banks. and Congress 
+deliberately created a centralized system of 12 regional banks to ensure that regional economies and 
+communities are represented uh when the Fed makes consequential decisions. The Federal Reserve Bank of 
+Richmond, which serves Maryland, employs over 100 of my constituents at the bank's Baltimore branch, and I 
+share our ranking members concern that these changes are being pursued without consideration of Congress. And 
+so do you agree that regional presidents and board directors are responsible for day-to-day operations under 
+the Federal Reserve Act and not the Federal Reserve Board in Washington? >> So I I love the structure 
+of the board of governors and the reserve banks um in the Federal Reserve Act and I love the Humphrey Hawkins 
+testimony. I am obligated to do to give it to you as the Federal Reserve Act uh makes clear as you know is 
+the reserve banks run operations and their budgets are reviewed and approved by approved by the board of 
+governors with with respect more broadly to the proposal you suggested. I think we we need to try to do two 
+two things at the same time. be good stewards of taxpayer money and continue to drive efficiencies throughout 
+the system and at the same time respect the independence of the reserve banks so that they can show up in 
+Washington at FOMC meeting and feel as though they have the resources at their disposal to argue their point 
+of view. My addition to the to what's already been said publicly is my view is the 12 reserve banks should be 
+12 centers of excellence and if there is some savings that were necessarily driving through consolidation of 
+overlapping functions um they should at the same time be able to build out capabilities and solve any of a 
+number of problems of economic policy that are inside of our remit. I've encouraged the 12 reserve banks to 
+think about what they could do to have a center of excellence. >> So Mr. Chair, you so you your answer 
+is yes, you do agree that the regional presidents and board directors are responsible for day-to-day 
+operations under that act. >> I I do believe that's subject to the oversight of the board of governors 
+and the statute. >> Okay. Um just one last question. Now, you've suggested that um artificial 
+intelligence will generate productivity gains that will reduce inflation and help lower interest rates and 
+and I'm optimistic as well about the promise of AI, but we need to be really cleareyed, I think, in 
+considering the the whole economy and the impact there. The Fed has two mandates, low inflation and maximum 
+employment, and you've spoken often about AI's impact on prices and inflation, but inflation is still high. 
+Um, so it's important that the Fed also addresses the employment piece of this mandate. And just as urgently, 
+the the Fed should consider who benefits from AI. So some economic models for AI as economic effects foresee 
+gigantic returns for capital holders, but stagnant wages and job losses for workers. So as it relates to AI, 
+what specifically is the Fed doing, studying or preparing for under your maximum employment mandate? So I I 
+endorse both parts of the dual mandate and I don't want to suggest that productivity and the AI wave only 
+impacts one part of it. We've got no legislative orphans. Uh and I think that the effect on the labor markets 
+is real and something we're thinking long and hard about short-term, medium-term, and long term. >> 
+Thank you, >> Senator Banks. >> Thank you, Mr. Chairman. Chairman Warsh, welcome back uh to the 
+committee for the first time as the chairman of the Federal Reserve. I was proud to vote for your 
+confirmation back in May and it's great to have you come back. I understand we we do this on the committee, 
+Mr. Chairman, twice a year. I'm looking forward to continued dialogues with you and before this committee for 
+many years to come. Um, you're very familiar with my state, Indiana. We've talked about Indiana a great deal. 
+There's no state in America that has a stronger manufacturing base than Indiana. Uh manufacturing jobs are 
+the biggest share of our workforce in our state and accounts for about a quarter of our state's economy. For 
+decades though, policymakers here in Washington have turned a blind eye as foreign countries erode our 
+manufacturing base and rely on artificially cheap labor. But under President Trump, we have a renewed focus 
+on fighting back and protecting America's manufacturing edge. In addition to President Trump's tariffs, we 
+are helping American companies compete against foreign competition by investing in new technologies that help 
+American workers make better quality goods more efficiently than countries that rely on cheap labor. Uh, Mr. 
+Chairman, business investment in the US is surging right now. Fixed investment grew at a rate of 10.1% in the 
+first quarter of 2026. Can you talk more about that and about how rising investment in new technologies like 
+AI and robotics can strengthen America's competitive position against the rest of the world especially when 
+it comes to manufacturing? >> So thank you Senator Banks. Um the capex surge is remarkable. This is a 
+capex investment boom that the country hasn't seen in more than a generation. It is the seed corn for 
+productivity and GDP improvement over the next decade. The way these waves typically go historically, which 
+doesn't mean it has to happen this time, is a surge in capex with some lag leads to stronger economic 
+potential, stronger growth, higher wages, and more productivity. This surge is different. It's happened 
+faster. It's probably going to be bigger, and it's accelerating in real time. Uh the effect on the Fed's 
+mandate is something we're taking very seriously, but I would far rather have a capital expenditure boom than 
+have large corporate profits go back into share buybacks and dividends. Investing here is a good thing. And 
+all other things being equal, it's going to have fruits for the American economy. >> Good. Um later 
+this year, bank regulators are expected to finalize new rules covering capital and stress testing. The Fed's 
+new rules are a world away from the harmful Basel endgame proposed uh proposal that the Biden regulators 
+tried to jam through, which would have hit working families in Indiana with a hidden tax on every mortgage 
+and small business loan. But the transition still has to be handled well. These capital rules touch every 
+part of a bank's planning. Implementing the new rules with clear and organized with a clear and organized 
+timeline is critical. Will you commit to coordinating the roll out of these new rules across all major bank 
+regulators so community banks especially can rely on clear guidance to follow? >> Yeah, I think Senator 
+I think clarity here is really important. These rules as you know are out for comment. I'm keenly interested 
+in the comments as they come in. Um and uh I think it is a very good thing if the bank regulators can speak 
+with one voice. uh what we saw going into the '08 financial crisis was a lot of regulatory arbitrage where 
+institutions were choosing the regulator that best served their needs. I would love to have one standard and 
+have committed to work with the other regulators to see if we can achieve it. I'll just make one other point. 
+You referenced the stress tests. The stress tests were a design and idea that we came up with one dark 
+evening in the '08 financial crisis. Stress tests have been used from that year till this year. I'm 
+open-minded to reforms around the stress test. So the stress tests aren't merely a compliance exercise, but 
+help reveal both to the regulator and institutions what would really happen under a series of stresses. 
+>> Good. Uh when you were here during the confirmation hearing, you and I talked about the the China 
+threat. Um something that you focused on for years. I know you're only two months into the job as chairman, 
+but any updates or on how you can assess the threat that China poses to the dollar's role as the world's 
+reserve economy? So they're pacing power. They are the AI the fight over AI is one of a proxy fight between 
+these two economies that are striving for significance and influence over the next decade. I think we are on 
+the front end of those technologies but I don't want to sound complacent about it. And um like with all 
+technologies they can be used by friends or adversaries. And so if there's a subject upon which I've been 
+focused related to this in my first seven weeks is making sure the institutions we regulate and the Fed 
+itself is aware of our vulnerabilities and I I still think we've got some work to do on that. >> Good. 
+Thank you. I yield back. >> Senator Blunt Rochester. >> Thank you, Mr. Chairman, and thank you, 
+Ranking Member Warren. Uh it's good to see you, Chairman Warsh. Uh I will tell you um I've been in and out of 
+the room because I have four committees happening at the exact same time and so going back and forth and I 
+know a lot of the things that I wanted to talk about or questions I wanted to ask some of have already been 
+asked so I may not use the whole time but um when we talked before during your confirmation hearing um I 
+raised questions about primarily three things. one was the independence of the Federal Reserve and you've 
+spoken a lot about that today in in the hearing. Uh I talked about transparency around reforms and what does 
+regime change mean and you know how how how does this connect with our regional uh Federal Reserve boards? Um 
+and then I also um shared with you just my real deep concerns uh about the impact of AI as well as the 
+opportunities for AI and just the changing landscape particularly when we talk about that um mandate of full 
+employment um maximum employment and and lastly I would also say I really important to me and I shared that 
+with you as well is that the focus primarily a lot of times what is talked about is the Wall Street side and 
+not the main street side and so how Main Street has equal footing to Wall Street and so a lot of the 
+questions that have come one of the things that you shared in your testimony was about the task forces that 
+you have established which I think is a really um good idea and I think the uh the choices of things that 
+you're focused on from communication uh you know to um to uh to AI and the influence all of those things are 
+really important and I think some of my other colleagues might have asked questions. I was on the AI one in 
+particular. I I hope that there will be the inclusion of other voices beyond economic experts and tech 
+individuals but actually families, businesses, people uh that are actually both consuming and impacted by AI. 
+So, um, if you could talk a little bit, uh, more about the makeup of that one in particular and how you will 
+include people both in the task force and how you will include Main Street in your ongoing work um, at the 
+Fed because before we had the Fed listens tours, we had and I heard positive from both folks on the Federal 
+Reserve side as well as the community side. So could you talk about the inclusion of Main Street on the task 
+forces and then ongoing in your work, how will you include Main Street? >> Yeah, so let let me address 
+both those questions. Senator, first on the task forces, um we have 15 people across five task forces. I 
+think there's a breath of views uh uh perspectives, expertise, they're all fantastic. They aren't decision 
+makers. you're talking to one of the ultimate decision makers and I believe like you do in the reserve banks. 
+The reserve bank presidents bring a breath of views from their communities, from their businesses and they 
+and we are going to be the deciders about what to do with these. I don't want you to think that I've 
+outsourced anything to these task forces other than coming up with new ideas, >> which is fine. My 
+question is more related to the makeup. One of the concerns I have even on technology, we've seen incredible 
+advances where voices and were not included of other folks. And so therefore, we had technology that 
+mistakenly uh took a black judge and thought that he was a criminal based on bad input of how the technology. 
+So I'm talking about the input in the task forces as well as your ongoing input. I I I don't know if you 
+continue will continue with uh like Fed listens or any of those things, but how will you get feedback from 
+community organizations, small businesses, um consumers? >> Yeah. Yeah. I don't mean to give you an 
+excuse. I've been here seven weeks. We've been pushing for reforms, but you have my commitment. The focus 
+under my chairmanship at the Fed is what's happening in the real economy. And by the way, there are plenty of 
+people on Wall Street who who are upset with me already that I'm somehow not feeding them all the information 
+they'd gotten before and if they only had my dot, everything would be swell. Um, my message to them is uh, 
+play the ball, don't play the Fed. By that, I mean figure out what's happening in the real economy. Respond 
+to data that's happening in the real economy rather than somehow suggest that we're going to be focused on 
+Wall Street. So you have my commitment to focus on Main Street because it matters mostly to our dual mandate. 
+>> Well, I appreciate the time. I will also follow up with questions for the record and uh also 
+particularly on the the data piece as well. And I yield back, Mr. Chairman. >> Thank you, ma'am. For 
+senators who wish to submit questions for the hearing record, please do so by Wednesday, July 22nd, the 
+chairman will have 45 days from that day to submit your responses to questions for the record. This has been 
+a great hearing. Thank you. Well done so far. So good. We look forward to even more time that we could spend 
+together. And I frankly believe that the American people will have their trust restored under your leadership 
+as relates to the Federal Reserve. >> Thank you, Mr. Chairman. >> Absolutely.

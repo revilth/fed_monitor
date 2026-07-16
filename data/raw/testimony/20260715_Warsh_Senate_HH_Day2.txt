@@ -1,5 +1,11 @@
 SOURCE: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
-[NOTE: Day 2 (Senate Banking Committee) used IDENTICAL PREPARED REMARKS as Day 1 (House Financial Services Committee, July 14, 2026). The full prepared-remarks text is therefore identical to data/raw/testimony/20260714_Warsh_HH_testimony.txt. Only Q&A content was new on Day 15. Key Q&A exchanges compiled from media coverage.]
+[NOTE: Day 2 (Senate Banking Committee) used IDENTICAL PREPARED REMARKS as Day 1 (House Financial Services Committee, July 14, 2026). The full prepared-remarks text is therefore identical to data/raw/testimony/20260714_Warsh_HH_testimony.txt. Only Q&A content was new on July 15.]
+FULL HEARING TRANSCRIPT (2026-07-16): Complete ~2h05m Senate Q&A recovered via
+Yahoo Finance YouTube auto-transcript:
+data/raw/speeches/2026/Kevin_Warsh/20260715_Warsh_Senate_Banking_Testimony_Full.txt
+(SOURCE: https://www.youtube.com/watch?v=WqVOO7B4ukQ). Scored from that full
+transcript: data/scored/speeches/20260715_Kevin_Warsh_scored.txt. The media-compiled
+extracts below are retained for provenance only.
 
 SPEAKER: Kevin Warsh, Federal Reserve Chair
 COMMITTEE: Senate Committee on Banking, Housing, and Urban Affairs

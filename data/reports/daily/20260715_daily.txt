@@ -73,226 +73,281 @@ JULY BEIGE BOOK (Type H, released 2:00pm ET):
 
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  1. John C. Williams  |  NY Fed President  |  Troika
+  1. Kevin Warsh  |  Chair  |  Troika
+     "Semiannual Monetary Policy Report to the Congress" (Day 2)
+     Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+     (Prepared remarks identical to Day 1 [House, July 14]; the signal content
+      is the ~2-hour Senate Q&A.)
+
+  2. John C. Williams  |  NY Fed President  |  Troika
      "Stability of Thy Times"
      Partnership for New York City, New York City, New York
-     SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
-     [NOTE: Transcript not retrieved by scraper; scored from NY Fed Teller Window
-      key-takeaways and wire coverage. Full text at SOURCE URL.]
 
-  2. Lisa D. Cook  |  Governor  |  Just Voter
+  3. Lisa D. Cook  |  Governor  |  Just Voter
      "Economic Outlook"
      The Exchequer Club, Washington, D.C.
-     SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
-     [NOTE: Transcript not retrieved by scraper; scored from wire coverage.
-      Full text at SOURCE URL.]
-
-  3. Kevin Warsh  |  Chair  |  Troika
-     "Semiannual Monetary Policy Report to the Congress (Day 2)"
-     Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
-     SOURCE: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
-     (Prepared remarks identical to Day 1 [House, July 14]; new content is Senate Q&A only.)
-
-  [NOTE ON SCRAPER GAP: All three July 15 speeches were missed by the GitHub
-   Actions 5:30am scraper (the speeches and testimony posted after the scrape
-   ran). Content recovered via web search and wire coverage during this run.
-   Full transcripts remain available at the SOURCE URLs above for analyst
-   verification and reprocessing if desired.]
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  JOHN C. WILLIAMS  |  NY Fed President  |  Troika
+1.  KEVIN WARSH  |  Chair  |  Troika
+    Senate Banking Committee, Humphrey-Hawkins Day 2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Type F (Congressional Testimony). Prepared remarks identical to the July 14
+House testimony — see the July 14 daily for the prepared-statement analysis.
+This section covers the Senate Q&A. Full scored file:
+data/scored/speeches/20260715_Kevin_Warsh_scored.txt
+
+GROWTH
+  Capex remains the centerpiece: "a capex investment boom that the country
+  hasn't seen in more than a generation … the seed corn for productivity and GDP
+  improvement over the next decade." On the AI-bubble question he offered a
+  compact two-sided test: the Fed wants "economic strength to broaden and the
+  inflation … to become more narrow." Supply-side optimism, no rate conclusion.
+  Direction: neutral
+
+LABOR MARKET
+  "The labor market broadly looks in balance." His cleanest dual-mandate ranking
+  to date: "the labor market part of our mandate looks pretty good. The price
+  stability part of our mandate looks less good." Acknowledges aggregate data
+  can "look better than people feel" during structural transition; the verdict
+  is unmoved.
+  Direction: neutral (labor de-prioritized as a policy driver — hawkish structure)
+
+INFLATION
+  On the CPI/PPI pair: "any central bank would be happy to have the data going
+  in the right direction" — then the cap: "These are all imperfect measures of
+  the state of underlying inflation." One notch warmer than the House hearing's
+  "not mission accomplished," identical vigilance structure. The "63 months"
+  above-target clock repeated. To Kennedy: "It's not going to be permanent under
+  my watch." Notable analytical split: he discounts AI investment as an
+  inflation driver — a one-time price change with a coming supply response is
+  "not necessarily inflationary … Whether that's inflationary or not, that's up
+  to the Federal Reserve" — explicitly nuancing away from Waller and Williams,
+  whom the questioner cited. Monetary aggregates (M2) restored to the MPR:
+  "monetary policy has something to do with money."
+  Direction: neutral-hawkish (vigilance intact; benign data conceded direction
+  only, not conclusion)
+
+MONETARY POLICY
+  No rate signal in ~2 hours of Q&A. Pressed for options: leave alone, raise,
+  cut — "a non-exclusive list of options." Asked directly about Waller's hike
+  conditionality: "There are diversity of views. I wouldn't want to dwell on
+  any one of them." Balance-sheet doctrine extended: "As we think about
+  inflation risks … we have two instruments that we should be thinking about.
+  The balance sheet is one of them" — the first time he has tied the balance
+  sheet to the current inflation fight; preference for a "leaner, meaner
+  balance sheet," rates as the primary tool. Markets doctrine distilled:
+  "play the ball, don't play the Fed." Task forces: FOMC briefings as early as
+  September, public conclusions by year-end. Independence: "They chose an
+  independent guy to do an independent job"; declined to characterize
+  conversations with the President ("I don't want to be in the business of
+  sharing discussions that the president and I have") while asserting no
+  attempt to influence policy has occurred.
+  Direction: neutral by design
+
+NET SIGNAL: NEUTRAL by design, vigilance intact — two days, ~5 hours of Q&A,
+  zero rate-path signal, all three options explicitly open. The balance-sheet-
+  as-inflation-instrument framing and the AI-inflation split with Waller/
+  Williams are the new intelligence.
+
+vs. PRIOR APPEARANCE (July 14 House):     unchanged on substance — same
+  prepared text, same vigilance; data acknowledgment one notch warmer
+  ("right direction" vs. "not mission accomplished"), capped by "imperfect
+  measures."
+vs. PRE-FOMC SPEECH:                      N/A — no pre-June-17 baseline as Chair.
+vs. COMMITTEE SINCE FOMC:                 Holds the center by refusing to
+  engage either wing: no endorsement of Waller/Cook conditional-hike language,
+  no echo of Williams's "peaked." Full optionality preserved into blackout.
+
+LANGUAGE TO WATCH:
+  • "imperfect measures" — the standing device for discounting favorable
+    prints; second consecutive day. Stage: DISPERSED.
+  • "two instruments" (balance sheet vs. inflation risks) — watch Logan
+    (Jul 16), the committee's balance-sheet specialist. Stage: DISPERSED.
+  • "play the ball, don't play the Fed" — likely media pickup as the
+    no-guidance regime's shorthand. Stage: DISPERSED.
+
+ANALYST FLAG: YES
+  → Balance sheet named as an inflation-relevant instrument goes beyond the
+    House hearing's regime-design framing. If the task force lands by year-end
+    with runoff/duration recommendations, that is a tightening margin markets
+    are not pricing. Also: the Warsh vs. Waller/Williams/Cook split on whether
+    AI investment is inflationary is now on the record — a fault line for the
+    September SEP.
+
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  JOHN C. WILLIAMS  |  NY Fed President  |  Troika
     "Stability of Thy Times"
     Partnership for New York City, New York City
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Type A (Economic Outlook). Full scored file: data/scored/speeches/20260715_John_Williams_scored.txt
+Type A (Economic Outlook). Full scored file:
+data/scored/speeches/20260715_John_Williams_scored.txt
 
 GROWTH
-  "Growth in the economy is solid and on trend." GDP: ~2.0–2.25% this year and next
-  two years; "modestly above its potential rate." Unemployment edging toward 4.0%
-  by 2028. AI investment named as the engine — consistent with June 25 framing.
-  Forecast unchanged from June 25. No growth concern flagged.
+  "Growth in the economy is solid and on trend." GDP ~2 to 2-1/4 percent this
+  year and the next two; "modestly above my estimate of its potential rate of
+  2 percent"; unemployment edging "very gradually to 4 percent in 2028."
+  Composition flagged: "pockets of red-hot growth" (AI/tech investment,
+  equity-supported spending) are offsetting declines in residential
+  construction, federal spending, and energy-squeezed household spending.
+  Forecast unchanged from June 25.
   Direction: neutral
 
 LABOR MARKET
-  "The labor market is likewise solid and stable." Labor NOT adding to inflationary
-  pressures — his stable holding formula maintained. Inflation expectations "well-
-  anchored," giving the Fed "policy breathing room." Consistent with June 25;
-  slight tonal upgrade from "largely stabilized, albeit at low levels" → "solid
-  and stable."
+  "The labor market is likewise solid and stable" — his summary verdict.
+  Unemployment "within a narrow range of about 4-1/4 to 4-1/2 percent over the
+  past year"; soft-data survey measures "largely stabilized, albeit at low
+  levels" (same formulation as June 25, applied to the same indicators). Labor
+  is "not adding to inflationary pressures" (HPW index, wage data) — his stable
+  anchor removing labor as a two-sided risk driver.
   Direction: neutral
 
 INFLATION
-  "Inflation is unquestionably too high." Three-driver framework (tariffs + Middle
-  East + AI demand) unchanged. KEY NEW LANGUAGE: "There are encouraging reasons to
-  expect that inflation has peaked and should edge down in coming quarters." — "peaked"
-  is new vs. June 25's "edge down." Williams incorporates the same-morning PPI print
-  into his forward inflation call. Year-end 2026 forecast revised down to ~3.25%
-  (from June 25's 3.5%), then glide toward 2% by 2028.
-  Direction: DOVISH LEAN — "peaked" claim and downward forecast revision are the signal.
+  "Inflation is unquestionably too high at about 4 percent" (PCE). Three-driver
+  framework unchanged (tariffs, Middle East, AI investment demand). KEY: "There
+  are encouraging reasons to expect that inflation has peaked and should edge
+  down in coming quarters" — the "peaked" claim goes beyond his June 25 "edge
+  down" and is the first peak call by any official in the 2026 corpus. Six
+  stated reasons: tariff effects largely played out; modest market rents;
+  energy "likely peaked" per futures pricing; AI supply response coming; labor
+  not contributing; expectations anchored. Year-end forecast revised down to
+  ~3-1/4 percent (from June 25's 3-1/2), still landing on 2% target in 2028.
+  Direction: DOVISH — peak call plus downward forecast revision, absorbing the
+  benign June CPI/PPI.
 
 MONETARY POLICY
-  "The current stance of monetary policy is well positioned to do that." Unchanged
-  from June 25. No cut signal, no hike signal, no forward guidance. Does NOT echo
-  Cook's "prepared to act" or Waller's near-term tightening conditionality. The
-  "peaked" call serves as his justification for the current rate being sufficient —
-  not as a dovish pivot toward cuts.
+  "It is imperative that we restore [inflation] to the Federal Reserve's 2
+  percent longer-run goal on a sustained basis. The current stance of monetary
+  policy is well positioned to do that." Identical stance formulation to June
+  25. No cut signal, no hike signal, no forward guidance; closes on his
+  standing data-dependence formula. Does not echo Cook's "prepared to act" or
+  Waller's tightening conditionality — the peak call underwrites patience at
+  the current rate, not easing.
   Direction: neutral (hold-anchored by design)
 
-NET SIGNAL: NEUTRAL on stance, DOVISH LEAN on inflation direction.
-  Williams absorbs the benign June data with a "peaked" call — more confident than
-  his June 25 "edge down." He does not join the Just Voter conditional hike camp.
-  He is the Troika's patient-hold voice: disinflation is coming, rates are right,
-  be patient. Explicitly not "not mission accomplished."
+NET SIGNAL: NEUTRAL on stance, DOVISH on inflation direction. Williams is the
+  Troika's patient-hold voice: disinflation has crested, the current rate
+  delivers it, be patient.
 
-vs. PRIOR SPEECH (June 25):             DOVISH LEAN — "peaked" is new, more
-  confident than "edge down"; year-end forecast revised down 0.25pp. Stance unchanged.
-vs. PRE-FOMC SPEECH (May 4):            MIXED — confident disinflation call new;
-  return-to-2% timeline slips 2027→2028 from May 4; "increasing labor slack" from
-  May 4 fully replaced by "solid and stable."
-vs. COMMITTEE SINCE FOMC:               Williams is the most constructive Troika
-  voice on the inflation path. Warsh (Jul 14): "not mission accomplished" (vigilant).
-  Williams (Jul 15): "peaked" + "well positioned" (patient). The Troika is speaking
-  from both ends of the hold message — Warsh anchors the hawkish constraint, Williams
-  anchors the patient disinflation path.
+vs. PRIOR SPEECH (June 25):             DOVISH on inflation — "peaked" is a
+  stronger claim than "edge down"; year-end forecast cut 0.25pp. Stance,
+  growth, and labor unchanged.
+vs. PRE-FOMC SPEECH (May 4):            MIXED — confident peak call vs. May 4's
+  upside-tilted risks; but return-to-2% timeline remains 2028 (May 4 said
+  2027); May 4's "increasing labor market slack" concern remains withdrawn.
+vs. COMMITTEE SINCE FOMC:               The most constructive committee voice
+  on the inflation path. Same-day contrast: Warsh concedes direction but not
+  conclusion ("imperfect measures"); Williams asserts the peak. The Troika is
+  speaking from both ends of the hold — Warsh anchors vigilance, Williams
+  anchors the disinflation path.
 
 LANGUAGE TO WATCH:
-  • "inflation has peaked" — Troika member making an explicit peak call; first use
-    in the 2026 scored corpus. If Warsh or Jefferson echo it, it signals the Troika
-    is preparing the ground for a future easing bias. Stage: DISPERSED (Williams only).
-  • Year-end inflation forecast: 3.5% → 3.25% — data-driven downward revision;
-    watch for committee-wide pattern in coming speeches.
+  • "inflation has peaked" — first peak call in the 2026 corpus; if Warsh or
+    Jefferson echo it, the Troika is preparing the ground for a future easing
+    bias. Stage: DISPERSED (Williams only).
+  • Year-end inflation forecast 3.5% → 3.25% — watch for a committee-wide
+    revision pattern in the September SEP.
 
 ANALYST FLAG: YES
-  → Does "peaked" signal a coming Troika split, with Warsh maintaining hawkish
-    vigilance while Williams/Jefferson build the dovish-path case for a future
-    cut? Or is this coordinated Troika communication (one hawk, one dove, same
-    hold outcome)? Jefferson's absence from the pre-blackout window is notable —
-    his next speech is the key for resolving this.
+  → Williams calls the inflation peak one week before blackout while Warsh
+    holds "imperfect measures" and Cook holds "prepared to act." Deliberate
+    Troika two-voice orchestration or genuine divergence? Jefferson — absent
+    from the entire pre-blackout window — is the tiebreaker; his next
+    appearance is the key read.
 
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2.  LISA D. COOK  |  Governor  |  Just Voter
+3.  LISA D. COOK  |  Governor  |  Just Voter
     "Economic Outlook," The Exchequer Club, Washington, D.C.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Type A (Economic Outlook). Full scored file: data/scored/speeches/20260715_Lisa_D__Cook_scored.txt
-Cook's first Type A speech since the June 17 FOMC meeting.
+Type A (Economic Outlook). Cook's first outlook speech since the June 17
+meeting. Full scored file: data/scored/speeches/20260715_Lisa_D__Cook_scored.txt
 
 GROWTH
-  GDP 2025: ~2.0%; FOMC projects 2026: ~2.2%. Labor productivity: ~2.5% annual
-  average over past two years. AI investment boom driving above-trend growth.
-  Growth not flagged as a policy concern; treated as stable and positive.
-  Direction: neutral
+  "Surprisingly resilient output": GDP 2.0% in 2025, FOMC forecast 2.2% for
+  2026 — both ~1/2 point above last year's forecasts. Productivity "booming"
+  (~2-1/2%/yr for two years); "the data center buildout has added some heat to
+  the economy." Growth strength is deployed as evidence of "less risk to the
+  employment mandate" — an argument on the hawkish side of her risk balance.
+  Direction: neutral (used hawkishly)
 
 LABOR MARKET
-  "Nearly all indicators point to stability." Unemployment at 4.2% (edged
-  down from 4.3% in April). KEY: "I see few reasons that today's labor market
-  has more risk than a year earlier" — explicit downgrade of employment downside
-  risk. Compare May 27: "I view the downside risks to the labor market as being
-  elevated." "I see a notable shift in the balance of risks relative to a year or
-  so ago, with inflation risks now outweighing employment risks." Formal June-17
-  framework adoption: labor is no longer the offsetting risk.
-  Direction: HAWKISH LEAN — employment risk explicitly minimized.
+  "Nearly all indicators point to stability." Unemployment 4.2%, in line with
+  the natural rate. KEY: "I see few reasons that today's labor market has more
+  risk than a year earlier. Therefore, risks on the employment side have
+  diminished" — a direct reversal of her May 27 "downside risks to the labor
+  market as being elevated." Her seesaw metaphor resolves: "the balance of
+  risks has teetered toward the inflation mandate." Low-hire/low-fire strain on
+  new entrants acknowledged but bounded (not a downturn signal).
+  Direction: HAWKISH — employment risk explicitly downgraded.
 
 INFLATION
-  "The initial assessment is easy: Inflation is simply too high." PCE: ~3.7%
-  YoY (1.7pp above target). Three-driver framework unchanged: AI demand, tariffs,
-  Middle East. "I am fully committed to reaching our inflation target, and this
-  commitment is unwavering." "Simply too high" (level verdict) is firmer than May
-  27's directional "clearly moving in the wrong direction." Cook does not engage with
-  the same-morning June PPI print or the prior day's CPI — no concession to the
-  benign data.
+  She engages the benign data head-on and dismisses it at the level: "Even
+  though this week's consumer price index and producer price index reports were
+  softer than expected, they still imply that the price index we target rose
+  3.7 percent in the 12 months through June … We have not reached our 2 percent
+  target in more than five years." Verdict: "The initial assessment is easy:
+  inflation is simply too high" — near the highest since 2023. Core goods
+  rising at "a striking 5 percent annual pace": "the recent acceleration in
+  inflation is not only an energy price story." Risks "continue to be strongly
+  weighted toward higher inflation": the AI buildout ($1.5T+ announced data
+  center plans, mostly unrealized) and persistence risk after five years above
+  target ("Firms' pricing and wage decisions may depend more on what inflation
+  has been rather than its source"). Anchored expectations comfort her "only to
+  the extent" they show confidence the Fed will act — "they do not tell us what
+  those policy actions need to be."
   Direction: HAWKISH
 
 MONETARY POLICY
-  Rate characterized as "mildly restrictive" — new characterization, adding
-  uncertainty about whether policy is sufficiently tight. "The FOMC can take its
-  time, I can take my time, to observe more data to understand whether it's really
-  restrictive or not." KEY: "If we do not see signs of disinflation soon, I am
-  prepared to act." — explicit conditional hike signal, maintained from May 27's
-  "prepared to raise rates." Cut backstop language from May 27 ("prepared to
-  adjust my policy stance downward should the labor market deteriorate") is ABSENT.
+  Endorses the June hold as her vote: prudent "to give a bit more time to
+  observe how inflation unfolds." KEY: "If we do not see signs of disinflation
+  soon, I am prepared to act. I am fully committed to reaching our inflation
+  target, and this commitment is unwavering" — her May 27 conditional hike
+  signal maintained, with the trigger tightened from "in a timely manner" to
+  "soon." The May 27 labor-market cut backstop is absent — the conditionality
+  now runs one way. In Q&A (wire-reported): the rate is "mildly restrictive";
+  "The FOMC can take its time, I can take my time, to observe more data to
+  understand whether it's really restrictive or not."
   Hike signal: PRESENT (conditional on absence of disinflation "soon").
-  Cut signal: ABSENT (contrast May 27's employment backstop).
+  Cut signal: ABSENT (May 27 employment backstop dropped).
   Direction: HAWKISH
 
-NET SIGNAL: HAWKISH. Cook's post-June-17 debut confirms the hike signal,
-  drops the employment backstop, explicitly de-emphasizes labor risk, and
-  characterizes policy as only "mildly restrictive." She does not soften in
-  response to the benign CPI/PPI data — the conditional is set on disinflation
-  "soon," not on the next print.
+NET SIGNAL: HAWKISH. Conditional hike signal maintained, employment backstop
+  dropped, labor risk downgraded, benign June data ruled insufficient at the
+  level. Her conditional is prospective ("soon"), not print-reactive — the
+  soft data do not disarm it.
 
-vs. PRIOR SPEECH (May 27 — pre-FOMC baseline):
-  HAWKISH NET — hike signal maintained; employment risk explicitly downgraded
-  (from "elevated" to "I see few reasons"); cut backstop dropped; "mildly
-  restrictive" characterization added; balance of risks formally tilted to inflation.
-vs. PRE-FOMC SPEECH (May 27):
-  [Same speech — May 27 is both the prior and the pre-FOMC baseline.]
+vs. PRIOR SPEECH (May 27 — also pre-FOMC baseline):
+  HAWKISH NET — employment risk from "elevated" to "few reasons"; cut backstop
+  dropped; level verdict ("simply too high") on top of the directional one;
+  restrictiveness of the current stance questioned in Q&A.
 vs. COMMITTEE SINCE FOMC:
-  Cook represents the Board's hawkish wing alongside Waller (Jul 13). With
-  Waller's hike conditionality now technically not triggered (benign PPI),
-  Cook's "prepared to act" carries the conditional hike signal into the
-  blackout as the clearest standing hike signal from a voter. She is more
-  hawkish than Williams ("peaked," patient hold) and more hawkish than
-  Goolsbee's conditional normalization (Jul 14). Consistent with Warsh's
-  "not mission accomplished" framing but with an explicit rate signal Warsh
-  withholds.
+  With Waller's July 13 data trigger technically unmet by CPI/PPI, Cook's
+  "prepared to act" is the clearest standing hike conditional carried by a
+  voter into the blackout. More hawkish than Williams (same day) and Goolsbee
+  (Jul 14); aligned in vigilance with Warsh but with an explicit rate
+  conditional the Chair withholds.
 
 LANGUAGE TO WATCH:
-  • "inflation is simply too high" — Cook's own-language level verdict; watch
-    for committee adoption. Stage: DISPERSED.
-  • "I am prepared to act" — hike conditional, maintained from May 27;
-    Cook + Waller are both carrying it. Stage: EMERGING (two Just Voters).
-  • "mildly restrictive" — new rate characterization; if adopted by others,
-    implies a lower bar for further tightening. Stage: DISPERSED.
-  • Absence of cut backstop — deliberate or venue artifact? Monitor next speech.
+  • "inflation is simply too high" — converges with Williams's same-day
+    "unquestionably too high" on a shared level-verdict register. Stage:
+    EMERGING (two speakers, same day).
+  • "I am prepared to act" — Cook and Waller both carry a hike conditional.
+    Stage: EMERGING (two Just Voters).
+  • "mildly restrictive" (Q&A) — if it migrates into prepared texts or other
+    officials' language, the bar for tightening drops. Stage: DISPERSED.
 
 ANALYST FLAG: YES
-  → (1) Cook does not soften despite the benign June CPI/PPI. Her conditional
-    is prospective ("soon"), not data-reactive in the backward-looking direction.
-    Does she update her framework if July data are also benign?
-  → (2) "Mildly restrictive" alongside "prepared to act" creates tension: if
-    the rate is only mildly restrictive, the case for action is weaker. This
-    may be Cook's deliberate framing to leave flexibility — watch whether this
-    exact phrase migrates into other officials' speeches.
-
-════════════════════════════════════════════════════════════════
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-3.  KEVIN WARSH  |  Chair  |  Troika
-    Senate Banking Committee Q&A (Day 2 — new Senate content only)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Type F (Congressional Testimony, Senate Day 2). Prepared remarks identical to
-July 14 House testimony; see July 14 daily for full analysis of the prepared
-statement. Only new Senate Q&A content is covered here.
-
-KEY NEW Q&A (Senate-only content):
-
-ON JUNE PPI (released 8:30am ET same day):
-  "any central bank would be happy to have the data going in the right direction"
-  → Slightly warmer acknowledgment than Day 1's "not mission accomplished" framing
-    (which addressed the CPI). Warsh is willing to acknowledge progress on the data
-    while withholding any policy implication.
-  "These are all imperfect measures of the state of underlying inflation"
-  → Maintains data-skepticism consistent with the inflation-measurement task force.
-    "Imperfect measures" reframes the positive data as incomplete evidence.
-
-ON FED INDEPENDENCE (Sen. Van Hollen exchange):
-  Van Hollen (D-MD) asked about discussions with the President regarding interest rates.
-  Warsh: "I don't want to be in the business of sharing discussions that the
-  president and I have."
-  Warsh: "They chose an independent guy to do an independent job, and that's
-  exactly what I plan on doing."
-  → Independence line is stronger and more personal than his prepared text.
-    "Independent guy" phrasing is informal but emphatic. No policy implication.
-
-RATE DIRECTION: No signal in Senate Q&A. No echo of Cook's "prepared to act"
-  or Waller's hike conditionality. July 28-29 hold widely expected.
-
-NET: NEUTRAL by design — consistent with July 14. Warm acknowledgment of
-  data progress; "imperfect measures" maintains vigilance; independence
-  emphasized in most direct terms yet. No rate signal.
+  → (1) Her trigger is disinflation "soon." If July/August prints extend the
+    June pattern, does that count as "signs of disinflation," or does the
+    3.7% level keep the conditional armed? September hinges on which reading
+    she applies.
+  → (2) "Mildly restrictive" + "prepared to act" implies doubt the current
+    stance delivers disinflation — in tension with her vote for it. Watch
+    whether "mildly restrictive" appears in her next prepared text.
 
 ════════════════════════════════════════════════════════════════
 CROSS-SPEAKER NOTE
@@ -305,27 +360,31 @@ simultaneous developments:
    met. The collective data picture is the weakest inflationary signal since
    the June 17 meeting.
 
-2. TROIKA SPLIT: Warsh (Jul 14): "not mission accomplished" (hawkish vigilance).
-   Williams (Jul 15): "inflation has peaked" + "well positioned" (dovish on direction,
-   patient on stance). These are not contradictory — Warsh is guarding against
-   premature celebration, Williams is describing the trajectory — but they frame
-   the same data very differently and send different signals to market participants.
+2. TROIKA TWO-VOICE: Warsh concedes the data are "going in the right
+   direction" but rules them "imperfect measures" — direction without
+   conclusion. Williams asserts "inflation has peaked" and holds "well
+   positioned." Not contradictory — Warsh guards against premature
+   celebration while Williams describes the trajectory — but the same data
+   are framed very differently, and markets will hear two different signals.
 
-3. JUST VOTER SPLIT: Cook (Jul 15): conditional hike signal maintained, employment
-   risk de-emphasized, hawkish. Waller (Jul 13): hike conditionality stated but now
-   technically NOT triggered by the data he named.
+3. JUST VOTER SPLIT: Cook maintains her conditional hike signal and drops her
+   employment backstop — undeterred by the benign prints, which she
+   explicitly acknowledges and dismisses. Waller's hike conditionality
+   (Jul 13) is now technically not triggered by the data he named.
 
 The net committee picture entering the July 28-29 blackout:
-  → HOLD is the virtually certain July 28-29 outcome. Hike is off the table under
-    Waller's stated framework. Cut is not on the table given the still-elevated
-    inflation and Warsh/Cook/Waller hawkish vigilance.
-  → The SEPTEMBER meeting is now the focal point. Williams's "peaked" call
-    and 3.25% year-end forecast imply he sees no need to hike in September.
-    Cook's "if no disinflation soon" and Waller's "at a crossroads" framing
-    leave September open for a hike if inflation re-accelerates.
-  → The committee goes into the blackout with an internal tension that the
-    July 28-29 statement is unlikely to resolve — the July meeting is a hold
-    with debate about the September forward path simmering underneath.
+  → HOLD is the virtually certain July 28-29 outcome. Hike is off the table
+    under Waller's stated framework; cut is not on the table given the
+    still-elevated level and the Warsh/Cook vigilance framing.
+  → SEPTEMBER is the live meeting. Williams's peak call and 3.25% year-end
+    path imply no September hike is needed. Cook's "if no disinflation soon"
+    and the level argument (3.7%) leave September open for tightening if
+    inflation re-accelerates. Warsh's balance-sheet-as-inflation-instrument
+    framing adds a second potential tightening margin nobody is pricing.
+  → Underlying analytical fault line to carry through the blackout: Warsh
+    discounts AI investment as inflationary (supply response coming) while
+    Williams and Cook both list it as a live driver. The September SEP will
+    have to reconcile these reads.
 ════════════════════════════════════════════════════════════════
 
 ════════════════════════════════════════════════════════════════
@@ -340,17 +399,15 @@ UPCOMING — TOMORROW: Friday July 17, 2026
   11:30am–1:00pm CDT
   SOURCE: https://www.dallasfed.org/events/2026/26loganhou
   TYPE: Moderated community conversation — Logan shares perspectives on her
-  leadership role and "the evolving economic landscape." This is the Listening
-  in 360° community tour format; economic outlook policy content is likely but
-  not guaranteed. Classified as "community conversation" by the Dallas Fed.
-  NOTE: Logan's July 16 event occurs after this report's data cutoff (July 15).
-  It will be covered in tomorrow's daily report (covering July 16). This is the
-  final potentially scoreable appearance before the July 18 blackout, given no
-  confirmed events on July 17.
+  leadership role and "the evolving economic landscape." Economic outlook
+  policy content is likely but not guaranteed. Logan's event occurs after this
+  report's data cutoff (July 15) and will be covered in tomorrow's daily
+  report. It is the final potentially scoreable appearance before the July 18
+  blackout, given no confirmed events on July 17.
 
-  BLACKOUT NOTE: FOMC blackout for July 28-29 meeting begins Saturday July 18,
-  2026 at midnight ET (per blackout_periods.json). No policy speeches from
-  Saturday July 18 through Thursday July 30. Friday July 17 is the final
+  BLACKOUT NOTE: FOMC blackout for the July 28-29 meeting begins Saturday
+  July 18, 2026 at midnight ET (per blackout_periods.json). No policy speeches
+  from Saturday July 18 through Thursday July 30. Friday July 17 is the final
   business day for pre-blackout communications; Saturday's daily report
   (covering Friday July 17) will include the mandatory FOMC CYCLE SUMMARY per
   scheduling instructions.
@@ -360,15 +417,13 @@ UPCOMING — TOMORROW: Friday July 17, 2026
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches July 15, 2026:
+  Warsh (Senate Banking Committee, Day 2):
+    Prepared remarks: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+    Full hearing (Q&A): https://www.youtube.com/watch?v=WqVOO7B4ukQ
   Williams (Partnership for NYC):
     https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
-    NY Fed Teller Window key-takeaways:
-    https://tellerwindow.newyorkfed.org/2026/07/15/key-takeaways-from-president-williamss-speech-on-the-economic-outlook-and-monetary-policy-27/
   Cook (Exchequer Club):
     https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
-  Warsh (Senate Banking Committee, Day 2):
-    https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
-    (Prepared remarks; Senate Q&A via AP/wire coverage)
 
 Macro data:
   June 2026 PPI (BLS, released July 15):
@@ -378,12 +433,15 @@ Macro data:
     https://www.federalreserve.gov/monetarypolicy/beigebook202607-summary.htm
 
 Prior speech references:
+  Warsh July 14 (House testimony, Day 1):
+    https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+    Full hearing (Q&A): https://www.youtube.com/watch?v=JUMld3jiJos
   Williams June 25 ("The Strategy and the Goals"):
     https://tellerwindow.newyorkfed.org/2026/06/25/the-strategy-and-the-goals/
-  Cook May 27 (SIEPR, Stanford — pre-FOMC baseline):
+  Williams May 4 ("There Is No Try" — pre-FOMC baseline):
+    https://www.newyorkfed.org/newsevents/speeches/2026/wil260504
+  Cook May 27 (SIEPR, Stanford — prior and pre-FOMC baseline):
     https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm
-  Warsh July 14 (House testimony — Day 1):
-    https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
 
 Upcoming:
   Logan July 16 (Houston Branch conversation — Listening in 360°):

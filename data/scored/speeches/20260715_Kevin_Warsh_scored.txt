@@ -1,0 +1,328 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+July 15, 2026 | Kevin Warsh | Chair | Troika
+"Semiannual Monetary Policy Report to the Congress" (Day 2 of 2)
+Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C.
+SOURCE: https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+Q&A SOURCE: https://www.youtube.com/watch?v=WqVOO7B4ukQ (Yahoo Finance full
+  hearing, ~2h05m; full transcript at data/raw/speeches/2026/Kevin_Warsh/
+  20260715_Warsh_Senate_Banking_Testimony_Full.txt)
+
+CLASSIFICATION: Type F — Congressional Testimony (Humphrey-Hawkins, Day 2).
+  Prepared remarks as delivered track the July 14 House text (same official
+  document). This file scores the SENATE Q&A only; for the prepared remarks
+  see data/scored/speeches/20260714_Kevin_Warsh_scored.txt.
+
+NOTE ON CONTEXT: The hearing began ~1.5 hours after the 8:30am ET June PPI
+  release (final demand -0.3% MoM vs. flat consensus; core +0.2%) — the second
+  consecutive benign inflation print after the June CPI released during Day 1.
+
+REFERENCE FOMC:    June 17, 2026  (HOLD 3.50–3.75%; unanimous; easing bias /
+                   forward guidance removed; "will deliver price stability";
+                   hawkish SEP)
+PRE-FOMC BASELINE: N/A — Warsh had no speech as Chair before the June 17 FOMC.
+POST-FOMC PRIOR:   July 14, 2026  House testimony (Day 1)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Prepared remarks identical to Day 1 (capex surge as "the most striking
+feature"; housing lags). Senate Q&A additions:
+
+Own language:
+  "The capex surge is remarkable. This is a capex investment boom that the
+  country hasn't seen in more than a generation. It is the seed corn for
+  productivity and GDP improvement over the next decade." (Banks exchange)
+  "This surge is different. It's happened faster. It's probably going to be
+  bigger, and it's accelerating in real time."
+  "I would far rather have a capital expenditure boom than have large
+  corporate profits go back into share buybacks and dividends."
+  → Extends Day 1's capex elevation. He offers a rare soft projection —
+    "My colleagues know I'm not big for forward guidance, but I would guess
+    that that trend continues" — explicitly marked as outside his usual
+    no-guidance discipline.
+
+  AI-bubble question (Warnock): "booms and busts do not help the real economy
+  and they don't make the central bank's job easier … Over the course of the
+  last couple of months, we've seen the market cap both of the public
+  companies and of private companies under some pressure. But the overall
+  indices, we do seem to see a broadening out … earnings now for the last
+  several quarters more broadly are moving up. I don't want to suggest that
+  that should give us any complacency, but what the Fed's looking for is
+  economic strength to broaden and the inflation that we talked about earlier
+  to become more narrow."
+  → "Strength to broaden, inflation to become more narrow" — a compact
+    two-sided formulation of what would satisfy him; the closest thing to a
+    stated ease-condition in either hearing day, though attached to no policy
+    commitment.
+
+  Immigration/potential GDP (Tillis): "Potential GDP is a function of two
+  things. How many hours are we working … and then second productivity. If
+  at the end of the day the worker hours are constant, we need a productivity
+  boom." Declined twice to characterize immigration policy itself.
+
+Shift vs. prior (Jul 14, Day 1):  unchanged — same capex-centric growth story,
+  same supply-side optimism, same refusal to convert it into a rate argument.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Prepared remarks identical to Day 1 ("broadly stable"; job creation kept pace;
+few layoffs; solid nominal wage growth). Senate Q&A additions:
+
+Own verdict (Cortez Masto exchange) — the cleanest dual-mandate ranking yet:
+  "Overall, I would say the labor market part of our mandate looks pretty
+   good. The price stability part of our mandate looks less good."
+  Also: "the clear judgment of my colleagues and me … is the labor market
+  broadly looks in balance."
+  → Same prioritization as Day 1's "labor markets look to be in pretty good
+    balance. We've got some work to do on the inflation front," now stated
+    as an explicit two-mandate comparison.
+
+Own qualifier (aggregate vs. lived experience):
+  "during periods of transition, it's often true that the labor markets in
+   aggregate look better than people feel in different parts and during
+   disruption, they try to recreate a job they had before through the gig
+   economy and other means. We take it into account."
+  → Acknowledges part-time/multiple-job-holding concerns without letting them
+    move the aggregate verdict.
+
+  AI and college graduates (Warner exchange): more confident on output than
+  on labor — "I am more confident that there will be a surge in output
+  because the US is at the cutting edge of AI than any certainty about the
+  effect on the labor market in the next few years." Long term "absolutely
+  not" catastrophic job loss, "but will it be disruptive and will some people
+  have their jobs at jeopardy because of the new technologies? On that, I
+  can't offer any sort of guarantee or comfort."
+
+Shift vs. prior (Jul 14, Day 1):  unchanged — "broadly stable / in balance"
+  verdict intact; the two-mandate ranking (labor fine, prices "less good")
+  restates Day 1's prioritization in sharper form.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+Prepared remarks identical to Day 1 ("no tolerance for persistently elevated
+inflation"; "inflation is a choice"; five-years framing). Senate Q&A:
+
+Own language — KEY (response to the two benign prints):
+  "In the last couple of days, we've gotten data on consumer price index,
+   today on the producer price index. Any central bank would be happy to have
+   the data going in the right direction. My view is these are all imperfect
+   measures of the state of underlying inflation." (Scott exchange, in the
+   context of the data task force)
+  → A warmer acknowledgment than Day 1's "not mission accomplished" register
+    — but immediately capped by "imperfect measures," which reframes two
+    benign prints as incomplete evidence. The vigilance structure is
+    identical to Day 1; only the surface temperature differs. He did not
+    repeat "mission accomplished" phrasing in the Senate hearing.
+
+  The duration clock (Cortez Masto): "I'm confident in telling you it's been
+  above target for 63 months … But I don't want to suggest I'm happy with any
+  of those measures. I'm not."
+  → The "63 months" running tally carries over from Day 1, deployed here to
+    deflect a partisan comparison (3% in Jan 2025 vs. ~3.5% now) into the
+    duration frame.
+
+  Permanence and ownership (Kennedy exchange):
+  "It's not going to be permanent under my watch, Senator."
+  Three named actions: (1) "for those people in markets that think the Fed
+  really was comfortable with a higher level of inflation, we're doing our
+  best to disabuse them"; (2) "We're going to take ownership of it"; (3) "We're
+  going to look at our tools in the changing economy, both balance sheet and
+  interest rate, and see whether we need to adjust policy to take it head-on."
+  → Restates Day 1's commitment-ownership-tools formula, with the notable
+    specification that the TOOLS include the balance sheet (see MONETARY
+    POLICY below).
+
+  Inflation definition (Kennedy, Cortez Masto): "Inflation is caused when a
+  one-time change in prices broaden out"; asked what causes it: "Monetary
+  policy, sir." What the Fed can do: "there's a lot we can do to make sure
+  that the entire grocery aisle doesn't have higher prices."
+
+  AI and inflation — the nuance (Reed exchange, responding to Waller/Williams
+  having "warned that AI investments may be increasing inflation"):
+  "This is one of the good family fights … The shock of AI, the supply shock
+   of AI has an effect on demand and supply. We see the effect on demand much
+   more quickly … I don't view a one-time change in prices as necessarily
+   being inflationary because I think there's a supply response in that way.
+   This is different from a foreign conflict and what it might do, which
+   tends to reduce the supply side of the economy. Will it increase measured
+   prices over the course of the next 12 months? I suspect it will. Whether
+   that's inflationary or not, that's up to the Federal Reserve."
+  → He accepts the near-term price effect of AI demand but rejects treating
+    it as inflation, on supply-response grounds — explicitly distinguishing
+    his view from colleagues'. [Inference: this lowers the weight he puts on
+    the AI-demand driver relative to Williams and Cook, who both list it as
+    a live inflation vector — a substantive intra-committee analytical split
+    beneath the shared hold.]
+
+  M2 / monetary aggregates (Hagerty exchange): monetary aggregates restored
+  to the Monetary Policy Report ("an Easter egg that we hid in there") after
+  ~a decade out: "a modern central banker should have a mosaic of information
+  and should not be allergic to any data that happens to be inconsistent with
+  dogma … I have this old-fashioned view that monetary policy has something
+  to do with money … had we seen the surge and paid attention to the surge in
+  inflation and money in 21-22, we might have seen this problem sooner."
+  → Not monetarism ("I do not show up here as a monetarist") but a cross-check
+    doctrine; consistent with the data task force and "new measures" agenda.
+
+Shift vs. prior (Jul 14, Day 1):  unchanged in structure — vigilance intact,
+  duration clock intact. Tone on the data one notch warmer ("going in the
+  right direction") with the skeptic's cap ("imperfect measures") doing the
+  work "not mission accomplished" did on Day 1.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+Own language — rate path:
+  No rate signal anywhere in ~2 hours of Senate Q&A, matching Day 1's
+  three-hour demonstration of the no-forward-guidance policy. Pressed by
+  Kennedy for options: "Leave rates alone … That is an option, Senator." /
+  Raise: "Another option." / Cut: "A third option, a non-exclusive list of
+  options, but yes." — all three directions kept deliberately open 13 days
+  before the July 28–29 meeting.
+
+  On Waller's July 13 hike conditionality (Tillis raised it directly):
+  "There are diversity of views. I wouldn't want to dwell on any one of them
+   in particular."
+  → Second consecutive day declining to engage Waller's framework — neither
+    endorsement nor rejection. The orchestrator's silence continues.
+
+  Consensus framing (Tillis): asked if he has "a magic wand" to move the
+  FOMC: "perhaps I wish I do but I do not have such a wand," agreeing the
+  Fed is "a consensus-led organization."
+
+BALANCE SHEET — the doctrine extended (Ricketts exchange):
+  "Monetary policy is made currently through at least two material
+   instruments, interest rates and the balance sheet."
+  "As we think about inflation risks and we think about the conduct of
+   monetary policy at large, we have two instruments that we should be
+   thinking about. The balance sheet is one of them."
+  → Day 1 established balance sheet ≠ plumbing; Day 2 goes further by naming
+    the balance sheet as an instrument in the context of INFLATION RISKS —
+    the first time he has connected the balance sheet to the current
+    inflation fight rather than to regime design in the abstract. [Inference:
+    this puts balance-sheet runoff/composition on the table as a potential
+    tightening margin, distinct from a rate hike. Not a near-term signal —
+    he immediately routes it through the task force — but directionally
+    hawkish for the balance-sheet debate.]
+  Preferred end-state: "interest rate policy should be the driver of monetary
+  policy. The balance sheet should be as small as practicable to conduct
+  operations," expanding in crisis or for liquidity needs; "a permanently
+  large balance sheet with a duration of assets … larger than the duration of
+  assets of treasuries … that sure seems a little bit more like fiscal policy
+  than I'm comfortable with. So, I would like us to have a leaner, meaner
+  balance sheet."
+  Process: "monetary policy needs to be architected … by the policymakers
+  around the FOMC. The plumbing, the operations … is conducted by the New
+  York Fed. I want the architecture to drive the plumbing, not the plumbing
+  to drive the architecture." Changes would be "well discussed, well shared
+  and … quite deliberate," with markets given "plenty of time to adjust."
+
+Fed communications doctrine (Blunt Rochester exchange):
+  "There are plenty of people on Wall Street who are upset with me already
+   that I'm somehow not feeding them all the information they'd gotten before
+   and if they only had my dot, everything would be swell. My message to them
+   is: play the ball, don't play the Fed. By that, I mean figure out what's
+   happening in the real economy. Respond to data that's happening in the
+   real economy."
+  → The most quotable formulation yet of the guidance-withdrawal regime — a
+    direct instruction to markets to stop trading Fed communication. Note the
+    "my dot" aside: consistent with his non-submission to the June SEP.
+
+Task force timeline (Cortez Masto): six months, not years — briefings to the
+  FOMC "as early as September," conclusions "by year end," details and "much
+  of the deliberations … in the public square."
+
+Independence (Van Hollen, Kennedy, Alsobrooks exchanges):
+  "I don't want to be in the business of sharing discussions that the
+   president and I have." (declining to confirm or deny communications)
+  "They chose an independent guy to do an independent job, and that's exactly
+   what I plan on doing."
+  "The president has not … tried to influence the conduct of monetary policy.
+   And if he tried to, I would continue to keep my head down and do the job."
+  "The president never asked me to do anything inappropriate and if he did,
+   I wouldn't do it."
+  Calendar disclosure: "full compliance with the law" / ongoing FOIA — no
+  commitment to Powell-style voluntary disclosure of presidential contacts.
+  → Substantively consistent with Day 1's "sacrosanct" formulations, but the
+    refusal to characterize presidential conversations is a step less
+    forthcoming than the Day 1 register; he substitutes assurances about
+    conduct for disclosure of contact. Ranking-member and Warren/Reed/
+    Alsobrooks exchanges on his asset sales and the Bowman blackout-dinner IG
+    referral were contentious but carry no policy signal.
+
+Cut signal status: ABSENT (consistent across all post-June-17 appearances).
+Hike conditionality: ABSENT — Waller's framework again left unengaged.
+
+Shift vs. prior (Jul 14, Day 1):  UNCHANGED on rates — no-signal posture
+  held through a second full hearing. The balance-sheet-as-inflation-tool
+  formulation and "play the ball, don't play the Fed" are the genuinely new
+  doctrine statements; independence language shifts from declarative
+  ("sacrosanct") to non-disclosure of presidential conversations.
+Shift vs. pre-FOMC:  N/A.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL by design, vigilance intact — consistent with Day 1.
+
+  Warsh completed two consecutive days of congressional testimony (~5 hours
+  of Q&A) without a single rate-path signal, keeping all three options
+  explicitly open 13 days before the July meeting. His treatment of the
+  benign CPI/PPI pair is the tell: "any central bank would be happy to have
+  the data going in the right direction" concedes the direction, "imperfect
+  measures" withholds the conclusion — the same vigilance structure as
+  Day 1's "not mission accomplished," one notch warmer in tone.
+
+  Three genuinely new pieces of intelligence from the Senate round:
+  (1) The balance sheet is now explicitly framed as one of "two instruments"
+      relevant to INFLATION RISKS — extending the Day 1 doctrine from regime
+      design toward the active policy toolkit, with "leaner, meaner balance
+      sheet" as the stated preference.
+  (2) He publicly split with Waller and Williams on AI-investment inflation:
+      a one-time price change with a coming supply response is "not
+      necessarily inflationary" — he discounts the committee's newest
+      inflation driver even while pledging vigilance on inflation broadly.
+  (3) "Play the ball, don't play the Fed" — the communication regime
+      distilled to a market instruction, plus a hard timeline for the task
+      forces (September briefings, year-end conclusions).
+
+  He again declined to engage Waller's hike conditionality by name —
+  two hearings, two opportunities, two deliberate passes.
+
+Language watch:
+  • "imperfect measures" (of underlying inflation) — the standing device for
+    discounting favorable prints; second consecutive day. Stage: DISPERSED
+    (Warsh only).
+  • "two instruments" / balance sheet against "inflation risks" — watch
+    whether Logan (Jul 16, the committee's balance-sheet specialist) engages
+    it. Stage: DISPERSED.
+  • "Play the ball, don't play the Fed" — likely media pickup; watch whether
+    it becomes the shorthand for the no-guidance regime. Stage: DISPERSED.
+  • "63 months" duration clock — second consecutive day. Stage: DISPERSED
+    (Warsh only).
+  • "Leaner, meaner balance sheet" — quotable; pairs with Day 1's "price
+    taker, not price maker." Stage: DISPERSED.
+
+Analyst flag:  YES
+  → (1) The balance-sheet escalation: naming the balance sheet as an
+    inflation-relevant instrument goes beyond Day 1's regime-design framing.
+    If the task force lands by year-end with runoff/duration recommendations,
+    that is a tightening margin markets are not pricing. Does Logan engage
+    "two instruments" on July 16?
+  → (2) The AI-inflation split (Warsh vs. Waller/Williams/Cook) is now on the
+    record in his own words. If AI-driven goods/electricity prices keep
+    rising into September, the committee's hawks and the Chair are reading
+    the same driver differently — a potential fault line in the September
+    SEP and statement language.
+  → (3) Tone drift check for the blackout: Day 1 "not mission accomplished"
+    → Day 2 "happy to have the data going in the right direction" (capped).
+    If the July 28–29 statement or presser concedes directional progress,
+    the Senate phrasing was the leading indicator.
+══════════════════════════════════════════════════════════

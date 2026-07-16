@@ -5,20 +5,17 @@ PER-SPEECH ANALYSIS
 "Stability of Thy Times"
 Partnership for New York City, New York City, New York
 SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
-[Full transcript not retrieved — NY Fed site blocked by proxy this run.
- Content compiled from NY Fed Teller Window key-takeaways and wire coverage.
- Key quotes verified across multiple independent sources. See raw file.]
 
-CLASSIFICATION: Type A — Economic Outlook
+CLASSIFICATION: Type A — Economic Outlook (with an embedded New York City
+  regional section, not scored — color only)
 
 REFERENCE FOMC:    June 17, 2026 (HOLD 3.50–3.75%; 12–0; easing bias removed;
                    structural rewrite; SEP hawkish)
-PRE-FOMC BASELINE: May 4, 2026  "There Is No Try" (NY Fed; Type A — the
-                   speech most recently scored pre-June-17; scored at
+PRE-FOMC BASELINE: May 4, 2026  "There Is No Try" (NY Fed; Type A; scored at
                    data/scored/speeches/20260504_John_Williams_scored.txt)
 POST-FOMC PRIOR:   June 25, 2026  "The Strategy and the Goals" (Crane's Money
-                   Fund Symposium, prepared remarks; recovered 2026-06-28;
-                   scored at data/scored/speeches/20260625_John_Williams_scored.txt)
+                   Fund Symposium, prepared remarks; scored at
+                   data/scored/speeches/20260625_John_Williams_scored.txt)
 ──────────────────────────────────────────────────────────
 
 GROWTH
@@ -28,14 +25,28 @@ FOMC statement language echoed:
   → Williams: "Growth in the economy is solid and on trend."
 
 Own language:
-  Real GDP: "around 2 percent to 2.25 percent this year and over the next two
-  years." Growth running "modestly above its potential rate of 2 percent."
-  Unemployment expected to "edge down gradually to 4 percent in 2028."
-  → Identical forecast to June 25 and consistent with May 4. The growth
-    path is stable: slightly above potential, AI-investment-led.
+  "For the past year and a half, we've seen solid GDP growth, at around
+  2 percent. There are pockets of red-hot growth fueled by optimism,
+  productivity increases, and strong investment. But the economy has been only
+  growing near its trend rate because weakness in other sectors has been
+  offsetting these gains."
+  → Compositional framing: AI/technology optimism, business investment, and
+    equity-wealth-supported consumer spending are offsetting "declines in
+    spending in other sectors, such as residential construction, expenditures
+    by the federal government, and the effects of higher energy costs on
+    household spending." The aggregate is solid, but he explicitly names the
+    weak legs underneath it — a two-sided composition read.
 
-Shift vs. prior speech (June 25):  unchanged — same "solid," "around 2.25%,"
-  AI-investment-led framing; no directional change.
+  Forecast: real GDP "around 2 to 2-1/4 percent this year and over the next
+  two years," growth "running modestly above my estimate of its potential rate
+  of 2 percent," unemployment "to edge down very gradually to 4 percent in 2028."
+  → Same path as June 25 (which gave "around 2-1/4 percent"); the July 15
+    range's lower bound (2 percent) is trivially wider, not a downgrade.
+
+Shift vs. prior speech (June 25):  unchanged — same solid, AI-investment-led,
+  slightly-above-potential path. The offsetting-weakness composition (housing,
+  federal spending, energy drag on households) is fuller than June 25's framing
+  but describes the same economy.
 Shift vs. pre-FOMC (May 4):        unchanged — consistent across three speeches.
 
 ──────────────────────────────────────────────────────────
@@ -44,29 +55,39 @@ LABOR MARKET
 FOMC statement language echoed:
   "the unemployment rate has changed little" / "kept pace with the workforce"
   [Jun 17 stmt]
-  → Williams: "The labor market is likewise solid and stable." Unemployment
-    edging toward 4.0% by 2028.
+  → Williams: "The unemployment rate has stayed within a narrow range of about
+    4-1/4 to 4-1/2 percent over the past year. Payroll employment growth has
+    been positive."
 
-Own verdict — NOT a source of inflation pressure:
-  "we are not seeing evidence that the labor market is adding to inflationary
-   pressures." [Teller Window; direct quote]
-  → Consistent with June 25: "labor market not compounding the supply-shock
-    inflation." This is Williams's stable formulation — labor is a non-issue
-    for inflation, a holding formula that removes the labor leg as a two-sided
-    risk driver.
+Own verdict:
+  "we're seeing similar signs of resilience and stability" (topic opening);
+  "the labor market is likewise solid and stable" (policy section).
+  → "Solid and stable" is his summary verdict for the topic as a whole.
 
-Inflation expectations anchor:
-  Inflation expectations "well-anchored" — giving the Fed "policy breathing room."
-  → Maintained from June 25 ("medium-term inflation expectations … remained
-    well anchored").
+Subsection detail — survey/soft data:
+  "survey measures of job and worker availability, along with the New York
+  Fed's 'job security gap' — all of which previously flashed warning signs —
+  have also largely stabilized, albeit at low levels."
+  → This is the same formulation, applied to the same indicators, as June 25.
+    It is a subsection characterization of the soft data specifically, not the
+    overall labor verdict. The May 4 "increasing labor market slack" concern
+    remains withdrawn.
 
-Shift vs. prior speech (June 25):  unchanged — "solid and stable"; labor not
-  adding inflation pressure; anchored expectations. June 25's "largely
-  stabilized, albeit at low levels" language has upgraded to "solid and
-  stable" — a minor tonal improvement, not a directional shift.
-Shift vs. pre-FOMC (May 4):        HAWKISH LEAN (carried forward from June 25) —
-  May 4's "increasing labor market slack" soft-data concern is gone; "solid
-  and stable" is the new holding formula.
+Not a source of inflation pressure (stated in the inflation section):
+  "we do not see evidence of the labor market adding to inflationary
+  pressures. This is supported by the New York Fed's HPW Labor Market
+  Tightness Index and the data on wage growth, which are consistent with low
+  inflation."
+  → Maintains his stable formulation from June 25 — labor is a non-issue for
+    inflation, removing the labor leg as a two-sided risk driver.
+
+Shift vs. prior speech (June 25):  unchanged — same verdict ("solid and
+  stable" vs. June 25's "resilient … stable"), same soft-data language
+  ("largely stabilized, albeit at low levels"), same not-adding-to-inflation
+  anchor.
+Shift vs. pre-FOMC (May 4):        HAWKISH LEAN (carried forward from June 25)
+  — May 4's "increasing labor market slack" soft-data concern remains
+  withdrawn; stability is the holding verdict.
 
 ──────────────────────────────────────────────────────────
 INFLATION
@@ -74,39 +95,63 @@ INFLATION
 FOMC statement language echoed:
   "Inflation remains elevated relative to the Committee's 2 percent goal,
    in part reflecting supply shocks including energy" [Jun 17 stmt]
-  → Williams: "Inflation is unquestionably too high" at approximately
-    3.7 percent (or stated as "about 4 percent" — sources vary on whether
-    he uses headline or core; June CPI/PPI context: headline PCE likely
-    ~3.7%, with core lower; the "about 4%" may refer to a broader or
-    earlier reading).
-  Three drivers: (1) tariffs on imported goods; (2) Middle East energy/
-    supply disruptions; (3) robust AI investment demand for technology goods
-    and electricity. Identical three-driver framework to June 25.
+  → Williams: "Inflation is unquestionably too high at about 4 percent, well
+    above the FOMC's longer-run goal of 2 percent." (Footnoted as PCE. Note:
+    Cook, same day, puts the targeted index at 3.7 percent through June —
+    Williams's "about 4 percent" is a rounder characterization of the same
+    price picture.)
+  Three drivers, unchanged from June 25: (1) tariffs on imported goods;
+  (2) Middle East supply-chain disruptions and higher energy/commodity prices;
+  (3) "robust demand for certain categories of goods and electricity
+  associated with the surge in technology investment." On AI: "we're in a
+  race between available supply and surging demand … sharp increases in the
+  prices of semiconductors, power transformers, and other technology."
 
-Own language — KEY DOVISH SIGNAL (NEW vs. June 25):
+Own language — KEY:
   "There are encouraging reasons to expect that inflation has peaked and
    should edge down in coming quarters."
-  → "PEAKED" is new language not present in June 25. June 25 had "I expect
-    inflation readings to edge down" — a forward path. July 15 adds "peaked"
-    — claiming the high point has already passed. This is a more confident
-    disinflation claim. After the benign June CPI (core flat MoM) and June
-    PPI (-0.3%, core +0.2%, also released July 15 morning), Williams is
-    calling the peak explicitly.
+  → "Peaked" does not appear in the June 25 speech, which said only "I expect
+    inflation readings to edge down." July 15 claims the high point has
+    already passed — a more confident disinflation call, delivered the same
+    morning as the benign June PPI (-0.3% headline; core +0.2%) and the day
+    after the benign June CPI (core flat MoM).
 
-Glide path (updated):
-  Expected to "decline to approximately 3.25 percent by year-end 2026"
-  → June 25 forecast was "3-1/2 percent by year-end" — downward revision of
-    0.25 percentage points for 2026. The benign June CPI/PPI data allowed
-    Williams to revise the near-term path dovish. Then glide toward 2% in
-    2027 and "land on target" in 2028 — timeline unchanged from June 25.
+Six stated reasons for the peak call:
+  1. Tariffs: "the direct effects of existing tariffs on prices appear to have
+     in large part played out"; new tariffs "will primarily replace those that
+     were curtailed or will soon expire" — no significant additional impulse.
+  2. Shelter: "relatively modest increases in market rents" imply shelter
+     inflation stays on its three-year downward trajectory.
+  3. Energy: "based on oil prices today and futures market pricing into next
+     year, it appears that prices for energy and related goods have likely
+     peaked and will come down closer to levels seen before the initial
+     closure of the Strait of Hormuz" — explicitly flagged as "fluid and
+     subject to a great deal of uncertainty."
+  4. AI: supply-demand imbalances "should recede over time as more supply
+     comes online," though magnitude and duration "highly uncertain."
+  5. Labor: not adding to inflationary pressures (HPW index, wage data).
+  6. Expectations: "medium- and longer-term inflation expectations remain well
+     anchored" — one- and three-year-ahead up modestly, five-year-ahead
+     "essentially unchanged since the onset of the Middle East conflict,"
+     consistent with market-based measures.
+  → Reasons 1, 2, 5, and 6 carry over from June 25; the energy-peak call
+    (futures-based) and the explicit AI supply-response argument are firmer
+    than June 25's versions of those legs.
 
-Shift vs. prior speech (June 25):  DOVISH — "peaked" is new and stronger than
-  June 25's "edge down"; year-end 2026 forecast revised down 0.25pp (3.5%→3.25%).
-  Both reflect the June CPI/PPI prints incorporated into his assessment.
-Shift vs. pre-FOMC (May 4):        MIXED, net mild dovish — "peaked" call is
-  new; May 4 had "inflation risks tilted to the upside" with no peak claim;
-  but return-to-2% timeline slips (2027→2028) from May 4. June 25 bridged
-  the two; July 15 adds the peak claim.
+Glide path (revised):
+  "I expect overall inflation to decline to around 3-1/4 percent by year-end,
+   then continue on a glide path toward our 2 percent goal in 2027 and land on
+   target in 2028."
+  → Year-end 2026 revised down 0.25pp from June 25's "3-1/2 percent by
+    year-end." The 2028 return-to-target date is unchanged from June 25.
+
+Shift vs. prior speech (June 25):  DOVISH — "peaked" is a stronger claim than
+  "edge down"; year-end forecast revised down 0.25pp (3.5% → 3.25%). Both
+  moves absorb the benign June CPI/PPI prints.
+Shift vs. pre-FOMC (May 4):        MIXED, net mild dovish — the peak call is
+  well beyond May 4 (which had inflation risks tilted to the upside and no
+  peak claim); but the return-to-2% date (2028) remains a year later than
+  May 4's 2027. June 25 bridged the two; July 15 adds the peak claim.
 
 ──────────────────────────────────────────────────────────
 MONETARY POLICY
@@ -114,89 +159,88 @@ MONETARY POLICY
 FOMC statement language echoed:
   "The Committee decided to maintain the target range … 3-1/2 to 3-3/4
    percent … in support of the Federal Reserve's dual mandate." [Jun 17 stmt]
-  → Williams: "The current stance of monetary policy is well positioned
-    to do that." [Note: this is his identical formulation from June 25.]
+  → Williams: "at its meeting in mid-June, the FOMC decided to maintain the
+    target range for the federal funds rate at 3-1/2 to 3-3/4 percent in
+    support of the Fed's dual mandate."
 
 Own language:
-  "well positioned" — stable Troika holding formula; unchanged from June 25.
-  No cut signal. No hike signal. No forward guidance.
-  "my views, as always, will be based on the evolution of the totality of
-   the data, the economic outlook, and the balance of risks."
-  → Pure data-dependence closing formula; unchanged.
+  "with inflation running high, it is imperative that we restore it to the
+   Federal Reserve's 2 percent longer-run goal on a sustained basis. The
+   current stance of monetary policy is well positioned to do that."
+  → Identical stance formulation to June 25 ("imperative … sustained basis" +
+    "well positioned"). No cut signal. No hike signal. No forward guidance.
+  Closing: "my views, as always, will be based on the evolution of the
+  totality of the data, the economic outlook, and the balance of risks" —
+  his standing data-dependence formula, verbatim from June 25.
+  Risk paragraph: AI-surge effects "hard to predict"; Middle East supply
+  disruptions "a source of risk to the outlooks for both growth and inflation."
 
-NOTABLE ABSENCE: Williams does NOT echo Cook's "prepared to act" conditionality
-  or Waller's near-term tightening consideration (Jul 13). He maintains
-  the patient "well positioned" framing while asserting inflation has "peaked"
-  — i.e., the "peaked" call functions as his justification for why the
-  current rate is sufficient, not as a dovish pivot signal.
+NOTABLE ABSENCE: Williams does not echo Cook's "prepared to act" (same day)
+  or Waller's July 13 near-term tightening consideration. The "peaked" call
+  functions as his justification for why the current rate is sufficient —
+  disinflation arrives at the current stance — not as a pivot toward cuts.
+  [Inference: this is the patient-hold reading of the same data the
+  conditional-hike camp treats as merely one print; not stated as a
+  disagreement with anyone.]
 
-Cut signal status: ABSENT — unchanged from June 25 and June 17 Q&A. Williams
-  provides the disinflation glide path without attaching rate-cut timing to it.
-Hike signal: ABSENT — "well positioned" explicitly rejects the need for
-  additional action in the near term.
+Cut signal status: ABSENT — unchanged since the April 16 retraction; the
+  glide path is described without any rate-cut timing attached.
+Hike signal: ABSENT — "well positioned" carries the stance.
 
 Shift vs. prior speech (June 25):  unchanged on stance — patient hold, "well
-  positioned," no guidance. "Peaked" call and revised year-end forecast are
+  positioned," no guidance. The peak call and forecast revision are
   informational updates, not stance changes.
 Shift vs. pre-FOMC (May 4):        unchanged on stance.
 
 ──────────────────────────────────────────────────────────
 SUMMARY
 ──────────────────────────────────────────────────────────
-Net signal:    NEUTRAL (hold-anchored), DOVISH LEAN vs. June 25 on inflation
-               direction. Williams absorbs the benign June CPI and PPI data by
-               calling the inflation "peaked" and revising the year-end forecast
-               down 0.25pp. The policy stance ("well positioned") is unchanged —
-               he does NOT use the favorable data to advance a cut or lower-rates
-               argument, but the "peaked" call is the most confident Troika
-               disinflation signal since the June 17 hawkish restructure.
+Net signal:    NEUTRAL (hold-anchored), DOVISH vs. June 25 on inflation
+               direction. Williams absorbs the benign June CPI and PPI by
+               calling the inflation peak explicitly and revising his year-end
+               forecast down 0.25pp, while leaving the policy stance formula
+               untouched. He does not use the favorable data to advance a cut
+               argument — the peak call underwrites patience, not easing. This
+               is the most confident Troika disinflation language since the
+               June 17 restructure.
 
-               Critically, Williams does NOT join Cook's "prepared to act" or
-               Waller's near-term tightening conditionality. He is the HOLD/
-               PATIENCE voice of the Troika, framing the current rate as correct
-               and inflation coming down on its own. This diverges from the
-               Just Voter conditional hike camp (Cook + Waller) and aligns with
-               Goolsbee's (Jul 14) constructive read of the favorable data —
-               but Williams's version adds no dovish policy signal.
-
-               Committee positioning as of July 15, with blackout beginning
+               Committee positioning as of July 15, blackout beginning
                Saturday July 18:
-               → Warsh (Troika): "not mission accomplished"; neutral by design;
-                 "imperfect measures"; no rate signal
-               → Williams (Troika): "inflation peaked"; "well positioned"; dovish
-                 on direction, neutral on stance
-               → Waller (Jul 13, Just Voter): explicit near-term hike conditional;
-                 but his own threshold (hot CPI/PPI reading) was NOT triggered
-               → Cook (Jul 15, Just Voter): "prepared to act"; hike conditional
+               → Warsh (Troika, Jul 14–15): "not mission accomplished";
+                 "imperfect measures"; neutral by design, no rate signal
+               → Williams (Troika, Jul 15): "inflation has peaked"; "well
+                 positioned"; dovish on direction, neutral on stance
+               → Waller (Just Voter, Jul 13): explicit near-term hike
+                 conditional — whose named trigger (a hot core reading this
+                 week) was not met by CPI or PPI
+               → Cook (Just Voter, Jul 15): "prepared to act" hike conditional
                  maintained; employment risk de-emphasized
-               → Goolsbee (Jul 14, Non Voter): conditional normalization if PCE
-                 follows CPI pattern
+               → Goolsbee (Non Voter, Jul 14): conditional normalization if
+                 PCE follows the CPI pattern
 
 Language watch:
-  • "inflation has peaked" — NEW language for a Troika member; the most
-    confident forward disinflation claim since the June 17 meeting. Language
-    cycle stage: DISPERSED (Williams only; no other official has used "peaked").
-    High analytical importance: if Warsh or Jefferson echo "peaked," it signals
-    the Troika is preparing the ground for an eventual hold-with-easing posture.
-  • "well positioned" — stable Troika holding formula; unchanged; boilerplate.
-    Note only if it disappears.
-  • Year-end 2026 forecast: 3.5% → 3.25% (revised down 0.25pp vs. June 25) —
-    not a quote but a data-point; track future revisions.
+  • "inflation has peaked" — first peak claim from any official in the 2026
+    scored corpus; the most confident forward disinflation language since the
+    June 17 meeting. Stage: DISPERSED (Williams only). If Warsh or Jefferson
+    echo it, the Troika is preparing the ground for an eventual easing bias.
+  • "well positioned" — stable Troika holding formula; unchanged; note only
+    if it disappears.
+  • Year-end 2026 inflation forecast 3.5% → 3.25% — data-point revision;
+    watch for a committee-wide pattern in September SEP submissions.
 
 Analyst flag: YES
-  → (1) Williams calls inflation "peaked" one week before the blackout. This
-    is significantly more constructive than Warsh's "not mission accomplished"
-    (July 14) and Cook's persistent hawkish vigilance (July 15). Does this
-    represent a deliberate Troika split — Warsh holding the hawkish anchor
-    while Williams holds the market-reassurance position? If so, this is the
-    Troika's standard two-voice orchestration (one tight/hawkish, one
-    patient/dovish) — watch for Jefferson to place himself in the distribution.
-  → (2) Williams's "peaked" call explicitly incorporates the July 15 PPI data
-    (released same morning). This is unusually fast data integration for a
-    formal speech — is the speech language pre-written or updated intraday?
-    Either way, it signals the NY Fed was watching the data point closely.
-  → (3) Williams does not join Cook's/Waller's explicit hike conditionality
-    despite giving a same-day speech. This intra-committee divergence (two
-    Just Voters hawkish-conditional vs. Troika member not) is the most
-    important positioning intelligence going into the July 28-29 blackout.
+  → (1) Williams calls the inflation peak one week before blackout while
+    Warsh holds "not mission accomplished" and Cook holds "prepared to act."
+    Is this a deliberate Troika two-voice split (Warsh the hawkish anchor,
+    Williams the patient disinflation path)? Jefferson's next appearance is
+    the tiebreaker for where the Troika center actually sits.
+  → (2) The peak call and the futures-based energy argument incorporate the
+    July 15-morning PPI and intraday oil pricing — unusually fast data
+    integration for prepared remarks; the NY Fed clearly wanted this call on
+    the record before blackout.
+  → (3) Intra-committee divergence going into July 28–29: two Just Voters
+    carry conditional-hike language while the Troika's number two voice
+    asserts the peak. The July statement's inflation paragraph will have to
+    choose a characterization — watch whether "peaked" or vigilance language
+    wins.
 ══════════════════════════════════════════════════════════
