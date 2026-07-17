@@ -1,0 +1,264 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-07-16 | Lorie Logan | Dallas Fed President | Just Voter
+"A Conversation with Dallas Fed President Lorie Logan"
+Listening in 360° tour, Houston Branch, Federal Reserve Bank of Dallas,
+  1801 Allen Parkway, Houston, TX
+SOURCE: https://www.dallasfed.org/events/2026/26loganhou
+  [Official transcript at lkl260716 returned HTTP 403 at scrape time;
+   content sourced from CNBC, Investing.com, MarketScreener, ActionForex —
+   all quotes confirmed across multiple wire services]
+
+CLASSIFICATION: Type A — Economic Outlook. Prepared remarks delivered before
+  a moderated community conversation at the Listening in 360° tour event.
+  First post-June-17 economic outlook speech from Logan. The July 9 speech
+  ("Opening remarks for Market Liquidity panel," NY Fed) was Type B with no
+  monetary policy stance and is not used as a prior for directional comparison.
+
+REFERENCE FOMC:    June 17, 2026  (HOLD 3.50–3.75%; unanimous; easing bias
+  removed; forward guidance removed; "will deliver price stability"; SEP hawkish)
+PRE-FOMC BASELINE: June 3, 2026  "Opening remarks for moderated conversation
+  at The University of Texas at El Paso" (last pre-June-17-blackout speech)
+POST-FOMC PRIOR:   N/A — this is Logan's first post-June-17 economic outlook
+  speech. Comparison below is vs. the June 3 pre-FOMC baseline (effective prior
+  for all directional assessments).
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none explicit in available quotes.
+
+Own language:
+  "The labor, consumption and financial data indicate that monetary policy is
+   not restraining the economy."
+  → Same formulation as June 3 ("monetary policy is not restraining the economy"),
+    now extended to three named data categories (labor, consumption, financial)
+    — a slightly more explicit architecture for the same conclusion.
+
+  Unemployment averaged 4.3% in H1 2026; average job gains ~92,000/month.
+  → Logan's framing: labor stability removes the dual-mandate obstacle to
+    tightening. The 92K figure is well above her June 3 "~50K/month" (which she
+    characterized as consistent with slow labor force growth at that time) —
+    job growth has reaccelerated, strengthening the "not restraining" argument.
+    [Inference: a labor market adding more jobs than previously described makes
+     it harder to argue for policy patience on employment grounds.]
+
+Shift vs. pre-FOMC (June 3): NEUTRAL / HAWKISH LEAN — the "not restraining"
+  conclusion is identical; the 92K jobs figure is stronger than the June 3
+  ~50K (which Logan characterized as merely consistent with slow labor force
+  growth). Updated data point strengthens, not weakens, her hawkish premise.
+
+Direction: neutral-to-hawkish — no growth risk cited; "not restraining"
+  maintained; labor data upgraded relative to June 3.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 statement: "Job gains have kept pace with the workforce." (structural
+  rewrite; labor reframed as adequate, not stressed)
+  → Logan: implicitly consistent — 92K/month framed as adequate; stability
+    described in terms that remove labor as a dovish argument.
+
+Own verdict:
+  Unemployment averaged 4.3% in H1 2026 — consistent with June 3's "hovered
+  around 4.3 percent." Employers adding ~92,000 jobs/month vs. June 3's
+  "~50,000/month."
+
+  "The labor, consumption and financial data indicate that monetary policy is
+   not restraining the economy."
+  → The "not restraining" conclusion from June 3 is maintained verbatim as a
+    multi-data judgment — labor is ONE input of three, not the sole driver.
+
+Notable update: 92K/month is materially above the June 3 ~50K figure Logan
+  characterized as "in line with the slow growth rate of the labor force." If the
+  pace has nearly doubled, the labor force growth argument either also accelerated
+  or Logan's labor market characterization has become more constructive.
+  [Inference: a more robust job gain pace, if not explained by higher labor force
+   growth, weakens the case that employment conditions are anything but solid.]
+
+Shift vs. pre-FOMC (June 3): HAWKISH LEAN — stable unemployment (unchanged)
+  but job gains upgraded; "not restraining" conclusion maintained. The data
+  revision removes any residual softening argument.
+
+Direction: neutral-to-hawkish — stability removes dual-mandate obstacle;
+  updated data strengthens the labor-adequate inference.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 statement: "Inflation remains elevated" / "sequence of supply shocks"
+  → Logan does not echo this framing. Her approach is quantitative and verdict-
+    focused, not attribution-focused.
+
+Own language — KEY:
+  "Inflation has been too high, for too long, and does not appear to be on track
+   all the way back to 2%."
+  → Three-part structure: (1) level ("too high"), (2) duration ("too long"),
+    (3) path ("not on track all the way back") — the June 3 path verdict
+    ("trending toward the mid 2's — not all the way back to 2 percent") is
+    maintained, now stated as a more direct negative: "does not appear to be on
+    track all the way back to 2%."
+
+  "Every month of above-target inflation has compounded the strain on Americans'
+   budgets."
+  → Duration argument deployed as a cost-of-waiting argument — each additional
+    month of inaction has a real household cost. This is NOT in the June 3
+    scored file; it is new language in the post-FOMC window.
+
+Measures cited (vs. June 3):
+  - Core PCE: 3.4% (June 3: 3.3%) — RISEN since December 2025.
+    → Trend is moving the wrong direction on Logan's watch.
+  - NY Fed multivariate core trend: 3.4% (June 3: "moved above 3 percent this
+    year") — the persistent component has continued rising.
+  - Market-based non-housing core services: no progress since mid-2024 on a
+    12-month basis. → The services stickiness argument unchanged.
+
+Explicit dismissal of June CPI/PPI:
+  "One month of relief is not enough. It is time to finish the job of restoring
+   price stability."
+  → Logan is explicitly rebutting the June 14 CPI (headline -0.4% MoM / +3.5%
+    YoY; core flat MoM) and June 15 PPI (-0.3% MoM final demand) that drove
+    Williams's "peaked" call and Waller's hold-branch activation. Her formulation
+    is the direct counter-argument to the "data is going in the right direction"
+    (Warsh) and "inflation has peaked" (Williams) readings from July 14-15.
+    She is targeting exactly the same data release and drawing the opposite
+    policy inference.
+
+Shift vs. pre-FOMC (June 3): NEUTRAL on direction (same above-2% forecast),
+  HAWKISH on framing — core PCE has risen further (3.3% → 3.4%); the persistent
+  component has risen; June CPI/PPI explicitly dismissed. The analytical
+  architecture is the same; the data have moved further in her direction.
+
+Direction: HAWKISH — above-2% inflation forecast maintained; measures have
+  worsened on the margin since June 3; benign June data explicitly rejected.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 statement: "[Committee] will be attentive to the risks to both sides
+  of its dual mandate." / "The Committee will deliver price stability."
+  → Logan echoes the dual-mandate framing in structure but goes well beyond it:
+    she argues the current rate is FAILING to deliver price stability.
+
+Own language — KEY ESCALATION:
+  "I currently believe modestly higher interest rates would better balance the
+   outlook and risks for the FOMC's dual mandate goals."
+  → Linguistic analysis vs. June 3:
+    June 3: "I am increasingly concerned that higher interest rates COULD BE
+    NECESSARY later this year to fully restore price stability."
+    July 16: "I currently believe modestly higher rates WOULD BETTER BALANCE the
+    dual mandate goals."
+    Change: (1) "concerned/could be necessary" → "believe/would" — from worry to
+    conviction; (2) "later this year" (deferred) → present tense ("currently") —
+    the hike case is NOW, not deferred; (3) "fully restore price stability"
+    (single mandate) → "better balance dual mandate" (both sides) — the framing
+    broadens to the full dual mandate, with labor stable enough to absorb
+    tightening.
+
+  "If inflation is not heading all the way to 2 percent on its own, then at least
+   some policy restriction is needed to help get it there."
+  → Explicit logical deduction: her inflation path forecast ("not on track to 2%")
+    + the general principle ("restriction needed if not going there on its own")
+    = policy tightening required. No ambiguity.
+
+  "If higher inflation becomes entrenched, we'd need sharper rate increases to
+   bring it back to target, with a larger cost for the labor market. Better modest
+   restriction now than severe restriction later."
+  → Pre-emptive case, dual-mandate framed: a small hike now is better for
+    employment in the long run than allowing entrenchment. This is the most
+    sophisticated version of the early-action argument from any 2026 voter.
+    [Note: This framing echoes the historical Volcker lesson — hesitation now
+     leads to sharper action later — but Logan makes the cost-benefit case
+     explicitly in dual-mandate terms.]
+
+Scenario framing: DESCRIPTIVE (not named scenarios), but the logic is more
+  explicit than June 3's general concern — Logan constructs a deductive argument
+  (if A then B) rather than a conditional worry (could be necessary if...).
+
+Hike signal: PRESENT — ESCALATED from conditional concern to current conviction.
+  First voter under Warsh to publicly advocate for a rate increase (per media).
+  Stopped short of committing to July 28-29 specifically; no magnitude indicated.
+Cut signal: ABSENT.
+
+Shift vs. pre-FOMC (June 3): HAWKISH — SIGNIFICANT ESCALATION.
+  June 3: "increasingly concerned higher rates COULD be necessary LATER THIS YEAR"
+  → conditional/deferred.
+  July 16: "I currently believe modestly higher rates WOULD better balance the
+  dual mandate" — current conviction, not conditional; present horizon, not
+  deferred. The hike signal has moved from the far right tail of Logan's
+  probability distribution to her base case.
+
+Direction: HAWKISH — hike signal escalated from conditional to conviction;
+  pre-emptive argument made explicit; June CPI/PPI dismissed as insufficient.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — significant escalation from June 3 pre-FOMC baseline.
+               Three structural shifts:
+               (1) Hike conditionality → hike conviction: "could be necessary
+                   later this year" → "I currently believe would better balance";
+               (2) June CPI/PPI explicitly dismissed: "one month of relief is
+                   not enough" — rejects the dovish inference drawn by Williams
+                   ("peaked") and consistent with Waller's now-technically-
+                   unmet data trigger;
+               (3) "Not restraining" maintained and extended: same conclusion
+                   as June 3 now stated across three data categories (labor,
+                   consumption, financial); labor data has improved (92K/mo
+                   vs. ~50K/mo), strengthening the premise.
+
+Position relative to committee (July 16):
+  Logan is the FIRST voter to state a current belief in favor of higher rates
+  under the Warsh chairmanship. The committee's stated positions entering
+  blackout:
+    → Warsh: full optionality ("leave alone, raise, cut — a non-exclusive list");
+      concedes data "going in right direction" but holds "imperfect measures"
+    → Williams: "inflation has peaked"; patient hold; no hike signal
+    → Cook: "prepared to act" conditional; trigger is absence of disinflation
+      "soon"; technically not met by June CPI/PPI
+    → Waller: hike if hot print; June CPI/PPI did NOT trigger his condition
+    → Logan: "currently believe modestly higher rates would better balance" —
+      hike as base case (not conditional on next print)
+  Logan's position is to the right of Cook (conditional) and well to the right
+  of Waller (whose trigger was not met). The hawkish wing entering the July
+  blackout: Logan (hike base case) + Cook (hike conditional) + implicit
+  Kashkari/Hammack (Apr 29 dissenters, no post-June speeches).
+
+Language watch:
+  • "does not appear to be on track all the way back to 2%" — maintains the
+    June 3 "mid 2's" above-2% forecast; consistent across two speeches. Stage:
+    DISPERSED (Logan only, but echoes the analytical frame she established
+    June 3 — the first explicit above-2% forecast from any 2026 voter).
+  • "monetary policy is not restraining the economy" — unchanged from June 3.
+    Stage: DISPERSED (Logan + Hammack Jun 2). No Troika uptake.
+  • "Better modest restriction now than severe restriction later" — NEW phrase.
+    The pre-emptive dual-mandate case for early tightening is a clean one-liner.
+    Watch for uptake by Kashkari or Barkin (non-voters who trend hawkish) or
+    in the July 28-29 dissent rationale.
+  • "One month of relief is not enough" — direct rebuttal of June CPI/PPI.
+    Stage: DISPERSED. The counter-signal to Williams's "peaked" call.
+
+Analyst flag:  YES
+  → (1) Logan is now the hawkish anchor of the voter coalition, standing to the
+    right of Cook's conditional and Waller's data trigger. If she dissents at
+    July 28-29 (for a hike), it would be her second consecutive dissent and the
+    first affirmative hike dissent under Warsh. The Jul 28-29 meeting is now
+    a three-outcome event: unanimous hold, hold with dovish dissent (unlikely),
+    or hold with Logan hawkish dissent. Dissent probability is HIGH.
+  → (2) Logan's dismissal of the June CPI/PPI directly contradicts Williams's
+    "peaked" call and the sentiment shift implied by Waller's trigger not
+    being met. Three voters — Williams (hold-patient), Waller (trigger unmet →
+    hold), and Logan (hike base case) — are looking at the same two data points
+    and drawing materially different conclusions. Warsh holds the center;
+    Jefferson is the unheard voice. The committee enters blackout with no
+    consensus on what the June data mean.
+  → (3) The "compounded strain" + "time to finish the job" framing is the first
+    explicitly cost-of-waiting/social-cost argument from a 2026 voter. If Logan
+    delivers a formal dissent statement at July 28-29, this language will be in
+    it — watch for it as a template for how the hawkish minority formalizes its
+    position.
+══════════════════════════════════════════════════════════

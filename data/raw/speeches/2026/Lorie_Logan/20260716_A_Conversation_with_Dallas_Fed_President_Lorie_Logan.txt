@@ -1,0 +1,63 @@
+SOURCE: https://www.dallasfed.org/events/2026/26loganhou
+
+NOTE: Official Dallas Fed transcript page (https://www.dallasfed.org/news/speeches/logan/2026/lkl260716)
+returned HTTP 403 at time of scrape (5:30am ET, July 17, 2026). Content below is
+reconstructed from verified wire-service coverage (CNBC, Investing.com, MarketScreener,
+ActionForex). All quotes confirmed across multiple independent sources.
+
+EVENT: "A Conversation with Dallas Fed President Lorie Logan"
+       Listening in 360° tour — Houston Branch, Federal Reserve Bank of Dallas
+       1801 Allen Parkway, Houston, TX
+       11:30 a.m.–1:00 p.m. CDT, Thursday July 16, 2026
+       Format: Prepared remarks followed by moderated community conversation.
+
+SPEAKER: Lorie K. Logan, President and CEO, Federal Reserve Bank of Dallas
+CLASSIFICATION: Just Voter (2026 rotating member)
+NOTES: Logan is the first FOMC policymaker under Chair Warsh to publicly
+       advocate for an interest-rate increase ahead of the July 28-29 FOMC meeting.
+
+--- PREPARED REMARKS (key quotes verified via wire coverage) ---
+
+INFLATION:
+"Inflation has been too high, for too long, and does not appear to be on track all
+the way back to 2%."
+
+"Every month of above-target inflation has compounded the strain on Americans'
+budgets."
+
+[On June CPI/PPI data:] "One month of relief is not enough. It is time to finish
+the job of restoring price stability."
+
+Inflation measures cited:
+  - Core PCE: 3.4%, risen since December 2025
+  - NY Fed multivariate core trend model (persistent component): 3.4%
+  - Market-based non-housing core services inflation: no progress on a 12-month
+    basis since mid-2024
+  - Logan's path forecast: inflation heading toward "mid 2's" — not all the way
+    back to 2 percent
+
+LABOR MARKET / GROWTH:
+  - Unemployment rate averaged 4.3% in the first half of 2026
+  - Average job gains: approximately 92,000 per month
+  - "The labor, consumption and financial data indicate that monetary policy is
+    not restraining the economy."
+
+MONETARY POLICY:
+"If inflation is not heading all the way to 2 percent on its own, then at least
+some policy restriction is needed to help get it there."
+
+"If higher inflation becomes entrenched, we'd need sharper rate increases to bring
+it back to target, with a larger cost for the labor market. Better modest
+restriction now than severe restriction later."
+
+"I currently believe modestly higher interest rates would better balance the
+outlook and risks for the FOMC's dual mandate goals."
+
+NOTE: Logan stopped short of committing to a hike at the July 28-29 meeting
+specifically. No preferred magnitude was indicated.
+
+--- SOURCE COVERAGE ---
+CNBC: https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html
+Investing.com: https://www.investing.com/news/economy-news/feds-logan-calls-for-rate-hike-ahead-of-july-meeting-4796523
+MarketScreener: https://www.marketscreener.com/news/fed-s-logan-calls-for-modestly-higher-interest-rates-ce7f5ed3da81f025
+ActionForex: https://www.actionforex.com/live-comments/647522-feds-logan-becomes-first-official-to-publicly-call-for-rate-hike-under-warsh/
