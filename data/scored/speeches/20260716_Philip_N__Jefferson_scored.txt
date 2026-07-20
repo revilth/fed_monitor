@@ -1,0 +1,247 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-07-16 | Philip N. Jefferson | Vice Chair | Troika
+"Navigating Economic Shocks: A Monetary Policymaker's Perspective"
+Stanford Institute for Economic Policy Research (SIEPR), Stanford University,
+  Stanford, California
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm
+
+CLASSIFICATION: Type B — Special Topic (a framework speech on how policymakers
+  classify and respond to economic shocks) WITH an embedded economic-outlook /
+  monetary-policy section. The "Challenges Posed by the Current Juncture" and
+  "On the Current Stance of Monetary Policy" sections are the scorable outlook
+  content and are analyzed below with Type A methodology. The taxonomy sections
+  (demand vs. supply shocks, output gap, response rules) are framework context,
+  not directional signal — noted but not scored.
+
+REFERENCE FOMC:    June 17, 2026 (HOLD 3.50–3.75%; 12–0; easing bias removed;
+                   forward guidance removed; structural rewrite; SEP hawkish)
+PRE-FOMC BASELINE: May 27, 2026  "Global Economic Developments and the U.S.
+                   Economy" (BOJ-IMES Conference, Tokyo; Type A; scored at
+                   data/scored/speeches/20260527_Philip_N__Jefferson_scored.txt)
+POST-FOMC PRIOR:   N/A — this is Jefferson's FIRST post-June-17 speech with
+                   economic-outlook / monetary-policy content. All directional
+                   comparisons below are vs. the May 27 pre-FOMC baseline.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+This is a framework speech; Jefferson gives no GDP forecast and no direct growth
+characterization. Growth enters only through the shock taxonomy (output gap =
+GDP relative to potential) and the AI demand/supply discussion.
+
+Own language:
+  "On the demand side, optimism about AI may boost investment and consumption
+   today, even before these productivity gains fully materialize. Firms
+   expecting higher future profits are investing heavily in data centers,
+   advanced computing equipment, and AI capabilities."
+  → Compositional read consistent with the committee's AI-investment theme
+    (Williams Jul 15, Logan Jul 16). Jefferson flags the timing asymmetry as the
+    policy-relevant risk: "If ... the demand effects from stronger investment
+    and consumption are realized sooner than the supply effects from productivity
+    growth, AI could exert upward pressure on inflation." Growth-through-AI is
+    framed as a potential inflation source, not a standalone growth story.
+
+Shift vs. prior speech (May 27):   UNCHANGED — May 27 named energy costs as a
+  household-spending / demand headwind; July 16 does not repeat a growth-drag
+  call, instead folding demand into the AI timing question. No directional growth
+  signal either way.
+Shift vs. pre-FOMC (May 27):       UNCHANGED — no scorable growth verdict.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 statement reframed labor as adequate ("job gains have kept pace with
+  the workforce"), not stressed.
+  → Jefferson: "the unemployment rate ... is near a level that most observers
+    view as consistent with maximum employment." (Footnote 5: current 4.2%
+    unemployment near the CBO's 4.4% noncyclical estimate.) Consistent with the
+    statement's labor-adequate framing.
+
+Own verdict:
+  "employment potentially moving below its maximum sustainable level" is named
+   as the downside he "must be mindful of."
+  → Labor is characterized as at/near maximum employment now, with the risk
+    two-sided but the near-term concern being that policy tension could push
+    employment below sustainable levels. This is a NOTABLE SOFTENING of emphasis
+    vs. May 27's standing downside-risk framing — see shift line.
+
+Own qualifier:
+  "These factors confront the FOMC with a delicate balancing act. On the one
+   hand, we face the imperative to address inflationary pressures. On the other
+   hand, we must be mindful of employment potentially moving below its maximum
+   sustainable level."
+  → Explicitly frames the dual mandate as in TENSION (not aligned) at the
+    current juncture — the classic opposite-direction-shock case from his own
+    taxonomy. This is the analytical core of the speech: Jefferson is telling
+    the audience the committee faces a genuine tradeoff.
+
+Shift vs. prior speech (May 27):   SLIGHT DOVISH LEAN on labor emphasis —
+  May 27 called the market "broadly stable" with risks "somewhat skewed to the
+  downside." July 16 keeps it near maximum employment but elevates the downside
+  ("mindful of employment moving below its maximum sustainable level") into one
+  of the two poles of an explicit tradeoff. He is protecting the employment side
+  more visibly than May 27.
+Shift vs. pre-FOMC (May 27):       SLIGHT DOVISH LEAN — same as above.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  June 17 statement: "Inflation remains elevated" / "sequence of supply shocks."
+  → Jefferson: "inflation has already been above the FOMC's target for some
+    time, in part a result of post-pandemic imbalances." Echoes the elevated
+    framing; adds a duration note ("for some time").
+
+Own language — KEY:
+  "The quick succession of shocks raises the risk that inflation becomes
+   entrenched and inflation expectations become unanchored. The question of
+   whether the recent increase in energy prices will feed into longer-term
+   inflation expectations and result in a persistent rise in inflation is a
+   critical one."
+  → This is the "sequence of shocks" hawkish framing (per CLAUDE.md hawkish
+    signals): naming the risk that a run of supposedly transitory shocks
+    (energy + trade/tariffs) becomes entrenched RAISES the bar for looking
+    through inflation. For Jefferson (Troika), putting "entrenched" and
+    "unanchored" on the table is a meaningful hawkish emphasis.
+
+  "in a scenario where actual inflation does not start to cool down soon, I
+   believe that it could be appropriate to reconsider our current policy stance
+   to ensure we fulfill our commitment to deliver price stability."
+  → (Scored under Monetary Policy below — the conditional is a policy signal.)
+
+  Two-shock pass-through base case: energy demand effects expected "muted"
+  because the U.S. is a net oil exporter; base case is that inflation "resume[s]
+  its decline toward our 2 percent target as the effects of past tariffs and
+  energy prices pass through completely."
+  → The disinflation base case survives, conditioned on pass-through — the same
+    two-shock conditional structure (tariffs AND energy) Jefferson adopted May 27.
+
+Shift vs. prior speech (May 27):   HAWKISH LEAN on risk framing — May 27 said
+  inflation "moved notably higher" and risks "tilted to the upside." July 16
+  does not re-quantify the level but escalates the RISK language to "entrenched"
+  / "unanchored" driven by the "quick succession of shocks." The tail risk is
+  described more starkly than May 27.
+Shift vs. pre-FOMC (May 27):       HAWKISH LEAN — same as above.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "well positioned to respond" (committee holding formula).
+  → Jefferson: "our current policy stance leaves us well positioned to respond
+    to economic developments based on the incoming data, the evolving outlook,
+    and the balance of risks." Verbatim committee boilerplate — neutral.
+
+Own language — KEY (the signal of the speech):
+  "At our last meeting, in June, the FOMC decided to maintain the target range
+   for the federal funds rate at 3-1/2 to 3-3/4 percent. This policy stance
+   should continue to support the labor market while allowing inflation to
+   resume its decline toward our 2 percent target as the effects of past tariffs
+   and energy prices pass through completely. That said, in a scenario where
+   actual inflation does not start to cool down soon, I believe that it could be
+   appropriate to reconsider our current policy stance to ensure we fulfill our
+   commitment to deliver price stability."
+  → Two-part message:
+    (1) BASE CASE = patient hold. Current stance is judged appropriate; it
+        "should" support labor while inflation resumes its decline via
+        pass-through. This is a dovish-of-Logan, patient stance.
+    (2) HAWKISH CONDITIONAL = "reconsider our current policy stance" IF inflation
+        "does not start to cool down soon." In context (inflation above target,
+        upside risks, entrenchment concern), "reconsider" points toward
+        tightening, not easing.
+
+  Scenario framing (per CLAUDE.md precision rule): EXPLICIT and NAMED —
+  Jefferson labels it "in a scenario where actual inflation does not start to
+  cool down soon" and attaches a policy response ("reconsider our current policy
+  stance"). It is stronger than descriptive risk language. BUT "reconsider" is
+  deliberately softer than a hard pre-commitment: it is not "raise rates" or
+  "prepared to act" — it is an openness to revisiting the hold. Classify as an
+  explicit/named conditional with a soft policy verb.
+
+  Neutral-rate (r*) structural note:
+  "If AI indeed raises the neutral rate, then for any given level of the federal
+   funds rate, policy effectively becomes more accommodative. Conversely, if
+   AI-related developments cause r* to decline, policy effectively becomes more
+   restrictive."
+  → A symmetric, heavily-hedged framing ("predicting changes in the neutral rate
+    is challenging"). Do NOT read this as a call for higher rates. Per the
+    Type D neutral-rate precision rule, note what it does and does not resolve:
+    it flags that an AI-driven r* increase would erode the restrictiveness of any
+    given FFR — a latent hawkish-leaning structural consideration — but Jefferson
+    explicitly declines to commit to a direction for r*.
+
+  Cut signal status:  ABSENT — no "further reductions" language.
+  Hike signal status: ABSENT as a base case; a NAMED CONDITIONAL toward
+    reconsidering (tightening) is present — "reconsider our current policy
+    stance" if inflation does not cool soon. This is Jefferson's first
+    post-June-17 directional conditional and it points hawkish.
+
+Shift vs. prior speech (May 27):   HAWKISH LEAN — May 27's policy signal was
+  optionality ("I have not prejudged the next meeting"), which neither endorsed
+  nor ruled out tightening. July 16 replaces open optionality with a NAMED
+  conditional that points toward reconsidering the stance if inflation does not
+  cool — a more directional, hawkish-leaning progression from a Troika member.
+Shift vs. pre-FOMC (May 27):       HAWKISH LEAN — same as above.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (with a protected employment side)
+               Jefferson's first post-June-17 outlook content delivers a
+               two-sided message. On inflation he escalates the risk framing to
+               "entrenched" / "unanchored" driven by a "quick succession of
+               shocks" (energy + trade) — the sequence-of-shocks hawkish signal.
+               On policy he moves from May 27's open optionality ("not
+               prejudged") to a NAMED conditional to "reconsider our current
+               policy stance" if inflation does not cool soon — his first
+               post-June directional tilt, and it points hawkish. But the base
+               case remains a patient, pass-through hold, and he elevates the
+               employment downside into an explicit dual-mandate tradeoff — so
+               he sits clearly dovish of Logan (who advocates a hike now) and to
+               the patient side of the hawkish voter wing, while conceding the
+               hawkish tail more openly than in May.
+
+Position relative to committee (entering July 28–29 blackout):
+  → Logan: hike as base case ("modestly higher rates would better balance").
+  → Cook: conditional "prepared to act" if disinflation absent "soon."
+  → Waller: hike if a hot print; June CPI/PPI did not trigger it.
+  → Williams: "inflation has peaked"; patient hold; no hike signal.
+  → Warsh: full optionality ("leave alone, raise, cut").
+  → Jefferson: patient-hold base case + NAMED conditional to "reconsider" if
+    inflation does not cool soon. Sits between Williams (patient, no conditional)
+    and Cook (conditional to act) — closer to Cook's structure but with a softer
+    verb ("reconsider" vs. "act"). As Vice Chair, his conditional is the
+    Troika's clearest acknowledgement that the hold is not open-ended.
+
+Language watch:
+  • "quick succession of shocks ... inflation becomes entrenched ... expectations
+    become unanchored" — the sequence-of-shocks hawkish frame at Troika level.
+    Stage: EMERGING — echoes Logan's entrenchment argument (Jul 16) and the
+    June 17 statement's "sequence of supply shocks." Watch for Williams/Warsh
+    uptake; if the Troika converges on "entrenchment," it is a leading indicator
+    for hawkish statement language.
+  • "reconsider our current policy stance" — Jefferson's first named policy
+    conditional since June 17. Stage: DISPERSED (Jefferson's own formulation;
+    softer than Cook's "prepared to act," harder than Williams's patience).
+    Watch whether he sharpens the verb before the September meeting.
+  • r*-erosion-from-AI structural note — not yet a policy argument, but if the
+    committee begins citing an AI-lifted neutral rate to justify holding higher,
+    this is where it starts. Stage: DISPERSED (also raised by Logan Jul 16).
+
+Analyst flag:  YES
+  → (1) SWING TROIKA VOTE: With Logan advocating a hike and Williams counseling
+    patience, Jefferson's "reconsider if inflation doesn't cool soon" makes him
+    the Troika swing whose bar is a near-term inflation disappointment. The key
+    question the July 28–29 meeting resolves: does Jefferson's conditional bar
+    treat the June CPI/PPI (which eased) as "starting to cool," or not? If he
+    reads the June data as insufficient (Logan's view), his conditional is close
+    to live; if sufficient (Williams's view), the hold is comfortable. His
+    speech does not resolve which — flag for the analyst.
+  → (2) "Reconsider" vs. "act" vs. "raise": confirm with the analyst whether
+    Jefferson's soft verb is deliberate Troika restraint (keeping the door open
+    without endorsing Logan's hike) or genuine equidistance. His simultaneous
+    elevation of the employment downside argues for restraint, not a lean.
+══════════════════════════════════════════════════════════

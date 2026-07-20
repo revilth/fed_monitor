@@ -7,12 +7,11 @@ Next FOMC: July 28–29, 2026 (non-projection; no SEP/dot plot)
 SPEECHES TODAY
   (None) — No Federal Reserve speeches scraped for July 17, 2026.
   [NOTE: Vice Chair Jefferson's July 16 speech ("Navigating Economic
-   Shocks: A Monetary Policymaker's Perspective," SIEPR/Stanford) was
-   scraped but not scored in the July 16 daily run; it remains pending
-   (20260716_Navigating_Economic_Shocks... in data/raw/). Its policy
-   content — including Jefferson's first post-June-17 hike conditional —
-   is incorporated in the FOMC CYCLE SUMMARY below. Analyst should
-   review and score at next opportunity.]
+   Shocks: A Monetary Policymaker's Perspective," SIEPR/Stanford) is now
+   scored from the full official transcript (20260716_Philip_N__Jefferson_
+   scored.txt) and covered in the redrafted July 16 daily report. Its
+   policy content — Jefferson's first post-June-17 hike conditional — is
+   also synthesized in the FOMC CYCLE SUMMARY below.]
 ════════════════════════════════════════════════════════════════
 
 No new speeches to score for REPORT_DATE July 17, 2026.
@@ -178,11 +177,9 @@ NET DIRECTION: NEUTRAL (hold-anchored) / DOVISH vs. June 25 on
 
 JEFFERSON (Vice Chair)  |  Troika
 Latest: July 16, 2026 — "Navigating Economic Shocks: A Monetary
-  Policymaker's Perspective" (SIEPR/Stanford; TYPE A — pending score;
-  treated here from raw text at data/raw/speeches/2026/Philip_N__
-  Jefferson/20260716_Navigating_Economic_Shocks...). This is
-  Jefferson's FIRST post-June-17 economic outlook speech. Not covered
-  in the July 16 daily run; analyst should score at next opportunity.
+  Policymaker's Perspective" (SIEPR/Stanford; Type B framework speech
+  with embedded outlook; scored at 20260716_Philip_N__Jefferson_
+  scored.txt). Jefferson's FIRST post-June-17 speech with policy content.
 Prior: May 27, 2026 — "Global Economic Developments and the U.S.
   Economy" (Bank of Japan–IMES Conference, Tokyo; scored).
 
@@ -227,9 +224,13 @@ MONETARY POLICY — KEY ADDITION: "This policy stance should continue to
     the pass-through base case framing it as his non-base scenario.
     "Well positioned" formula maintained.
 
-NET DIRECTION: Mildly HAWKISH vs. May 27 pre-FOMC baseline. Holds
-  the patient-hold base case but introduces a hike conditional. The
-  Troika is now split:
+NET DIRECTION: HAWKISH LEAN vs. May 27 pre-FOMC baseline, with a
+  protected employment side. Holds the patient-hold base case and
+  introduces a named hike conditional, but simultaneously elevates the
+  employment downside ("mindful of employment potentially moving below
+  its maximum sustainable level") into an explicit dual-mandate tradeoff
+  — so he sits dovish of Logan and to the patient side of the hawkish
+  voter wing. The Troika is now split:
   → Warsh: no rate signal (deliberately open)
   → Williams: "peaked"; patient hold
   → Jefferson: patient hold base case + "reconsider ... if inflation
@@ -306,10 +307,10 @@ NET DIRECTION: HAWKISH.  Cut signal: ABSENT. Hike conditional:
 ─────────────
 
 LOGAN (Dallas Fed President)  |  Just Voter
-Latest: July 16, 2026 — "A Conversation with Dallas Fed President
-  Lorie Logan" (Listening in 360° tour, Houston Branch; Type A;
-  scored at 20260716_Lorie_Logan_scored.txt). First post-June-17
-  economic outlook speech.
+Latest: July 16, 2026 — "Remarks on inflation, employment and monetary
+  policy" (Dallas Fed Houston Branch, before a moderated conversation;
+  Type A; scored from full official transcript at 20260716_Lorie_Logan_
+  scored.txt). First post-June-17 economic outlook speech.
 
 STANCE: HAWKISH. Most hawkish voter; hike is stated BASE CASE.
 
@@ -592,10 +593,12 @@ July 28-29 hold is a "patient" hold on a favorable trajectory
 armed (Logan/Cook reading).
 
 ANALYST FLAG: YES
-  → Jefferson July 16 speech (SIEPR) is pending score; contains the
-    Troika's only post-June-17 hike conditional and is essential for
-    assessing the Troika center. Score before or immediately after the
-    July 29 press conference.
+  → Jefferson July 16 speech (SIEPR) is now scored; it carries the
+    Troika's only post-June-17 hike conditional ("reconsider ... if
+    inflation does not cool soon") alongside an explicit employment
+    counterweight, making him the Troika swing. His bar — whether the
+    June CPI counts as inflation "starting to cool" — is the key
+    unresolved Troika question entering July 29.
   → Paulson is the median voter and has not spoken since May 19. Her
     vote is the most consequential unknown. If she is persuaded by the
     benign June prints, the hold is stable; if she aligns with Logan's
@@ -622,20 +625,17 @@ Williams (NY Fed) — July 15:
   https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
   Scored: 20260715_John_Williams_scored.txt
 
-Jefferson (Vice Chair) — July 16 (pending score):
+Jefferson (Vice Chair) — July 16:
   https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm
-  Raw: data/raw/speeches/2026/Philip_N__Jefferson/20260716_Navigating_
-    Economic_Shocks__A_Monetary_Policymakerâ__s_Persp.txt
+  Scored: 20260716_Philip_N__Jefferson_scored.txt
 
 Cook (Governor) — July 15:
   https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
   Scored: 20260715_Lisa_D__Cook_scored.txt
 
 Logan (Dallas Fed) — July 16:
-  Event: https://www.dallasfed.org/events/2026/26loganhou
-  Official transcript (403 at scrape): https://www.dallasfed.org/news/speeches/logan/2026/lkl260716
-  Wire coverage (quotes confirmed across CNBC/Investing.com/MarketScreener/ActionForex)
-  Scored: 20260716_Lorie_Logan_scored.txt
+  https://www.dallasfed.org/news/speeches/logan/2026/lkl260716
+  Scored (from full official transcript): 20260716_Lorie_Logan_scored.txt
 
 Waller (Governor) — July 13:
   https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm

@@ -573,6 +573,7 @@ Many Fed banks (Boston, Chicago, Philadelphia) serve speech transcripts as PDFs 
 ### CLI commands
 ```
 python3 main.py collect          # Scrape all web sources, save raw files
+python3 main.py refetch          # Recover transcripts a prior (cloud-IP) run failed to fetch
 python3 main.py youtube          # Scan YouTube channels for transcripts
 python3 main.py youtube <url>    # Fetch a single YouTube video
 python3 main.py pending          # List unscored raw files (paste output to Claude Code)
@@ -581,6 +582,24 @@ python3 main.py talking-points   # Prepare cross-official context for Claude Cod
 python3 main.py weekly           # Prepare weekly context for Claude Code
 python3 main.py schedule         # Start daily background scheduler
 ```
+
+### Transcript integrity — get the speech, never the news about it
+The 5:30am `collect` runs on a GitHub Actions cloud IP that the Fed CDN
+intermittently answers with **HTTP 403**. The scraper now records every failed
+fetch to `data/raw/_fetch_failures.json` (committed by the workflow) instead of
+silently dropping the speech. A residential/local IP is not blocked (verified),
+so recovery is simply **`python3 main.py refetch`** run locally — it re-fetches
+only the missing transcripts (already-saved files are skipped) and clears the
+manifest on success.
+
+**Hard rule:** the deliverable is the **official transcript**. Fetching the
+official transcript URL (federalreserve.gov, a regional bank's own speech page,
+or a Fed/institutional YouTube auto-transcript for a genuinely video-only event)
+is getting the speech. Fetching a **news article** about the speech (CNBC,
+Bloomberg, Reuters, wires, "key takeaways" pages) is **not** — never build a raw
+or scored file out of media coverage. If the official transcript cannot be
+retrieved on a given run, mark the speech `NOT SCORED — TRANSCRIPT PENDING` and
+recover it later; a media-based score is never acceptable.
 
 ### Speaker calibration notes
 

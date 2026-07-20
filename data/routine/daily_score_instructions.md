@@ -60,6 +60,31 @@ event STUB with no transcript, do NOT loop trying to recover it — mark it
 action item and move on. Only score files dated REPORT_DATE; do not re-score the
 older backlog.
 
+### STEP 4.5 — RECOVER MISSING TRANSCRIPTS (do NOT scrape news)
+The 5:30am collect runs on a GitHub Actions cloud IP that the Fed CDN
+intermittently answers with HTTP 403; those speeches are dropped and logged to
+`data/raw/_fetch_failures.json`. Before scoring:
+```
+[ -f data/raw/_fetch_failures.json ] && cat data/raw/_fetch_failures.json || echo "no fetch failures"
+python3 main.py refetch      # re-fetches from THIS environment's IP; skips already-saved files
+```
+Then reconcile the day's EXPECTED speakers (Fed Board speeches/testimony calendar
++ each regional bank page for known appearances) against what is in `data/raw/`.
+For any expected speech still missing, WebFetch the **official transcript URL**
+directly (federalreserve.gov speech/testimony page, or the regional bank's own
+speech page) and save it as the raw file with a `SOURCE:` header.
+
+**HARD RULE — NEVER substitute news for a transcript.** The deliverable is the
+official transcript, not coverage of it. Do NOT build a raw or scored file out of
+CNBC / Bloomberg / Reuters / wire-service / "key takeaways" content. Fetching the
+official transcript URL is getting the speech; fetching an article about the
+speech is not. If, after `refetch` and a direct official-URL WebFetch, the
+official transcript genuinely cannot be retrieved this run, mark the speech
+`NOT SCORED — TRANSCRIPT PENDING (official fetch failed; recover via local
+'python3 main.py refetch')` in the report with an action item, and move on. A
+pending transcript is corrected on a later run — a media-based score is not
+acceptable and must never be written.
+
 ### STEP 5 — SCORE
 For each Type A or Type B-with-outlook:
 1. Read the raw file.

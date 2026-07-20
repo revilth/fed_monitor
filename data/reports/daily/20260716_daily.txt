@@ -5,172 +5,255 @@ Reference FOMC: June 17, 2026  |  Cycle: HOLDING (rising hike risk)  |  FFR: 3.5
 Next FOMC: July 28–29, 2026 (non-projection; blackout begins Saturday July 18)
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  1. Lorie Logan  |  Dallas Fed President  |  Just Voter
-     "A Conversation with Dallas Fed President Lorie Logan"
-     Listening in 360° tour, Houston Branch, Federal Reserve Bank of Dallas,
-     1801 Allen Parkway, Houston, TX  (11:30 a.m.–1:00 p.m. CDT)
-     [Prepared remarks + moderated community conversation]
+  1. Philip N. Jefferson  |  Vice Chair  |  Troika
+     "Navigating Economic Shocks: A Monetary Policymaker's Perspective"
+     Stanford Institute for Economic Policy Research (SIEPR), Stanford, CA
+     [Prepared remarks + Q&A; Type B framework speech with embedded outlook]
+  2. Lorie Logan  |  Dallas Fed President  |  Just Voter
+     "Remarks on inflation, employment and monetary policy"
+     Dallas Fed Houston Branch, Houston, TX  (before a moderated conversation)
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  LORIE LOGAN  |  Dallas Fed President  |  Just Voter
-    Listening in 360° tour, Houston Branch — July 16, 2026
+1.  PHILIP N. JEFFERSON  |  Vice Chair  |  Troika
+    SIEPR, Stanford University — July 16, 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Type A (Economic Outlook — prepared remarks before moderated community
-conversation). Logan's first post-June-17 economic outlook speech.
-Full scored file: data/scored/speeches/20260716_Lorie_Logan_scored.txt
-
-[NOTE: Official Dallas Fed transcript page returned HTTP 403 at scrape time;
- content sourced from CNBC, Investing.com, MarketScreener, ActionForex —
- all direct quotes confirmed across multiple wire services.]
+Type B (Special Topic — a framework speech on how policymakers classify and
+respond to economic shocks) with an embedded economic-outlook / monetary-policy
+section ("Challenges Posed by the Current Juncture" and "On the Current Stance
+of Monetary Policy"). Jefferson's FIRST post-June-17 speech with policy content.
+Full scored file: data/scored/speeches/20260716_Philip_N__Jefferson_scored.txt
 
 GROWTH
-  No explicit GDP growth section in available remarks. Growth is addressed
-  implicitly through the "not restraining" judgment: "The labor, consumption
-  and financial data indicate that monetary policy is not restraining the
-  economy." Same verdict as June 3; updated labor data (92K jobs/month vs.
-  ~50K in June 3) makes the "not restraining" case even more concrete.
-  Direction: neutral-to-hawkish — no demand-side risk; "not restraining" maintained.
+  No GDP forecast — this is a framework speech. Growth enters only via the AI
+  discussion: "optimism about AI may boost investment and consumption today,
+  even before these productivity gains fully materialize." He flags the timing
+  asymmetry as the risk: if AI demand effects arrive before supply/productivity
+  effects, "AI could exert upward pressure on inflation."
+  Direction: neutral — no scorable growth verdict.
 
 LABOR MARKET
-  Unemployment averaged 4.3% in H1 2026 — unchanged from June 3's read.
-  Average job gains: ~92,000/month (upgraded from June 3's ~50,000/month);
-  Logan does not characterize the increase as a new concern — the labor market
-  remains a stable, non-dovish anchor. The three-category "not restraining"
-  judgment (labor, consumption, financial) explicitly removes the dual-mandate
-  obstacle to tightening: "The labor, consumption and financial data indicate
-  that monetary policy is not restraining the economy."
-  Direction: neutral-to-hawkish — stability confirmed; upgraded job gains
-  remove any residual softening argument.
+  Labor characterized as at/near maximum employment: the unemployment rate "is
+  near a level that most observers view as consistent with maximum employment"
+  (footnote: 4.2% vs. CBO's 4.4% noncyclical estimate). But Jefferson elevates
+  the employment DOWNSIDE into one pole of an explicit dual-mandate tradeoff:
+  "we must be mindful of employment potentially moving below its maximum
+  sustainable level." He frames the current juncture as a genuine tension where
+  the two mandate goals are "not aligned but rather in tension."
+  Direction: slight dovish lean — protects the employment side more visibly than
+  his May 27 baseline.
 
 INFLATION
-  Logan explicitly dismisses the June CPI/PPI data: "One month of relief is
-  not enough. It is time to finish the job of restoring price stability." This
-  is a direct rebuttal of the Williams "peaked" reading (July 15) and counter
-  to Waller's trigger-unmet inference. Her quantitative case:
-    - Core PCE: 3.4%, RISEN since December (vs. 3.3% in June 3 speech)
-    - NY Fed persistent component: 3.4%
-    - Non-housing core services inflation: no 12-month progress since mid-2024
-  Verdict: "Inflation has been too high, for too long, and does not appear to
-  be on track all the way back to 2%." Duration argument sharpened: "Every
-  month of above-target inflation has compounded the strain on Americans'
-  budgets." Path forecast maintained from June 3: heading toward "mid 2's" —
-  not all the way to 2 percent.
-  Direction: HAWKISH — above-2% forecast maintained; measures deteriorated
-  on the margin since June 3; June CPI/PPI explicitly insufficient.
+  Echoes the elevated framing with a duration note: inflation "has already been
+  above the FOMC's target for some time." KEY hawkish escalation is the risk
+  language: "The quick succession of shocks raises the risk that inflation
+  becomes entrenched and inflation expectations become unanchored." This is the
+  sequence-of-shocks framing (energy + trade/tariffs) that raises the bar for
+  looking through inflation. Base case remains a two-shock pass-through
+  disinflation ("as the effects of past tariffs and energy prices pass through
+  completely"); energy demand effects expected "muted" (U.S. net oil exporter).
+  Direction: hawkish lean — risk framing escalated to "entrenched"/"unanchored."
 
 MONETARY POLICY
-  KEY ESCALATION — first voter under Warsh to advocate publicly for a rate
-  increase: "I currently believe modestly higher interest rates would better
-  balance the outlook and risks for the FOMC's dual mandate goals."
-  Pre-emptive dual-mandate argument: "If higher inflation becomes entrenched,
-  we'd need sharper rate increases to bring it back to target, with a larger
-  cost for the labor market. Better modest restriction now than severe
-  restriction later." The logical chain is fully explicit: inflation not on
-  track to 2% on its own → restriction needed → cost-of-waiting argument
-  (entrenchment risk justifies acting now, not later).
-  Logan stopped short of committing to a July 28-29 hike specifically;
-  no preferred magnitude was stated.
-  Hike signal: PRESENT — escalated from conditional concern to current
-  conviction ("currently believe … would"). The shift from "could be
-  necessary later this year" (June 3) to "currently believe would better
-  balance" is the single most important change in this speech: the hike
-  has moved from a tail risk to Logan's stated base case.
-  Cut signal: ABSENT.
-  Direction: HAWKISH
+  Base case = patient hold: the June stance "should continue to support the
+  labor market while allowing inflation to resume its decline toward our 2
+  percent target." Then the SIGNAL — a named conditional pointing hawkish:
+  "in a scenario where actual inflation does not start to cool down soon, I
+  believe that it could be appropriate to reconsider our current policy stance
+  to ensure we fulfill our commitment to deliver price stability."
+  Scenario framing: EXPLICIT and NAMED (he labels the scenario and attaches a
+  policy response), but the verb "reconsider" is deliberately softer than "raise"
+  or "prepared to act" — an openness to revisiting the hold, not a pre-commitment.
+  r* note (heavily hedged, symmetric): if AI raises the neutral rate, "for any
+  given level of the federal funds rate, policy effectively becomes more
+  accommodative" — a latent structural consideration, NOT a rate call.
+  Cut signal: ABSENT.  Hike signal: ABSENT as base case; a NAMED conditional
+  toward reconsidering (tightening) is present.
+  Direction: hawkish lean.
 
-NET SIGNAL: HAWKISH — significant escalation from June 3 baseline.
+NET SIGNAL: HAWKISH LEAN (with a protected employment side) — Jefferson's first
+  post-June-17 policy content escalates inflation-risk language to "entrenched"/
+  "unanchored" and replaces May 27's open optionality with a named conditional to
+  "reconsider" the stance if inflation does not cool. But the base case is a
+  patient, pass-through hold and he elevates the employment downside into an
+  explicit tradeoff — so he sits dovish of Logan and to the patient side of the
+  hawkish voter wing.
 
-vs. PRIOR SPEECH [June 3 — also pre-FOMC baseline]:
-  HAWKISH — three structural escalations:
-  (1) Hike conditionality → conviction: "increasingly concerned could be
-      necessary later this year" → "currently believe would better balance";
-  (2) June CPI/PPI explicitly dismissed as insufficient ("one month of
-      relief is not enough") — counter to Williams (Jul 15) and Waller
-      (trigger not met by same data);
-  (3) Core PCE has risen (3.3% → 3.4%) since June 3, confirming her
-      above-2% path forecast rather than contradicting it.
-
-vs. PRE-FOMC SPEECH [June 3]:
-  As above — June 3 is both the prior and the pre-FOMC baseline (no
-  post-June-17 economic outlook speech before today).
-
+vs. PRIOR SPEECH [May 27 — also pre-FOMC baseline]:
+  HAWKISH LEAN — May 27's policy signal was pure optionality ("I have not
+  prejudged the next meeting"); July 16 replaces it with a directional named
+  conditional ("reconsider our current policy stance" if inflation doesn't cool).
+  Inflation risk language also escalates from "moved notably higher" to
+  "entrenched"/"unanchored" driven by the quick succession of shocks.
+vs. PRE-FOMC SPEECH [May 27]:
+  As above — May 27 (BOJ-IMES Tokyo) is both prior and pre-FOMC baseline; no
+  post-June-17 Jefferson speech before today.
 vs. COMMITTEE SINCE FOMC:
-  Logan is now to the right of every other voter who has spoken
-  post-June-17. Cook (Jul 15): conditional hike ("prepared to act if no
-  disinflation soon"); trigger may or may not be met by June CPI/PPI.
-  Waller (Jul 13): hike if hot print; June CPI/PPI did NOT trigger his
-  condition. Logan: hike as current base case, independent of any single
-  print. Her position is the most hawkish stated by any voter entering
-  the July 28-29 blackout — including the three April 29 dissenting
-  hawks (Hammack, Kashkari — no post-June speeches).
+  Jefferson becomes the Troika swing. With Logan advocating a hike today and
+  Williams counseling patience (Jul 15), Jefferson's conditional bar — a
+  near-term inflation disappointment — places him between the two. As Vice Chair,
+  his conditional is the Troika's clearest signal that the hold is not open-ended.
 
 LANGUAGE TO WATCH:
-  • "currently believe modestly higher rates would better balance" —
-    hike as base case, explicitly stated. Stage: DISPERSED (Logan only).
-    Watch for Kashkari or Hammack to echo if they speak before entering
-    blackout (they have not spoken post-June-17).
-  • "One month of relief is not enough" — explicit counter to Williams's
-    "peaked" claim (Jul 15) and to Waller's trigger-unmet logic (Jul 13).
-    Stage: DISPERSED. If Cook echoes this formulation, the June CPI/PPI
-    is confirmed as insufficient across the hawks.
-  • "Better modest restriction now than severe restriction later" —
-    pre-emptive cost-benefit argument; dual-mandate framed. NEW in Logan's
-    lexicon; no prior appearance. Stage: DISPERSED.
-  • "monetary policy is not restraining the economy" — maintained from
-    June 3; still unechoed by any Troika member. Stage: DISPERSED (Logan +
-    Hammack Jun 2).
+  • "inflation becomes entrenched … expectations become unanchored" — the
+    sequence-of-shocks hawkish frame, now at Troika level. Stage: EMERGING —
+    Jefferson AND Logan use the "entrenched" frame the same day (see cross-speaker
+    note). Watch Williams/Warsh; Troika convergence on entrenchment would be a
+    leading indicator for hawkish statement language.
+  • "reconsider our current policy stance" — Jefferson's first named policy
+    conditional since June 17; softer than Cook's "prepared to act," harder than
+    Williams's patience. Stage: DISPERSED.
 
 ANALYST FLAG: YES
-  → (1) Logan dissent risk at July 28-29 is HIGH. Her language ("currently
-    believe") is the posture of a policymaker preparing to vote for a hike;
-    she has set the analytical record for a dissent rationale. A Logan
-    dissent at July 28-29 would be her second consecutive dissent and the
-    first affirmative hike dissent under Warsh.
-  → (2) The Troika-vs.-voter alignment is now fully explicit: Warsh holds
-    all options open (July 14-15); Williams sees inflation peaked and holds
-    (July 15); Jefferson absent from the entire pre-blackout window. Logan
-    is staking out a hike position that has no Troika endorsement — the
-    committee enters blackout with an unresolved vote on what the June
-    data mean for policy.
-  → (3) "The labor, consumption and financial data indicate that monetary
-    policy is not restraining the economy" — this claim, if accepted by the
-    committee, mandates tightening. It is Logan's most consequential
-    analytical assertion because it goes to the basic premise of whether
-    current policy is even restrictive. Jefferson's view on this question
-    is unknown and essential.
+  → SWING TROIKA VOTE. The July 28–29 meeting turns on whether Jefferson reads
+    the June CPI (which eased) as inflation "starting to cool" (Williams's view →
+    comfortable hold) or as insufficient (Logan's view → conditional near live).
+    His speech does not resolve which — and his simultaneous elevation of the
+    employment downside argues for restraint, not a hawkish lean. Flag for the
+    analyst: is "reconsider" deliberate Troika equidistance or a genuine tilt?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  LORIE LOGAN  |  Dallas Fed President  |  Just Voter
+    Dallas Fed Houston Branch — July 16, 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Type A (Economic Outlook — prepared remarks before a moderated conversation).
+Logan's first post-June-17 economic outlook speech.
+Full scored file: data/scored/speeches/20260716_Lorie_Logan_scored.txt
+
+GROWTH
+  "Strong consumer spending, soaring corporate profits, accommodative financial
+  conditions and AI investment continue to drive economic activity" (equities
+  +20% y/y; credit spreads near record tights). She states directly — no longer
+  as an inference — that "the labor, consumption and financial data indicate
+  that monetary policy is not restraining the economy. And that's a problem for
+  sustainably achieving the FOMC's inflation goal."
+  Direction: neutral-to-hawkish — "not restraining" upgraded to a direct claim.
+
+LABOR MARKET
+  Unemployment averaged 4.3% in H1 (unchanged from June 3). Job gains revised up:
+  "an average of 92,000 jobs per month in the first half of this year, modestly
+  outpacing growth in the size of the labor force" (June 3 cited ~50,000/month as
+  merely in line with labor-force growth). Verdict nudged more constructive:
+  "well balanced and perhaps even strengthening a bit." She concedes worker-level
+  frictions ("slow to fire and slow to hire") but rules out easing: "not ones
+  that easier monetary policy can fix."
+  Direction: neutral-to-hawkish — job gains and verdict stronger than June 3.
+
+INFLATION
+  Explicitly dismisses the June CPI relief: "one month of relief is not enough.
+  It is time to finish the job of restoring price stability" — a direct rebuttal
+  of Williams's "peaked" read (Jul 15) and below Waller's hot-print trigger.
+  Quantitative case: PCE 4.1% (12mo through May); core PCE 3.4% ("risen four-
+  tenths since December," vs. 3.3% on June 3); NY Fed core trend 3.4%; market-
+  based non-housing core services "picked up a bit this spring." New duration /
+  cost-of-waiting framing: inflation above target "more than five years" and
+  "every month … has compounded the strain on Americans' budgets." Path forecast
+  maintained: "heading toward the mid 2's—not all the way back to 2 percent."
+  Direction: HAWKISH — above-2% forecast held; measures marginally worse; June
+  data rejected.
+
+MONETARY POLICY
+  Outright base-case HIKE ADVOCACY, stated twice bookending the speech: "I
+  currently believe modestly higher interest rates would better balance the
+  outlook and risks for the FOMC's dual mandate goals." Deductive core: "If
+  inflation is not heading all the way to 2 percent on its own, then at least
+  some policy restriction is needed." Pre-emptive case: "If higher inflation
+  becomes entrenched, we'd need sharper rate increases … Better modest
+  restriction now than severe restriction later." Escalation from June 3's
+  conditional/deferred worry ("could be necessary later this year") to present
+  conviction ("currently believe … would"). Committee-humility close tempers the
+  read: "I may persuade them, they may persuade me" — positioning to persuade,
+  not a pre-committed dissent. No magnitude beyond "modestly"; July 28–29 not
+  named.
+  Hike signal: PRESENT (base case).  Cut signal: ABSENT.
+  Direction: HAWKISH.
+
+NET SIGNAL: HAWKISH — significant escalation from June 3. Hike moved from tail to
+  base case; June CPI explicitly dismissed; "not restraining" upgraded to a
+  direct, named claim with job gains revised up.
+
+vs. PRIOR SPEECH [June 3 — also pre-FOMC baseline]:
+  HAWKISH — (1) conditional "could be necessary later this year" → current
+  conviction "currently believe … would better balance"; (2) June CPI dismissed
+  as insufficient; (3) core PCE risen 3.3%→3.4%, confirming her above-2% forecast.
+vs. PRE-FOMC SPEECH [June 3]:
+  As above — June 3 is both prior and pre-FOMC baseline.
+vs. COMMITTEE SINCE FOMC:
+  Most hawkish stated voter position entering blackout — to the right of Cook's
+  conditional (Jul 15) and Waller's unmet trigger (Jul 13), and beyond
+  Jefferson's "reconsider" conditional (today). No Troika endorsement of a hike.
+
+LANGUAGE TO WATCH:
+  • "modestly higher interest rates would better balance the dual mandate" —
+    base-case hike advocacy. Stage: DISPERSED (Logan alone as a base case).
+  • "If higher inflation becomes entrenched" — shared with Jefferson's
+    "entrenched"/"unanchored" today. Stage: EMERGING (see cross-speaker note).
+  • "Better modest restriction now than severe restriction later" — clean
+    pre-emptive one-liner; watch for uptake by Kashkari/Hammack or a dissent
+    rationale. Stage: DISPERSED.
+  • "One month of relief is not enough" — direct rebuttal of the June CPI; the
+    counter-signal to Williams's "peaked" call. Stage: DISPERSED.
+
+ANALYST FLAG: YES
+  → (1) Dissent risk at July 28–29 is elevated — Logan is the hawkish anchor. But
+    her committee-humility close argues she is positioning to persuade rather than
+    pre-committing; treat dissent as probable, not certain.
+  → (2) "Monetary policy is not restraining the economy," if accepted by the
+    committee, mandates tightening — Logan's most consequential claim. Jefferson's
+    view on whether current policy is restrictive is the swing (his speech leaves
+    it open).
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — July 16
+────────────────────────────────────────────────────────────────
+Two officials spoke the same day and converged on one frame: INFLATION
+ENTRENCHMENT. Logan (Just Voter): "If higher inflation becomes entrenched, we'd
+need sharper rate increases." Jefferson (Vice Chair / Troika): "The quick
+succession of shocks raises the risk that inflation becomes entrenched and
+inflation expectations become unanchored." A Just Voter and the Vice Chair using
+the entrenchment argument on the same day is a potential bottom-up leading
+indicator — the entrenchment frame is one step from the "sequence of supply
+shocks" language already in the June 17 statement. Watch whether Williams or
+Warsh adopt it.
+
+They diverge sharply on the policy conclusion drawn from it. Logan: act now
+("better modest restriction now than severe restriction later") — a base-case
+hike. Jefferson: patient hold with a soft conditional ("reconsider … if inflation
+does not cool soon") and an explicit counterweight for the employment side.
+Same risk, opposite policy prescription. The committee enters the July 28–29
+blackout with the June CPI read (eased) interpreted three ways — Williams
+"peaked"/hold, Logan "not enough"/hike, Jefferson conditional/swing — and Warsh
+holding the center.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — NEXT WEEK: Mon July 20 – Fri July 24, 2026
 ────────────────────────────────────────────────────────────────
-  (none) — FOMC blackout for the July 28-29 meeting begins Saturday
-  July 18, 2026 at midnight ET (per blackout_periods.json: start
-  2026-07-18, end 2026-07-30). The entire week of July 20-24 falls
-  within the blackout window. No policy speeches will occur.
+  (none) — FOMC blackout for the July 28–29 meeting begins Saturday July 18,
+  2026 (per blackout_periods.json: start 2026-07-18, end 2026-07-30). The entire
+  week of July 20–24 falls within the blackout. No policy speeches will occur.
 
-  Next scheduled FOMC meeting: July 28-29, 2026 (non-projection; no
-  SEP/dot plot). Statement expected Wednesday July 29, ~2:00pm ET.
+  Next scheduled FOMC meeting: July 28–29, 2026 (non-projection; no SEP/dot
+  plot). Statement expected Wednesday July 29, ~2:00pm ET.
 
-  BLACKOUT CONTEXT: Tomorrow (Saturday July 18) is the first blackout
-  day. The Saturday scoring run (covering Friday July 17) will include
-  the mandatory FOMC CYCLE SUMMARY — ENTERING JULY 28-29 FOMC per
-  scheduling instructions (blackout_periods.json start = 2026-07-18).
+  BLACKOUT CONTEXT: Saturday July 18 is the first blackout day. The Saturday
+  scoring run (covering Friday July 17) includes the mandatory FOMC CYCLE
+  SUMMARY — ENTERING JULY 28–29 FOMC.
 ════════════════════════════════════════════════════════════════
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches July 16, 2026:
-  Logan (Houston Branch, Listening in 360°):
-    Event page: https://www.dallasfed.org/events/2026/26loganhou
-    Transcript (403 at scrape): https://www.dallasfed.org/news/speeches/logan/2026/lkl260716
-    CNBC coverage: https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html
-    Investing.com: https://www.investing.com/news/economy-news/feds-logan-calls-for-rate-hike-ahead-of-july-meeting-4796523
+  Jefferson (SIEPR, Stanford):
+    https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm
+  Logan (Houston Branch, before moderated conversation):
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl260716
 
 Prior speech references:
+  Jefferson May 27 (BOJ-IMES, Tokyo — prior and pre-FOMC baseline):
+    https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm
   Logan June 3 (UTEP — prior and pre-FOMC baseline):
     https://www.dallasfed.org/news/speeches/logan/2026/lkl260603
-  Logan July 9 (Market Liquidity panel, NY Fed — Type B, no policy stance):
-    https://www.dallasfed.org/news/speeches/logan/2026/lkl260709
 ════════════════════════════════════════════════════════════════

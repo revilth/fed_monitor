@@ -41,10 +41,23 @@ jobs:
                    or subprocess.run(["python3", "main.py", "collect"]).returncode)
           EOF
 
+      - name: Report transcript fetch failures
+        if: always()
+        run: |
+          if [ -f data/raw/_fetch_failures.json ]; then
+            echo "::warning::Some transcripts failed to fetch (likely cloud-IP 403 from the Fed CDN). Recover locally with 'python3 main.py refetch'. DO NOT substitute media coverage."
+            echo "----- data/raw/_fetch_failures.json -----"
+            cat data/raw/_fetch_failures.json
+          else
+            echo "No transcript fetch failures recorded."
+          fi
+
       - name: Commit new raw files
         run: |
           git config user.email "fedmonitor@noreply.github.com"
           git config user.name "Fed Monitor — Collect"
+          # Include the fetch-failure manifest so the local machine can see and
+          # recover cloud-IP 403 gaps via 'python3 main.py refetch'.
           git add data/raw/
           git diff --staged --quiet && echo "Nothing new to commit." || \
             git commit -m "Collect $(date -u '+%Y-%m-%d'): new raw files" && git push

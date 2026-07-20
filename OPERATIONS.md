@@ -31,6 +31,16 @@ All times ET. The pipeline runs as a morning batch covering the previous day:
 **Report dating:** the report is dated for the prior day (REPORT_DATE = yesterday ET),
 since the run happens the morning after. Scored-speech filenames use the speech's own date.
 
+**Transcript fetch failures (cloud-IP 403 recovery):** the 5:30am collect runs on a
+GitHub Actions cloud IP that the Fed CDN intermittently 403s. Failed fetches are
+recorded to `data/raw/_fetch_failures.json` (committed + surfaced as an Actions
+`::warning::`) instead of being silently dropped. The 6:30am score routine runs
+`python3 main.py refetch` first (STEP 4.5 of `daily_score_instructions.md`); if the
+routine's IP is also blocked, recover from the **local machine** with
+`python3 main.py refetch` (residential IP is not blocked — verified). **Never
+substitute media/news coverage for a missing transcript** — mark it
+`NOT SCORED — TRANSCRIPT PENDING` and recover later.
+
 **UPCOMING section** (keyed to the SEND/run-day weekday): Monday → current week
 (Mon–Fri); Friday → next week; Tue–Thu + weekends → next calendar day. Routine has
 web access to read the Fed Board calendar + regional event pages.

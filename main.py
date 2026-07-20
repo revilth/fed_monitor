@@ -43,7 +43,9 @@ def cmd_collect():
     from src.scrapers.fed_board import FedBoardScraper
     from src.scrapers.regional_feds import ALL_REGIONAL_SCRAPERS
     from src.storage.local_store import save_raw, is_already_saved
+    from src.scrapers.base import reset_fetch_failures, flush_fetch_failures
 
+    reset_fetch_failures()
     all_records = []
 
     console.print("[bold]Scraping Fed Board...[/bold]")
@@ -83,6 +85,66 @@ def cmd_collect():
     console.print(f"\n[bold green]Done.[/bold green] {new_count} new raw files saved to data/raw/")
     if new_count:
         console.print("Run [bold]python main.py pending[/bold] and paste the output into Claude Code to score.")
+
+    failures = flush_fetch_failures()
+    if failures:
+        console.print(
+            f"\n[bold red]⚠ {len(failures)} transcript fetch(es) FAILED[/bold red] "
+            f"(written to data/raw/_fetch_failures.json):"
+        )
+        for f in failures:
+            console.print(f"  [red]✗[/red] [{f.get('status')}] {f['source']}: {f['url']}")
+        console.print(
+            "\n[yellow]These speeches were NOT saved. Cloud IPs (GitHub Actions) are "
+            "intermittently 403'd by the Fed CDN.[/yellow]\n"
+            "[yellow]Recover from a non-blocked IP:[/yellow] run "
+            "[bold]python main.py refetch[/bold] on the local machine.\n"
+            "[yellow]Do NOT substitute media/news coverage for a missing transcript.[/yellow]"
+        )
+
+
+def cmd_refetch():
+    """Re-run collection to recover transcripts that a prior run (typically the
+    5:30am GitHub Actions run on a cloud IP) failed to fetch. Run this from a
+    non-blocked IP (the local machine). is_already_saved() skips everything
+    already captured, so only the missing transcripts are pulled."""
+    import json
+    from src.scrapers.base import FETCH_FAILURES_PATH
+
+    prior = []
+    if FETCH_FAILURES_PATH.exists():
+        try:
+            prior = json.loads(FETCH_FAILURES_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            prior = []
+
+    if prior:
+        console.print(f"[bold]{len(prior)} URL(s) failed on the prior run:[/bold]")
+        for f in prior:
+            console.print(f"  [red]✗[/red] [{f.get('status')}] {f.get('source')}: {f['url']}")
+        console.print("\n[bold]Re-running collection from this IP to recover them...[/bold]\n")
+    else:
+        console.print("[green]No prior fetch failures recorded.[/green] "
+                      "Re-running collection anyway to catch any silent gaps...\n")
+
+    cmd_collect()
+
+    # cmd_collect() rewrote the manifest with THIS run's failures.
+    remaining = []
+    if FETCH_FAILURES_PATH.exists():
+        try:
+            remaining = json.loads(FETCH_FAILURES_PATH.read_text(encoding="utf-8"))
+        except Exception:
+            remaining = []
+    if remaining:
+        console.print(
+            f"\n[bold red]Still failing after refetch: {len(remaining)}.[/bold red] "
+            "If this IP is also blocked, try again later or recover video-only "
+            "appearances via [bold]python main.py youtube <url>[/bold]. "
+            "Do NOT substitute media coverage."
+        )
+    else:
+        console.print("\n[bold green]All prior fetch failures recovered.[/bold green]")
 
 
 def cmd_youtube(video_url: str = ""):
@@ -241,7 +303,7 @@ def main():
     parser = argparse.ArgumentParser(description="Fed Communication Monitor")
     parser.add_argument(
         "command",
-        choices=["collect", "youtube", "pending", "diff", "talking-points", "weekly", "schedule"],
+        choices=["collect", "refetch", "youtube", "pending", "diff", "talking-points", "weekly", "schedule"],
         help="Command to run",
     )
     parser.add_argument(
@@ -254,6 +316,7 @@ def main():
 
     commands = {
         "collect": cmd_collect,
+        "refetch": cmd_refetch,
         "youtube": lambda: cmd_youtube(args.url),
         "pending": cmd_pending,
         "diff": cmd_diff,
