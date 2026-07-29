@@ -1,0 +1,161 @@
+FOMC STATEMENT DIFF - July 29, 2026
+════════════════════════════════════════════════════════════════
+Reference FOMC: July 29, 2026  |  Prior: June 17, 2026
+FFR: 3.50–3.75% (HOLD — fifth consecutive)  |  Vote: 9–3
+Chair: Kevin Warsh (second press conference as Chair)
+Cycle: Holding; easing bias removed June 17; no forward guidance since May 2026
+════════════════════════════════════════════════════════════════
+
+NOTE ON SOURCES: Fed CDN returned HTTP 403 on direct fetch (cloud IP block). Statement text
+reconstructed from NPR, Wells Fargo Investment Institute, Yahoo Finance live coverage,
+FXStreet analysis, Wolf Street, and Conference Board. Core paragraph wording is
+high-confidence; balance sheet sentence is uncertain — flag for next-morning PDF reconciliation.
+
+────────────────────────────────────────────────────────────────
+RATE DECISION
+────────────────────────────────────────────────────────────────
+HOLD: Target range maintained at 3-1/2 to 3-3/4 percent. Fifth consecutive hold.
+Not a projection (SEP) meeting — July is an interim meeting; no dot plot released.
+
+DISSENTS: Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas) — all three
+preferred to raise the target range by 1/4 percentage point (25bp hike).
+
+Waller voted WITH the majority. Note: Waller's July 13 speech ("Monetary Policy at a
+Crossroads") had set an explicit hike conditionality on hot CPI/PPI data this week. The
+June CPI report (released ~July 15) came in cooler than expected, closing the door on a
+July hike per Conference Board analysis — Waller's threshold was not triggered.
+
+════════════════════════════════════════════════════════════════
+SENTENCE-BY-SENTENCE DIFF
+════════════════════════════════════════════════════════════════
+
+¶1 — GROWTH
+──────────────────────────────────────────────────────────────
+June:  "Economic activity is expanding at a solid pace despite elevated uncertainty
+        that owes, in part, to the conflict in the Middle East. Productivity growth
+        and capital investment are strong."
+
+July:  UNCHANGED.
+
+Assessment: NEUTRAL. No change to growth characterization. The Middle East uncertainty
+qualifier and the productivity/capex strength line both retained verbatim.
+
+──────────────────────────────────────────────────────────────
+¶2 — LABOR MARKET
+──────────────────────────────────────────────────────────────
+June:  "Job gains have kept pace with the workforce, and the unemployment rate has
+        changed little."
+
+July:  UNCHANGED.
+
+Assessment: NEUTRAL. Warsh's June 17 labor reframing ("kept pace with the workforce"
+replacing Powell's "labor demand has clearly softened") is retained. No shift.
+
+──────────────────────────────────────────────────────────────
+¶3 — INFLATION + PRICE STABILITY COMMITMENT
+──────────────────────────────────────────────────────────────
+June:  "Inflation remains elevated relative to the Committee's 2 percent goal, in part
+        reflecting supply shocks that have driven price increases in certain sectors,
+        including energy. The Committee will deliver price stability."
+
+July:  "Inflation remains SOMEWHAT elevated relative to the Committee's 2 percent goal,
+        in part reflecting supply shocks that have driven price increases in certain
+        sectors, including energy. The Committee will deliver price stability."
+
+CHANGE: "elevated" → "somewhat elevated"
+
+Assessment: DOVISH. This is the sole substantive change in the statement. Adding "somewhat"
+signals the committee views inflation as having made progress and no longer at the same
+severity level as June. It is a one-word softening. The structural cause language
+("supply shocks... energy") and the price stability commitment ("will deliver price
+stability") are unchanged. The "somewhat" qualifier appeared earlier in the 2026 cycle
+before Warsh's arrival; its re-insertion here is directionally dovish but calibrated —
+the committee is not declaring victory.
+
+This is almost certainly what drove the three hawkish dissents: Hammack, Kashkari, and
+Logan disagree that inflation warrants the softened characterization and are voting
+for active tightening, not merely resisting dovish language as in April.
+
+──────────────────────────────────────────────────────────────
+¶4 — RATE DECISION
+──────────────────────────────────────────────────────────────
+June:  "The Committee decided to maintain the target range for the federal funds rate
+        at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+
+July:  UNCHANGED.
+
+Assessment: NEUTRAL.
+
+──────────────────────────────────────────────────────────────
+¶5 — BALANCE SHEET
+──────────────────────────────────────────────────────────────
+June:  "The Committee also reaffirmed its policy of maintaining ample reserves in the
+        banking system."
+
+July:  [UNCERTAIN — likely unchanged; "also reaffirmed" vs. "is continuing" to be
+        confirmed against official PDF. No source reported a change here.]
+
+Assessment: UNCERTAIN / likely NEUTRAL.
+
+──────────────────────────────────────────────────────────────
+FORWARD GUIDANCE
+──────────────────────────────────────────────────────────────
+June:  Absent (removed with Warsh's first statement; June was 132 words).
+July:  Absent (confirmed; Warsh at press conference: "forward guidance isn't the
+        business we should be in"). Statement runs approximately 130 words.
+
+Assessment: NEUTRAL (no change; consistent with Warsh communication framework).
+
+════════════════════════════════════════════════════════════════
+DISSENT ANALYSIS — ESCALATION FROM APRIL
+════════════════════════════════════════════════════════════════
+April 29, 2026: Hammack, Kashkari, Logan dissented AGAINST the easing bias language
+  (opposed forward guidance implying a next move would be a cut).
+
+June 17, 2026: Easing bias removed → 12–0 UNANIMOUS. The three hawks were satisfied.
+
+July 29, 2026: Hammack, Kashkari, Logan dissent FOR a 25bp HIKE. This is an escalation:
+  they have moved from "oppose the committee's dovish framing" to "demand active tightening."
+  The trigger appears to be: (1) addition of "somewhat elevated" language (dovish) and/or
+  (2) their view that FFR at 3.50–3.75% is insufficiently restrictive given current
+  inflation trajectory.
+
+This is the largest hawkish dissent coalition since the 2022–2023 tightening cycle.
+Three simultaneous dissents in favor of a hike from three of the four rotating regional
+presidents who are voters this year (Paulson is the fourth, voted with majority).
+
+Waller: Did NOT dissent despite his July 13 signal ("in the near term" hike if CPI/PPI
+hot). The cooler June CPI print closed the door on a July hike for Waller. He sits at the
+margin — he is the critical swing vote. Hot August CPI (released Sep ~10) could tip him
+into the dissent column at the September meeting.
+
+════════════════════════════════════════════════════════════════
+NET READ
+════════════════════════════════════════════════════════════════
+The one-word change (elevated → somewhat elevated) signals the committee's majority
+believes inflation is slowly moving in the right direction, but the three-vote hawkish
+bloc (Hammack/Kashkari/Logan) disagrees — these are the most vocal dissents of Warsh's
+tenure. Warsh is threading a needle: softening the inflation language modestly while
+holding rates and refusing forward guidance. The 9-3 split shows the committee is more
+divided than the June unanimous vote suggested. September is live. The pivot variable is
+Waller: if August CPI data is hot, he has pre-committed to near-term tightening
+consideration and could tip the September vote closer to a hike.
+
+[Dovish lean on the statement text; hawkish lean on the vote composition signal]
+
+Analyst flag: YES — confirm (1) whether balance sheet sentence changed wording, (2)
+whether Warsh's press conference addressed the three dissents directly, (3) whether
+"somewhat elevated" was Warsh's own insert or a committee compromise, and (4) Waller's
+post-meeting public statement if any explaining his hold vote.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Official statement: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+Prior statement:    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+NPR coverage:       https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation
+Yahoo Finance live: https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html
+CNBC live:          https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html
+FXStreet analysis:  https://www.fxstreet.com/analysis/july-fomc-optionality-maintained-202507301917
+Waller July 13:     https://wolfstreet.com/2026/07/13/fed-should-hike-in-the-near-term-if-cpi-ppi-this-week-are-hot-feds-waller-so-at-the-july-meeting-treasury-yields-jump/
+Conference Board:   https://www.conference-board.org/research/global-economy-briefs/cpi-insights-june-2026
+════════════════════════════════════════════════════════════════

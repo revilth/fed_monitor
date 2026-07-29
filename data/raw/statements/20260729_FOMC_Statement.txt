@@ -1,0 +1,34 @@
+SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+NOTE: Fed CDN returned HTTP 403 on direct fetch (cloud IP block, consistent with prior runs). Statement
+reconstructed from multiple search-indexed sources (NPR, Wells Fargo, Yahoo Finance, FXStreet, Wolf Street,
+Conference Board). Word-for-word paragraph text is high-confidence for all paragraphs. Balance sheet
+sentence wording (¶5) is uncertain — "also reaffirmed" vs. "is continuing" — to be reconciled against
+the official PDF in the next-morning canonical run. Dissent roster confirmed across multiple independent sources.
+
+FOMC STATEMENT — JULY 29, 2026
+For release at 2:00 p.m. EDT
+
+Economic activity is expanding at a solid pace despite elevated uncertainty that owes,
+in part, to the conflict in the Middle East. Productivity growth and capital investment
+are strong.
+
+Job gains have kept pace with the workforce, and the unemployment rate has changed little.
+
+Inflation remains somewhat elevated relative to the Committee's 2 percent goal, in part
+reflecting supply shocks that have driven price increases in certain sectors, including
+energy. The Committee will deliver price stability.
+
+The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to
+3-3/4 percent, in support of the Federal Reserve's dual mandate. The Committee also
+reaffirmed its policy of maintaining ample reserves in the banking system.
+
+[No forward-guidance sentence — consistent with June 17, 2026; Warsh has stated "forward
+guidance isn't the business we should be in."]
+
+VOTE: 9–3.
+Voting for the monetary policy action: Kevin Warsh (Chair), Philip N. Jefferson (Vice Chair),
+  John C. Williams, Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Jerome H. Powell,
+  Christopher J. Waller (Board); Anna Paulson (Philadelphia, rotating).
+Voting against the monetary policy action: Beth M. Hammack (Cleveland), Neel Kashkari
+  (Minneapolis), and Lorie K. Logan (Dallas), who preferred to raise the target range
+  for the federal funds rate by 1/4 percentage point at this meeting.
