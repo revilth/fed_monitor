@@ -1,0 +1,64 @@
+SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+IMPLEMENTATION NOTE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a1.htm
+RETRIEVED: 2026-07-29 14:20 ET, live from federalreserve.gov (HTTP 200). Verbatim.
+
+FOMC STATEMENT — JULY 29, 2026
+For release at 2:00 p.m. EDT
+
+The Federal Open Market Committee approved the following statement for release
+by a 9 - 3 vote:
+
+The Committee decided to maintain the target range for the federal funds rate at
+3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. The
+Committee is continuing its policy of maintaining ample reserves in the banking
+system.
+
+Economic activity is expanding at a solid pace despite elevated uncertainty that
+owes, in part, to the conflict in the Middle East. Productivity growth and
+capital investment are strong. Job gains have kept pace with the workforce, and
+the unemployment rate has changed little.
+
+Inflation remains elevated relative to the Committee's 2 percent goal, in part
+reflecting supply shocks that have driven price increases in certain sectors,
+including energy. The Committee will deliver price stability.
+
+Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari,
+and Lorie K. Logan, who preferred to raise the target range for the federal
+funds rate by 1/4 percentage point at this meeting.
+
+────────────────────────────────────────────────────────────────────────
+NOTE ON THE VOTE: The press-release page reports the 9-3 tally and names only
+the three dissenters; it does not list the members voting FOR. The nine
+affirmative votes are therefore [INFERRED] from the 2026 voter list: Kevin Warsh
+(Chair), Philip N. Jefferson (Vice Chair), John C. Williams, Michael S. Barr,
+Michelle W. Bowman, Lisa D. Cook, Jerome H. Powell, Christopher J. Waller
+(Board); Anna Paulson (Philadelphia). 9 + 3 = 12 voters, consistent with the
+full 2026 roster.
+
+────────────────────────────────────────────────────────────────────────
+IMPLEMENTATION NOTE — July 29, 2026 (verbatim key provisions)
+
+- Board of Governors voted unanimously to maintain the interest rate paid on
+  reserve balances at 3.65 percent, effective July 30, 2026.
+- Domestic policy directive, effective July 30, 2026:
+    - Undertake open market operations as necessary to maintain the federal
+      funds rate in a target range of 3-1/2 to 3-3/4 percent.
+    - Conduct standing overnight repurchase agreement operations at a rate of
+      3.75 percent.
+    - Conduct standing overnight reverse repurchase agreement operations at an
+      offering rate of 3.5 percent and with a per-counterparty limit of $160
+      billion per day.
+    - When appropriate, increase the System Open Market Account holdings of
+      securities through purchases of Treasury bills and, if needed, other
+      Treasury securities with remaining maturities of 3 years or less to
+      maintain an ample level of reserves.
+    - Roll over at auction all principal payments from the Federal Reserve's
+      holdings of Treasury securities. Reinvest all principal payments from the
+      Federal Reserve's holdings of agency securities into Treasury bills.
+- Board of Governors voted unanimously to approve the establishment of the
+  primary credit rate at the existing level of 3.75 percent.
+
+VERIFIED: The July 29 implementation note is IDENTICAL to the June 17
+implementation note in every operative provision — every rate, the RRP
+per-counterparty limit, the bill-purchase language, and the reinvestment
+language. Only the effective dates differ. No balance-sheet change.

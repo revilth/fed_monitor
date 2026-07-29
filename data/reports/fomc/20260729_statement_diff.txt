@@ -1,0 +1,257 @@
+FOMC STATEMENT DIFF — July 29, 2026 (Type C)
+════════════════════════════════════════════════════════════════════════
+HOLD 3.50–3.75% | TEXT FROZEN — ONE WORD CHANGED | 9–3, THREE DISSENT FOR A HIKE
+Prior FOMC: June 17, 2026 (HOLD, 12–0) | Cycle: HOLDING | Sixth consecutive hold
+Retrieved live from federalreserve.gov, HTTP 200, 2:20pm ET. Both sides of this
+diff are verbatim official text — the June baseline was re-pulled at source and
+corrected before diffing (see note at the end).
+════════════════════════════════════════════════════════════════════════
+
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+The Committee said nothing new and did something loud.
+
+The substantive text of the statement is FROZEN. The economic-activity, labor,
+and inflation paragraphs are verbatim identical to June 17 — not similar, not
+lightly edited, character-for-character identical. The only textual change in
+the entire document is two words of housekeeping ("reaffirmed" → "is
+continuing"). The implementation note is likewise identical in every operative
+provision; no balance-sheet change.
+
+Against that frozen text, THREE voters dissented in favor of a 25bp HIKE. These
+are the first hike-preferring dissents of the cycle. The vote went 12–0 → 9–3 in
+a single meeting with no change in the language being voted on.
+
+That combination is the signal. When the text does not move and the dissents do,
+the dispersion is not being absorbed into the statement — it is being left
+visible. Read the vote line, not the paragraphs.
+
+════════════════════════════════════════════════════════════════════════
+THE VOTE — the entire directional content of this meeting
+════════════════════════════════════════════════════════════════════════
+July 29:   9–3. "Voting against the monetary policy action were Beth M.
+           Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise
+           the target range for the federal funds rate by 1/4 percentage point
+           at this meeting."
+June 17:   12–0 unanimous.
+April 29:  8–4 (Miran preferred a cut; Hammack, Kashkari, Logan opposed the
+           easing-bias language).
+
+THE HAWK ESCALATION LADDER — the same three names, three meetings, three rungs:
+  April 29  → dissent against LANGUAGE (the easing bias)
+  June 17   → fall in line once that language is removed (12–0)
+  July 29   → dissent for an ACTUAL RATE CHANGE
+
+This is the meaningful progression. In April the hawks were arguing about how
+the statement described the future. Today they are voting for a different policy
+rate. The identical trio held together across all three meetings, and their
+objection escalated from wording to the instrument itself.
+
+DIRECTION: HAWKISH. Unambiguously, and located entirely in the vote.
+
+════════════════════════════════════════════════════════════════════════
+SENTENCE-BY-SENTENCE DIFF (Prior = June 17 | New = July 29, both verbatim)
+════════════════════════════════════════════════════════════════════════
+
+─── PARAGRAPH 1 — Policy decision + reserves ───
+JUNE 17:  "The Committee decided to maintain the target range for the federal
+           funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal
+           Reserve's dual mandate. The Committee REAFFIRMED its policy of
+           maintaining ample reserves in the banking system."
+JULY 29:  "The Committee decided to maintain the target range for the federal
+           funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal
+           Reserve's dual mandate. The Committee IS CONTINUING its policy of
+           maintaining ample reserves in the banking system."
+CHANGE:   "reaffirmed" → "is continuing". The ONLY textual change in the
+          statement.
+DIRECTION: NEUTRAL — housekeeping, and it should be read as such. "Reaffirmed"
+          was appropriate in June because the ample-reserves framework was being
+          actively restated under a new Chair; "is continuing" is the steady-
+          state descriptor once the framework is settled. The implementation
+          note confirms this reading: every operative provision (IORB 3.65%,
+          primary credit 3.75%, standing repo 3.75%, ON RRP 3.5% at a $160bn
+          per-counterparty limit, bill purchases to maintain ample reserves,
+          full reinvestment) is unchanged from June. Do not over-read this as a
+          balance-sheet signal — there is no accompanying operational change.
+          Worth one line of monitoring given Warsh's stated "leaner, meaner
+          balance sheet" preference and his July 15 framing of the balance sheet
+          as one of "two instruments" against inflation risks, but nothing in
+          today's documents advances that.
+
+─── PARAGRAPH 2 — Economic activity + labor ───
+JUNE 17 and JULY 29 are VERBATIM IDENTICAL:
+  "Economic activity is expanding at a solid pace despite elevated uncertainty
+   that owes, in part, to the conflict in the Middle East. Productivity growth
+   and capital investment are strong. Job gains have kept pace with the
+   workforce, and the unemployment rate has changed little."
+CHANGE:   None.
+DIRECTION: NEUTRAL by text — but note what was NOT done. The labor line "job
+          gains have kept pace with the workforce" was the under-appreciated
+          hawkish reframing introduced in June (soft payrolls recast as ADEQUATE
+          given slower labor-supply growth, rather than as a slowdown). The
+          Committee had six weeks of additional labor data and chose to leave
+          that framing untouched. Retaining it is a decision, not an oversight:
+          the labor market remains formally unavailable as a rationale for
+          easing.
+
+─── PARAGRAPH 3 — Inflation ───
+JUNE 17 and JULY 29 are VERBATIM IDENTICAL:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy. The Committee will deliver price stability."
+CHANGE:   None.
+DIRECTION: NEUTRAL by text — and this is the most consequential non-change in
+          the document. The intervening June CPI and PPI prints were benign.
+          Williams read them as "inflation has peaked." Goolsbee framed a
+          conditional normalization path off them. Had the Committee wanted to
+          validate that read, this paragraph is where it would have happened —
+          softening "remains elevated," or qualifying the supply-shock
+          attribution. It did neither. "The Committee will deliver price
+          stability" — the declarative commitment Warsh introduced in June —
+          survives intact for a second meeting.
+          The Committee has now declined to bank one favorable inflation round.
+          That is the hawks' argument (Logan, Jul 16: "one month of relief is
+          not enough; it is time to finish the job") winning the drafting
+          argument even as it lost the vote.
+
+─── FORWARD GUIDANCE ───
+Absent in June. Still absent in July. Confirmed against the official page.
+The Warsh minimalist regime holds: the statement describes conditions and the
+decision, and pre-commits to nothing. Consistent with his July 15 Senate
+formulation, "play the ball, don't play the Fed."
+
+════════════════════════════════════════════════════════════════════════
+WHAT THE STATEMENT DID NOT SAY — the deliberate omission
+════════════════════════════════════════════════════════════════════════
+Set the frozen text against the June SEP. That SEP was a wholesale hawkish
+repricing: 2026 headline PCE +0.9 (2.7% → 3.6%), core +0.6, the median 2026 dot
+at 3.8% — ABOVE the current 3.625% midpoint — and 9 of 18 participants
+penciling at least one 2026 hike, up from ZERO in March.
+
+Six weeks later, three voters formalized that into dissents. And the statement
+language added not one hawkish word.
+
+This is a widening DOTS-VS-STATEMENT GAP, and per the Language Cycle it is a
+bottom-up leading indicator that has NOT yet consolidated. The individual
+positioning (dots in June, dissents today) is running well ahead of the
+collective language. Historically the statement is the LAST place a shift
+appears. On that reading, the July statement is a lagging document and the 9–3
+vote is the live one.
+
+Two competing interpretations, and the September meeting resolves them:
+  (a) WARSH IS HOLDING THE CENTER DELIBERATELY. He gave zero rate-path signal
+      across two full days of congressional testimony (Jul 14–15), keeping
+      "leave alone, raise, cut" all explicitly open 13 days out. Freezing the
+      text is the same strategy: absorb three dissents rather than concede
+      language that would pre-commit the Committee. Consistent with a Chair who
+      has structurally rejected forward guidance.
+  (b) THE CENTER IS SIMPLY NOT THERE YET. The median voter has not moved, the
+      hawks are a visible but contained minority, and the language is frozen
+      because there is no majority for anything else.
+Both are consistent with today's documents. Distinguishing them requires the
+minutes (~Aug 19) and the September SEP.
+
+════════════════════════════════════════════════════════════════════════
+POSITIONING — what today confirmed, and where the swing votes sit
+════════════════════════════════════════════════════════════════════════
+
+CONFIRMED — the two silent hawks:
+  Kashkari and Hammack had given no post-June economic outlook speech. The
+  July 16 read carried them as "presumed sympathetic but silent." Today
+  converts that inference to fact: both voted for a hike. The presumption held.
+
+LOGAN VOTED HER BOOK, EXACTLY AS TELEGRAPHED:
+  Jul 16 (Houston): hike as CURRENT BASE CASE — "modestly higher interest rates
+  would better balance the dual mandate," "one month of relief is not enough; it
+  is time to finish the job," "better modest restriction now than severe
+  restriction later." She was the only voter with a stated base-case hike going
+  into blackout. She dissented for precisely that. No new information in Logan's
+  vote — but strong confirmation that her stated positions are votable.
+
+WALLER DID NOT DISSENT — AND THIS IS THE MOST USEFUL DATA POINT IN THE DOCUMENT:
+  His Jul 13 decision rule was explicit and dated: a HOT June core CPI/PPI print
+  → "the FOMC will need to consider tightening monetary policy in the near
+  term"; several months of lower readings → hold. The June prints came in
+  benign. The trigger was NOT met. He voted with the majority.
+  Waller's stated framework governed his vote. That materially raises the
+  forecasting value of his conditionality going forward — he is now the single
+  highest-information swing vote on the Committee, and his trigger is a
+  published, testable data condition.
+
+THE HIKE COALITION MATH FOR SEPTEMBER (12 voters):
+  Committed (revealed today):  Logan, Hammack, Kashkari ........... 3
+  Conditional, trigger unmet:  Waller (hot core print)
+                               Cook ("prepared to act" absent disinflation soon)
+                               Jefferson ("reconsider" if inflation doesn't cool
+                                 soon — the Vice Chair swing) ....  3
+  Optionality / no signal:     Warsh ............................. 1
+  Patient hold:                Williams ("inflation has peaked"),
+                               Paulson (median voter, inflation-first bar) . 2
+  Dovish:                      Bowman ............................ 1
+  No recent calibration:       Barr, Powell ...................... 2
+
+  Three are committed. Three more have named, published conditions. If the
+  August and early-September core prints run hot, Waller's trigger fires by his
+  own rule and Cook's and Jefferson's conditions plausibly bind — that is 6 of
+  12, and the September decision becomes genuinely live rather than a dissent
+  story. If prints stay benign, the three hawks likely dissent again into an
+  unchanged hold.
+  [Inference: the Waller/Cook/Jefferson flip scenario is built from their stated
+  conditionals, not from any statement any of them has made about September.
+  Flagged for analyst assessment.]
+
+════════════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH
+════════════════════════════════════════════════════════════════════════
+  • "preferred to RAISE the target range" — first appearance of hike-preferring
+    dissent language in this cycle. Stage: IN-STATEMENT (as a dissent, not as
+    Committee language). The dissent rationale in the minutes will be the first
+    formal written statement of the hike case.
+  • "The Committee will deliver price stability" — Warsh's declarative
+    commitment, now in two consecutive statements. Stage: IN-STATEMENT,
+    consolidating. Its survival through a benign inflation round is the tell.
+  • "Job gains have kept pace with the workforce" — second consecutive
+    statement. Stage: IN-STATEMENT, consolidating. Watch for any Committee
+    attempt to soften it; that would be the first genuine dovish crack.
+  • "is continuing its policy of maintaining ample reserves" — monitor only.
+    No operational change accompanies it. Would become material only if paired
+    with a directive change, given Warsh's "two instruments" framing.
+
+════════════════════════════════════════════════════════════════════════
+NEXT
+════════════════════════════════════════════════════════════════════════
+  • Press conference (Type E) — today 2:30pm ET. Score separately: opening
+    statement = Committee consensus; Q&A = Warsh's personal signals. Priority
+    question: how he characterizes three hike dissents, and whether he concedes
+    any near-term tightening consideration he twice declined to engage in
+    testimony.
+  • Minutes (Type D) — ~August 19. The dissent rationale is the key section.
+  • September 15–16 — SEP meeting. Prior SEP for the Type I diff is June 17.
+  • Reference FOMC for all subsequent scoring updates to JULY 29, 2026.
+
+════════════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────────────
+  Statement (Jul 29):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Implementation note (Jul 29):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a1.htm
+  Statement (Jun 17, baseline):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+  Implementation note (Jun 17, baseline):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a1.htm
+  June SEP: data/scored/sep/20260617_SEP_scored.txt
+  Logan Jul 16: data/scored/speeches/20260716_Lorie_Logan_scored.txt
+  Waller Jul 13: data/scored/speeches/20260713_Christopher_J__Waller_scored.txt
+  Warsh Jul 15: data/scored/speeches/20260715_Kevin_Warsh_scored.txt
+
+DATA-INTEGRITY NOTE
+────────────────────────────────────────────────────────────────────────
+Both sides of this diff are official verbatim text. The June 17 raw file
+previously held a reconstruction produced during that day's 403-blocked run; it
+had the paragraph order wrong (activity → labor → inflation → policy, when the
+official statement leads with the policy decision) and an extra "also." Diffing
+against it would have produced a false "statement restructured" finding today.
+It was re-pulled at source and corrected before this diff was written.
+No part of this analysis derives from media coverage.
+════════════════════════════════════════════════════════════════════════

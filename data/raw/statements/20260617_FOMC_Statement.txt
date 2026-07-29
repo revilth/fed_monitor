@@ -1,35 +1,48 @@
 SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
-NOTE: Retrieved live from federalreserve.gov (the 2:05pm run hit HTTP 403 and reconstructed
-from snippets; this is the corrected verbatim text). Paragraph wording high-confidence;
-exact punctuation and the individual voting roster to be reconciled against the official
-PDF in the next-morning canonical run. The press-release page reports a 12–0 vote but does
-not list member names; the roster below is [INFERRED] from the 2026 voter list.
+RETRIEVED: 2026-07-29 14:2x ET, live from federalreserve.gov (HTTP 200). Verbatim.
+
+CORRECTION NOTE (2026-07-29): This file previously held a reconstruction written
+during the June 17 2:05pm run, which hit HTTP 403. That reconstruction had two
+errors, both now fixed against the official page:
+  (1) PARAGRAPH ORDER WAS WRONG. It presented the statement as activity → labor
+      → inflation → policy decision. The official June 17 statement LEADS with
+      the policy-decision paragraph, then activity+labor (one paragraph), then
+      inflation. The "restructuring" this implied was an artifact of the
+      reconstruction, not a real feature of the statement.
+  (2) "The Committee ALSO reaffirmed its policy of maintaining ample reserves"
+      — the word "also" is not in the official text.
+Retrieved and corrected while diffing the July 29 statement.
 
 FOMC STATEMENT — JUNE 17, 2026
 For release at 2:00 p.m. EDT
 
-Economic activity is expanding at a solid pace despite elevated uncertainty that owes,
-in part, to the conflict in the Middle East. Productivity growth and capital investment
-are strong.
+The Federal Open Market Committee approved the following statement for release
+by a 12 - 0 vote:
 
-Job gains have kept pace with the workforce, and the unemployment rate has changed little.
+The Committee decided to maintain the target range for the federal funds rate at
+3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. The
+Committee reaffirmed its policy of maintaining ample reserves in the banking
+system.
 
-Inflation remains elevated relative to the Committee's 2 percent goal, in part reflecting
-supply shocks that have driven price increases in certain sectors, including energy. The
-Committee will deliver price stability.
+Economic activity is expanding at a solid pace despite elevated uncertainty that
+owes, in part, to the conflict in the Middle East. Productivity growth and
+capital investment are strong. Job gains have kept pace with the workforce, and
+the unemployment rate has changed little.
 
-The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to
-3-3/4 percent, in support of the Federal Reserve's dual mandate. The Committee also
-reaffirmed its policy of maintaining ample reserves in the banking system.
+Inflation remains elevated relative to the Committee's 2 percent goal, in part
+reflecting supply shocks that have driven price increases in certain sectors,
+including energy. The Committee will deliver price stability.
 
-[No separate forward-guidance sentence — the prior "will continue to monitor… remains
-prepared to adjust policy if risks emerge threatening its dual mandate objectives"
-formulation does NOT appear in this statement. Confirmed absent across two retrievals.]
+────────────────────────────────────────────────────────────────────────
+NO FORWARD-GUIDANCE SENTENCE. The prior "will continue to monitor... remains
+prepared to adjust policy if risks emerge threatening its dual mandate
+objectives" formulation does NOT appear. Confirmed absent against the official
+page.
 
-VOTE: 12–0 UNANIMOUS.
-Voting members (2026), [INFERRED roster — names not on the press-release page]:
-  Kevin Warsh (Chair), Philip N. Jefferson (Vice Chair), John C. Williams,
-  Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Jerome H. Powell,
-  Christopher J. Waller (Board); Anna Paulson, Beth M. Hammack, Neel Kashkari,
-  Lorie K. Logan (rotating regional). Voting against: none.
-  (Miran is no longer a voter — departed May 2026; Warsh now holds the Chair vote.)
+VOTE: 12-0 UNANIMOUS. The press-release page reports the tally but does not list
+member names. Voting roster [INFERRED] from the 2026 voter list: Kevin Warsh
+(Chair), Philip N. Jefferson (Vice Chair), John C. Williams, Michael S. Barr,
+Michelle W. Bowman, Lisa D. Cook, Jerome H. Powell, Christopher J. Waller
+(Board); Anna Paulson, Beth M. Hammack, Neel Kashkari, Lorie K. Logan (rotating
+regional). Voting against: none. (Miran is no longer a voter — departed May
+2026; Warsh now holds the Chair vote.)
