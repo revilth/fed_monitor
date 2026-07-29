@@ -1,0 +1,299 @@
+FOMC PRESS CONFERENCE — July 29, 2026 (Type E) — OPENING STATEMENT ONLY
+════════════════════════════════════════════════════════════════════════
+Kevin Warsh, Chair | Troika | Second press conference as Chair
+Reference FOMC: July 29, 2026 (HOLD 3.50–3.75%, 9–3, three hike dissents)
+Prior press conference: June 17, 2026
+════════════════════════════════════════════════════════════════════════
+
+⚠ SCOPE AND SOURCING — READ FIRST
+─────────────────────────────────────────────────────────────────────
+COVERED:     The OPENING STATEMENT, in full, verbatim. Source is the Fed's own
+             preliminary transcript PDF, retrieved from federalreserve.gov at
+             3:35pm ET (HTTP 200):
+             https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+             The Fed labels it "PRELIMNARY" [sic — their typo]. Wording is
+             official; expect minor transcription fixes in the final version.
+             One evident preliminary-transcript error: "the Committee is
+             continuing its policy of MAKING ample reserves" — the statement
+             text reads "MAINTAINING ample reserves." Read as maintaining.
+
+NOT COVERED: THE Q&A. It is not yet obtainable. The Fed's own YouTube upload
+             (cyexh4Ikrp4, "FOMC Press Conference, July 29, 2026") has no
+             automatic captions yet, and neither does any of the six full-length
+             third-party livestreams checked — the streams ended ~3:20pm and
+             YouTube has not run ASR. No local speech-to-text is installed.
+             Per the project's transcript-integrity rule, no part of this file is
+             built from news coverage. The Q&A section is deferred, NOT
+             summarized from secondary reporting.
+
+BASELINE:    The June 17 comparison uses the FINAL official full transcript
+             (FOMCpresconf20260617.pdf), opening statement isolated at the first
+             non-Warsh speaker. Every "new vs. June" claim below was checked
+             against that text, per the carry-over rule.
+
+CONSEQUENCE FOR THE READ: The opening statement is the COMMITTEE-CONSENSUS half
+of a press conference — approved language, not personal signal. It is therefore
+the half that is systematically LESS revealing about the Chair's own position.
+Everything below is a consensus-language read. Warsh's personal rate-path
+signals, if any, are in the missing Q&A. Treat the net signal as provisional.
+
+════════════════════════════════════════════════════════════════════════
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+Warsh spent his opening statement doing two things: hardening the inflation-
+credibility commitment to its most explicit form yet, and welcoming the bond
+market's tightening as a vindication of his communications regime.
+
+The most consequential passage is a flat rejection of a soft target — "There is
+no soft inflation target, there is no soft implicit target—not on this
+Committee's watch" — paired with an explicit dismissal of the benign June
+inflation print. The most novel is his treatment of a top-decile rise in
+Treasury yields as "a change for the better."
+
+Put together, they explain the frozen statement text and the 9–3 vote. The Chair
+is rhetorically aligned with the hawks on inflation credibility while letting the
+CURVE, not the policy rate, deliver the tightening. That is a coherent position
+that can hold three dissents without moving a word of the statement.
+
+════════════════════════════════════════════════════════════════════════
+NEW vs. JUNE 17 OPENING STATEMENT — verified absent from the June text
+════════════════════════════════════════════════════════════════════════
+
+─── 1. THE ANTI-DRIFT PASSAGE (the headline; genuinely new) ───
+JULY 29: "Uncertainty, however, does not mean a lack of clarity. For some
+          households, businesses, and market professionals, five years of high
+          inflation have left a mistaken impression that is hard to shake: that
+          the Fed's implicit inflation target was somehow above 2 percent. Let
+          me reiterate: There is no soft inflation target, there is no soft
+          implicit target—not on this Committee's watch. There is only a target,
+          and it is 2 percent. Not one of my FOMC colleagues is under any
+          illusion."
+JUNE 17:  No equivalent. June asserted the commitment ("This Committee will
+          deliver price stability") but never addressed the perception of an
+          implicit higher target.
+READ:     HAWKISH. This is a credibility intervention aimed at expectations, not
+          at the rate path. He is naming and rejecting a specific belief he
+          thinks is embedded in household, business and market pricing. Note the
+          audience — "market professionals" is called out by name.
+          Watch this as an expectations-anchoring device: if Warsh believes the
+          implicit-target perception is live, that raises his bar for tolerating
+          any above-target print, independent of the data.
+
+─── 2. THE SINGLE-MONTH DISMISSAL — the Chair adopts the hawks' argument ───
+JULY 29: "We have begun a new chapter, and we understand that the five-plus
+          years of inflation above target cannot be cured in nine weeks—or by a
+          single month of modest price decreases."
+JUNE 17:  Absent. June acknowledged inflation "running well ahead... for more
+          than five years" but had no benign print to discount.
+READ:     HAWKISH, and the single most important line for positioning. This is
+          the Chair explicitly refusing to bank the June CPI/PPI improvement.
+          It is Logan's July 16 argument almost verbatim in substance: "one
+          month of relief is not enough; it is time to finish the job."
+          It also completes an escalation in Warsh's own device for handling
+          good data: Jul 14–15 testimony discounted favorable prints as
+          "imperfect measures" (withholding the conclusion); Jul 29 dismisses
+          the month outright.
+          THIS IS WHY THE STATEMENT'S INFLATION PARAGRAPH WAS FROZEN. The
+          drafting choice flagged in the statement diff now has the Chair's
+          stated rationale behind it.
+          [Inference: "nine weeks" reads as the span of his chairmanship / the
+          "new chapter," not a data window. Not stated. Low stakes either way.]
+
+─── 3. THE YIELD MOVE — most novel content, and genuinely two-sided ───
+JULY 29: "The first is a very notable change since our last meeting 42 days ago:
+          nominal and real yields are materially higher across the Treasury
+          curve. In fact, some of the increases in market interest rates between
+          FOMC meetings are among the most significant in the last two decades,
+          ranking around the top decile or so."
+          "...market attention centered on real data and real economic
+          developments. Prices reacted in real time to incoming information, and
+          the reduction in forward guidance may have been a factor. Market
+          participants are learning to play the ball, not the referee—and market
+          prices will continue to respond in the direction and magnitude they
+          see fit. This is, in my view, a change for the better—and we are just
+          getting started. After all, the central bank need not always and
+          everywhere be the center of attention."
+          "I want to stress, of course, that decisions by this Committee matter a
+          great deal. And where necessary and appropriate, we will not hesitate
+          to act."
+JUNE 17:  Absent. June announced the removal of forward guidance; it could not
+          yet evaluate the consequence.
+READ:     MIXED, and the most decision-relevant passage in the document.
+          (a) DOVISH FOR THE POLICY RATE: a top-decile inter-meeting rise in
+              real and nominal yields is tightening that the Committee did not
+              have to deliver. The Chair volunteering this as development number
+              one, unprompted, is a strong hint at how the hold was rationalized
+              against three hike dissents — financial conditions did the work.
+          (b) HAWKISH IN REGIME: he is not merely tolerating the move, he is
+              endorsing it ("a change for the better," "just getting started")
+              and disclaiming any intent to lean against market pricing. There is
+              no Fed put in this framing.
+          (c) THE GUARDRAIL: "we will not hesitate to act" is the counterweight,
+              and it is deliberately undirected — it does not say in which
+              direction.
+          ACTIONABLE ASYMMETRY: if the yield move retraces, the implicit
+          tightening unwinds and the case for an actual policy-rate hike
+          strengthens mechanically. Warsh has effectively made the curve a
+          substitute for the funds rate. Track real yields as a live input to
+          September odds.
+LANGUAGE: "play the ball, not the referee" — a variant of his Jul 15 Senate
+          formulation "play the ball, don't play the Fed." Second use, mutated
+          slightly. Stage: DISPERSED → CONSOLIDATING (Warsh only, but now his
+          fixed idiom for the communications regime).
+
+─── 4. BALANCE SHEET FRAMED AS ACCOMMODATION — a formal agenda item ───
+JULY 29: Fourth of four enumerated meeting questions: "If, as the Fed has long
+          held, interest rate policy should be its primary monetary policy
+          instrument, how much accommodation are we getting from the balance
+          sheet?"
+JUNE 17:  The balance sheet appeared only as one of five TASK FORCE subjects —
+          a governance/review item. It was not framed as a live source of
+          current accommodation.
+READ:     HAWKISH-LEAN, and a promotion. The balance sheet has moved from
+          "under review" to a question about how much easing it is currently
+          providing — which presupposes it may be providing too much. This
+          extends the Jul 15 Senate framing (balance sheet as one of "two
+          instruments" relevant to INFLATION RISKS, "leaner, meaner balance
+          sheet" preferred) from personal view into a formal Committee agenda
+          item.
+          This is the most plausible route to tightening that does NOT require
+          moving the funds rate — and therefore the most plausible way to
+          accommodate three hawkish dissenters without a hike. HIGH PRIORITY to
+          track. Note the July implementation note contained no operational
+          change, so this remains discussion-stage.
+
+─── 5. THE FOUR MEETING QUESTIONS (new disclosure format) ───
+Warsh enumerated the four questions the Committee debated — a level of process
+disclosure June did not provide:
+  1. "the implications of the past five years of high inflation on the current
+     policy conjuncture. To echo an old phrase, has the past really passed?"
+  2. Whether the recent shocks (pandemic supply chains, military conflicts,
+     energy disruptions, tariff increases, AI investment) "differ in their
+     effects on output and employment."
+  3. Price increases arising from shocks — memory/logic chips, AI
+     infrastructure: "Do those changes indicate a broader inflationary dynamic,
+     or do we just focus on them just because they are under the bright
+     streetlight?"
+  4. Balance-sheet accommodation (above).
+READ:     Questions 1 and 3 are the tell. Question 1 ("has the past really
+          passed?") is the hawks' framing — whether five years of above-target
+          inflation has changed the policy problem. Question 3's "bright
+          streetlight" is dismissive: it pre-loads the answer that AI-driven
+          chip prices are a relative-price story, not broad inflation.
+          This preserves the split flagged on Jul 15, where Warsh broke with
+          Waller and Williams on the AI-inflation channel. He has now carried
+          that skepticism into the Committee's formal agenda.
+          NOTE THE TENSION, it is real and worth watching: Warsh is maximally
+          hawkish on the 2% target's credibility while discounting the
+          Committee's newest inflation driver. Reconciles as fighting
+          UNDERLYING inflation, not relative price shifts — but if AI capex
+          prices keep feeding core, that distinction gets expensive.
+
+─── 6. AI CAPEX QUANTIFIED ───
+JULY 29: "the most striking feature of the economy is the strong growth of
+          business investment... In the A.I.-related category of high-tech
+          equipment and software, the most recent data shows four-quarter growth
+          rates of nearly 20 percent. This is helping to sustain the healthy
+          momentum of manufacturing output... Nonetheless, the precise timing
+          and magnitude of effects on the supply side remain hard to predict."
+JUNE 17:  Not in the opening statement.
+READ:     HAWKISH-LEAN on the growth leg — reinforces that there is no
+          growth-based case for easing, consistent with his Jul 1 Sintra
+          "structural productivity in the high 2% range." The supply-side
+          hedge is new and honest.
+
+════════════════════════════════════════════════════════════════════════
+CARRY-OVER — present in BOTH, therefore NOT a signal
+════════════════════════════════════════════════════════════════════════
+Flagging these explicitly because each could be misread as a fresh hawkish
+addition; all were verified present in the June 17 text:
+  • "we will deliver price stability" — June: "This Committee will deliver price
+    stability." July: "we will deliver price stability." Carry-over. Warsh even
+    marks it himself: "You've heard this before." NOT new.
+  • "the policy statement conveys just the facts" — June: "That statement just
+    gives you the facts, as best we can judge it." Rephrased carry-over.
+  • Forward-guidance absence — announced in June. July's addition is the
+    EVALUATION of its market effect (item 3), not the fact of it.
+  • "Job gains have kept pace with the workforce, and the unemployment rate has
+    changed little" — verbatim statement language in both.
+
+════════════════════════════════════════════════════════════════════════
+NOTABLE ABSENCES
+════════════════════════════════════════════════════════════════════════
+  • THE DISSENTS ARE NEVER MENTIONED. Warsh reports the "9 to 3 vote" as a fact
+    and never addresses it. June's boast — "members of the FOMC are unambiguous
+    and unanimous" — is necessarily gone, but note how he replaced it: "Not one
+    of my FOMC colleagues is under any illusion" about the 2 percent target.
+    The unity claim was RELOCATED from the policy decision to the inflation
+    objective. Unity on the goal, open dispersion on the path. That is a
+    deliberate and rather skilful piece of drafting.
+    He also pre-empts the "nothing happened" read: "there was nothing inertial
+    about our discussions, our policy, or our strategy."
+  • NO TASK FORCE UPDATE. June devoted roughly a third of the opening statement
+    to launching five task forces and promised "quite a bit more... in the
+    coming weeks"; Jul 15 gave a hard timeline (September briefings, year-end
+    conclusions). The July 29 opening statement says nothing about them. Most
+    likely deferred to Q&A — FLAG for recovery.
+  • NO SEP. Correct — July is not a projection meeting. Next is September 15–16.
+  • NO RATE-PATH SIGNAL WHATSOEVER. Consistent with two days of testimony in
+    which he kept "leave alone, raise, cut" all open and twice declined to
+    engage Waller's hike conditionality by name.
+
+════════════════════════════════════════════════════════════════════════
+NET SIGNAL (PROVISIONAL — opening statement only)
+════════════════════════════════════════════════════════════════════════
+HAWKISH LEAN ON CREDIBILITY, NEUTRAL ON THE PATH.
+
+Warsh hardened the inflation commitment to its most explicit form to date, took
+the hawks' side of the argument on the benign June print, and put balance-sheet
+accommodation on the formal agenda — while giving zero guidance on the funds
+rate and welcoming the bond market's tightening as a substitute for Committee
+action.
+
+The coherent story: the Chair agrees with Logan, Hammack and Kashkari about the
+inflation problem and disagrees with them about the instrument. He is content to
+let a top-decile yield move do the tightening, and he has a second lever
+(balance sheet) in development before he would need to touch the funds rate.
+That is how a hold survives three hike dissents with the statement text frozen.
+
+WHAT WOULD CHANGE THE READ: a Q&A concession on near-term tightening — the thing
+he declined to engage twice in testimony. That is precisely what is missing here,
+so hold this as provisional.
+
+════════════════════════════════════════════════════════════════════════
+OPEN ITEMS FOR Q&A RECOVERY (priority order)
+════════════════════════════════════════════════════════════════════════
+  1. How he characterises three hike dissents — the first of his chairmanship.
+     Does he validate their reasoning or contain it?
+  2. Whether he finally engages near-term tightening conditionality (Waller's
+     trigger), after two passes in testimony.
+  3. Whether the yield-move framing is confirmed as a substitute for policy
+     action — the key question. Direct test: is he asked, and does he accept,
+     that tighter financial conditions reduced the need to hike?
+  4. Any balance-sheet runoff / composition specifics beyond the agenda question.
+  5. Task force status and the September briefing timeline.
+  6. Whether he repeats the "no soft target" line under questioning, and how
+     hard he pushes it.
+
+RECOVERY PLAN: re-check auto-captions on the official Fed upload
+(https://www.youtube.com/watch?v=cyexh4Ikrp4) later today — official channel is
+the preferred source. The Fed's FINAL full transcript (opening + Q&A), which
+superseded the preliminary version for June, is the definitive source and should
+replace this file's scope when posted.
+
+════════════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────────────
+  Jul 29 opening statement (preliminary, official):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+  Jun 17 press conference (FINAL, official, full incl. Q&A):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260617.pdf
+  Jul 29 statement + implementation note:
+    data/raw/statements/20260729_FOMC_Statement.txt
+  Jul 29 statement diff:  data/reports/fomc/20260729_statement_diff.txt
+  Warsh Jul 15 (Senate):  data/scored/speeches/20260715_Kevin_Warsh_scored.txt
+  Logan Jul 16:           data/scored/speeches/20260716_Lorie_Logan_scored.txt
+  Waller Jul 13:          data/scored/speeches/20260713_Christopher_J__Waller_scored.txt
+  Fed video (no captions as of 3:40pm ET):
+    https://www.youtube.com/watch?v=cyexh4Ikrp4
+════════════════════════════════════════════════════════════════════════
