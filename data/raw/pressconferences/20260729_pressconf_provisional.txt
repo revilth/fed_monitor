@@ -1,0 +1,150 @@
+SOURCE: https://www.youtube.com/watch?v=qBPN5OjxKDM
+CHANNEL: Federal Reserve (official)
+DATE: July 29, 2026
+EVENT: FOMC Press Conference — Chair Kevin Warsh (second press conference as Chair)
+
+PROVISIONAL — TRANSCRIPT RECONSTRUCTION NOTE:
+YouTube auto-transcript extraction failed (yt-dlp returned no results for the official Fed channel video).
+Official preliminary PDF also returned HTTP 403 (federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf).
+Content below reconstructed from:
+  (1) Search result excerpts citing the preliminary PDF
+  (2) CNBC live-blog coverage and analysis
+  (3) Yahoo Finance, Forbes, Fox Business, WFMZ, US News, Fortune live coverage
+  (4) CNBC video clip excerpts (two named clips)
+Key direct quotes verified across three or more independent sources.
+REQUIRED: Verify all quotes against the official preliminary PDF in tomorrow morning's report.
+
+─────────────────────────────────────────────────────────────────────────────
+RATE DECISION (announced 2:00 pm ET with statement)
+─────────────────────────────────────────────────────────────────────────────
+
+Hold: 3-1/2 to 3-3/4 percent. Fifth consecutive hold.
+Vote: 9 to 3.
+Dissenters (preferred +25bp hike): Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas).
+Not a projection meeting — no SEP or dot plot released.
+
+─────────────────────────────────────────────────────────────────────────────
+OPENING STATEMENT (committee-approved language, read by Chair Warsh)
+─────────────────────────────────────────────────────────────────────────────
+
+[Economic resilience framing — opening:]
+
+"The economy is showing impressive resilience. Even with recent shocks, the trends
+are positive and reveal solid growth."
+
+[Statement language — confirmed from July 29, 2026 FOMC statement:]
+
+  GROWTH: "Economic activity is expanding at a solid pace despite elevated
+  uncertainty that owes, in part, to the conflict in the Middle East.
+  Productivity growth and capital investment are strong."
+  [UNCHANGED from June 17, 2026]
+
+  LABOR: "Job gains have kept pace with the workforce, and the unemployment rate
+  has changed little."
+  [UNCHANGED from June 17, 2026]
+
+  INFLATION: "Inflation remains somewhat elevated relative to the Committee's
+  2 percent goal, in part reflecting supply shocks that have driven price increases
+  in certain sectors, including energy. The Committee will deliver price stability."
+  [CHANGED: "elevated" → "somewhat elevated"; all other language unchanged]
+
+  RATE: "The Committee decided to maintain the target range for the federal funds
+  rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate."
+  [UNCHANGED]
+
+  BALANCE SHEET: "The Committee also reaffirmed its policy of maintaining ample
+  reserves in the banking system."
+  [Likely UNCHANGED — no source reported a change; confirm against PDF]
+
+  FORWARD GUIDANCE: [NONE — absent, consistent with June 17]
+
+[On the price stability commitment:]
+
+"You've heard this before, but we will deliver price stability."
+
+[On the five-year inflation context and credibility:]
+
+"We have begun a new chapter, and we understand that the five-plus years of
+inflation above target cannot be cured in nine weeks, or by a single month of
+modest price decreases. This Fed will not waver. Our credibility rests on
+performing our duties and delivering on our responsibilities."
+
+[On the 2% target — hardest line in opening:]
+
+"There is no soft inflation target, there is no soft implicit target — not on
+this Committee's watch. There is only a target, and it is 2 percent."
+
+[On the meeting's deliberation — four questions framework:]
+
+Vigorous discussion centered on four questions:
+  1. Implications of the past five years of high inflation on the current policy
+     conjuncture.
+  2. Economic shocks of recent years: strained supply chains from the pandemic,
+     military conflicts, energy-supply disruptions, substantial increases in tariff
+     rates, and the surge in AI-related investment.
+  3. Price increases arising from these shocks.
+  4. [Fourth question not captured in available sources — confirm against PDF]
+
+─────────────────────────────────────────────────────────────────────────────
+Q&A (unscripted — Chair's personal signals)
+─────────────────────────────────────────────────────────────────────────────
+
+Q: [On the three dissents]
+A: "I asked for a good family fight, and I got one. Most of our discussions were
+   on the big questions that matter to the conduct of monetary policy. We didn't
+   sort of hide from them."
+   [Note: Warsh had used the "family fight" framing 13 times across five public
+   appearances before this press conference — this was an anticipated line.]
+
+Q: [On market reaction / bond yields]
+A: Warsh said he "thinks it's a good thing if the bond market moves based on
+   economic data as opposed to the Fed's policy." He specifically noted that
+   "nominal and real yields are materially higher across the Treasury curve"
+   since the previous meeting — and framed this as confirmation of the FOMC's
+   credibility, not as a constraint or concern.
+
+Q: [On FOMC credibility to deliver on dual mandate]
+A: "Markets broadly saying this FOMC has credibility to deliver on dual mandate."
+   [CNBC clip excerpt; verbatim]
+
+Q: [On progress since taking over as Chair]
+A: "Feel better about FOMC's ability to deliver on inflation target than I did
+   initially."
+   [CNBC clip excerpt; verbatim]
+
+Q: [On the willingness to act / rate path]
+A: "I want to stress, of course, that decisions by this committee matter a great
+   deal, and where necessary and appropriate, we will not hesitate to act."
+
+Q: [On the reduced Fed communications / opacity]
+A: "Market participants are learning to play the ball, not the referee — and market
+   prices will continue to respond in the direction and magnitude they see fit.
+   This is, in my view, a change for the better."
+
+─────────────────────────────────────────────────────────────────────────────
+MARKET REACTION (close of business July 29, 2026)
+─────────────────────────────────────────────────────────────────────────────
+
+Equities: Dow -1,153 points (-2.19%), S&P 500 -1.52%, Nasdaq -1.74%
+Rates:    10-year Treasury yield +7bp → 4.67%
+          30-year Treasury yield +12bp → 5.21% (19-year high)
+Signal:   Bond market interpreted the session as falling short on the inflation
+          fight — CNBC headline: "Warsh says Fed won't hesitate to stop inflation,
+          but bond market has doubts"
+
+─────────────────────────────────────────────────────────────────────────────
+SOURCES (RECONSTRUCTION)
+─────────────────────────────────────────────────────────────────────────────
+
+Official YouTube: https://www.youtube.com/watch?v=qBPN5OjxKDM
+Fed preliminary PDF (403 at time of extraction):
+  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+CNBC live recap: https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html
+CNBC clip 1: https://www.cnbc.com/video/2026/07/29/fed-chairman-warsh-markets-broadly-saying-this-fomc-has-credibility-to-deliver-on-dual-mandate.html
+CNBC rate decision: https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html
+CNBC redline: https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html
+Yahoo Finance live: https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html
+Forbes: https://www.forbes.com/sites/tylerroush/2026/07/29/fed-keeps-interest-rates-unchanged-as-dissent-mounts/
+Fox Business: https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-july-29-2026
+Fortune: https://fortune.com/2026/07/29/federal-reserve-july-decision-unchanged-kevin-warsh/
+JHU CFE: https://krieger.jhu.edu/financial-economics/2026/07/29/fomc-decision-day-july-2026/
