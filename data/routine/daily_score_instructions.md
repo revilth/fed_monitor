@@ -95,12 +95,16 @@ For each Type A or Type B-with-outlook:
    speech's own date).
 
 **Cycle context (keep current — update when the reference FOMC changes):**
-Reference FOMC **June 17, 2026** | FFR **3.50–3.75%** | holding cycle (rising
-hike risk). The June 17 statement was a STRUCTURAL REWRITE: easing bias AND
-routine forward guidance REMOVED; explicit "will deliver price stability"; labor
-reframed to "kept pace with the workforce"; inflation as a "sequence of supply
-shocks." The June 17 SEP turned decisively hawkish. **Warsh is Chair** (first
-meeting was June 17). Next FOMC **July 28–29, 2026** (NON-projection; no SEP).
+Reference FOMC **July 29, 2026** | FFR **3.50–3.75%** | holding cycle (rising
+hike risk). The July 29 statement: SOLE CHANGE "elevated" → "somewhat elevated"
+on inflation; all other language carried verbatim from June 17. Vote 9–3:
+Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas) dissented preferring
++25bp hike — first pro-hike dissent coalition since the active tightening cycle
+ended; escalation from April 29 (opposed easing bias) to July 29 (demand active
+tightening). Waller voted with majority (June CPI came in below his July 13
+hike-conditionality threshold). NOT a projection meeting. Next FOMC
+**September 15–16, 2026** (IS a projection meeting; SEP + dot plot).
+Next blackout starts **September 5, 2026**.
 Always read `blackout_periods.json` for authoritative meeting/SEP flags.
 
 ### STEP 6 — DAILY REPORT

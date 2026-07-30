@@ -1,0 +1,445 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 29, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+FOMC DAY — Type C (Statement Diff) + Type E (Press Conference)
+Chair: Kevin Warsh  |  Second press conference as Chair (first: June 17, 2026)
+Decision: HOLD — fifth consecutive
+Vote: 9–3 (Hammack, Kashkari, Logan dissented preferring +25bp hike)
+NOT a projection meeting — no SEP or dot plot released.
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  This is an FOMC decision day. Content below covers:
+  1.  FOMC Statement  |  Type C  |  July 29, 2026
+      SOURCE: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+      NOTE: Official HTML returned HTTP 403 (Fed CDN cloud-IP block, consistent with prior
+      runs). Statement text verified via ≥3 independent indexed sources; high confidence
+      on all paragraphs except ¶5 (balance sheet wording — see below).
+  2.  FOMC Press Conference  |  Type E  |  July 29, 2026 2:30pm ET
+      Chair Kevin Warsh
+      SOURCE: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+      NOTE: Official PDF returned HTTP 403. Transcript reconstructed from search-indexed
+      excerpts + CNBC live recap + Yahoo Finance live. Key direct quotes verified ≥3
+      sources. Fourth deliberation-framework question unconfirmed (see below).
+
+FINALIZES provisional alerts emailed July 29:
+  → data/reports/fomc/20260729_statement_diff.txt (PROVISIONAL)
+  → data/reports/fomc/20260729_pressconf_provisional.txt (PROVISIONAL)
+
+QUOTE CORRECTIONS: None identified in this run. No quote in the provisional alerts has
+been contradicted by any indexed source. Discrepancies (if any) will surface when the
+official PDF becomes accessible — trigger recovery via:
+  python3 main.py refetch    (or direct WebFetch once CDN unblocks)
+
+════════════════════════════════════════════════════════════════
+TYPE C — FOMC STATEMENT DIFF
+July 29, 2026 vs. June 17, 2026
+════════════════════════════════════════════════════════════════
+
+Prior statement: June 17, 2026 (Warsh's first — structural rewrite)
+This statement:  July 29, 2026 (Warsh's second)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+¶1 — GROWTH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+June 17: "Economic activity is expanding at a solid pace despite elevated uncertainty
+         that owes, in part, to the conflict in the Middle East. Productivity growth
+         and capital investment are strong."
+
+July 29: UNCHANGED.
+
+Direction: NEUTRAL — No change to growth characterization. The Middle East uncertainty
+qualifier and the productivity/capex strength line retained verbatim. Growth as a
+category is not a policy concern for this committee majority.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+¶2 — LABOR MARKET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+June 17: "Job gains have kept pace with the workforce, and the unemployment rate has
+         changed little."
+
+July 29: UNCHANGED.
+
+Direction: NEUTRAL. Warsh's June 17 reframe ("kept pace with the workforce," replacing
+Powell's "labor demand has clearly softened") is retained verbatim even after the June
+NFP print of +57K was digested by this meeting. The committee's deliberately neutral
+labor characterization stands. Hawkish lean by omission — no downgrade despite weak
+data.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+¶3 — INFLATION + PRICE STABILITY COMMITMENT  [THE SOLE CHANGE]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+June 17: "Inflation remains elevated relative to the Committee's 2 percent goal, in
+         part reflecting supply shocks that have driven price increases in certain
+         sectors, including energy. The Committee will deliver price stability."
+
+July 29: "Inflation remains SOMEWHAT elevated relative to the Committee's 2 percent
+         goal, in part reflecting supply shocks that have driven price increases in
+         certain sectors, including energy. The Committee will deliver price stability."
+
+CHANGE: "elevated" → "somewhat elevated"
+
+This is the ONLY substantive word change in the July 29 statement.
+
+Direction: DOVISH — Adding "somewhat" signals the 9-vote majority views inflation as
+having made incremental progress and no longer at the same severity level as June 17.
+The structural cause language ("supply shocks... energy") and the price stability
+commitment ("will deliver price stability") are unchanged. "Somewhat elevated" appeared
+earlier in the pre-Warsh 2026 cycle; its re-insertion here is confirmed as new under
+Warsh.
+
+Dissent trigger: The one-word softening is almost certainly what drove the three hawkish
+dissents. Hammack, Kashkari, and Logan disagree that inflation warrants the softened
+characterization and are voting for active tightening — not merely resisting dovish
+framing as in April. They are voting AGAINST what they read as a permissive signal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+¶4 — RATE DECISION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+June 17: "The Committee decided to maintain the target range for the federal funds
+         rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual
+         mandate."
+
+July 29: UNCHANGED.
+
+Direction: NEUTRAL.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+¶5 — BALANCE SHEET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+June 17: "The Committee also reaffirmed its policy of maintaining ample reserves in
+         the banking system."
+
+July 29: [UNCONFIRMED — no indexed source reported a change to this sentence.
+         Most likely UNCHANGED. Verify against official PDF when available.]
+
+Direction: UNCERTAIN / Presumed NEUTRAL.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FORWARD GUIDANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+June 17: Absent (removed with Warsh's structural rewrite; ~132 words).
+July 29: Absent (confirmed; Warsh in Q&A: "forward guidance isn't the business
+         we should be in"). Statement runs approximately 130 words.
+
+Direction: NEUTRAL — no change; consistent with Warsh communication framework.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DISSENT ANALYSIS — ESCALATION FROM APRIL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+April 29, 2026 (3 dissents): Hammack, Kashkari, Logan opposed the easing bias language
+  (objected to guidance implying next move would be a cut). Decision was 9–4.
+June 17, 2026 (0 dissents): Easing bias removed → 12–0 UNANIMOUS. Hawks satisfied.
+July 29, 2026 (3 dissents): Hammack, Kashkari, Logan dissent FOR a +25bp hike.
+
+This is a structural escalation: the three regional hawks have moved from "oppose the
+committee's dovish framing" to "demand active tightening." This is the largest unified
+hawkish dissent coalition (three simultaneous pro-hike votes) since September 2016.
+Three of the four rotating 2026 regional presidents now on record preferring higher rates;
+only Paulson (Philadelphia, median voter) voted with the 9-vote majority.
+
+Waller (Board Governor): Did NOT dissent. His July 13 speech ("Monetary Policy at a
+Crossroads") set explicit near-term hike conditionality on hot core CPI/PPI data; the
+June CPI print came in below his threshold, closing the door on a July hike. He sits at
+the swing-vote margin for September — the highest-stakes single variable heading in.
+
+NET STATEMENT READ: Dovish on the formal text (one-word softening); hawkish on the
+vote composition (three dissenters demanding active tightening vs. zero in June).
+These two signals point in opposite directions. The net policy implication is that the
+committee majority is acknowledging marginal progress while the hawkish tail is structural.
+
+════════════════════════════════════════════════════════════════
+TYPE E — PRESS CONFERENCE  (Chair Warsh, 2:30pm ET)
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPENING STATEMENT (committee-approved language; consensus signal)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Statement language: Unchanged (see ¶1 above).
+  Added framing: "The economy is showing impressive resilience. Even with recent
+    shocks, the trends are positive and reveal solid growth."
+  Direction: NEUTRAL — consistent with June 17 opening; no new concern or upgrade.
+
+LABOR MARKET
+  Statement language: Unchanged (see ¶2 above).
+  Retained verbatim despite June NFP +57K having been digested. No downgrade.
+  Direction: NEUTRAL — Warsh's trend-over-print discipline holds.
+
+INFLATION (key section — sole statement change + hardest surrounding language)
+  Statement change: "elevated" → "somewhat elevated" (see ¶3 above).
+  Opening statement additions (new in July 29, absent from June 17):
+
+  "We have begun a new chapter, and we understand that the five-plus years of
+  inflation above target cannot be cured in nine weeks, or by a single month of
+  modest price decreases. This Fed will not waver. Our credibility rests on
+  performing our duties and delivering on our responsibilities."
+
+  "There is no soft inflation target, there is no soft implicit target — not on
+  this Committee's watch. There is only a target, and it is 2 percent."
+
+  These lines were ABSENT from the June 17 opening statement (confirmed against prior
+  provisional transcript). They are genuine additions.
+
+  Net direction: NEUTRAL-TO-HAWKISH. The statement text softens by one word;
+  the surrounding framing hardens explicitly. The "no soft target" declaration is the
+  hardest inflation commitment in any Warsh-era committee document to date — harder
+  than June 17's Q&A "zero is to the right of the decimal point."
+
+  Interpretation: Warsh is acknowledging marginal progress ("somewhat elevated") while
+  explicitly pre-empting any dovish misread of that acknowledgment. The committee
+  majority is threading a needle — accommodating the data without signaling comfort.
+
+DELIBERATION FRAMEWORK (new in July 29 opening; absent from June 17)
+  Warsh organized the meeting's "vigorous discussion" around four questions:
+  1. Implications of the past five years of high inflation on the current policy
+     conjuncture ("has the past really passed?").
+  2. Economic shocks of recent years — strained supply chains, military conflicts,
+     energy-supply disruptions, substantial tariff increases, AI-related investment
+     surge — and whether these "differ in their effects on output and employment."
+  3. Price increases arising from these shocks.
+  4. [Fourth question not recovered — absent from all indexed sources in this run.
+     FLAG: verify against official PDF. Search indices captured only "Page 1 of 3."]
+
+  This framing signals the committee is engaging in structural analysis of the
+  inflationary episode, not merely reacting to individual data prints. Consistent with
+  the five task forces announced June 17 — which are still active but have not yet
+  delivered public results.
+
+  vs. June 17 opening:
+    Absent in June 17, new in July 29: deliberation framework, "no soft target,"
+      "will not waver," "nine weeks"/"new chapter" credibility language
+    Present in June 17, absent in July 29: five task-force announcements, new
+      statement format explanation, introductory "honor to be back" framing
+    Retained: "will deliver price stability," no forward guidance, hard 2% target
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Q&A ANALYSIS (Warsh's personal, unscripted signals)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. DISSENTS — "FAMILY FIGHT" FRAMING
+   "I asked for a good family fight, and I got one. Most of our discussions were
+   on the big questions that matter to the conduct of monetary policy. We didn't
+   sort of hide from them."
+
+   Beyond statement: Warsh explicitly embraced the three hawkish dissents as evidence
+   of healthy deliberation, not as a defeat. The "family fight" formulation was
+   pre-seeded across 13 prior public appearances — not improvised. He is deliberately
+   normalizing a more contestatory committee culture. This is a departure from the
+   Powell-era practice of characterizing broad consensus. Three simultaneous pro-hike
+   dissents are not, in Warsh's framing, a credibility problem — they are a credibility
+   signal that the committee takes the inflation problem seriously.
+
+2. BOND MARKET — HIGHER YIELDS WELCOMED, NOT FEARED
+   "I think it's a good thing if the bond market moves based on economic data as
+   opposed to the Fed's policy." Warsh noted "nominal and real yields are materially
+   higher across the Treasury curve" since the previous meeting and framed this as
+   confirmation of committee credibility, not as a tightening-of-financial-conditions
+   headwind.
+
+   Beyond statement: The opening statement does not reference the yield curve. In Q&A,
+   Warsh explicitly cited 10y at 4.67% and 30y at 5.21% (19-year high) as positive
+   signals. This is the inversion of the pre-Warsh posture, where long-rate spikes
+   would have triggered a financial-conditions caveat. Warsh treats bond-market
+   skepticism as validation, not warning. [Quote reconstructed from CNBC recap —
+   verify framing against PDF.]
+
+3. CREDIBILITY SELF-ASSESSMENT — PERSONAL MILESTONE
+   "Markets broadly saying this FOMC has credibility to deliver on dual mandate."
+   "Feel better about FOMC's ability to deliver on inflation target than I did initially."
+
+   Beyond statement: The opening carries the institutional commitment. The Q&A adds
+   Warsh's personal progress assessment — two meetings in, he is explicitly saying the
+   credibility-building exercise is working. "Feel better... than I did initially"
+   is a Chair's first-person milestone declaration, not a data reading. Combined with
+   the "new chapter" framing, this is a Chair consolidating the June 17 turning point,
+   not hedging it.
+
+4. HIKE CONDITIONALITY — NO-HESITATION LANGUAGE
+   "I want to stress, of course, that decisions by this committee matter a great deal,
+   and where necessary and appropriate, we will not hesitate to act."
+
+   Beyond statement: The statement holds rates with no directional guidance. The Q&A
+   adds an implicit hike threat — "will not hesitate to act" is Warsh's personal
+   statement of willingness to tighten if warranted. Consistent with the three dissents
+   and with Waller's still-standing July 13 conditionality (the June CPI kept Waller
+   in the majority; a hot August CPI print could tip him).
+
+5. COMMUNICATIONS PHILOSOPHY — OPACITY AS VIRTUE
+   "Market participants are learning to play the ball, not the referee — and market
+   prices will continue to respond in the direction and magnitude they see fit. This
+   is, in my view, a change for the better."
+
+   Beyond statement: This is Warsh's articulation of why a less communicative Fed is
+   more credible. Forward guidance absence is not a transitional awkwardness; it is
+   a structural improvement. This is the live-fire operationalization of the framework
+   announced at June 17's task forces.
+
+NET Q&A SIGNAL: HAWKISH — "no-hesitation," family-fight normalization, and
+higher-yields-as-validation each reinforce the committee's tightening bias without
+softening the "somewhat elevated" gesture.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+vs. PREVIOUS PRESS CONFERENCE (June 17, 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GROWTH:      UNCHANGED — same statement language; "impressive resilience" framing
+             consistent with June 17 baseline.
+
+LABOR:       UNCHANGED — "kept pace with the workforce" / "changed little" retained
+             verbatim, including after the +57K June NFP. Hawkish lean by omission.
+
+INFLATION:   DOVISH LEAN on the one formal word (elevated → somewhat elevated);
+             HAWKISH LEAN on the surrounding framing ("will not waver," "no soft
+             target," "nine weeks"). Net: NEUTRAL-TO-HAWKISH.
+             June 17 Q&A: "zero is to the right of the decimal point."
+             July 29 Q&A: "There is no soft inflation target... not on this
+             Committee's watch." July 29 is harder despite the softer adjective.
+
+POLICY:      NEUTRAL on the rate language. HAWKISH on the dissent structure:
+             June 17 was 12–0 unanimous; July 29 is 9–3 with three calling for hikes.
+             The dissent escalation (from opposing easing bias in April to demanding
+             active tightening in July) is the primary structural signal.
+
+FORWARD GUIDANCE: Absent in both — unchanged and consistent.
+
+COMMUNICATIONS: June 17 announced the framework (task forces, new statement format).
+             July 29 operationalizes it: "markets learning to play the ball, not the
+             referee." No task force deliverables reported between June 17 and July 29.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+vs. CHAIR'S PREVIOUS PUBLIC SPEECH (July 1, 2026 — Sintra/ECB Forum)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Sintra (July 1): Tactical softening — "inflation risks have come down," "inflation
+  expectations have come down" — while structural 2% target unchanged; labor
+  "steady" framing retained; declined to confirm/deny hawkish label.
+
+July 29: The tactical Sintra softening is formalized in "somewhat elevated" but the
+  "no soft target" declaration and no-hesitation language walk back any dovish read.
+  Progress acknowledgment is explicitly bounded. Consistent with Sintra in direction
+  but hawkish-capped in magnitude.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+vs. COMMITTEE DYNAMICS SINCE JUNE 17 FOMC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Inter-meeting trajectory (June 17 – July 29, 2026):
+  Warsh (Jul 1, Sintra): Tactical inflation softening; structural 2% unchanged.
+  Waller (Jul 13, "Monetary Policy at a Crossroads"): Near-term hike conditionality
+    on hot core CPI/PPI. June CPI came in cooler — conditionality not triggered; voted
+    with the majority. Waller is the critical September swing vote.
+  Goolsbee (Jul 14, Kenosha): Conditional normalization path — "several months of
+    CPI-like PCE prints → the sooner we can normalize." Dovish counterpart to Waller.
+  Three dissenting regional presidents (Hammack, Kashkari, Logan): Escalated from
+    April's "oppose easing bias" to July's "demand +25bp hike."
+
+Committee heading into September 15–16 (next meeting; a projection/SEP meeting):
+  — 9-vote majority: Acknowledges marginal progress; unwilling to move without
+    clearer data.
+  — 3-vote hawkish bloc: Structural, not one-meeting noise. Each has stated
+    inflation risks justify tighter policy now.
+  — Waller (swing vote): Pre-committed to near-term tightening consideration if
+    August CPI (released ~Sep 10) is hot. This is the highest-stakes single data
+    point heading into September.
+  — September SEP: The dot plot will reveal whether the hike-biased tail (9 of 18
+    dots projected a hike in 2026 per the June SEP) has grown, shrunk, or
+    consolidated. Highest-information September meeting in the Warsh era.
+
+MARKET VERDICT: Bond market not satisfied — 10y +7bp to 4.67%; 30y +12bp to 5.21%
+  (19-year high). Equities sold off sharply: Dow -2.19% (-1,153 pts), S&P -1.52%,
+  Nasdaq -1.74%. CNBC headline: "Warsh says Fed won't hesitate to stop inflation,
+  but bond market has doubts." The market did NOT read "somewhat elevated" as a pivot
+  signal and was not reassured by the no-hesitation Q&A.
+
+NET SIGNAL: NEUTRAL-TO-HAWKISH — a dovish gesture on formal language (one-word
+  softening), sharply bounded by hawkish framing (no soft target, will not waver,
+  hike conditionality) and the most divided vote of Warsh's tenure (9–3 pro-hike
+  dissent coalition, first such coalition since the active tightening cycle ended).
+
+LANGUAGE TO WATCH:
+  • "No soft inflation target, no soft implicit target — not on this Committee's
+    watch. There is only a target, and it is 2 percent." — Hardest 2% defense in
+    any Warsh-era document; watch for spread to Waller, Paulson, Jefferson.
+  • "Good family fight" — pre-seeded framing; watch whether dissenters echo or
+    contest in post-meeting speeches.
+  • "New chapter... cannot be cured in nine weeks" — committee-level credibility
+    framing; spread indicator if Troika or Just Voters adopt it.
+  • "Markets learning to play the ball, not the referee" — Warsh's communications
+    doctrine; not yet spread to other officials.
+
+ANALYST FLAG: YES
+  → (1) [OPEN] Verify balance sheet sentence wording against official PDF —
+         no source reported a change but could not confirm.
+  → (2) [OPEN] Identify the fourth question in the deliberation framework —
+         only three captured in indexed sources (PDF indexed as "Page 1 of 3").
+  → (3) [OPEN] Waller's post-meeting public statement (if any) explaining his
+         hold vote vs. his July 13 hike conditionality — critical swing-vote signal.
+  → (4) [OPEN] Post-meeting speeches from Hammack, Kashkari, and Logan explaining
+         their hike votes — first pro-hike dissent explanations since the tightening
+         cycle; expected in early August once blackout lifts (July 30 end date).
+  → (5) [MONITOR] Whether "no soft target" language spreads to Just Voter speeches
+         in the inter-meeting period (Sep blackout starts Sep 5).
+  → (6) [MONITOR] Warsh Jackson Hole keynote (Aug 27-29): he said the speech is
+         "a blank piece of paper right now" — highest-priority pending event; topic
+         is "Financial Innovation: Implications for Payments and Policy."
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday July 31, 2026
+────────────────────────────────────────────────────────────────
+  Fed blackout period ends: July 30, 2026 (today). Officials may speak from
+  July 31 onward, through September 5 when the next blackout begins.
+
+  Confirmed appearances:
+  (None confirmed for July 31, 2026 — no announcements identified in this run.)
+
+  Near-term calendar:
+  — Post-meeting context: Reduced speaking activity expected in late July/early
+    August (only ~12 speeches given since the June 17 FOMC vs. ~23 average post-meeting;
+    pattern may repeat).
+  — JACKSON HOLE ECONOMIC SYMPOSIUM, Aug 27–29 (Kansas City Fed, Jackson Lake Lodge)
+    Topic: "Financial Innovation: Implications for Payments and Policy"
+    Warsh keynote address (Friday morning, Aug 29): "a blank piece of paper right now"
+    per Warsh at the July 29 press conference. This is a TYPE G event (Chair keynote;
+    historically used for major policy signals). HIGHEST priority upcoming event.
+    Warsh has indicated task force discussions will inform the keynote before then.
+  — September 15–16 FOMC: Next meeting (SEP/projection meeting; dot plot released).
+    Blackout begins September 5. Inter-meeting window: July 31 – September 4.
+    Critical data points in window: August CPI (~Sep 10, AFTER blackout starts —
+    only partial market data available before Sep 5 blackout). Watch for speeches from
+    Waller, Hammack, Kashkari, Logan explaining their votes and updating views.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Official sources (both returned HTTP 403 in this run — Fed CDN cloud-IP block):
+  Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Press conf PDF:  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+
+Reconstruction sources (key quotes verified ≥3 sources):
+  CNBC live recap:    https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html
+  CNBC rate decision: https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html
+  CNBC redline:       https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html
+  CNBC credibility:   https://www.cnbc.com/video/2026/07/29/fed-chairman-warsh-markets-broadly-saying-this-fomc-has-credibility-to-deliver-on-dual-mandate.html
+  Yahoo Finance live: https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html
+  Forbes:             https://www.forbes.com/sites/tylerroush/2026/07/29/fed-keeps-interest-rates-unchanged-as-dissent-mounts/
+  Fox Business:       https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-july-29-2026
+  JHU CFE:            https://krieger.jhu.edu/financial-economics/2026/07/29/fomc-decision-day-july-2026/
+
+Prior statement for diff (June 17, 2026):
+  data/raw/statements/20260617_FOMC_Statement.txt
+  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm
+
+Prior press conference for comparison (June 17, 2026):
+  data/raw/pressconferences/20260617_pressconf_provisional.txt
+
+Chair's prior speech for comparison (July 1, 2026 — Sintra):
+  data/scored/speeches/20260701_Warsh_scored.txt
+
+Waller July 13 conditionality speech:
+  https://wolfstreet.com/2026/07/13/fed-should-hike-in-the-near-term-if-cpi-ppi-this-week-are-hot-feds-waller-so-at-the-july-meeting-treasury-yields-jump/
+  data/scored/speeches/20260713_Christopher_J__Waller_scored.txt
+
+Jackson Hole 2026:
+  https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+  https://www.cnbc.com/video/2026/07/29/fed-chairman-warsh-will-discuss-with-task-forces-before-jackson-hole-meeting.html
+════════════════════════════════════════════════════════════════
