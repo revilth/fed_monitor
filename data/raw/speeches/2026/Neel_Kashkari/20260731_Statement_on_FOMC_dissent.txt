@@ -1,0 +1,5 @@
+SOURCE: https://www.minneapolisfed.org/article/2026/why-i-dissented
+FETCH_STATUS: HTTP 403 — official transcript unavailable from cloud IP (Aug 1, 2026 run)
+RECOVERY: python3 main.py refetch  OR  direct WebFetch from non-blocked IP
+NOTE: Formal written article explaining Kashkari's July 29, 2026 FOMC dissent (preferred +25bp hike).
+Published by Minneapolis Fed on July 31, 2026.
