@@ -1,0 +1,116 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 1, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none) — No Federal Reserve speeches or statements on Saturday, August 1, 2026.
+  No files dated 2026-08-01 in data/raw/. Consistent with weekend norms.
+════════════════════════════════════════════════════════════════
+
+NO NEW CONTENT — OUTSTANDING ACTION ITEMS
+
+August 1, 2026 is a Saturday. No policy speeches are scheduled or expected. The
+most recent official communications were the three formal dissent statements
+published July 31, 2026 (covered in the 20260731_daily.txt report), which remain
+NOT SCORED due to HTTP 403 blocks from all Fed regional bank websites.
+
+OUTSTANDING TRANSCRIPT RECOVERY (from July 31 run — high priority):
+  1. Beth Hammack (Cleveland) — "Statement Regarding July FOMC Meeting Vote"
+     URL: https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+     Status: HTTP 403 (cloud IP block) in both the GitHub Actions 5:30am collect
+             and this morning's refetch/WebFetch. Stub at:
+             data/raw/speeches/2026/Beth_Hammack/20260731_Statement_on_FOMC_dissent.txt
+     Action: python3 main.py refetch from local (non-blocked) IP.
+     Key quotes via news coverage (DO NOT score from this; for reference only):
+       "Now is the time for the FOMC to act to speed the return of PCE inflation
+       to our 2 percent objective." — "The longer that high inflation persists,
+       the more challenging and costly it can be to bring it back down."
+
+  2. Neel Kashkari (Minneapolis) — "Why I Dissented"
+     URL: https://www.minneapolisfed.org/article/2026/why-i-dissented
+     Status: HTTP 403 (same block). Stub at:
+             data/raw/speeches/2026/Neel_Kashkari/20260731_Statement_on_FOMC_dissent.txt
+     Action: python3 main.py refetch from local IP.
+     Key argument via news: modest rate hikes now would reduce risk of more
+     aggressive tightening later.
+
+  3. Lorie Logan (Dallas) — "Statement on FOMC Dissent"
+     URL: https://www.dallasfed.org/news/releases/2026/nr260731dissent
+     Status: HTTP 403 (same block). Stub at:
+             data/raw/speeches/2026/Lorie_Logan/20260731_Statement_on_FOMC_dissent.txt
+     Action: python3 main.py refetch from local IP.
+     Key quote via news: "Without any policy restraint, inflation will likely
+     continue to trend above target until there's an unanticipated shock. Modest
+     action in the near term would reduce the likelihood of needing to take
+     sharper action later."
+
+NOTE ON NO-NEWS SCORING RULE
+  News coverage of all three dissent statements is extensive. These key quotes
+  are noted above for situational awareness ONLY. No scoring will be produced
+  from news coverage. Official transcripts must be retrieved before scoring.
+  Once transcripts are recovered, score as Type A (economic outlook embedded)
+  with Type A methodology; compare each speaker to their last scored pre-FOMC
+  speech and to the July 29 FOMC context.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Monday, August 3, 2026
+────────────────────────────────────────────────────────────────
+  (None confirmed) — No appearances announced on the Fed Board events calendar
+  or regional bank pages at time of this run (calendar lookup unavailable;
+  Fed websites returning HTTP 403 from this environment's IP).
+
+  BROADER CONTEXT (week of August 3–7, 2026):
+  Blackout ended July 30; officials free to speak August 1 onward. Based on
+  post-FOMC patterns, the first full week post-blackout typically sees several
+  appearances. Officials to watch:
+
+    • Beth Hammack (Cleveland) — Just Voter; hawkish dissenter; likely to give
+      a full economic outlook speech building on the July 31 written dissent.
+      Prior last scored speech: June 2, 2026 (data/scored/speeches/).
+
+    • Neel Kashkari (Minneapolis) — Just Voter; hawkish dissenter; likely to
+      elaborate further. April 29 dissenter as well; watch for escalation language
+      vs. prior dissent.
+
+    • Lorie Logan (Dallas) — Just Voter; hawkish dissenter; wrote dissent in
+      July 16 scored speech (data/scored/speeches/20260716_Lorie_Logan_scored.txt).
+      Her July 31 written statement represents the first post-FOMC communication.
+
+    • Christopher Waller (Board Governor) — Just Voter; voted with majority at
+      July 29 (June CPI came in below his July 13 hike-conditionality threshold).
+      His next speech will clarify whether he maintains hold position or shifts
+      toward the dissenting bloc given August CPI data trajectory. Last scored:
+      July 13, 2026.
+
+    • John Williams (NY Fed) — Troika; last scored July 15, 2026. Typically gives
+      post-FOMC appearances within 1–2 weeks of the meeting.
+
+    • Philip Jefferson (Vice Chair) — Troika; last scored July 16, 2026.
+
+  MAJOR UPCOMING EVENT:
+    Jackson Hole Economic Symposium (Kansas City Fed host)
+    August 27–29, 2026 — Jackson Lake Lodge, Jackson Hole, Wyoming
+    Theme: "Financial Innovation: Implications for Payments and Policy"
+    Chair Warsh will deliver the keynote (traditionally Friday morning Aug 28).
+    As of this run, Warsh described his keynote as "a blank piece of paper right
+    now" — no pre-signaling. This will be the highest-signal speech of August.
+    Next blackout: September 5, 2026 (pre-September 15–16 FOMC; that is a
+    projection meeting with SEP + dot plot).
+════════════════════════════════════════════════════════════════
+
+SOURCES
+────────────────────────────────────────────────────────────────
+No speeches on August 1, 2026.
+
+Reference FOMC (July 29, 2026):
+  Statement:    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Press conf:   https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+  Canonical daily: data/reports/daily/20260729_daily.txt
+
+Prior day report (July 31 dissent statements — action items above):
+  data/reports/daily/20260731_daily.txt
+
+Jackson Hole 2026:
+  https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+════════════════════════════════════════════════════════════════
