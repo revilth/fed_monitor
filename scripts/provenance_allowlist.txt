@@ -1,0 +1,14 @@
+# Provenance allowlist — repo-relative paths exempt from scripts/check_provenance.py
+#
+# ONLY for media-derived files deliberately retained for audit. A file listed
+# here must carry a SUPERSEDED banner naming the official file that replaces it.
+# Adding a path here to silence a fresh violation defeats the control: the fix
+# for a failing new file is to fetch the official transcript, or to mark the
+# document NOT SCORED — TRANSCRIPT PENDING and recover it later.
+
+# Media reconstructions of the June 17 and July 29 2026 FOMC press conferences,
+# written after a fetch failure. Both are superseded by official transcripts and
+# are banner-marked "do not score from this file". Kept as the audit trail for
+# the incident that motivated this guard.
+data/raw/pressconferences/20260617_pressconf_provisional.txt
+data/raw/pressconferences/20260729_pressconf_provisional.txt

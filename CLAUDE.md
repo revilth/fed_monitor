@@ -32,9 +32,9 @@ The core analytical goal is to forecast what the Fed will do next by tracking ho
 | Atlanta | (interim) | https://www.atlantafed.org/news-and-events/speeches | ⚠ Bostic retired Feb 2026; no new speeches yet; links go to external media |
 | Chicago | Austan Goolsbee | https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking | ✓ Works; `div.cyan-publication`; individual URL pattern: `/publications/speeches/YYYY/mon-dd-slug`; speeches often PDFs, auto-extracted |
 | St. Louis | Alberto Musalem | https://www.stlouisfed.org/from-the-president/remarks | ⚠ SXA API works but index only through Nov 2024 |
-| Minneapolis | Neel Kashkari | https://www.minneapolisfed.org/people/neel-kashkari | ⚠ Links only, no transcripts (panel discussions) |
+| Minneapolis | Neel Kashkari | https://www.minneapolisfed.org/people/neel-kashkari | ⚠ Speech links only, no transcripts (panel discussions) — BUT the same page links `/article/YYYY/slug`, where **formal FOMC dissent statements** are published in full text (now scraped) |
 | Kansas City | Jeff Schmid | https://www.kansascityfed.org/speeches | ⚠ 620KB page; stream required; CDN can be slow |
-| Dallas | Lorie Logan | https://www.dallasfed.org/news/speeches/logan | ✓ Works; individual URL pattern: `/news/speeches/logan/YYYY/lklYYMMDD` |
+| Dallas | Lorie Logan | https://www.dallasfed.org/news/speeches/logan | ✓ Works; individual URL pattern: `/news/speeches/logan/YYYY/lklYYMMDD`. **Dissent statements are NOT here** — they are news releases at `/news/releases/YYYY/nrYYMMDDdissent` (now also scraped) |
 | San Francisco | Mary Daly | https://www.frbsf.org/news-and-media/speeches/mary-c-daly | ✓ Works; `li.wp-block-post` |
 
 ### YouTube (for video speeches without transcripts)
@@ -584,13 +584,38 @@ python3 main.py schedule         # Start daily background scheduler
 ```
 
 ### Transcript integrity — get the speech, never the news about it
-The 5:30am `collect` runs on a GitHub Actions cloud IP that the Fed CDN
-intermittently answers with **HTTP 403**. The scraper now records every failed
-fetch to `data/raw/_fetch_failures.json` (committed by the workflow) instead of
-silently dropping the speech. A residential/local IP is not blocked (verified),
-so recovery is simply **`python3 main.py refetch`** run locally — it re-fetches
-only the missing transcripts (already-saved files are skipped) and clears the
-manifest on success.
+Failed fetches are recorded to `data/raw/_fetch_failures.json` (committed by the
+workflow) instead of silently dropping the document, and each entry carries a
+`kind` naming the fault. Recovery is **`python3 main.py refetch`** — it re-fetches
+only the missing transcripts (already-saved files are skipped) and clears an
+entry only once that URL is actually fetched.
+
+**Do not assume a cause — read the `kind`** (corrected 2026-08-03; the previous
+text here asserted "the Fed CDN 403s the GitHub Actions cloud IP", which was
+wrong and got copied into reports and stub files):
+- `proxy_blocked` — an egress proxy refused CONNECT; the origin never answered.
+  A local environment problem. This is what agent sandboxes hit, and it is what
+  produced the July 31 "HTTP 403 from cloud IP" stubs.
+- `origin_403` — the site itself refused the request (bot filter). Retry from a
+  different network.
+- `not_found` / `origin_5xx` / `timeout` / `connection` — ordinary web failures.
+
+The scheduled GitHub Actions `collect` job reaches federalreserve.gov and every
+regional bank fine (verified against the Actions logs on 2026-08-01/02/03) — do
+not diagnose a gap as a cloud-IP block without checking the run log first.
+
+**Coverage, not just connectivity.** The July 31 2026 dissent statements from
+Logan and Kashkari were missed with no fetch error at all: they are published
+outside the speech indexes the scrapers crawled (Dallas files them under
+`/news/releases/`, Minneapolis under `/article/`). Both paths are now scraped. A
+missing document is at least as likely to be a coverage gap as a network fault.
+
+**Provenance is enforced mechanically.** `scripts/check_provenance.py` fails CI
+(`.github/workflows/guard.yml`, plus a pre-commit step in `collect.yml`) if a
+raw file looks media-derived or lacks a `SOURCE:` line pointing at an official
+host. Do not silence it by adding paths to
+`scripts/provenance_allowlist.txt` — that list is only for superseded
+reconstructions kept as an audit trail.
 
 **Hard rule:** the deliverable is the **official transcript**. Fetching the
 official transcript URL (federalreserve.gov, a regional bank's own speech page,
@@ -609,6 +634,21 @@ See `CALIBRATION.md` for current per-speaker calibration notes. Update that file
 
 - **Daily (non-blackout only)**: The pipeline runs each morning at 6:30am ET and reports on the PRIOR day — GitHub Actions scrapes at 5:30am, the routine scores + writes the daily report, and pushing it emails the report. **Skip entirely on FOMC blackout days** — no policy speeches are given during blackout, so there is nothing to report. Every daily report includes an UPCOMING section keyed to the day it is sent (the run day): **Monday** → current week (Mon–Fri); **Friday** → next week (Mon–Fri); **Tuesday–Thursday and weekends** → next calendar day. Check the Fed Board events calendar and each speaker's regional bank event page (via web access) to populate this section.
 - **Blackout-entry FOMC cycle summary**: On the Saturday that STARTS each FOMC blackout (the `start` date of the upcoming meeting's period in `blackout_periods.json` — the run day equals that Saturday; the report covers the prior Friday), the daily report MUST include an `FOMC CYCLE SUMMARY — ENTERING [Mon DD–DD] FOMC` section. This is the last report before the blackout silence, so it synthesizes the whole inter-meeting cycle: (1) cycle context — reference FOMC, regime (holding/hiking/cutting), FFR, upcoming meeting date; (2) committee positioning since the last FOMC, Troika → Just Voters → Non Voters, each with their latest stance, key own-language, and net direction; (3) shared/spreading language and its cycle stage (dispersed / emerging / committee-wide / in-statement); (4) the key analytical questions the meeting will resolve; (5) net committee lean heading in. This is required every blackout entry, not optional.
+- **Post-FOMC dissent sweep (required whenever the vote is not unanimous)**: a
+  dissenting regional president almost always publishes a written statement
+  explaining the dissent within a few business days of the meeting — these are
+  among the highest-signal documents this project tracks, and they are the FIRST
+  post-meeting communication from the dissenting bloc. **The statement names the
+  dissenters, so this is deterministic: for each dissenter, check their bank's
+  site daily for 5 business days after the meeting.** Do not rely on the routine
+  scrapers alone — dissent statements are filed outside the speech indexes at
+  several banks (Dallas → `/news/releases/YYYY/nrYYMMDDdissent`; Minneapolis →
+  `/article/YYYY/slug`; Cleveland → `/collections/speeches/YYYY/sp-YYYYMMDD-...`).
+  This step exists because all three July 31 2026 dissent statements were missed
+  for three days; two of them were never collected at all. Score each as a
+  compressed Type A and compare against (a) the dissenter's pre-FOMC baseline and
+  (b) their own PRIOR dissent statement — the change in what they dissent ABOUT
+  (statement language vs. the rate itself) is the escalation signal.
 - **Post-FOMC meeting**: Immediately process statement diff; **on a projection meeting (March / June / September / December), also process the SEP / dot plot (Type I) the same day** — diff vs. the prior quarterly SEP, evaluate against the inter-meeting speeches, write the alert to `data/reports/fomc/` (emailed on push), and fold it into the next morning's canonical report; schedule minutes processing for ~3 weeks out; **update the reference FOMC date in CLAUDE.md and in all subsequent scored files and daily reports** — the reference date must always reflect the most recent FOMC meeting. Current reference FOMC: **July 29, 2026** (statement HOLD 3.50–3.75%; substantive text FROZEN — verbatim identical to June 17 apart from "reaffirmed" → "is continuing" on ample reserves; no forward guidance; **9–3, with Hammack, Kashkari and Logan dissenting in favor of a 25bp HIKE** — the first hike-preferring dissents of the cycle. No SEP at this meeting. See `data/reports/fomc/20260729_statement_diff.txt`). Prior reference: June 17, 2026 (HOLD, 12–0, easing bias dropped; SEP turned decisively hawkish — `data/scored/sep/20260617_SEP_scored.txt`).
 
 Blackout dates live in `blackout_periods.json` (repo root) — the single source of truth, read by both `.github/workflows/collect.yml` and the daily scoring routine. Source: the official Fed calendar (https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf). Update that one file from the PDF each year; do not hardcode blackout dates anywhere else.

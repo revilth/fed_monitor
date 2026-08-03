@@ -1,0 +1,70 @@
+name: Fed Monitor — Provenance Guard
+
+# Enforces the CLAUDE.md hard rule mechanically: a raw transcript must come from
+# the official source, never from news coverage.
+#
+# Why this exists: the June 17 and July 29 2026 FOMC statements were both
+# reconstructed from media after a fetch failed. The July 29 reconstruction
+# invented a word change ("elevated" -> "somewhat elevated") that was scored as
+# the meeting's headline signal and emailed to the analyst before anyone
+# noticed. The rule was already written down; what was missing was a check.
+#
+# Gates only files CHANGED in the push, so it blocks new violations without
+# demanding a backfill of the ~109 legacy files that predate the SOURCE:
+# convention.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/raw/**'
+  pull_request:
+    paths:
+      - 'data/raw/**'
+  workflow_dispatch:
+    inputs:
+      scan_all:
+        description: 'Scan every raw file instead of only changed ones'
+        type: boolean
+        default: false
+
+jobs:
+  provenance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # need history to diff against the push base
+
+      - name: Check transcript provenance
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          SCAN_ALL: ${{ github.event.inputs.scan_all }}
+        run: |
+          set -euo pipefail
+
+          if [ "${SCAN_ALL:-false}" = "true" ]; then
+            echo "Manual full scan requested."
+            python3 scripts/check_provenance.py --all
+            exit $?
+          fi
+
+          BASE="${BASE_SHA:-}"
+          if [ -z "$BASE" ]; then
+            BASE="${BEFORE_SHA:-}"
+          fi
+
+          # First push to a branch reports an all-zero base; nothing to diff.
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            echo "No usable diff base — scanning files changed in the last commit."
+            BASE="HEAD~1"
+          fi
+
+          if ! git cat-file -e "$BASE^{commit}" 2>/dev/null; then
+            echo "Base $BASE not present locally — falling back to HEAD~1."
+            BASE="HEAD~1"
+          fi
+
+          python3 scripts/check_provenance.py --changed "$BASE"

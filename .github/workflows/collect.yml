@@ -44,13 +44,44 @@ jobs:
       - name: Report transcript fetch failures
         if: always()
         run: |
+          # Summarise by FAULT KIND. This step used to hardcode "likely cloud-IP
+          # 403 from the Fed CDN", which was wrong — verified 2026-08-03 that
+          # this job reaches federalreserve.gov and every regional bank fine.
+          # That false attribution was copied into reports and stub files and
+          # sent an analyst chasing a network problem that did not exist.
+          # Report what actually happened; do not guess at a cause.
           if [ -f data/raw/_fetch_failures.json ]; then
-            echo "::warning::Some transcripts failed to fetch (likely cloud-IP 403 from the Fed CDN). Recover locally with 'python3 main.py refetch'. DO NOT substitute media coverage."
-            echo "----- data/raw/_fetch_failures.json -----"
-            cat data/raw/_fetch_failures.json
+            python3 - <<'EOF'
+          import json, collections
+          entries = json.load(open('data/raw/_fetch_failures.json'))
+          by_kind = collections.Counter(e.get('kind', 'unknown') for e in entries)
+          summary = ', '.join(f'{k}={v}' for k, v in sorted(by_kind.items()))
+          print(f'::warning::{len(entries)} transcript(s) pending recovery ({summary}). '
+                'Recover with "python3 main.py refetch" from a network that can reach '
+                'the source. DO NOT substitute media coverage — mark the document '
+                'NOT SCORED — TRANSCRIPT PENDING instead.')
+          print('----- data/raw/_fetch_failures.json -----')
+          for e in entries:
+              print(f"  [{e.get('kind','unknown')}] status={e.get('status')} "
+                    f"{e.get('url')}")
+              print(f"      source={e.get('source')} "
+                    f"first_seen={e.get('first_seen') or e.get('seen')}")
+              if e.get('reason'):
+                  print(f"      reason={e['reason'][:160]}")
+          # A proxy fault is a LOCAL egress problem, not the Fed blocking us.
+          if by_kind.get('proxy_blocked'):
+              print('::notice::proxy_blocked entries mean an egress proxy refused '
+                    'CONNECT — the origin never answered. This is an environment '
+                    'problem, not a Fed CDN block.')
+          EOF
           else
             echo "No transcript fetch failures recorded."
           fi
+
+      - name: Check transcript provenance
+        # --worktree, not --changed: the scraped files are still uncommitted at
+        # this point, so there is nothing to diff against HEAD yet.
+        run: python3 scripts/check_provenance.py --worktree
 
       - name: Commit new raw files
         run: |

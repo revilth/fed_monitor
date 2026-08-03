@@ -768,7 +768,15 @@ class MinneapolisFedScraper(BaseScraper):
     """
     The listing page is Next.js/dynamic but the person page for Kashkari
     at /people/neel-kashkari exposes speech links in static HTML.
-    Pattern: /speeches/YYYY/slug
+    Patterns: /speeches/YYYY/slug  AND  /article/YYYY/slug
+
+    The /article/ path matters: Kashkari publishes formal FOMC DISSENT
+    STATEMENTS as articles, not speeches (e.g. /article/2026/
+    statement-on-my-fomc-dissent, Jul 31 2026; /article/2026/why-i-dissented,
+    May 1 2026). Scraping only /speeches/ silently missed both — the July 31
+    dissent statement was never collected and had to be recovered by hand.
+    Dissent statements are among the highest-signal documents this project
+    tracks, so both paths are crawled.
     """
     source_name = "minneapolis"
     base_url = "https://www.minneapolisfed.org"
@@ -786,7 +794,7 @@ class MinneapolisFedScraper(BaseScraper):
         seen = set()
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if f"/speeches/{year}/" not in href:
+            if f"/speeches/{year}/" not in href and f"/article/{year}/" not in href:
                 continue
             if not href.startswith("http"):
                 href = urljoin(self.base_url, href)
@@ -825,9 +833,12 @@ class MinneapolisFedScraper(BaseScraper):
         return None
 
     def _date_from_page(self, url: str) -> date | None:
+        # "div" is required: article pages carry the date in
+        # div.i9-c-title-banner__title--date ("July 31, 2026"), not a <time>.
         try:
             soup = self.soup(url)
-            for el in soup.find_all(["time", "span", "p"], class_=re.compile(r"date|time", re.I)):
+            for el in soup.find_all(["time", "span", "p", "div"],
+                                    class_=re.compile(r"date|time", re.I)):
                 d = _parse_date_str(el.get_text(strip=True))
                 if d:
                     return d
@@ -1013,7 +1024,109 @@ class DallasFedScraper(BaseScraper):
                 doc_type="speech", tier=tier, voter=voter,
             ))
 
-        logger.info(f"[Dallas] {len(records)} Logan speeches")
+        records += self._fetch_news_releases(seen)
+
+        logger.info(f"[Dallas] {len(records)} Logan speeches/statements")
+        return records
+
+    def _fetch_news_releases(self, seen: set) -> list[SpeechRecord]:
+        """Scrape /news/releases for Logan's own statements.
+
+        Logan's formal FOMC DISSENT STATEMENTS are published as news releases
+        (e.g. /news/releases/2026/nr260731dissent, Jul 31 2026;
+        /news/releases/2026/nr260501dissent, May 1 2026), NOT on the
+        /news/speeches/logan page this scraper otherwise crawls. Scraping only
+        the speeches page silently missed both — the July 31 dissent statement
+        was never collected and had to be recovered by hand.
+
+        Structure: <table> of <tr> rows. Only the DATE cell is a link; the
+        subject is plain text in the second cell:
+            <td><a href="/news/releases/2026/nr260731dissent">7-31-2026</a></td>
+            <td>Statement from Dallas Fed President Lorie Logan on FOMC dissent</td>
+        So the href comes from the link but the title must come from the second
+        <td>. Most releases are Dallas Fed research/survey output, not Logan —
+        rows are kept only when the row names her.
+        """
+        records = []
+        try:
+            soup = self.soup(f"{self.base_url}/news/releases")
+        except Exception as e:
+            logger.warning(f"[Dallas] News releases page failed: {e}")
+            return records
+
+        year = date.today().year
+        for row in soup.find_all("tr"):
+            links = row.find_all(
+                "a", href=lambda h: h and re.search(r"/news/releases/\d{4}/", h)
+            )
+            if not links:
+                continue
+
+            # Keep only Logan's own statements, not Dallas Fed research output.
+            if "logan" not in row.get_text(" ", strip=True).lower():
+                continue
+
+            link_el = links[0]
+            cells = row.find_all("td")
+            # Title lives in the subject cell (plain text), not the date link.
+            title = ""
+            for cell in cells:
+                t = cell.get_text(" ", strip=True)
+                if t and not re.fullmatch(r"\d{1,2}-\d{1,2}-\d{4}", t):
+                    title = t
+                    break
+            if not title:
+                title = link_el.get_text(strip=True)
+
+            href = link_el["href"]
+            if not href.startswith("http"):
+                href = urljoin(self.base_url, href)
+            if href in seen:
+                continue
+            seen.add(href)
+
+            # Date is the first cell: "7-31-2026"
+            release_date = None
+            cells = row.find_all("td")
+            if cells:
+                m = re.search(r"(\d{1,2})-(\d{1,2})-(\d{4})",
+                              cells[0].get_text(strip=True))
+                if m:
+                    try:
+                        release_date = date(int(m.group(3)), int(m.group(1)),
+                                            int(m.group(2)))
+                    except ValueError:
+                        release_date = None
+            # Fallback: slug nrYYMMDD... → 2026-07-31
+            if not release_date:
+                m = re.search(r"/nr(\d{2})(\d{2})(\d{2})", href)
+                if m:
+                    try:
+                        release_date = date(2000 + int(m.group(1)),
+                                            int(m.group(2)), int(m.group(3)))
+                    except ValueError:
+                        release_date = None
+
+            if not release_date or not self.is_after_cutoff(release_date):
+                continue
+            if release_date.year != year:
+                continue
+
+            text = self._fetch_text(href)
+            if not text:
+                continue
+
+            tier, voter = get_tier(self.speaker_name)
+            records.append(SpeechRecord(
+                speaker=self.speaker_name,
+                date=release_date,
+                title=title,
+                url=href, text=text, source=self.source_name,
+                doc_type="speech", tier=tier, voter=voter,
+            ))
+
+        if records:
+            logger.info(f"[Dallas] {len(records)} Logan news-release statement(s)")
         return records
 
     def _fetch_text(self, url: str) -> str:
