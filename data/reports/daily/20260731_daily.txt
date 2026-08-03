@@ -3,99 +3,393 @@ FED MONITOR — DAILY UPDATE
 Date: July 31, 2026
 Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
 ════════════════════════════════════════════════════════════════
-SPEECHES / STATEMENTS TODAY
-  1.  Beth Hammack  |  Cleveland Fed President  |  Just Voter
-      "Statement on FOMC Dissent"  — formal written dissent statement (July 29 vote)
-      STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch returned HTTP 403;
-              recover via local python3 main.py refetch)
-      ACTION: WebFetch https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
-              (or search clevelandfed.org for July 31, 2026 dissent statement)
+STATEMENTS TODAY
+  1. Beth M. Hammack  |  Cleveland Fed President  |  Just Voter
+     "Statement regarding her vote at the FOMC's July 28–29 meeting"
+     Written statement, Federal Reserve Bank of Cleveland
 
-  2.  Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
-      "Why I Dissented" / "Statement on My FOMC Dissent"  — formal written article (July 29 vote)
-      STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch returned HTTP 403;
-              recover via local python3 main.py refetch)
-      ACTION: WebFetch https://www.minneapolisfed.org/article/2026/why-i-dissented
-              (alternate: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent)
+  2. Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+     "Statement on My FOMC Dissent"
+     Written statement, Federal Reserve Bank of Minneapolis
 
-  3.  Lorie Logan  |  Dallas Fed President  |  Just Voter
-      "Statement from Dallas Fed President Lorie Logan on FOMC Dissent"  — formal written statement
-      STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch returned HTTP 403;
-              recover via local python3 main.py refetch)
-      ACTION: WebFetch https://www.dallasfed.org/news/releases/2026/nr260731dissent
+  3. Lorie K. Logan  |  Dallas Fed President  |  Just Voter
+     "Statement from Dallas Fed President Lorie Logan on FOMC dissent"
+     News release, Federal Reserve Bank of Dallas
+
+All three official transcripts retrieved and verified at source. All three are
+formal dissent statements explaining the 9–3 vote at the July 28–29 FOMC.
 ════════════════════════════════════════════════════════════════
 
-CONTEXT
-
-July 31, 2026 is the first post-blackout day following the July 28–29 FOMC meeting
-(blackout: July 18–30). All three dissenting voters — Hammack (Cleveland), Kashkari
-(Minneapolis), and Logan (Dallas) — published formal written statements on July 31
-explaining their dissents. This is standard practice for Fed presidents who dissent
-at FOMC meetings. The statements constitute the first official post-FOMC communications
-from the dissenting bloc and are high analytical priority.
-
-SCORING STATUS SUMMARY
-  All three dissent statements are classified NOT SCORED — TRANSCRIPT PENDING.
-  Official transcripts could not be retrieved this run due to HTTP 403 errors from
-  all Fed regional bank websites (cloud IP block; consistent with prior runs).
-  These documents were NOT present in data/raw/ after the 5:30am GitHub Actions
-  collect run, suggesting the scraper did not discover them (they are published as
-  press releases / standalone articles rather than on the standard speech index pages).
-
-  Stub raw files saved at:
-    data/raw/speeches/2026/Beth_Hammack/20260731_Statement_on_FOMC_dissent.txt
-    data/raw/speeches/2026/Neel_Kashkari/20260731_Statement_on_FOMC_dissent.txt
-    data/raw/speeches/2026/Lorie_Logan/20260731_Statement_on_FOMC_dissent.txt
-
-  Recovery steps:
-    1. python3 main.py refetch  (from a non-blocked IP)
-    2. Direct WebFetch of each official URL listed above
-    3. Score each document as a formal dissent statement with embedded economic
-       outlook; use Type A methodology for the economic/policy sections; compare
-       to the speaker's July 16 (Logan) and June 2 (Hammack) last scored speeches
-       and to the July 29 FOMC context. For Kashkari, check Minneapolis Fed for
-       any prior dissent statement (April 29, 2026 dissent; verify if a formal
-       statement was published).
-
-NOTE ON NO-NEWS SCORING RULE
-  News coverage of all three statements is extensive (CNBC, Bloomberg, Reuters,
-  Yahoo Finance, Axios, CNN, Crain's Cleveland). In adherence to the hard rule —
-  "NEVER substitute news for a transcript" — no scored content is generated from
-  news coverage in this run. The official transcripts must be retrieved before
-  scoring can proceed.
-
-════════════════════════════════════════════════════════════════
-UPCOMING — TOMORROW: Sunday, August 2, 2026
+THE DAY IN ONE LINE
 ────────────────────────────────────────────────────────────────
-  (None confirmed) — No Federal Reserve speeches are conventionally scheduled
-  on Sundays. No appearances announced on the Fed Board events calendar or
-  regional bank pages (calendar lookup limited by 403 block on Fed sites).
+Three voters published formal statements on the same day arguing the Fed should
+be raising rates. It is the first time this cycle that a hike case has been made
+on the record by a bloc rather than an individual, and — more consequentially —
+all three moved their dissent from the Committee's WORDS to the Committee's RATE.
 
-  BROADER OUTLOOK (week of August 3–7, 2026):
-  The blackout ended July 30. Officials are free to speak August 1 onward.
-  Expect a flurry of post-FOMC appearances early in the week of August 3,
-  particularly from:
-    - The three dissenters (Hammack, Kashkari, Logan) — likely to give
-      full economic outlook speeches elaborating on their written dissents.
-    - Waller — has established a pattern of rapid post-FOMC follow-up;
-      watch for a speech expanding on his "at a crossroads" framework.
-    - Williams — typically gives post-FOMC speeches within 1–2 weeks.
-  No specific appearances confirmed at time of this run.
-  Next blackout: September 5, 2026 (pre-September 15–16 FOMC).
 ════════════════════════════════════════════════════════════════
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  BETH M. HAMMACK  |  Cleveland Fed President  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  No standalone assessment. Growth appears only as the thing a hike is meant to
+  restrain — "A higher federal funds rate would help restrain economic activity
+  and reduce inflationary pressures" — with no growth-side risk named anywhere.
+  Consistent with June 2's resilient read.
+  Direction: neutral (hawkish by implication)
+
+LABOR MARKET
+  Labor is the permission slip, not a concern: "Given the stability of the labor
+  market, with the unemployment rate near my estimate of maximum employment, I
+  view high inflation as the more pressing problem." The near-full-employment
+  framing is carry-over — it appears in her May 1 statement and her June 2 speech
+  in almost identical words, so it is not a shift.
+  Direction: neutral-to-hawkish (labor read as headroom to tighten)
+
+INFLATION
+  The decisive sentence is an attribution move against the FOMC statement itself.
+  The July 29 statement blames "supply shocks"; Hammack answers: "Supply-side
+  factors, including energy prices, have boosted inflation this year, BUT I SEE
+  INFLATIONARY PRESSURES COMING FROM THE DEMAND SIDE OF THE ECONOMY, AS WELL."
+  A pure supply diagnosis implies look-through and argues against hiking; locating
+  demand-side pressure is what makes a hike coherent. She adds new district
+  evidence — businesses describe pricing pressures "as broadening rather than
+  fading," consumers "expressing despair" — and the flat statement "I am not
+  confident it will return to our objective on its own." The "more than five
+  years" duration frame is carry-over (June 2 used "sixth year").
+  Direction: HAWKISH
+
+MONETARY POLICY
+  The hedges come off, in two matched pairs:
+    Jun 2:  "monetary policy MAY NOT BE sufficiently restrictive"
+    Jul 31: "I DID NOT SEE the current policy stance as appropriately restrictive"
+    Jun 2:  "it MAY SOON BE APPROPRIATE for policy to act"
+    Jul 31: "NOW IS THE TIME for the FOMC to act"
+  Conditional and deferred in June; unconditional and present in July. She names
+  no path beyond this meeting. Her closing line on the value of "a wide range of
+  viewpoints" is her standard dissent-statement formula (near-verbatim from
+  May 1) and carries no signal.
+  Direction: HAWKISH
+
+NET SIGNAL: HAWKISH — the dissent object moved from statement LANGUAGE (Apr 29)
+to the RATE (Jul 29), and every hedge in her June formulation was removed.
+
+vs. PRIOR SPEECH (June 2, 2026):        HAWKISH — conditional hike signal
+  converted into an executed hike vote; restrictiveness verdict de-hedged.
+vs. PRE-FOMC SPEECH (June 2, 2026):     HAWKISH — same document (no intervening
+  appearance; June 2 was her last before the blackout).
+vs. HER OWN PRIOR DISSENT (May 1):      The highest-value comparison in today's
+  set. May 1 read: "Uncertainty around the economic outlook is elevated, with
+  upside risks to inflation AND DOWNSIDE RISKS TO GROWTH AND EMPLOYMENT." The
+  July 31 statement contains no two-sided risk language at all — no uncertainty,
+  no downside risk to growth or employment. Same author, same genre, same length,
+  same purpose: her risk assessment went from explicitly two-sided to entirely
+  one-sided in three months.
+vs. COMMITTEE SINCE FOMC:               One of three dissenters sharing the full
+  argumentative template. Her distinctive contribution is district evidence —
+  the only bottom-up corroboration any of the three offers for the demand-side
+  claim. Names no path, placing her between Logan (one move) and Kashkari (a
+  series).
+
+LANGUAGE TO WATCH:
+  • "did not see the current policy stance as appropriately restrictive" — the
+    unhedged restrictiveness verdict. Stage: DISPERSED within the bloc.
+  • "pressures coming from the demand side of the economy, as well" — the
+    supply-shock exit ramp. Stage: EMERGING.
+  • "broadening rather than fading" — district pricing evidence. Watch Barkin as
+    the natural cross-check.
+  • "despair" — first use; affective escalation on the social-cost argument.
+
+ANALYST FLAG: YES — (1) the disappearance of May 1's downside-risk clause is the
+cleanest like-for-like evidence of a genuine change in her risk balance; worth
+confirming before it is treated as settled. (2) She names no path beyond July,
+leaving the September question open.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  NEEL KASHKARI  |  Minneapolis Fed President  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Absent as a topic. The only growth-adjacent content is instrumental: "The
+  massive investment in data centers has also added a new demand element to the
+  high inflation Americans are experiencing" — AI capex introduced as an
+  inflation channel, converging with Logan's July 16 framing.
+  Direction: neutral
+
+LABOR MARKET
+  No current characterization at all — no unemployment rate, no job gains, no
+  verdict. Labor appears only in a comparison to the 1970s and in a list of what
+  he will watch. Not scoreable as "unchanged"; there is nothing to compare.
+  [Inference: choosing not to characterize the labor market while voting to
+  tighten means declining to defend the employment side of the trade-off. This is
+  inferred from absence and is not stated by Kashkari.]
+  Direction: n/a
+
+INFLATION
+  He adopts the statement's own attribution and then dismantles it with two
+  modifiers: "The INITIAL cause of that inflation was, in part, A SERIES OF
+  supply shocks." Initial — so no longer operative. A series — so not the single
+  shock look-through doctrine is built for. Then the doctrinal break itself: "In
+  the face of individual supply shocks ... policymakers should 'look through' the
+  shock ... I LARGELY SUBSCRIBE TO THAT VIEW, BUT I INCREASINGLY BELIEVE that
+  monetary policy does have an important role to play in addressing a series of
+  successive supply shocks that might lead to entrenched higher inflation."
+  He is not disputing the data; he is withdrawing from the doctrine the data
+  would otherwise trigger. New and hard: the 1970s analogy — policymakers then
+  "ALSO DIAGNOSED" inflation as successive supply shocks and "ultimately
+  concluded that tight monetary policy was necessary ... DESPITE THEIR ORIGINAL
+  SUPPLY SHOCK DIAGNOSIS." That is a charge of identifiable policymaker error,
+  though he immediately hedges on severity ("the economy today is in a much, much
+  better place"). Note "increasingly believe" is a softer epistemic register than
+  Hammack's or Logan's flat verdicts.
+  Direction: HAWKISH
+
+MONETARY POLICY
+  The only multi-step path on the committee: "I would rather tighten policy
+  incrementally ... a potential series of small policy moves would be better than
+  waiting and eventually concluding that even bolder actions were necessary," with
+  a symmetric exit — "if inflation durably fades, a strategy of small policy steps
+  would allow the FOMC to slow or pause."
+  CARRY-OVER WARNING: "a series of them" is not new language — his May 1 article
+  already had "Federal funds rate increases, potentially a series of them, could
+  be warranted." But there it sat inside the ADVERSE Hormuz scenario. The change
+  is that the series has moved from the tail to the base case with no triggering
+  catastrophe required. The relocation is the signal; the phrase is not.
+  Direction: HAWKISH
+
+NET SIGNAL: HAWKISH — the largest single-document move of the three, because his
+starting point was the least committed. Dissent object moved from FORWARD
+GUIDANCE (Apr 29) to the RATE (Jul 29), with 0.25pp named.
+
+vs. PRIOR SPEECH (May 13, 2026):        HAWKISH, major. May 13 was "We just don't
+  know right now" — no forward guidance, cut signal already withdrawn. July 31 is
+  an executed hike vote plus a conditional sequence.
+vs. PRE-FOMC SPEECH (May 13, 2026):     Same document — and note this is a 77-day
+  gap with no recovered Type A in between. See analyst flag.
+vs. HIS OWN PRIOR DISSENT (May 1):      May 1 dissented against forward-guidance
+  language while supporting the hold, and reached "a series" of hikes only inside
+  a named adverse scenario. July 31 dissents on the rate and puts the series in
+  the base case. The historical parallel also changed — from the Ukraine oil shock
+  (a comparison about price mechanics) to the 1970s (a comparison about policy
+  error).
+vs. COMMITTEE SINCE FOMC:               Path-maximalist of the bloc — the only one
+  asking for a sequence — while being the most tentative in stating conviction. He
+  offers no current data assessment, which makes his the most theoretical dissent
+  and the most vulnerable to a couple of soft prints. Against that, doctrine is
+  what the minutes and statement language actually encode, so his argument is the
+  one most likely to travel.
+
+LANGUAGE TO WATCH:
+  • "a series of successive supply shocks" — the look-through exit ramp stated as
+    doctrine. Stage: EMERGING. Highest-priority phrase this cycle; it is the
+    direct antagonist of the statement's "reflecting supply shocks" clause and the
+    most likely to surface in the Aug 19 minutes.
+  • "entrenched higher inflation" — shared with Jefferson's July 16 "inflation
+    becomes entrenched." Stage: EMERGING, and notable because Jefferson is Vice
+    Chair; a Troika member using a dissent-bloc frame is the classic bottom-up
+    precursor.
+  • "a potential series of small policy moves" — Stage: DISPERSED (Kashkari
+    alone). If either other dissenter adopts it, September stops being about one
+    hike.
+  • The 1970s analogy — watch for explicit pushback from a Troika member; that
+    would tell you it landed.
+
+ANALYST FLAG: YES — (1) the 77-day baseline gap is a genuine coverage hole; his
+shift is scored against a stale prior and a targeted June–July sweep of
+Minneapolis Fed / YouTube is warranted before the magnitude is treated as settled.
+(2) He is the only dissenter arguing for a series; whether the others follow him
+past one hike is the difference between a September one-off and a tightening
+faction. (3) With no labor characterization on the record, a weak August
+employment report leaves nothing holding him to this position.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  LORIE K. LOGAN  |  Dallas Fed President  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠ This statement comes 13 days after a full Type A speech making the same
+argument. Most of its language is recycled from July 16, several formulations
+from June 3. Everything below has been checked against the July 16 scored file;
+the genuinely new content is small and is isolated explicitly.
+
+GROWTH
+  One sentence, and it is carry-over: "Labor, consumption and financial market
+  conditions indicate that monetary policy is not restraining the economy" —
+  near-verbatim from July 16 ("The labor, consumption and financial data indicate
+  that monetary policy is not restraining the economy"). The quantified evidence
+  behind it on July 16 (equities +20%, credit spreads near record tights) is
+  dropped; the conclusion is retained.
+  Direction: neutral-to-hawkish (unchanged)
+
+LABOR MARKET
+  "the job market is solid and perhaps strengthening a bit" — the distinctive
+  "perhaps ... strengthening a bit" clause is identical to July 16 ("the labor
+  market is well balanced and perhaps even strengthening a bit"). What changed is
+  placement: on July 16 labor opened its own section; here it is a subordinate
+  clause inside the sentence naming the employment mandate. She raises maximum
+  employment in order to dispose of it. July 16's two-sided qualifier — "slow to
+  fire and slow to hire ... cold comfort for anyone who needs to find a new job" —
+  does not survive, though its conclusion (easing is not the remedy) is implicit.
+  Direction: neutral-to-hawkish
+
+INFLATION
+  Her path verdict is now in its THIRD consecutive document, near-verbatim: "the
+  mid-2's, not all the way to 2 percent, and the risks are to the upside" (June 3,
+  July 16, July 31). The most durable individual forecast on the committee — and
+  promoted here to the opening sentence, so the forecast rather than the vote is
+  presented as the reason.
+  Genuinely new: a concession-and-dismiss construction — "EVEN AFTER ACCOUNTING
+  FOR PRODUCTIVITY GAINS AND TEMPORARY SUPPLY SHOCKS" the forecast still holds,
+  which grants the two strongest arguments for holding and asserts they do not
+  change the answer. All the measure-by-measure detail from July 16 (core PCE
+  3.4%, trimmed mean, the June CPI rebuttal, the Texas CEO wage anecdotes) is
+  dropped.
+  Direction: HAWKISH
+
+MONETARY POLICY
+  The vote formulation is carry-over with a number attached: July 16's "modestly
+  higher interest rates would better balance the outlook and risks" becomes "I
+  would have preferred to increase interest rates by one-quarter percentage point
+  at this week's meeting."
+  Two genuinely new elements:
+  (1) The unanticipated-shock rebuttal: "Without any policy restraint, inflation
+      will likely continue to trend above target UNTIL THERE'S AN UNANTICIPATED
+      SHOCK. The FOMC CANNOT COUNT ON UNANTICIPATED SHOCKS to achieve its goals
+      and can always adjust policy if unanticipated shocks occur." This names and
+      refutes the implicit majority position — that something will come along to
+      cool inflation — and characterizes holding as reliance on luck, with
+      reversibility built in to pre-empt the overtightening objection.
+  (2) The framework invocation: "The FOMC's policy framework, as described in the
+      statement on longer-run goals and monetary policy strategy, ALSO CALLS FOR A
+      BALANCED APPROACH to our Congressionally established ... mandates." She
+      grounds the dissent in the Committee's own standing strategy rather than in
+      her forecast — converting "I read the data differently" into "the majority
+      is in tension with our stated strategy," and invoking Congress.
+  Also notable by absence: July 16's committee-humility close ("I may persuade
+  them, they may persuade me") — the passage that led the July 16 score to treat
+  her advocacy as positioning-to-persuade rather than a dissent guarantee — has no
+  counterpart here. She offers no collegiality close at all.
+  Direction: HAWKISH
+
+NET SIGNAL: HAWKISH — but CONFIRMATION, not escalation. Her substantive position
+is where it was on July 16; the news is that she executed it.
+
+vs. PRIOR SPEECH (July 16, 2026):       UNCHANGED in direction, sharpened in
+  construction. Same forecast, same risk skew; the new material is defensive
+  (pre-empting the productivity, transitory-shock and overtightening objections)
+  rather than an escalation of the inflation read.
+vs. PRE-FOMC SPEECH (July 16, 2026):    Same document — she was the only dissenter
+  who had publicly pre-committed before the meeting.
+vs. COMMITTEE SINCE FOMC:               The hawkish anchor and the most
+  institutionally framed of the three: Hammack argues from district evidence,
+  Kashkari from doctrine and history, Logan from the Committee's own strategy
+  document. Like Hammack and unlike Kashkari, she asks for one move.
+
+LANGUAGE TO WATCH:
+  • "cannot count on unanticipated shocks to achieve its goals" — the cleanest
+    one-line attack on the hold position this cycle. Stage: DISPERSED (first use);
+    quotable enough to travel.
+  • "the statement on longer-run goals ... calls for a balanced approach" —
+    framework-fidelity argument. Stage: DISPERSED but high-consequence: a second
+    adopter would escalate the disagreement from a policy judgment to a question
+    about whether the Committee is following its own strategy.
+  • "trending toward the mid-2's, not all the way to 2 percent" — third
+    consecutive document; entrenched as her signature.
+
+ANALYST FLAG: YES — (1) the framework invocation, not the vote, is the escalation
+to watch; it is harder for the Chair to absorb quietly than a forecast dispute.
+(2) Logan's view did NOT move between July 16 and July 31 — treating this
+statement as fresh hawkish information would double-count a position already
+priced from July 16. The new information today is Hammack's and Kashkari's, whose
+baselines were June 2 and May 13.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — three statements, one template
+────────────────────────────────────────────────────────────────
+These were published the same day by three officials at three banks. The
+convergence is close enough to be worth reading as a coordinated case rather than
+three coincidences.
+
+1. ALL THREE ESCALATED FROM LANGUAGE TO RATE. On April 29 all three dissented
+   about the statement's easing-bias wording while supporting the rate decision.
+   That language was removed on June 17 — they won. Having won the wording fight,
+   all three moved the objection to the rate itself at the next attended meeting.
+   This is the single most important structural fact of the cycle: the dispute has
+   exhausted the space the Chair can settle by editing the statement.
+
+2. ALL THREE MADE A DEMAND-SIDE MOVE, BY DIFFERENT ROUTES. The July 29 statement
+   attributes inflation to "supply shocks," and a supply-only diagnosis implies
+   look-through — which argues against hiking. Each dissenter had to get past it:
+     Hammack:  "inflationary pressures coming from the demand side ... as well"
+     Kashkari: data-center investment "added a new demand element"; and a series
+               of shocks is not the case look-through is built for
+     Logan:    "even after accounting for ... temporary supply shocks," the
+               forecast still misses
+   Three routes, one destination. This is the load-bearing claim for all three and
+   the direct contradiction of the statement's own attribution clause.
+
+3. ALL THREE RAN THE SAME COST-OF-WAITING ARGUMENT, near-verbatim:
+     Hammack:  "The longer that high inflation persists, the more challenging and
+                costly it can be to bring it back down."
+     Kashkari: "better than waiting and eventually concluding that even bolder
+                actions were necessary."
+     Logan:    "Modest action in the near term would reduce the likelihood of
+                needing to take sharper action later."
+   Stage: COMMITTEE-WIDE WITHIN THE DISSENT BLOC; absent from the statement. The
+   most likely of the shared formulations to surface in the Aug 19 minutes.
+
+4. ALL THREE USED THE FIVE-YEAR DURATION FRAME ("more than five years"). This is
+   long-established carry-over across Hammack, Logan, Kashkari and Barkin and
+   carries no new signal on its own — noted here only so its ubiquity today is not
+   mistaken for fresh convergence.
+
+WHERE THEY DIVERGE — the September question:
+   Logan and Hammack ask for one move; Kashkari asks for a SERIES. Nothing
+   published today resolves whether the bloc converges on a path. That, not the
+   fact of the dissent, is what determines whether September is a one-off or the
+   start of a tightening sequence.
+
+CALIBRATING THE SIGNAL — what is actually new:
+   Logan's dissent was fully pre-announced on July 16 and adds no new substantive
+   position; reading it as fresh hawkish information double-counts. The genuinely
+   new information is Hammack's (last seen June 2, conditional) and Kashkari's
+   (last seen May 13, agnostic). Two of three dissenters moved materially during
+   the blackout, unobserved.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Saturday, August 1, 2026
+────────────────────────────────────────────────────────────────
+  (None confirmed) — no Federal Reserve appearances are scheduled for Saturday.
+  Blackout ended July 30; officials are free to speak from August 1.
+
+  Next confirmed appearances (Fed Board calendar):
+    Tue Aug 4, 12:45pm ET — Bowman (Vice Chair for Supervision), fireside chat,
+      2026 CEO & Senior Management Summit and Annual Meeting (virtual)
+    Wed Aug 5, 4:05pm local — Cook (Governor), "Economic Outlook," AEDC 2026
+      Economic Luncheon, Anchorage, Alaska
+  Also scheduled: Wed Aug 19, 2:00pm ET — FOMC minutes, July 28–29 meeting.
+  Next blackout begins September 5 (pre-September 15–16 FOMC, a projection
+  meeting with SEP).
+
+════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Statements this date:
-  Hammack (July 31, 2026):  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
-    [UNVERIFIED — URL inferred from Cleveland Fed pattern; transcript not retrieved]
-  Kashkari (July 31, 2026): https://www.minneapolisfed.org/article/2026/why-i-dissented
-    [UNVERIFIED — URL from search index; transcript not retrieved]
-  Logan (July 31, 2026):    https://www.dallasfed.org/news/releases/2026/nr260731dissent
-    [UNVERIFIED — URL from search index; transcript not retrieved]
+Statements this date (all retrieved live, HTTP 200, verified at source):
+  Hammack  Jul 31, 2026:  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+  Kashkari Jul 31, 2026:  https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+  Logan    Jul 31, 2026:  https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
+Prior speech / pre-FOMC baseline:
+  Hammack  Jun 2, 2026:   https://doi.org/10.26509/sp-20260602
+  Kashkari May 13, 2026:  https://www.youtube.com/watch?v=MWjLIaLu5vw
+  Logan    Jul 16, 2026:  https://www.dallasfed.org/news/speeches/logan/2026/lkl260716
+
+Prior dissent statements (April 28–29 meeting, structural comparators):
+  Hammack  May 1, 2026:   https://www.clevelandfed.org/collections/speeches/2026/sp-20260501-statement-regarding-april-fomc-meeting-vote
+  Kashkari May 1, 2026:   https://www.minneapolisfed.org/article/2026/why-i-dissented
 
 Reference FOMC (July 29, 2026):
-  Statement:      https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
-  Press conf:     https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
-  Full canonical: data/reports/daily/20260729_daily.txt
+  Statement:  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Diff:       data/reports/fomc/20260729_statement_diff.txt
 ════════════════════════════════════════════════════════════════

@@ -3,6 +3,14 @@ CHANNEL: Federal Reserve (official)
 DATE: July 29, 2026
 EVENT: FOMC Press Conference — Chair Kevin Warsh (second press conference as Chair)
 
+⚠ SUPERSEDED — 2026-08-03. This file is MEDIA-DERIVED, not a transcript, and
+violates the hard rule in CLAUDE.md ("never build a raw or scored file out of
+media coverage"). Its rendering of the FOMC statement is wrong: it reports
+"somewhat elevated" and "also reaffirmed"; the official text reads "elevated"
+and "is continuing". Use data/raw/pressconferences/20260729_pressconf_transcript.txt
+(official Fed preliminary transcript) instead. Retained for audit only — do not
+score from this file.
+
 PROVISIONAL — TRANSCRIPT RECONSTRUCTION NOTE:
 YouTube auto-transcript extraction failed (yt-dlp returned no results for the official Fed channel video).
 Official preliminary PDF also returned HTTP 403 (federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf).

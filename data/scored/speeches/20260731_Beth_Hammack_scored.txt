@@ -1,0 +1,298 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-07-31 | Beth M. Hammack | Cleveland Fed President | Just Voter
+"Statement from Federal Reserve Bank of Cleveland president Beth Hammack regarding
+ her vote at the Federal Open Market Committee's July 28–29 meeting"
+Written statement published by the Federal Reserve Bank of Cleveland
+SOURCE: https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+
+CLASSIFICATION: Formal FOMC dissent statement — compressed Type A. Four short
+  paragraphs: policy verdict → inflation diagnosis → labor/trade-off →
+  collegiality close. No growth section of its own. Scored against the Type A
+  topic structure; GROWTH is treated as embedded in the inflation/demand
+  discussion.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+                   Logan dissenting in favor of a 25bp HIKE; statement text
+                   frozen vs. June 17 apart from "reaffirmed" → "is continuing")
+PRE-FOMC BASELINE: June 2, 2026  "It Takes Two to Make an Economy Go Right"
+                   (City Club of Cleveland; scored at
+                   data/scored/speeches/20260602_Beth_Hammack_scored.txt)
+POST-FOMC PRIOR:   N/A — this is Hammack's first post-July-29 communication.
+PRIOR DISSENT STATEMENT (structural comparator, not a speech):
+                   May 1, 2026  "Statement regarding her vote at the April 28–29,
+                   2026 FOMC meeting" (scored at
+                   data/scored/speeches/20260501_Beth_Hammack_scored.txt)
+──────────────────────────────────────────────────────────
+
+THE STRUCTURAL FACT — WHAT KIND OF DISSENT THIS IS
+──────────────────────────────────────────────────────────
+Hammack has now dissented at two consecutive attended meetings, but the OBJECT of
+the dissent changed:
+
+  Apr 29 (May 1 stmt):  "I supported holding the federal funds rate steady. I
+                        dissented from the post-meeting statement because I did
+                        not believe it was appropriate to include an easing bias"
+                        → a dissent about LANGUAGE. She backed the rate decision.
+
+  Jul 29 (Jul 31 stmt): "I dissented in favor of raising the federal funds rate."
+                        → a dissent about the RATE ITSELF.
+
+That is the escalation rung, and it is unambiguous in her own words. A statement-
+language dissent costs the Chair nothing structurally; a rate dissent is a
+recorded vote against the policy action. Note also that the July statement was
+the one she had wanted all along — the easing-bias language she objected to in
+April was already gone by June 17. Having won the language fight, she moved the
+objection to the level of the rate.
+
+──────────────────────────────────────────────────────────
+GROWTH
+──────────────────────────────────────────────────────────
+No standalone growth assessment — the statement is too compressed. Growth appears
+only instrumentally, as the thing a hike is supposed to restrain:
+
+Own language:
+  "A higher federal funds rate would help restrain economic activity and reduce
+   inflationary pressures."
+  → Growth is treated as sufficiently robust that restraining it is a cost worth
+    paying, and no growth-side risk is named anywhere in the statement.
+
+Shift vs. prior speech (Jun 2):  UNCHANGED — June 2's read was RESILIENT
+  ("expectations for solid activity in coming months"); nothing here contradicts
+  it, and the willingness to restrain activity presumes it.
+Shift vs. pre-FOMC (Jun 2):      UNCHANGED — same document, same read.
+
+Direction: neutral (hawkish by implication).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Jul 29 stmt]
+  → Hammack does not echo the job-gains clause at all. She renders the labor side
+    purely as an unemployment-rate level judgment.
+
+Own verdict:
+  "Given the stability of the labor market, with the unemployment rate near my
+   estimate of maximum employment, I view high inflation as the more pressing
+   problem."
+  → The labor market is not an object of concern; it is the PERMISSION SLIP. The
+    sentence is constructed so that labor stability is the premise and
+    inflation-primacy is the conclusion. This is the same "full employment"
+    framing she has run since May 1 — the phrasing moves from "my definition of
+    full employment" (Jun 2) to "my estimate of maximum employment" (Jul 31),
+    which is the statutory term, not a change in substance.
+
+  [Carry-over check: the near-full-employment characterization appears in the
+   May 1 statement ("little changed near my estimate of full employment since
+   last summer") and June 2 ("right around my definition of full employment").
+   It is NOT new and must not be read as a shift.]
+
+Shift vs. prior speech (Jun 2):  UNCHANGED — same level judgment, same absence
+  of any softening or downside-risk language.
+Shift vs. pre-FOMC (Jun 2):      UNCHANGED.
+
+Direction: neutral-to-hawkish (labor deployed as headroom to tighten).
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in part
+   reflecting supply shocks that have driven price increases in certain sectors,
+   including energy." [Jul 29 stmt — verbatim unchanged from June 17]
+  → Hammack accepts the first half and then explicitly refuses the sufficiency of
+    the second half. This is the analytical core of the document (see below).
+
+Own language — KEY (the demand-side bridge):
+  "Supply-side factors, including energy prices, have boosted inflation this
+   year, but I see inflationary pressures coming from the demand side of the
+   economy, as well."
+  → THE DECISIVE MOVE. The committee statement attributes inflation to supply
+    shocks. A pure supply diagnosis implies look-through and argues AGAINST
+    hiking. By locating pressure on the demand side, Hammack re-establishes the
+    channel monetary policy can actually address — which is what makes a hike
+    coherent rather than self-defeating. Everything else in the statement rests
+    on this sentence.
+  → Relative to June 2 this is a sharpening, not an invention: June 2 already ran
+    the "services ex-housing has been stuck for two years, less impacted by
+    tariffs and energy" argument, which is the same claim made structurally.
+    July 31 states the conclusion directly and in the statement's own vocabulary.
+
+Own language — duration and self-correction:
+  "Inflation has remained stubbornly above 2 percent for more than five years,
+   and I am not confident it will return to our objective on its own."
+  → Two components. The duration argument ("more than five years") is carry-over
+    — June 2 used "sixth year of elevated inflation," and the same framing runs
+    through Logan, Kashkari and Barkin. NOT new.
+  → "I am not confident it will return to our objective on its own" IS new as an
+    explicit formulation from Hammack, and it is the precise negation of the
+    look-through case. Compare Logan's July 31 "Inflation does not appear to be
+    on course to sustainably achieve the ... 2 percent target" — the same
+    proposition, arrived at independently, on the same day.
+
+Own language — district evidence (new, and unusually vivid):
+  "What I have heard from across the Fourth Federal Reserve District reinforces
+   this view: Businesses describe pricing pressures as broadening rather than
+   fading, and consumers are expressing despair over persistently higher prices."
+  → "broadening rather than fading" is the on-the-ground version of the demand-
+    side claim and directly contradicts a transitory-supply-shock read.
+  → "despair" is the strongest affective word Hammack has used about inflation in
+    any 2026 document. It carries the social-cost argument that Logan introduced
+    on July 16 ("compounded the strain on Americans' budgets"). Anecdotal by
+    construction — flagged as district color, not data — but it is doing real
+    rhetorical work.
+
+Cost-of-waiting:
+  "The longer that high inflation persists, the more challenging and costly it
+   can be to bring it back down."
+  → Carry-over in substance from June 2's Volcker framing ("if we wait for
+    definitive evidence ... it may require larger policy adjustments, at greater
+    cost"), compressed to one line. NOT new; now shared near-verbatim with both
+    other dissenters (see cross-speaker note in the daily report).
+
+Shift vs. prior speech (Jun 2):  HAWKISH LEAN — June 2 was already alarmed
+  ("too high and is moving higher"). July 31 does not escalate the intensity
+  adjectives; it escalates the ATTRIBUTION, moving demand-side pressure from an
+  implication of the services-ex-housing argument to a stated finding, and adds
+  district evidence of broadening.
+Shift vs. pre-FOMC (Jun 2):      HAWKISH LEAN — same, that being the same
+  document.
+
+Direction: HAWKISH.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee will deliver price stability." [Jul 29 stmt]
+  → Hammack: "deliver on our commitment to price stability for the American
+    people" — she adopts the Committee's own verb ("deliver") and then uses it
+    as the standard the Committee is failing to meet. The statement's language is
+    turned into the indictment.
+
+Own language — KEY (the hedge comes off):
+  Jun 2:  "monetary policy MAY NOT BE sufficiently restrictive to bring inflation
+          down to 2 percent in a timely fashion"
+  Jul 31: "I did not see the current policy stance as APPROPRIATELY RESTRICTIVE."
+  → Modal hedge ("may not be") → flat past-tense finding ("did not see"). The
+    proposition is the same; the epistemic status changed from a concern she was
+    weighing to a judgment she acted on.
+
+  Jun 2:  "if recent data trends continue, it MAY SOON BE APPROPRIATE for policy
+          to act"
+  Jul 31: "NOW IS THE TIME for the FOMC to act to speed the return of PCE
+          inflation to our 2 percent objective"
+  → Conditional + deferred ("if ... may soon") → unconditional + present ("now is
+    the time"). The June 2 condition was "if recent data trends continue"; the
+    July 31 statement is the confirmation that, in her reading, they did.
+
+  Magnitude and timing:
+  "I preferred to move at our recent meeting" / [per the July 29 statement] a
+  25bp increase.
+  → Note the statement itself supplies the magnitude; Hammack's own text does not
+    name 25bp. She names no path beyond this meeting — no series, no terminal
+    rate. This is narrower than Kashkari, who explicitly contemplates a sequence.
+
+  Hike signal:  PRESENT AND EXECUTED — no longer conditional. First affirmative
+                hike dissent of Hammack's tenure.
+  Cut signal:   ABSENT (and has been since Apr 29).
+
+Collegiality close — CARRY-OVER, do not read as a signal:
+  "A wide range of viewpoints is critical to any deliberative process, and I
+   appreciate the robustness of our monetary policy discussions."
+  → Near-verbatim from May 1: "A wide range of viewpoints is a cornerstone of our
+    robust policy process." This is Hammack's standard dissent-statement closing
+    formula. It is boilerplate and carries no directional content. Flagged here
+    only because its similarity to Warsh's "good family fight" framing at the
+    July 29 press conference could otherwise invite over-reading.
+
+Scenario framing (per CLAUDE.md precision rule): NEITHER named nor descriptive —
+  this document contains no scenario analysis at all, unlike June 2, which ran
+  two explicit named scenarios. A dissent statement is a verdict, not a forecast.
+  The absence is a feature of the genre, not a signal.
+
+Shift vs. prior speech (Jun 2):  HAWKISH — conditional hike signal converted to
+  an executed hike dissent; restrictiveness hedge removed.
+Shift vs. pre-FOMC (Jun 2):      HAWKISH — same.
+
+Direction: HAWKISH.
+
+──────────────────────────────────────────────────────────
+WHAT DISAPPEARED — the highest-value comparison
+──────────────────────────────────────────────────────────
+Against the May 1 dissent statement, one clause is conspicuously gone:
+
+  May 1:  "Uncertainty around the economic outlook is elevated, with upside risks
+           to inflation AND DOWNSIDE RISKS TO GROWTH AND EMPLOYMENT."
+  Jul 31: no two-sided risk language of any kind. No mention of uncertainty. No
+           downside risk to growth or employment anywhere in the document.
+
+Hammack's risk assessment has gone from explicitly two-sided to entirely
+one-sided in three months. Given that both documents are the same genre, by the
+same author, at the same length, written for the same purpose, this is a clean
+comparison rather than an artifact of format. It is the single clearest evidence
+in the statement that her dissent reflects a changed view of the balance of
+risks, not merely impatience.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — escalation from the June 2 pre-FOMC baseline, and a
+               change in kind from the May 1 dissent.
+               (1) Dissent object moves from statement LANGUAGE (Apr 29) to the
+                   RATE ITSELF (Jul 29);
+               (2) "may not be sufficiently restrictive" → "did not see the
+                   current policy stance as appropriately restrictive" — hedge
+                   removed;
+               (3) "may soon be appropriate to act" → "now is the time ... to
+                   act" — condition and delay both removed;
+               (4) Demand-side inflation stated as a finding, which is what makes
+                   hiking through a supply shock coherent;
+               (5) Two-sided risk language present on May 1 is entirely absent.
+               No path guidance beyond this meeting — narrower than Kashkari.
+
+Position relative to committee:
+  Hammack is one of three hike dissenters and shares the bloc's full argumentative
+  template (five-year duration, cost of waiting, demand-side attribution,
+  labor-as-headroom). Her distinctive contribution is district evidence —
+  "broadening rather than fading" — which is the only bottom-up corroboration any
+  of the three offers for the demand-side claim. She names no rate path, which
+  places her between Logan (a single "modest action") and Kashkari (an explicit
+  series).
+
+Language watch:
+  • "did not see the current policy stance as appropriately restrictive" — the
+    unhedged restrictiveness verdict. Stage: DISPERSED within the dissent bloc
+    (Logan's "not restraining the economy" is the same claim). Watch for any
+    majority voter conceding the point; that is the leading indicator that the
+    statement's characterization of policy is under pressure.
+  • "pressures coming from the demand side of the economy, as well" — the
+    supply-shock exit ramp. Stage: EMERGING — all three dissenters made a
+    demand-side move on the same day by different routes. If a Troika member
+    concedes a demand component, the statement's "reflecting supply shocks"
+    attribution becomes the next thing to change.
+  • "broadening rather than fading" — district-level pricing evidence.
+    Stage: DISPERSED. Watch Barkin, whose business intelligence is the natural
+    cross-check and who is not a voter.
+  • "not confident it will return to our objective on its own" — the negation of
+    look-through. Stage: EMERGING (Logan same day, different words).
+  • "despair" — affective escalation; first use. Watch whether the social-cost
+    register spreads beyond the dissent bloc.
+
+Analyst flag:  YES
+  → (1) The disappearance of May 1's "downside risks to growth and employment"
+    is the cleanest like-for-like evidence of a genuine change in Hammack's risk
+    balance. Worth confirming the analyst reads it the same way before it is
+    treated as settled.
+  → (2) Hammack names no path beyond July. Whether she wants one hike or a
+    sequence is unresolved and materially changes the September math. Her next
+    Type A speech is the place to look; she has no confirmed appearance yet.
+  → (3) The demand-side attribution is now the load-bearing claim for all three
+    dissenters, and it is the direct contradiction of the statement's own
+    "reflecting supply shocks" language. The July 28–29 minutes (released
+    August 19) will show how many non-dissenting participants share it — that is
+    the highest-value read on whether 9–3 is stable or a floor.
+══════════════════════════════════════════════════════════

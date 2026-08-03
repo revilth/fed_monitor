@@ -1,5 +1,28 @@
 FOMC PRESS CONFERENCE (PROVISIONAL) - July 29, 2026
 
+╔══════════════════════════════════════════════════════════════╗
+║ ⚠ CORRECTION — issued 2026-08-03. READ BEFORE USING.         ║
+╚══════════════════════════════════════════════════════════════╝
+Built from media coverage after the Fed CDN returned HTTP 403, and wrong on the
+statement text it repeatedly analyses:
+
+  CLAIMED (void):  "elevated" → "somewhat elevated", called "the sole substantive
+                   word change" and read as a dovish gesture.
+  ACTUAL:          "Inflation remains ELEVATED..." — unchanged from June 17.
+                   Verified against the official press release and the official
+                   press-conference transcript.
+  CLAIMED (void):  "The Committee also reaffirmed its policy of maintaining ample
+                   reserves."
+  ACTUAL:          "The Committee IS CONTINUING its policy..." — the only textual
+                   change in the July 29 statement.
+
+Every passage below turning on "somewhat elevated" is void, including the
+inflation direction call and the market-reaction interpretation.
+Superseded by: data/reports/fomc/20260729_statement_diff.txt (built from the
+official text) and data/reports/fomc/20260729_pressconf_opening_statement.txt
+(official Fed preliminary transcript). Retained for audit only.
+────────────────────────────────────────────────────────────────
+
 PROVISIONAL — based on the auto-transcript; key exact quotes will be verified against
 the official transcript in the next morning's daily report.
 

@@ -1,0 +1,288 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-07-31 | Lorie K. Logan | Dallas Fed President | Just Voter
+"Statement from Dallas Fed President Lorie Logan on FOMC dissent"
+News release published by the Federal Reserve Bank of Dallas
+SOURCE: https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
+CLASSIFICATION: Formal FOMC dissent statement — compressed Type A. Four
+  paragraphs: inflation path → risk balance and labor → policy stance → framework
+  and the vote. Structurally a condensation of her July 16 speech, with one new
+  argument (the unanticipated-shock rebuttal) and one new institutional move
+  (invoking the framework document).
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+                   Logan dissenting in favor of a 25bp HIKE)
+PRE-FOMC BASELINE: July 16, 2026  "Remarks on inflation, employment and monetary
+                   policy" (Dallas Fed Houston Branch; scored at
+                   data/scored/speeches/20260716_Lorie_Logan_scored.txt)
+POST-FOMC PRIOR:   N/A — first post-July-29 communication.
+PRIOR DISSENT STATEMENT (structural comparator):
+                   May 1, 2026 (Apr 28–29 meeting; scored at
+                   data/scored/speeches/20260501_Lorie_Logan_scored.txt)
+
+⚠ CARRY-OVER DISCIPLINE: this statement is only 13 days after a full Type A
+  speech by the same speaker making the same argument. Most of its language is
+  recycled from July 16 and several formulations go back to June 3. Every phrase
+  below has been checked against the July 16 scored file before being labelled.
+  The genuinely new content is small and is isolated explicitly.
+──────────────────────────────────────────────────────────
+
+THE STRUCTURAL FACT — WHAT KIND OF DISSENT THIS IS
+──────────────────────────────────────────────────────────
+  Apr 29:  dissented against the easing-bias LANGUAGE (with Hammack and Kashkari).
+  Jul 29:  "I would have preferred to increase interest rates by one-quarter
+           percentage point at this week's meeting."  → the RATE itself.
+
+Logan is the one dissenter whose July vote was fully pre-announced: on July 16 she
+had already stated hike advocacy as a current base case. The dissent is the
+execution of a position taken in public 13 days earlier, not a new development —
+which makes what CHANGED between the two documents the only interesting question.
+
+──────────────────────────────────────────────────────────
+GROWTH
+──────────────────────────────────────────────────────────
+No standalone growth section. Growth appears once, folded into the policy-stance
+argument:
+
+  "Labor, consumption and financial market conditions indicate that monetary
+   policy is not restraining the economy."
+  → CARRY-OVER, near-verbatim from July 16: "The labor, consumption and financial
+    data indicate that monetary policy is not restraining the economy." Same three
+    categories, same conclusion. "data" → "conditions" is not a substantive edit.
+    NOT a new claim and must not be scored as one.
+
+  Dropped vs. July 16: the quantified financial-conditions evidence (equities
+  +20% over the year, credit spreads "close to the tightest they've ever been")
+  and the AI-productivity discussion are both absent. Compression, not retreat —
+  the conclusion they supported is retained verbatim.
+
+Shift vs. pre-FOMC (Jul 16):  UNCHANGED.
+
+Direction: neutral-to-hawkish (unchanged from Jul 16).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Jul 29 stmt]
+  → Logan does not echo it. She substitutes her own verdict.
+
+Own verdict:
+  "In addition to its inflation target, the FOMC has a mandate to achieve maximum
+   employment; the job market is solid and perhaps strengthening a bit."
+  → CARRY-OVER from July 16: "the labor market is well balanced and perhaps even
+    strengthening a bit." The distinctive "perhaps ... strengthening a bit" clause
+    is identical. "Well balanced" → "solid" is a marginal firming at most and
+    should not be read as a directional shift on its own.
+  → What IS different is the placement: on July 16 the labor verdict opened a
+    section of its own; here it is a subordinate clause inside the sentence that
+    names the employment mandate. Logan raises maximum employment precisely in
+    order to dispose of it — the labor side is introduced as an obligation and
+    answered in the same breath.
+
+Dropped vs. July 16: the two-sided qualifier is gone. July 16 contained "companies
+  are both slow to fire and slow to hire ... it's cold comfort for anyone who needs
+  to find a new job. These are real difficulties, but not ones that easier monetary
+  policy can fix." The acknowledgment of worker-level pain does not survive into
+  the dissent statement, though its conclusion (easing is not the remedy) is
+  implicitly retained.
+  → [Inference: this is compression consistent with the genre rather than a change
+    of view — she reached the same policy conclusion on July 16 with the qualifier
+    present. Flagged as an inference, not scored as a hawkish shift.]
+
+Shift vs. pre-FOMC (Jul 16):  UNCHANGED — same verdict, same distinctive clause,
+  subordinated in position.
+
+Direction: neutral-to-hawkish.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in part
+   reflecting supply shocks ..." [Jul 29 stmt]
+  → Logan engages the supply-shock attribution head-on and dismisses it by
+    concession (see "Even after accounting for" below) rather than, like Kashkari,
+    by re-theorising it.
+
+Path verdict — CARRY-OVER, now in the first sentence:
+  "Inflation does not appear to be on course to sustainably achieve the Federal
+   Open Market Committee's 2 percent target."
+  and
+  "inflation appears to be trending toward the mid-2's, not all the way to 2
+   percent, and the risks are to the upside."
+  → The "mid-2's, not all the way to 2 percent" forecast is now in its THIRD
+    consecutive document — June 3, July 16, July 31 — in nearly identical words.
+    This is the most durable individual forecast on the committee. NOT new.
+    Its promotion to the opening sentence of the dissent is a framing choice: the
+    forecast, not the vote, is presented as the reason.
+
+Duration and social cost — CARRY-OVER:
+  "More than five years after the post-pandemic surge, prices have continued to
+   rise too rapidly. Every month of above-target inflation compounds the strain on
+   the budgets of American families and businesses."
+  → July 16: "Every month of above-target inflation has compounded the strain on
+    Americans' budgets." Present tense now, and extended from households to "and
+    businesses." A small widening; the argument is unchanged. The "more than five
+    years" duration frame is shared with both other dissenters.
+
+NEW — the concession-and-dismiss construction:
+  "EVEN AFTER ACCOUNTING FOR PRODUCTIVITY GAINS AND TEMPORARY SUPPLY SHOCKS,
+   inflation appears to be trending toward the mid-2's ..."
+  → This clause is new. It pre-empts the two strongest arguments for holding —
+    that AI productivity will disinflate, and that the energy shock is transitory
+    — by granting both and asserting the forecast survives them anyway. On July 16
+    she argued against the productivity case at length (uncertain timing, demand
+    effects arrive first); here she simply nets it out. Rhetorically stronger and
+    much shorter.
+
+NEW — the unanticipated-shock rebuttal (the most substantive addition):
+  "Without any policy restraint, inflation will likely continue to trend above
+   target UNTIL THERE'S AN UNANTICIPATED SHOCK. The FOMC CANNOT COUNT ON
+   UNANTICIPATED SHOCKS to achieve its goals and can always adjust policy if
+   unanticipated shocks occur."
+  → Genuinely new; no antecedent in July 16 or June 3. It names and refutes the
+    implicit majority position — that something will come along to cool inflation
+    without the Committee having to act — and characterises holding as relying on
+    luck. The second half ("can always adjust policy if unanticipated shocks
+    occur") is the reversibility argument, pre-empting the overtightening
+    objection. Compare Kashkari's more explicit version of the same pre-emption.
+
+Dropped vs. July 16: all of the measure-by-measure detail — core PCE 3.4%, Dallas
+  Fed trimmed mean 2.4%, NY Fed multivariate core trend, market-based non-housing
+  core services, the June CPI rebuttal ("one month of relief is not enough"), the
+  Texas CEO wage anecdotes. The dissent statement asserts the conclusion those
+  measures supported without restating them.
+
+Shift vs. pre-FOMC (Jul 16):  UNCHANGED in direction, SHARPENED in construction.
+  Same forecast, same risk skew; the new material is defensive (pre-empting the
+  productivity, transitory-shock and overtightening objections) rather than an
+  escalation of the inflation read itself.
+
+Direction: HAWKISH.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee will deliver price stability." [Jul 29 stmt]
+  → Not quoted. Logan instead reaches past the statement to the framework document
+    (see below) — a more binding reference.
+
+Own language — the vote:
+  "To better balance the outlook and risks for the Fed's dual mandate goals, I
+   would have preferred to increase interest rates by one-quarter percentage point
+   at this week's meeting."
+  → CARRY-OVER of the operative formulation, now with a magnitude. July 16: "I
+    currently believe modestly higher interest rates would better balance the
+    outlook and risks for the FOMC's maximum employment and price stability
+    goals." The "better balance the outlook and risks ... dual mandate" phrasing is
+    hers across both documents. What is new is only the quantity — "modestly" →
+    "one-quarter percentage point" — and the tense.
+
+Cost-of-waiting — CARRY-OVER:
+  "Modest action in the near term would reduce the likelihood of needing to take
+   sharper action later."
+  → July 16: "Better modest restriction now than severe restriction later." Same
+    argument, restated in flatter prose. Shared near-verbatim with Hammack and
+    Kashkari on the same day.
+
+NEW — the framework invocation (institutional escalation):
+  "The FOMC's policy framework, as described in the statement on longer-run goals
+   and monetary policy strategy, ALSO CALLS FOR A BALANCED APPROACH to our
+   Congressionally established price stability and maximum employment mandates."
+  → New, and the most consequential addition in the document. Logan grounds the
+    dissent in the Committee's own standing framework rather than in her forecast,
+    which converts "I read the data differently" into "the majority's decision is
+    in tension with our stated strategy." She also invokes Congress. This is a
+    materially higher-stakes register than anything in her July 16 speech, and it
+    is the sort of argument that is designed to be quoted back in the minutes.
+
+GONE — the committee-humility close:
+  July 16 ended: "Neither I nor any other single person makes monetary policy on
+  their own ... I'll bring my best evidence, analysis and arguments ... I may
+  persuade them, they may persuade me." That passage was the reason the July 16
+  score treated her hike advocacy as positioning-to-persuade rather than a dissent
+  guarantee.
+  → It has no counterpart on July 31. There is no collegiality close at all —
+    a notable contrast with Hammack, whose closing formula ("a wide range of
+    viewpoints is critical to any deliberative process") is standard for her, and
+    which Logan does not offer. She did not persuade them, and the statement does
+    not soften the disagreement.
+
+  Hike signal:  PRESENT AND EXECUTED, magnitude named (25bp), meeting named.
+                No path beyond this meeting — "near term" is as far as she goes.
+  Cut signal:   ABSENT.
+
+Scenario framing (per CLAUDE.md precision rule): DESCRIPTIVE. No named scenarios;
+  the closest thing is the unanticipated-shock passage, which is a rebuttal rather
+  than a scenario with an attached policy response.
+
+Shift vs. pre-FOMC (Jul 16):  HAWKISH in execution, UNCHANGED in stated position.
+  The July 16 advocacy became a vote; the escape hatch she had left herself
+  ("they may persuade me") was not used and is not renewed.
+
+Direction: HAWKISH.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — but this is CONFIRMATION, not escalation, and the
+               distinction matters for forecasting. Logan's substantive position
+               is where it was on July 16; the news is that she executed it.
+               (1) Hike advocacy → recorded dissent, with 25bp named;
+               (2) The "mid-2's, not all the way to 2 percent" forecast now runs
+                   three consecutive documents unchanged — the committee's most
+                   durable individual forecast;
+               (3) NEW: "cannot count on unanticipated shocks" — names and refutes
+                   the hold case as reliance on luck, with reversibility built in;
+               (4) NEW: the framework document invoked — recasting the dissent as
+                   a fidelity-to-strategy argument rather than a forecast dispute;
+               (5) The July 16 "they may persuade me" humility close is gone.
+               Most of the rest is verbatim or near-verbatim carry-over and
+               carries no independent signal.
+
+Position relative to committee:
+  Logan remains the hawkish anchor and is the only dissenter who had publicly
+  pre-committed to the position before the meeting. Her statement is the most
+  institutionally framed of the three: Hammack argues from district evidence,
+  Kashkari from doctrine and history, Logan from the Committee's own strategy
+  document. Like Hammack and unlike Kashkari, she asks for one move, not a series.
+
+Language watch:
+  • "cannot count on unanticipated shocks to achieve its goals" — the cleanest
+    one-line attack on the hold position produced this cycle. Stage: DISPERSED
+    (first use). Watch for uptake by Hammack or in the minutes; it is quotable
+    enough to travel.
+  • "the statement on longer-run goals and monetary policy strategy ... calls for
+    a balanced approach" — framework-fidelity argument. Stage: DISPERSED, but
+    high-consequence: if a second dissenter adopts it, the disagreement is being
+    escalated from a policy judgment to a question about whether the Committee is
+    following its own strategy. Track closely.
+  • "trending toward the mid-2's, not all the way to 2 percent" — third
+    consecutive document. Stage: DISPERSED but entrenched as Logan's signature.
+    The proposition (though not the words) is now shared with Hammack's "not
+    confident it will return to our objective on its own."
+  • "modest action ... rather than sharper action later" — cost-of-waiting, shared
+    near-verbatim with both other dissenters. Stage: COMMITTEE-WIDE WITHIN THE
+    DISSENT BLOC; absent from the statement. This is the bloc's common template
+    and the most likely candidate to surface in the Aug 19 minutes.
+
+Analyst flag:  YES
+  → (1) The framework invocation is the escalation to watch, not the vote. Logan
+    is arguing the majority is out of step with the Committee's own strategy
+    statement — a qualitatively different claim from "I forecast differently," and
+    one that is harder for the Chair to absorb quietly. Worth deciding whether
+    this reads as a genuine institutional escalation or as boilerplate framework
+    citation before it is treated as the former.
+  → (2) Logan's substantive view did NOT move between July 16 and July 31. Any
+    read that treats the dissent statement as fresh hawkish information would be
+    double-counting a position already priced from July 16. The new information is
+    Hammack's and Kashkari's, whose pre-FOMC baselines were June 2 and May 13.
+  → (3) She asks for one move and stops. Kashkari asks for a series. Whether the
+    bloc converges on a path is the September question, and nothing in Logan's
+    statement resolves it.
+══════════════════════════════════════════════════════════

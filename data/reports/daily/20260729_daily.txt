@@ -1,3 +1,38 @@
+╔══════════════════════════════════════════════════════════════╗
+║ ⚠ CORRECTION — issued 2026-08-03. READ BEFORE USING.         ║
+╚══════════════════════════════════════════════════════════════╝
+This report was written from a MEDIA-RECONSTRUCTED July 29 statement (the Fed CDN
+returned HTTP 403 to the cloud run). The reconstruction was wrong on the single
+point this report treats as the meeting's main textual signal.
+
+  CLAIMED (void):  the statement softened "elevated" → "somewhat elevated" on
+                   inflation, read here as a dovish gesture.
+  ACTUAL:          "Inflation remains ELEVATED relative to the Committee's 2
+                   percent goal" — verbatim identical to June 17. There was no
+                   softening. Confirmed against the official press release AND
+                   the official press-conference transcript, both of which read
+                   "elevated."
+  ALSO WRONG:      "The Committee ALSO REAFFIRMED its policy of maintaining ample
+                   reserves." Actual: "The Committee IS CONTINUING its policy..."
+                   That two-word edit is the ONLY textual change in the entire
+                   July 29 statement vs. June 17.
+
+VOID: every passage below turning on "somewhat elevated" — the inflation
+direction call ("DOVISH LEAN on the one formal word"), the ¶3 diff, and the
+market-reaction reading built on it.
+STANDS: the vote (9–3), the dissent roster and rationale, the labor and policy
+sections, and all Q&A analysis drawn from the official transcript.
+
+CORRECT READ: the statement's substantive text was FROZEN and three voters
+dissented for a hike against unchanged language — the dispersion was left visible
+in the vote rather than absorbed into the text. See the verified analysis in
+data/reports/fomc/20260729_statement_diff.txt, which was built from the official
+text and is not affected.
+
+A full redraft of this report has not been done; the sections above are flagged
+rather than rewritten.
+────────────────────────────────────────────────────────────────
+
 FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: July 29, 2026

@@ -1,0 +1,299 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-07-31 | Neel Kashkari | Minneapolis Fed President | Just Voter
+"Statement on My FOMC Dissent"
+Written statement published by the Federal Reserve Bank of Minneapolis
+SOURCE: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+
+CLASSIFICATION: Formal FOMC dissent statement — compressed Type A, but unusually
+  doctrinal. Five paragraphs, of which three are devoted to the theory of when
+  monetary policy should respond to supply shocks. Almost no current-data
+  content: no unemployment rate, no inflation print, no labor assessment. This is
+  an argument about a framework, not a reading of the data.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+                   Logan dissenting in favor of a 25bp HIKE)
+PRE-FOMC BASELINE: May 13, 2026  "Q&A at the St. Paul Area Chamber"
+                   (scored at data/scored/speeches/20260514_Neel_Kashkari_scored.txt;
+                   file dated May 14 for the YouTube capture). Kashkari has no
+                   recovered Type A between May 13 and the July 29 meeting — a
+                   77-day gap. Treat the baseline accordingly.
+POST-FOMC PRIOR:   N/A — first post-July-29 communication.
+PRIOR DISSENT STATEMENT (structural comparator):
+                   May 1, 2026  "Why I Dissented"
+                   https://www.minneapolisfed.org/article/2026/why-i-dissented
+                   (scored at data/scored/speeches/20260501_Neel_Kashkari_scored.txt)
+
+⚠ SOURCE NOTE: the July 31 statement and the May 1 article are different
+  documents at confusingly similar URLs. "Why I Dissented" (/why-i-dissented) is
+  MAY 1 and concerns the APRIL 29 meeting. The July 31 statement is at
+  /statement-on-my-fomc-dissent. An earlier automated stub for this file pointed
+  at the wrong one.
+──────────────────────────────────────────────────────────
+
+THE STRUCTURAL FACT — WHAT KIND OF DISSENT THIS IS
+──────────────────────────────────────────────────────────
+  Apr 29 (May 1 stmt):  "I supported the FOMC's decision to hold the federal
+                        funds rate ... but I dissented against the FOMC's action
+                        because I did not think it was appropriate to continue to
+                        include the following phrase ... 'In considering the
+                        extent and timing of additional adjustments'"
+                        → a dissent about FORWARD GUIDANCE. He backed the rate.
+
+  Jul 29 (Jul 31 stmt): "I dissented against the FOMC's policy action this week
+                        because I preferred to raise the target range for the
+                        federal funds rate by 0.25 percentage point."
+                        → a dissent about the RATE, with a magnitude named.
+
+Same escalation rung as Hammack, and again the language he objected to in April
+was already gone by June 17. All three dissenters won the language fight and then
+escalated to the rate — that pattern is the single most important structural fact
+of this cycle and is treated in the daily report's cross-speaker note.
+
+──────────────────────────────────────────────────────────
+GROWTH
+──────────────────────────────────────────────────────────
+Essentially absent. The only growth-adjacent content is instrumental:
+
+  "The massive investment in data centers has also added a new demand element to
+   the high inflation Americans are experiencing."
+  → AI/data-center capex is introduced not as a growth story but as an inflation
+    channel. This is the same analytical move Logan made on July 16 ("The demand
+    effects are here already. And when demand outstrips supply, the result is
+    higher prices") and again on July 31.
+
+  "if inflation durably fades, a strategy of small policy steps would allow the
+   FOMC to slow or pause subsequent adjustments without unnecessary impact on the
+   real economy."
+  → The only acknowledgment that tightening has a real-economy cost, and it is
+    framed as a reason his gradualism is safe, not as a growth risk.
+
+Shift vs. pre-FOMC (May 13):  UNCHANGED — May 13 carried a solid-pace baseline
+  with sector-specific (healthcare) strain; nothing here revisits it.
+
+Direction: neutral.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none. Kashkari does not reference the July 29
+  labor sentence, the unemployment rate, or job gains anywhere.
+
+Own language — labor appears only twice, both times subordinate:
+  "The economy today is in a much, much better place than it was then:
+   Unemployment is lower and inflation is much lower."   [vs. the 1970s]
+  "I would rather tighten policy incrementally as we gather more data on the path
+   of inflation AND EMPLOYMENT."
+
+  → The first is a comparison to the 1970s, not a current assessment. The second
+    concedes employment is a variable he is watching. Neither is a verdict.
+
+  [Inference: the omission is itself informative. Kashkari's April dissent
+   rationale and his May 13 remarks both engaged the labor market directly
+   (May 13: "the job market seems pretty good, decent to pretty good"). A dissent
+   statement that argues for tightening while declining to characterize the labor
+   market is choosing not to defend the employment side of the trade-off. This is
+   an inference from absence and is NOT stated by Kashkari — flagged for the
+   analyst rather than scored as a directional shift.]
+
+Shift vs. pre-FOMC (May 13):  NOT ASSESSABLE — no current labor characterization
+  in this document. Do not score this as "unchanged"; there is nothing to compare.
+
+Direction: n/a.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in part
+   reflecting supply shocks that have driven price increases in certain sectors,
+   including energy." [Jul 29 stmt]
+  → Kashkari: "Inflation has been elevated relative to our 2 percent target for
+    more than five years. The initial cause of that inflation was, in part, a
+    series of supply shocks ..."
+  → He adopts the statement's attribution nearly word-for-word — "in part," the
+    supply-shock framing, the same vocabulary — and then adds two modifiers that
+    dismantle it: "the INITIAL cause" (i.e., no longer the operative cause) and
+    "a SERIES of supply shocks" (i.e., not the single shock that look-through
+    doctrine is built for). This is the statement's own language turned against
+    the statement's own conclusion, and it is the most precise instance of that
+    move in any document this cycle.
+
+Own language — KEY (the doctrinal break):
+  "In the face of individual supply shocks that temporarily elevate inflation,
+   monetary policymakers should 'look through' the shock and allow it to pass on
+   its own. I LARGELY SUBSCRIBE TO THAT VIEW, BUT I INCREASINGLY BELIEVE that
+   monetary policy does have an important role to play in addressing a series of
+   successive supply shocks that might lead to entrenched higher inflation."
+  → This is the whole dissent. Kashkari is not disputing the data; he is
+    withdrawing from the doctrine that the data would otherwise trigger. Note the
+    tense: "increasingly believe" describes a view still in motion, which is
+    weaker than Hammack's flat "did not see" and Logan's flat "does not appear
+    to be on course."
+  → CLAUDE.md flags "'sequence of transitory shocks' framing (raises the bar for
+    looking through inflation)" as a hawkish signal. This is that signal in its
+    fully developed form, stated as an explicit revision of the author's own
+    prior position.
+
+Own language — the 1970s analogy (new, and the hardest historical frame available):
+  "monetary policymakers during the 1970s ALSO DIAGNOSED the extraordinary
+   inflation of that period as largely the result of a series of successive supply
+   shocks affecting commodities, food and energy markets. Policymakers ultimately
+   concluded that tight monetary policy was necessary to bring inflation back down
+   DESPITE THEIR ORIGINAL SUPPLY SHOCK DIAGNOSIS."
+  → NEW. The May 1 article used the Ukraine-war oil shock as its historical
+    parallel — a comparison about oil-price mechanics. The 1970s parallel is a
+    comparison about POLICYMAKER ERROR, and specifically about the error of
+    holding to a supply-shock diagnosis too long. Kashkari is telling his
+    colleagues they are making the identifiable mistake of the canonical episode.
+  → He immediately disclaims the comparison's severity ("the economy today is in
+    a much, much better place ... Unemployment is lower and inflation is much
+    lower"), which is a real hedge and should be quoted alongside the analogy.
+    But invoking the 1970s at all, in a formal statement, from a president who
+    held a cut dot as recently as March, is a substantial move.
+
+Entrenchment:
+  "a series of successive supply shocks that might lead to entrenched higher
+   inflation" / "to manage against the risk that high inflation could become
+   entrenched"
+  → CARRY-OVER in concept from May 1, which ran an explicit expectations-
+    unanchoring scenario ("the FOMC would have to take very seriously the risk of
+    an unanchoring of long-run inflation expectations"). The vocabulary has
+    shifted from "unanchoring" to "entrenched." Worth noting: Jefferson (Vice
+    Chair) used "inflation becomes entrenched" on July 16. See language watch.
+
+Duration:
+  "elevated relative to our 2 percent target for more than five years"
+  → CARRY-OVER — his May 13 remarks used "above our target now for more than 5
+    years," and the formulation is shared with Hammack and Logan. NOT new.
+
+Shift vs. pre-FOMC (May 13):  HAWKISH — May 13 was "a huge question mark" about
+  the inflation path with confidence removed but no policy conclusion drawn.
+  July 31 converts the uncertainty into a doctrinal argument for acting under
+  uncertainty. The unresolved question became a reason to move rather than a
+  reason to wait.
+
+Direction: HAWKISH.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none — Kashkari does not invoke "will deliver
+  price stability" or the dual-mandate formula. Unlike Hammack and Logan, he does
+  not argue from the Committee's own commitments.
+
+Own language — KEY (the path, which is his distinctive contribution):
+  "I would rather tighten policy incrementally as we gather more data on the path
+   of inflation and employment. If inflation remains elevated, in my view, A
+   POTENTIAL SERIES OF SMALL POLICY MOVES would be better than waiting and
+   eventually concluding that even bolder actions were necessary. On the other
+   hand, if inflation durably fades, a strategy of small policy steps would allow
+   the FOMC to slow or pause subsequent adjustments without unnecessary impact on
+   the real economy."
+  → Kashkari is the only one of the three dissenters to describe a PATH rather
+    than a single move. Hammack names no path; Logan asks for "modest action in
+    the near term." Kashkari asks for a sequence, conditional and reversible in
+    both directions.
+  → CARRY-OVER WARNING: "a series of them" is NOT new language. The May 1 article
+    already contained "Federal funds rate increases, potentially a series of
+    them, could be warranted" — but there it sat inside the ADVERSE scenario (an
+    extended Strait of Hormuz closure with expectations unanchoring), i.e. a tail.
+    The change on July 31 is that the series has moved from the tail to the base
+    case, with no triggering catastrophe required. That relocation is the signal;
+    the phrase itself is not.
+
+  Symmetry and reversibility:
+  "if inflation durably fades, a strategy of small policy steps would allow the
+   FOMC to slow or pause subsequent adjustments"
+  → He builds in the exit. This is the same pre-emption Logan makes ("can always
+    adjust policy if unanticipated shocks occur"), and it is aimed at the
+    strongest objection to hiking into a supply shock — that you will have to
+    reverse it. Kashkari's version is more explicit than Logan's.
+
+  Cost-of-waiting:
+  "would be better than waiting and eventually concluding that even bolder actions
+   were necessary"
+  → The bloc's shared template. Compare Hammack: "The longer that high inflation
+    persists, the more challenging and costly it can be to bring it back down";
+    Logan: "Modest action in the near term would reduce the likelihood of needing
+    to take sharper action later." Three formulations of one argument, same day.
+
+  Hike signal:  PRESENT AND EXECUTED, with a named magnitude (0.25pp) and an
+                explicit multi-step path conditional on inflation remaining
+                elevated.
+  Cut signal:   ABSENT since Apr 29. His March SEP cut dot is long since void.
+
+Scenario framing (per CLAUDE.md precision rule): DESCRIPTIVE-CONDITIONAL, not
+  named. Two branches are specified ("if inflation remains elevated" / "if
+  inflation durably fades") with a policy response attached to each, which is
+  stronger than pure description — but he does not label them as scenarios the way
+  his own May 1 article did (that one named two explicit Hormuz scenarios) or the
+  way Waller did on Apr 17 ("BENIGN / ADVERSE"). Intermediate strength.
+
+Shift vs. pre-FOMC (May 13):  HAWKISH — MAJOR. May 13 was "We just don't know
+  right now," with no forward guidance and the cut signal withdrawn. July 31 is an
+  executed hike vote plus a conditional sequence. Across the 77-day gap Kashkari
+  has travelled from agnosticism to the most path-explicit hawkish position on the
+  committee.
+
+Direction: HAWKISH.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+══════════════════════════════════════════════════════════
+Net signal:    HAWKISH — the largest single-document move of the three dissenters,
+               because his starting point was the least committed.
+               (1) Dissent object moves from FORWARD GUIDANCE (Apr 29) to the RATE
+                   (Jul 29), with a magnitude named;
+               (2) Explicit doctrinal revision on look-through — "I largely
+                   subscribe to that view, BUT I increasingly believe" — which is
+                   the substance of the dissent;
+               (3) The 1970s successive-supply-shock analogy: new, and a charge of
+                   identifiable policymaker error, hedged immediately on severity;
+               (4) The "series of small moves" relocated from May 1's adverse tail
+                   scenario to the base case — the phrase is carry-over, the
+                   placement is the signal;
+               (5) Data centers named as a demand channel — converging with Logan.
+               Weakest-hedged of the three: "increasingly believe" is softer than
+               Hammack's "did not see" and Logan's "does not appear to be."
+
+Position relative to committee:
+  Kashkari is the path-maximalist of the dissent bloc — the only one asking for a
+  sequence rather than a move — while being the most tentative in how he states
+  his conviction. He offers no current data assessment at all, which makes his
+  dissent the most theoretical and the most vulnerable to a couple of soft
+  inflation prints. Against that, his argument is the one most likely to travel:
+  it is about doctrine, and doctrine is what the minutes and the statement
+  language actually encode.
+
+Language watch:
+  • "a series of successive supply shocks" — the look-through exit ramp, stated as
+    doctrine rather than as a data read. Stage: EMERGING. This is the formulation
+    most likely to surface in the July 28–29 minutes (Aug 19) as a participant
+    view, and it is the direct antagonist of the statement's "reflecting supply
+    shocks" clause. Highest-priority phrase to track this cycle.
+  • "entrenched higher inflation" — shared with Jefferson's Jul 16 "inflation
+    becomes entrenched" and Logan's Jul 16 "if higher inflation becomes
+    entrenched." Stage: EMERGING, and notable because Jefferson is Vice Chair —
+    a Troika member using a dissent-bloc frame is the classic bottom-up precursor.
+  • "a potential series of small policy moves" — the only multi-step path on the
+    committee. Stage: DISPERSED (Kashkari alone). If Hammack or Logan adopts a
+    sequence framing, September stops being about one hike.
+  • The 1970s analogy — stage: DISPERSED (first use). Watch for pushback; if a
+    Troika member rebuts it explicitly, that tells you it landed.
+
+Analyst flag:  YES
+  → (1) The 77-day baseline gap (May 13 → Jul 31) is a genuine coverage hole.
+    Kashkari's shift from "we just don't know" to a multi-step hike path is scored
+    against a stale prior, and it is possible that intermediate appearances exist
+    that were never recovered. Worth a targeted YouTube/Minneapolis Fed sweep for
+    June–July before the magnitude of the shift is treated as settled.
+  → (2) Kashkari is the only dissenter arguing for a SERIES. Whether the other two
+    would follow him past one hike is unresolved and is the difference between a
+    one-off September dissent and a genuine tightening faction.
+  → (3) He offers no labor-market characterization while voting to tighten. If the
+    August employment report is weak, his statement contains nothing to hold him
+    to the hawkish position — his is the softest of the three commitments despite
+    being the most expansive.
+══════════════════════════════════════════════════════════

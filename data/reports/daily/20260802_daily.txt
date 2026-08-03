@@ -4,122 +4,117 @@ Date: August 2, 2026
 Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  (none) — No Federal Reserve speeches or statements on Sunday, August 2, 2026.
-  No files dated 2026-08-02 in data/raw/. Consistent with weekend norms.
-  Post-blackout window open (blackout ended July 30); officials free to speak.
+  (none) — Sunday, August 2. No Fed appearances or publications.
+  Post-blackout window open since July 30; officials free to speak.
 ════════════════════════════════════════════════════════════════
 
-NO NEW CONTENT — OUTSTANDING ACTION ITEMS
+TRANSCRIPT RECOVERY — CLOSED
+────────────────────────────────────────────────────────────────
+The three July 31 dissent statements that the August 1 and August 2 runs carried
+as NOT SCORED — TRANSCRIPT PENDING have been retrieved from source and scored.
+All three fetched HTTP 200 from a local IP; no media substitution was used.
 
-August 2, 2026 is a Sunday. No policy speeches are scheduled or expected.
-The most recent unresolved action items remain the three formal dissent
-statements published July 31, 2026, which are NOT SCORED due to persistent
-HTTP 403 blocks from all Fed regional bank websites (cloud IP block; both
-the GitHub Actions 5:30am collect and this environment's WebFetch fail).
-These are outstanding high-priority items to recover from a local IP.
+  Hammack (Cleveland)   — clevelandfed.org, verified
+  Kashkari (Minneapolis)— minneapolisfed.org, verified
+  Logan (Dallas)        — dallasfed.org, verified
 
-OUTSTANDING TRANSCRIPT RECOVERY (from July 31 run — high priority):
-  1. Beth Hammack (Cleveland) — "Statement Regarding July FOMC Meeting Vote"
-     URL: https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
-     Status: HTTP 403 (persistent; cloud IP blocked by Cleveland Fed CDN).
-             Stub: data/raw/speeches/2026/Beth_Hammack/20260731_Statement_on_FOMC_dissent.txt
-     Action: python3 main.py refetch from local (non-blocked) IP.
-     Scoring note: Classify as Type A (formal dissent statement with embedded
-       economic outlook). Compare to last scored speech (June 2, 2026) and to
-       July 29 FOMC context. She is the lead hawkish dissenter in the three-bloc.
+  Full scoring: data/reports/daily/20260731_daily.txt (redrafted)
+  Scored files: data/scored/speeches/20260731_{Beth_Hammack,Neel_Kashkari,Lorie_Logan}_scored.txt
 
-  2. Neel Kashkari (Minneapolis) — "Why I Dissented"
-     URL: https://www.minneapolisfed.org/article/2026/why-i-dissented
-     Status: HTTP 403 (same block).
-             Stub: data/raw/speeches/2026/Neel_Kashkari/20260731_Statement_on_FOMC_dissent.txt
-     Action: python3 main.py refetch from local IP.
-     Scoring note: Compare to April 29, 2026 dissent (prior FOMC) and any prior
-       scored speeches. Verify whether language escalates vs. April 29 position.
+  ⚠ URL correction: the pending-recovery note pointed at
+    minneapolisfed.org/article/2026/why-i-dissented for Kashkari. That URL is his
+    MAY 1 article on the APRIL 29 dissent. The July 31 statement is at
+    /article/2026/statement-on-my-fomc-dissent. The two are different documents
+    and were nearly conflated.
 
-  3. Lorie Logan (Dallas) — "Statement on FOMC Dissent"
-     URL: https://www.dallasfed.org/news/releases/2026/nr260731dissent
-     Status: HTTP 403 (same block).
-             Stub: data/raw/speeches/2026/Lorie_Logan/20260731_Statement_on_FOMC_dissent.txt
-     Action: python3 main.py refetch from local IP.
-     Scoring note: Compare to last scored speech (July 16, 2026;
-       data/scored/speeches/20260716_Lorie_Logan_scored.txt). Her July 31
-       statement is the first official post-FOMC communication from Logan.
+WHERE THE COMMITTEE STANDS ENTERING THIS WEEK
+────────────────────────────────────────────────────────────────
+The July 29 statement was frozen — its economic paragraphs are character-for-
+character identical to June 17, the only edit being "reaffirmed" → "is continuing"
+on ample reserves. Against that unchanged text, three voters dissented for a 25bp
+hike. The dispersion is not being absorbed into the language; it is being left
+visible in the vote.
 
-NOTE ON NO-NEWS SCORING RULE
-  News coverage of all three dissent statements is extensive. No scoring will
-  be produced from media coverage. Official transcripts must be retrieved
-  before scoring can proceed. A media-based score is not acceptable.
+The July 31 statements established that all three dissenters have escalated from
+objecting to the Committee's WORDS (April 29, on easing-bias language) to
+objecting to its RATE — and that all three had to get past the statement's own
+"reflecting supply shocks" attribution to do it, each by a different route. That
+attribution clause is now the contested ground.
+
+Two of the three moved materially during the blackout, unobserved: Hammack (last
+seen June 2, conditional) and Kashkari (last seen May 13, agnostic). Logan's
+position was already public from July 16 and did not change.
+
+Not yet heard from since July 29: the entire 9-vote majority. Everything above is
+one side of the argument.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — THIS WEEK: Monday August 3 – Friday August 7, 2026
 ────────────────────────────────────────────────────────────────
-Confirmed appearances (per Fed Board events calendar):
+Confirmed (Federal Reserve Board calendar, verified 2026-08-03):
 
   Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
-  Fireside Chat at the 2026 CEO & Senior Management Summit and Annual Meeting
+  Fireside chat, 2026 CEO & Senior Management Summit and Annual Meeting
   Virtual  |  Tuesday, August 4, 12:45 p.m. ET
-  Classification: Likely Type B (banking/regulatory focus); monitor for
-  embedded economic outlook section.
+  → Likely Type B (supervision/regulatory). Watch for an embedded outlook
+    section. Bowman was the explicit dovish outlier in May; her read on a 9–3
+    committee is the first majority-side data point available.
 
   Lisa D. Cook  |  Board Governor  |  Just Voter
   "Economic Outlook"
-  AEDC 2026 Economic Luncheon, Anchorage Economic Development Corporation
-  Anchorage, Alaska  |  Wednesday, August 5, 4:05 p.m. local time
-  Classification: Type A. Cook has not spoken since July 15, 2026. First
-  post-FOMC economic outlook from the board majority bloc; high signal value
-  for committee center-of-gravity reading post-July 29.
+  AEDC 2026 Economic Luncheon, Anchorage, Alaska
+  Wednesday, August 5, 4:05 p.m. local time
+  → Type A, and the week's high-signal event. Cook has not spoken since July 15
+    and voted with the majority on July 29. Her July 16-vintage position was a
+    conditional "prepared to act" if disinflation did not appear soon — closer to
+    the dissenters than any other majority voter. Whether she renews, hardens or
+    drops that conditional is the best available read on whether 9–3 is stable.
 
-Additional appearances expected but unconfirmed:
-  • Beth Hammack (Cleveland) — Just Voter; hawkish dissenter July 29.
-    Likely to give a full economic outlook elaborating on the written dissent.
-    Prior last scored speech: June 2, 2026. Watch for escalation language.
-  • Neel Kashkari (Minneapolis) — Just Voter; hawkish dissenter July 29 and
-    April 29. No confirmed event yet. A full speech would be the first
-    opportunity to quantify hike threshold or timeline signals.
-  • Lorie Logan (Dallas) — Just Voter; hawkish dissenter July 29. Last scored
-    July 16, 2026. Written dissent statement (July 31) pending recovery.
-  • Christopher Waller (Board) — Just Voter; voted with majority July 29 (June
-    CPI came in below his stated July 13 hike-conditionality threshold). His
-    next speech will clarify whether he maintains hold position or shifts toward
-    the dissenting bloc as August CPI data becomes available.
-  • John Williams (NY Fed) — Troika; last scored July 15, 2026. Typically
-    appears within 1-2 weeks post-FOMC.
+No confirmed appearances Monday, Thursday or Friday.
 
-  NOTE: The two confirmed speakers (Bowman, Cook) are both majority-bloc
-  voters. Their language this week provides the first read on how the 9-vote
-  majority frames the 3-dissent outcome and its implications for the September
-  15-16 meeting.
+Unconfirmed but plausible this week:
+  • Hammack, Kashkari, Logan — dissenters typically follow a written statement
+    with a full speech. None has a confirmed event. Kashkari's is the one to want:
+    he is the only dissenter arguing for a SERIES of hikes rather than one move,
+    and he published no labor-market assessment on July 31.
+  • Waller (Board) — voted with the majority July 29; his July 13 hike
+    conditionality was not triggered by the June CPI. His next speech clarifies
+    whether he holds or joins the bloc.
+  • Williams (NY Fed, Troika) — last scored July 15 ("inflation has peaked");
+    typically appears within one to two weeks post-FOMC. The most direct
+    counterweight to the dissenters' inflation-path claim.
+  • Warsh (Chair, Troika) — no confirmed appearance. His Jackson Hole keynote is
+    the next scheduled Chair communication.
 
-MAJOR UPCOMING EVENT:
-  Jackson Hole Economic Policy Symposium (Kansas City Fed host)
-  August 27-29, 2026  |  Jackson Lake Lodge, Jackson Hole, Wyoming
-  Theme: "Financial Innovation: Implications for Payments and Policy"
-  Chair Warsh is expected to deliver the keynote (traditionally Friday morning,
-  August 28). As of prior reporting, Warsh described his remarks as "a blank
-  piece of paper right now." This will be the highest-signal speech of August
-  and the last major communication before the September 5 blackout.
-
-  CYCLE MARKER: Next blackout starts September 5, 2026 (pre-September 15-16
-  FOMC; that meeting IS a projection meeting — SEP + dot plot will be released.
-  The open window for policy communication runs August 1 through September 4.
+CALENDAR MARKERS:
+  Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 meeting (Type D). The
+    highest-value scheduled document of the month: it will show how many
+    non-dissenting participants share the demand-side attribution and the
+    cost-of-waiting argument, i.e. whether 9–3 is a ceiling or a floor.
+  Aug 27–29 — Jackson Hole Economic Policy Symposium (Kansas City Fed), Jackson
+    Lake Lodge, WY. Theme: "Financial Innovation: Implications for Payments and
+    Policy." Warsh keynote expected Friday Aug 28 (Type G, highest priority). He
+    described his remarks on July 29 as "a blank piece of paper right now."
+  Sat Sep 5 — next blackout begins, ahead of the September 15–16 FOMC. That IS a
+    projection meeting: SEP and dot plot (Type I). Open communication window runs
+    August 1 through September 4.
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 No speeches on August 2, 2026.
 
+Recovered and scored this run (July 31 dissent statements):
+  Hammack:  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+  Kashkari: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+  Logan:    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
 Reference FOMC (July 29, 2026):
-  Statement:    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement diff:  data/reports/fomc/20260729_statement_diff.txt
   Canonical daily: data/reports/daily/20260729_daily.txt
 
-Prior dissent statements (NOT SCORED — pending transcript recovery):
-  Hammack (Jul 31): https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
-  Kashkari (Jul 31): https://www.minneapolisfed.org/article/2026/why-i-dissented
-  Logan (Jul 31):   https://www.dallasfed.org/news/releases/2026/nr260731dissent
-
-Upcoming confirmed events (Fed Board calendar):
-  https://www.federalreserve.gov/newsevents/2026-august.htm
-
-Jackson Hole 2026:
-  https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+Upcoming events:
+  Fed Board calendar:  https://www.federalreserve.gov/newsevents/2026-august.htm
+  Jackson Hole 2026:   https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
 ════════════════════════════════════════════════════════════════

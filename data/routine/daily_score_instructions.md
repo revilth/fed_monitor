@@ -96,8 +96,11 @@ For each Type A or Type B-with-outlook:
 
 **Cycle context (keep current — update when the reference FOMC changes):**
 Reference FOMC **July 29, 2026** | FFR **3.50–3.75%** | holding cycle (rising
-hike risk). The July 29 statement: SOLE CHANGE "elevated" → "somewhat elevated"
-on inflation; all other language carried verbatim from June 17. Vote 9–3:
+hike risk). The July 29 statement: SUBSTANTIVE TEXT FROZEN — the activity, labor
+and inflation paragraphs are verbatim identical to June 17. Inflation reads
+"Inflation remains **elevated** relative to the Committee's 2 percent goal" —
+unchanged from June 17. The ONLY textual change in the document is "reaffirmed"
+→ "is continuing" on ample reserves. No forward guidance. Vote 9–3:
 Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas) dissented preferring
 +25bp hike — first pro-hike dissent coalition since the active tightening cycle
 ended; escalation from April 29 (opposed easing bias) to July 29 (demand active

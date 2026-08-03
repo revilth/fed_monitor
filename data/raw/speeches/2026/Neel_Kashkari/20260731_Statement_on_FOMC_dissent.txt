@@ -1,5 +1,41 @@
-SOURCE: https://www.minneapolisfed.org/article/2026/why-i-dissented
-FETCH_STATUS: HTTP 403 — official transcript unavailable from cloud IP (Aug 1, 2026 run)
-RECOVERY: python3 main.py refetch  OR  direct WebFetch from non-blocked IP
-NOTE: Formal written article explaining Kashkari's July 29, 2026 FOMC dissent (preferred +25bp hike).
-Published by Minneapolis Fed on July 31, 2026.
+SOURCE: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+RETRIEVED: 2026-08-03, live from minneapolisfed.org (HTTP 200) from a local/residential IP. Verbatim.
+TITLE: Statement on My FOMC Dissent
+AUTHOR: Neel Kashkari, President and CEO
+DATE: July 31, 2026
+
+CORRECTION NOTE: an earlier stub for this file pointed at
+https://www.minneapolisfed.org/article/2026/why-i-dissented — that URL is Kashkari's
+MAY 1, 2026 article explaining his APRIL 29 dissent, not this one. The July 31 statement
+lives at /article/2026/statement-on-my-fomc-dissent. Do not conflate the two.
+
+I dissented against the FOMC's policy action this week because I preferred to raise the target
+range for the federal funds rate by 0.25 percentage point.
+
+Inflation has been elevated relative to our 2 percent target for more than five years. The
+initial cause of that inflation was, in part, a series of supply shocks, such as supply chain
+disruptions from the pandemic, the war in Ukraine, the trade war and, most recently, the Iran
+conflict. The massive investment in data centers has also added a new demand element to the
+high inflation Americans are experiencing.
+
+Economic theory argues that monetary policy is the right tool to address demand-driven
+inflation but faces greater trade-offs when dealing with supply shocks. In the face of
+individual supply shocks that temporarily elevate inflation, monetary policymakers should "look
+through" the shock and allow it to pass on its own. I largely subscribe to that view, but I
+increasingly believe that monetary policy does have an important role to play in addressing a
+series of successive supply shocks that might lead to entrenched higher inflation.
+
+Indeed, monetary policymakers during the 1970s also diagnosed the extraordinary inflation of
+that period as largely the result of a series of successive supply shocks affecting
+commodities, food and energy markets. Policymakers ultimately concluded that tight monetary
+policy was necessary to bring inflation back down despite their original supply shock
+diagnosis.
+
+Of course, there are many differences between the economy in the 1970s and today. The economy
+today is in a much, much better place than it was then: Unemployment is lower and inflation is
+much lower. But to manage against the risk that high inflation could become entrenched, I would
+rather tighten policy incrementally as we gather more data on the path of inflation and
+employment. If inflation remains elevated, in my view, a potential series of small policy moves
+would be better than waiting and eventually concluding that even bolder actions were necessary.
+On the other hand, if inflation durably fades, a strategy of small policy steps would allow the
+FOMC to slow or pause subsequent adjustments without unnecessary impact on the real economy.
