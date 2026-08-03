@@ -1,0 +1,101 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 31, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES / STATEMENTS TODAY
+  1.  Beth Hammack  |  Cleveland Fed President  |  Just Voter
+      "Statement on FOMC Dissent"  — formal written dissent statement (July 29 vote)
+      STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch returned HTTP 403;
+              recover via local python3 main.py refetch)
+      ACTION: WebFetch https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+              (or search clevelandfed.org for July 31, 2026 dissent statement)
+
+  2.  Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+      "Why I Dissented" / "Statement on My FOMC Dissent"  — formal written article (July 29 vote)
+      STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch returned HTTP 403;
+              recover via local python3 main.py refetch)
+      ACTION: WebFetch https://www.minneapolisfed.org/article/2026/why-i-dissented
+              (alternate: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent)
+
+  3.  Lorie Logan  |  Dallas Fed President  |  Just Voter
+      "Statement from Dallas Fed President Lorie Logan on FOMC Dissent"  — formal written statement
+      STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch returned HTTP 403;
+              recover via local python3 main.py refetch)
+      ACTION: WebFetch https://www.dallasfed.org/news/releases/2026/nr260731dissent
+════════════════════════════════════════════════════════════════
+
+CONTEXT
+
+July 31, 2026 is the first post-blackout day following the July 28–29 FOMC meeting
+(blackout: July 18–30). All three dissenting voters — Hammack (Cleveland), Kashkari
+(Minneapolis), and Logan (Dallas) — published formal written statements on July 31
+explaining their dissents. This is standard practice for Fed presidents who dissent
+at FOMC meetings. The statements constitute the first official post-FOMC communications
+from the dissenting bloc and are high analytical priority.
+
+SCORING STATUS SUMMARY
+  All three dissent statements are classified NOT SCORED — TRANSCRIPT PENDING.
+  Official transcripts could not be retrieved this run due to HTTP 403 errors from
+  all Fed regional bank websites (cloud IP block; consistent with prior runs).
+  These documents were NOT present in data/raw/ after the 5:30am GitHub Actions
+  collect run, suggesting the scraper did not discover them (they are published as
+  press releases / standalone articles rather than on the standard speech index pages).
+
+  Stub raw files saved at:
+    data/raw/speeches/2026/Beth_Hammack/20260731_Statement_on_FOMC_dissent.txt
+    data/raw/speeches/2026/Neel_Kashkari/20260731_Statement_on_FOMC_dissent.txt
+    data/raw/speeches/2026/Lorie_Logan/20260731_Statement_on_FOMC_dissent.txt
+
+  Recovery steps:
+    1. python3 main.py refetch  (from a non-blocked IP)
+    2. Direct WebFetch of each official URL listed above
+    3. Score each document as a formal dissent statement with embedded economic
+       outlook; use Type A methodology for the economic/policy sections; compare
+       to the speaker's July 16 (Logan) and June 2 (Hammack) last scored speeches
+       and to the July 29 FOMC context. For Kashkari, check Minneapolis Fed for
+       any prior dissent statement (April 29, 2026 dissent; verify if a formal
+       statement was published).
+
+NOTE ON NO-NEWS SCORING RULE
+  News coverage of all three statements is extensive (CNBC, Bloomberg, Reuters,
+  Yahoo Finance, Axios, CNN, Crain's Cleveland). In adherence to the hard rule —
+  "NEVER substitute news for a transcript" — no scored content is generated from
+  news coverage in this run. The official transcripts must be retrieved before
+  scoring can proceed.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Sunday, August 2, 2026
+────────────────────────────────────────────────────────────────
+  (None confirmed) — No Federal Reserve speeches are conventionally scheduled
+  on Sundays. No appearances announced on the Fed Board events calendar or
+  regional bank pages (calendar lookup limited by 403 block on Fed sites).
+
+  BROADER OUTLOOK (week of August 3–7, 2026):
+  The blackout ended July 30. Officials are free to speak August 1 onward.
+  Expect a flurry of post-FOMC appearances early in the week of August 3,
+  particularly from:
+    - The three dissenters (Hammack, Kashkari, Logan) — likely to give
+      full economic outlook speeches elaborating on their written dissents.
+    - Waller — has established a pattern of rapid post-FOMC follow-up;
+      watch for a speech expanding on his "at a crossroads" framework.
+    - Williams — typically gives post-FOMC speeches within 1–2 weeks.
+  No specific appearances confirmed at time of this run.
+  Next blackout: September 5, 2026 (pre-September 15–16 FOMC).
+════════════════════════════════════════════════════════════════
+
+SOURCES
+────────────────────────────────────────────────────────────────
+Statements this date:
+  Hammack (July 31, 2026):  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+    [UNVERIFIED — URL inferred from Cleveland Fed pattern; transcript not retrieved]
+  Kashkari (July 31, 2026): https://www.minneapolisfed.org/article/2026/why-i-dissented
+    [UNVERIFIED — URL from search index; transcript not retrieved]
+  Logan (July 31, 2026):    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+    [UNVERIFIED — URL from search index; transcript not retrieved]
+
+Reference FOMC (July 29, 2026):
+  Statement:      https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Press conf:     https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+  Full canonical: data/reports/daily/20260729_daily.txt
+════════════════════════════════════════════════════════════════

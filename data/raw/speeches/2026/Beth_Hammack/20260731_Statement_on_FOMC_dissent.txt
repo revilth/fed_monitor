@@ -1,0 +1,5 @@
+SOURCE: https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+FETCH_STATUS: HTTP 403 — official transcript unavailable from cloud IP (Aug 1, 2026 run)
+RECOVERY: python3 main.py refetch  OR  direct WebFetch from non-blocked IP
+NOTE: Formal written dissent statement explaining Hammack's July 29, 2026 FOMC dissent (preferred +25bp hike).
+Published by Cleveland Fed on July 31, 2026.
