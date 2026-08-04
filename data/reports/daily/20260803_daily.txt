@@ -1,0 +1,109 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 3, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none) — Monday, August 3. No Federal Reserve speeches or statements
+  collected for this date. No files dated 2026-08-03 in data/raw/. Consistent
+  with the August 2 daily's UPCOMING, which listed no confirmed appearances
+  Monday. Post-blackout communication window remains open (open since July 30).
+════════════════════════════════════════════════════════════════
+
+WHERE THE COMMITTEE STANDS — ENTERING THE WEEK
+────────────────────────────────────────────────────────────────
+The July 29 meeting produced a 9–3 vote with three dissenters (Hammack, Kashkari,
+Logan) each calling for a 25bp hike. Their July 31 dissent statements were
+retrieved and scored (see 20260731_daily.txt, redrafted August 2); all three
+moved their object of dissent from the statement's LANGUAGE (April 29) to the
+RATE itself (July 29), and each contested the statement's supply-shock attribution
+as insufficient to explain current inflation. The full 9-vote majority has not
+been heard from since the meeting.
+
+Key open questions heading into the week:
+  • The "demand-side" attribution claim (Hammack and Logan), vs. the statement's
+    "supply shock" framing — whether majority speakers affirm or contest it is the
+    week's central analytical question.
+  • Cook's hike conditional ("prepared to act if disinflation does not appear
+    soon" — July 15, scored) is the most hawkish language from a majority-side
+    voter on record. Whether she renews or retreats on Wednesday is the highest-
+    priority data point of the week.
+  • Bowman (speaking Tuesday August 4, this event runs to tomorrow's report)
+    was the explicit dovish outlier as recently as May; her first post-July 29
+    public appearance will establish whether she is moving toward or against the
+    dissenting bloc.
+  • Williams (NY Fed, Troika): last scored July 15 ("inflation has peaked"),
+    which is the sharpest challenge yet to the dissenters' core claim. No
+    confirmed post-FOMC appearance.
+  • Warsh (Chair, Troika): no scheduled speech before Jackson Hole (Aug 27–29).
+    His only cycle-relevant public framing post-July 29 was the press conference.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Wednesday, August 5, 2026
+────────────────────────────────────────────────────────────────
+  Lisa D. Cook  |  Governor  |  Just Voter
+  "Economic Outlook"
+  AEDC 2026 Economic Luncheon, Anchorage, Alaska
+  Wednesday, August 5, 4:05 p.m. local (8:05 p.m. ET)
+  → Type A. The week's highest-signal event. Cook voted with the July 29
+    majority; her July 15 position was "prepared to act" if disinflation
+    does not appear "soon." If the June CPI print (-0.4% MoM / +3.5% YoY)
+    and subsequent data count as that signal, she may back away from the
+    conditional. If she renews it, the 9–3 vote potentially understates the
+    committee's hawk tilt. See July 15 scored file for baseline language.
+
+NOTE: Bowman's fireside chat (Tuesday August 4, virtual, 12:45 p.m. ET) will
+  be covered in tomorrow's daily report (REPORT_DATE: August 4, 2026).
+
+Unconfirmed but plausible this week and next:
+  • Hammack, Kashkari, Logan — dissenting officials typically follow a written
+    statement with a full outlook speech within 1–2 weeks. None has a confirmed
+    event. Kashkari is the highest-priority unconfirmed: his July 31 statement
+    contained no unemployment or labor-market assessment, leaving his growth
+    risk view unresolved.
+  • Waller (Board) — voted with the majority July 29 after the June CPI cleared
+    his stated hike-conditionality threshold (announced July 13: a hike if
+    "data-in-hand" justified; the June CPI came in below it). His next speech
+    will clarify whether his conditionality threshold resets or whether he moves
+    toward the dissenting bloc.
+  • Williams (NY Fed, Troika) — last scored July 15. Typical pattern is one to
+    two weeks post-FOMC. His "inflation has peaked" characterization is the most
+    direct rebuttal available to the dissenters' ongoing-elevated-demand claim.
+
+CALENDAR MARKERS:
+  Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 meeting (Type D). Highest-
+    value scheduled document before Jackson Hole: shows how many non-dissenting
+    participants share the supply-side attribution and the cost-of-waiting
+    judgment, i.e., whether 9–3 is a ceiling or a floor on hike risk.
+  Aug 27–29 — Jackson Hole Economic Policy Symposium, Jackson Lake Lodge, WY.
+    Theme: "Financial Innovation: Implications for Payments and Policy." Warsh
+    keynote expected Friday August 28 (Type G, highest priority). He described
+    his remarks on July 29 as "a blank piece of paper right now."
+  Sat Sep 5 — Next blackout begins, ahead of the September 15–16 FOMC (IS a
+    projection meeting: SEP and dot plot, Type I). Open communication window
+    runs August 1 through September 4.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No speeches on August 3, 2026.
+
+Reference FOMC (July 29, 2026):
+  Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement diff:  data/reports/fomc/20260729_statement_diff.txt
+  Canonical daily: data/reports/daily/20260729_daily.txt
+
+Dissent statements (July 31, 2026):
+  Hammack:  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+  Kashkari: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+  Logan:    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
+Scored baselines referenced:
+  Cook (Jul 15, 2026):    data/scored/speeches/20260715_Lisa_D__Cook_scored.txt
+  Bowman (Jul 13, 2026):  data/scored/speeches/20260713_Michelle_W__Bowman_scored.txt
+  Williams (Jul 15, 2026): data/scored/speeches/20260715_John_Williams_scored.txt
+
+Upcoming events:
+  Fed Board calendar:  https://www.federalreserve.gov/newsevents/2026-august.htm
+  Jackson Hole 2026:   https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+════════════════════════════════════════════════════════════════
