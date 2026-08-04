@@ -1,0 +1,84 @@
+SOURCE: https://www.minneapolisfed.org/article/2026/why-i-dissented
+
+Why I Dissented
+May 1, 2026
+Author
+Neel Kashkari
+President and CEO
+Why I Dissented
+Share
+Facebook
+LinkedIn
+Twitter
+Subscribe
+Share
+Facebook
+LinkedIn
+Twitter
+I supported the Federal Open Market Committee’s (FOMC) decision to hold the federal funds rate at this week’s meeting,
+1
+but I dissented against the FOMC’s action because I did not think it was appropriate to continue to include the following phrase in the policy statement: “In considering the extent and timing of additional adjustments to the target range for the federal funds rate …”
+While that phrase is not a commitment to make further cuts to the policy rate, it is widely interpreted by Fed watchers to indicate the Committee’s expectation that the next adjustment to the federal funds rate would be a cut. I consider this language a form of forward guidance about the likely direction for monetary policy. Given recent economic and geopolitical developments and the high level of uncertainty about the outlook, I do not believe such forward guidance is appropriate at this time. Instead, the FOMC should offer a policy outlook that signals that the next rate change could be either a cut or a hike, depending on how the economy evolves. Forward guidance is itself an instrument of monetary policy: It can influence financial conditions today, potentially slowing or hastening the achievement of our dual mandate goals.
+Recent History of Policy Statement Language
+In the recent easing cycle, the FOMC first adopted the language “In considering additional adjustments …” at its September 2024 meeting, when it cut the policy rate after having held it steady for 14 months, clearly establishing the understanding that any “additional adjustments” likely refer to cuts to the policy rate.
+The most recent federal funds rate cut took place in December 2025, when the FOMC adopted the full, current phrase, “In considering the extent and timing of additional adjustments to the target range for the federal funds rate … ,” again reinforcing the expectation of a likely cut at some point in the future.
+My Policy Outlook Going into the Iran Conflict
+Prior to the conflict in the Middle East, even though inflation had been above our target for almost five years and was still too high (as shown in Figure 1), I felt fairly confident that core inflation was headed back to our 2 percent target. Tariffs had clearly pushed up goods inflation, but that increase likely would have waned during 2026 as prices fully adjusted to the new tariff regime.
+Research
+by Minneapolis Fed economists indicated that housing services inflation was well on its way back down, with new leases having fallen to low levels and the slow process by which those new leases translate into housing services inflation being well understood. That only left nonhousing services inflation, which should be tied to wages, and wage growth continued to cool. Finally, I was somewhat comforted by the fact that both market and survey measures of long-run inflation expectations appeared well anchored at our 2 percent target (see Figure 2).
+1
+PCE Inflation
+12-month percent change
+Loading figure 1a...
+Loading figure 1b...
+Note: Dashed lines represent 2000–2005 average. PCE—personal consumption expenditures. Gray bar indicates recession.
+Source: Bureau of Economic Analysis.
+2
+Inflation Expectations
+Loading figure 2a...
+Loading figure 2b...
+Note: Market-based series have -30 basis point adjustments. Gray bar indicates recession.
+Sources: University of Michigan, Federal Reserve Bank of New York, Bloomberg.
+Meanwhile, the labor market appeared lukewarm but largely stable with the unemployment rate having hovered around 4.3 percent since May 2025, somewhat above my estimate of the rate consistent with maximum employment (see Figure 3). We had been in a low hire, low fire environment for some time.
+Loading figure 3...
+Thus, while we appeared to be modestly missing on both sides of our dual mandate, I had more confidence that inflation was headed back to target than that the labor market was on track to reach maximum employment. Given that I viewed policy as mildly restrictive, some further cuts to the federal funds rate would likely be appropriate over time. Hence, I supported including the “additional adjustments” language in the policy statement, and my December and March Summary of Economic Projections (SEP) indicated one more 25 basis point cut in 2026. The conflict in the Middle East had just begun when the FOMC met in March; hence, it did not yet lead me to adjust my outlook since it was unclear how long the conflict would last and how severe any potential disruptions would be.
+Some Parallels to the War in Ukraine
+The conflict in the Middle East isn’t the first conflict to disrupt the oil market, and we can potentially learn from prior disruptions. For example, while there are important differences between the Russia-Ukraine war and the Iran war, there are important parallels that I believe are relevant to today.
+When Russia invaded Ukraine, U.S. inflation was much higher than it is today, stemming from multiple waves of COVID-19 and the resulting supply disruptions, but it had been elevated for less than a year after a decade of below-target inflation. The labor market was rapidly tightening as firms struggled to find workers. Monetary policy was still at the effective lower bound. Those are very different economic starting conditions for the two conflicts.
+The worst initial fears of oil, gas and grain shortages stemming from the Ukraine war did not materialize because most products eventually found their way to global markets, ultimately limiting shortages and muting lasting price effects. Nonetheless, the war in Ukraine did lead to an oil and commodity shock wave that contributed to high and persistent inflation all around the world, including in the United States.
+Regarding the Iran conflict, if the Strait of Hormuz remains closed, it is hard to see how oil, gas and other important commodities produced in the Middle East could find alternative routes to market. In addition, in some cases, supply infrastructure has been damaged, which could take time to repair even after supply routes reopen.
+As Figure 4 shows, the increase in oil prices from the Iran conflict is already as large as or, by some measures, larger than the increase that resulted from the Ukraine war, albeit starting from a lower overall price level.
+4
+Brent Crude Oil Market Price: 2022 vs. 2026
+Loading figure 4a...
+Loading figure 4b...
+Note: The "0" on the x-axis represents February 3, 2022, and February 6, 2026, respectively. These dates are three weeks prior to the start of the wars in Ukraine and Iran.
+Source: U.S. Energy Information Administration.
+The Iran War Has Increased Risk to Both Sides of Our Dual Mandate
+Although there are many potential economic scenarios that could result from the Iran war, for monetary policy, I am focused on two primary ones:
+The first scenario is a fairly quick reopening of the Strait of Hormuz. Financial markets appear to be adopting this scenario as their base case, as indicated by oil futures, which expect prices to fall to around $88 by year-end 2026. Even in this more benign scenario, Blue Chip forecasters expect core inflation (PCE) to be 3 percent this year (up from an expectation of 2.7 percent as of January). If they are right, core inflation will have been at roughly 3 percent for three years in a row. Such a meaningful inflation shock could put downward pressure on spending in the U.S. as consumers are forced to cut back on less-essential purchasing, potentially pressuring the U.S. labor market. In such a scenario, I could imagine the optimal monetary policy response to be holding rates where they are for an extended period and then easing only gradually, once the inflation shock has begun fading, having proven to be transitory.
+The second scenario is more concerning, with an extended closure of the Strait of Hormuz and potentially further damage to energy and commodity infrastructure in the Middle East. If this were to happen, the price shock wave could be much larger than is currently expected, driving up both inflation and unemployment in the U.S. With inflation having been elevated for almost six years and counting, I believe the FOMC would have to take very seriously the risk of an unanchoring of long-run inflation expectations. While financial market indicators suggest expectations are anchored today, I believe those signals assume both a more benign war scenario and an FOMC that is committed to defending that anchor. Hence, we likely would have to follow through with a strong policy response to vindicate those expectations. Federal funds rate increases, potentially a series of them, could be warranted, even at the risk of further weakness to the labor market. I firmly believe that anchored long-run inflation expectations are necessary for achieving maximum employment and a vibrant economy.
+Given the uncertainty about the path of the conflict and the resulting effects on inflation, employment and economic growth, I believe the FOMC should offer a policy outlook that signals that the next rate change could be either a cut or a hike, depending on how the economy evolves. This could tighten financial conditions somewhat today, pushing back against a high-inflation scenario that could require an even stronger monetary policy response in the future.
+Endnote
+1
+These comments reflect my own views and not necessarily the views of the Federal Open Market Committee or others in the Federal Reserve System.
+More On
+Monetary Policy
+Inflation
+Policy
+More On
+Monetary Policy
+Inflation
+Policy
+Related Content
+Three Questions
+Article
+Tariff Impacts: Delayed or Avoided?
+Article
+Potential Implications of Announced Tariffs for Monetary Policy
+Article
+Related Content
+Three Questions
+Article
+Sign up for news and events
+Sign up for emails to get the latest news, research, and information from the Federal Reserve Bank of Minneapolis
