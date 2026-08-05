@@ -1,0 +1,133 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 4, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "Fireside Chat"
+     2026 CEO & Senior Management Summit and Annual Meeting (Virtual)
+     Virtual, 12:45 p.m. ET
+     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed;
+       recover via local 'python3 main.py refetch')
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  BOWMAN  |  Vice Chair for Supervision  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS: NOT SCORED — TRANSCRIPT PENDING
+
+The 5:30am ET GitHub Actions scraper found no transcript for this event.
+Subsequent refetch via this environment produced proxy_blocked errors against
+federalreserve.gov; WebFetch of the standard URL pattern
+(federalreserve.gov/newsevents/speech/bowman20260804a.htm) also returned
+HTTP 403. The official transcript has either not yet been posted to the
+Fed Board website or could not be reached from this network environment.
+
+This is Bowman's FIRST post-July-29 FOMC communication and her first public
+appearance with policy content since May 29, 2026 — a 67-day gap during
+which the committee met twice and voted 9–3. Her pre-July-29 position was
+the committee's most explicit dovish outlier: she endorsed the easing bias
+language that Hammack, Kashkari, and Logan dissented against (Apr 29), and
+her May 29 characterization of policy as "moderately restrictive" is unique
+on the current committee. Whether she moves toward the dissenting bloc or
+reinforces the majority hold-and-wait consensus is the highest-priority
+unresolved question among 9-0 majority voters.
+
+RECOVERY ACTION ITEM:
+  Source: https://www.federalreserve.gov/newsevents/speech/bowman20260804a.htm
+    (or check the Fed Board 2026 August calendar:
+     https://www.federalreserve.gov/newsevents/2026-august.htm)
+  Method: python3 main.py refetch (from local, non-proxy-blocked IP)
+  Priority: HIGH — first post-FOMC policy-content speech from the
+    committee's most dovish voter; score against the May 29 pre-FOMC
+    baseline (data/scored/speeches/20260529_Michelle_W__Bowman_scored.txt)
+  Event format: fireside chat — if only a summary/event stub is posted
+    (no full transcript), flag as NOT SCORED — TRANSCRIPT NOT AVAILABLE
+    and document the known context.
+
+BASELINE CONTEXT (for when recovery runs):
+  Pre-FOMC baseline: May 29, 2026 — "A Framework for Practical Monetary
+    Policy Decision Making," Reykjavík Economic Conference 2026.
+    Key positions: "moderately restrictive" (unique committee framing);
+    explicit easing bias endorsement; look-through on energy inflation
+    conditional on no second-round effects; cut signal retracted but
+    no hike signal either.
+  Last economic outlook scored: May 29, 2026 (July 13 and July 14
+    speeches both classified Type B, no policy content).
+  Prior speech to July 29 FOMC: the July 29 meeting produced three
+    hawkish dissenters who explicitly contested the supply-shock
+    framing Bowman endorsed in May. Whether her look-through holds
+    or narrows is the signal to watch.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday, August 6, 2026
+────────────────────────────────────────────────────────────────
+  (None confirmed for Thursday August 6)
+
+NOTE: Governor Cook delivered remarks at the AEDC 2026 Economic Luncheon,
+  Anchorage, Alaska, today (Wednesday, August 5, 8:05 p.m. ET) — this
+  will be covered in tomorrow's daily report (REPORT_DATE: August 5, 2026).
+  Cook is the highest-priority scheduled event of the week: her July 15
+  "prepared to act" conditional is the most hawkish language on record from
+  a majority-side voter; whether she renews or retreats will determine how
+  far the committee's center has moved toward the dissenting bloc.
+
+Unconfirmed but plausible this week and next:
+  • Bowman transcript recovery (see above) — if the Aug 4 fireside chat
+    transcript is posted, score it promptly.
+  • Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas) — all
+    three dissenting officials have written statements (July 31) but no
+    full follow-up Type A speech yet. Pattern from prior dissent cycle
+    (April 29): each published a full speech within 7–14 days. Highest-
+    priority: Kashkari, whose July 31 statement was unusually doctrinal
+    (no labor market assessment) and left his growth-risk view unresolved.
+  • Waller (Board Governor) — voted with the July 29 majority; his June
+    CPI hike-conditionality threshold (stated July 13) was not cleared by
+    the June data, so he stayed hold. His July 29 positioning and any
+    updated conditionality for September are high priority.
+  • Williams (NY Fed, Troika) — last scored July 15 ("inflation has
+    peaked"); no confirmed post-July-29 appearance. His characterization
+    directly rebuts the dissenters' ongoing-elevated-demand argument.
+
+CALENDAR MARKERS:
+  Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 meeting (Type D).
+    Highest-value scheduled document before Jackson Hole: shows the
+    distribution of supply-vs-demand attribution views among non-
+    dissenting participants, and whether 9–3 understates the actual
+    hawk tilt within the majority.
+  Aug 27–29 — Jackson Hole Economic Policy Symposium, Jackson Lake
+    Lodge, WY. Theme: "Financial Innovation: Implications for Payments
+    and Policy." Warsh keynote expected Friday August 28 (Type G, highest
+    priority). Chair Warsh described his remarks on July 29 as "a blank
+    piece of paper right now."
+  Sat Sep 5 — Next blackout begins (September 15–16 FOMC; IS a
+    projection meeting: SEP + dot plot, Type I). Open communication
+    window runs August 1 through September 4.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 4, 2026:
+  Bowman (Aug 4, 2026):  https://www.federalreserve.gov/newsevents/speech/bowman20260804a.htm
+    [NOT YET RETRIEVED — recover via python3 main.py refetch from local IP]
+
+Reference FOMC (July 29, 2026):
+  Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement diff:  data/reports/fomc/20260729_statement_diff.txt
+  Canonical daily: data/reports/daily/20260729_daily.txt
+
+Dissent statements (July 31, 2026):
+  Hammack:  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+  Kashkari: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+  Logan:    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
+Bowman pre-FOMC baseline (May 29, 2026):
+  https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
+  Scored: data/scored/speeches/20260529_Michelle_W__Bowman_scored.txt
+
+Upcoming events:
+  Fed Board August calendar:  https://www.federalreserve.gov/newsevents/2026-august.htm
+  Jackson Hole 2026:          https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+════════════════════════════════════════════════════════════════
