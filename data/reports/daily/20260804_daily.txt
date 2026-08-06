@@ -3,13 +3,42 @@ FED MONITOR — DAILY UPDATE
 Date: August 4, 2026
 Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
 ════════════════════════════════════════════════════════════════
-SPEECHES TODAY
+
+⚠⚠ CORRECTION — issued August 6, 2026. READ BEFORE THE BODY OF THIS REPORT.
+
+  This report is WRONG about Bowman. It carried a Bowman fireside chat as an
+  August 4 event with status "NOT SCORED — TRANSCRIPT PENDING," and attributed
+  the absent transcript to a fetch failure.
+
+  There was no fetch failure and no missing transcript. The event is scheduled
+  for AUGUST 8, 2026, 12:45 p.m. ET, per the Federal Reserve Board's August
+  2026 calendar (https://www.federalreserve.gov/newsevents/2026-august.htm),
+  verified August 6. The Board's 2026 speeches index lists no Bowman entry for
+  August at all.
+
+  NOTHING WAS MISSED ON AUGUST 4. There were no Federal Reserve speeches,
+  statements or publications on Tuesday, August 4, 2026. The correct header for
+  this date is "SPEECHES TODAY: (none)."
+
+  The transcript-recovery action items below are VOID — there is nothing to
+  recover. The proxy_blocked and HTTP 403 errors recorded below were the result
+  of requesting a URL for a speech that had not been given. Subsequent
+  `python3 main.py refetch` reports "All prior fetch failures recovered" and
+  data/raw/_fetch_failures.json is absent.
+
+  The substantive analysis of Bowman's position that follows — her May 29
+  baseline, her status as the committee's dovish outlier, and why her first
+  post-July-29 appearance is the highest-priority unresolved question among
+  majority voters — remains valid. It is simply still ahead of us, not behind.
+  See data/reports/daily/20260805_daily.txt for the corrected forward calendar.
+
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY  [SUPERSEDED — see correction above; correct entry is "(none)"]
   1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
      "Fireside Chat"
      2026 CEO & Senior Management Summit and Annual Meeting (Virtual)
      Virtual, 12:45 p.m. ET
-     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed;
-       recover via local 'python3 main.py refetch')
+     STATUS: [WRONG DATE — event is August 8, 2026. No August 4 event occurred.]
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

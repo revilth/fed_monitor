@@ -1,0 +1,34 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: July 30, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none) — Thursday, July 30. No Federal Reserve speeches, statements or
+  publications. No files dated 2026-07-30 in data/raw/. Day after the FOMC
+  decision; the post-meeting communication window opened this day but no
+  official spoke.
+════════════════════════════════════════════════════════════════
+
+RECORD NOTE
+────────────────────────────────────────────────────────────────
+This file was written on August 6, 2026 as a back-fill. The daily series ran
+20260729 → 20260731 with no file for July 30, so the sequence was broken even
+though the nil return is correct. Verified on back-fill: no raw file carries a
+2026-07-30 date, and no Fed Board or regional bank speech is listed for that
+date. Nothing was missed.
+
+The July 29 FOMC content is in the canonical FOMC-day report,
+data/reports/daily/20260729_daily.txt (9–3 hold at 3.50–3.75%; substantive
+statement text frozen vs. June 17; Hammack, Kashkari and Logan dissenting in
+favor of a 25bp hike). The first post-meeting communications arrived the
+following day — the three dissent statements of July 31, covered in
+data/reports/daily/20260731_daily.txt.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — as it stood on July 30
+────────────────────────────────────────────────────────────────
+  Friday, July 31 — three formal dissent statements published (Hammack,
+  Kashkari, Logan). Not announced in advance; the post-FOMC dissent sweep
+  required by CLAUDE.md is what surfaces these.
+════════════════════════════════════════════════════════════════

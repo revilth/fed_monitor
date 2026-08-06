@@ -1,0 +1,452 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-08-05 | Lisa D. Cook | Governor | Just Voter
+"Outlook for the U.S. and Alaskan Economies"
+2026 Economic Luncheon of the Anchorage Economic Development Corporation,
+  Anchorage, Alaska
+SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm
+
+CLASSIFICATION: Type A — Economic Outlook, with a regional (Alaska) section
+  and an embedded special-topic section on consumer sentiment. The national
+  outlook and monetary policy sections are scored as Type A; the sentiment
+  section is scored where it carries policy content.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+                   Logan dissenting in favor of a 25bp HIKE; substantive
+                   statement text frozen vs. June 17)
+PRE-FOMC BASELINE: July 15, 2026  "Economic Outlook" (Exchequer Club of
+                   Washington D.C.; scored at
+                   data/scored/speeches/20260715_Lisa_D__Cook_scored.txt)
+POST-FOMC PRIOR:   N/A — this is Cook's first communication of any kind since
+                   the July 29 meeting. July 15 is therefore both the prior
+                   speech and the pre-FOMC baseline; the two comparisons are
+                   the same and are reported once.
+
+SIGNIFICANCE: This is the FIRST communication from any member of the nine-vote
+  July 29 majority since the meeting. Everything heard from the Committee
+  between July 29 and today came from the three dissenters (July 31). Cook is
+  also the majority-side voter who carried the most explicit hike conditional
+  into the meeting, so her speech is the first direct read on whether the
+  majority's center is moving toward the dissenting bloc.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace" [Jul 29 stmt]
+  → Cook: "Overall economic growth in the U.S. remains solid this year."
+    Near-verbatim adoption of the statement's adjective.
+
+  "Productivity growth and capital investment are strong" [Jul 29 stmt]
+  → Cook: "Overall business investment rose at a 10 percent annual rate in
+    the first half of the year."
+
+Own language:
+  "After being adjusted for inflation, output grew at a 1.8 percent pace
+   through the first half of the year and is on track to grow at a faster
+   pace in the second half."
+  → Acceleration call. She is not forecasting demand-side disinflation from
+    slowing activity — the opposite. This matters because it removes one
+    channel by which inflation could fall without policy action, and it sits
+    in tension with the three disinflation channels she names later (all
+    three are supply- or base-effect channels, none demand-side).
+
+  "U.S. households appear resilient, with consumer spending advancing at
+   close to a 2 percent rate in the first half. Housing continued to be a
+   soft spot, with the level of residential investment edging down about
+   3 percent."
+  → The only named weak sector. She does not develop it into a policy
+    implication and does not connect it to the level of rates.
+
+Shift vs. prior speech / pre-FOMC (Jul 15):  unchanged, marginal hawkish lean
+  — Same "solid/resilient" verdict. The July 15 speech leaned on forecast
+  ("FOMC participants now forecast that 2026 will come in at 2.2 percent");
+  today she reports realized H1 at 1.8 percent but adds an explicit H2
+  acceleration call. Net framing is unchanged; the acceleration language is a
+  marginal hawkish addition. Her July 15 device of converting growth strength
+  into reduced employment risk ("these developments point in the direction of
+  less risk to the employment mandate") is NOT repeated.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little" [Jul 29 stmt]
+  → Cook: "In June, the unemployment rate was 4.2 percent. That rate has
+    barely changed from a year earlier and aligns with what many economists
+    believe is the natural rate of unemployment."
+
+Own verdict (overall, stated in the summary paragraph):
+  "the labor market appears to be stable, in a low-hire, low-fire
+   environment."
+  → Her topic-opening verdict in the labor paragraph is consistent:
+    "the labor market has remained resilient over the past year."
+
+Own quantification — NEW:
+  "Job growth over the past year has been modest. However, it picked up
+   during the spring months, averaging more than 100,000 jobs added per month
+   in the April through June period."
+  → New specificity vs. July 15's qualitative "payrolls have been growing
+    moderately." Against the shrinking labor-force growth she describes
+    elsewhere, 100k+/month is comfortably above breakeven. Marginal hawkish.
+
+Carry-over — AI displacement risk (unchanged, near-verbatim):
+  Aug 5: "Thus far, the most dire predictions about AI job losses have not
+   materialized. I still see this development as a significant risk but one
+   that has not grown over the past year."
+  Jul 15: "So far, the most dire predictions about an AI job transition have
+   not come to fruition. While I still see this as a significant risk, I do
+   not see it as a greater risk than a year ago."
+  → Recycled formulation. Neutral; no signal. Flagged here specifically so it
+    is not mistaken for a new statement.
+
+Carry-over — low-hire caveat (subsection, not the overall verdict):
+  "The low-hire, low-fire equilibrium hits some groups, including new
+   entrants, especially hard and may restrain worker sentiment for good
+   reason." Bounded exactly as on July 15: "international and state-level
+   evidence suggests that low hiring rates, when they reflect slow population
+   growth, do not signal an impending downturn by themselves."
+
+NOT REPEATED — the July 15 risk-balance sentence:
+  July 15 carried "I see few reasons that today's labor market has more risk
+  than a year earlier. Therefore, risks on the employment side have
+  diminished." Today's speech contains no equivalent claim sourced to the
+  employment side. The risk-balance conclusion still appears — but its
+  location and its driver have both moved (see INFLATION).
+
+Shift vs. prior speech / pre-FOMC (Jul 15):  unchanged — Same stable/resilient
+  verdict, same AI caveat, same low-hire bounding, with added payroll
+  specificity on the firm side. No deterioration acknowledged.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed — AND QUALIFIED (KEY):
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy." [Jul 29 stmt]
+  → Cook: "Elevated energy prices due to the conflict in the Middle East have
+    contributed significantly to inflation over the past year, but it is not
+    the only factor. Core prices, which exclude food and energy costs, rose
+    3.3 percent over the same period."
+  → This is the first majority-side response to the analytical question the
+    July 31 dissent statements posed. Hammack and Logan attacked the
+    statement's supply-shock attribution as insufficient and argued the
+    residual is demand. Cook does NOT endorse the statement's attribution
+    unqualified: she affirms the energy leg, then says explicitly it "is not
+    the only factor" and supplies core at 3.3 percent as the evidence.
+  → But she does not follow the dissenters to a demand-side conclusion. She
+    names a second, specific source instead:
+
+  "This year has brought two unexpected sources of price pressure: The Middle
+   East conflict has driven the cost of energy and certain other goods
+   higher, and companies are ramping up capital spending to build out
+   artificial intelligence (AI) infrastructure. That investment wave has
+   lifted prices for semiconductors, high-tech equipment, software, and
+   utilities."
+  → [Inference: the AI-capex channel is a demand-driven relative price shift,
+    not a supply shock in the statement's sense — so Cook has in substance
+    conceded part of the dissenters' point while declining their framing and
+    their policy conclusion. She does not characterize it as demand-side
+    herself; this reading is not stated in the text.]
+
+Risk balance — RELOCATED and RE-SOURCED:
+  Aug 5: "Taken together, these developments have shifted the balance of
+   risks toward inflation and away from the labor market."
+  → Same destination as July 15 ("The balance of risks has teetered toward
+    the inflation mandate"), but the driver has flipped. On July 15 the tilt
+    was produced by the employment side improving; today it is produced by
+    the two price-pressure sources, and the sentence sits in the inflation
+    paragraph. Substantively similar conclusion, different mechanism.
+
+Own language — KEY (level verdict, carry-over):
+  "my assessment is simple: Inflation is too high. This has been my long-held
+   view."
+  Jul 15: "The initial assessment is easy: inflation is simply too high."
+  → Recycled, register unchanged. Reinforced with duration: inflation "has
+    exceeded the Federal Open Market Committee's (FOMC) 2 percent target for
+    more than five years."
+
+Data: PCE 3.7 percent 12-month through June — identical figure to July 15.
+  Core PCE 3.3 percent.
+
+SOFTENED — the core-goods breadth alarm:
+  July 15 carried "Core inflation is also coming in well above what I
+  previously anticipated, driven by core goods prices, which have been
+  increasing at a striking 5 percent annual pace so far this year. … Rising
+  core goods prices underscore the fact that the recent acceleration in
+  inflation is not only an energy price story."
+  Today core is reported flatly at 3.3 percent. The "striking" escalation
+  language, the 5 percent core-goods figure, and the breadth argument are all
+  dropped. The goods pressure is instead attributed to the AI buildout and
+  forecast to ease. Dovish.
+
+CONCEDED — June improvement:
+  "The inflation picture improved modestly in June, the most recent month for
+   which we have data. However, I would not put too much weight on a single
+   data point, especially in what remains a highly uncertain environment."
+  → On July 15 she engaged the same-week soft CPI/PPI and ruled them
+    insufficient at the level ("they still imply that the price index we
+    target rose 3.7 percent"). Today she grants the improvement in her own
+    voice before bounding it. A real, if small, concession — and it sets up
+    the changed trigger word in MONETARY POLICY.
+
+THE STRUCTURAL INVERSION — three named disinflationary forces (NEW):
+  July 15 named TWO reasons risks stay "strongly weighted toward higher
+  inflation." Today she names THREE forces pushing the other way, and the
+  section is the analytical centre of the speech:
+   1. "the effects of tariffs announced last year on the price level are
+      mostly behind us. … We should see some disinflation as the early months
+      of tariff pass-through drop out of the inflation window."
+   2. "while oil prices continue to be elevated relative to early this year
+      because of the Middle East conflict, many forecasters suggest that they
+      will come down by the end of the year, providing some deflationary
+      relief."
+   3. "some of the recent price pressure in goods is due to the relative
+      demand shift from the AI buildout … As supply chains adjust and
+      sector-specific efficiency gains accrue, I believe some of the
+      inflationary pressure coming from the AI buildout will ease."
+  → Item 3 is a DIRECT REVERSAL on her single most-emphasized inflation-risk
+    vector. On July 15 the AI buildout was reason #1 that risks were
+    "strongly weighted toward higher inflation" — "the AI buildout does not
+    show signs of slowing. To date, companies have announced more than $1.5
+    trillion in data center plans, only a small portion of which has been
+    realized." Twenty-one days later the same vector is a source of coming
+    disinflation. The $1.5 trillion figure and the "only a small portion
+    realized" argument do not appear. This is the most consequential single
+    change in the speech.
+  → Each force is hedged ("the exact path of tariff policy remains
+    uncertain"; "similar to tariff policy, uncertainty remains high"; "some
+    of the inflationary pressure … will ease"). None is asserted as done.
+
+RETAINED and SHARPENED — entrenchment risk:
+  "With five years of above-target inflation, the risk grows that higher
+   inflation may become entrenched in price- and wage-setting behavior,
+   leading to persistence that would be much harder for us to attack. The
+   longer inflation is above target, the more likely this scenario becomes.
+   Thus, while we might be able to afford to wait for longer in a different
+   environment, we do not have that luxury in this one."
+  → Carries forward July 15's reason #2 (shock-stacking on a five-year
+    overshoot). The closing clause — "we do not have that luxury in this
+    one" — is NEW and is the hardest sentence in the speech. It is an
+    explicit statement that time is not free, and it is the counterweight
+    that keeps the disinflation-forces section from reading as a stand-down.
+
+Shift vs. prior speech / pre-FOMC (Jul 15):  DOVISH LEAN on the risk
+  architecture, level verdict unchanged — The "too high" verdict, the 3.7
+  percent figure and the five-year duration argument are all recycled intact.
+  What changed is the structure underneath: July 15 named two escalation
+  channels and dismissed the soft data; August 5 names three disinflation
+  channels, concedes June improved, drops the core-goods breadth alarm, and
+  moves the AI buildout from the escalation column to the disinflation
+  column. Partially offset by a sharper entrenchment warning and by her
+  qualification of the statement's supply-shock attribution.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  July 29 hold endorsed as her own vote, with reasons given:
+  "For these three reasons, I felt it was appropriate not to change rates
+   while we see how these factors evolve."
+  → Note what this does: it is a majority voter supplying an explicit
+    rebuttal to the three hike dissents. Her stated ground for not hiking is
+    not that inflation is acceptable — she says it is too high — but that
+    three disinflation channels are already in train. That is a direct answer
+    to Hammack's "now is the time for the FOMC to act" and to Kashkari's
+    "modest hikes now reduce the risk of more aggressive tightening later."
+
+Own language — KEY (hike conditional, direction now NAMED):
+  "As I have described, inflation is too high, and I consider the risks to
+   the inflation side of the dual mandate higher than the risks to the
+   employment side at this point. As such, I am prepared to act by raising
+   rates, if necessary."
+  → July 15 read "If we do not see signs of disinflation soon, I am prepared
+    to act." The verb was unspecified and the direction had to be read from
+    context. Today she names it: "by raising rates." Escalation in
+    explicitness. She remains the only majority-side voter on record with a
+    directional rate conditional.
+
+NEW — cost-of-hiking caveat, and an explicit escape clause:
+  "The labor market and output growth are currently stable. I would consider
+   how a rate increase could negatively affect that stability. Still, I would
+   support an increase, if it becomes necessary to bring inflation down. It
+   may not."
+  → Two additions with no July 15 equivalent. First, a stated cost to
+    hiking — a partial restoration of labor-side weight that was entirely
+    absent on July 15, where the conditionality "now runs one way." Second,
+    "It may not." — a flat two-word concession that the hike may never be
+    required. Nothing of this kind appears in the July 15 text.
+  → This is NOT a restored cut backstop. Her May 27 formulation ("would be
+    prepared to adjust my policy stance downward should the labor market
+    deteriorate") remains dropped. The caveat is a brake on hiking, not a
+    path to easing.
+
+TRIGGER WORD CHANGED (KEY — one word):
+  Jul 15: "If we do not see signs of disinflation soon, I am prepared to act."
+  Aug 5:  "If I do not see signs of continued disinflation soon, I am
+           prepared to act."
+  → "continued" presupposes that disinflation has begun. Read together with
+    her concession that June "improved modestly," the condition she now needs
+    met is continuation of an already-started process rather than initiation
+    of one. On that reading the bar for the conditional to stay unfired is
+    lower than it was on July 15, and the July and August prints need only
+    extend June's pattern.
+  → The competing reading is that "continued" raises the bar by requiring a
+    sustained run rather than a single soft print. The text does not settle
+    it. Flagged for the analyst rather than resolved here.
+
+Cut signal status:  ABSENT — May 27's labor backstop remains dropped.
+Hike signal status: PRESENT, and more explicit than July 15 ("by raising
+  rates"), but with a materially weaker condition attached ("continued
+  disinflation," plus "It may not," plus a stated cost to hiking).
+
+"Mildly restrictive" — NOT formalized:
+  The July 15 scored file flagged whether her wire-reported Q&A framing of
+  the stance as "mildly restrictive" would migrate into prepared text. It did
+  not. This speech contains no characterization of the stance's
+  restrictiveness at all — no "restrictive," no "neutral," no reference to
+  the level of rates relative to either. That July 15 analyst flag resolves
+  NO for now.
+
+Shift vs. prior speech / pre-FOMC (Jul 15):  DOVISH LEAN — the conditional is
+  stated more explicitly while the condition itself is made easier to
+  satisfy, a cost to hiking is acknowledged for the first time, and "It may
+  not" is added. She has made the threat clearer and less likely to be
+  carried out in the same paragraph.
+
+──────────────────────────────────────────────────────────
+EMBEDDED SPECIAL TOPIC — CONSUMER SENTIMENT
+──────────────────────────────────────────────────────────
+Scored because she converts it into a mandate argument, not for its own sake.
+
+  "Consumer sentiment, by many measures, is lower than one would expect in a
+   solid labor market, and perceptions of job availability have continued to
+   worsen. In outreach calls, I hear that vulnerable households are
+   especially dissatisfied with the economy."
+  → Note the one genuinely soft data point in the speech is a labor
+    perception ("perceptions of job availability have continued to worsen"),
+    and she files it under sentiment rather than under the labor market. It
+    does not touch her labor verdict.
+
+Three causes given: AI job-market uncertainty; decades-long structural cost
+  increases (housing, education, health care, elder care, childcare); and
+  "the high inflation experienced over the past five years."
+
+Policy conversion — HAWKISH-SUPPORTING:
+  "In sum, the reasons for low sentiment are real and are deeply concerning.
+   They require a varied and broad policy approach, largely outside the scope
+   of monetary policy. But we have our part to play. As a monetary
+   policymaker, I believe that the best thing we can do in our roles is to
+   ensure that inflation returns to and stays at target."
+  → Soft sentiment is routinely a dovish input; Cook routes it to the
+    opposite conclusion. Weak sentiment becomes an additional reason to
+    prioritize the inflation leg of the mandate. Reinforced in the
+    conclusion: "If you take away one thing from this talk, I hope it is that
+    I am firmly committed to restoring price stability."
+
+──────────────────────────────────────────────────────────
+ALASKA SECTION — regional, low policy content
+──────────────────────────────────────────────────────────
+Explicitly ring-fenced from policy: "When I consider monetary policy, I focus
+on the national picture I just described." One line worth noting for the
+inflation record — "inflation pressure appears to be picking up in the most
+recent readings" (Alaska-specific, not a national claim; do not read across).
+Remainder is regional description: 4.4 percent unemployment, shrinking
+working-age population, oil-and-gas fiscal-vs-household asymmetry.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH LEAN vs. her own July 15 baseline — from a starting
+               point that was the most hawkish on the majority side of the
+               Committee. In absolute terms she remains hawkish: inflation is
+               "too high," the risk balance is tilted to inflation, the only
+               directional conditional she carries is a hike, and she now
+               names it as such.
+
+               The change is in the architecture, not the verdict. Twenty-one
+               days ago she named two channels by which inflation risk was
+               "strongly weighted" higher; today she names three by which it
+               should come down — and the AI buildout, which was her single
+               most-emphasized escalation vector on July 15, has crossed to
+               the disinflation side. She concedes June improved, drops the
+               striking core-goods breadth argument, adds a cost-of-hiking
+               caveat and the words "It may not," and softens her trigger
+               from disinflation to CONTINUED disinflation. Against that she
+               names the hike direction explicitly for the first time and
+               sharpens the entrenchment warning to "we do not have that
+               luxury in this one."
+
+               The honest formulation: she made the conditional more explicit
+               and its condition less likely to fire, in the same paragraph.
+
+               For the committee read, the more important content is that
+               this is the first majority-side voter to speak since July 29,
+               and she does two things the dissenters will notice. She
+               qualifies the statement's supply-shock attribution in her own
+               voice — "but it is not the only factor" — which is the
+               dissenters' opening argument. And she then refuses their
+               conclusion, grounding the hold in three disinflation channels
+               rather than in any claim that inflation is acceptable. The
+               majority's answer to the 9–3 split, at least from Cook, is
+               "the process is already working," not "you are wrong about the
+               level."
+
+Language watch:
+  • "but it is not the only factor" (on the statement's supply-shock
+    attribution) — the single most contested formulation in the cycle.
+    Hammack and Logan attacked it from the demand side on July 31; Cook now
+    qualifies it from the majority side. If Jefferson, Williams or Paulson
+    also decline to defend the attribution unqualified, the September
+    statement's inflation sentence is the language most likely to change.
+    Stage: EMERGING (three officials now qualifying it, from two directions).
+  • "prepared to act by raising rates" — Cook's conditional, direction now
+    named. Waller carries a data-triggered version (Jul 13). Watch whether
+    any third majority voter adopts an explicit rate conditional. Stage:
+    EMERGING (two Just Voters).
+  • "continued disinflation" — the changed trigger word. Watch whether other
+    officials adopt "continued," which would signal the majority has
+    collectively accepted that disinflation has begun. Stage: DISPERSED (one
+    speaker).
+  • AI buildout as a source of coming disinflation ("supply chains adjust and
+    sector-specific efficiency gains accrue") — a reversal of the prevailing
+    committee treatment of AI capex as an inflationary demand shock. If this
+    spreads it materially lowers the committee's inflation-risk assessment
+    without any data changing. Stage: DISPERSED (one speaker, new).
+  • "we do not have that luxury in this one" (on waiting) — entrenchment
+    urgency. Rhetorically close to Hammack's July 31 "the longer that high
+    inflation persists, the more challenging and costly it can be to bring it
+    back down." Stage: EMERGING (a majority voter and a dissenter converging
+    on the persistence argument while disagreeing on the action).
+
+Analyst flag:  YES
+  → (1) PRIMARY: the AI-buildout reversal. On July 15 the buildout "does not
+    show signs of slowing" with "$1.5 trillion in data center plans, only a
+    small portion of which has been realized" — reason #1 that risks were
+    weighted higher. On August 5 it is a source of coming disinflation. No
+    data between the two dates obviously forces this; the July 29 meeting sits
+    between them. Is this Cook updating on evidence, or is it the majority
+    position she signed onto at the meeting appearing in her prepared text?
+    The July 28–29 minutes (Aug 19) should show whether the participant
+    discussion of AI capex moved the same way. This is the highest-value
+    check available before Jackson Hole.
+  → (2) The trigger word. "Signs of disinflation" (Jul 15) → "signs of
+    CONTINUED disinflation" (Aug 5), following her concession that June
+    improved modestly. Does "continued" lower her bar — she needs only
+    continuation from June — or raise it by demanding a sustained run? The
+    July PCE print is the first test, and her reading of it determines
+    whether the most explicit hike conditional on the majority side survives
+    into September.
+  → (3) The disinflation channels are all supply-side or base-effect, while
+    her growth call is for ACCELERATION in H2. She therefore expects
+    disinflation without any demand moderation. If oil does not fall by
+    year-end as she assumes ("many forecasters suggest"), two of her three
+    channels are gone and only the tariff base effect remains. Worth pressing:
+    what is her fallback if the oil assumption fails?
+  → (4) Coverage note for the record — this speech was delivered August 5 and
+    was not collected or scored on the August 6 morning run; it was recovered
+    manually. See the August 5 daily report for the pipeline gap.
+══════════════════════════════════════════════════════════

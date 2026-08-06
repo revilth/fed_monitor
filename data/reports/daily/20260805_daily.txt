@@ -1,0 +1,317 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 5, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Lisa D. Cook  |  Governor  |  Just Voter
+     "Outlook for the U.S. and Alaskan Economies"
+     2026 Economic Luncheon of the Anchorage Economic Development
+     Corporation, Anchorage, Alaska — 4:05 p.m. ET
+     Type A — Economic Outlook (with regional section and embedded
+     special topic on consumer sentiment)
+     STATUS: SCORED — official Fed Board transcript, verified at source
+════════════════════════════════════════════════════════════════
+
+THE DAY IN ONE LINE
+────────────────────────────────────────────────────────────────
+The first member of the nine-vote July 29 majority to speak since the meeting
+softened the risk architecture underneath an unchanged hawkish verdict — and
+declined to defend the statement's supply-shock attribution without qualifying it.
+
+WHY THIS SPEECH MATTERS
+────────────────────────────────────────────────────────────────
+Everything the Committee has said since July 29 came from the three dissenters
+(Hammack, Kashkari, Logan, all July 31). Cook is the first majority voter to
+speak. She is also the majority-side voter who carried the most explicit hike
+conditional into the meeting. Her August 3 flag in this report series — "whether
+she renews or retreats is the highest-priority data point of the week" — is now
+answered, and the answer is: she did both.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  COOK  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Adopts the July 29 statement's adjective directly — "Overall economic growth
+  in the U.S. remains solid this year" — and adds an acceleration call: output
+  grew 1.8 percent in H1 and "is on track to grow at a faster pace in the second
+  half." Business investment up at a 10 percent annual rate; consumer spending
+  near 2 percent; housing the one soft spot, residential investment down about
+  3 percent. She is not forecasting demand-side disinflation from slowing
+  activity — the opposite — which matters given that all three of her named
+  disinflation channels are supply- or base-effect channels.
+  Direction: neutral, marginal hawkish lean
+
+LABOR MARKET
+  Verdict unchanged: "the labor market appears to be stable, in a low-hire,
+  low-fire environment," unemployment 4.2 percent and "barely changed from a
+  year earlier." New quantification on the firm side — job growth "picked up
+  during the spring months, averaging more than 100,000 jobs added per month in
+  the April through June period," comfortably above breakeven against the
+  shrinking labor force she describes. Her AI-displacement caveat and her
+  low-hire bounding are near-verbatim carry-overs from July 15 and carry no
+  signal. Notably, the July 15 sentence that sourced her risk-balance tilt to
+  the employment side ("risks on the employment side have diminished") is not
+  repeated — the tilt survives, but its driver moved.
+  Direction: neutral
+
+INFLATION
+  Level verdict recycled intact — "my assessment is simple: Inflation is too
+  high," above target "for more than five years," PCE 3.7 percent through June
+  (same figure as July 15). Underneath it, the risk architecture inverted. On
+  July 15 she named two channels by which risks were "strongly weighted toward
+  higher inflation"; today she names three disinflationary forces: tariff
+  pass-through dropping out of the 12-month window, oil prices expected to fall
+  by year-end, and AI-buildout price pressure easing as supply chains adjust.
+  The third is a direct reversal — the AI buildout was her single
+  most-emphasized escalation vector three weeks ago ("does not show signs of
+  slowing … $1.5 trillion in data center plans, only a small portion of which
+  has been realized"). She also concedes June "improved modestly" in her own
+  voice, and the striking core-goods breadth alarm from July 15 (goods at a
+  "striking 5 percent annual pace") is gone. Offsetting all of it, the
+  entrenchment warning is sharpened to a new closing line: "while we might be
+  able to afford to wait for longer in a different environment, we do not have
+  that luxury in this one."
+  Direction: dovish lean on the architecture; verdict unchanged
+
+  ⚠ THE STATEMENT ATTRIBUTION — the week's central question, answered.
+  The July 29 statement attributes elevated inflation "in part reflecting supply
+  shocks … including energy." Hammack and Logan attacked that attribution from
+  the demand side on July 31. Cook, from the majority side, declines to defend
+  it unqualified: energy "contributed significantly … but it is not the only
+  factor," with core at 3.3 percent as the evidence. She then names her second
+  source — the AI capital-spending wave, which "has lifted prices for
+  semiconductors, high-tech equipment, software, and utilities." [Inference:
+  that is a demand-driven relative price shift, not a supply shock in the
+  statement's sense — so she concedes part of the dissenters' premise while
+  refusing their framing and their conclusion. She does not characterize it as
+  demand-side herself.]
+
+MONETARY POLICY
+  The conditional is now explicit in direction: "I am prepared to act by raising
+  rates, if necessary" — July 15 read only "I am prepared to act." She remains
+  the only majority-side voter carrying a directional rate conditional. But in
+  the same passage she adds two things with no July 15 equivalent: a stated cost
+  to hiking ("The labor market and output growth are currently stable. I would
+  consider how a rate increase could negatively affect that stability") and a
+  flat escape clause — "Still, I would support an increase, if it becomes
+  necessary to bring inflation down. It may not." Her trigger also moved by one
+  word, from "signs of disinflation" to "signs of CONTINUED disinflation,"
+  which — read with her concession that June improved — presupposes the process
+  has started. She grounds the hold in her three disinflation channels: "For
+  these three reasons, I felt it was appropriate not to change rates." No
+  characterization of restrictiveness appears anywhere; the wire-reported
+  "mildly restrictive" framing from her July 15 Q&A did NOT migrate into
+  prepared text.
+  Cut signal status:  ABSENT (May 27 labor backstop still dropped)
+  Hike signal status: PRESENT, direction named, condition materially weakened
+  Direction: dovish lean
+
+EMBEDDED TOPIC — CONSUMER SENTIMENT
+  Routes a conventionally dovish input to a hawkish conclusion. Sentiment is
+  "lower than one would expect in a solid labor market" and "perceptions of job
+  availability have continued to worsen" — the one genuinely soft labor data
+  point in the speech, filed under sentiment rather than under the labor market,
+  where it does not touch her verdict. Three causes: AI job uncertainty,
+  decades-long structural cost increases, and five years of high inflation. The
+  conversion: "As a monetary policymaker, I believe that the best thing we can
+  do in our roles is to ensure that inflation returns to and stays at target."
+
+NET SIGNAL: DOVISH LEAN — she made the hike conditional more explicit and its
+  condition less likely to fire, in the same paragraph.
+
+vs. PRIOR SPEECH (July 15, 2026):        dovish lean — see below; July 15 is
+  also the pre-FOMC baseline, so the two comparisons are identical and are
+  reported once. This is Cook's first communication of any kind since July 29.
+  The verdict ("too high"), the 3.7 percent figure, the five-year duration
+  argument and the labor verdict are all carried over intact. What changed:
+  three disinflation channels replace two escalation channels; the AI buildout
+  crosses from the risk column to the disinflation column; June's improvement is
+  conceded; the core-goods breadth alarm is dropped; a cost-of-hiking caveat and
+  "It may not" are added; the trigger softens to "continued" disinflation.
+  Against that: the hike direction is named for the first time and the
+  entrenchment warning is sharpened.
+
+vs. PRE-FOMC SPEECH (July 15, 2026):     same comparison — see above.
+
+vs. COMMITTEE SINCE FOMC:                Cook is the fourth official to speak
+  since July 29 and the first from the majority. The three dissenters (July 31)
+  all argued the statement understates the problem and the Fed should already be
+  hiking. Cook agrees the level is unacceptable and agrees the supply-shock
+  attribution is incomplete — then splits from them on the remedy, arguing the
+  correction is already in train. The majority's first answer to the 9–3 split
+  is "the process is working," not "you are wrong about the level." That is a
+  narrower disagreement than the vote suggests.
+
+LANGUAGE TO WATCH:
+  • "but it is not the only factor" (on the statement's supply-shock
+    attribution) — now the most contested formulation of the cycle, qualified
+    by two dissenters from the demand side and by a majority voter from the
+    composition side. If Jefferson, Williams or Paulson also decline to defend
+    it unqualified, the inflation sentence is the language most likely to change
+    in the September statement. Stage: EMERGING.
+  • "prepared to act by raising rates" — direction now named. Waller carries a
+    data-triggered version (July 13). Stage: EMERGING (two Just Voters).
+  • "continued disinflation" — the changed trigger word. Adoption by others
+    would signal the majority has collectively accepted disinflation has begun.
+    Stage: DISPERSED (one speaker).
+  • AI buildout as a source of coming disinflation — reverses the prevailing
+    committee treatment of AI capex as an inflationary demand shock. If it
+    spreads, the committee's inflation-risk assessment falls with no data
+    changing. Stage: DISPERSED (one speaker, new).
+  • "we do not have that luxury in this one" — rhetorically close to Hammack's
+    July 31 "the longer that high inflation persists, the more challenging and
+    costly it can be to bring it back down." A majority voter and a dissenter
+    converging on the persistence argument while disagreeing on the action.
+    Stage: EMERGING.
+
+ANALYST FLAG: YES
+  → PRIMARY: the AI-buildout reversal. Reason #1 for higher inflation risk on
+    July 15; a source of coming disinflation on August 5. No obvious data
+    between the two dates forces the change — but the July 28–29 meeting sits
+    between them. Is this Cook updating on evidence, or the majority position
+    she signed onto appearing in her prepared text? The July 28–29 minutes
+    (August 19) will show whether the participant discussion of AI capex moved
+    the same way. Highest-value check available before Jackson Hole.
+  → The trigger word. "Signs of disinflation" → "signs of CONTINUED
+    disinflation." Does "continued" lower her bar (she needs only continuation
+    from June) or raise it (she demands a sustained run)? The text does not
+    settle it. The July PCE print is the first test, and her reading of it
+    determines whether the most explicit hike conditional on the majority side
+    survives into September.
+  → Her three disinflation channels are all supply-side or base-effect while
+    her growth call is for H2 ACCELERATION — she expects disinflation with no
+    demand moderation. If oil does not fall by year-end as she assumes ("many
+    forecasters suggest"), two of the three channels are gone and only the
+    tariff base effect remains.
+
+════════════════════════════════════════════════════════════════
+PIPELINE NOTE — WHY THIS REPORT IS LATE, AND TWO CORRECTIONS
+────────────────────────────────────────────────────────────────
+This report was produced manually on August 6 after a review of coverage since
+the July 29 press conference. Three defects were found and are recorded here so
+they are not repeated:
+
+  1. NO AUGUST 6 MORNING RUN. The 5:30am collect and 6:30am score jobs did not
+     execute on August 6. The last automated commit is "Score 2026-08-04." The
+     Cook speech — a Type A outlook from a voting Governor, and the first
+     majority-side communication since the FOMC — was therefore uncollected and
+     unscored until manual recovery today. It has now been fetched from
+     federalreserve.gov (HTTP 200, verified) and scored.
+
+  2. THE AUGUST 4 REPORT IS WRONG ON BOWMAN. It carried Bowman's fireside chat
+     as an August 4 speech with status "NOT SCORED — TRANSCRIPT PENDING," and
+     attributed the missing transcript to a fetch failure. There was no fetch
+     failure and no missing transcript: the event is scheduled for AUGUST 8,
+     per the Federal Reserve Board's August 2026 calendar. Nothing was missed on
+     August 4 — there was no Bowman event that day. The August 4 report has been
+     annotated with this correction. Bowman's first post-July-29 communication
+     is still ahead, not behind.
+
+  3. NO JULY 30 REPORT EXISTS. The daily sequence runs 20260729 → 20260731 with
+     no file for July 30. A placeholder recording the nil return for that date
+     has been written so the series is unbroken.
+
+  Prior fetch failures have been cleared — `refetch` reports "All prior fetch
+  failures recovered" and `_fetch_failures.json` is absent. Two regional
+  scrapers timed out on today's collect and are NOT confirmed clean for this
+  period: Kansas City (Schmid, non-voter) and St. Louis (Musalem, non-voter),
+  both read-timeout, no response from origin. Cleveland, San Francisco, Boston,
+  Richmond, Chicago, Philadelphia, Minneapolis, New York and Dallas all
+  responded and show nothing dated after July 31. Atlanta has no transcripts by
+  design (interim president; external media only).
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday, August 7
+────────────────────────────────────────────────────────────────
+  (None confirmed) — no Federal Reserve Board speeches or events are listed for
+  Friday, August 7 on the Board's August calendar, and no regional bank has
+  announced an appearance. Communication window remains open (no blackout until
+  September 5).
+
+NEXT CONFIRMED APPEARANCE
+────────────────────────────────────────────────────────────────
+  Saturday, August 8 — 12:45 p.m. ET
+  Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+  Fireside Chat, 2026 CEO & Senior Management Summit and Annual Meeting
+  (Virtual)
+  [Listed as "8" on the Board's August calendar; a Saturday slot is unusual for
+  a Board event — treat the date as calendar-confirmed but verify the live
+  stream. This is the corrected date; the August 4 report had it as August 4.]
+
+  HIGHEST PRIORITY. This is Bowman's first communication with policy content
+  since May 29, 2026 — a gap spanning two FOMC meetings and the 9–3 vote. Her
+  pre-July-29 position was the committee's most explicit dovish outlier: she
+  endorsed the easing-bias language that Hammack, Kashkari and Logan dissented
+  against on April 29, and her May 29 characterization of policy as "moderately
+  restrictive" is unique on the current committee. With Cook now the first
+  majority voter on record post-FOMC, Bowman marks the other end of the
+  majority's range. Note the format is a fireside chat, so expect Q&A rather
+  than prepared text — an official transcript may not be posted, and YouTube
+  fallback may be required.
+
+STILL AWAITED — no date announced
+────────────────────────────────────────────────────────────────
+  • Hammack, Kashkari, Logan — all three have written dissent statements
+    (July 31) but no full Type A speech yet. Pattern from the April 29 dissent
+    cycle: each published a full speech within 7–14 days, which would put the
+    window at roughly August 7–14. Highest priority among the three is
+    Kashkari, whose July 31 statement was unusually doctrinal and left his
+    growth-risk view unresolved.
+  • Waller (Board Governor) — voted with the majority; his June CPI
+    hike-conditionality threshold (July 13) was not cleared by the June data.
+    Now that Cook has named her direction explicitly, whether Waller updates his
+    conditionality for September is high priority.
+  • Williams (NY Fed, Troika) — last scored July 15 ("inflation has peaked"),
+    the sharpest available rebuttal to the dissenters. No post-FOMC appearance
+    announced.
+  • Jefferson (Vice Chair, Troika) — last scored July 16. No appearance
+    announced.
+  • Warsh (Chair, Troika) — no scheduled speech before Jackson Hole. His only
+    cycle-relevant framing post-July 29 is the press conference; he described
+    his Jackson Hole remarks on July 29 as "a blank piece of paper right now."
+
+CALENDAR MARKERS
+────────────────────────────────────────────────────────────────
+  Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 meeting (Type D).
+    Elevated in value by today's speech: the specific thing to look for is
+    whether the participant discussion of AI capital spending treats it as an
+    inflationary impulse or as a relative price shift that will ease. That is
+    the tell on whether Cook's reversal is personal or committee-wide.
+  Aug 27–29 — Jackson Hole Economic Policy Symposium, Jackson Lake Lodge, WY.
+    Theme: "Financial Innovation: Implications for Payments and Policy." Warsh
+    keynote expected Friday August 28 (Type G, highest priority).
+  Sat Sep 5 — Next blackout begins (September 15–16 FOMC; IS a projection
+    meeting: SEP + dot plot, Type I). Open communication window runs through
+    September 4.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 5, 2026:
+  Cook (Aug 5, 2026):
+    https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm
+    Raw:    data/raw/speeches/2026/Lisa_D__Cook/20260805_Outlook_for_the_U_S__and_Alaskan_Economies.txt
+    Scored: data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+
+Prior speech / pre-FOMC baseline (vs. PRIOR SPEECH and vs. PRE-FOMC SPEECH):
+  Cook (Jul 15, 2026):
+    https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm
+    Scored: data/scored/speeches/20260715_Lisa_D__Cook_scored.txt
+
+Reference FOMC (July 29, 2026):
+  Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement diff:  data/reports/fomc/20260729_statement_diff.txt
+  Canonical daily: data/reports/daily/20260729_daily.txt
+
+Dissent statements (July 31, 2026):
+  Hammack:  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+  Kashkari: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+  Logan:    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
+Calendar:
+  Fed Board August 2026:  https://www.federalreserve.gov/newsevents/2026-august.htm
+  Fed Board 2026 speeches: https://www.federalreserve.gov/newsevents/2026-speeches.htm
+  Jackson Hole 2026:      https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+════════════════════════════════════════════════════════════════
