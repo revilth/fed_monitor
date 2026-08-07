@@ -19,6 +19,7 @@ Verified HTML structures (tested 2026-04-27):
 import json
 import logging
 import re
+import time
 from datetime import date, datetime
 from urllib.parse import urljoin
 
@@ -28,7 +29,8 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 import config
-from src.scrapers.base import BaseScraper, SpeechRecord, get_tier
+from src.scrapers.base import (BaseScraper, SpeechRecord, get_tier,
+                               record_fetch_failure, record_fetch_success)
 
 logger = logging.getLogger(__name__)
 
@@ -873,18 +875,42 @@ class KansasCityFedScraper(BaseScraper):
 
     def fetch_speeches(self) -> list[SpeechRecord]:
         records = []
-        try:
-            # Page is ~620KB; stream it to avoid mid-download timeout
-            with self.session.get(f"{self.base_url}/speeches", timeout=120, stream=True) as resp:
-                resp.raise_for_status()
-                chunks = []
-                for chunk in resp.iter_content(32768):
-                    chunks.append(chunk)
-                html = b"".join(chunks).decode("utf-8", errors="replace")
-            soup = BeautifulSoup(html, "lxml")
-        except Exception as e:
-            logger.warning(f"[Kansas City] Page failed: {e}")
+        index_url = f"{self.base_url}/speeches"
+        # This index is ~620KB behind a slow CDN, so it is streamed rather than
+        # fetched through BaseScraper.get(). That bypass silently cost us every
+        # Schmid speech: a read timeout here used to log a warning and return
+        # empty, so it never reached the failure manifest, `refetch` never
+        # retried it, and Kansas City reported "0" like a genuinely quiet week.
+        # Retry the read, and record a final failure so the gap is visible.
+        html = None
+        last_err = None
+        for attempt in range(config.MAX_RETRIES):
+            try:
+                # (connect, read) — the read leg is the one that times out.
+                with self.session.get(index_url, timeout=(15, 180), stream=True) as resp:
+                    resp.raise_for_status()
+                    chunks = []
+                    for chunk in resp.iter_content(32768):
+                        chunks.append(chunk)
+                    html = b"".join(chunks).decode("utf-8", errors="replace")
+                break
+            except Exception as e:
+                last_err = e
+                logger.warning(
+                    f"[Kansas City] Index fetch attempt {attempt + 1}/{config.MAX_RETRIES} "
+                    f"failed: {e}")
+                time.sleep(2 ** attempt)
+
+        if html is None:
+            status = getattr(getattr(last_err, "response", None), "status_code", None)
+            record_fetch_failure(index_url, source=self.source_name, status=status,
+                                 reason=str(last_err))
+            logger.error(f"[Kansas City] Index unreachable after {config.MAX_RETRIES} "
+                         f"attempts — recorded to the failure manifest: {last_err}")
             return records
+
+        record_fetch_success(index_url)
+        soup = BeautifulSoup(html, "lxml")
 
         for card in soup.select("div.card"):
             time_el = card.select_one("time[datetime]")
