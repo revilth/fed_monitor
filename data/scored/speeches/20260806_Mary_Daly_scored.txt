@@ -1,0 +1,349 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-08-06 | Mary C. Daly | San Francisco Fed President | Non Voter
+"Keynote Remarks at the ESRI International Conference"
+ESRI International Conference, Japan. Keynote (slide-driven) plus moderated
+Q&A, chaired by Prof. Abbach (UC Berkeley). Runtime 53:57.
+SOURCE: https://www.youtube.com/watch?v=t2rAlrfbBCE
+CHANNEL: Federal Reserve Bank of San Francisco — OFFICIAL Fed channel
+
+CLASSIFICATION: Type A — Economic Outlook, delivered as an analytical keynote
+  on shock dynamics. Unusually explicit: it is built around a NAMED two-scenario
+  framework with pre-committed policy responses, which per CLAUDE.md is a
+  stronger signal than descriptive risk language.
+
+⚠ SPEAKER'S OWN DISCLAIMER, stated mid-speech: "this is my judgment, by the
+  way … it doesn't reflect the FOMC's views." Weight accordingly.
+
+⚠ PROVENANCE: auto-transcript of video published on the SF Fed's own YouTube
+  channel — official Fed source, not media. No text transcript on frbsf.org as
+  of 2026-08-07. Slide-driven speech; chart references lack visuals. Verify
+  exact wording against video before quoting.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3)
+PRE-FOMC BASELINE: July 2, 2026  "Banco de España / Santander policy dialogue"
+                   (scored at data/scored/speeches/20260702_Mary_Daly_scored.txt)
+POST-FOMC PRIOR:   N/A — first post-July-29 communication.
+──────────────────────────────────────────────────────────
+
+THE STRUCTURE — A NAMED, TWO-SIDED SCENARIO FRAMEWORK
+──────────────────────────────────────────────────────────
+This is the most analytically explicit document of the post-FOMC cycle. She
+lays out three overlapping shocks, then two named scenarios with different
+policy responses attached:
+
+  SCENARIO ONE (conventional dynamics): "inflation temporarily rises and then
+   dissipates as the shocks subside. But the current mildly restrictive policy
+   that's in place in the US is sufficient to gradually return inflation to the
+   2% target. It would just push it out a little bit."
+   → Policy response: "you might fine-tune the policy level, but you don't
+     really need a large change."
+
+  SCENARIO TWO (compounding): "these overlapping shocks actually have this
+   compounding effect … the effects on inflation are amplified because they've
+   happened at the same time and they're occurring at a point in time when
+   inflation's been above target for over five years. That would suggest that
+   inflation has somehow broadened and it's become more persistent."
+   → Policy response: "policy must be recalibrated and not a little bit but
+     probably more substantially … it would be insufficient to then just do
+     small calibrations, almost surgical calibrations on policy."
+
+THE KEY SENTENCE — the probability weighting has moved:
+  "I increasingly … if you ask me, I think scenario one is still my modal, but
+   if you do the percentages of the modal versus the scenario 2, I think they're
+   much closer together than they used to be. And so it's really important that
+   we not just push scenario two off as a risk that goes in alternative scenario
+   thinking, but that it becomes something we really consider."
+  → She keeps the benign case as modal but explicitly narrows the gap and
+    promotes the adverse case out of the tail into active deliberation. Her CEO
+    metaphor makes it concrete: "both of these scenarios are on the middle of
+    the desk … getting equal attention."
+  → This is the hawkish move of the speech, and it is a probability shift, not
+    a verdict change.
+
+──────────────────────────────────────────────────────────
+GROWTH
+──────────────────────────────────────────────────────────
+Growth is not treated as a mandate concern; it appears only through the shock
+decomposition. The AI investment shock is the one she cannot yet call:
+
+  "The real news if you will right now is technology related spending and price
+   inflation … If you look at technology equipment PCE inflation, it's rising
+   sharply this year and is contributing an outsized share to overall inflation
+   … That is a dynamic where I can't show you the positive picture of it's
+   peaked and it's coming down. This is just something that's continuing to go
+   up and it remains an open question whether this is a relative demand shock
+   and just changes the relative price of technology equipment … or if it's
+   something broader than that because it's competing for resources in a way
+   that spills over into overall inflation."
+  → The most careful treatment of AI capex on the committee: she frames the
+    relative-price vs. general-inflation question explicitly and REFUSES to
+    resolve it. Contrast Cook (Aug 5), who resolves it dovishly (pressure "will
+    ease"), and Paulson (Aug 4), who files it as a reason policy may not be
+    restrictive enough.
+
+Resource-crowding — a genuinely new mechanism in the corpus:
+  "that look can't be simply what do the AI firms think they're creating but in
+   fact what do the other businesses feel like they're not getting or they're
+   paying more for because the AI investment boom is taking resources that they
+   would otherwise have access [to], creating a scarcity problem that we haven't
+   seen yet to my knowledge in the western United States … but it is something
+   we need to watch."
+
+Direction: neutral — growth is an input to the shock analysis, not a concern.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+Own verdict — labor exculpated from inflation, with a productivity mechanism:
+  "right now, we just don't see much pressure, cost push pressure from the labor
+   market in terms of price inflation … [wages are] not growing beyond 2%
+   inflation and productivity. And in fact, if you plot productivity growth, you
+   start to see a gap emerge between the productivity that's being measured in
+   the economy and the pay that workers are receiving, just suggesting that
+   firms are able to handle some of the cost pressure through gains in
+   productivity as opposed to … raising prices for consumers."
+
+Contact intelligence — margin defence through cost-cutting:
+  "We hear a lot of this when we talk to CEOs … they really are working to
+   change the cost profile of their firm. Some of that is being enabled by AI,
+   but some of it's just being enabled by just another look at business
+   processes, trying to do more with fewer workers."
+  → Note the implication she does not draw: firms doing "more with fewer
+    workers" is disinflationary now and a labor-demand risk later. She files it
+    under the disinflation case only.
+
+She names a labor-side trip wire for scenario two: firms telling her "they
+either have to pay more to their workers because of the burden of inflation …
+or their margins are compressed so much they're going to try to pass input cost
+along."
+
+Direction: neutral / dovish on inflation pressure — same conclusion as Paulson
+  ("you're not seeing pressures on inflation in the labor market"), reached
+  through a productivity mechanism she supplies and Paulson does not.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated … in part reflecting supply shocks" [Jul 29 stmt]
+  → Daly's entire keynote is an interrogation of whether that clause justifies
+    the look-through it implies. She neither defends it flatly (Paulson) nor
+    qualifies its composition (Cook) — she asks whether the DOCTRINE behind it
+    still holds when shocks overlap.
+
+The conventional wisdom, stated precisely and then put at risk:
+  "if the shock is temporary, the right appropriate monetary policy is to look
+   through it. The reason being … monetary policy acts with a lag, 12 to 18
+   months … by the time you've raised the rate and that's worked its way
+   through, you haven't affected the shock dynamic, but you've definitely
+   affected the economy and unnecessarily so."
+  → This is EXACTLY Paulson's timing argument (Aug 4: "I would have been too
+    late"), stated as textbook doctrine. Daly then does what Paulson does not:
+    she asks whether it survives three overlapping shocks.
+
+THE COMPOUNDING QUESTION — her original contribution:
+  "before the tariff shock is fully through the economy, the oil shock comes …
+   And then before that's fully dissipated, the AI shock comes … are they going
+   to have a compounding effect? … Will that serve to compound the effects,
+   interact those effects and make this either broader or more persistent …
+   greater than the sum of its parts."
+  → Structurally the same worry as Kashkari's "series of successive supply
+    shocks," but derived analytically with a forecast decomposition rather than
+    by historical analogy, and — critically — left OPEN rather than resolved.
+    Kashkari concludes look-through has failed; Daly says we do not yet know.
+
+FOUR NAMED REASONS FOR SCENARIO ONE (the benign case):
+  1. Limited pricing power — "businesses in the United States have very limited
+     pricing power. They just don't have the ability to pass fully the cost that
+     they're facing on to consumers," evidenced by NY Fed (services) and
+     Richmond Fed (manufacturing) surveys showing expected costs above expected
+     selling prices; and consumers "trading down, moving on."
+     → Direct corroboration of Paulson's Aug 4 pricing-power ceiling, from
+       survey data rather than CEO conversations. Two officials, independent
+       evidence, same mechanism.
+  2. Inflation expectations track gasoline, not broad inflation — unlike the
+     post-pandemic episode where expectations ran far above energy: "gasoline
+     prices are driving the lion's share … of the change in inflation
+     expectations."
+  3. Labor market not generating cost-push (above).
+  4. Long-run expectations "remarkably well anchored" — but see the bounding
+     below.
+
+TWO NAMED REASONS FOR SCENARIO TWO:
+  1. The attention threshold — "3.9% is the average inflation rate between 2021
+     and 2026 … a forthcoming AER paper … argues that consumers' attention to
+     inflation … impacts inflation itself … this author actually estimates that
+     the threshold where people's attention focuses on inflation is 4%. And
+     we're very close to 4%. We are 3.9 on average and 3.7 of late."
+     → A quantified, near-breached trip wire. New to the corpus and the single
+       most concrete escalation trigger any official has named this cycle.
+  2. The producer-consumer price gap — "producer prices are just outpacing
+     consumer prices … PPI in June is 5.5 and consumer price index grows by 3.5
+     … if you index these to 21, the cumulative change still leaves firms
+     behind … at some point firms want to maintain their margins."
+     Plus a contagion mechanism: "if the firm across the street from me is
+     heavily energy dependent and raising prices and the firm down the street
+     is heavily affected by tariffs and raising prices, I might just get into
+     the ethos of everybody else is raising prices. Why don't I try to? That
+     hasn't happened yet to our ability to discern it. But I think it's not a
+     risk we can just push aside and say because we haven't seen it, it isn't
+     there."
+     → NOTE THE TENSION SHE IS TRACKING: reason 1 for scenario one (limited
+       pricing power) and reason 2 for scenario two (compressed margins forcing
+       pass-through) are the SAME FACT read on two horizons. Her framework is
+       internally consistent because pricing power is a stock that depletes.
+       This is the sharpest thing in the speech and it is what Paulson's Aug 4
+       version lacks.
+
+ANCHORED EXPECTATIONS — comfort explicitly refused (Q&A, KEY):
+  Asked whether the Fed can wait until expectations show signs of unanchoring:
+  → "Absolutely not. By the time the anchor drifts, it's really hard to get it
+    back … I think that same vigor has to be applied when we think it could go
+    up the other way. The reason I showed it was just to say we don't have a
+    current alarm bell sounding off."
+  → And: "the longer inflation expectations remain well anchored through big
+    shocks in inflation, the less comfortable they are in a way for evidence …
+    it's small comfort if you're thinking about how long you can tolerate
+    above-target inflation."
+  → Converts the standard reassurance leg into an argument against waiting —
+    the same inversion Cook performed on July 15 ("anchored expectations comfort
+    me only to the extent…"), reached independently.
+  → Also: "Congress didn't say keep inflation expectations well anchored … It
+    said keep price stability in place."
+
+Direction: HAWKISH LEAN — the level verdict is unchanged, but scenario two is
+  promoted from tail to co-equal, a quantified 4% attention threshold is named
+  with current readings just below it, and the anchored-expectations comfort is
+  explicitly refused.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+July 29 hold endorsed without reservation:
+  "I was completely supportive of the decision to hold rates in July."
+
+Stance characterization — "mildly restrictive," inside scenario one:
+  "the current mildly restrictive policy that's in place in the US is sufficient
+   to gradually return inflation to the 2% target."
+  → Same label as Paulson (Aug 4), Collins (May 13) and Cook's July 15 Q&A. But
+    note the difference in status: for Paulson it is an assessment of where
+    policy IS; for Daly it is a premise that holds only in scenario one. In
+    scenario two the same stance is, in her words, "out of position."
+
+The case for waiting — information, not comfort:
+  "we have another meeting coming up in September, which is now just 7 weeks
+   away. And importantly, we have a lot of information we need to collect if
+   we're deciding between scenario one and scenario two. If it was just
+   fine-tuning that I thought we were up against, that would be a different
+   problem. This is a problem where you've got one type of thing that gives you
+   the patience or the ability to hold on and hold for longer and you have
+   another one that says we're out of position and we need to adjust."
+  → The hold is justified as scenario discrimination, not as confidence. That
+    is a materially different rationale from Paulson's ("not a close call") and
+    from Cook's ("three disinflation channels are in train").
+
+Named data triggers for scenario two (Q&A, asked what would trigger a hike):
+  • Tariff goods-price improvement reversing — "if that data that looked
+    positive in the June release goes back up … either the new tariff
+    announcements, the extension of the tariff rates … or it was just a blip …
+    then I think that would be one not great sign."
+  • Whether the war stabilizes and energy prices fall.
+  • The AI resource-crowding channel showing up in non-AI firms' costs.
+
+Closing commitment — the explicit pre-commitment:
+  "be vigilant to watch the information as it comes in, but be very prepared to
+   take the action if the second scenario in particular emerges."
+
+Cut signal status:  ABSENT — cuts are not mentioned in any scenario.
+Hike signal status: PRESENT, conditional on scenario two, and UNUSUALLY LARGE —
+  she pre-commits not merely to hiking but to a NON-INCREMENTAL response
+  ("not a little bit but probably more substantially"; small "surgical
+  calibrations" would be "insufficient").
+
+Direction: HAWKISH LEAN — she endorses the hold while pre-committing to a
+  larger-than-incremental response in the adverse case, and moves that case out
+  of the tail.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN, from the most analytically explicit document of the
+               cycle. Daly endorses the July hold and keeps the benign case as
+               her modal, so nothing in her verdict has changed. What changed is
+               the weighting and the pre-commitment: scenario two is "much
+               closer" to scenario one than it used to be, both are "on the
+               middle of the desk," and her stated response to scenario two is
+               not a hike but a substantial recalibration — explicitly ruling
+               out "surgical" adjustments as insufficient.
+
+               Two things make this the most useful document of the week
+               despite coming from a non-voter. First, the compounding
+               hypothesis is Kashkari's successive-shocks argument rebuilt
+               analytically instead of by historical analogy — and left open
+               rather than asserted, which makes it testable. Second, she names
+               a quantified trip wire nobody else has: a 4% attention threshold
+               against current readings of 3.9% average and 3.7% latest. That
+               converts a doctrinal dispute into a measurable one.
+
+               Her framework also resolves an apparent contradiction running
+               through the majority's case. Paulson (Aug 4) cites limited
+               pricing power as evidence policy is restrictive; Daly cites the
+               same fact, then observes that compressed margins are precisely
+               what eventually forces pass-through. Pricing power is a stock
+               that depletes. That is the strongest analytical objection to the
+               majority's position, and it comes from someone who voted with
+               them in spirit and endorsed the hold.
+
+Position relative to committee:
+  Daly sits between the majority and the dissenters, and is the only official
+  to have built a framework in which both are right under different states of
+  the world. She shares Paulson's timing doctrine and pricing-power evidence,
+  shares Kashkari's overlapping-shocks worry and Cook's refusal to take comfort
+  from anchored expectations, and commits to a response larger than anything
+  the dissenters have asked for — conditional on evidence none of them yet
+  claims to have.
+
+Language watch:
+  • "compounding effect" / "greater than the sum of its parts" (overlapping
+    shocks) — the analytical form of Kashkari's "series of successive supply
+    shocks," and the version most likely to be adoptable by majority members
+    because it is stated as an open question rather than a verdict. Watch for it
+    in the July 28–29 minutes and from Jefferson or Williams. Stage: EMERGING.
+  • The 4% attention threshold — a named, quantified escalation trigger with
+    current readings just below it. Nothing else on the committee is this
+    falsifiable except Paulson's 2.4–2.8 underlying estimate. Stage: DISPERSED
+    (first use).
+  • "mildly restrictive" — now Paulson, Collins, Cook (Q&A) and Daly. Stage:
+    COMMITTEE-WIDE among non-Troika, and directly contested by Kashkari.
+  • "policy must be recalibrated and not a little bit" — the only
+    non-incremental response on record; contrast Kashkari's "small steps."
+    Stage: DISPERSED.
+  • "By the time the anchor drifts, it's really hard to get it back" — the
+    anti-complacency inversion of anchored expectations, matching Cook's
+    July 15 bounding. Stage: EMERGING (two officials, independently).
+
+Analyst flag:  YES
+  → (1) PRIMARY — the pricing-power stock/flow argument. Paulson and Daly cite
+    the same survey evidence to opposite ends: Paulson as proof of
+    restrictiveness, Daly as a depleting buffer whose exhaustion IS scenario
+    two. Whether pricing power is a level or a countdown is the single most
+    decision-relevant open question in the cycle. Watch Barkin's contact
+    intelligence (Richmond manufacturers) for the earliest read.
+  → (2) The 4% attention threshold vs. Paulson's 2.4–2.8% underlying estimate:
+    the committee now has two quantified trip wires that point in opposite
+    directions, because they measure different things (headline experience vs.
+    shock-stripped core). Both are trackable. Ask which one the September
+    decision is actually keyed to.
+  → (3) Daly commits to a LARGER response than any dissenter requests, but only
+    in scenario two. If the compounding evidence arrives, the committee's
+    reaction function is more aggressive than the 9–3 vote implies — the hawkish
+    tail is fatter than the vote count suggests.
+  → (4) She refuses to resolve the AI relative-price-vs-general-inflation
+    question that Cook resolved dovishly and Paulson resolved hawkishly, three
+    days apart. Note that Daly is the one with the SF district's direct line to
+    the AI firms. Her agnosticism is the most informed position on record.
+  → (5) Non-voter status and her explicit disclaimer ("doesn't reflect the
+    FOMC's views") bound how far to read this into committee positioning.
+══════════════════════════════════════════════════════════

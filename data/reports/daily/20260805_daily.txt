@@ -11,7 +11,131 @@ SPEECHES TODAY
      Type A — Economic Outlook (with regional section and embedded
      special topic on consumer sentiment)
      STATUS: SCORED — official Fed Board transcript, verified at source
+
+  2. Neel Kashkari  |  Minneapolis Fed President  |  Just Voter (DISSENTER)
+     "'Now is the time to start slowly moving' rates up"
+     Interview with Andrew Ross Sorkin and Joe Kernen, CNBC "Squawk Box".
+     Runtime 8:28.
+     Type A — Economic Outlook (unscripted broadcast Q&A); scored as the
+     spoken elaboration of his July 31 written dissent statement
+     STATUS: SCORED — from the video's own transcript (his spoken words),
+     not from news coverage. Added August 7; missed by the original run.
+     Full analysis: data/scored/speeches/20260805_Neel_Kashkari_scored.txt
 ════════════════════════════════════════════════════════════════
+
+⚠ ADDENDUM, August 7: this report originally carried only Cook. Kashkari also
+  spoke on August 5, on CNBC. Broadcast interviews are invisible to every layer
+  of the pipeline (see the August 4 report's PIPELINE NOTE). His interview is
+  now scored; the headline finding is summarized in section 2 below and treated
+  in full in the cross-speaker synthesis,
+  data/reports/weekly/20260807_post_fomc_synthesis.txt.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  KASHKARI  |  Minneapolis Fed President  |  Just Voter (DISSENTER)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE FINDING: his conviction is materially lower than the July 31 written
+statement implied. Two disclosures with no written equivalent — "In this case,
+I was undecided. I wanted to go into the meeting and hear all the arguments on
+both sides," and "I wasn't pounding the table that we needed to raise now, and
+if we waited till September, that would be too late." The most doctrinally
+committed-sounding dissenter describes his own vote as a marginal call made in
+the room. September pricing built off the 9–3 count is probably overstating the
+bloc's firmness — for him. Hammack and Logan have made no equivalent admission;
+do NOT read it across.
+
+GROWTH  Supplies the empirical leg his written statement omitted, all of it
+  against the restrictiveness claim: "Corporate earnings are through the roof …
+  The consumer is hanging in there. The labor market is hanging in there. I look
+  at this constellation and I say, what evidence do I have that monetary policy
+  is particularly restrictive right now?" Direct antagonist to Paulson the
+  previous day, who read subdued housing and capped pricing power as evidence
+  FOR "mildly restrictive."
+  Direction: hawkish
+
+LABOR MARKET  Four words — "the labor market is hanging in there." No
+  unemployment rate, no payrolls, and notably no claim that labor is generating
+  inflation. His case for hiking does not rest on labor tightness.
+  Direction: neutral
+
+INFLATION  ⚠ A MATERIAL CLARIFICATION: he SUBORDINATES demand. "I don't think
+  most of the inflation that we've experienced is because of economic growth and
+  robust demand. I think most of the inflation has been because of these
+  successive supply shocks. There is a demand element on top of it as well." His
+  July 31 statement had named data centers as "a new demand element." This
+  separates him from Hammack and Logan, who argue the residual IS demand — the
+  three dissenters voted identically for materially different reasons.
+  The 1970s analogy is ESCALATED from assertion to sourced charge: "I went back
+  to the transcripts from the 1970s. In the 1970s, the Burns Fed also diagnosed
+  the high inflation as a series of successive supply shocks … I don't think
+  anybody would look back and say, 'Boy, the Burns Fed was right to just look
+  through all those supply shocks.'" Hedge retained: "this is not the 1970s."
+  Energy framed as upside risk: "the outlook for the Strait of Hormuz is
+  uncertain. I certainly don't trust the Iranians" — against Cook's same-day
+  assumption that oil falls by year-end.
+  Direction: hawkish on conclusion, dovish on attribution
+
+MONETARY POLICY  Sequence framing retained and EXTENDED. "I'm not calling for a
+  dramatic increase … I would rather get going now in small steps than wait till
+  later, when we have a really entrenched inflation problem and have to raise
+  rates aggressively then." Asked about three hikes by year-end: "that's not
+  impossible in my view" — conditional, but the outer edge of the committee's
+  published option space. Declines to predict September and frames the two
+  intervening inflation prints as decisive. Sets the balance sheet aside:
+  "our primary policy tool is the federal funds rate."
+  Cut signal status:  ABSENT
+  Hike signal status: PRESENT — sequence, "small steps," three hikes "not
+    impossible," urgency explicitly disclaimed
+  Direction: hawkish on path, dovish on urgency
+
+INSTITUTIONAL  First-hand on Warsh's dissent norms: "he likes a good family
+  fight … he said to me, 'Do what you think is the right thing to do for the
+  economy.'" Bears directly on how much signal to read into a 9–3 under this
+  Chair. On communication he DIVERGES from the Chair, defending reaction-function
+  communication ("there's value in continuing the tradition of explaining our
+  reaction function to the public") against Warsh's stated rollback — while
+  Paulson, the day before, declined to defend Fed communication generally. On
+  the reform agenda the median voter is accommodating and the dissenter resists.
+
+NET SIGNAL: HAWKISH in position, MATERIALLY SOFTER in conviction than July 31.
+  Firm on direction, soft on timing, unusually open about how close the call was.
+
+vs. PRIOR (Jul 31 dissent statement):  mixed — hawkish on path (three hikes
+  entertained), dovish on conviction and urgency (undecided; September not too
+  late) and on attribution (most inflation supply-driven).
+vs. PRE-FOMC (May 13, 2026):           hawkish — dissent object moved from
+  forward guidance (Apr 29) to the rate itself.
+vs. COMMITTEE SINCE FOMC:              see the CROSS-SPEAKER NOTE below.
+
+ANALYST FLAG: YES
+  → The conviction disclosure is the single most September-relevant sentence of
+    the week. Also verify the ASR-ambiguous restrictiveness phrase against video
+    (see raw file header): if he said "mildly restrictive," he is directly
+    negating Paulson's label from the previous day.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — TWO VOTERS, ONE DAY, OPPOSITE MECHANISMS
+────────────────────────────────────────────────────────────────
+Cook and Kashkari both spoke August 5 and disagree about almost everything
+except that inflation is too high.
+
+  On the AI buildout: Cook makes it a source of COMING DISINFLATION ("pressure …
+  will ease"); Kashkari lists data centers among the things that could still
+  push inflation up.
+  On oil: Cook assumes prices fall by year-end on forecaster consensus;
+  Kashkari says the Strait of Hormuz outlook is uncertain and he doesn't trust
+  the Iranians.
+  On the supply-shock attribution: Cook says energy is "not the only factor" and
+  points at composition; Kashkari says MOST of it is supply-driven — and that
+  this is precisely why look-through has failed.
+  On the remedy: Cook grounds the hold in three disinflation channels already in
+  train; Kashkari wants to start moving now in small steps.
+
+Read against Paulson the previous day, the axis is no longer majority-versus-
+dissenters. Paulson and Kashkari AGREE the inflation is mostly supply-driven and
+disagree on what follows; Cook disputes the supply diagnosis itself while voting
+with Paulson. Three voters, three incompatible routes to two different votes.
+Full treatment: data/reports/weekly/20260807_post_fomc_synthesis.txt
 
 THE DAY IN ONE LINE
 ────────────────────────────────────────────────────────────────

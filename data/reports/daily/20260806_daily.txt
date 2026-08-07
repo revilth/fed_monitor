@@ -4,168 +4,222 @@ Date: August 6, 2026
 Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  (none) — No Federal Reserve speeches, statements, or publications on
-  Thursday, August 6, 2026. The 5:30am ET GitHub Actions collect job found
-  no new raw files; data/raw/ contains no files dated 2026-08-06.
+  1. Mary C. Daly  |  San Francisco Fed President  |  Non Voter
+     "Keynote Remarks at the ESRI International Conference"
+     ESRI International Conference, Japan. Keynote plus moderated Q&A.
+     Runtime 53:57.
+     Type A — Economic Outlook, built on a NAMED two-scenario framework
+     STATUS: SCORED — video published on the SAN FRANCISCO FED's own
+     YouTube channel (official Fed source). No text transcript on
+     frbsf.org as of August 7.
+
+  2. Alberto Musalem  |  St. Louis Fed President  |  Non Voter
+     Speech on the economic outlook and monetary policy, American
+     Enterprise Institute; Q&A moderated by AEI's Michael Strain
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+       Official remarks were published by the St. Louis Fed, but
+       stlouisfed.org is unreachable from this machine (read-timeout on
+       every attempt; same pattern as kansascityfed.org, while all ten
+       other bank sites respond).
+       RECOVERY: python3 main.py refetch from a different network.
 ════════════════════════════════════════════════════════════════
 
-NO NEW SPEECHES
+THE DAY IN ONE LINE
 ────────────────────────────────────────────────────────────────
-August 6 was a quiet Thursday. No Fed officials gave speeches with recoverable
-transcripts. The day falls in the second week after the July 29 FOMC, within the
-window where dissenting regional presidents (Hammack, Kashkari, Logan) are likely
-to publish full Type A speeches — that window is July 7–14 by analogy with the
-April 29 dissent cycle, meaning the first new full-length dissenter outlook has
-not yet appeared. Cook (August 5) remains the only post-FOMC communication from
-any committee member with substantive economic content.
+The most analytically explicit document of the cycle: Daly endorsed the July
+hold, kept the benign case as her modal — and pre-committed to a response
+LARGER than any dissenter has requested if the adverse case emerges.
 
-NOTE — CALENDAR LOOKUP UNAVAILABLE THIS RUN: The network egress proxy blocked
-all outbound connections during this run (federalreserve.gov, all regional bank
-sites, WebFetch — all returned proxy_blocked). Fresh calendar verification for
-the upcoming week could not be performed. The UPCOMING section below is drawn
-from verified information in the August 5 daily report, supplemented by known
-calendar fixtures. Mark individual speaker entries (unconfirmed) unless derived
-from the Fed Board August 2026 calendar as verified on August 6.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  DALY  |  San Francisco Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠ Speaker's own disclaimer, stated mid-speech: "this is my judgment, by the way
+… it doesn't reflect the FOMC's views."
+
+THE STRUCTURE — two NAMED scenarios with policy responses attached. Per the
+framework, explicit named scenarios are a stronger signal than descriptive risk
+language.
+
+  SCENARIO ONE (conventional): "the current mildly restrictive policy that's in
+   place in the US is sufficient to gradually return inflation to the 2% target.
+   It would just push it out a little bit." → "you might fine-tune the policy
+   level, but you don't really need a large change."
+
+  SCENARIO TWO (compounding): the three shocks — tariffs, energy, AI —
+   "overlapping at a point in time where inflation's already elevated" produce
+   an effect "greater than the sum of its parts," broadening inflation and
+   making it persistent. → "policy must be recalibrated and not a little bit but
+   probably more substantially … it would be insufficient to then just do small
+   calibrations, almost surgical calibrations."
+
+  ⚠ THE KEY SENTENCE — the weighting moved: "I think scenario one is still my
+  modal, but if you do the percentages of the modal versus the scenario 2, I
+  think they're much closer together than they used to be." Both scenarios are
+  now, in her CEO metaphor, "on the middle of the desk … getting equal
+  attention." A probability shift, not a verdict change.
+
+GROWTH
+  Treated only through the shock decomposition. On AI she is the only official
+  to REFUSE to resolve the question: "it remains an open question whether this
+  is a relative demand shock and just changes the relative price of technology
+  equipment … or if it's something broader … because it's competing for
+  resources." Adds a mechanism nobody else has — resource crowding: "what do the
+  other businesses feel like they're not getting or they're paying more for
+  because the AI investment boom is taking resources."
+  Direction: neutral
+
+LABOR MARKET
+  Exculpates labor from inflation, with a productivity mechanism the others
+  don't supply: wages "not growing beyond 2% inflation and productivity," and a
+  gap between measured productivity and pay "suggesting that firms are able to
+  handle some of the cost pressure through gains in productivity as opposed to
+  raising prices." CEO contacts confirm margin defence through cost-cutting —
+  "trying to do more with fewer workers." She files this under disinflation only
+  and does not draw the later labor-demand risk.
+  Direction: neutral / dovish on inflation pressure
+
+INFLATION
+  States the look-through doctrine as textbook — policy "acts with a lag, 12 to
+  18 months … by the time you've raised the rate, you haven't affected the shock
+  dynamic, but you've definitely affected the economy" — which is exactly
+  Paulson's August 4 timing argument. Then asks what Paulson does not: does it
+  survive THREE OVERLAPPING shocks? That is Kashkari's successive-shocks
+  argument rebuilt analytically rather than by historical analogy, and left OPEN
+  rather than asserted — which makes it adoptable by majority members without
+  conceding the Burns charge.
+
+  Four named reasons for scenario one: limited pricing power (NY Fed services
+  and Richmond Fed manufacturing surveys); inflation expectations tracking
+  gasoline rather than broad inflation; no labor cost-push; anchored long-run
+  expectations.
+
+  ⚠ Two named reasons for scenario two, one of them QUANTIFIED:
+   • The attention threshold — "a forthcoming AER paper … argues that consumers'
+     attention to inflation impacts inflation itself … the threshold where
+     people's attention focuses on inflation is 4%. And we're very close to 4%.
+     We are 3.9 on average and 3.7 of late." A near-breached trip wire; the most
+     concrete escalation trigger any official has named this cycle.
+   • The producer-consumer gap — "PPI in June is 5.5 and consumer price index
+     grows by 3.5 … the cumulative change still leaves firms behind … at some
+     point firms want to maintain their margins." With a contagion mechanism:
+     "everybody else is raising prices. Why don't I try to? That hasn't happened
+     yet … But it's not a risk we can just push aside."
+
+  ⚠ NOTE THE INTERNAL LOGIC: limited pricing power is her reason #1 FOR the
+  benign case and compressed margins are her reason #2 FOR the adverse case.
+  These are the same fact on two horizons — pricing power is a stock that
+  depletes. That is the sharpest analytical point of the week and it is exactly
+  what Paulson's version lacks.
+
+  On anchored expectations, comfort explicitly REFUSED (Q&A): "Absolutely not.
+  By the time the anchor drifts, it's really hard to get it back." And: "the
+  longer inflation expectations remain well anchored through big shocks, the
+  less comfortable they are in a way for evidence." Same inversion Cook
+  performed July 15, reached independently.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  "I was completely supportive of the decision to hold rates in July." But the
+  hold is justified as SCENARIO DISCRIMINATION, not confidence: "we have a lot
+  of information we need to collect if we're deciding between scenario one and
+  scenario two. If it was just fine-tuning I thought we were up against, that
+  would be a different problem." Materially different from Paulson's "not a
+  close call" and Cook's "three disinflation channels in train."
+  Named triggers (Q&A): tariff goods-price improvement reversing; whether the
+  war stabilizes and energy falls; AI resource-crowding appearing in non-AI
+  firms' costs.
+  Closing pre-commitment: "be vigilant … but be very prepared to take the action
+  if the second scenario in particular emerges."
+  Cut signal status:  ABSENT — cuts unmentioned in either scenario
+  Hike signal status: PRESENT, conditional on scenario two, and UNUSUALLY
+    LARGE — she pre-commits to a NON-INCREMENTAL response
+  Direction: hawkish lean
+
+NET SIGNAL: HAWKISH LEAN — verdict unchanged, weighting and pre-commitment
+  moved. She endorses the hold, keeps the benign case modal, and promotes the
+  adverse case out of the tail while committing to a bigger response than the
+  dissenters ask for.
+
+vs. PRIOR SPEECH / PRE-FOMC (July 2, 2026):  hawkish lean — the two-scenario
+  architecture is new in this explicit, named form, and the adverse branch is
+  promoted from tail risk to co-equal deliberation.
+
+vs. COMMITTEE SINCE FOMC:  Daly sits between the majority and the dissenters and
+  is the only official to build a framework in which both are right under
+  different states of the world. She shares Paulson's timing doctrine and
+  pricing-power evidence, shares Kashkari's overlapping-shocks worry and Cook's
+  refusal to take comfort from anchored expectations — and commits to a response
+  larger than anything the dissenters have requested, conditional on evidence
+  none of them yet claims to have.
+
+LANGUAGE TO WATCH:
+  • "compounding effect" / "greater than the sum of its parts" — the analytical,
+    adoptable form of Kashkari's successive-shocks doctrine. Watch the Aug 19
+    minutes and Jefferson/Williams. Stage: EMERGING.
+  • The 4% attention threshold — quantified trigger, readings just below.
+    Stage: DISPERSED (first use).
+  • "mildly restrictive" — now Paulson, Collins, Cook (Q&A), Daly. Contested by
+    Kashkari. Stage: COMMITTEE-WIDE among non-Troika.
+  • "policy must be recalibrated and not a little bit" — the only
+    non-incremental response on record; contrast Kashkari's "small steps."
+    Stage: DISPERSED.
+
+ANALYST FLAG: YES
+  → PRIMARY — the pricing-power stock/flow argument. Paulson and Daly cite the
+    same survey evidence to opposite ends. Whether pricing power is a level or a
+    countdown is the most decision-relevant open question in the cycle. Barkin's
+    Richmond manufacturer contacts are the earliest read — and Barkin's July 31
+    remarks remain unscored for lack of a transcript.
+  → The committee now has two quantified trip wires pointing opposite ways:
+    Paulson's shock-stripped 2.4–2.8% underlying, and Daly's lived-headline 4%
+    attention threshold. Which is the reaction function keyed to?
+  → Daly commits to a LARGER response than any dissenter requests. If compounding
+    evidence arrives, the hawkish tail is fatter than the 9–3 implies.
+  → Non-voter status and her explicit disclaimer bound how far to read this into
+    committee positioning.
 
 ════════════════════════════════════════════════════════════════
-UPCOMING — NEXT WEEK: Monday, August 10 – Friday, August 14
+UPCOMING — TOMORROW: Friday, August 7
 ────────────────────────────────────────────────────────────────
-CALENDAR NOTE: Web lookup unavailable this run; entries below are sourced
-from verified data in data/reports/daily/20260805_daily.txt and known
-calendar fixtures. All speaker appearances marked (unconfirmed) unless
-listed as confirmed in that prior report.
+  (None confirmed) — no Board speeches listed; no regional bank has announced an
+  appearance. Communication window remains open (no blackout until September 5).
 
-  BOWMAN  |  Vice Chair for Supervision  |  Just Voter
+NEXT CONFIRMED
+  Saturday, August 8 — 12:45 p.m. ET
+  Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
   Fireside Chat, 2026 CEO & Senior Management Summit and Annual Meeting
-  Virtual, 12:45 p.m. ET — SATURDAY, AUGUST 8 (before next week)
-  SOURCE: Fed Board August 2026 calendar, verified August 6 in prior run
-  NOTE: This is a Saturday event, outside the Mon–Fri next-week window, but
-  is the single highest-priority confirmed appearance on the near-term calendar.
-  Fireside format → expect Q&A, not prepared text; full transcript may not be
-  posted; YouTube fallback may be required.
-  PRIORITY: HIGHEST. First Bowman communication with policy content since
-  May 29, 2026 — a gap of 71 days spanning two FOMC meetings and the 9–3
-  vote. Her pre-July-29 stance was the committee's most explicit dovish
-  outlier: "moderately restrictive" framing (unique on the current committee),
-  endorsement of the easing-bias language the three dissenters opposed (Apr 29).
-  Score against the May 29 pre-FOMC baseline.
+  (Virtual). HIGHEST PRIORITY — first communication with policy content since
+  May 29, spanning two FOMC meetings and the 9–3 vote. Pre-July-29 she was the
+  committee's most explicit dovish outlier. Fireside-chat format: expect Q&A
+  rather than prepared text; an official transcript may not be posted and
+  YouTube fallback may be required.
 
-  HAMMACK / KASHKARI / LOGAN  |  Just Voters (dissenters)
-  (unconfirmed) — No specific events announced for the week of Aug 10–14
-  at the time of the August 5 report. Based on the April 29 dissent cycle
-  analogy, full Type A speeches from Hammack, Kashkari, and Logan should
-  fall within the August 7–14 window (7–14 business days post-vote).
-  Kashkari is the highest priority among the three: his July 31 dissent
-  statement was unusually doctrinal, with no growth or labor assessment,
-  and his "increasingly believe" language is softer than the other two.
-  A full outlook speech is the first opportunity to resolve whether he
-  has a data-contingent exit, how he characterizes the labor market, and
-  whether he maintains the "series of small hikes" framing.
-  Hammack (Cleveland): priority gap is the demand-side attribution — she
-  named demand-side inflationary pressure explicitly in her July 31
-  statement, breaking from the statement's supply-shock framing. Does
-  a full speech retain that as her main argument?
-  Logan (Dallas): lowest incremental information value among the three,
-  as her July 31 statement carried near-verbatim July 16 language and
-  she is the most legible dissenter. Still worth scoring for the
-  institutional framework argument.
+  Hammack and Logan follow-up speeches — expected ~Aug 7–14 on the April pattern.
+  Whether they soften the way Kashkari did determines if the dissent bloc holds.
 
-  WALLER  |  Governor  |  Just Voter
-  (unconfirmed) — No event announced. His July 13 hike conditionality
-  ("FOMC will need to consider tightening in the near term" if CPI hot)
-  was not triggered by the June data. First post-FOMC outlook speech will
-  be the key test for whether he updates his conditionality threshold
-  for July data or shifts register toward Cook's "continued disinflation"
-  framing.
-
-  WILLIAMS  |  NY Fed President  |  Troika
-  (unconfirmed) — No event announced. Last scored July 15. As Troika,
-  his post-FOMC framing — particularly on whether inflation has "peaked"
-  (his July 15 language) and on the statement's supply-shock attribution
-  — is the most consequential open question after Warsh.
-
-  (none confirmed — all other speakers)
-════════════════════════════════════════════════════════════════
-FORWARD CALENDAR MARKERS
-────────────────────────────────────────────────────────────────
-  Sat Aug 8, 12:45 p.m. ET
-    BOWMAN fireside chat (confirmed — see UPCOMING above)
-
-  Wed Aug 19, 2:00 p.m. ET
-    FOMC MINUTES — July 28–29 meeting (Type D, released ~3 weeks post-
-    meeting). Elevated analytical value in this cycle: look for whether
-    participant discussion of AI capital spending treats it as an
-    inflationary demand shock or as a relative price shift expected to ease
-    — this is the key question raised by Cook's August 5 reversal of her
-    July 15 AI-capex framing. Also watch for the distribution of views on
-    the supply-shock attribution ("several" vs. "many"), and the first
-    participant characterization of where policy stands relative to neutral
-    after the 9–3 vote.
-
-  Aug 27–29 — JACKSON HOLE ECONOMIC POLICY SYMPOSIUM
-    Jackson Lake Lodge, Jackson Hole, Wyoming
-    Hosted by Kansas City Fed (Schmid)
-    Theme: "Financial Innovation: Implications for Payments and Policy"
-    WARSH keynote expected Friday, August 28 (TYPE G — highest priority).
-    Warsh described his remarks on July 29 as "a blank piece of paper right
-    now"; the five task forces (communications, balance sheet, data,
-    productivity/jobs, causes of inflation) are the likely source of new
-    content. This is the most important scheduled communication of the cycle
-    before the September 15–16 FOMC.
-
-  Sat Sep 5 — NEXT BLACKOUT BEGINS
-    September 15–16 FOMC (IS a projection meeting: SEP + dot plot, Type I)
-    Open communication window runs through Friday, September 4.
-    Available windows for scheduled speeches:
-      Aug 10–14: two full weeks before Jackson Hole
-      Aug 27–29: Jackson Hole appearances
-      Sep 1–4: final pre-blackout window (4 business days)
-    The September 4 run will produce the required FOMC Cycle Summary.
-
-════════════════════════════════════════════════════════════════
-CYCLE CONTEXT SUMMARY — where things stand entering this week
-────────────────────────────────────────────────────────────────
-Reference FOMC: July 29, 2026 | HOLD 3.50–3.75% | Vote: 9–3
-Dissenters: Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas)
-  — all preferred +25bp hike; first pro-hike dissent coalition since
-  active tightening ended.
-
-Communications since July 29:
-  July 31 — Logan dissent statement (compressed Type A, Dallas)
-  July 31 — Hammack dissent statement (compressed Type A, Cleveland)
-  July 31 — Kashkari dissent statement (compressed Type A, Minneapolis)
-  August 5 — Cook economic outlook speech (SCORED — full Type A, Anchorage)
-
-Net post-FOMC signal:
-  Dissenters (3): unanimously argue current rates are too low; demand-side
-    attribution; hike now. Logan: asks for one move, reversibility pre-built.
-    Kashkari: asks for a series of small moves; doctrinal, not data-driven.
-    Hammack: one move, demand-side language, district evidence of broadening
-    price pressures.
-  Majority first voice (Cook): hawkish verdict maintained ("inflation too
-    high," "prepared to act by raising rates if necessary") but risk
-    architecture softened (three disinflation channels added) and hike
-    condition weakened ("continued disinflation" → process already started).
-    Cost-of-hiking caveat added. "It may not" escape clause added.
-    Net: the gap between the dissenters and the majority is narrower than
-    the 9–3 vote suggests — she accepts the diagnosis, disputes the remedy.
-
-Still to hear from: Warsh (Chair), Jefferson (Vice Chair), Williams (NY Fed
-Troika), Bowman, Waller, Paulson, Barkin, Goolsbee, Collins, Daly, Musalem.
+CALENDAR MARKERS
+  Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 (Type D). Look for: the
+    AI capex characterization (relative price vs. inflationary impulse); the
+    distribution of supply-vs-compounding views; whether "successive shocks"
+    appears as a participant view.
+  Aug 27–29 — Jackson Hole. Warsh keynote expected Fri Aug 28 (Type G).
+  Sat Sep 5 — Blackout begins. Sep 15–16 FOMC + SEP (Type I).
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches August 6, 2026:
-  (none)
+  Daly (Aug 6, 2026):
+    Video:  https://www.youtube.com/watch?v=t2rAlrfbBCE  (SF Fed official channel)
+    Raw:    data/raw/speeches/2026/Mary_Daly/20260806_ESRI_International_Conference_keynote.txt
+    Scored: data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Musalem (Aug 6, 2026):  NOT SCORED — TRANSCRIPT PENDING
+    https://www.stlouisfed.org/from-the-president/remarks  (AEI event)
 
-Prior verified sources carried from August 5, 2026 report:
-  Cook (Aug 5):    https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm
-  Logan (Jul 31):  https://www.dallasfed.org/news/releases/2026/nr260731dissent
-  Hammack (Jul 31): https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
-  Kashkari (Jul 31): https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+Prior speech / pre-FOMC baseline:
+  Daly (Jul 2, 2026):  data/scored/speeches/20260702_Mary_Daly_scored.txt
 
-Calendar (verified in prior run, August 6, 2026):
-  Fed Board August 2026:  https://www.federalreserve.gov/newsevents/2026-august.htm
-  Jackson Hole 2026:      https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+Cross-speaker synthesis for the full post-FOMC cycle:
+  data/reports/weekly/20260807_post_fomc_synthesis.txt
 ════════════════════════════════════════════════════════════════

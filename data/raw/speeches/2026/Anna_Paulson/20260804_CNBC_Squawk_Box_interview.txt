@@ -1,0 +1,73 @@
+SOURCE: https://www.youtube.com/watch?v=6ah9AdhVgpA
+CNBC PAGE: https://www.cnbc.com/video/2026/08/04/philadelphia-fed-president-paulson-we-need-mildly-restrictive-policy-to-bring-inflation-down.html
+
+August 04, 2026
+Interview on CNBC "Squawk Box" with Steve Liesman
+Anna Paulson, President, Federal Reserve Bank of Philadelphia
+Recorded at the Federal Reserve Bank of Philadelphia. Runtime 7:24.
+
+PROVENANCE: YouTube auto-generated transcript of the CNBC video, i.e. Paulson's
+own spoken words. This is the primary communication, NOT news coverage of it --
+no article, wire summary or "key takeaways" page was used. Video-only event with
+no official Philadelphia Fed transcript; YouTube fallback is the sanctioned
+route per CLAUDE.md.
+
+TRANSCRIPT CLEANUP (auto-ASR; every change listed):
+  "Anna Paltz" -> "Anna Paulson"
+  "June PC inflation" -> "June PCE inflation"
+  "Low higher ... low fire" -> "Low hire ... low fire"
+  Speaker turns marked ">>"; interviewer is Steve Liesman.
+CAUTION: auto-transcript. Verify exact wording against the video before
+treating any single phrase as a verbatim quote of record.
+
+------------------------------------------------------------------------
+
+Yeah, I am here with Anna Paulson celebrating your one year and one month anniversary as president of the Philadelphia Federal Reserve Bank.
+
+>> That's right. Yeah.
+
+>> And and you guys just opened up this money in motion exhibit here for the 250th anniversary of the country or or or celebration for the country explaining monetary policy. I hope to go there and understand monetary policy on the backside of it. But let me see if I can understand monetary policy a little better from your perspective about where we're at. Give me your view of the economy right now especially with regard to the trade-offs that you're thinking about when it comes to the dual mandate of employment versus inflation on the other side.
+
+>> Right. So, I mean, so this is a complicated time for monetary policy. We've got an economy that's pretty strong, right? We had, you know, second quarter growth came in, you know, and you know, the top line number wasn't so awesome, but when you look at investment, you look at the consumer, you know, it looks really strong. Um got a labor market that's stable. And you've got inflation that's too high. So, we want to keep the labor market stable and bring inflation down. So, that's the primary challenge. And so, I think we need, you know, policy that's mildly restrictive. And I think policy has been mildly restrictive to get underlying inflation back down to 2% in acceptable time period.
+
+>> How do you judge that policy is mildly restrictive right now? In other words, um there are people who say that all of this investment raises the neutral rate, and so maybe you're not as restrictive as you think you are.
+
+>> And I think that's one of the things that I am assessing constantly. Like, I think that's the key question, right? So, I need to see progress from here. And that means, you know, policy needs to be mildly restrictive. So, on the one hand, you have, you know, some sectors of the economy, the housing market for example, that are very subdued. And you have the wage the labor market where, you know, wage growth is very consistent with 2% inflation, right? Low hire, you know, low fire, you know, you're not seeing pressures on inflation in the labor market. And so, those things I put in the bucket of, you know, mildly restrictive. The other thing is I hear from price setters, you know, CEOs of big companies, especially ones that are selling directly to consumers, that they don't feel like they can pass along cost increases to consumers because consumers aren't in a position to be able to absorb it.
+
+>> on the inflation side.
+
+>> That helps on the inflation side. That's another thing that makes me feel like we're in the mildly restrictive space. But I'm weighing that against, you know, the AI buildout and the investment boom. Stock markets have been, you know, pretty robust. So things like that. So I've got to kind of I'm weighing all of the evidence, keeping an open mind about where we're headed right here.
+
+>> when it comes to the level of monetary policy now or are you sort of I mean, it was 9 to 3. Was it a close call for you at the meeting?
+
+>> So for me, it was it was not a close call. I think that, you know, we're To me, we've, you know, the evidence so far suggests we're in a mildly restrictive stance. Now, there's a couple of things I just talked about this, you know, weighing the balance between mildly restrictive and not restrictive enough. But the other thing is we got to see where where's underlying inflation, right? We've had, you know, I'm trying to measure the depth of water in a pool and there's rocks being thrown into the pool, tariffs, um, you know, energy shocks, things like that. And so, you know, what's the level of the pool? When I look at underlying inflation, when you try to strip out the effects of of those things, you know, I see it somewhere in the range of 2.4, 2.8. Maybe there was a little bit of, you know, mild progress over the last several months, but I want to see more progress on that and that's what I'm really focused on to gauge our progress.
+
+>> You know, I think if we don't see that progress, then we have to be open to recalibrating monetary policy. You know, we need to get to 2%.
+
+>> And that means higher rates in that sense, right?
+
+>> Could be higher rates, could be, you know, same rates for longer. You know, we have to we have to you know, I'm keeping an open mind about what's going to be appropriate.
+
+>> A lot of people have looked at this and said,
+
+>> [clears throat]
+
+>> it's a supply shock. You know, let's look through it. So you could call it Superman um uh monetary policy and that we're just going to look through everything, right? With our x-ray eyes, and we're not going to react to it. But, one of your colleagues, Neel Kashkari, said, "You know what? There's a role for the Fed to play in addressing supply shocks." What do you think about that?
+
+>> So, I have definitely been in the of the view that you should look through supply shocks. I think that, you know, the June PCE inflation data, you know, kind of validate that, right? We saw there that when we had the lull in the conflict in the Middle East, oil prices came down, we got inflation relief, right? If I had tried to affect that through monetary policy, you know, I would have been, you know, too late. It wouldn't have hit at the right time. So, that, you know, that's the logic for looking through supply shocks. Now, you also have to keep, you know, so what I'm looking for is, you know, what's the level in the pool that I when I can get rid of the shocks, but also, are there any second round effects, right? So, that's where monetary policy has a real role to play to keep those shocks in their lane.
+
+>> You have a Fed chairman who wants to perhaps suggest some big changes at the Fed. I want to ask you about some of those changes. What do you think about the idea of not providing forward guidance or the reaction function? You just provided us a whole lot of reaction function, which we didn't get from the Fed chairman. What do you think about that idea?
+
+>> So, when you ask about forward guidance, you know, I think forward guidance means something pretty specific. And so, if I'm So, it really depends on the economic circumstances, right? So, if I'm in the depths of the financial crisis or the COVID crisis, interest rates are at zero, then I can provide more stimulation I can stimulate the economy by letting investors know, "Hey, we're going to be at zero for a while." And that's appropriate forward guidance, right? It's a dictated by the economic circumstances. If I think about right now, you know, I just told you I've got an open mind about what where we go from here. So, I can't provide any forward guidance about where I'm leaning because I'm weighing the evidence along with with everybody else.
+
+>> But, are we better off if we don't hear that from the Fed chairman or from from the Federal Reserve? Are we better off with less information or with more information about your thinking.
+
+>> So, I'm sharing my thinking and I am happy to share my thinking.
+
+>> Talking talks, I get you. How about going to six meetings a year? What do you think about that idea?
+
+>> You know, I'm I'm I think you know, so one of the things the chairman has done is right, come in with all the task forces and you know, there's I think it's it's great to take a fresh look at the way we do things, right? And I I'm excited about those conversations. I'm excited to consider like what's possible. And so, I'm you know, I guess like monetary policy, I'm open-minded there, too. I want to understand better the tradeoffs of, you know, six versus eight, how that all works. But, you know, I'm I I want to I think it's it's healthy to have a good discussion about that.
+
+>> one more in this regard. The dot plot. Do you want to give us your dots or do you not want to give us your dots?
+
+>> All right. So, the dots, you know, sometimes the dots are wonderful, sometimes the dots are not helpful. Um I know that when I sit down with my team and we, you know, think about how we're going to write down our own dots, that is a very healthy discussion because I have to get monetary policy synced up with how I see, you know, inflation going, how I see the labor market going, how I see growth going. And that's a healthy, you know, like internal consistency check. So, it's a really for me. Now, is it a valuable exercise for markets? Does it help to communicate things? Do people get too obsessed with, you know, the median dot versus the entire constellation of dots? There's 19 people around that table and, you know, I think sometimes people want to, you know, be reductionist as opposed to like, wait, what's the breadth of thinking here?

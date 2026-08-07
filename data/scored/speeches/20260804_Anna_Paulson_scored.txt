@@ -1,0 +1,365 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-08-04 | Anna Paulson | Philadelphia Fed President | Just Voter (MEDIAN)
+"Philadelphia Fed President Paulson: We need 'mildly restrictive' policy to
+bring inflation down"
+Interview with Steve Liesman, CNBC "Squawk Box", recorded at the Federal
+Reserve Bank of Philadelphia. Runtime 7:24.
+SOURCE: https://www.youtube.com/watch?v=6ah9AdhVgpA
+CNBC PAGE: https://www.cnbc.com/video/2026/08/04/philadelphia-fed-president-paulson-we-need-mildly-restrictive-policy-to-bring-inflation-down.html
+
+CLASSIFICATION: Type A — Economic Outlook, delivered as an unscripted broadcast
+  interview. Covers all four topics plus an institutional section on the Warsh
+  reform agenda. Treat as Type A but weight the format: seven minutes of
+  unscripted Q&A is not a prepared text, and the ABSENCE of a theme here is
+  weak evidence compared with its absence from a written speech.
+
+⚠ SOURCE DISCIPLINE: this is Paulson's own spoken words, taken from the YouTube
+  auto-transcript of the CNBC video — the primary communication itself, not
+  coverage of it. No article, wire summary or "key takeaways" page was used.
+  Video-only event, no official Philadelphia Fed transcript; the YouTube
+  fallback is the sanctioned route per CLAUDE.md. Auto-ASR: verify exact wording
+  against the video before treating any single phrase as a quote of record.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+                   Logan dissenting in favor of a 25bp HIKE)
+PRE-FOMC BASELINE: May 19, 2026  "Navigating Uncertainty: Inflation, Labor
+                   Markets, and the Stance of Monetary Policy" (Atlanta Fed
+                   Financial Markets Conference; scored at
+                   data/scored/speeches/20260519_Anna_Paulson_scored.txt)
+POST-FOMC PRIOR:   N/A — first post-July-29 communication.
+
+⚠ BASELINE GAP: 77 days, spanning TWO FOMC meetings (June 17 and July 29). Her
+  May 19 remarks predate the June 17 SEP turn and the entire July cycle. Every
+  comparison below therefore measures a two-meeting drift, not a normal
+  inter-speech step, and cannot isolate which meeting moved her.
+
+SIGNIFICANCE: Paulson is this project's assessed MEDIAN VOTER. This is her
+  first communication since May 19 and the first time she has explained the
+  July 29 hold in her own voice. She also puts a NUMBER on underlying inflation
+  for the first time in the 2026 corpus.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace" [Jul 29 stmt]
+  → Paulson: "We've got an economy that's pretty strong."
+
+Own language:
+  "We had, you know, second quarter growth came in, and the top line number
+   wasn't so awesome, but when you look at investment, you look at the
+   consumer, it looks really strong."
+  → She discounts the weak Q2 headline in favour of the internals. Note the
+    direction: the soft print is set aside, the strong components are the read.
+
+  "I'm weighing that against the AI buildout and the investment boom. Stock
+   markets have been pretty robust."
+  → AI capex and asset prices are placed on the NOT-restrictive-enough side of
+    her ledger — the opposite use from Cook (Aug 5), who places the AI buildout
+    on the coming-disinflation side. Same phenomenon, opposite sign, one day
+    apart.
+
+Housing — used as evidence of restrictiveness, not as a growth worry:
+  "you have some sectors of the economy, the housing market for example, that
+   are very subdued … those things I put in the bucket of mildly restrictive."
+  → Analytically important: sectoral weakness is instrumentalised as proof the
+    stance is working, not flagged as a downside risk.
+
+Shift vs. prior speech / pre-FOMC (May 19):  HAWKISH LEAN — On May 19
+  consumption was a stated moderation ("Growth in consumer spending … is more
+  modest. Consumers are continuing to spend — although at a slower pace"). On
+  August 4 the consumer "looks really strong." That is an upgrade of the one
+  component she had flagged as softening.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little" [Jul 29 stmt]
+  → Paulson: "got a labor market that's stable."
+
+Own verdict:
+  "the labor market where wage growth is very consistent with 2% inflation.
+   Low hire, low fire — you're not seeing pressures on inflation in the labor
+   market."
+  → Carries forward her May 19 exculpation of the labor market ("continued
+    high inflation does not appear to be driven by labor market pressures"),
+    unchanged. She then repurposes it: benign wages go "in the bucket of mildly
+    restrictive" — labor is now an input to the restrictiveness assessment
+    rather than a mandate risk in its own right.
+
+THREE MAY 19 CAVEATS DO NOT APPEAR — read with care:
+  Absent here: (a) the soft-data divergence ("what we are hearing from people …
+  suggests somewhat softer labor market conditions"); (b) the 1948 historical
+  anomaly (the only non-recession 1pp unemployment rise); (c) the AI boardroom
+  layoff-pressure flag.
+  → [Inference, LOW confidence: their absence is consistent with reduced labor
+    concern, but this is a seven-minute interview in which she was never asked
+    about labor downside, and she volunteered the topic only as evidence for
+    restrictiveness. Do NOT score the absence as a retraction. This is exactly
+    the case CLAUDE.md's verification rule guards against — treat as UNTESTED
+    until her next prepared text.]
+
+Shift vs. prior speech / pre-FOMC (May 19):  unchanged on the verdict;
+  caveats untested — Same "stable" base case and same labor-doesn't-drive-
+  inflation finding. Whether the May 19 downside caveats survive is the single
+  cleanest question to put to her next prepared speech.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed — AND DEFENDED:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy." [Jul 29 stmt]
+  → Paulson: "you've got inflation that's too high" — verbatim carry-over of
+    her May 19 "Inflation is too high," unqualified.
+
+Own language — KEY, AND NEW TO THE CORPUS (the underlying-inflation number):
+  "I'm trying to measure the depth of water in a pool and there's rocks being
+   thrown into the pool — tariffs, energy shocks, things like that. And so
+   what's the level of the pool? When I look at underlying inflation, when you
+   try to strip out the effects of those things, I see it somewhere in the
+   range of 2.4, 2.8. Maybe there was a little bit of mild progress over the
+   last several months, but I want to see more progress on that and that's what
+   I'm really focused on to gauge our progress."
+  → The most consequential disclosure in the interview. She has never put a
+    figure on underlying inflation before. Against headline PCE of 3.7 percent
+    (Cook, Aug 5), her working estimate is 2.4–2.8 percent — i.e. 0.4 to 0.8
+    percentage points above target, not 1.7.
+  → This is the analytical foundation of the median voter's hold vote, and it
+    is a materially more benign reading of the same data than the dissent bloc
+    derives from it. It also gives the analyst a concrete, trackable series:
+    her stated pool level is now a number that can move.
+
+Supply-shock look-through — DEFENDED against Kashkari BY NAME:
+  Liesman puts Kashkari's position to her directly ("there's a role for the Fed
+  to play in addressing supply shocks").
+  → Paulson: "I have definitely been of the view that you should look through
+    supply shocks. I think that the June PCE inflation data kind of validate
+    that. We saw there that when we had the lull in the conflict in the Middle
+    East, oil prices came down, we got inflation relief. If I had tried to
+    affect that through monetary policy, I would have been too late. It
+    wouldn't have hit at the right time."
+  → A TIMING argument, not a level argument: she does not claim the shocks are
+    small, she claims policy cannot arrive in time to offset them. This is the
+    first direct majority-side rebuttal of the dissent bloc's central doctrinal
+    claim, and it is the exact rebuttal the July 31 Kashkari scored file
+    flagged as the thing to watch for.
+
+Bounded — second-round effects:
+  "are there any second round effects? That's where monetary policy has a real
+   role to play, to keep those shocks in their lane."
+  → The look-through is conditional, not absolute. Her trip wire is pass-through
+    into the underlying rate, consistent with her May 19 three-factor framework
+    where inflation expectations were the named trip wire.
+
+New ground-level evidence — pricing power:
+  "I hear from price setters, CEOs of big companies, especially ones that are
+   selling directly to consumers, that they don't feel like they can pass along
+   cost increases to consumers because consumers aren't in a position to be
+   able to absorb it."
+  → New in the corpus and genuinely informative: a demand-side ceiling on
+    pass-through, which is the mechanism that would prevent second-round
+    effects. She files it under evidence for restrictiveness.
+  → ⚠ INTERNAL TENSION worth pressing: in the growth section the consumer
+    "looks really strong"; here consumers "aren't in a position to absorb"
+    price increases. Both are used to support her hold — strength shows no
+    recession risk, weakness shows no pass-through risk. She is not asked to
+    reconcile them.
+
+Shift vs. prior speech / pre-FOMC (May 19):  DOVISH LEAN on substance — Same
+  "too high" verdict, but the underlying estimate of 2.4–2.8 percent is more
+  benign than anything in the May 19 text, and she now cites the June PCE
+  relief as positive VALIDATION of look-through rather than treating the shock
+  sequence as a growing concern. May 19's "after five years of elevated
+  inflation and a series of supply shocks, this is a real concern" (on
+  expectations fragility) has no equivalent here.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  Endorses the July 29 hold, and rules out that it was marginal:
+  "for me, it was not a close call."
+  → Directly relevant to reading the 9–3. The median voter says her own vote
+    was not near the line. The split is wider than a one-vote-from-flipping
+    reading would suggest.
+
+Own language — the stable label, UNCHANGED:
+  "I think we need policy that's mildly restrictive. And I think policy has
+   been mildly restrictive, to get underlying inflation back down to 2% in an
+   acceptable time period."
+  → "Mildly restrictive" has been her characterization since March 6 and
+    through March 27 and May 19. Four consecutive uses across five months. The
+    label is stable; what moved is the conditional attached to it.
+
+Own language — KEY (the tightening option, now in HER OWN VOICE):
+  "I need to see progress from here."
+  "if we don't see that progress, then we have to be open to recalibrating
+   monetary policy. We need to get to 2%."
+  Liesman: "And that means higher rates in that sense, right?"
+  → "Could be higher rates, could be same rates for longer. I'm keeping an open
+    mind about what's going to be appropriate."
+  → ESCALATION vs. May 19 in grammatical person, which is the signal. On May 19
+    she validated OTHERS' pricing — "it is healthy that market participants have
+    taken on board … scenarios where further tightening becomes necessary." On
+    August 4 higher rates are an option she names for herself, conditional on
+    the absence of progress. The May 19 analyst flag asked whether her
+    tightening language was genuine or hedging; it has now moved from
+    third-person endorsement to first-person conditional.
+  → Note the option set is TWO-SIDED in the hawkish direction only: higher
+    rates or the same rates for longer. Cuts are not mentioned anywhere in the
+    interview.
+
+Neutral rate — the dissenters' challenge CONCEDED as the key question, NOT
+resolved:
+  Liesman: "there are people who say that all of this investment raises the
+  neutral rate, and so maybe you're not as restrictive as you think you are."
+  → Paulson: "that's one of the things that I am assessing constantly. I think
+    that's the key question, right? So I need to see progress from here."
+  → She grants that whether the stance is genuinely restrictive is THE key
+    question — which is precisely the dissenters' argument — and then answers
+    it empirically rather than theoretically: progress in the underlying rate
+    is her test of restrictiveness. Per the Type D neutral-rate precision rule:
+    she does NOT establish that policy is restrictive; she states a method for
+    finding out. Her three named pieces of evidence for "mildly restrictive"
+    are subdued housing, wage growth consistent with 2 percent, and the
+    pricing-power ceiling. Against them she weighs AI capex, the investment
+    boom and robust equities.
+
+Forward guidance — explicitly withheld:
+  "I just told you I've got an open mind about where we go from here. So I
+   can't provide any forward guidance about where I'm leaning because I'm
+   weighing the evidence along with everybody else."
+
+Cut signal status:  ABSENT — no reference to cuts in any form. Her May 19 cut
+  bar ("sustained progress on inflation") is not restated but is not
+  contradicted; the topic did not arise.
+Hike signal status: PRESENT — conditional, first-person, no trigger date and no
+  magnitude. Weaker than Cook's ("prepared to act by raising rates") in
+  commitment, stronger than May 19's third-person scenario endorsement.
+
+Shift vs. prior speech / pre-FOMC (May 19):  HAWKISH LEAN on the option set,
+  unchanged on the stance label — Same "mildly restrictive," same inflation-
+  first framing, but tightening has moved from something the market may
+  reasonably price to something she will consider herself.
+
+──────────────────────────────────────────────────────────
+INSTITUTIONAL — THE WARSH REFORM AGENDA (non-cycle, but on the record)
+──────────────────────────────────────────────────────────
+Asked about the Chair's reported changes. All three answers are non-committal,
+which is itself the finding — the median voter is not pushing back publicly.
+
+  Forward guidance: distinguishes it as a ZLB tool. "if I'm in the depths of
+   the financial crisis or the COVID crisis, interest rates are at zero, then I
+   can … stimulate the economy by letting investors know we're going to be at
+   zero for a while. And that's appropriate forward guidance. It's dictated by
+   the economic circumstances."
+  → A technical narrowing of the term rather than a defence of Fed
+    communication generally. Pressed on whether markets are better off with
+    less information, she deflects to her own practice: "I'm sharing my
+    thinking and I am happy to share my thinking."
+
+  Six meetings a year: "I want to understand better the tradeoffs of six versus
+   eight. I think it's healthy to have a good discussion about that."
+
+  The dot plot: values it internally, doubts it externally. "when I sit down
+   with my team … that is a very healthy discussion because I have to get
+   monetary policy synced up with how I see inflation going, how I see the
+   labor market going … that's a healthy internal consistency check. Now, is it
+   a valuable exercise for markets? … Do people get too obsessed with the
+   median dot versus the entire constellation of dots? There's 19 people around
+   that table and I think sometimes people want to be reductionist."
+  → Relevant to the September SEP (Type I): the median voter is on record
+    warning against reading the median dot in isolation. Apply that caution when
+    scoring the September dot plot.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN on the policy option set; DOVISH on the underlying
+               data read. Both directions are real and they do not cancel — they
+               describe a median voter who has become more willing to name a
+               hike while believing the inflation problem is smaller than the
+               dissenters do.
+
+               The hawkish move is grammatical and therefore easy to miss: on
+               May 19 tightening was something markets could sensibly price; on
+               August 4 it is "could be higher rates," said in the first person,
+               conditional on the absence of progress. The May 19 analyst flag
+               asked whether her tightening talk was genuine or hedging. It has
+               hardened.
+
+               The dovish content is the number. Stripping tariffs and energy
+               out of the pool, she puts underlying inflation at 2.4–2.8
+               percent. Against a 3.7 percent headline, that is a far more
+               benign problem than the dissent bloc describes, and it is why her
+               vote "was not a close call." She then defends the look-through
+               doctrine on TIMING grounds — policy cannot arrive when the shock
+               does — citing the June PCE relief as validation.
+
+               What she did NOT do is resolve the restrictiveness question. She
+               conceded it is "the key question," listed evidence on both sides,
+               and reduced it to an empirical test: does the pool level fall
+               from here. That makes her next two inflation prints, read through
+               her 2.4–2.8 estimate, the highest-value observable for the
+               September meeting.
+
+Position relative to committee — THE MAJORITY IS NOT UNIFIED:
+  Paulson (Aug 4) and Cook (Aug 5) are the only two majority voters on record
+  since July 29, and they split on the statement's own inflation sentence.
+  Cook declines to defend the supply-shock attribution ("but it is not the only
+  factor"); Paulson defends look-through outright and cites June PCE as proof.
+  They also use the AI buildout in opposite directions — Cook as a source of
+  coming disinflation, Paulson as a reason policy may not be restrictive
+  enough. Two majority voters, one day apart, reading the same economy through
+  opposite mechanisms. The 9–3 vote conceals a live analytical split INSIDE the
+  nine.
+
+Language watch:
+  • "somewhere in the range of 2.4, 2.8" (underlying inflation) — a number, not
+    an adjective, from the median voter. Nothing else on the committee is this
+    falsifiable. Watch whether other officials adopt an explicit underlying
+    estimate; if the dissenters name a higher one, the disagreement becomes
+    arithmetic rather than doctrinal. Stage: DISPERSED (first use).
+  • "mildly restrictive" — Paulson's stable label since March 6, now also
+    Collins (May 13) and Cook's July 15 Q&A. It is the CNBC headline phrase, so
+    expect amplification. Stage: EMERGING → COMMITTEE-WIDE. Note the direct
+    antagonist: Kashkari, next day, "what evidence do I have that monetary
+    policy is particularly restrictive right now?"
+  • "could be higher rates, could be same rates for longer" — the median
+    voter's two-sided-hawkish option set, cuts absent. Stage: EMERGING (Paulson,
+    Cook, Waller all now carry a first-person tightening conditional).
+  • Look-through defended on TIMING ("I would have been too late") — a distinct
+    argument from the level-based defence. If Williams or Jefferson adopts the
+    timing form, the majority has a doctrinal answer to Kashkari's 1970s
+    analogy. Stage: DISPERSED (first use).
+  • Pricing-power ceiling ("they don't feel like they can pass along cost
+    increases") — the mechanism blocking second-round effects. Barkin's contact
+    intelligence is the natural corroborator. Stage: DISPERSED.
+
+Analyst flag:  YES
+  → (1) PRIMARY — the 2.4–2.8 percent underlying estimate. This is the median
+    voter's actual decision variable and it is now public and quantified. Two
+    questions: what measure produces it (trimmed mean? core ex-tariff ex-energy?
+    a Philadelphia Fed internal series?), and what value of it would flip her to
+    a hike? She says she needs "more progress"; she does not say from what to
+    what. Worth pressing at her next appearance.
+  → (2) The majority split on supply-shock attribution (Paulson defends, Cook
+    qualifies) is now the central analytical fault line, and it runs INSIDE the
+    nine rather than between the nine and the three. The July 28–29 minutes
+    (Aug 19) should show how wide it is.
+  → (3) The internal tension on the consumer — "looks really strong" for growth,
+    "aren't in a position to absorb" price increases for pass-through. Both
+    support her hold. If the consumer is actually strong, the pricing-power
+    ceiling erodes and her second-round trip wire is closer than she thinks.
+  → (4) Format caveat carried forward: the three May 19 labor caveats (soft-data
+    divergence, the 1948 anomaly, AI layoff pressure) are absent but were never
+    asked about. Do not treat as retracted. Test at her next prepared text.
+  → (5) Coverage note — this interview was delivered August 4 and was not
+    collected by any scheduled run. See the August 4 daily report correction.
+══════════════════════════════════════════════════════════

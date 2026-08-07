@@ -1,0 +1,495 @@
+FED MONITOR — CROSS-SPEAKER SYNTHESIS
+POST-FOMC COMMUNICATION CYCLE: JULY 29 – AUGUST 6, 2026
+════════════════════════════════════════════════════════════════
+Prepared: August 7, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)
+FFR: 3.50–3.75%  |  Next FOMC: September 15–16 (projection meeting, SEP)
+Blackout begins: Saturday, September 5
+════════════════════════════════════════════════════════════════
+
+COVERAGE AND SOURCE STATUS — READ FIRST
+────────────────────────────────────────────────────────────────
+Nine communications were identified in the nine days after the July 29 meeting.
+Five are scored from primary transcripts. Four could not be obtained from a
+primary source and are NOT SCORED, per the hard rule that no analysis is built
+from news coverage.
+
+  SCORED — primary transcript verified
+   1. Jul 31  Hammack   Cleveland      Voter (dissent)   official written stmt
+   2. Jul 31  Kashkari  Minneapolis    Voter (dissent)   official written stmt
+   3. Jul 31  Logan     Dallas         Voter (dissent)   official written stmt
+   4. Aug 4   PAULSON   Philadelphia   Voter (MEDIAN)    CNBC video transcript
+   5. Aug 5   Cook      Board          Voter             federalreserve.gov
+   6. Aug 5   KASHKARI  Minneapolis    Voter (dissent)   CNBC video transcript
+   7. Aug 6   Daly      San Francisco  Non-voter         SF Fed YouTube (official)
+
+  NOT SCORED — TRANSCRIPT PENDING
+   8. Jul 31  Barkin    Richmond       Non-voter
+        No official transcript exists. richmondfed.org's latest posted Barkin
+        speech is May 21 (verified Aug 7). His "close call" remarks were made at
+        a Virginia event with no transcript published. RECOVERY: search video of
+        the event; otherwise this is permanently media-only and must stay
+        unscored.
+   9. Aug 3   Williams  New York       TROIKA
+        Reuters interview. No official transcript — newyorkfed.org's latest
+        Williams speech is wil260715 (July 15, verified Aug 7). Reuters
+        published a verbatim interview transcript; the page timed out on fetch.
+        ⚠ THIS IS THE HIGHEST-PRIORITY GAP IN THE CYCLE — see below.
+  10. Aug 4   Schmid    Kansas City    Non-voter
+        OFFICIAL TEXT EXISTS: kansascityfed.org/speeches/agriculture-the-
+        economy-and-the-kansas-city-fed-august-2026/ — "Agriculture, the
+        Economy, and the Kansas City Fed," Agricultural Economic Summit, Omaha,
+        Nebraska. Host unreachable from this network: read-timeout on every
+        attempt (requests 90s/240s, curl 300s, WebFetch, three background
+        retries). This is the known KC CDN problem, not a block.
+        RECOVERY: python3 main.py refetch from a different network.
+  11. Aug 6   Musalem   St. Louis      Non-voter
+        OFFICIAL TEXT EXISTS: speech on the economic outlook and monetary policy
+        at an AEI event, Q&A moderated by AEI's Michael Strain; the St. Louis
+        Fed published his remarks. stlouisfed.org unreachable — same read-timeout
+        pattern as Kansas City. RECOVERY: refetch from a different network, or
+        AEI may post video/transcript.
+
+  ⚠ Media coverage of items 8–11 was read only to LOCATE the events and is
+  deliberately excluded from every analytical conclusion below. Where a
+  media-reported claim is mentioned, it is marked [UNVERIFIED — DO NOT SCORE]
+  and exists solely to tell you what to look for on recovery.
+
+  ⚠ ALSO NOT CONFIRMED CLEAN: Collins (Boston) and Goolsbee (Chicago) — their
+  bank sites responded and show nothing new, but Goolsbee's appearances are
+  predominantly at external events invisible to the scrapers. Barr, Bowman,
+  Jefferson, Waller, Warsh, Miran: no communications found. Bowman speaks
+  August 8 (Board calendar).
+
+════════════════════════════════════════════════════════════════
+THE HEADLINE — WHAT THIS CYCLE ACTUALLY SHOWED
+────────────────────────────────────────────────────────────────
+The 9–3 vote is a poor description of where the committee is.
+
+Three things emerged in nine days that the vote count conceals:
+
+ 1. THE MAJORITY IS SPLIT ON THE STATEMENT'S OWN INFLATION SENTENCE. Paulson
+    (median voter) defends the supply-shock attribution and the look-through it
+    implies. Cook, voting the same way one day later, declines to defend it:
+    energy "contributed significantly … but it is not the only factor." The
+    fault line runs INSIDE the nine, not between the nine and the three.
+
+ 2. THE MOST COMMITTED-SOUNDING DISSENTER DESCRIBES HIS OWN VOTE AS MARGINAL.
+    Kashkari, whose July 31 written statement reads as settled doctrine, said on
+    August 5 that he went into the meeting UNDECIDED and explicitly denied that
+    waiting until September would have been too late. September pricing built
+    off the dissent count is probably overstating the bloc's firmness — for him.
+    Hammack and Logan have made no equivalent admission; do not read it across.
+
+ 3. THE HAWKISH TAIL IS FATTER THAN THE VOTE SUGGESTS. Daly — who endorsed the
+    hold "completely" — pre-commits to a response LARGER than any dissenter has
+    requested, explicitly ruling out "small … almost surgical calibrations" as
+    insufficient, conditional on evidence of compounding. The committee's
+    reaction function is more aggressive than its vote.
+
+Net committee lean: HAWKISH, and hardening — but through the option set rather
+than through the verdict. Every official who spoke carries a tightening
+conditional and NONE mentions cuts in any form. Cuts have disappeared from the
+committee's spoken vocabulary entirely. That is the cleanest single fact of the
+cycle.
+
+════════════════════════════════════════════════════════════════
+THE CENTRAL ANALYTICAL DISPUTE: IS PRICING POWER A LEVEL OR A COUNTDOWN?
+────────────────────────────────────────────────────────────────
+This is the most decision-relevant disagreement to emerge, and it is not
+between hawks and doves — it is between two officials who voted the same way.
+
+  PAULSON (Aug 4), as evidence policy IS restrictive:
+    "I hear from price setters, CEOs of big companies, especially ones that are
+     selling directly to consumers, that they don't feel like they can pass
+     along cost increases to consumers because consumers aren't in a position to
+     be able to absorb it. … That's another thing that makes me feel like we're
+     in the mildly restrictive space."
+
+  DALY (Aug 6), same fact, opposite horizon:
+    Cites the identical evidence — NY Fed services and Richmond Fed
+    manufacturing surveys showing expected costs above expected selling
+    prices — as reason #1 for the benign scenario. Then, as reason #2 for the
+    adverse scenario:
+    "producer prices are just outpacing consumer prices … PPI in June is 5.5 and
+     consumer price index grows by 3.5 … the cumulative change still leaves
+     firms behind … at some point firms want to maintain their margins. They
+     don't want to take it out of their profits. … they would love to be able to
+     pass these things along."
+    Plus a contagion mechanism: "if the firm across the street from me is heavily
+     energy dependent and raising prices and the firm down the street is heavily
+     affected by tariffs and raising prices, I might just get into the ethos of
+     everybody else is raising prices. Why don't I try to? That hasn't happened
+     yet to our ability to discern it. But I think it's not a risk we can just
+     push aside."
+
+  → Pricing power is a STOCK that depletes. Paulson reads the level; Daly reads
+    the countdown. Both are correct about the data. The question is whether
+    compressed margins are evidence of restriction working or of pass-through
+    building.
+  → This is the strongest analytical objection to the majority's position, and
+    it comes from someone who endorsed the hold. It is also directly testable
+    against Barkin's Richmond manufacturer contacts — which is a further reason
+    the Barkin gap matters.
+
+════════════════════════════════════════════════════════════════
+TWO QUANTIFIED TRIP WIRES — NEW THIS CYCLE, AND THEY POINT OPPOSITE WAYS
+────────────────────────────────────────────────────────────────
+For the first time this cycle, officials put NUMBERS on their decision
+variables instead of adjectives. Both are trackable; they measure different
+things and imply different September decisions.
+
+  PAULSON — underlying inflation, 2.4–2.8% (the benign trip wire):
+    "I'm trying to measure the depth of water in a pool and there's rocks being
+     thrown into the pool — tariffs, energy shocks. So what's the level of the
+     pool? When I look at underlying inflation, when you try to strip out the
+     effects of those things, I see it somewhere in the range of 2.4, 2.8."
+    → Against a 3.7% headline, the median voter's working problem is 0.4–0.8pp
+      above target, not 1.7pp. This is why her vote "was not a close call."
+
+  DALY — the 4% attention threshold (the adverse trip wire):
+    "a forthcoming AER paper … argues that consumers' attention to inflation …
+     impacts inflation itself … this author actually estimates that the
+     threshold where people's attention focuses on inflation is 4%. And we're
+     very close to 4%. We are 3.9 on average and 3.7 of late."
+    → A near-breached threshold on HEADLINE experience.
+
+  → The two are not contradictory — they measure shock-stripped core versus
+    lived headline. But they key the September decision to different series. The
+    question to put to the committee: which one is the reaction function
+    actually running on?
+  → [UNVERIFIED — DO NOT SCORE] Media reporting suggests Musalem also gave an
+    underlying-inflation range (2.5–3.0%) and Schmid also referenced underlying
+    inflation being too high. If confirmed on recovery, "underlying inflation"
+    with an explicit numeric range becomes the cycle's fastest-spreading
+    analytical frame and moves straight to COMMITTEE-WIDE. Recover both texts
+    before drawing that conclusion.
+
+════════════════════════════════════════════════════════════════
+THE AI BUILDOUT: ONE PHENOMENON, THREE INCOMPATIBLE READINGS IN THREE DAYS
+────────────────────────────────────────────────────────────────
+  COOK (Aug 5) — DISINFLATIONARY. Her third named disinflation channel: "some of
+    the recent price pressure in goods is due to the relative demand shift from
+    the AI buildout … As supply chains adjust and sector-specific efficiency
+    gains accrue, I believe some of the inflationary pressure coming from the AI
+    buildout will ease."
+    ⚠ This is a REVERSAL. On July 15 the AI buildout was her reason #1 that
+    risks were "strongly weighted toward higher inflation" — "does not show
+    signs of slowing … $1.5 trillion in data center plans, only a small portion
+    of which has been realized." Twenty-one days later it changed sides. No
+    obvious data forces this; the July 28–29 meeting sits between.
+
+  PAULSON (Aug 4) — REASON POLICY MAY NOT BE RESTRICTIVE ENOUGH. Weighs "the AI
+    buildout and the investment boom. Stock markets have been pretty robust"
+    against her mildly-restrictive assessment.
+
+  DALY (Aug 6) — EXPLICITLY UNRESOLVED, and she is the one closest to the
+    industry: "it remains an open question whether this is a relative demand
+    shock and just changes the relative price of technology equipment … or if
+    it's something broader … because it's competing for resources in a way that
+    spills over into overall inflation." She adds a mechanism nobody else has:
+    resource crowding — "what do the other businesses feel like they're not
+    getting or they're paying more for because the AI investment boom is taking
+    resources that they would otherwise have access to."
+
+  → Three voting-relevant officials, three signs, seventy-two hours. Daly's
+    agnosticism is the most informed position on record given the SF district's
+    line to the AI firms. Cook's resolution is the least supported and is the
+    top analyst flag of the cycle.
+  → [UNVERIFIED — DO NOT SCORE] Schmid is reported to have said AI investment is
+    pushing up inflation "in a way the Fed can't ignore." If confirmed, that is a
+    fourth reading and makes the AI channel the most contested object on the
+    committee.
+
+════════════════════════════════════════════════════════════════
+THE LOOK-THROUGH DOCTRINE — AN OPEN, NAMED EXCHANGE
+────────────────────────────────────────────────────────────────
+The July 31 scored files flagged Kashkari's successive-shocks argument as the
+phrase most likely to be contested. It was contested within four days, in
+public, by name.
+
+  KASHKARI (Jul 31 written, restated Aug 5): "traditional economic analysis says
+    if there's a one-time supply shock, monetary policy should just let that flow
+    through … But now we've had a series of successive supply shocks over four or
+    five years." Escalated on Aug 5 to a sourced historical charge: "I went back
+    to the transcripts from the 1970s. In the 1970s, the Burns Fed also diagnosed
+    the high inflation as a series of successive supply shocks … I don't think
+    anybody would look back and say, 'Boy, the Burns Fed was right to just look
+    through all those supply shocks.'" Hedged: "this is not the 1970s."
+
+  PAULSON (Aug 4), asked about Kashkari's position BY NAME: "I have definitely
+    been of the view that you should look through supply shocks. I think the June
+    PCE inflation data kind of validate that … when we had the lull in the
+    conflict in the Middle East, oil prices came down, we got inflation relief.
+    If I had tried to affect that through monetary policy, I would have been too
+    late."
+    → A TIMING argument, not a level argument. She does not say the shocks are
+      small; she says policy cannot arrive when they do. Bounded by second-round
+      effects: "that's where monetary policy has a real role to play, to keep
+      those shocks in their lane."
+
+  DALY (Aug 6) states Paulson's doctrine as textbook — "monetary policy acts
+    with a lag, 12 to 18 months … by the time you've raised the rate … you
+    haven't affected the shock dynamic, but you've definitely affected the
+    economy and unnecessarily so" — and then asks the question Paulson does not:
+    does it survive THREE OVERLAPPING shocks? "before the tariff shock is fully
+    through the economy, the oil shock comes … And then before that's fully
+    dissipated, the AI shock comes … are they going to have a compounding
+    effect? … greater than the sum of its parts."
+
+  → Daly's compounding hypothesis is Kashkari's argument rebuilt analytically
+    rather than by analogy, and left OPEN rather than asserted. That makes it
+    adoptable by majority members in a way Kashkari's version is not — it does
+    not require conceding the Burns charge.
+  → Language cycle stage: EMERGING and CONTESTED. This is the formulation most
+    likely to appear in the July 28–29 minutes (Aug 19), and how the minutes
+    characterise it — a few / several / many participants — is the highest-value
+    scheduled read before Jackson Hole.
+
+  ⚠ KASHKARI'S ATTRIBUTION SHIFT, easily missed: on Aug 5 he SUBORDINATED
+  demand — "I don't think most of the inflation that we've experienced is
+  because of economic growth and robust demand. I think most of the inflation
+  has been because of these successive supply shocks. There is a demand element
+  on top of it as well." His July 31 statement had named data centers as "a new
+  demand element." This separates him from Hammack and Logan, who argue the
+  residual IS demand. The three dissenters voted identically for materially
+  different reasons — the bloc is less likely to act as a unit in September than
+  the simultaneous July 31 statements implied.
+
+════════════════════════════════════════════════════════════════
+SHARED LANGUAGE AND CYCLE STAGE
+────────────────────────────────────────────────────────────────
+  "mildly restrictive"                    COMMITTEE-WIDE (non-Troika), CONTESTED
+    Paulson (stable label since Mar 6; 4 uses across 5 months), Collins (May 13),
+    Cook (Jul 15 Q&A only — did NOT migrate to her prepared text Aug 5), Daly
+    (Aug 6, but only as a premise that holds in scenario one).
+    Direct antagonist — Kashkari (Aug 5): "what evidence do I have that monetary
+    policy is particularly restrictive right now?"
+    → The label is now the committee's shorthand and the thing the dissent bloc
+      attacks. It was the CNBC headline phrase; expect amplification.
+    → [UNVERIFIED] Schmid reportedly said he does not see the stance as
+      restrictive — would put two non-voters against the label.
+
+  "underlying inflation" + an explicit number              EMERGING, FAST
+    Paulson 2.4–2.8% (Aug 4). [UNVERIFIED: Musalem 2.5–3.0%; Schmid "too high."]
+    → Watch closely. If three officials are quantifying the same construct, the
+      September debate becomes arithmetic rather than doctrinal — a significant
+      improvement in tractability for forecasting.
+
+  "a series of successive supply shocks" / "compounding"   EMERGING, CONTESTED
+    Kashkari (doctrine), Daly (open question), rebutted by Paulson (timing).
+    Highest-priority phrase for the Aug 19 minutes.
+
+  Anchored expectations give NO comfort                    EMERGING
+    Cook (Jul 15): comfort "only to the extent that they tell me that people
+    believe we will do what is necessary."
+    Daly (Aug 6, Q&A): "By the time the anchor drifts, it's really hard to get it
+    back. … the longer inflation expectations remain well anchored through big
+    shocks, the less comfortable they are in a way for evidence."
+    → Two officials independently inverting the standard reassurance leg into an
+      argument against waiting. Classic precursor language.
+
+  A first-person tightening conditional                    EMERGING → BROAD
+    Paulson: "could be higher rates, could be same rates for longer."
+    Cook: "I am prepared to act by raising rates, if necessary."
+    Waller (Jul 13): data-triggered version.
+    Daly: pre-commits to a substantial recalibration in scenario two.
+    Kashkari: three hikes by year-end "not impossible."
+    → CUTS ARE ABSENT FROM EVERY DOCUMENT IN THIS CYCLE.
+
+  Pricing-power ceiling                                    EMERGING
+    Paulson (CEO contacts), Daly (NY Fed + Richmond Fed surveys) — same
+    mechanism, opposite implications. See the central dispute above.
+
+  "entrenched" inflation                                   EMERGING
+    Cook (Aug 5): "we do not have that luxury in this one." Kashkari (Aug 5):
+    "a really entrenched inflation problem." Hammack (Jul 31), Jefferson
+    (Jul 16), Logan (Jul 16). A majority voter, a dissenter and a Troika member
+    converging on the persistence argument while disagreeing on the action.
+
+════════════════════════════════════════════════════════════════
+WHERE EACH SPEAKER SITS — POST-FOMC POSITIONING
+────────────────────────────────────────────────────────────────
+TROIKA
+  Warsh (Chair)      No communication since the Jul 29 press conference. No
+                     scheduled speech before Jackson Hole; described his remarks
+                     on Jul 29 as "a blank piece of paper right now."
+  Jefferson (VC)     Silent since Jul 16.
+  Williams (NY)      ⚠ SPOKE AUG 3 — NOT SCORED. The only Troika communication of
+                     the cycle and the biggest gap in this report. See below.
+
+JUST VOTERS — majority side
+  Paulson (MEDIAN)   HAWKISH LEAN on the option set, DOVISH on the data read.
+                     "Mildly restrictive" unchanged; underlying inflation
+                     2.4–2.8%; look-through defended on timing; "not a close
+                     call"; tightening moved from third-person market validation
+                     to a first-person conditional. Cuts unmentioned.
+  Cook               DOVISH LEAN vs. her own Jul 15 baseline, from the most
+                     hawkish majority starting point. Named her hike direction
+                     for the first time ("by raising rates") while making the
+                     condition materially easier to satisfy: three disinflation
+                     channels replace two escalation channels, the AI vector
+                     switched sides, June's improvement conceded, trigger
+                     softened to "CONTINUED disinflation," and "It may not"
+                     added. Sharper entrenchment warning offsets.
+  Bowman             Silent since May 29 — 69 days, two FOMC meetings. Speaks
+                     Aug 8. The committee's most explicit dovish outlier
+                     pre-July-29. HIGHEST-PRIORITY UPCOMING.
+  Waller, Barr,      No communications this cycle.
+   Jefferson, Warsh
+
+JUST VOTERS — dissent bloc
+  Kashkari           HAWKISH in position, MATERIALLY SOFTER in conviction than
+                     his written statement. Undecided going in; September "would
+                     not have been too late"; concedes most inflation is
+                     supply-driven with demand secondary. Against that: three
+                     hikes "not impossible," and he remains the only official
+                     arguing for a SEQUENCE. Firm on direction, soft on timing.
+  Hammack, Logan     Jul 31 statements only. No follow-up speech yet. The April
+                     pattern (full speech within 7–14 days) would put the window
+                     at roughly Aug 7–14. No equivalent conviction-softening on
+                     record — do not read Kashkari's across.
+
+NON VOTERS
+  Daly               HAWKISH LEAN. Endorsed the hold "completely," keeps the
+                     benign case modal, but promotes the adverse case out of the
+                     tail ("much closer together than they used to be"; both "on
+                     the middle of the desk") and pre-commits to a NON-
+                     INCREMENTAL response. Names a 4% attention threshold
+                     against 3.9%/3.7% readings. Most analytically explicit
+                     document of the cycle.
+  Barkin             ⚠ SPOKE JUL 31 — NOT SCORED, no official transcript.
+  Schmid             ⚠ SPOKE AUG 4 — NOT SCORED, official text exists, host down.
+  Musalem            ⚠ SPOKE AUG 6 — NOT SCORED, official text exists, host down.
+  Collins, Goolsbee  No communications found. Goolsbee's external-event pattern
+                     means absence is weakly evidenced.
+
+════════════════════════════════════════════════════════════════
+THE WILLIAMS GAP — WHY IT IS THE PRIORITY
+────────────────────────────────────────────────────────────────
+Williams gave a Reuters interview on August 3 and it is the ONLY Troika
+communication of the entire post-FOMC cycle. It is unscored because no official
+transcript exists.
+
+Why it matters more than the other three gaps:
+  • Troika weight. Per the framework, Troika members aggregate committee views;
+    their language shifts are the strongest leading indicators.
+  • His July 15 position ("inflation has peaked") is the sharpest available
+    rebuttal to the dissenters' core claim, and it is now three weeks stale
+    across a meeting.
+  • [UNVERIFIED — DO NOT SCORE] Media reporting indicates he warned rate hikes
+    are "on the table" if inflation does not ease, and expects inflation to fall
+    in H2 2026 and reach 2% by 2028. If accurate, that is a Troika member adding
+    a tightening conditional — which would move "a first-person tightening
+    conditional" from EMERGING to committee-wide including the Troika, and would
+    be the single most important development of the cycle. It CANNOT be scored
+    from coverage and must be recovered.
+
+RECOVERY ACTIONS, in priority order:
+  1. Williams — retrieve the Reuters interview transcript (reuters.com, or the
+     syndicated full-transcript copy). Determine whether the NY Fed will post it;
+     if not, this is a standing provenance question for the analyst to rule on,
+     since a wire service's own verbatim interview transcript is the primary
+     communication but sits on a media domain and will fail the provenance
+     guard as currently written.
+  2. Schmid + Musalem — `python3 main.py refetch` from a different network. Both
+     have official text; only this network's route to kansascityfed.org and
+     stlouisfed.org is failing.
+  3. Barkin — search for video of the July 31 Virginia event. If none exists,
+     record permanently as media-only and unscorable.
+
+════════════════════════════════════════════════════════════════
+WHAT THE SEPTEMBER MEETING TURNS ON
+────────────────────────────────────────────────────────────────
+ 1. Is pricing power a level or a countdown? Paulson vs. Daly on identical
+    evidence. The best early read is Barkin's Richmond manufacturer contacts —
+    another reason to close that gap.
+ 2. Which trip wire is the reaction function keyed to — Paulson's shock-stripped
+    2.4–2.8%, or Daly's lived-headline 4% attention threshold?
+ 3. Does Cook's AI reversal reflect her own updating or the majority position
+    she signed onto? The Aug 19 minutes' treatment of AI capital spending is the
+    tell.
+ 4. How wide is the intra-majority split on the supply-shock attribution? The
+    minutes should show whether Cook's qualification is idiosyncratic or shared.
+ 5. Do Hammack and Logan soften the way Kashkari did? Their follow-up speeches
+    (expected ~Aug 7–14) determine whether the dissent bloc holds as a unit.
+ 6. Where is Bowman? Aug 8. The committee's dovish outlier has been silent
+    across two meetings and a 9–3 vote.
+ 7. Two inflation prints before September. Every conditional on the committee —
+    Cook's "continued disinflation," Paulson's "more progress," Daly's scenario
+    discrimination, Kashkari's "more data" — resolves on them.
+
+CALENDAR
+  Sat Aug 8      Bowman fireside chat, 12:45pm ET (virtual). Highest priority.
+  Wed Aug 19     FOMC MINUTES, Jul 28–29 (Type D), 2:00pm ET. Look for: AI
+                 capex characterization; the supply-vs-compounding distribution;
+                 whether "successive shocks" appears as a participant view.
+  Aug 27–29      Jackson Hole. Warsh keynote expected Fri Aug 28 (Type G).
+  Sat Sep 5      Blackout begins.
+  Sep 15–16      FOMC + SEP / dot plot (Type I). Note Paulson's caution, on the
+                 record Aug 4: "do people get too obsessed with the median dot
+                 versus the entire constellation of dots? There's 19 people
+                 around that table." Apply when scoring the SEP.
+
+════════════════════════════════════════════════════════════════
+PIPELINE FINDING — A STANDING COVERAGE HOLE
+────────────────────────────────────────────────────────────────
+Four of the nine communications in this cycle (Paulson, Kashkari's interview,
+Williams, Barkin) were broadcast or wire interviews. NONE is reachable by the
+current pipeline:
+  • Bank scrapers crawl speech indexes; interviews are not posted there.
+  • The Board calendar lists Board events, not regional presidents' media hits.
+  • The YouTube scraper scans official Fed and institutional channels only;
+    CNBC/Bloomberg require a per-speaker search that nothing runs on a schedule.
+
+CLAUDE.md already directs searching media channels "by speaker name and date,"
+but the step is manual and was not being performed. Two voting members'
+communications — including the MEDIAN VOTER — were lost to this in two days.
+
+  RECOMMENDED FIX (not implemented — your call, since it changes what the
+  pipeline treats as a source): add a daily per-speaker video search across
+  CNBC, Bloomberg and Fox Business for all 12 voters plus the 5 non-voters. The
+  search that recovered Paulson and Kashkari took seconds each:
+    yt-dlp --dump-json --flat-playlist --playlist-end 10 \
+      "ytsearch10:[Speaker] Federal Reserve [Month] [Year]"
+  Note this recovers the VIDEO (primary, scorable), not the article — it does
+  not weaken the no-media rule.
+
+  SECOND FINDING: kansascityfed.org and stlouisfed.org are unreachable from this
+  machine (read-timeout, no response) while all ten other bank sites respond.
+  This has now cost two official speeches. It is a persistent route/CDN problem,
+  not a one-off, and it should be handled by the scheduled cloud collect — which
+  reaches both — rather than by local refetch.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+SCORED
+  Paulson (Aug 4):   https://www.youtube.com/watch?v=6ah9AdhVgpA
+                     data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook (Aug 5):      https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm
+                     data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Kashkari (Aug 5):  https://www.youtube.com/watch?v=CgY1NdR5UFY
+                     data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Daly (Aug 6):      https://www.youtube.com/watch?v=t2rAlrfbBCE  (SF Fed channel)
+                     data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Dissents (Jul 31): data/scored/speeches/20260731_{Beth_Hammack,Neel_Kashkari,
+                     Lorie_Logan}_scored.txt
+
+PENDING RECOVERY
+  Schmid (Aug 4):    https://www.kansascityfed.org/speeches/agriculture-the-economy-and-the-kansas-city-fed-august-2026/
+  Musalem (Aug 6):   https://www.stlouisfed.org/from-the-president/remarks  (AEI event)
+  Williams (Aug 3):  Reuters interview — no official transcript
+  Barkin (Jul 31):   no official transcript; richmondfed.org latest is May 21
+
+BASELINES USED
+  Paulson  May 19:  data/scored/speeches/20260519_Anna_Paulson_scored.txt
+  Cook     Jul 15:  data/scored/speeches/20260715_Lisa_D__Cook_scored.txt
+  Kashkari Jul 31:  data/scored/speeches/20260731_Neel_Kashkari_scored.txt
+  Daly     Jul 2:   data/scored/speeches/20260702_Mary_Daly_scored.txt
+
+REFERENCE FOMC (July 29, 2026)
+  Statement:      https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement diff: data/reports/fomc/20260729_statement_diff.txt
+  Daily reports:  data/reports/daily/2026{0729,0730,0731,0801,0802,0803,0804,0805}_daily.txt
+════════════════════════════════════════════════════════════════

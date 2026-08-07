@@ -4,159 +4,259 @@ Date: August 4, 2026
 Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
 ════════════════════════════════════════════════════════════════
 
-⚠⚠ CORRECTION — issued August 6, 2026. READ BEFORE THE BODY OF THIS REPORT.
+⚠ THIS REPORT WAS REDRAFTED ON AUGUST 7, 2026. It has been wrong twice.
 
-  This report is WRONG about Bowman. It carried a Bowman fireside chat as an
-  August 4 event with status "NOT SCORED — TRANSCRIPT PENDING," and attributed
-  the absent transcript to a fetch failure.
+  Original (Aug 5): carried a Bowman fireside chat as an August 4 event, "NOT
+  SCORED — TRANSCRIPT PENDING," blamed on a fetch failure. Wrong — that event is
+  AUGUST 8 per the Board calendar. There was no fetch failure and nothing to
+  recover.
 
-  There was no fetch failure and no missing transcript. The event is scheduled
-  for AUGUST 8, 2026, 12:45 p.m. ET, per the Federal Reserve Board's August
-  2026 calendar (https://www.federalreserve.gov/newsevents/2026-august.htm),
-  verified August 6. The Board's 2026 speeches index lists no Bowman entry for
-  August at all.
+  First correction (Aug 6): stated that nothing occurred on August 4. Also wrong,
+  in the opposite direction. Anna Paulson — the committee's MEDIAN VOTER — gave a
+  CNBC "Squawk Box" interview from the Philadelphia Fed that morning, her first
+  communication in 77 days. It is scored below.
 
-  NOTHING WAS MISSED ON AUGUST 4. There were no Federal Reserve speeches,
-  statements or publications on Tuesday, August 4, 2026. The correct header for
-  this date is "SPEECHES TODAY: (none)."
-
-  The transcript-recovery action items below are VOID — there is nothing to
-  recover. The proxy_blocked and HTTP 403 errors recorded below were the result
-  of requesting a URL for a speech that had not been given. Subsequent
-  `python3 main.py refetch` reports "All prior fetch failures recovered" and
-  data/raw/_fetch_failures.json is absent.
-
-  The substantive analysis of Bowman's position that follows — her May 29
-  baseline, her status as the committee's dovish outlier, and why her first
-  post-July-29 appearance is the highest-priority unresolved question among
-  majority voters — remains valid. It is simply still ahead of us, not behind.
-  See data/reports/daily/20260805_daily.txt for the corrected forward calendar.
+  Root cause of the second error: the correction checked the Fed Board calendar
+  and the regional bank speech pages, and concluded from their silence that the
+  day was empty. Broadcast interviews appear on neither. The scrapers do not
+  search media channels by speaker name, so a televised interview by any official
+  is invisible to the entire pipeline unless someone looks for it. This is a
+  standing coverage hole, not a one-off — see the PIPELINE NOTE.
 
 ════════════════════════════════════════════════════════════════
-SPEECHES TODAY  [SUPERSEDED — see correction above; correct entry is "(none)"]
-  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
-     "Fireside Chat"
-     2026 CEO & Senior Management Summit and Annual Meeting (Virtual)
-     Virtual, 12:45 p.m. ET
-     STATUS: [WRONG DATE — event is August 8, 2026. No August 4 event occurred.]
+SPEECHES TODAY
+  1. Anna Paulson  |  Philadelphia Fed President  |  Just Voter (MEDIAN VOTER)
+     "We need 'mildly restrictive' policy to bring inflation down"
+     Interview with Steve Liesman, CNBC "Squawk Box", recorded at the
+     Federal Reserve Bank of Philadelphia. Runtime 7:24.
+     Type A — Economic Outlook (unscripted broadcast Q&A), plus an
+     institutional section on the Warsh reform agenda
+     STATUS: SCORED — from the video's own transcript (Paulson's spoken
+     words), not from news coverage. No official Philadelphia Fed
+     transcript exists; YouTube fallback per CLAUDE.md.
 ════════════════════════════════════════════════════════════════
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  BOWMAN  |  Vice Chair for Supervision  |  Just Voter
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-STATUS: NOT SCORED — TRANSCRIPT PENDING
-
-The 5:30am ET GitHub Actions scraper found no transcript for this event.
-Subsequent refetch via this environment produced proxy_blocked errors against
-federalreserve.gov; WebFetch of the standard URL pattern
-(federalreserve.gov/newsevents/speech/bowman20260804a.htm) also returned
-HTTP 403. The official transcript has either not yet been posted to the
-Fed Board website or could not be reached from this network environment.
-
-This is Bowman's FIRST post-July-29 FOMC communication and her first public
-appearance with policy content since May 29, 2026 — a 67-day gap during
-which the committee met twice and voted 9–3. Her pre-July-29 position was
-the committee's most explicit dovish outlier: she endorsed the easing bias
-language that Hammack, Kashkari, and Logan dissented against (Apr 29), and
-her May 29 characterization of policy as "moderately restrictive" is unique
-on the current committee. Whether she moves toward the dissenting bloc or
-reinforces the majority hold-and-wait consensus is the highest-priority
-unresolved question among 9-0 majority voters.
-
-RECOVERY ACTION ITEM:
-  Source: https://www.federalreserve.gov/newsevents/speech/bowman20260804a.htm
-    (or check the Fed Board 2026 August calendar:
-     https://www.federalreserve.gov/newsevents/2026-august.htm)
-  Method: python3 main.py refetch (from local, non-proxy-blocked IP)
-  Priority: HIGH — first post-FOMC policy-content speech from the
-    committee's most dovish voter; score against the May 29 pre-FOMC
-    baseline (data/scored/speeches/20260529_Michelle_W__Bowman_scored.txt)
-  Event format: fireside chat — if only a summary/event stub is posted
-    (no full transcript), flag as NOT SCORED — TRANSCRIPT NOT AVAILABLE
-    and document the known context.
-
-BASELINE CONTEXT (for when recovery runs):
-  Pre-FOMC baseline: May 29, 2026 — "A Framework for Practical Monetary
-    Policy Decision Making," Reykjavík Economic Conference 2026.
-    Key positions: "moderately restrictive" (unique committee framing);
-    explicit easing bias endorsement; look-through on energy inflation
-    conditional on no second-round effects; cut signal retracted but
-    no hike signal either.
-  Last economic outlook scored: May 29, 2026 (July 13 and July 14
-    speeches both classified Type B, no policy content).
-  Prior speech to July 29 FOMC: the July 29 meeting produced three
-    hawkish dissenters who explicitly contested the supply-shock
-    framing Bowman endorsed in May. Whether her look-through holds
-    or narrows is the signal to watch.
-
-════════════════════════════════════════════════════════════════
-UPCOMING — TOMORROW: Thursday, August 6, 2026
+THE DAY IN ONE LINE
 ────────────────────────────────────────────────────────────────
-  (None confirmed for Thursday August 6)
+The median voter put a number on underlying inflation for the first time — 2.4
+to 2.8 percent — and in the same interview moved a rate hike from something the
+market may reasonably price into something she would consider herself.
 
-NOTE: Governor Cook delivered remarks at the AEDC 2026 Economic Luncheon,
-  Anchorage, Alaska, today (Wednesday, August 5, 8:05 p.m. ET) — this
-  will be covered in tomorrow's daily report (REPORT_DATE: August 5, 2026).
-  Cook is the highest-priority scheduled event of the week: her July 15
-  "prepared to act" conditional is the most hawkish language on record from
-  a majority-side voter; whether she renews or retreats will determine how
-  far the committee's center has moved toward the dissenting bloc.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  PAULSON  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Unconfirmed but plausible this week and next:
-  • Bowman transcript recovery (see above) — if the Aug 4 fireside chat
-    transcript is posted, score it promptly.
-  • Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas) — all
-    three dissenting officials have written statements (July 31) but no
-    full follow-up Type A speech yet. Pattern from prior dissent cycle
-    (April 29): each published a full speech within 7–14 days. Highest-
-    priority: Kashkari, whose July 31 statement was unusually doctrinal
-    (no labor market assessment) and left his growth-risk view unresolved.
-  • Waller (Board Governor) — voted with the July 29 majority; his June
-    CPI hike-conditionality threshold (stated July 13) was not cleared by
-    the June data, so he stayed hold. His July 29 positioning and any
-    updated conditionality for September are high priority.
-  • Williams (NY Fed, Troika) — last scored July 15 ("inflation has
-    peaked"); no confirmed post-July-29 appearance. His characterization
-    directly rebuts the dissenters' ongoing-elevated-demand argument.
+⚠ BASELINE GAP: her last communication was May 19 — 77 days, spanning TWO FOMC
+meetings (June 17 and July 29). Every comparison below measures a two-meeting
+drift and cannot isolate which meeting moved her.
 
-CALENDAR MARKERS:
-  Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 meeting (Type D).
-    Highest-value scheduled document before Jackson Hole: shows the
-    distribution of supply-vs-demand attribution views among non-
-    dissenting participants, and whether 9–3 understates the actual
-    hawk tilt within the majority.
-  Aug 27–29 — Jackson Hole Economic Policy Symposium, Jackson Lake
-    Lodge, WY. Theme: "Financial Innovation: Implications for Payments
-    and Policy." Warsh keynote expected Friday August 28 (Type G, highest
-    priority). Chair Warsh described his remarks on July 29 as "a blank
-    piece of paper right now."
-  Sat Sep 5 — Next blackout begins (September 15–16 FOMC; IS a
-    projection meeting: SEP + dot plot, Type I). Open communication
-    window runs August 1 through September 4.
+GROWTH
+  Echoes the statement's "solid pace" as "an economy that's pretty strong," and
+  discounts the soft Q2 headline in favour of the internals: "the top line
+  number wasn't so awesome, but when you look at investment, you look at the
+  consumer, it looks really strong." That is an upgrade of the consumer, the one
+  component she flagged as moderating on May 19. Subdued housing is used as
+  evidence the stance is restrictive rather than as a downside risk; AI capex,
+  the investment boom and robust equities are weighed on the other side.
+  Direction: hawkish lean
+
+LABOR MARKET
+  "A labor market that's stable," wage growth "very consistent with 2%
+  inflation," low-hire/low-fire, and — carried forward unchanged from May 19 —
+  "you're not seeing pressures on inflation in the labor market." Labor is now an
+  input to her restrictiveness assessment rather than a mandate risk.
+  ⚠ Three May 19 caveats are absent: the soft-data divergence, the 1948
+  historical anomaly, and the AI boardroom layoff flag. She was never asked about
+  labor downside in a seven-minute interview and volunteered the topic only as
+  evidence for restrictiveness. Do NOT score the absence as a retraction — treat
+  as UNTESTED until her next prepared text.
+  Direction: neutral
+
+INFLATION
+  "You've got inflation that's too high" — verbatim carry-over from May 19. But
+  the substance is more benign than that sentence suggests, because she supplies
+  the number underneath it for the first time in the corpus:
+
+    "I'm trying to measure the depth of water in a pool and there's rocks being
+     thrown into the pool — tariffs, energy shocks. So what's the level of the
+     pool? When I look at underlying inflation, when you try to strip out the
+     effects of those things, I see it somewhere in the range of 2.4, 2.8."
+
+  Against a 3.7 percent headline, her working estimate is 0.4–0.8pp above target,
+  not 1.7. That is the analytical foundation of the median voter's hold, and it
+  is a far smaller problem than the dissent bloc describes. She concedes "maybe
+  there was a little bit of mild progress over the last several months" and wants
+  "more progress."
+
+  ⚠ SHE DEFENDS LOOK-THROUGH, AND DOES IT AGAINST KASHKARI BY NAME. Asked about
+  his view that the Fed has a role in addressing supply shocks: "I have definitely
+  been of the view that you should look through supply shocks. I think the June
+  PCE inflation data kind of validate that … when we had the lull in the conflict
+  in the Middle East, oil prices came down, we got inflation relief. If I had
+  tried to affect that through monetary policy, I would have been too late."
+  Note the form — a TIMING argument, not a level argument. She does not claim the
+  shocks are small; she claims policy cannot arrive when they do. Bounded by
+  second-round effects: "that's where monetary policy has a real role to play, to
+  keep those shocks in their lane."
+
+  New ground-level evidence: CEOs "selling directly to consumers … don't feel
+  like they can pass along cost increases because consumers aren't in a position
+  to be able to absorb it" — a demand-side ceiling on pass-through, filed as
+  evidence for restrictiveness.
+  Direction: dovish lean on substance
+
+MONETARY POLICY
+  "Mildly restrictive" is unchanged — her label since March 6, now four
+  consecutive uses across five months. What moved is the conditional attached to
+  it. On May 19 she validated OTHERS' pricing of tightening ("it is healthy that
+  market participants have taken on board … scenarios where further tightening
+  becomes necessary"). On August 4, asked directly whether no progress means
+  higher rates: "Could be higher rates, could be same rates for longer. I'm
+  keeping an open mind." First person, her own conditional. Cuts are not
+  mentioned anywhere in the interview.
+
+  On the 9–3: "for me, it was not a close call." The median voter says her own
+  vote was not near the line.
+
+  On the neutral rate — Liesman puts the dissenters' challenge to her directly
+  (investment may have raised neutral, "maybe you're not as restrictive as you
+  think you are"): "that's one of the things I am assessing constantly. I think
+  that's the key question." She GRANTS it is the key question and does not
+  resolve it — she converts it into an empirical test: does the pool level fall
+  from here. Her evidence for "mildly restrictive" is subdued housing, benign
+  wages, and the pricing-power ceiling; against it, AI capex and equities.
+
+  Forward guidance explicitly withheld: "I can't provide any forward guidance
+  about where I'm leaning because I'm weighing the evidence along with everybody
+  else."
+  Cut signal status:  ABSENT
+  Hike signal status: PRESENT — conditional, first-person, no trigger, no
+    magnitude
+  Direction: hawkish lean
+
+INSTITUTIONAL — THE WARSH REFORM AGENDA
+  Non-committal on all three items, which is itself the finding: the median voter
+  is not pushing back publicly. She narrows "forward guidance" to a ZLB tool
+  rather than defending Fed communication generally; is "open-minded" on six
+  versus eight meetings; and on the dot plot values it internally but doubts its
+  external use — "do people get too obsessed with the median dot versus the
+  entire constellation of dots? There's 19 people around that table." Carry that
+  caution into the September SEP (Type I).
+
+NET SIGNAL: HAWKISH LEAN on the policy option set; DOVISH on the data read. Both
+  are real and they do not cancel — she is more willing to name a hike while
+  believing the inflation problem is smaller than the dissenters do.
+
+vs. PRIOR SPEECH (May 19, 2026):         hawkish lean — the escalation is
+  grammatical and easy to miss: tightening moved from third-person market
+  validation to a first-person conditional. The May 19 analyst flag asked whether
+  her tightening talk was genuine or hedging; it has hardened. Offsetting that,
+  the 2.4–2.8 underlying estimate is more benign than anything in the May 19
+  text, and May 19's expectations-fragility concern ("after five years of
+  elevated inflation … this is a real concern") has no equivalent here.
+
+vs. PRE-FOMC SPEECH (May 19, 2026):      same comparison — May 19 is both her
+  prior speech and her pre-FOMC baseline.
+
+vs. COMMITTEE SINCE FOMC:                ⚠ THE MAJORITY IS NOT UNIFIED. Paulson
+  and Cook (Aug 5) are the only two majority voters on record since July 29, and
+  they split on the statement's own inflation sentence. Cook declines to defend
+  the supply-shock attribution ("but it is not the only factor"); Paulson defends
+  look-through outright and cites June PCE as proof. They also use the AI buildout
+  in opposite directions — Cook as a source of coming disinflation, Paulson as a
+  reason policy may not be restrictive enough. Two majority voters, one day apart,
+  reading the same economy through opposite mechanisms. The 9–3 conceals a live
+  analytical split INSIDE the nine.
+
+LANGUAGE TO WATCH:
+  • "somewhere in the range of 2.4, 2.8" (underlying inflation) — a number, not
+    an adjective, from the median voter. Nothing else on the committee is this
+    falsifiable. If a dissenter names a higher one, the disagreement becomes
+    arithmetic rather than doctrinal. Stage: DISPERSED (first use).
+  • "mildly restrictive" — her stable label, also Collins (May 13) and Cook's
+    July 15 Q&A. It is the CNBC headline phrase, so expect amplification. Direct
+    antagonist next day: Kashkari, "what evidence do I have that monetary policy
+    is particularly restrictive right now?" Stage: EMERGING → COMMITTEE-WIDE.
+  • "could be higher rates, could be same rates for longer" — two-sided-hawkish
+    option set, cuts absent. Paulson, Cook and Waller now all carry a
+    first-person tightening conditional. Stage: EMERGING.
+  • Look-through defended on TIMING ("I would have been too late") — a distinct
+    argument from a level-based defence, and the first direct majority-side
+    rebuttal of the dissent bloc's doctrine. If Williams or Jefferson adopts the
+    timing form, the majority has an answer to Kashkari's 1970s analogy.
+    Stage: DISPERSED (first use).
+  • Pricing-power ceiling — the mechanism blocking second-round effects. Barkin's
+    contact intelligence is the natural corroborator. Stage: DISPERSED.
+
+ANALYST FLAG: YES
+  → PRIMARY — the 2.4–2.8 percent underlying estimate is the median voter's
+    actual decision variable, now public and quantified. What measure produces it
+    (trimmed mean? core ex-tariff ex-energy? a Philadelphia Fed internal series?),
+    and what value would flip her to a hike? She says she needs "more progress";
+    she does not say from what to what. Press at her next appearance.
+  → The majority split on supply-shock attribution (Paulson defends, Cook
+    qualifies) is now the central fault line, and it runs INSIDE the nine rather
+    than between the nine and the three. The July 28–29 minutes (Aug 19) should
+    show how wide it is.
+  → Internal tension on the consumer: "looks really strong" for growth, but
+    "aren't in a position to absorb" price increases for pass-through. Both
+    support her hold. If the consumer is genuinely strong, the pricing-power
+    ceiling erodes and her second-round trip wire is closer than she thinks.
+  → Format caveat: the three May 19 labor caveats are absent but were never asked
+    about. Do not treat as retracted. Test at her next prepared text.
+
+════════════════════════════════════════════════════════════════
+PIPELINE NOTE — A STANDING COVERAGE HOLE
+────────────────────────────────────────────────────────────────
+Paulson's interview was missed by every automated layer and by a manual coverage
+review the following day. The cause is structural, not a run failure:
+
+  • The regional-bank scrapers crawl speech indexes. A CNBC interview is not
+    posted to philadelphiafed.org in any form.
+  • The Fed Board calendar lists Board events. It does not list regional
+    presidents' media appearances.
+  • The YouTube scraper scans official Fed and institutional channels. CNBC
+    Television is a media channel and is only reached by a per-speaker search,
+    which nothing runs on a schedule.
+
+CLAUDE.md already anticipates this — it directs searching media channels "by
+speaker name and date" — but that step is manual and was not performed. Two
+communications were lost to it in two days (Paulson Aug 4, Kashkari Aug 5), both
+from voting members, one the median voter.
+
+  RECOMMENDED FIX: add a scheduled per-speaker YouTube search across CNBC,
+  Bloomberg and Fox Business for all twelve voters plus the five non-voters, run
+  daily as part of collect. The search that found both of these took seconds:
+    yt-dlp --dump-json --flat-playlist --playlist-end 10 \
+      "ytsearch10:[Speaker] Federal Reserve [Month] [Year]"
+
+  Not implemented — flagged for your decision, since it changes what the pipeline
+  treats as a source.
 
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches August 4, 2026:
-  Bowman (Aug 4, 2026):  https://www.federalreserve.gov/newsevents/speech/bowman20260804a.htm
-    [NOT YET RETRIEVED — recover via python3 main.py refetch from local IP]
+  Paulson (Aug 4, 2026):
+    Video:  https://www.youtube.com/watch?v=6ah9AdhVgpA
+    CNBC:   https://www.cnbc.com/video/2026/08/04/philadelphia-fed-president-paulson-we-need-mildly-restrictive-policy-to-bring-inflation-down.html
+    Raw:    data/raw/speeches/2026/Anna_Paulson/20260804_CNBC_Squawk_Box_interview.txt
+    Scored: data/scored/speeches/20260804_Anna_Paulson_scored.txt
+
+Prior speech / pre-FOMC baseline (vs. PRIOR SPEECH and vs. PRE-FOMC SPEECH):
+  Paulson (May 19, 2026):  Atlanta Fed Financial Markets Conference
+    Scored: data/scored/speeches/20260519_Anna_Paulson_scored.txt
 
 Reference FOMC (July 29, 2026):
   Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
   Statement diff:  data/reports/fomc/20260729_statement_diff.txt
   Canonical daily: data/reports/daily/20260729_daily.txt
 
-Dissent statements (July 31, 2026):
-  Hammack:  https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
-  Kashkari: https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
-  Logan:    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+Cross-reference — the other two post-FOMC voices:
+  Cook (Aug 5):      data/reports/daily/20260805_daily.txt
+  Kashkari (Aug 5):  data/reports/daily/20260805_daily.txt
+  Dissent statements (Jul 31): data/reports/daily/20260731_daily.txt
 
-Bowman pre-FOMC baseline (May 29, 2026):
-  https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm
-  Scored: data/scored/speeches/20260529_Michelle_W__Bowman_scored.txt
-
-Upcoming events:
-  Fed Board August calendar:  https://www.federalreserve.gov/newsevents/2026-august.htm
-  Jackson Hole 2026:          https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+Calendar:
+  Fed Board August 2026:  https://www.federalreserve.gov/newsevents/2026-august.htm
 ════════════════════════════════════════════════════════════════

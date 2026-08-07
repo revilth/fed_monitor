@@ -1,0 +1,71 @@
+SOURCE: https://www.youtube.com/watch?v=CgY1NdR5UFY
+CNBC PAGE: https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html
+
+August 05, 2026
+Interview on CNBC "Squawk Box" with Andrew Ross Sorkin and Joe Kernen
+Neel Kashkari, President, Federal Reserve Bank of Minneapolis
+Runtime 8:28.
+
+PROVENANCE: YouTube auto-generated transcript of the CNBC video, i.e. Kashkari's
+own spoken words. This is the primary communication, NOT news coverage of it.
+Video-only event with no official Minneapolis Fed transcript; YouTube fallback
+is the sanctioned route per CLAUDE.md.
+
+TRANSCRIPT CLEANUP (auto-ASR; every change listed):
+  "the straight of four moves" -> "the Strait of Hormuz"
+  "Neil" -> "Neel"
+  Speaker turns marked ">>".
+CAUTION: auto-transcript. One phrase is materially ambiguous and was NOT
+"corrected": Kashkari is transcribed saying "I don't see evidence that monetary
+policy is marginally restrictive right now." Earlier he says "particularly
+restrictive." Given Paulson used "mildly restrictive" the previous day, the ASR
+may have rendered "mildly" or "meaningfully" as "marginally." Left as heard.
+VERIFY AGAINST VIDEO before quoting this phrase.
+
+------------------------------------------------------------------------
+
+With us is Minneapolis Fed President Neel Kashkari. He was one of the dissenters last week. Let's talk about rates, rate hikes, and your decision to dissent.
+
+>> Well, thanks for having me, Andrew. It's great to be here. Um, you know, inflation's been high now for 5 plus years. Energy prices remain high. I think the outlook for the Strait of Hormuz is uncertain. I certainly don't trust the Iranians. And so, at some point, you know, the Fed's job is to get inflation back down to our 2% target. Corporate earnings are through the roof. They're doing great. The consumer is hanging in there. The labor market is hanging in there. I look at this constellation and I say, "What evidence do I have that monetary policy is particularly restrictive right now?" And so, I I argued now is the time to start slowly moving up as we get more data in.
+
+>> Um, there were some other dissenters with you. You've dissented before.
+
+>> I have.
+
+>> Uh, by the way, this was really though the first time with Kevin Warsh now in in the seat. I'm curious just what your thought was about that because there was a there is a view or was a view that, you know, sometimes a new chair comes in, may have a particular view. Sometimes there might be like a honeymoon period. It doesn't seem like you were giving him the honeymoon period.
+
+>> Well, you know, he said publicly many times that he likes a good family fight. He said that publicly. He said that internally. And I'll just say to me, he said to me, "Do what you think is the right thing to do for the economy." And I said, "I really appreciate that."
+
+>> So, tell me how it happens cuz I at least historically the the Fed chair has called around before meeting and said, "What What are you going to do? What's What's your plan?" And I assume he's tried to either talk you into or out of wherever
+
+>> That's not exactly how those calls go. So, usually those calls go and Kevin and we appreciated Chairman Warsh has continued the tradition of reaching out to everybody in advance. We have a discussion about how I'm seeing the economy, how he's seeing the economy. We talk about where we might see things similarly or differently. And then I say, "Hey, here's where I'm likely coming out in terms of my policy recommendation. In this case, I was undecided. I wanted to go into the meeting and hear all the arguments on both sides, and I ultimately decided that raising rates was the right thing to do. I didn't I wasn't pounding the table that we needed to raise now, and if we waited till September, that would be too late. But my conclusion based on everything I listened to was that it's better to get going.
+
+>> Okay, is your expectation that in September, given what you know about the other members and where we are, that we will have a rate hike?
+
+>> I'm not going to speculate on what the committee might do. We have a lot of data that we're going to get in. We have two more inflation prints between now and September. A lot of news potentially to come from the Middle East. Data centers, I mean everything else we're going to look at before we decide.
+
+>> Um but just to go back on this a little bit. Um Are you I mean we just talked to Brian Moynihan. His team thinks there could be three rate hikes by the end of the year. What what is the Neel Kashkari view of the world?
+
+>> Well, that's not impossible in my view. I mean if inflation continues to move sideways or even get worse from here, then I think we're going to have to start gradually adjusting interest rates to bring things back down. This is the conundrum that we're facing is traditional economic analysis says if there's a one-time supply shock, monetary policy should just let that flow through the economy. Don't necessarily react to it. But now we've had a series of successive supply shocks over four or five years. Inflation has been frustratingly persistent. It's our job to get inflation back down.
+
+>> Um I think Joe's got a question back in New York. Joe?
+
+>> Yeah, it's struck me Neel. It's good to see you and and I was listening and you described this great economy uh and what was going on and and then you said I don't see any signs that we're being restrictive enough to start hurting this great economy. And just the the incongruity of that I I understand where it comes from because it's a blunt tool that the Fed deals with. So you absolutely assume that the reason inflation is too high and gets too hot is because the economy is running too hot. Think Think of the perfect world we'd have if if that wasn't the case. If inflation could be 2% at target and we could be running like this with the economy. Are you sure it's the strength of the economy that it is causing inflation to be above the the five the 2% for the past five years? Because maybe it's not uh grounded in that and maybe it's not uh embedded uh because of that. It It Wouldn't it be a great world if you didn't say, "Wow, things are great. I don't think we're There's no signs we're restrictive. We got to get restrictive to slow this economy down."
+
+>> Well, obviously, Joe, you know that I'm not My goal is not to slow the economy down. The goal is to get inflation back down to our 2% target. And as you said, we have one tool. Now, I don't think most of the inflation that we've experienced is because of economic growth and robust demand. I think most of the inflation has been because of these successive supply shocks. There is a demand element on top of it as well. And nonetheless, you know, it's the Fed's job to get inflation back down to our 2% target. You know, I went back to the transcripts from the 1970s. In the 1970s, the Burns Fed also diagnosed the high inflation as a series of successive supply shocks. I don't think looking Now, this is not the 1970s. The economy is way better than it was in the 1970s on many dimensions. But I don't think anybody would look back and say, "Boy, the Burns Fed was right to just look through all those uh supply shocks and let inflation continue to run hot."
+
+>> Right. The Could shrinking the balance sheet do it? I mean, is there Is there any other way to do it other than putting the brakes on the economy?
+
+>> Well, you know, Now, the debate about the balance sheet is going to be an interesting one. Some people view that the federal funds rate and the balance sheet can be interchangeable tools, both effectively affecting the stance of monetary policy. So, if you believe that, then even if we were to shrink the balance sheet, that would also be tapping the brakes on the economy. And so, our primary policy tool is the federal funds rate, and we need to focus on our primary policy tool. I'm not calling for a dramatic increase in interest rates. I'm simply saying I don't see evidence that monetary policy is marginally restrictive right now, and I think we have more work to do to get inflation back down. And I would rather get going now in small steps than wait till later than we have a a really entrenched inflation problem and have to raise rates aggressively then.
+
+>> Let me ask you a different question about maybe another tool, which is communication, or maybe lack of communication. And, you know, in the aftermath of the financial crisis, which you were intimately involved in, the Fed took on a new posture under Ben Bernanke, which was to be much more communicative. Sometimes that communication worked. I believe that Kevin Warsh would argue today that it didn't work and needs to be rolled back a bit. He said that during the press conference. There's been reports now about not only that, about sort of rolling back how much is spoken about, but even how many meetings are had in a given year. Currently eight. There's been chatter about whether that could turn into six. What's your position on on how the Fed should or should not communicate and and how many meetings, for example, you should have a year?
+
+>> Well, it's a very complicated topic, and I'm going to start by parroting the chairman, who says there's a task force for that. So, I don't want to prejudge. He has some folks looking at this, and they're going to give us some recommendations. Ultimately, the committee has to decide what is the right communications posture. I personally think that communicating what we call our reaction function, so not necessarily making predictions about what we think will happen, but saying, "Hey, there's some number of different scenarios. If these economic events happen, this is how one would expect inflation and monetary policy to respond. I think that is good for market participants to understand that. Then they can make their own judgments about what the future hold and then what the likely path will
+
+>> Is that more information or less information?
+
+>> It's not more than now. It's It's continue I think there's value in continuing the tradition of explaining our reaction function to the public and then letting the public figure it out from there.
+
+>> Um and then just hypothetically, uh would [clears throat] you prefer eight meetings a year, six? You you you get out of an ex- extra two meetings if if if you go that route.
+
+>> I don't think there's any magic number about eight or 10 or six. You know, we always have the ability to call emergency meetings if things happen, but that's a big event when the FOMC calls an emergency meeting. It really sends a signal that we're concerned about something and so, you know, I I think I'm open-minded. I don't have a strong view.
