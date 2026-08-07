@@ -1,0 +1,171 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 6, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none) — No Federal Reserve speeches, statements, or publications on
+  Thursday, August 6, 2026. The 5:30am ET GitHub Actions collect job found
+  no new raw files; data/raw/ contains no files dated 2026-08-06.
+════════════════════════════════════════════════════════════════
+
+NO NEW SPEECHES
+────────────────────────────────────────────────────────────────
+August 6 was a quiet Thursday. No Fed officials gave speeches with recoverable
+transcripts. The day falls in the second week after the July 29 FOMC, within the
+window where dissenting regional presidents (Hammack, Kashkari, Logan) are likely
+to publish full Type A speeches — that window is July 7–14 by analogy with the
+April 29 dissent cycle, meaning the first new full-length dissenter outlook has
+not yet appeared. Cook (August 5) remains the only post-FOMC communication from
+any committee member with substantive economic content.
+
+NOTE — CALENDAR LOOKUP UNAVAILABLE THIS RUN: The network egress proxy blocked
+all outbound connections during this run (federalreserve.gov, all regional bank
+sites, WebFetch — all returned proxy_blocked). Fresh calendar verification for
+the upcoming week could not be performed. The UPCOMING section below is drawn
+from verified information in the August 5 daily report, supplemented by known
+calendar fixtures. Mark individual speaker entries (unconfirmed) unless derived
+from the Fed Board August 2026 calendar as verified on August 6.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Monday, August 10 – Friday, August 14
+────────────────────────────────────────────────────────────────
+CALENDAR NOTE: Web lookup unavailable this run; entries below are sourced
+from verified data in data/reports/daily/20260805_daily.txt and known
+calendar fixtures. All speaker appearances marked (unconfirmed) unless
+listed as confirmed in that prior report.
+
+  BOWMAN  |  Vice Chair for Supervision  |  Just Voter
+  Fireside Chat, 2026 CEO & Senior Management Summit and Annual Meeting
+  Virtual, 12:45 p.m. ET — SATURDAY, AUGUST 8 (before next week)
+  SOURCE: Fed Board August 2026 calendar, verified August 6 in prior run
+  NOTE: This is a Saturday event, outside the Mon–Fri next-week window, but
+  is the single highest-priority confirmed appearance on the near-term calendar.
+  Fireside format → expect Q&A, not prepared text; full transcript may not be
+  posted; YouTube fallback may be required.
+  PRIORITY: HIGHEST. First Bowman communication with policy content since
+  May 29, 2026 — a gap of 71 days spanning two FOMC meetings and the 9–3
+  vote. Her pre-July-29 stance was the committee's most explicit dovish
+  outlier: "moderately restrictive" framing (unique on the current committee),
+  endorsement of the easing-bias language the three dissenters opposed (Apr 29).
+  Score against the May 29 pre-FOMC baseline.
+
+  HAMMACK / KASHKARI / LOGAN  |  Just Voters (dissenters)
+  (unconfirmed) — No specific events announced for the week of Aug 10–14
+  at the time of the August 5 report. Based on the April 29 dissent cycle
+  analogy, full Type A speeches from Hammack, Kashkari, and Logan should
+  fall within the August 7–14 window (7–14 business days post-vote).
+  Kashkari is the highest priority among the three: his July 31 dissent
+  statement was unusually doctrinal, with no growth or labor assessment,
+  and his "increasingly believe" language is softer than the other two.
+  A full outlook speech is the first opportunity to resolve whether he
+  has a data-contingent exit, how he characterizes the labor market, and
+  whether he maintains the "series of small hikes" framing.
+  Hammack (Cleveland): priority gap is the demand-side attribution — she
+  named demand-side inflationary pressure explicitly in her July 31
+  statement, breaking from the statement's supply-shock framing. Does
+  a full speech retain that as her main argument?
+  Logan (Dallas): lowest incremental information value among the three,
+  as her July 31 statement carried near-verbatim July 16 language and
+  she is the most legible dissenter. Still worth scoring for the
+  institutional framework argument.
+
+  WALLER  |  Governor  |  Just Voter
+  (unconfirmed) — No event announced. His July 13 hike conditionality
+  ("FOMC will need to consider tightening in the near term" if CPI hot)
+  was not triggered by the June data. First post-FOMC outlook speech will
+  be the key test for whether he updates his conditionality threshold
+  for July data or shifts register toward Cook's "continued disinflation"
+  framing.
+
+  WILLIAMS  |  NY Fed President  |  Troika
+  (unconfirmed) — No event announced. Last scored July 15. As Troika,
+  his post-FOMC framing — particularly on whether inflation has "peaked"
+  (his July 15 language) and on the statement's supply-shock attribution
+  — is the most consequential open question after Warsh.
+
+  (none confirmed — all other speakers)
+════════════════════════════════════════════════════════════════
+FORWARD CALENDAR MARKERS
+────────────────────────────────────────────────────────────────
+  Sat Aug 8, 12:45 p.m. ET
+    BOWMAN fireside chat (confirmed — see UPCOMING above)
+
+  Wed Aug 19, 2:00 p.m. ET
+    FOMC MINUTES — July 28–29 meeting (Type D, released ~3 weeks post-
+    meeting). Elevated analytical value in this cycle: look for whether
+    participant discussion of AI capital spending treats it as an
+    inflationary demand shock or as a relative price shift expected to ease
+    — this is the key question raised by Cook's August 5 reversal of her
+    July 15 AI-capex framing. Also watch for the distribution of views on
+    the supply-shock attribution ("several" vs. "many"), and the first
+    participant characterization of where policy stands relative to neutral
+    after the 9–3 vote.
+
+  Aug 27–29 — JACKSON HOLE ECONOMIC POLICY SYMPOSIUM
+    Jackson Lake Lodge, Jackson Hole, Wyoming
+    Hosted by Kansas City Fed (Schmid)
+    Theme: "Financial Innovation: Implications for Payments and Policy"
+    WARSH keynote expected Friday, August 28 (TYPE G — highest priority).
+    Warsh described his remarks on July 29 as "a blank piece of paper right
+    now"; the five task forces (communications, balance sheet, data,
+    productivity/jobs, causes of inflation) are the likely source of new
+    content. This is the most important scheduled communication of the cycle
+    before the September 15–16 FOMC.
+
+  Sat Sep 5 — NEXT BLACKOUT BEGINS
+    September 15–16 FOMC (IS a projection meeting: SEP + dot plot, Type I)
+    Open communication window runs through Friday, September 4.
+    Available windows for scheduled speeches:
+      Aug 10–14: two full weeks before Jackson Hole
+      Aug 27–29: Jackson Hole appearances
+      Sep 1–4: final pre-blackout window (4 business days)
+    The September 4 run will produce the required FOMC Cycle Summary.
+
+════════════════════════════════════════════════════════════════
+CYCLE CONTEXT SUMMARY — where things stand entering this week
+────────────────────────────────────────────────────────────────
+Reference FOMC: July 29, 2026 | HOLD 3.50–3.75% | Vote: 9–3
+Dissenters: Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas)
+  — all preferred +25bp hike; first pro-hike dissent coalition since
+  active tightening ended.
+
+Communications since July 29:
+  July 31 — Logan dissent statement (compressed Type A, Dallas)
+  July 31 — Hammack dissent statement (compressed Type A, Cleveland)
+  July 31 — Kashkari dissent statement (compressed Type A, Minneapolis)
+  August 5 — Cook economic outlook speech (SCORED — full Type A, Anchorage)
+
+Net post-FOMC signal:
+  Dissenters (3): unanimously argue current rates are too low; demand-side
+    attribution; hike now. Logan: asks for one move, reversibility pre-built.
+    Kashkari: asks for a series of small moves; doctrinal, not data-driven.
+    Hammack: one move, demand-side language, district evidence of broadening
+    price pressures.
+  Majority first voice (Cook): hawkish verdict maintained ("inflation too
+    high," "prepared to act by raising rates if necessary") but risk
+    architecture softened (three disinflation channels added) and hike
+    condition weakened ("continued disinflation" → process already started).
+    Cost-of-hiking caveat added. "It may not" escape clause added.
+    Net: the gap between the dissenters and the majority is narrower than
+    the 9–3 vote suggests — she accepts the diagnosis, disputes the remedy.
+
+Still to hear from: Warsh (Chair), Jefferson (Vice Chair), Williams (NY Fed
+Troika), Bowman, Waller, Paulson, Barkin, Goolsbee, Collins, Daly, Musalem.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 6, 2026:
+  (none)
+
+Prior verified sources carried from August 5, 2026 report:
+  Cook (Aug 5):    https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm
+  Logan (Jul 31):  https://www.dallasfed.org/news/releases/2026/nr260731dissent
+  Hammack (Jul 31): https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+  Kashkari (Jul 31): https://www.minneapolisfed.org/article/2026/statement-on-my-fomc-dissent
+
+Calendar (verified in prior run, August 6, 2026):
+  Fed Board August 2026:  https://www.federalreserve.gov/newsevents/2026-august.htm
+  Jackson Hole 2026:      https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+════════════════════════════════════════════════════════════════
