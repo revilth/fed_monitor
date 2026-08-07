@@ -93,6 +93,33 @@ def load_allowlist() -> set[str]:
     return out
 
 
+# ---------------------------------------------------------------------------
+# On-record interviews (CLAUDE.md Type J).
+#
+# An official sometimes gives an on-record interview that no Fed site ever
+# publishes — e.g. John Williams to Reuters, 2026-08-03. The outlet that
+# conducted it prints the full Q&A verbatim, so the transcript IS the primary
+# source; there is no official version to prefer over it. That is categorically
+# different from the coverage this guard exists to block (paraphrase, "key
+# takeaways", the June 17 / July 29 statement reconstructions).
+#
+# So a media host is allowed for these ONLY when the header proves the claim:
+# the doc type is declared INTERVIEW and the required provenance marker is
+# present. MEDIA_MARKERS stay fatal regardless — a "key takeaways" page does not
+# become primary by relabeling it.
+# ---------------------------------------------------------------------------
+INTERVIEW_TYPE_RE = re.compile(r"^(?:DOC[_ ]?TYPE|TYPE):\s*(?:J\b|INTERVIEW)", re.M | re.I)
+INTERVIEW_PROVENANCE_RE = re.compile(
+    r"^PROVENANCE:\s*first-party interview[;,]?\s*no official transcript published",
+    re.M | re.I)
+
+
+def is_declared_interview(header: str) -> bool:
+    """True only if the header carries BOTH the Type J declaration and marker."""
+    return bool(INTERVIEW_TYPE_RE.search(header)
+                and INTERVIEW_PROVENANCE_RE.search(header))
+
+
 def check_file(path: Path) -> list[str]:
     """Return a list of problems with this raw file (empty = clean)."""
     problems: list[str] = []
@@ -104,13 +131,16 @@ def check_file(path: Path) -> list[str]:
     # Only the header makes provenance claims — see HEADER_LINES.
     header = "\n".join(text.splitlines()[:HEADER_LINES])
     low = header.lower()
+    interview = is_declared_interview(header)
 
+    # Never waived: these phrases assert the file was assembled from coverage.
     for marker in MEDIA_MARKERS:
         if marker in low:
             problems.append(f'media marker in header: "{marker}"')
-    for dom in MEDIA_DOMAINS:
-        if dom in low:
-            problems.append(f"media domain in header: {dom}")
+    if not interview:
+        for dom in MEDIA_DOMAINS:
+            if dom in low:
+                problems.append(f"media domain in header: {dom}")
 
     # Every raw file must declare where it came from.
     m = re.search(r"^SOURCE:\s*(\S+)", header, re.MULTILINE)
@@ -118,8 +148,17 @@ def check_file(path: Path) -> list[str]:
         problems.append("no SOURCE: header")
     else:
         src = m.group(1).lower()
-        if not any(h in src for h in OFFICIAL_HOSTS):
+        if not any(h in src for h in OFFICIAL_HOSTS) and not interview:
             problems.append(f"SOURCE is not an official host: {m.group(1)}")
+
+    # A Type J file must also state who conducted it and carry real Q&A, so the
+    # exemption cannot be claimed by a stub or a summary wearing the label.
+    if interview:
+        if not re.search(r"^INTERVIEWER(?:S)?:\s*\S", header, re.M | re.I):
+            problems.append("Type J interview without an INTERVIEWER: header")
+        if len(re.findall(r"^\s*Q(?:UESTION)?[:.]", text, re.M | re.I)) < 2:
+            problems.append("Type J interview without verbatim Q&A turns "
+                            "(expected 'Q:'-prefixed questions)")
 
     return problems
 

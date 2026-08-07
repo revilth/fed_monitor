@@ -210,6 +210,27 @@ Released only **every other FOMC meeting** — 4 of the 8 per year (the projecti
 
 Save the scored SEP to `data/scored/sep/YYYYMMDD_SEP_scored.txt` and, on decision day, write the alert copy to `data/reports/fomc/` (emailed on push). Fold the SEP section into the next morning's canonical FOMC daily report alongside the statement diff and (later) the press conference.
 
+### Type J: On-Record Interview
+
+An official sometimes gives an on-record interview that **no Fed site ever publishes** — e.g. John Williams to Reuters, August 3, 2026. The outlet that conducted it prints the full Q&A verbatim, so that transcript **is** the primary source; there is no official version to prefer over it. This is the single, narrow exception to the "never build a file out of media" rule, and it is exempt because it is *not* coverage — it is the official's own words, unmediated.
+
+**The exception applies ONLY when all of the following hold. If any fails, the document is not Type J and the hard rule applies unchanged:**
+1. The text is a **verbatim, full-length Q&A transcript** — questions and answers as spoken. A summary, a "key takeaways" piece, a news write-up quoting the interview, or an excerpt is **never** Type J, no matter who published it.
+2. **No official transcript exists.** Check the official site first — the Board and several regional banks do post interview transcripts. If an official version exists, fetch that one and this exception does not apply.
+3. The header declares the type and carries the provenance marker, exactly:
+   ```
+   SOURCE: <url of the published transcript>
+   TYPE: J (on-record interview)
+   PROVENANCE: first-party interview; no official transcript published
+   INTERVIEWER: <name(s) and outlet>
+   ```
+
+Save to `data/raw/interviews/YYYYMMDD_SPEAKER_outlet.txt`. Score with the **Type A** per-topic structure (Growth / Labor / Inflation / Monetary Policy), because an interview covers the same ground as an outlook speech.
+
+**Scoring caveats specific to interviews.** The speaker is unscripted and responding to someone else's agenda, so: (a) topic *coverage* is driven by the interviewer — the absence of a topic is NOT a signal, unlike in a speech the official wrote; (b) distinguish a considered formulation from a conversational aside; (c) an interviewer's premise repeated back is not the speaker's own language. Note in the scored file which topics were interviewer-initiated.
+
+**Enforcement.** `scripts/check_provenance.py` permits a media host **only** when the header proves the claim (Type J declaration + provenance marker + `INTERVIEWER:` + at least two `Q:` turns). The MEDIA_MARKERS list stays fatal regardless — a "key takeaways" page does not become primary by relabeling it. Do not weaken that check; it is what keeps this exception from swallowing the rule.
+
 ---
 
 ## Analytical Framework
