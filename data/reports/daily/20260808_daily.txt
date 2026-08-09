@@ -1,0 +1,117 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 8, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "Fireside Chat, 2026 CEO & Senior Management Summit and Annual
+     Meeting" (Virtual event), 12:45 p.m. ET
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+       This is Bowman's first communication with policy content since
+       May 29, 2026 — a gap spanning two FOMC meetings and the 9–3 vote.
+       The event was a virtual fireside chat (Q&A format); no official
+       transcript has been posted on federalreserve.gov as of this run
+       (5:30am ET August 9 GitHub Actions collect: no Bowman file
+       recovered). The egress proxy in this scoring environment also
+       blocks direct WebFetch to federalreserve.gov, so manual recovery
+       is required.
+       RECOVERY: python3 main.py refetch (from a non-proxy-blocked IP),
+       or directly fetch https://www.federalreserve.gov/newsevents/
+       speech/bowman20260808a.htm and check the Fed Board's 2026 speeches
+       page. YouTube fallback (CNBC, Bloomberg, or event organizer
+       channel) if no official transcript is published.
+       ACTION ITEM (HIGH PRIORITY): See below.
+════════════════════════════════════════════════════════════════
+
+ACTION ITEM — BOWMAN (HIGH PRIORITY)
+────────────────────────────────────────────────────────────────
+Bowman's August 8 fireside chat at the CEO & Senior Management Summit
+is the highest-value pending transcript of the post-July-29 period.
+Context for the analyst:
+
+  SIGNIFICANCE: She is the committee's most explicitly dovish Just
+  Voter. Her last economic outlook speech (May 29, "A Framework for
+  Practical Monetary Policy Decision-Making") characterized policy as
+  "moderately restrictive" and supported "proactive" cuts — language
+  unique on the current committee. She did not give an economic outlook
+  speech before the July 29 meeting (all post-May-29 appearances were
+  Type B / regulatory). Her vote is unclear: the three dissenters
+  (Hammack, Kashkari, Logan) voted for a 25bp HIKE; the nine-vote
+  majority (including Bowman, if she voted with them) held. The
+  question is whether she voted majority while being the committee's
+  most dovish non-dissenting voice.
+
+  HOW TO PRIORITIZE ON RECOVERY: On scoring, the highest-value
+  comparisons are:
+    (1) Whether "moderately restrictive" survives (vs. the majority
+        framing "mildly restrictive" used by Paulson, Collins, Cook,
+        Daly);
+    (2) Whether she names any cut signal — the only one still on the
+        committee capable of carrying a cut signal and voting majority;
+    (3) Whether she addressed the dissent and its demand-attribution
+        argument directly.
+  Pre-FOMC baseline: May 29, 2026 (scored at
+    data/scored/speeches/20260529_Michelle_W__Bowman_scored.txt).
+  Prior scored economic outlook: January 30, 2026 (scored at
+    data/scored/speeches/20260130_Michelle_W__Bowman_scored.txt).
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Monday, August 10
+────────────────────────────────────────────────────────────────
+  (calendar lookup unavailable this run — egress proxy blocks all
+  Fed Board and regional bank event pages from this environment)
+
+  Based on prior-day reporting (August 6 daily), the following
+  appearances remain outstanding and are expected in the August 7–14
+  window — none yet formally scheduled on the Fed calendar:
+
+  • Hammack (Cleveland, Just Voter, DISSENTER) — no Type A speech
+    since July 31 dissent statement. Pattern from April 29 dissent:
+    full Type A within 7–14 days. Window: August 7–14.
+  • Logan (Dallas, Just Voter, DISSENTER) — no Type A speech since
+    July 31 dissent statement. Same window.
+  • Waller (Board Governor, Just Voter) — voted with the 9-vote
+    majority. His July 13 hike conditionality (conditioned on CPI/PPI)
+    was set against data he said would arrive "this week." Update
+    expected. No appearance yet announced.
+  • Williams (NY Fed, Troika) — last scored July 15 ("inflation has
+    peaked"). No post-FOMC appearance announced.
+  • Jefferson (Vice Chair, Troika) — last scored July 16. No
+    appearance announced.
+  • Warsh (Chair, Troika) — no scheduled appearance before Jackson
+    Hole. Jackson Hole keynote expected Friday August 28 (Type G).
+
+  CALENDAR MARKERS
+    Wed August 19, 2:00 p.m. ET — FOMC MINUTES for July 28–29
+      meeting (Type D; HIGH PRIORITY). Key question: does the
+      participant discussion of AI capital spending treat it as an
+      inflationary demand impulse or as a relative price shift that
+      will ease (see Cook August 5 reversal).
+    August 27–29 — Jackson Hole Economic Policy Symposium,
+      Jackson Lake Lodge, WY. Theme: "Financial Innovation:
+      Implications for Payments and Policy." Warsh keynote expected
+      Friday August 28 (Type G; HIGHEST PRIORITY this cycle).
+    Saturday September 5 — BLACKOUT BEGINS (September 15–16 FOMC;
+      IS a projection meeting: SEP + dot plot, Type I). Open
+      communication window runs through September 4.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 8, 2026:
+  Bowman (Aug 8, 2026):
+    Event: 2026 CEO & Senior Management Summit and Annual Meeting
+      (Virtual), 12:45 p.m. ET
+    Official transcript URL to check:
+      https://www.federalreserve.gov/newsevents/speech/bowman20260808a.htm
+    STATUS: NOT SCORED — transcript not yet posted / not retrievable
+      from this environment.
+
+Calendar reference (proxy-blocked in this environment):
+  Fed Board August 2026:  https://www.federalreserve.gov/newsevents/2026-august.htm
+  Fed Board 2026 speeches: https://www.federalreserve.gov/newsevents/2026-speeches.htm
+
+Cross-speaker synthesis for the full post-FOMC cycle (through August 6):
+  data/reports/weekly/20260807_post_fomc_synthesis.txt
+════════════════════════════════════════════════════════════════
