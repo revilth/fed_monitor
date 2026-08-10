@@ -1,0 +1,139 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 9, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none — Sunday; no Fed policy speeches)
+════════════════════════════════════════════════════════════════
+
+No new speeches on August 9 (Sunday). No scoring output.
+
+POST-FOMC STATUS NOTE
+────────────────────────────────────────────────────────────────
+The committee is 11 days into the post-July-29 communication window
+(blackout starts Saturday September 5). Post-FOMC communication to
+date (scored files):
+
+TROIKA
+  • Warsh (Chair): July 29 press conference — scored; canonical
+    baseline reset. No subsequent appearance announced.
+  • Jefferson (Vice Chair): July 16 pre-FOMC baseline — last scored.
+    No post-FOMC communication.
+  • Williams (NY Fed): July 15 "Stability of Thy Times" — last scored.
+    No post-FOMC communication.
+
+JUST VOTERS — dissent bloc (3)
+  • Hammack (Cleveland, DISSENTER): July 31 dissent statement — scored.
+    No subsequent Type A speech. Pattern from Apr 29 dissent: full
+    Type A followed within 7–14 days. Window: Aug 7–14. OVERDUE.
+  • Kashkari (Minneapolis, DISSENTER): July 31 dissent statement +
+    August 5 CNBC Squawk Box interview — scored. Two communications;
+    his August 5 interview was the most expansive post-FOMC statement
+    from any dissenter. Expected to go quiet now.
+  • Logan (Dallas, DISSENTER): July 31 dissent statement — scored. No
+    subsequent Type A speech. Same 7–14 day pattern expected. OVERDUE.
+
+JUST VOTERS — majority bloc
+  • Cook (Board, majority): August 5 "Outlook for the U.S. and Alaskan
+    Economies" (Anchorage) — scored; FIRST post-FOMC from any majority
+    voter. Endorsed the hold, key reversal on AI capital spending.
+  • Waller (Board, majority): July 13 hike conditionality pre-dated
+    the meeting; no post-FOMC speech yet. UPDATE EXPECTED.
+  • Paulson (Philadelphia, majority, median voter): August 4 CNBC
+    Squawk Box interview — scored; reaffirmed inflation-first bar.
+  • Bowman (Board, majority): August 8 fireside chat — NOT SCORED
+    (transcript pending; see August 8 daily for action item).
+  • Barr (Board, majority): No post-FOMC appearance.
+
+NON VOTERS
+  • Daly (SF): August 6 ESRI keynote (Japan) — scored; highest-quality
+    analytical framing of the cycle; scenario-weighted endorsement of
+    the hold, explicit LARGER policy recalibration if adverse case
+    materializes.
+  • Musalem (St. Louis): August 6 AEI remarks — NOT SCORED (transcript
+    pending from stlouisfed.org; see August 6 daily).
+  • Goolsbee (Chicago): Fireside July 14 — last scored. No appearance
+    since (consistent with external-event-only pattern; YouTube primary).
+  • Collins (Boston): No post-FOMC appearance.
+  • Barkin (Richmond): No post-FOMC appearance.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Monday August 10 – Friday August 14
+────────────────────────────────────────────────────────────────
+  Note: the egress proxy in this environment blocks all Fed Board and
+  regional bank event pages (proxy_blocked kind; see _fetch_failures.json);
+  the calendar below is reconstructed from prior reporting and known
+  patterns. No confirmed appearances from the official Fed calendar
+  this run.
+
+  EXPECTED (unconfirmed — based on prior-meeting patterns):
+
+  • Hammack  |  Cleveland Fed President  |  Just Voter (DISSENTER)
+    No title/host confirmed. Following Apr 29 dissent, her full Type A
+    speech came within 9 days; July 31 dissent statement is now 10 days
+    old. Window: Aug 7–14. HIGH PRIORITY if announced.
+    WHAT TO WATCH: whether "monetary policy DID NOT SEE the current
+    policy stance as appropriately restrictive" language upgrades to
+    explicit 25bp advocacy, and whether she now carries the two-sided
+    risk language dropped from her Jul 31 statement.
+
+  • Logan  |  Dallas Fed President  |  Just Voter (DISSENTER)
+    No title/host confirmed. Same 7–14 day post-dissent pattern; her
+    Jul 16 Houston speech preceded the vote by 13 days and was scored
+    as the most analytically rigorous dissent document of the cycle.
+    WHAT TO WATCH: whether her "finish the job" framing now specifies
+    a path (single hike only? series?) and whether she responds to
+    Cook's Aug 5 AI capital-spending reversal.
+
+  • Waller  |  Board Governor  |  Just Voter (majority)
+    No appearance confirmed. His Jul 13 hike conditionality was
+    explicitly data-conditional: hot CPI/PPI in "this week's data" →
+    "near-term tightening consideration." Both June CPI (-0.4% MoM /
+    +3.5% YoY) and June PPI (-0.3% MoM) were benign. An update
+    specifying his revised conditionality against those prints is
+    expected. WHAT TO WATCH: whether he narrows the hike trigger
+    toward the dissenters' base case, or resets to the May 22
+    symmetric guardrails framework.
+
+  • Williams  |  NY Fed President  |  Troika
+    No appearance announced. Last scored July 15. Troika silence is
+    notable — Jefferson also silent. WHAT TO WATCH FOR: any NY Fed
+    website announcement; Troika post-FOMC communication is the
+    highest-weight signal.
+
+  CALENDAR MARKERS (not this week)
+    Wednesday August 19, 2:00 pm ET — FOMC MINUTES for July 28–29
+      meeting (Type D; HIGH PRIORITY). Key questions: (1) participant
+      characterization of AI capital spending — demand impulse or
+      relative price shift? (2) distribution of views on neutral rate;
+      (3) whether "many" or "several" participants favored a hike (the
+      vote was 9–3 but the deliberation is richer than the tally).
+    August 27–29 — Jackson Hole Economic Policy Symposium,
+      Jackson Lake Lodge, WY. Theme: "Financial Innovation:
+      Implications for Payments and Policy." Warsh keynote expected
+      Friday August 28 (Type G; HIGHEST PRIORITY this cycle — he said
+      it was "a blank piece of paper right now" at July 29 press
+      conference; task force inputs will shape it).
+    Saturday September 5 — BLACKOUT BEGINS for September 15–16 FOMC
+      (IS a projection meeting: SEP + dot plot, Type I). Open
+      communication window runs August 10 – September 4 (26 days).
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No speeches on August 9, 2026.
+
+Calendar reference (proxy-blocked in this environment):
+  Fed Board 2026 speeches: https://www.federalreserve.gov/newsevents/2026-speeches.htm
+  Fed Board events (August): https://www.federalreserve.gov/newsevents/2026-august.htm
+
+Post-FOMC scored files:
+  Hammack Jul 31 dissent: data/scored/speeches/20260731_Beth_Hammack_scored.txt
+  Kashkari Jul 31 dissent: data/scored/speeches/20260731_Neel_Kashkari_scored.txt
+  Kashkari Aug 5 CNBC:    data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Logan Jul 31 dissent:   data/scored/speeches/20260731_Lorie_Logan_scored.txt
+  Cook Aug 5 Anchorage:   data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Paulson Aug 4 CNBC:     data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Daly Aug 6 ESRI/Japan:  data/scored/speeches/20260806_Mary_Daly_scored.txt
+════════════════════════════════════════════════════════════════
