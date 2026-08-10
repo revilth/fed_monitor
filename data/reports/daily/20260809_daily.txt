@@ -61,63 +61,82 @@ NON VOTERS
 ════════════════════════════════════════════════════════════════
 UPCOMING — THIS WEEK: Monday August 10 – Friday August 14
 ────────────────────────────────────────────────────────────────
-  Note: the egress proxy in this environment blocks all Fed Board and
-  regional bank event pages (proxy_blocked kind; see _fetch_failures.json);
-  the calendar below is reconstructed from prior reporting and known
-  patterns. No confirmed appearances from the official Fed calendar
-  this run.
+  Note: the egress proxy in this environment blocks direct access to
+  Fed Board and regional bank event pages (proxy_blocked; see
+  _fetch_failures.json). The confirmed items below are sourced from
+  third-party economic calendar services (CME/Econoday, FXStreet) via
+  web search; exact event details require verification at the official
+  Fed Board calendar once access is restored.
 
-  EXPECTED (unconfirmed — based on prior-meeting patterns):
+  ─── DATA CALENDAR ───────────────────────────────────────────────
 
-  • Hammack  |  Cleveland Fed President  |  Just Voter (DISSENTER)
-    No title/host confirmed. Following Apr 29 dissent, her full Type A
-    speech came within 9 days; July 31 dissent statement is now 10 days
-    old. Window: Aug 7–14. HIGH PRIORITY if announced.
-    WHAT TO WATCH: whether "monetary policy DID NOT SEE the current
-    policy stance as appropriately restrictive" language upgrades to
-    explicit 25bp advocacy, and whether she now carries the two-sided
-    risk language dropped from her Jul 31 statement.
+  ★ Wednesday August 12, 8:30 am ET — JULY CPI
+    Consensus: ~3.4% headline YoY. DEFINING EVENT OF THE WEEK.
+    Warsh's hike conditionality ("will not hesitate to act") and
+    Waller's Jul 13 data trigger ("hot reading → near-term tightening")
+    both key on this print. Multiple analysts treating the July CPI as
+    the decisive input for the September 15–16 rate decision.
 
-  • Logan  |  Dallas Fed President  |  Just Voter (DISSENTER)
-    No title/host confirmed. Same 7–14 day post-dissent pattern; her
-    Jul 16 Houston speech preceded the vote by 13 days and was scored
-    as the most analytically rigorous dissent document of the cycle.
-    WHAT TO WATCH: whether her "finish the job" framing now specifies
-    a path (single hike only? series?) and whether she responds to
-    Cook's Aug 5 AI capital-spending reversal.
+  Thursday August 13 — July PPI, 8:30 am ET
+  Friday August 14 — Retail Sales; Initial Jobless Claims;
+    Nonfarm Productivity; Unit Labor Costs
+
+  ─── CONFIRMED APPEARANCES ───────────────────────────────────────
+
+  • Daly  |  San Francisco Fed President  |  Non Voter
+    CONFIRMED — Thursday August 13, ~1:00 pm ET
+    (Source: CME/Econoday event #687383; FXStreet event 83887e19;
+    multiple economic calendar services. Venue/host not confirmed.)
+    Context: her August 6 ESRI/Japan speech laid out a named two-
+    scenario framework ("modal" benign vs. compounding) with the modal
+    still favored but "much closer together than they used to be."
+    WHAT TO WATCH: whether July CPI shifts her scenario weighting, and
+    whether she moves the compounding scenario from 40% to 50%+.
+
+  ─── EXPECTED (unconfirmed) ──────────────────────────────────────
 
   • Waller  |  Board Governor  |  Just Voter (majority)
-    No appearance confirmed. His Jul 13 hike conditionality was
-    explicitly data-conditional: hot CPI/PPI in "this week's data" →
-    "near-term tightening consideration." Both June CPI (-0.4% MoM /
-    +3.5% YoY) and June PPI (-0.3% MoM) were benign. An update
-    specifying his revised conditionality against those prints is
-    expected. WHAT TO WATCH: whether he narrows the hike trigger
-    toward the dissenters' base case, or resets to the May 22
-    symmetric guardrails framework.
+    A Waller speech appears in CME/Econoday August 2026 calendar
+    (event #693681 — higher than the Aug 13 Daly event, suggesting
+    later in August; may fall within this week post-CPI or during
+    Aug 17–26 pre-Jackson Hole window). His Jul 13 hike conditionality
+    was explicitly data-conditional against CPI/PPI prints.
+    WHAT TO WATCH: whether July CPI triggers his "near-term tightening
+    consideration" language or resets to the May 22 symmetric guardrails.
 
-  • Williams  |  NY Fed President  |  Troika
-    No appearance announced. Last scored July 15. Troika silence is
-    notable — Jefferson also silent. WHAT TO WATCH FOR: any NY Fed
-    website announcement; Troika post-FOMC communication is the
-    highest-weight signal.
+  • Bowman  |  Vice Chair for Supervision  |  Just Voter (majority)
+    A Bowman speech appears in FXStreet August 2026 calendar (GUID
+    2bec3fa7; separate from Aug 8 virtual fireside). Date not confirmed.
+    Her Aug 8 transcript remains pending (see action item, Aug 8 daily).
+    WHAT TO WATCH: first post-FOMC economic outlook statement since
+    May 29; the only committee member capable of carrying a cut signal
+    while voting with the majority.
 
-  CALENDAR MARKERS (not this week)
+  • Hammack  |  Cleveland Fed President  |  Just Voter (DISSENTER)
+    No title/host confirmed. Pattern from Apr 29 dissent: full Type A
+    within 9 days; July 31 dissent statement now 10 days old (OVERDUE).
+    WHAT TO WATCH: whether "did not see current policy as appropriately
+    restrictive" upgrades to explicit advocacy, and what she says after
+    the July CPI print.
+
+  • Logan  |  Dallas Fed President  |  Just Voter (DISSENTER)
+    No title/host confirmed. Same 7–14 day post-dissent pattern.
+    WHAT TO WATCH: whether "finish the job" framing specifies a rate
+    path beyond the single July vote.
+
+  ─── CALENDAR MARKERS (beyond this week) ─────────────────────────
+
     Wednesday August 19, 2:00 pm ET — FOMC MINUTES for July 28–29
-      meeting (Type D; HIGH PRIORITY). Key questions: (1) participant
-      characterization of AI capital spending — demand impulse or
-      relative price shift? (2) distribution of views on neutral rate;
-      (3) whether "many" or "several" participants favored a hike (the
-      vote was 9–3 but the deliberation is richer than the tally).
-    August 27–29 — Jackson Hole Economic Policy Symposium,
-      Jackson Lake Lodge, WY. Theme: "Financial Innovation:
-      Implications for Payments and Policy." Warsh keynote expected
-      Friday August 28 (Type G; HIGHEST PRIORITY this cycle — he said
-      it was "a blank piece of paper right now" at July 29 press
-      conference; task force inputs will shape it).
+      (Type D; HIGH PRIORITY). Key questions: (1) AI capital spending —
+      demand impulse or relative price shift? (2) neutral rate
+      characterization; (3) "many" vs. "several" wanting a hike.
+    August 27–29 — Jackson Hole Symposium, Jackson Lake Lodge, WY.
+      Theme: "Financial Innovation: Implications for Payments and
+      Policy." Warsh keynote expected Friday August 28 (Type G;
+      HIGHEST PRIORITY this cycle).
     Saturday September 5 — BLACKOUT BEGINS for September 15–16 FOMC
-      (IS a projection meeting: SEP + dot plot, Type I). Open
-      communication window runs August 10 – September 4 (26 days).
+      (projection meeting: SEP + dot plot, Type I). Open communication
+      window: August 10 – September 4 (26 days).
 
 ════════════════════════════════════════════════════════════════
 SOURCES
