@@ -3,38 +3,147 @@ FED MONITOR — DAILY UPDATE
 Date: August 3, 2026
 Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
 ════════════════════════════════════════════════════════════════
-SPEECHES TODAY
-  (none) — Monday, August 3. No Federal Reserve speeches or statements
-  collected for this date. No files dated 2026-08-03 in data/raw/. Consistent
-  with the August 2 daily's UPCOMING, which listed no confirmed appearances
-  Monday. Post-blackout communication window remains open (open since July 30).
+COMMUNICATIONS TODAY
+  1. John C. Williams  |  NY Fed President  |  Troika
+     Reuters on-record interview (Type J), conducted July 31, published today
+     Interviewer: Michael S. Derby (Reuters); approx. 33 minutes
+     → First post-July-29 communication from any Troika member other than the
+       Chair's press conference.
+
+  No speeches, statements or testimony were delivered on August 3.
 ════════════════════════════════════════════════════════════════
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  JOHN C. WILLIAMS  |  NY Fed President  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Type J — on-record interview. No official transcript exists; the NY Fed
+published only a Teller Window summary, so the outlet's verbatim Q&A is the
+primary source. Scored with the Type A per-topic structure.
+
+TIMING: conducted July 31, the morning the three dissent statements appeared.
+It PRE-DATES the July payroll report (-23,000), the July CPI (Aug 12) and the
+July PPI (Aug 13). Nothing below is a reaction to August data.
+
+COVERAGE CAVEAT: topics were set by the interviewer. Oil inventories, September
+market pricing, long-term yields, the forward-guidance pullback, FOMC
+deliberation tenor and AI bubble/leverage risk were all Derby's questions. The
+absence of a topic carries no signal in this document.
+
+GROWTH
+  "Growth has been solid, but not more than solid… GDP growth over the last year
+  was 2%, it's a little less than that in the first half of this year… we're not
+  seeing the economy show any signs of overheating." Growth is now "more or less
+  at trend," a step down from July 15's "modestly above my estimate of its
+  potential rate of 2 percent." The read is also deployed differently: it is the
+  first plank of the case against hiking rather than a descriptive passage.
+  Direction: dovish lean
+
+LABOR MARKET
+  "the labor market is, been stable" — continuity with July 15's "solid and
+  stable," and again framed as a non-source of inflation pressure ("no signs of
+  overheating in terms of labor market"). That framing is the structural rebuttal
+  to the dissenters: with no tightness channel, a pre-emptive hike loses its
+  transmission mechanism. This read pre-dates the -23K payroll print.
+  Direction: neutral (unchanged)
+
+INFLATION
+  The three-driver decomposition is intact — tariffs, Middle East energy, AI
+  demand — with two changes and one demotion. Tariffs: the pass-through claim
+  hardens ("we should not see large effects from tariffs on inflation rates in
+  the coming months anymore"). Energy: the peak call survives but the level is
+  marked up, and he says so explicitly — "relative to some of my earlier
+  comments, oil prices are higher, and… the future path of oil prices is also
+  somewhat higher." AI demand: demoted from a co-equal driver to "not a big
+  driver of inflation right now" — the direct negation of the dissenters'
+  demand-side attribution. Overall risk "similar to the June FOMC"; the 2%-by-
+  2028 base case is reaffirmed; his own stated test is "core inflation data over
+  the next several months."
+  Note: he does not restate the July 15 headline "inflation has peaked" as a
+  standalone claim. The peak is asserted for the tariff and energy components
+  and the disinflation path is given in forecast form. Substance intact, form
+  unrepeated.
+  Direction: mixed — hawkish on the energy level, dovish on AI, net unchanged
+
+MONETARY POLICY
+  Asked directly why the Committee did not hike, Williams gave the majority's
+  reasoning on the record for the first time: no overheating; inflation driven by
+  identifiable, fading, supply-side specifics; "monetary policy currently is well
+  positioned in where we are today to support that disinflationary path." He
+  frames the majority as forward-looking against a backward-looking case for
+  hiking. New relative to July 15: a conditional-to-act — "if the economy is not
+  on a trajectory that will bring inflation back down to 2%… it would absolutely
+  be appropriate to act." Direction unnamed, but asked in a hiking context. It is
+  materially weaker than Cook's July 15 "prepared to act" and than Waller's
+  July 13 named trigger.
+  On market pricing of September he declines to validate ("I don't opine on
+  whether they're right or wrong because I don't know") and rejects the idea that
+  yields substitute for policy: "I never like the phrase that the markets are
+  doing the work for us." He endorses the forward-guidance pullback as correct
+  for present conditions while explicitly bounding it as situational, not
+  doctrinal.
+  Cut signal: ABSENT (unchanged since April 16). Hike signal: ABSENT; a
+  direction-unnamed conditional now sits alongside "well positioned."
+  Direction: hawkish lean, marginal
+
+NET SIGNAL: NEUTRAL (hold-anchored). Williams is not moving; he is defending.
+  The stance formula is verbatim July 15. The value of the document is that a
+  Troika member states, plank by plank, why the nine did not hike — two days
+  after three regional presidents said publicly that they should have.
+
+vs. PRIOR SPEECH (July 15, 2026):     MIXED — growth capped ("not more than
+  solid"), AI demoted as an inflation driver, energy level marked up, a
+  conditional-to-act added. Stance unchanged.
+vs. PRE-FOMC SPEECH (July 15, 2026):  same document; July 15 is both the prior
+  speech and the pre-FOMC baseline.
+vs. COMMITTEE SINCE FOMC:  Williams anchors the majority's supply-shock
+  attribution against the dissenters' demand-side attribution. Two days later
+  the split widened from inside the majority: Cook (Aug 5) reframed AI capex as
+  a demand-side inflation impulse — the opposite of Williams's demotion.
+
+LANGUAGE TO WATCH:
+  • "not a big driver of inflation right now" (AI demand) — the counter-claim to
+    the dissent bloc's central mechanism. Stage: DISPERSED, and contested inside
+    the majority by Cook. The July minutes (Aug 19) are the resolution point.
+  • "not more than solid" (growth) — capped characterization from the Troika's
+    number two. Stage: DISPERSED. Watch Jefferson.
+  • "it would absolutely be appropriate to act" — the majority's first
+    conditional-to-act. Stage: DISPERSED.
+  • "I never like the phrase that the markets are doing the work for us" —
+    institutional, not directional; relevant to the Chair's market-signal
+    doctrine and to Jackson Hole.
+
+ANALYST FLAG: YES
+  → The AI-attribution split is the cycle's central analytical question:
+    Williams says AI demand is not a big inflation driver; Cook and the
+    dissenters locate the problem on the demand side. The July minutes on
+    August 19 test which view had the room.
+  → Every read here pre-dates the -23K payroll, the July CPI and the July PPI.
+    Williams's next appearance is the highest-priority document of the open
+    window remaining before the September 5 blackout.
+
+════════════════════════════════════════════════════════════════
 WHERE THE COMMITTEE STANDS — ENTERING THE WEEK
 ────────────────────────────────────────────────────────────────
 The July 29 meeting produced a 9–3 vote with three dissenters (Hammack, Kashkari,
 Logan) each calling for a 25bp hike. Their July 31 dissent statements were
-retrieved and scored (see 20260731_daily.txt, redrafted August 2); all three
-moved their object of dissent from the statement's LANGUAGE (April 29) to the
-RATE itself (July 29), and each contested the statement's supply-shock attribution
-as insufficient to explain current inflation. The full 9-vote majority has not
-been heard from since the meeting.
+retrieved and scored (see 20260731_daily.txt); all three moved their object of
+dissent from the statement's LANGUAGE (April 29) to the RATE itself (July 29),
+and each contested the statement's supply-shock attribution as insufficient to
+explain current inflation. Williams's interview above is the majority's first
+answer to that charge.
 
 Key open questions heading into the week:
   • The "demand-side" attribution claim (Hammack and Logan), vs. the statement's
     "supply shock" framing — whether majority speakers affirm or contest it is the
-    week's central analytical question.
+    week's central analytical question. Williams contests it.
   • Cook's hike conditional ("prepared to act if disinflation does not appear
     soon" — July 15, scored) is the most hawkish language from a majority-side
     voter on record. Whether she renews or retreats on Wednesday is the highest-
-    priority data point of the week.
+    priority remaining data point of the week.
   • Bowman (speaking Tuesday August 4, this event runs to tomorrow's report)
     was the explicit dovish outlier as recently as May; her first post-July 29
     public appearance will establish whether she is moving toward or against the
     dissenting bloc.
-  • Williams (NY Fed, Troika): last scored July 15 ("inflation has peaked"),
-    which is the sharpest challenge yet to the dissenters' core claim. No
-    confirmed post-FOMC appearance.
   • Warsh (Chair, Troika): no scheduled speech before Jackson Hole (Aug 27–29).
     His only cycle-relevant public framing post-July 29 was the press conference.
 
@@ -66,9 +175,6 @@ Unconfirmed but plausible this week and next:
     "data-in-hand" justified; the June CPI came in below it). His next speech
     will clarify whether his conditionality threshold resets or whether he moves
     toward the dissenting bloc.
-  • Williams (NY Fed, Troika) — last scored July 15. Typical pattern is one to
-    two weeks post-FOMC. His "inflation has peaked" characterization is the most
-    direct rebuttal available to the dissenters' ongoing-elevated-demand claim.
 
 CALENDAR MARKERS:
   Wed Aug 19, 2:00 p.m. ET — FOMC MINUTES, July 28–29 meeting (Type D). Highest-
@@ -86,7 +192,18 @@ CALENDAR MARKERS:
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-No speeches on August 3, 2026.
+Communications August 3, 2026:
+  Williams Reuters interview (published Aug 3, conducted Jul 31):
+    https://ca.finance.yahoo.com/news/transcript-reuters-interview-ny-fed-100419183.html
+    (Reuters syndication carrying the full verbatim transcript)
+    NY Fed summary of the same interview:
+    https://tellerwindow.newyorkfed.org/2026/08/03/key-takeaways-president-williams-interview-reuters/
+    Raw:    data/raw/interviews/20260803_John_Williams_reuters.txt
+    Scored: data/scored/interviews/20260803_John_Williams_scored.txt
+
+Prior speech / pre-FOMC baseline (vs. PRIOR SPEECH, vs. PRE-FOMC SPEECH):
+  Williams Jul 15:  https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
+                    data/scored/speeches/20260715_John_Williams_scored.txt
 
 Reference FOMC (July 29, 2026):
   Statement:       https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
@@ -101,7 +218,6 @@ Dissent statements (July 31, 2026):
 Scored baselines referenced:
   Cook (Jul 15, 2026):    data/scored/speeches/20260715_Lisa_D__Cook_scored.txt
   Bowman (Jul 13, 2026):  data/scored/speeches/20260713_Michelle_W__Bowman_scored.txt
-  Williams (Jul 15, 2026): data/scored/speeches/20260715_John_Williams_scored.txt
 
 Upcoming events:
   Fed Board calendar:  https://www.federalreserve.gov/newsevents/2026-august.htm

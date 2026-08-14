@@ -1,0 +1,353 @@
+FED MONITOR — WEEKLY REPORT
+════════════════════════════════════════════════════════════════
+Week: Monday August 10 – Friday August 14, 2026
+Reference FOMC: July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+  Logan dissenting in favour of a 25bp HIKE)
+Cycle: Holding, with hike risk the live tail  |  FFR: 3.50–3.75%
+Median voter: Anna Paulson (Philadelphia)
+Next FOMC: September 15–16, 2026 — a PROJECTION meeting (SEP / dot plot)
+Blackout begins: Saturday September 5. Open window remaining: 21 days.
+════════════════════════════════════════════════════════════════
+
+WEEK IN BRIEF
+────────────────────────────────────────────────────────────────
+• Almost no Fed speech. One scored communication all week: Barkin (Richmond,
+  Non Voter) in Greenville on Thursday. No Board governor spoke; no voter spoke;
+  no Troika member spoke. The committee sat out the two most important data
+  prints of the inter-meeting window in silence.
+
+• NO INTERVIEWS. A full re-check of the week — CNBC, Bloomberg Television and
+  Bloomberg Markets, Bloomberg Podcasts / Bloomberg Talks, Fox Business, Yahoo
+  Finance and Reuters video, plus the Fed Board and regional bank pages — found
+  ZERO on-record interviews by any sitting Fed official between August 10 and 14.
+  Everything Fed-labelled on those channels this week is outside commentary
+  (Hoenig, Kaplan, El-Erian, Siegel, Zandi, sell-side economists), not officials.
+  Method and coverage are itemised in the OPERATIONAL NOTES below.
+
+• But the re-check found a MISSED interview from the prior week, and it is the
+  most important document of the entire post-FOMC cycle. John Williams (NY Fed,
+  Troika) gave Reuters a 33-minute on-record interview on July 31, published
+  August 3. It was never collected. It has now been recovered, scored, and the
+  August 3 daily report redrafted to carry it. Detail below.
+
+• The data went the majority's way, twice. July CPI (Wed Aug 12): headline +0.1%
+  m/m, 3.4% y/y (–0.1pp); core +0.2% m/m, 2.5% y/y (–0.1pp) — all in line with
+  consensus. July PPI (Thu Aug 13): final demand FLAT vs. +0.2% expected, core
+  +0.2% vs. +0.3% expected, 4.7% y/y, with final-demand goods –0.7%. Two soft
+  prints in two days. September hike pricing eased on both.
+
+• Net directional signal for the week: MILDLY DOVISH, driven entirely by data
+  rather than by anything an official said. The only speaking official, Barkin,
+  moved the other way — he named the hike question out loud for the first time.
+
+════════════════════════════════════════════════════════════════
+THE RECOVERED DOCUMENT — WILLIAMS TO REUTERS (Troika)
+────────────────────────────────────────────────────────────────
+Conducted July 31 (the morning the three dissent statements landed), published
+August 3 by Reuters. No official transcript exists — the NY Fed posted only a
+Teller Window summary — so under the Type J rule the outlet's verbatim Q&A is
+the primary source. Raw and scored files are now in the repo.
+
+Why it matters: it has been the ONLY Troika communication of the entire
+post-July-29 cycle other than the Chair's press conference, and it sat outside
+the corpus for eleven days while three daily reports and the August 7 synthesis
+were written around a gap where it should have been.
+
+What Williams said:
+  • He gives the majority's anti-hike case on the record, plank by plank, two
+    days after three presidents said publicly that the Committee should have
+    hiked: no overheating ("growth has been solid, but not more than solid";
+    "the labor market is, been stable"); inflation driven by identifiable,
+    fading supply-side specifics; "monetary policy currently is well positioned
+    in where we are today to support that disinflationary path."
+  • He DEMOTES AI demand as an inflation driver — "not a big driver of inflation
+    right now." On July 15 it was one of three co-equal drivers. This is the
+    direct negation of the dissenters' demand-side attribution.
+  • He marks the ENERGY level up while keeping the peak call: "relative to some
+    of my earlier comments, oil prices are higher, and the future path of oil
+    prices is also somewhat higher." The one explicitly acknowledged hawkish
+    revision.
+  • He adds a conditional he did not have on July 15: "if the economy is not on
+    a trajectory that will bring inflation back down to 2%… it would absolutely
+    be appropriate to act." Direction unnamed; asked in a hiking context.
+  • His own stated test: "core inflation data over the next several months" — a
+    multi-month bar, implicitly high for a September move in either direction.
+  • On markets pricing September, he declines to validate, and rejects the idea
+    that yields substitute for policy: "I never like the phrase that the markets
+    are doing the work for us."
+
+Net signal: NEUTRAL, hold-anchored. He is not moving; he is defending.
+
+CRITICAL CAVEAT: every read above pre-dates the –23,000 July payroll print, the
+July CPI and the July PPI. Williams has not been heard from since any of them.
+
+════════════════════════════════════════════════════════════════
+SINCE THE JULY 29 FOMC — WHERE THE COMMITTEE STANDS
+────────────────────────────────────────────────────────────────
+Eight scored communications now exist for this cycle. The organising fact is not
+majority-vs-dissenters; it is that the NINE ARE NOT UNIFIED, and they disagree
+about the mechanism, not just the call.
+
+TROIKA
+  Williams (NY Fed) — Jul 31 interview, above. Supply-shock attribution; AI
+    demoted as an inflation driver; no overheating channel; "well positioned";
+    conditional-to-act added. NEUTRAL.
+  Warsh (Chair) — silent since the July 29 press conference. No speech scheduled
+    before his Jackson Hole keynote (Fri Aug 28). Outside commentary this week
+    (Hoenig, Kaplan, Bloomberg's Trumponomics) converged on the same complaint:
+    three months in, the market still cannot read his reaction function.
+  Jefferson (Vice Chair) — NO post-July-29 appearance at all. The longest Troika
+    silence of the cycle and the single largest coverage gap in the corpus.
+
+JUST VOTERS
+  Paulson (Philadelphia — MEDIAN VOTER, Aug 4): hawkish on the option set,
+    dovish on the data. Puts underlying inflation ex-tariffs-and-energy at
+    "somewhere in the range of 2.4, 2.8" — the only falsifiable number any
+    official has offered — while saying in the first person that it "could be
+    higher rates." Defends look-through on timing grounds. Vote "not a close call."
+  Cook (Board, Aug 5): still the most hawkish majority voter in absolute terms,
+    but DOVISH vs. her own July 15 baseline. Names the hike direction explicitly
+    for the first time while making its trigger less likely to fire. Declines to
+    defend the statement's supply-shock attribution — "but it is not the only
+    factor." Her AI capex read crossed to the DISINFLATION side, i.e. the exact
+    opposite of the move Williams made.
+  Kashkari (Minneapolis, DISSENTER, Aug 5 CNBC): "now is the time to start
+    slowly moving" rates up, and three hikes by year-end is "not impossible" —
+    the only official arguing for a sequence. But materially softer in conviction
+    than his written dissent: he was UNDECIDED going into the meeting and
+    concedes most of the inflation IS supply-driven, with demand only "on top of
+    it."
+  Hammack (Cleveland, DISSENTER) and Logan (Dallas, DISSENTER): nothing since
+    their July 31 dissent statements — now 14 days. Both are overdue against
+    their own post-April-29 pattern (full Type A within 7–14 days).
+  Bowman, Waller, Barr, Jefferson: silent as voters this cycle. Bowman's August 8
+    fireside chat has never been published (see notes).
+
+NON VOTERS
+  Daly (San Francisco, Aug 6, Tokyo): the cycle's most analytically explicit
+    document. Two named scenarios, both "on the middle of the desk," with the
+    adverse compounding-shocks scenario now "much closer" to the benign one. Her
+    response to scenario two is not a hike but a substantial recalibration —
+    "surgical" adjustments explicitly ruled out as insufficient. Names a
+    quantified trip wire nobody else has: a 4% inflation attention threshold
+    against a 3.9% average and 3.7% latest. HAWKISH LEAN.
+  Barkin (Richmond, Aug 13 — the week's only speech): NEUTRAL / HAWKISH LEAN.
+    Growth materially stronger than May (H1 nonresidential fixed investment
+    +9.5% annualised); the "fog" metaphor inverted — "high uncertainty is the new
+    baseline… they can't afford to wait any longer." Labor softer than the
+    headline (unemployment 4.1%, but –23K payrolls, resolved via a structural
+    supply-demand balance). And, first in his 2026 vocabulary: "Will the Fed need
+    to raise rates further, or is inflation already on a path down to target?"
+    Offsetting that, his pass-through intelligence REVERSED — "many
+    business-to-consumer firms tell us they have little ability to pass on
+    costs" — the opposite of his May 21 "renewed determination to pass on cost
+    increases."
+  Goolsbee, Collins, Schmid, Musalem: nothing scored this cycle. Musalem's
+    August 6 AEI remarks remain unrecovered.
+
+════════════════════════════════════════════════════════════════
+SHARED LANGUAGE SINCE THE JULY 29 FOMC
+────────────────────────────────────────────────────────────────
+1. THE ATTRIBUTION FIGHT — what is actually causing the inflation.
+   This is the cycle's central question and it now splits the majority itself.
+     • Supply-shock attribution (the statement's own framing): Williams defends
+       it outright and demotes AI demand to "not a big driver of inflation right
+       now." Paulson defends look-through and cites the June PCE relief as proof.
+     • Demand-side attribution: Hammack and Logan (dissent statements), and Cook
+       from INSIDE the majority — "but it is not the only factor," with AI capex
+       reframed as an inflation impulse on Aug 5.
+   Stage: EMERGING, contested, and unusually — being contested from two
+   directions at once. Two Troika-adjacent majority voters read the same AI
+   buildout through opposite mechanisms one day apart.
+   RESOLUTION POINT: the July 28–29 minutes, Wednesday August 19, 2:00pm ET.
+
+2. "A series of successive supply shocks" (Kashkari) / "compounding effect…
+   greater than the sum of its parts" (Daly). The look-through exit ramp. Daly's
+   version is the adoptable one because she states it as an open question rather
+   than a verdict. Stage: EMERGING.
+
+3. The hike question moving OUTWARD from the dissent bloc. Waller (Jul 13,
+   conditional), Cook (Jul 15/Aug 5, named), Paulson (Aug 4, first person), and
+   now Barkin (Aug 13, named as a live question by a non-dissenting Non Voter).
+   Williams's conditional-to-act is the weakest version of the same move.
+   Stage: EMERGING → approaching committee-wide as a QUESTION, though not as a
+   position. Nobody outside the three dissenters has advocated a hike.
+
+4. "Well positioned" — the stable holding formula. Unchanged in Williams's
+   interview. Flag only if it disappears.
+
+════════════════════════════════════════════════════════════════
+THE WEEK'S DATA, AND WHOSE ARGUMENT IT SERVES
+────────────────────────────────────────────────────────────────
+July CPI (Aug 12) — headline +0.1% m/m, 3.4% y/y; core +0.2% m/m, 2.5% y/y.
+July PPI (Aug 13) — final demand flat (vs. +0.2% expected), core +0.2%, 4.7%
+  y/y, final-demand goods –0.7%.
+
+  → Helps Williams and Paulson most directly. Williams's stated test is "core
+    inflation data over the next several months" moving toward a 2% run rate;
+    one clean core print is the first instalment. Paulson's 2.4–2.8% underlying
+    estimate is corroborated by a 2.5% core CPI y/y — her number, from the
+    median voter, now has a matching print.
+  → Does NOT touch Kashkari's argument, which is doctrinal by construction: it
+    rests on the persistence of successive supply shocks, not on the current
+    print. He did, however, frame these two prints as decisive before they
+    landed — so his own words leave room for the data to move him.
+  → Against Daly's 4% attention threshold, the readings moved away from the trip
+    wire, not toward it.
+  → The unresolved counterweight is the –23,000 July payroll. No voter has
+    spoken since it printed. Barkin is the only official on record engaging it,
+    and he reads it as a fragile equilibrium rather than a deterioration.
+
+════════════════════════════════════════════════════════════════
+INSTITUTIONAL — RUNNING IN THE BACKGROUND
+────────────────────────────────────────────────────────────────
+• LISA COOK REMOVAL ATTEMPT, round two. On August 7 the White House notified
+  Cook that the President is "considering" her removal, giving her until
+  AUGUST 26 to respond to the mortgage-fraud allegations — the procedural box
+  the Supreme Court's 5–4 June ruling required. Cook is a sitting voter and, on
+  August 5, the most hawkish voter on the majority side. Her seat is live
+  through the September 15–16 projection meeting, and the response deadline
+  falls two days before the Jackson Hole keynote. Track for SEP participant
+  count and composition (Type I rule 5).
+• WARSH COMMUNICATIONS REGIME. Williams endorsed the forward-guidance pullback
+  as correct for present conditions while explicitly bounding it as situational,
+  not doctrinal — and separately rejected the market-signal doctrine's stronger
+  form ("I never like the phrase that the markets are doing the work for us").
+  That is the closest thing to a Troika boundary being drawn around the Chair's
+  approach. Outside commentary this week ran heavily on the same theme.
+
+════════════════════════════════════════════════════════════════
+KEY QUESTIONS FOR THE NEXT THREE WEEKS
+────────────────────────────────────────────────────────────────
+1. Does the AI-attribution split resolve in the minutes (Aug 19)? Williams says
+   AI demand is not a big inflation driver; Cook and the dissenters locate the
+   problem on the demand side. How the participants' AI-capex discussion is
+   characterised is the direct test.
+2. Is 9–3 a ceiling or a floor? The minutes' distribution markers ("several,"
+   "many," "a few") will show how many non-dissenters privately leaned hawkish.
+3. Where is Jefferson? A Vice Chair who has not spoken across an entire
+   inter-meeting cycle is itself a data point. His next appearance is the
+   tiebreaker for where the Troika centre sits.
+4. Do Hammack and Logan escalate? Both are two weeks past their dissent
+   statements with no follow-up speech, against a pattern of 7–14 days.
+5. What does Warsh do with a blank page at Jackson Hole (Aug 28)? First Jackson
+   Hole as Chair, symposium theme "Financial Innovation: Implications for
+   Payments and Policy," and the last major platform before blackout.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — MONDAY AUGUST 17 – FRIDAY AUGUST 21
+────────────────────────────────────────────────────────────────
+  ★ WEDNESDAY AUGUST 19, 2:00 pm ET — FOMC MINUTES, July 28–29 (Type D)
+    The highest-value scheduled document before Jackson Hole. Three required
+    comparisons: vs. the July 29 press conference opening statement, vs. the
+    June minutes, vs. the July statement. Watch specifically: the AI capex
+    characterisation; the hawk/hold distribution markers; the neutral-rate
+    language and how many participants placed policy above / at / below neutral;
+    and whether Hammack's demand-side attribution shows up as shared or isolated.
+
+  Expected but UNCONFIRMED:
+  • Hammack (Cleveland, Just Voter, dissenter) — overdue first post-FOMC Type A.
+  • Logan (Dallas, Just Voter, dissenter) — same. Watch whether "finish the job"
+    acquires a level or a timeline.
+  • Waller (Board, Just Voter) — a pre-Jackson-Hole window entry was flagged for
+    Aug 17–26. His July 13 hike conditionality was tied to a CPI/PPI threshold;
+    both prints are now in, and both came in soft.
+  • Jefferson (Vice Chair, Troika) — no appearance this cycle; elevated priority
+    whenever he surfaces.
+
+  BEYOND NEXT WEEK:
+    Aug 26 — Cook's deadline to respond to the removal notice.
+    Aug 27–29 — Jackson Hole Economic Policy Symposium, Jackson Lake Lodge, WY.
+      Warsh keynote Friday Aug 28 (Type G, highest priority this cycle).
+    Sat Sep 5 — BLACKOUT BEGINS for the September 15–16 FOMC (projection
+      meeting: SEP + dot plot, Type I). The blackout-entry daily report that
+      Saturday must carry the full FOMC CYCLE SUMMARY.
+
+════════════════════════════════════════════════════════════════
+OPERATIONAL NOTES — COVERAGE AND GAPS
+────────────────────────────────────────────────────────────────
+INTERVIEW RE-CHECK, METHOD AND SCOPE (Aug 10–14):
+  Swept by yt-dlp over recent uploads: CNBC Television, Bloomberg Television,
+  Bloomberg Markets, Bloomberg Podcasts (incl. Bloomberg Talks), Fox Business,
+  Yahoo Finance, Reuters — filtered on all eighteen current officials. Plus
+  named-speaker YouTube searches, the Fed Board 2026 speeches page, the SF Fed
+  speeches page, and web searches for wire/print interviews.
+  RESULT: no on-record interview by any sitting official in the window.
+  All Fed-labelled content on those channels is third-party commentary.
+
+GAP 1 — TYPE J HAS NO COLLECTOR (root cause, still open).
+  The Williams–Reuters interview was missed because nothing in the pipeline
+  looks for interviews. data/raw/interviews/ existed but was EMPTY; the
+  provenance guard has a Type J code path that names this exact interview in its
+  comments, and CLAUDE.md documents the type — but no scraper, and no step in
+  the morning routine, ever searches for one. Officials give on-record
+  interviews to Reuters, Bloomberg, CNBC and the FT regularly, and none of them
+  appear on any Fed site. Recommend a weekly interview sweep step in the morning
+  routine, at minimum a named-official wire/outlet search.
+
+GAP 2 — NO DAILY REPORT FOR AUGUST 11 OR AUGUST 12.
+  Reports exist for Aug 10 and Aug 13; the Aug 12 and Aug 13 morning score runs
+  produced no commit. The collect job ran on both days and found no new files,
+  so no speech was missed — but the routine is supposed to emit a "0 scored"
+  report either way (as it did for Aug 10), and it did not. Same failure class as
+  the July 14 collect/score race in the outage log. Worth checking the runner.
+
+GAP 3 — DALY, AUGUST 13: NO EVIDENCE THE APPEARANCE HAPPENED.
+  Carried as "TRANSCRIPT PENDING" in the Aug 13 daily on the strength of a
+  CME/Econoday and FXStreet calendar entry. That FXStreet event page now 404s;
+  the SF Fed speeches page shows nothing after April; no wire coverage, no
+  YouTube video, no headline of any kind exists for a Daly appearance that day.
+  Every "Fed's Daly" result traces back to the August 6 Tokyo keynote already
+  scored. RECOMMENDATION: reclassify from "transcript pending" to "appearance
+  not corroborated — calendar artefact." Her last communication remains Aug 6.
+
+GAP 4 — BOWMAN, AUGUST 8: NOT A FETCH FAILURE.
+  The Fed Board 2026 speeches page lists exactly one August entry — Cook,
+  August 5. Bowman's August 8 fireside chat was never posted, and no video
+  exists on any channel. This is a publication gap, not a proxy problem, and the
+  standing recovery instruction ("refetch from a non-proxy IP") will not fix it.
+  She remains unheard since May 29 — across two FOMC meetings and the 9–3 vote —
+  which makes the committee's most explicitly dovish voter a genuine blind spot.
+
+GAP 5 — MUSALEM, AUGUST 6 (AEI): still unrecovered. St. Louis remains the
+  weakest scraper (index stale since Nov 2024).
+
+LOCAL ENVIRONMENT: every federalreserve.gov and regional-bank fetch from this
+  machine is proxy_blocked (kind recorded in _fetch_failures.json). YouTube,
+  general web and the search tooling are NOT blocked — which is how this week's
+  interview sweep was run. The scheduled GitHub Actions collect job reaches all
+  Fed hosts normally; do not diagnose a gap as a network fault without checking
+  the run log.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Recovered this week:
+  Williams / Reuters (conducted Jul 31, published Aug 3):
+    https://ca.finance.yahoo.com/news/transcript-reuters-interview-ny-fed-100419183.html
+    NY Fed summary: https://tellerwindow.newyorkfed.org/2026/08/03/key-takeaways-president-williams-interview-reuters/
+    Raw:    data/raw/interviews/20260803_John_Williams_reuters.txt
+    Scored: data/scored/interviews/20260803_John_Williams_scored.txt
+
+Speeches this week:
+  Barkin Aug 13: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260813
+                 data/scored/speeches/20260813_Tom_Barkin_scored.txt
+
+Data releases:
+  July CPI (Aug 12): https://www.bls.gov/news.release/archives/cpi_08122026.htm
+  July PPI (Aug 13): https://www.bls.gov/news.release/archives/ppi_08132026.htm
+
+Cycle corpus (post-July-29):
+  Hammack dissent Jul 31:  data/scored/speeches/20260731_Beth_Hammack_scored.txt
+  Kashkari dissent Jul 31: data/scored/speeches/20260731_Neel_Kashkari_scored.txt
+  Logan dissent Jul 31:    data/scored/speeches/20260731_Lorie_Logan_scored.txt
+  Paulson Aug 4:           data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook Aug 5:              data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Kashkari Aug 5 CNBC:     data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Daly Aug 6:              data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Post-FOMC synthesis:     data/reports/weekly/20260807_post_fomc_synthesis.txt
+
+Reference FOMC (July 29, 2026):
+  Statement:      https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  Statement diff: data/reports/fomc/20260729_statement_diff.txt
+════════════════════════════════════════════════════════════════

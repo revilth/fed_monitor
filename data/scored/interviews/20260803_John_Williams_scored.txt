@@ -1,0 +1,313 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-08-03 (conducted 2026-07-31) | John C. Williams | NY Fed President | Troika
+Reuters on-record interview — full verbatim Q&A
+Interviewer: Michael S. Derby (Reuters); approx. 33 minutes, 18 questions
+SOURCE: https://ca.finance.yahoo.com/news/transcript-reuters-interview-ny-fed-100419183.html
+RAW: data/raw/interviews/20260803_John_Williams_reuters.txt
+
+CLASSIFICATION: Type J — on-record interview (no official transcript published;
+  the NY Fed posted only a Teller Window summary). Scored with the Type A
+  per-topic structure per CLAUDE.md.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3, Hammack / Kashkari /
+                   Logan dissenting in favor of a 25bp HIKE; statement text
+                   frozen vs. June 17; no forward guidance)
+PRE-FOMC BASELINE: July 15, 2026  "Stability of Thy Times" (Partnership for
+                   New York City; scored at
+                   data/scored/speeches/20260715_John_Williams_scored.txt)
+POST-FOMC PRIOR:   N/A — this is Williams's FIRST post-July-29 communication,
+                   and the first from any Troika member other than the Chair's
+                   press conference.
+
+TIMING NOTE — CRITICAL: conducted July 31, the same morning the three dissent
+  statements were published. It therefore PRE-DATES the July payroll report
+  (-23,000), the July CPI (Aug 12) and the July PPI (Aug 13). Every labor and
+  inflation read below is a pre-data read and must not be treated as a reaction
+  to the August data.
+
+TYPE J CAVEAT — INTERVIEWER-DRIVEN COVERAGE: topic selection is Derby's, not
+  Williams's. Topics Derby raised that Williams did not volunteer: oil
+  inventories / strategic reserves, September market pricing, long-term yields,
+  Warsh's forward-guidance pullback, FOMC deliberation tenor, AI bubble and
+  leverage. Absence of a topic is NOT a signal in this document.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace" [Jul 29 stmt, frozen from
+   Jun 17]
+  → Williams version: "Growth has been solid, but not more than solid."
+
+Own language:
+  "I mean, GDP growth over the last year was 2%, it's a little less than that in
+   the first half of this year. So we're not seeing the economy show any signs
+   of overheating in terms of labor market, in terms of growth. We're seeing
+   economy that's growing more or less at trend"
+  → Two changes of emphasis vs. July 15. (a) The qualifier "but not more than
+    solid" caps the characterization — July 15 had growth "running modestly
+    above my estimate of its potential rate of 2 percent"; here growth is "more
+    or less at trend" and H1 is "a little less" than 2%. (b) The purpose of the
+    growth read has flipped from descriptive to argumentative: it is deployed as
+    the first plank of the case AGAINST hiking ("no signs of overheating").
+  → The July 15 compositional framing (AI/investment strength offsetting housing,
+    federal spending and energy drag) is not repeated; Derby did not ask about
+    composition, so this is not a withdrawal. [Type J caveat applies.]
+
+Shift vs. prior speech (Jul 15):  DOVISH LEAN — "modestly above potential"
+  downgraded to "at trend" and "not more than solid."
+Shift vs. pre-FOMC (Jul 15):      DOVISH LEAN — same comparison; July 15 is
+  both the prior and the pre-FOMC baseline.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "the unemployment rate has changed little" [Jul 29 stmt]
+  → Williams version: "the unemployment rate has been near constant for about
+    a year."
+
+Own verdict:
+  "from my perspective, the labor market is, been stable."
+  → Verbatim continuity with the July 15 verdict ("solid and stable") minus
+    "solid." Given the interview format, do not read the dropped adjective as a
+    downgrade; the substantive claim — stability, no deterioration — is intact.
+
+Own qualifier / addition:
+  "we're not seeing the economy show any signs of overheating in terms of labor
+   market"
+  → Labor is again framed as a NON-source of inflation pressure. This is the
+    July 15 position (HPW tightness index, wage data "consistent with low
+    inflation") restated in argumentative form. It is the direct rebuttal to the
+    dissenters' demand-side attribution: if labor is neither tight nor
+    inflationary, the case for a pre-emptive hike loses its channel.
+
+Shift vs. prior speech (Jul 15):  unchanged — stability verdict maintained; no
+  softening concern introduced.
+Shift vs. pre-FOMC (Jul 15):      unchanged.
+
+NOTE: this read pre-dates the -23,000 July payroll print. Barkin (Aug 13) treats
+  that print as the central labor fact of the month. Williams has not been heard
+  from since it landed — the single most valuable open question for his next
+  appearance.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks including energy" [Jul 29 stmt]
+  → Williams version: the same three-category decomposition he has used since
+    June 25 — (1) tariffs, (2) the Middle East conflict / energy, (3) "the
+    effects of very strong demand related to AI."
+
+Own language — KEY:
+  (1) TARIFFS — peak claim RETAINED and strengthened:
+      "probably the vast majority or large part of the effects of the tariffs
+       that are in place have now passed through into prices … we should not see
+       large effects from tariffs on inflation rates in the coming months
+       anymore." New tariffs are "a relatively modest increase in the average
+       tariff rate. So it doesn't really change my view."
+      → July 15 said the direct effects "appear to have in large part played
+        out." Substantively the same claim, now stated with less hedging.
+
+  (2) ENERGY — peak claim RETAINED but the level marked UP:
+      "Moderating somewhat, or basically having essentially already peaked."
+      AND: "definitely relative to some of my earlier comments, oil prices are
+       higher, and I think the path of future path of oil prices is also
+       somewhat higher."
+      → This is the one explicitly acknowledged hawkish revision in the
+        interview. July 15's futures-based call was that energy prices "have
+        likely peaked and will come down closer to levels seen before the
+        initial closure of the Strait of Hormuz." He now keeps the shape of the
+        path (peaked, declining) but raises its level. He also disclaims
+        confidence: "I'm not putting a great deal of certainty or confidence in
+        any particular forecast of energy prices."
+
+  (3) AI DEMAND — explicitly DE-RANKED as an inflation driver:
+      "It's not a big driver of inflation right now, but is clearly something
+       that we're seeing, certain categories of goods being pushed up by the
+       very very strong demand that's right now at pace and supply."
+      → HIGH SIGNAL. July 15 listed AI demand as one of three co-equal drivers
+        and described "a race between available supply and surging demand …
+        sharp increases in the prices of semiconductors, power transformers."
+        "Not a big driver of inflation right now" is a demotion. It puts Williams
+        directly opposite Cook (Aug 5, AI capex reframed as a demand-side
+        inflation impulse) and opposite Hammack's dissent attribution
+        ("inflationary pressures coming from the demand side"). This is the
+        clearest Troika-vs-dissenter divide in the post-July-29 corpus.
+
+  RISK LEVEL — unchanged:
+      "It's about … similar to the June FOMC over these six weeks. My view on
+       the economic outlook actually hasn't changed that much more generally."
+
+  BASE CASE — 2028 target date REAFFIRMED, with the conditions stated:
+      "assuming that energy prices have basically peaked … assuming that the
+       tariff effects have also peaked … and assuming that we keep the economy
+       … in a good macroeconomic balance," then "goods inflation can get back to
+       rates that are kind of more normal around zero, or even slightly
+       negative," core services ex-housing gradually comes down, and inflation
+       reaches 2% "on a sustained basis by 2028."
+      → Same 2028 date as June 25 and July 15. Housing/shelter disinflation
+        again named as the standing background force.
+
+  WHAT HE IS ACTUALLY WATCHING:
+      "I am quite honestly focused quite a bit on what are we seeing in the core
+       inflation data over the next several months, and is that consistent with
+       a kind of a run rate of inflation moving towards 2%."
+      → Names CORE, over "the next several months," as his own test. This is the
+        closest thing to a decision rule he offers, and it is a multi-month test
+        — implicitly a high bar for a September move in either direction.
+
+VERIFICATION NOTE: Williams does NOT repeat the July 15 headline formulation
+  "inflation has peaked" as a standalone claim in this interview. He asserts the
+  peak for the tariff and energy components specifically, and the disinflation
+  path in forecast form ("my forecast personally is for inflation to come down in
+  the second half of this year and come down further next year"). Do not report
+  the aggregate peak claim as restated verbatim; report it as intact in substance
+  and unrepeated in form.
+
+Shift vs. prior speech (Jul 15):  MIXED, net UNCHANGED — hawkish on the energy
+  level (marked up, explicitly), dovish on AI (demoted from co-equal driver to
+  "not a big driver"), unchanged on tariffs, risk level and the 2028 date.
+Shift vs. pre-FOMC (Jul 15):      same as above.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee decided to maintain the target range … in support of the
+   Federal Reserve's dual mandate." [Jul 29 stmt]
+  → Williams version: "I strongly supported the decision of the committee, and
+    there was strong support for that."
+
+Own language — THE ANTI-HIKE CASE, stated affirmatively:
+  Asked directly why the Fed did not hike given the dissents, Williams gave the
+  majority's reasoning on the record for the first time:
+  "the labor market is, been stable. Growth has been solid, but not more than
+   solid … we're not seeing the economy show any signs of overheating … the big
+   drivers of inflation … really have been from these specific sets of
+   circumstances around the tariffs, around some of the uncertainty, geopolitical
+   events, and … the conflict in the Middle East. In my base forecast, we should
+   see those factors diminish … And I think monetary policy currently is well
+   positioned in where we are today to support that disinflationary path."
+  → Structure of the argument: (a) no overheating channel; (b) inflation is
+    driven by identifiable, fading, supply-side specifics; (c) policy is already
+    correctly positioned for the resulting disinflation. This is the majority's
+    supply-shock attribution defended explicitly against the dissenters'
+    demand-side attribution.
+
+  Forward-looking framing as the dividing line:
+  "that's why the case is … really very forward looking. It's not looking
+   backwards, but it's looking, where is the economy today? Where is the economy
+   going … Given that monetary policy takes time to have its full effects."
+  → [Inference: this reframes the dissenters' "inflation has been above target
+    for too long" as a backward-looking argument. Not stated as a criticism of
+    any colleague; Williams is careful to speak "from my own perspective."]
+
+  THE CONDITIONAL — new in form, symmetric in framing, hike-compatible:
+  "if the economy is not on a trajectory that will bring inflation back down to
+   2% … it would absolutely be appropriate to act to get us on a trajectory that
+   does bring inflation back to 2%. I don't think now, what that situation might
+   be or how, what it would be."
+  → Elicited by a direct question about higher inflation readings, so the topic
+    is Derby's — but the formulation is considered, not an aside. Williams had NO
+    such conditional on July 15, where "well positioned" carried the stance
+    unqualified. Direction of the conditional is unnamed ("act," not "raise"),
+    but the question was explicitly about hiking, so it functions as an
+    acknowledgment of the hawkish tail. It is materially weaker than Cook's
+    "prepared to act if disinflation does not appear soon" (Jul 15) and far
+    weaker than Waller's Jul 13 named-trigger conditional.
+
+  ON MARKET PRICING OF SEPTEMBER — declines to validate:
+  "I don't opine on whether they're right or wrong because I don't know."
+  And on long-term yields doing the tightening: "I never like the phrase that
+  the markets are doing the work for us because I know that we have to do the
+  work ourselves … those are factors that affect conditions, and we're aware of
+  that. But it doesn't tell us what to do."
+  → Notable in the Warsh regime, whose stated premise is that policy should lean
+    on market signals. Williams accepts markets as INPUT and rejects them as
+    INSTRUCTION. [Inference: a boundary being drawn around the Chair's
+    market-signal doctrine, stated in his own institutional terms rather than as
+    disagreement.]
+
+  ON THE FORWARD-GUIDANCE PULLBACK — endorses it, and bounds it:
+  "the committee strongly supported this in the June meeting, and I did too …
+   that was exactly the right call because the uncertainties are such that we
+   didn't have that confidence or conviction." But: "I don't see that as saying,
+   well forward guidance is never useful," citing the zero lower bound and
+   Greenspan 2003–04 as periods when it served. "So right now, I don't see
+   forward guidance as being helpful to achieving our goals."
+  → Conditional endorsement, not a doctrinal conversion. Guidance is a tool for
+    when the committee and markets diverge; today they do not diverge enough to
+    need it.
+
+Cut signal status: ABSENT — unchanged since the April 16 retraction.
+Hike signal status: ABSENT as a signal; a direction-unnamed conditional is now
+  present where none existed on July 15.
+
+Shift vs. prior speech (Jul 15):  HAWKISH LEAN, marginal — stance formula
+  ("well positioned") unchanged, but a conditional-to-act now sits alongside it.
+Shift vs. pre-FOMC (Jul 15):      same.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL (hold-anchored), with the majority's anti-hike case
+               articulated on the record for the first time. Williams is not
+               moving; he is defending. The interview's value is not a stance
+               change — the stance formula is verbatim July 15 — but that a
+               Troika member states WHY the nine did not hike, plank by plank,
+               two days after three regional presidents said publicly that they
+               should have. On the substantive dividing line — what is causing
+               the inflation — he demotes AI demand to "not a big driver," which
+               is the direct negation of Hammack's and Logan's demand-side
+               attribution and, later, of Cook's August 5 reframing.
+
+               Committee positioning implied as of July 31:
+               → Williams (Troika): supply-shock attribution; no overheating;
+                 policy already correctly positioned; watching CORE over
+                 "several months"
+               → Hammack / Kashkari / Logan (Just Voters, dissenting): demand-
+                 side attribution; policy not appropriately restrictive
+               → Cook (Just Voter, majority): moved TOWARD the demand-side
+                 attribution on August 5 (AI capex as inflation impulse)
+               → Warsh (Chair, Troika): no attribution offered publicly
+
+Language watch:
+  • "not a big driver of inflation right now" (on AI demand) — the counter-claim
+    to the dissent bloc's central mechanism. Stage: DISPERSED (Williams only, and
+    contested within the majority by Cook). Resolution should be visible in the
+    July minutes (Aug 19) — how the participants' AI-capex discussion is
+    characterized is the direct test.
+  • "not more than solid" (growth) — a capped characterization from the Troika's
+    number two. Stage: DISPERSED. Watch for it in Jefferson's next appearance.
+  • "if the economy is not on a trajectory … it would absolutely be appropriate
+    to act" — the majority's first conditional-to-act formulation. Stage:
+    DISPERSED. Cook (Jul 15) and Waller (Jul 13) hold stronger named versions;
+    if Jefferson or Warsh adopt it, the majority is building an exit ramp toward
+    the dissenters without conceding the attribution.
+  • "I never like the phrase that the markets are doing the work for us" —
+    institutional, not directional. Relevant to the Warsh market-signal doctrine
+    and to Jackson Hole (Aug 27–29).
+
+Analyst flag: YES
+  → (1) COLLECTION FAILURE, now corrected. This interview was published August 3
+    and was never collected; the August 3 daily report stated Williams was "last
+    scored July 15" and had no confirmed post-FOMC appearance. It has been the
+    only Troika communication of the entire post-July-29 cycle, and it sat
+    outside the corpus for eleven days. It is recovered here and the August 3
+    daily is redrafted. Type J is not covered by any scraper — the interviews
+    path has no collector at all. See the operational note in the weekly summary.
+  → (2) The AI-attribution split is now the cycle's central analytical question:
+    Williams says AI demand is not a big inflation driver; Cook (Aug 5) and the
+    dissenters say demand-side pressure is the problem. The July minutes on
+    August 19 are the resolution point.
+  → (3) Everything here pre-dates the -23K payroll, the July CPI and the July
+    PPI. Williams's "labor market has been stable" and "focused on core over the
+    next several months" both need re-testing against data he had not seen. His
+    next appearance is the highest-priority document of the remaining open window
+    before the September 5 blackout.
+══════════════════════════════════════════════════════════
