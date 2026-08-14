@@ -1,0 +1,77 @@
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260813
+
+The Mysterious U.S. Economy
+Aug. 13, 2026
+Tom Barkin
+President, Federal Reserve Bank of Richmond
+The State of Greenville - Greenville Chamber of Commerce
+Hyatt Regency Hotel
+Greenville, S.C.
+Highlights:
+If you too like a good mystery, then you like the U.S. economy.
+How has the U.S. economy remained so resilient despite a slew of challenges? A big part of the answer lies with the consumer. Consumer spending makes up nearly 70 percent of GDP and despite the turmoil, consumers have kept spending.
+Why is investment so robust amid such challenging conditions? It’s not only data centers. Many business leaders explain they’ve concluded high uncertainty is the new baseline. They can’t afford to wait any longer.
+How can unemployment be so low when the news feels so bad? In addition to the continuing low-hire, low-fire environment, the low unemployment rate is also a result of a different, delicate balance: slowing labor demand growth has been accompanied by slowing labor supply growth.
+The inflation mystery is not whether inflation will come back to our 2 percent target or not. The FOMC has made clear that we are committed to doing so and that we have the tools we need.
+Thank you for that kind introduction, and for inviting me to join you today. I hope you’ve had a good summer, whether spending time with family, celebrating our 250th, watching the World Cup, or just enjoying the air conditioning. I spent time with my family at the beach in South Carolina. That’s summer to me: time with my kids, the ocean, and a good book — often a mystery.
+If you too like a good mystery, then you like the U.S. economy. Today, I’ll speak to four of its mysteries and share my current deductions on each, hoping that Sherlock Holmes wouldn’t have judged them as elementary. I’m always interested in learning from you too, so let me know if I’ve missed any clues. As always, these thoughts are mine alone and not those of anyone else on the Federal Open Market Committee (FOMC) or in the Federal Reserve System.
+Mystery #1: The Resilient Economy
+Let me start with the first mystery: our economy’s remarkable resilience. It has faced its fair share of challenges in recent years: the pandemic, supply chain shortages, inflation and the rise in interest rates, Russia’s invasion of Ukraine, the conflicts in the Middle East, tariffs. I could go on.
+These challenges have left their mark. Inflation is still over our target. Real incomes over the last year are down. Consumer sentiment has responded, with 2026 producing the three lowest monthly readings in the 70-plus-year history of the University of Michigan Surveys of Consumers. Indicators that typically predict recessions have been sounding the alarm on and off for years.
+All the while, economic activity has kept rolling. Real GDP growth has averaged 2.5 percent since 2023, above estimates of its longer-run trend. This year, when high gas prices could’ve been the final straw, the economy barely blinked. Demand stayed healthy, and the unemployment rate fell.
+How has the U.S. economy remained so resilient despite this slew of challenges?
+A big part of the answer lies with the consumer. Consumer spending makes up nearly 70 percent of GDP, and despite the turmoil, consumers have kept spending. I think their mindset has shifted. Coming out of the Great Recession, many who lost their home, car, or job focused on rebuilding their financial cushion. They saved more and spent less. But coming out of the pandemic, consumers now seem to have embraced “YOLO.” The unimaginable can happen. Enjoy the moment. But how are they affording it?
+Remember, the vast majority still have jobs. The unemployment rate in July came in low at 4.1 percent, marking the 58th consecutive month at or below 4.5 percent. That’s the longest streak in recorded history. Layoffs are low too; initial unemployment claims hit an over 50-year low in July. With jobs, consumers aren’t feeling as much pressure to cut back.
+Additionally, the wealthy have built up even more wealth. Those who own homes or stocks have benefitted from remarkable growth in recent years. They comprise a disproportionate amount of consumer spending.
+Finally, even those with less money have found ways to stretch their dollars. They are trading down to private label and discount retailers. They are making trade-offs across time, too, effectively borrowing from the future. They are buying used instead of new and choosing to repair rather than replace. They are dropping coverages or opting out of insurance altogether. They are saving less, or even tapping into savings, if available. They are managing payments carefully. Net, they’re financing their spend by living a little closer to the edge. But they’re still spending.
+Mystery #2: Strong Investment
+The second mystery is the strength of business investment. You might imagine all the instability I described would make businesses less inclined to invest. Costs of energy and imported goods are up. So are interest rates and the frequency of supply chain disruptions.
+I’ve described making business decisions amid high uncertainty like driving in a dense fog. You can’t hit the gas; you don’t know what’s around the next turn. You can’t slam on the brakes; you don’t want someone to crash into you. So, you pull over and put on your hazards. That’s what businesses told us they did in 2025. They sat on the side of the road and waited for the fog to lift.
+Today, you could argue the fog still hasn’t lifted. Tariff rates are still uncertain. The conflict in the Middle East continues. Borrowing rates are up. And yet, in the first half of 2026, real private nonresidential fixed investment grew at an annualized rate of 9.5 percent. For comparison, the average growth rate in the much more stable decade prior to the pandemic was 5.8 percent.
+Why is investment so robust amid such challenging conditions?
+I’ll start with the obvious: artificial intelligence (AI). The levels of investment are hard to fathom. Earlier this year, nearly $700 billion in expected AI investments were announced in one week. I’ve seen estimates comparing the total spend to the build-out of the railroads in the 1800s. And this investment seems impervious to the level of interest rates, the cost of building, or the amount of uncertainty. The demand appears relentless.
+It’s not only data centers, however. I am starting to hear investment momentum elsewhere, too. Bank pipelines are healthy. Mergers and acquisitions are active. Leases are being signed. Factories are being built. The defense sector is booming. Many business leaders explain they’ve concluded high uncertainty is the new baseline. They can’t afford to wait any longer.
+In part, that’s because strong earnings make these investments defensible and affordable. Second quarter earnings are up over 30 percent. If you include hyperscalers, they are up over 50 percent.
+1
+Earnings forecasts for the coming quarter keep being revised up. Corporate leverage is down from where it was in 2020.
+Underlying this financial strength has been a strong reported uptick in productivity growth. While the role of AI is much discussed, I actually believe the vast majority of the productivity improvement to date came out of the labor supply squeeze post pandemic. Having lived through that trauma, businesses invested in automation, new staffing models, and leaner operating practices. They’re benefiting from those changes today.
+Mystery #3: The Steady Labor Market
+That brings us to the third mystery: the health of the labor market.
+If you follow the news, you read story after story about how AI will replace workers. You likely know recent college graduates struggling to find jobs. You have seen that in the latest jobs report we lost 23,000 jobs. Yet the unemployment rate is at low levels and dropping.
+How can unemployment be so low when the news feels so bad?
+It’s true that hiring is down. The hiring rate has been hovering around 2013 levels. In The CFO Survey, which we run in partnership with the Atlanta Fed and Duke University, only 37 percent of firms are hiring for new positions and fewer than 60 percent are hiring replacements. Unlike investment, firms are still on a hiring pause given their reluctance to risk overhiring amid elevated uncertainty. Instead, they are keeping headcount flat or downsizing through attrition. AI is relevant, as they are willing to test whether it will allow them to accomplish their objectives without hiring workers.
+At the same time, firms still aren’t laying off workers. In The CFO Survey, fewer than 6 percent of firms reported layoffs. Demand is healthy, and they need staff to meet that demand. There is less excess to trim, as firms have been downsizing through attrition for years now. And, while there’s fear of AI-related layoffs, most AI use cases still don’t show a clear path to headcount reduction, outside of computer programmers and customer service representatives. And don’t forget that earnings are still healthy; no one likes doing layoffs, and strong earnings limit the economic pressure to do so.
+In addition to the continuing low-hire, low-fire environment, the low unemployment rate is also a result of a different, delicate balance: Slowing labor demand growth has been accompanied by slowing labor supply growth. Annual net migration into the United States has plummeted, projected to fall 2.4 million between 2024 and 2026. At the same time, the population has continued to age. I’m excluding present company of course. The share of the population aged 65 and over has grown to over 20 percent, and as these baby boomers retire, the number not in the labor force has been increasing by an average of almost 2 million over the last three years. So, while there may be fewer jobs being added, there are also fewer people looking for those jobs.
+Mystery #4: Stubborn Inflation
+The fourth mystery is inflation. PCE inflation peaked at 7.2 percent in June 2022. The Fed raised rates, and by early last year, inflation was down to the mid-to-low 2s and looked as if it was headed back to target. Then, as you know, came tariffs, an oil price shock, and a flood of AI spending. Inflation has since moved back up. June headline PCE inflation was 3.7 percent. Core PCE came in at 3.3 percent.
+The inflation mystery is not whether inflation will come back to our 2 percent target or not. The FOMC has made clear that we are committed to doing so and that we have the tools we need. The open question is how it gets there. Will the Fed need to raise rates further, or is inflation already on a path down to target?
+There’s an argument to be made that the inflation we see today is already headed to the right path. Much of today’s elevated inflation level has come from shocks, which should pass. The tariff rates should settle. The Middle East conflict should get resolved. The data center boom should ease at some point. AI-enabled productivity could help lower costs and prices. Compensation pressure is modest. Market-based measures of inflation expectations remain stable. And the current level of interest rates, many think, is still restrictive enough to bring inflation down.
+There’s a counterargument, however, that says the elevated inflation we see today is more embedded. Supply chain challenges could persist. AI could be inflationary should its investment wave continue and should it be used for increasing prices. Inflation has been too high for too long, risking an upward shift in the price expectations of firms and consumers. If true, this argument suggests help is needed to bring inflation all the way back down to target.
+That help could come from demand. Many business-to-consumer firms tell us they have little ability to pass on costs; their customers are highly price sensitive. That resistance to higher prices could become even more pronounced should there be a downward shift in the underlying drivers of consumer demand, like equity values or the labor market. Alternatively, help may need to come from the Fed.
+I imagine you might hope that leads me to help solve a fifth mystery: What will the FOMC do next? Unfortunately, I won’t spoil the plot today. My custom is to never prejudge the path forward. Instead, I plan to keep collecting clues — from business leaders like you, as well as from the data — in order to refine my theory of the case. Thank you.
+1
+Hyperscalers in this context refers narrowly to Alphabet Inc. and Amazon.com.
+Topics
+Business Cycles
+Economic Growth
+Inflation
+Monetary Policy
+Subscribe to News
+Receive an email notification when News is posted online:
+Subscribe to News
+By submitting this form you agree to the
+Bank's Terms & Conditions and Privacy Notice.
+Email Address
+Re-enter Email Address
+I agree to the terms of the privacy policy
+Thank you for signing up!
+As a new subscriber, you will need to confirm your request to receive email notifications from the Richmond Fed. Please click the
+confirm subscription
+link in the email to activate your request.
+If you do not receive a confirmation email, check your junk or spam folder as the email may have been diverted.
+Thank you for signing up!
+You can unsubscribe at any time using the Unsubscribe link at the bottom of every email.
+Subscribe to our other digital publications
+Contact Icon
+Contact Us
+Jim Strader

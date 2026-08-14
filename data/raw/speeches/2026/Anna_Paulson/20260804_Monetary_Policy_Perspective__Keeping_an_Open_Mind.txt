@@ -1,0 +1,47 @@
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/monetary-policy-perspective-keeping-an-open-mind
+
+Article
+Monetary Policy Perspective: Keeping an Open Mind
+by
+Anna Paulson
+President and Chief Executive Officer
+04 Aug ’26
+Philadelphia Fed President and CEO Anna Paulson shared her views on the economy and monetary policy in an essay.
+View PDF
+Share
+The Federal Reserve’s dual mandate of maximum employment and price stability serves as my foundation when thinking about monetary policy.
+1
+My team and I analyze data and speak with people across the Third District and beyond to evaluate economic conditions and understand the forces shaping the economy. This process and the thoughtful discussions I have with other Federal Open Market Committee (FOMC) members inform my judgment about how to deliver the best possible results for the American people.
+The importance of price stability cannot be overstated. Low, predictable inflation is a bedrock of economic prosperity. Price stability allows families to budget for monthly expenses
+and
+make long-term plans. It helps businesses allocate resources effectively today
+and
+invest for the future. Low and stable inflation also helps to foster maximum employment. After more than five years of above-target inflation, it is essential that we return inflation to the 2 percent target.
+It is within this context that I supported last week’s FOMC decision to maintain the target range for the federal funds rate. The recent improvement in some inflation data is welcome. It is a step in the right direction, but it is only one step. I am focused on gathering more information to better understand what’s happening to underlying inflation and the impact of supply shocks from energy and tariffs. And I am keeping an open mind to ensure policy delivers price stability and maximum employment.
+Current Conditions: Much Has Happened, My Outlook Is Steady
+The path to price stability starts with understanding current economic conditions.
+Much has happened over the last few months. Yet when I look at the data and consider conversations with business leaders and what we're hearing from workers and consumers, I find that my overall assessment of where the economy is headed has not substantially changed. The conflict in the Middle East has repeatedly subsided and then flared up again. Old tariffs expired, new tariffs were put in place. More artificial intelligence (AI) investments were announced, and new AI models were released.
+Despite these significant developments, the fundamental economic picture remains similar. Inflation is elevated. The labor market appears stable. Second quarter GDP increased a modest 1.5 percent, but underlying growth metrics for investment and consumption were strong, and we are on track for growth in the neighborhood of 2 percent this year. The conflict in the Middle East and tariffs are causing uncertainty and have pushed inflation up. The AI infrastructure buildout is driving growth and creating price pressures in some areas. However, AI’s long-term impact on the economy is less clear. These are all familiar themes that continue to shape my thinking.
+So, when I look at current conditions through the lens of our dual mandate, I see a labor market that is relatively stable and near full employment and an inflation rate that is too high. The most recent inflation data were somewhat encouraging. Headline PCE inflation eased to 3.7 percent in June, thanks to lower energy prices. The June ceasefire in the Middle East provided temporary relief for consumers and businesses. Oil prices have since jumped and remain volatile, but the brief period of Middle East stability demonstrated that supply shocks can be temporary, reinforcing the case for looking through such disruptions when setting monetary policy.
+The ability to look through supply shocks depends, in part, on inflation expectations and underlying inflation. Expectations remain well-anchored. However, when I try to assess underlying inflation — what inflation would look like if we stripped out the temporary effects of tariff increases and energy prices, I estimate that underlying inflation is running somewhere between 2.4 and 2.8 percent.
+2
+Underlying inflation has been elevated for a long time, and it is what I am most focused on as I evaluate our progress toward the 2 percent target.
+Turning to the other part of our mandate, the labor market has stabilized. The unemployment rate has been remarkably steady, fluctuating only between 4 and 4.5 percent since June 2024 and currently standing at 4.2 percent, near what I consider to be full employment. Employers tell me that layoffs are infrequent. Despite this, surveys suggest that workers are worried about job security and that jobseekers are pessimistic about finding work.
+The Balance of Risks: Pointing Towards Inflation
+Given my assessment of current conditions, the key question is whether the federal funds rate is appropriately calibrated to return inflation to 2 percent in an acceptable time frame while sustaining full employment. Based on the data and my conversations, I see two possibilities.
+One possibility is that the current setting of the federal funds rate is mildly restrictive and this will bring inflation to 2 percent in an acceptable time frame. Moderate wage growth and subdued expectations for future wage growth support this argument. Elevated mortgage rates and muted housing market activity demonstrate how higher interest rates are constraining many households. While second quarter consumption increased 3.2 percent, there are signs of weaker demand among low- and middle-income families.
+The pressures on consumers are affecting businesses as well. For example, the CEO of a large consumer goods manufacturer recently told me that, despite increased costs from multiple fronts, his firm is keeping prices fixed because shoppers are very price sensitive. Small businesses, meanwhile, are reporting more challenges, and weakness is particularly notable among small firms serving the real estate sector. While the AI buildout is creating some price pressures, these should remain contained if policy is appropriately calibrated.
+All of this information points to current policy being mildly restrictive. The other possibility, however, is that current policy is not restrictive enough to deliver our target rate of 2 percent inflation. The most compelling evidence for this view is straightforward: Inflation has been above target for more than five years and even stripping out temporary factors, measures of underlying inflation have edged down only modestly over the past year or so. Persistently elevated inflation suggests more restrictive policy may be needed. Many firms have ready access to credit, and this is supporting robust investment, especially in AI. This outsized demand for AI infrastructure is creating pressure throughout the supply chain, driving up prices for key inputs and flowing through to higher consumer prices. While AI's productivity benefits may eventually help moderate inflation, those gains appear further off, while the inflationary pressures from the buildout are more immediate. Even if supply shocks fade and no new shocks hit, this information suggests policy might need to be more restrictive to achieve the Fed’s target.
+Implications for Monetary Policy
+I am keeping an open mind about where policy goes from here. As I've outlined, I see two plausible scenarios for how current policy is affecting inflation, and the incoming evidence will clarify which path we’re on and what adjustments, if any, may be needed.
+How will I assess which path we're on? By watching how the evidence accumulates. If policy is appropriately calibrated, I would expect to see growing signs that inflation is coming down — more months of improving inflation data; reports from those making pricing and hiring decisions that align with a gradual return to 2 percent; signs that pressures from tariffs, energy, and AI are contained rather than intensifying; and inflation expectations that are well-anchored and consistent with 2 percent. If instead underlying inflation remains stubbornly elevated, the passage of time without progress would itself signal that more restrictive policy is needed.
+There will almost always be a range of interpretations about what is happening in the economy. That is why I am committed to keeping an open mind as I assess the evidence and determine the appropriate path for policy. My highest priority is delivering 2 percent inflation while sustaining full employment.
+These comments reflect my own views and not necessarily the views of my colleagues on the Federal Open Market Committee or others in the Federal Reserve System.
+Several Federal Reserve Banks publish measures of underlying inflation using a variety of methods to filter out transitory price movements. Examples include the
+Cleveland Fed's Median PCE Inflation
+, the
+Dallas Fed's Trimmed Mean PCE Inflation
+, and the
+New York Fed's Multivariate Core Trend Inflation
+.
+View the Full Article
