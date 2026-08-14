@@ -1,0 +1,288 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-08-13 | Thomas I. Barkin | Richmond Fed President | Non Voter
+"The Mysterious U.S. Economy"
+The State of Greenville — Greenville Chamber of Commerce
+Hyatt Regency Hotel, Greenville, S.C.
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260813
+
+CLASSIFICATION: Type A — Full Economic Outlook. Structure is four
+  "mysteries" framing: (1) Resilient Economy [Growth + Consumer], (2)
+  Strong Investment [Growth/investment], (3) Steady Labor Market
+  [Labor], (4) Stubborn Inflation [Inflation + Monetary Policy
+  framing]. All four required topics covered. Barkin's first post-
+  July-29-FOMC economic outlook speech.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack,
+                   Kashkari, Logan dissented preferring +25bp hike;
+                   statement text substantively FROZEN vs. June 17)
+PRE-FOMC BASELINE: May 21, 2026  "Navigating Supply Shocks"
+                   ULI Triangle Capital Markets, Raleigh, NC
+POST-FOMC PRIOR:   N/A — this is Barkin's first post-July-29 economic
+                   outlook speech. May 21 serves as BOTH prior speech
+                   AND pre-FOMC baseline (no intervening speeches).
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace despite elevated
+   uncertainty that owes, in part, to the conflict in the Middle East." [Jul 29]
+  → Barkin: "our economy's remarkable resilience... Real GDP growth has
+    averaged 2.5 percent since 2023, above estimates of its longer-run
+    trend. This year, when high gas prices could've been the final straw,
+    the economy barely blinked. Demand stayed healthy, and the unemployment
+    rate fell." — echoes and quantifies the statement framing; no softening.
+
+Own language — Consumer:
+  "their mindset has shifted... coming out of the pandemic, consumers now
+   seem to have embraced 'YOLO.' The unimaginable can happen. Enjoy the
+   moment." — behavioral shift argument: demand resilience is partly
+   psychological (post-pandemic carpe diem), not only income-driven.
+  "The vast majority still have jobs... The wealthy have built up even
+   more wealth... even those with less money have found ways to stretch
+   their dollars. They are trading down... they're financing their spend by
+   living a little closer to the edge. But they're still spending." —
+   three-tier consumer structure: jobs holders, wealth-effect beneficiaries,
+   and coping-mechanism users. Each tier has a different vulnerability.
+
+Own language — Investment:
+  "real private nonresidential fixed investment grew at an annualized rate
+   of 9.5 percent [H1 2026]. For comparison, the average growth rate in
+   the much more stable decade prior to the pandemic was 5.8 percent." —
+   investment is running at ~60% above the pre-pandemic trend.
+  "It's not only data centers. I am starting to hear investment momentum
+   elsewhere, too. Bank pipelines are healthy. Mergers and acquisitions
+   are active. Leases are being signed. Factories are being built." —
+   signals AI investment breadth beyond hyperscalers; important check on
+   "AI bubble" risk narrative.
+  "high uncertainty is the new baseline. They can't afford to wait any
+   longer." — the FOG METAPHOR IS GONE. In March 27, businesses "pulled
+   over and put on their hazards." In August, the same uncertainty level
+   is now provoking investment, not restraint. Barkin's own framing has
+   reversed on the behavioral read of uncertainty.
+  "Strong reported uptick in productivity growth... vast majority of the
+   productivity improvement to date came out of the labor supply squeeze
+   post pandemic." — careful: attributes current productivity gains to
+   post-pandemic automation and lean operations, NOT to AI yet.
+
+Shift vs. prior speech (May 21): HAWKISH LEAN — May described resilience
+  but with fog still present and businesses "sitting on the side of the
+  road." August describes active investment boom (9.5% H1), behavioral
+  shift in consumer psychology, and an explicit fog-metaphor reversal.
+  Growth picture is materially stronger.
+Shift vs. pre-FOMC (May 21): same baseline — HAWKISH LEAN (identical
+  to vs. prior speech comparison).
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate
+   has changed little." [Jul 29]
+  → Barkin: "the unemployment rate in July came in low at 4.1 percent,
+    marking the 58th consecutive month at or below 4.5 percent." — confirms
+    the headline but immediately complicates it. "In the latest jobs report
+    we lost 23,000 jobs. Yet the unemployment rate is at low levels and
+    dropping." — the statement's upbeat framing obscures a payroll DECLINE.
+
+Own verdict:
+  "In addition to the continuing low-hire, low-fire environment, the low
+   unemployment rate is also a result of a different, delicate balance:
+   Slowing labor demand growth has been accompanied by slowing labor supply
+   growth." — this is Barkin's analytical key. The unemployment rate is not
+   a signal of labor market health; it is a structural artifact of two
+   parallel slowdowns offsetting each other.
+
+Own qualifier — Supply-side explanation:
+  "Annual net migration into the United States has plummeted, projected to
+   fall 2.4 million between 2024 and 2026... the share of the population
+   aged 65 and over has grown to over 20 percent... the number not in the
+   labor force has been increasing by an average of almost 2 million over
+   the last three years." — supply side is absorbing the demand slowdown.
+   Low unemployment may be less durable than it appears once the supply
+   offset runs out.
+
+Own qualifier — CFO Survey (proprietary intelligence):
+  "only 37 percent of firms are hiring for new positions and fewer than
+   60 percent are hiring replacements" — hiring pause data. Firms explicitly
+   hedging against overhiring risk and testing AI substitution first.
+  "fewer than 6 percent of firms reported layoffs" — layoff restraint
+   continues; demand supports headcount even without new hiring.
+
+Shift vs. prior speech (May 21): DOVISH LEAN — May had "payroll growth
+  has started to bounce back." August has -23,000 jobs in the most recent
+  report, with an explicit structural explanation for why unemployment
+  stays low despite weak demand. The labor market is softer under the
+  headline, and Barkin is saying so directly.
+Shift vs. pre-FOMC (May 21): same baseline — DOVISH LEAN.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal,
+   in part reflecting supply shocks that have driven price increases in
+   certain sectors, including energy." [Jul 29]
+  → Barkin: "PCE inflation peaked at 7.2 percent in June 2022. The Fed
+    raised rates, and by early last year, inflation was down to the
+    mid-to-low 2s and looked as if it was headed back to target. Then...
+    came tariffs, an oil price shock, and a flood of AI spending. Inflation
+    has since moved back up. June headline PCE inflation was 3.7 percent.
+    Core PCE came in at 3.3 percent." — echoes supply-shock attribution;
+    quantifies current levels (up from May 21's 3.5%/3.2% readings).
+
+Own language — KEY (the open question):
+  "The inflation mystery is not whether inflation will come back to our 2
+   percent target or not. The FOMC has made clear that we are committed to
+   doing so and that we have the tools we need. The open question is how
+   it gets there. Will the Fed need to raise rates further, or is inflation
+   already on a path down to target?" — the most important line in the
+   speech. Barkin frames the live policy debate as hike vs. hold-and-wait,
+   explicitly. Unlike the statement or most contemporaneous speeches,
+   he names "raises rates further" as a live option in public. He declines
+   to adjudicate — but the framing itself is a hawkish lean.
+
+Own language — Disinflationary case:
+  "Much of today's elevated inflation level has come from shocks, which
+   should pass. The tariff rates should settle. The Middle East conflict
+   should get resolved. The data center boom should ease at some point.
+   AI-enabled productivity could help lower costs and prices. Compensation
+   pressure is modest. Market-based measures of inflation expectations
+   remain stable. And the current level of interest rates, many think, is
+   still restrictive enough to bring inflation down." — he steelmans the
+   dovish case. "many think" on restrictiveness is hedged (he does not
+   personally endorse "still restrictive enough").
+
+Own language — Inflationary risk:
+  "Supply chain challenges could persist. AI could be inflationary should
+   its investment wave continue and should it be used for increasing prices.
+   Inflation has been too high for too long, risking an upward shift in
+   the price expectations of firms and consumers. If true, this argument
+   suggests help is needed to bring inflation all the way back down to
+   target." — duration framing returns: "too high for too long." Consistent
+   with May 21's "five years above target" framing and CALIBRATION entry.
+
+Own language — Pass-through reversal (analyst flag):
+  "Many business-to-consumer firms tell us they have little ability to
+   pass on costs; their customers are highly price sensitive." — THIS IS
+   A REVERSAL of May 21's signal. In May: "I'm hearing a renewed
+   determination by businesses to pass these highly visible, conflict-
+   driven cost increases on to their customers." In August: B2C firms
+   report limited ability to pass through. The pass-through direction has
+   cycled back to the March/pre-May position. Barkin's on-the-ground
+   intelligence on firm pricing behavior has shifted again — disinflationary
+   read vs. the May hawkish signal.
+
+Shift vs. prior speech (May 21): MIXED — data is higher (3.7/3.3% vs.
+  3.5/3.2%); hike framing is more explicit in public; but pass-through
+  signal has reversed (May: firms pushing through costs; August: B2C
+  firms can't pass through). Net: slight hawkish lean from higher data
+  and explicit hike question, offset by dovish pass-through reversal.
+Shift vs. pre-FOMC (May 21): same baseline — MIXED (same assessment).
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee will deliver price stability." [Jul 29]
+  → Barkin: "The FOMC has made clear that we are committed to doing so
+    and that we have the tools we need." — near-verbatim echo; committee
+    consensus language, no personal variation added.
+
+Own language:
+  "I imagine you might hope that leads me to help solve a fifth mystery:
+   What will the FOMC do next? Unfortunately, I won't spoil the plot today.
+   My custom is to never prejudge the path forward. Instead, I plan to
+   keep collecting clues — from business leaders like you, as well as from
+   the data — in order to refine my theory of the case." — consistent with
+   all prior Barkin speeches. He does not pre-commit.
+
+Implicit hike framing (from inflation section):
+  "Will the Fed need to raise rates further?" — public naming of the hike
+  question. Not in statement language; not previously used by majority-
+  bloc officials (this cycle the hike question has been named primarily by
+  dissenters Logan, Hammack, Kashkari and by Waller's Jul 13 conditionality).
+  "Alternatively, help may need to come from the Fed." — second hike-
+  compatible signal embedded in the inflation section.
+
+Cut signal status: ABSENT
+Hike signal status: PRESENT AS OPEN QUESTION — "Will the Fed need to raise
+  rates further?" Barkin does not endorse it, but he names it without
+  dismissing it. This is meaningfully different from his May 21 framing
+  (pure patience / "give ourselves some time before setting sail"). The
+  hike question has moved into his public language for the first time.
+
+Shift vs. prior speech (May 21): HAWKISH LEAN — May endorsed hold ("it
+  made sense to give ourselves some time"); August explicitly frames hike
+  as live open question without endorsing hold or hike. The explicit hike
+  language is new in Barkin's public vocabulary.
+Shift vs. pre-FOMC (May 21): same baseline — HAWKISH LEAN.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    NEUTRAL with HAWKISH LEAN
+               Barkin's first post-July-29 speech is not a clean hawkish
+               move — it is a well-balanced presentation with a slight
+               hawkish tilt on three dimensions: (1) growth is materially
+               stronger than May 21 (investment boom, fog-metaphor reversal,
+               9.5% H1 investment); (2) inflation data is higher (3.7/3.3%
+               PCE) and Barkin publicly names "raise rates further" as the
+               live policy question for the first time; (3) the monetary
+               policy framing has shifted from pure patience to an explicit
+               acknowledgment of the hike scenario. Against this: (a) labor
+               is softer than headline suggests (-23K payrolls; structural
+               supply/demand offset); (b) the May hawkish pass-through
+               signal has reversed (B2C firms report limited pricing power).
+               Barkin is not a policy signal speaker — his value is
+               on-the-ground business intelligence. The pass-through reversal
+               is operationally significant: if B2C firms can no longer pass
+               through costs, that's a disinflationary force that could
+               support the "already on a path" case without Fed action.
+
+Language watch:
+  • "High uncertainty is the new baseline. They can't afford to wait any
+    longer." — behavioral read on investment psychology. The fog metaphor
+    is gone; its replacement is ADAPTED BEHAVIOR under persistent fog.
+    If this spreads to other officials' labor/investment framing, it would
+    support the "no need for cuts to unlock growth" argument. Track for
+    adoption by Williams or Cook (both data-focused).
+  • "Will the Fed need to raise rates further?" — the explicit hike
+    question in public from a non-dissenting Non Voter. Previously confined
+    to dissenters and Waller's conditional framing. Language cycle stage:
+    EMERGING — crossing from dissent bloc (Logan/Hammack/Kashkari) and
+    conditional voter (Waller Jul 13) to the broader Non Voter communication.
+    Watch for further spread.
+  • "58th consecutive month at or below 4.5%" — duration framing for labor
+    market strength. Mirrors the "five years above target" inflation duration
+    framing. Not yet in committee documents. Watch for spread to statement.
+  • Pass-through reversal: "little ability to pass on costs; customers are
+    highly price sensitive." — third direction-change in Barkin's pricing-
+    power intelligence (Mar 27: limited pass-through → May 21: renewed
+    determination to pass through → Aug 13: limited again). The oscillation
+    itself may be the signal: pricing power is fragile and sector-dependent,
+    not trending in either direction.
+
+Analyst flag:  YES
+  → PASS-THROUGH REVERSAL: May 21's "renewed determination" signal was
+    flagged as potentially the most operationally significant hawkish read
+    in that speech. August's reversal — "little ability to pass on costs" —
+    is the mirror image. The question for the analyst: is this a B2C/B2B
+    split (B2B firms still pushing through; B2C firms hitting consumer
+    resistance), or is it a genuine aggregate softening of pricing power
+    that would limit inflation persistence? Barkin distinguishes "business-
+    to-consumer firms" specifically — this may not apply to B2B or
+    services sectors. If pass-through is limited at the consumer-facing
+    end, core goods inflation should moderate without rate hikes. Score
+    alongside the July PPI print (Aug 13, 8:30am ET) for context.
+  → HIKE LANGUAGE EXPANSION: First use of "Will the Fed need to raise
+    rates further?" in Barkin's public vocabulary. Given his role as an
+    information aggregator for business conditions, his public framing of
+    the hike question may reflect what he is hearing from business contacts
+    about the inflation path. Recommend monitoring whether this language
+    appears in subsequent Barkin speeches or spreads to other non-dissenting
+    officials (Cook, Jefferson, Williams) as a measure of committee-wide
+    hike saliency.
+══════════════════════════════════════════════════════════

@@ -1,0 +1,290 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 13, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Tom Barkin  |  Richmond Fed President  |  Non Voter
+     "The Mysterious U.S. Economy"
+     The State of Greenville — Greenville Chamber of Commerce
+     Hyatt Regency Hotel, Greenville, S.C.
+     SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260813
+
+  2. Mary C. Daly  |  San Francisco Fed President  |  Non Voter
+     [Title and host unconfirmed]  (STATUS: NOT SCORED — TRANSCRIPT PENDING)
+     Confirmed appearance per CME/Econoday #687383 / FXStreet #83887e19
+     (noted in August 10 daily); ~1:00 pm ET. The 5:30am ET GitHub
+     Actions collect run preceded the event, and all external fetch
+     attempts in this environment are proxy_blocked. No raw file
+     received. Recovery: python3 main.py refetch from a non-proxy-
+     blocked IP, or direct WebFetch of the SF Fed speech page
+     (https://www.frbsf.org/news-and-media/speeches/mary-c-daly).
+     Context: This would be Daly's SECOND post-July-29 communication
+     and first since her August 6 two-scenario keynote (ESRI, Japan),
+     which described the compounding-shocks scenario as carrying
+     roughly 40% probability. The July CPI print (released August 12)
+     is the most relevant intervening data point — watch whether it
+     moved her scenario weighting.
+
+DATA CONTEXT — August 13
+  July PPI released 8:30am ET. Context for Barkin's speech delivered
+  later in the day. July CPI was released August 12. Both prints
+  bear on the inflation path Barkin describes. PPI and CPI readings
+  are not yet in scored files for this run; incorporate into scoring
+  when transcript recovery enables future rescoring of Daly.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  TOM BARKIN  |  Richmond Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Barkin covers growth under two "mysteries": consumer resilience and
+  investment strength. GDP has averaged 2.5% since 2023, above trend,
+  with H1 2026 nonresidential fixed investment at 9.5% annualized —
+  roughly 60% above the pre-pandemic average of 5.8%. The consumer
+  framing is notable: Barkin attributes spending durability to a
+  post-pandemic behavioral shift ("YOLO" mindset), not just income.
+  The fog metaphor that defined his March and May speeches is absent —
+  replaced by an explicit statement that businesses now treat high
+  uncertainty as the new baseline and "can't afford to wait any longer."
+  Investment breadth has widened beyond AI/data centers to encompass
+  M&A, leasing, manufacturing, and defense.
+  Direction: HAWKISH LEAN — growth picture is materially stronger than
+    May 21 (9.5% investment vs. May's nascent uptick; fog metaphor
+    reversed to active investment)
+
+LABOR MARKET
+  Barkin distinguishes headline from underlying: unemployment fell to
+  4.1% in July (58th consecutive month at/below 4.5%), but the most
+  recent payroll report showed -23,000 jobs. He resolves the paradox
+  via a structural supply-demand balance: "slowing labor demand growth
+  has been accompanied by slowing labor supply growth" — net migration
+  projected to fall 2.4 million between 2024 and 2026, plus ~2 million
+  additional non-participants per year from aging demographics. CFO
+  Survey proprietary data: only 37% of firms hiring for new positions;
+  <6% reporting layoffs. The labor market is in a fragile equilibrium,
+  not in the strong position the headline unemployment rate implies.
+  Direction: DOVISH LEAN — softer than headline suggests; the statement's
+    "kept pace with the workforce" framing masks a payroll decline; supply-
+    side offset is demographic and may fade.
+
+INFLATION
+  PCE data: June headline 3.7%, core 3.3% — up from the March readings
+  Barkin cited in May (3.5%/3.2%). Barkin echoes the committee's 2%
+  commitment but frames the policy question explicitly as a live binary:
+  "Will the Fed need to raise rates further, or is inflation already on
+  a path down to target?" — the first use of this explicit hike question
+  in his public language. He steelmans both sides: the disinflationary
+  case (shocks should pass, TIPS stable, compensation modest, current
+  rates "many think" still restrictive) and the inflationary risk case
+  (supply chains, AI-led demand, "too high for too long" duration risk).
+  Critically, pass-through intelligence has reversed: "many business-
+  to-consumer firms tell us they have little ability to pass on costs;
+  their customers are highly price sensitive" — the opposite of May 21's
+  "renewed determination to pass...cost increases." The B2C pricing
+  environment has softened back to Barkin's pre-May baseline.
+  Direction: MIXED (slight hawkish lean net) — data is higher, hike
+    explicitly named as open question; but pass-through reversal is
+    a disinflationary signal that partially offsets. On balance,
+    hawkish vs. May 21 because of data levels and hike framing.
+
+MONETARY POLICY
+  "I won't spoil the plot today. My custom is to never prejudge the
+  path forward. Instead, I plan to keep collecting clues." — Barkin's
+  standard no-pre-commitment close. He endorses the committee's
+  2%-target pledge verbatim. No hold signal, no hike signal, no cut
+  signal in explicit form. But the inflation section's "Will the Fed
+  need to raise rates further?" and "help may need to come from the
+  Fed" are the first hike-compatible language Barkin has used publicly
+  in 2026. His prior posture was pure patience — the hike question
+  was absent even in May 21 when conditions were hawkish.
+  Direction: HAWKISH LEAN vs. prior — hike named as live question for
+    the first time; patience framing has been partially displaced.
+
+NET SIGNAL: NEUTRAL / HAWKISH LEAN — stronger growth (+), softer labor
+  (-), higher inflation data (+), explicit hike question named for first
+  time in Barkin's vocabulary (+), but pass-through reversal is a
+  disinflationary counterweight (-). The growth and hike-language shifts
+  are the net hawkish movers.
+
+vs. PRIOR SPEECH (May 21, 2026):      HAWKISH LEAN
+  Growth: fog reversed to investment boom; 9.5% H1 fixed investment.
+  Labor: payroll decline emerged; structural supply-demand balance framing.
+  Inflation: data higher (3.7/3.3% vs. 3.5/3.2%); hike question raised.
+  Policy: patience framing partially displaced by explicit hike question.
+  OFFSETTING: pass-through intelligence reversed from hawkish to neutral.
+
+vs. PRE-FOMC SPEECH (May 21, 2026):   HAWKISH LEAN (same as above;
+  May 21 is the pre-FOMC baseline — no intervening speeches.)
+
+vs. COMMITTEE SINCE FOMC:  Barkin sits in the NEUTRAL-TO-HAWKISH LEAN
+  portion of the committee's post-July-29 distribution. He is neither
+  as hawkish as the dissenters (Logan: "finish the job"; Hammack/
+  Kashkari: "did not see policy as appropriately restrictive") nor as
+  hawkish as Waller's Jul 13 conditionality ("near-term tightening if
+  CPI hot"). He is broadly consistent with Daly's Aug 6 two-scenario
+  framework (hold-and-wait is modal; hike is the tail the data could
+  activate). His B2C pass-through intelligence is the single most
+  differentiating data point — it argues against the inflation-persistence
+  case that drives dissenter logic, if confirmed at the aggregate level.
+
+LANGUAGE TO WATCH:
+  • "Will the Fed need to raise rates further?" — hike question in
+    explicit public language from a non-dissenting Non Voter. Language
+    cycle stage: EMERGING. Previously confined to dissenters (Logan,
+    Hammack, Kashkari) and Waller's conditional framing. Barkin adds
+    a data-aggregation authority to this framing. Track whether it
+    appears in subsequent non-dissenter speeches.
+  • "High uncertainty is the new baseline. They can't afford to wait any
+    longer." — fog-metaphor inversion. Investment psychology has shifted;
+    uncertainty is now a catalyst, not a constraint. If spread to other
+    officials, it strengthens the growth-supports-hold narrative.
+  • Pass-through oscillation: Mar (limited) → May (renewed determination)
+    → Aug (limited again). The cycling suggests heterogeneity by sector/
+    firm type rather than a trend. Track alongside PPI components.
+
+ANALYST FLAG: YES
+  → PASS-THROUGH REVERSAL: The May 21 "renewed determination" signal
+    was the most operationally significant data point in that speech and
+    is now reversed. Distinguish B2C (limited pass-through, per August)
+    from B2B/services (unknown trajectory). If B2C pricing resistance
+    is durable, it limits core goods inflation and partially undercuts
+    the dissent bloc's argument for proactive hikes. Score alongside
+    the July PPI release and subsequent Barkin appearances.
+  → HIKE LANGUAGE EXPANSION: First public use of the hike question by
+    Barkin. Recommend confirming whether this appeared in prior 2026
+    Barkin speeches (checked: absent from Jan 6, Feb 3, Mar 27, May 21).
+    This is genuinely new in his vocabulary. Monitor for confirmation or
+    retraction in his next appearance.
+
+════════════════════════════════════════════════════════════════
+OUTSTANDING ACTION ITEMS (carried forward)
+────────────────────────────────────────────────────────────────
+1. DALY — August 13, 2026 — [unconfirmed title / host]
+   STATUS: NOT SCORED — TRANSCRIPT PENDING
+   Confirmed appearance ~1:00 pm ET (per CME/Econoday); no raw file
+   in this run (collect preceded event; proxy blocks refetch).
+   Action: python3 main.py refetch from a non-proxy IP, or direct
+     WebFetch: https://www.frbsf.org/news-and-media/speeches/mary-c-daly
+   Priority: HIGH — this is Daly's second post-FOMC communication and
+     follows the July CPI release. Her August 6 scenario framework's
+     probability weighting may have shifted.
+
+2. BOWMAN — August 8, 2026 — "Fireside Chat, 2026 CEO & Senior
+   Management Summit and Annual Meeting" (Virtual, 12:45 pm ET)
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (carried from Aug 8 daily)
+   Action: python3 main.py refetch from a non-proxy IP, or direct:
+     https://www.federalreserve.gov/newsevents/speech/bowman20260808a.htm
+   Priority: HIGH — only post-FOMC communication from any majority
+     dovish voter; two meetings without a policy speech.
+
+3. MUSALEM — August 6, 2026 — AEI remarks
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (carried from Aug 6 daily)
+   Action: python3 main.py refetch, or check stlouisfed.org directly.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Monday Aug 17 – Friday Aug 21
+────────────────────────────────────────────────────────────────
+  Note: egress proxy in this environment blocks all Fed Board and
+  regional bank event pages (proxy_blocked). Items below are sourced
+  from prior daily reports, established scheduling patterns, and
+  known release dates. Verify against official Fed Board calendar
+  (federalreserve.gov/newsevents) once access is restored.
+
+  ─── HIGH PRIORITY — KNOWN RELEASE ──────────────────────────────
+
+  ★ WEDNESDAY August 19, 2:00 pm ET — FOMC MINUTES (July 28–29)
+    Type D. HIGHEST PRIORITY document of next week. Key analytical
+    questions (per Aug 10 daily and ongoing tracking):
+    (1) AI capital spending treatment — demand impulse vs. relative
+      price shift. Cook's Aug 5 reversal (AI spending → demand-side
+      inflation) vs. Daly's Aug 6 framing (AI productivity offset)
+      will find their committee-level resolution here.
+    (2) Distribution of hike vs. hold leaners. The statement's 9–3
+      vote understates the number of participants who may have privately
+      leaned toward a hike or expressed concerns about inflation
+      persistence. "Several," "many," or "a few" markers will reveal
+      the actual committee balance.
+    (3) Neutral rate / restrictiveness language. "Within the range of
+      plausible estimates of neutral" precision: how many participants
+      characterized current policy as above, at, or below neutral?
+      A shift toward "at or near neutral" would undercut the hold case.
+    (4) Hammack's demand-side attribution. Her dissent statement
+      explicitly named "inflationary pressures coming from the demand
+      side" — distinct from the statement's supply-shock framing. Does
+      the minutes show this view was isolated or shared?
+
+  ─── EXPECTED (unconfirmed) ──────────────────────────────────────
+
+  • Hammack  |  Cleveland Fed President  |  Just Voter (DISSENTER)
+    (unconfirmed) — overdue for first post-FOMC Type A economic
+    outlook speech. Pattern from Apr 29 dissent: full Type A within
+    7–14 days. It has been 13 days since her Jul 31 dissent statement.
+    WHAT TO WATCH: explicit rate path beyond July 29; reaction to July
+    CPI/PPI data; whether "demand-side" attribution escalates or softens.
+
+  • Logan  |  Dallas Fed President  |  Just Voter (DISSENTER)
+    (unconfirmed) — same post-dissent timing pattern. Jul 31 dissent
+    statement is 13 days old. No subsequent Type A confirmed.
+    WHAT TO WATCH: whether "finish the job" language specifies a rate
+    level or timeline target; how July data affects her explicit
+    "modestly higher interest rates would better balance the mandate."
+
+  • Waller  |  Board Governor  |  Just Voter (majority)
+    (unconfirmed) — prior daily noted a possible entry in Aug 17–26
+    pre-Jackson Hole window (CME/Econoday event #693681). His Jul 13
+    hike conditionality tied to CPI/PPI threshold. July CPI (Aug 12)
+    and PPI (Aug 13) are now in. WHAT TO WATCH: whether the data
+    triggered his "near-term tightening" language or confirmed hold.
+
+  • Jefferson  |  Vice Chair  |  Troika
+    (unconfirmed) — no post-July-29 appearance. Any Troika speech
+    is elevated priority. WHAT TO WATCH: whether "susceptible to
+    adverse shocks" (labor qualifier, Apr 7) has updated given July
+    payroll decline (-23K); whether "upside risk to my inflation
+    forecast" qualifier has upgraded given June PCE 3.7%.
+
+  ─── CALENDAR MARKERS (beyond next week) ─────────────────────────
+
+    August 27–29 — Jackson Hole Economic Policy Symposium
+      Jackson Lake Lodge, WY. Theme: "Financial Innovation:
+      Implications for Payments and Policy." Warsh keynote Friday
+      August 28 (Type G; HIGHEST PRIORITY this cycle — first Jackson
+      Hole as Chair). Warsh stated his speech is "a blank piece of
+      paper right now" as of July 29. Task force consultations
+      ongoing; watch for task force findings to shape the theme.
+
+    Saturday September 5 — BLACKOUT BEGINS (September 15–16 FOMC)
+      IS a projection meeting: SEP + dot plot (Type I) released with
+      the statement. Open communication window: 22 days remaining
+      (Aug 14 through Sep 4). Jackson Hole (Aug 27–29) is the
+      committee's last major public platform before the blackout.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 13, 2026:
+  Barkin Aug 13:  https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260813
+  Daly Aug 13:    TRANSCRIPT PENDING — frbsf.org (speech page not yet accessible)
+
+Prior speech (vs. PRIOR SPEECH):
+  Barkin May 21:  https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260521
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Barkin May 21:  same as prior speech (first post-July-29 appearance;
+                  May 21 serves as both prior and pre-FOMC baseline)
+
+Reference FOMC statement:
+  July 29, 2026:  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+
+Committee context (post-FOMC scored files):
+  Hammack Jul 31 dissent:  data/scored/speeches/20260731_Beth_Hammack_scored.txt
+  Kashkari Jul 31 dissent: data/scored/speeches/20260731_Neel_Kashkari_scored.txt
+  Logan Jul 31 dissent:    data/scored/speeches/20260731_Lorie_Logan_scored.txt
+  Paulson Aug 4 CNBC:      data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook Aug 5 Anchorage:    data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Kashkari Aug 5 CNBC:     data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Daly Aug 6 ESRI/Japan:   data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Barkin Aug 13 Greenville: data/scored/speeches/20260813_Tom_Barkin_scored.txt
+════════════════════════════════════════════════════════════════
