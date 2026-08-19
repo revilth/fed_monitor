@@ -1,0 +1,219 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 18, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none — no Fed officials gave speeches on Tuesday, August 18, 2026)
+
+  Note: August 18 is a Tuesday. The 5:30am ET GitHub Actions collect
+  run found no new raw files for this date. All regional bank and Fed
+  Board sites are proxy_blocked in this scoring environment; refetch
+  was attempted and confirmed all-proxy-blocked (14 URLs). Extensive
+  web search found no indexed Fed speeches for August 18, 2026. The
+  August 2026 Fed Board calendar (federalreserve.gov/newsevents/
+  2026-august.htm) is proxy_blocked and could not be fetched
+  directly; however, cross-referencing search results against
+  speech index URLs confirms no speech was posted for August 18.
+════════════════════════════════════════════════════════════════
+
+No scored content for August 18, 2026.
+
+════════════════════════════════════════════════════════════════
+COMMITTEE STATUS — POST-JULY-29 WINDOW
+────────────────────────────────────────────────────────────────
+Open communication window: 18 days remain (Aug 18 – Sep 4).
+Blackout begins Saturday September 5.
+Next FOMC: September 15–16, 2026 (projection meeting: SEP + dot plot).
+
+★ KEY TODAY (Wednesday August 19): FOMC Minutes (July 28–29) released
+  2:00 pm ET. Type D — HIGHEST PRIORITY document this inter-meeting
+  window. By the time this report is read, the minutes are available.
+  Score same day per CLAUDE.md Type D guidance with required
+  comparisons: (a) vs. July 29 opening statement; (b) vs. June 17
+  minutes; (c) vs. July 29 statement. See analytical questions below
+  (UPCOMING section) for what to watch.
+
+Troika:
+  WARSH — last public remarks: July 29, 2026 press conference (Q&A
+    emphasized "finish the job" on inflation; four deliberating
+    questions framed; Jackson Hole keynote "a blank piece of paper").
+    No post-July-29 Type A speech. Jackson Hole keynote (Aug 28,
+    Friday) is his next confirmed communication. 20th day post-FOMC
+    with no Type A speech; minutes will proxy committee consensus
+    until then.
+  JEFFERSON — last public remarks: July 29 FOMC period. No
+    post-July-29 Type A speech. LONGEST TROIKA SILENCE of the
+    inter-meeting window. Entering 20th day post-FOMC with no
+    communication. Any appearance this week is elevated priority.
+    Watch whether minutes reveal Jefferson's inter-meeting framing.
+  WILLIAMS — last public remarks: July 15, 2026 "Stability of Thy
+    Times" (scored). No confirmed post-July-29 Type A. 24 days since
+    last scored speech.
+
+Just Voters (post-FOMC communications):
+  HAMMACK — Jul 31 dissent statement (scored; preferred +25bp hike).
+    No subsequent Type A. 19 days since dissent; overdue vs. Apr 29
+    post-dissent pattern (~10-day Type A follow-on). Watch for a
+    full economic outlook speech before blackout.
+  KASHKARI — Jul 31 dissent statement (scored; preferred +25bp hike).
+    No subsequent Type A.
+  LOGAN — Jul 31 dissent statement (scored; "modestly higher rates
+    would better balance the mandate"). No subsequent Type A.
+  PAULSON — Aug 4 CNBC Squawk Box + Aug 4 speech (both scored).
+    Holding stance; inflation-first framing maintained.
+  COOK — Aug 5 Anchorage speech (scored; dovish lean; AI spending
+    as demand-side inflation concern; two-scenario framing). No
+    subsequent communication.
+  WALLER — Jul 13 speech (scored; hike conditionality tied to CPI
+    data). July CPI (+0.1% headline, +0.2% core MoM, released Aug 12)
+    appears to have cleared his hold threshold. Econoday event #693681
+    suggests a speech in the Aug 17–26 window; date unconfirmed.
+    WATCH: will he explicitly revise his hike-conditionality language
+    post-CPI?
+  BOWMAN — Aug 8 fireside chat (NOT SCORED — transcript pending;
+    10th consecutive day without recovery). First post-July-29
+    communication.
+  BARR — no post-July-29 Type A.
+
+Non Voters (post-FOMC communications):
+  DALY — Aug 6 ESRI/Japan keynote (scored; two-scenario framing, 40%
+    probability compounding-shocks). Aug 13 appearance (NOT SCORED —
+    transcript pending; sixth consecutive day without recovery).
+    July CPI is key intervening data point.
+  BARKIN — Aug 13 Greenville speech (scored; "mysterious" economy;
+    explicit hike binary question first use; net: neutral-to-hawkish).
+    First post-July-29 Non Voter Type A speech.
+  KASHKARI, COLLINS, MUSALEM, GOOLSBEE: no post-July-29 Type A.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+OUTSTANDING ACTION ITEMS (carried forward)
+────────────────────────────────────────────────────────────────
+1. DALY — August 13, 2026
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (sixth consecutive day
+   without recovery; all SF Fed fetch attempts proxy_blocked in
+   this environment)
+   Action: python3 main.py refetch from a non-proxy IP, or direct:
+     https://www.frbsf.org/news-and-media/speeches/mary-c-daly/
+   Priority: HIGH — Daly's second post-FOMC communication; first
+     since her Aug 6 two-scenario keynote. July CPI (+0.2% core)
+     is the key intervening data point.
+
+2. BOWMAN — August 8, 2026 — "Fireside Chat, 2026 CEO & Senior
+   Management Summit and Annual Meeting" (Virtual, 12:45 pm ET)
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (10th day; Fed Board
+   proxy_blocked)
+   Action: python3 main.py refetch from a non-proxy IP, or direct:
+     https://www.federalreserve.gov/newsevents/speech/bowman20260808a.htm
+   Priority: HIGH — Bowman's first post-July-29 communication.
+
+3. MUSALEM — August 6, 2026 — AEI remarks
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (carried from Aug 6)
+   Action: python3 main.py refetch, or check stlouisfed.org directly.
+   Priority: MODERATE — Non Voter; stlouisfed.org proxy_blocked.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday August 20
+────────────────────────────────────────────────────────────────
+  Note: Fed Board calendar and all regional bank event pages are
+  proxy_blocked in this environment. The FOMC Minutes released
+  today (Wednesday August 19, 2:00 pm ET) are the dominant event
+  of the week. No confirmed speaker schedule for Thursday August 20
+  was found via web search. All Thursday entries below are
+  unconfirmed. Verify against federalreserve.gov/newsevents/
+  calendar.htm once access is restored.
+
+  ─── JUST RELEASED — MUST SCORE (Wednesday August 19) ────────────
+
+  ★ FOMC MINUTES (July 28–29)  |  Type D  |  Released Aug 19, 2pm ET
+    HIGHEST PRIORITY. Already available as this report is sent.
+    Key analytical questions:
+    (1) Distribution of hike-leaning vs. hold participants: how many
+      beyond the 3 formal dissenters (Hammack, Kashkari, Logan) were
+      privately inclined to hike? "Several" vs. "a few" will determine
+      whether the 9-vote majority was monolithic or contained
+      conditional hikers shifting rightward. This is the single most
+      important signal for the September 15–16 meeting.
+    (2) Demand-side vs. supply-side inflation attribution: Hammack's
+      Jul 31 dissent named demand-side pressures explicitly. How
+      broad was that framing across the committee? The Aug 12 CPI
+      (+0.1% headline, +0.2% core MoM) and Aug 14 retail sales
+      (-0.6% MoM) together complicate the demand narrative if the
+      minutes show it was majority-held.
+    (3) Neutral rate / restrictiveness language: "within the range of
+      plausible estimates of neutral" — how many participants called
+      policy at, above, or below neutral? Precision required per
+      CLAUDE.md Type D: this phrase is deliberately vague and cannot
+      be read as definitively establishing neutrality.
+    (4) AI capital spending treatment: Cook's Aug 5 demand-side
+      inflation framing vs. Daly's Aug 6 productivity-offset framing —
+      which characterized the committee consensus?
+    (5) Four deliberating questions framed by Warsh at July 29 press
+      conference (3rd and 4th not fully recovered from provisional
+      transcript). Minutes will confirm all four.
+    (6) September pre-commitment language: any participant language
+      conditioning the September SEP dot path on intervening data,
+      or explicitly contemplating a first hike of the cycle.
+    Scoring: same day; required comparisons:
+      (a) vs. Warsh July 29 opening statement (committee baseline)
+      (b) vs. June 17, 2026 minutes (primary inter-meeting shift)
+      (c) vs. July 29, 2026 FOMC statement (what didn't make it in)
+
+  ─── THURSDAY August 20 — EXPECTED / POSSIBLE (unconfirmed) ──────
+
+  • Waller  |  Board Governor  |  Just Voter
+    (unconfirmed) — Econoday event #693681 suggests a speech in the
+    Aug 17–26 window. Exact date not confirmed in this environment.
+    WATCH: first post-July-29 Type A from Waller; whether he
+    explicitly revises July 13 hike conditionality post-CPI; whether
+    minutes language (available by Thursday) shifts his framing.
+    Priority: HIGH if confirmed.
+
+  • Jefferson  |  Vice Chair  |  Troika
+    (unconfirmed) — entering 21st day without a post-FOMC Type A
+    appearance. Any communication remains elevated priority.
+
+  ─── FORWARD CALENDAR ─────────────────────────────────────────────
+    Wed Aug 19, 2:00pm ET — FOMC Minutes (July 28–29) [Type D]
+                            ★ ALREADY RELEASED — SCORE TODAY
+    Aug 27–29              — Jackson Hole Symposium
+      Theme: "Financial Innovation: Implications for Payments and Policy"
+    Aug 28 (Friday)        — Warsh keynote [Type G; HIGHEST PRIORITY;
+      first Jackson Hole as Chair; "frame the big questions" framing;
+      focus on long-term structural questions per July 29 remarks]
+    Sep 2, 2:00pm ET       — Beige Book release [Type H; 13 days pre-FOMC]
+    Saturday Sep 5         — BLACKOUT BEGINS (Sep 15–16 FOMC)
+      Open window: 18 days remain (Aug 18 – Sep 4 inclusive)
+      Sep 15–16 IS a projection meeting: SEP + dot plot (Type I)
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 18, 2026:
+  (none)
+
+Web sources consulted for UPCOMING / committee status:
+  FOMC minutes release schedule (standard 3-week post-meeting):
+    Confirmed Aug 19, 2pm ET via multiple economic calendar sources.
+  Newsquawk FOMC minutes preview (Aug 19):
+    https://www.newsquawk.com/headlines/preview-fomc-minutes-due-wednesday-19th-august-2026-at-1900bst1400edt
+  Jackson Hole 2026 (confirmed):
+    https://www.regardsofwallstreet.com/news/jackson-hole-2026-dates-schedule-warsh-first-speech
+  Waller Econoday event #693681:
+    https://www.cmegroup.com/education/events/econoday/693681
+  Fed Board August 2026 calendar (proxy_blocked; not fetched):
+    https://www.federalreserve.gov/newsevents/2026-august.htm
+  Fed Board 2026 speeches index (proxy_blocked; not fetched):
+    https://www.federalreserve.gov/newsevents/2026-speeches.htm
+
+Post-July-29 scored files (for committee status):
+  Hammack Jul 31 dissent:    data/scored/speeches/20260731_Beth_Hammack_scored.txt
+  Kashkari Jul 31 dissent:   data/scored/speeches/20260731_Neel_Kashkari_scored.txt
+  Logan Jul 31 dissent:      data/scored/speeches/20260731_Lorie_Logan_scored.txt
+  Paulson Aug 4 CNBC:        data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook Aug 5 Anchorage:      data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Kashkari Aug 5 CNBC:       data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Daly Aug 6 ESRI/Japan:     data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Barkin Aug 13 Greenville:  data/scored/speeches/20260813_Tom_Barkin_scored.txt
+════════════════════════════════════════════════════════════════
