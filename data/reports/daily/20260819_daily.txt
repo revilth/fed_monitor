@@ -1,0 +1,426 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 19, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none — no Fed official gave a scheduled speech on Wednesday, August 19, 2026)
+
+  ★ FOMC MINUTES (July 28–29, 2026)  |  Type D  |  Released 2:00pm ET
+     Status: NOT SCORED — TRANSCRIPT PENDING
+     Official URL: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+     federalreserve.gov is proxy_blocked in this scoring environment. The actual
+     minutes text could not be retrieved. A secondary-source analytical summary
+     follows below; it is NOT a formal Type D scored analysis. Formal scoring
+     requires the official transcript.
+     Action: python3 main.py refetch from a non-proxy IP, or direct WebFetch of
+       https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+     Priority: HIGHEST — these minutes are the dominant inter-meeting document.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOMC MINUTES  |  July 28–29, 2026  |  Type D  |  SECONDARY-SOURCE SUMMARY
+(NOT a formal scored analysis — official transcript blocked; score pending)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠ SOURCING NOTE: The following is synthesized from secondary media reporting
+(CNBC, Yahoo Finance/Reuters, Newsquawk, InvestingLive, and web search) and
+does NOT constitute a Type D scored file. Distribution language ("several,"
+"many," "a few," "some") and paraphrased quotes are derived from media coverage
+of the official minutes, not from the official text. Verify all quotes against
+the actual PDF before treating them as final. The formal scored file must await
+recovery of the official transcript.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+The July 29 minutes reveal that the hawkish sentiment extended significantly
+beyond the three formal dissenters, with "several participants" having favored
+a +25bp hike at the meeting itself, and "many participants" assessing that
+tightening would likely be necessary if inflation does not decline. The minutes
+confirm that the 9–3 vote understated the breadth of hawkish lean: the majority
+that held was conditional, not comfortable. The single most important read: the
+committee has privately moved to a tightening posture contingent on inflation
+data, even without moving the instrument.
+
+Three structural elements add context: (1) AI spending has been upgraded from
+an inflation footnote to an open policy debate, with financial stability concerns
+raised for the first time. (2) Warsh initiated a discussion of reducing FOMC
+meetings from eight to six per year; no 2026 calendar change was made. (3) The
+minutes document is reportedly among the shortest in the modern era, consistent
+with Warsh's communication-reform agenda.
+
+NET SIGNAL: HAWKISH SHIFT vs. June 17 minutes (direction: hawkish; magnitude:
+significant — from unanimous June hold to broad conditional-hike coalition)
+
+────────────────────────────────────────────────────────────────────
+DISTRIBUTION LANGUAGE (from secondary sources — verify against official PDF)
+────────────────────────────────────────────────────────────────────
+
+On rate action at the meeting:
+  "Several participants favored an increase of 25 basis points in the target
+  range at this meeting." [Beyond the 3 formal dissenters (Hammack, Kashkari,
+  Logan) — implies 4+ participants voted to hold while privately preferring
+  a hike, or that "several" is used loosely; analyst must verify the count.]
+
+On future tightening conditionality:
+  "Many participants assessed that policy tightening would likely be necessary
+  if inflation did not decline." [Critical: "many" = typically 7+ participants.
+  If accurate, the hike-leaning coalition extends well into the nominal majority.]
+
+On current policy restrictiveness:
+  "Some participants commented that financial conditions might not currently be
+  sufficiently restrictive to facilitate a return of inflation to 2 percent."
+  [Dovish-to-neutral on the current stance: these participants judge policy is
+  not yet doing the necessary work. Directional: hawkish implication — more is
+  needed. Not a statement that policy is restrictive.]
+
+On rationale for a hike at the meeting:
+  "A few of the participants who favored raising the target range judged that
+  doing so would likely help forestall the need for a steeper and potentially
+  more costly sequence of tightening moves at a later stage." [Front-loading
+  rationale — the classic "better now than later" argument last seen in 2022.]
+
+────────────────────────────────────────────────────────────────────
+GROWTH
+────────────────────────────────────────────────────────────────────
+Economic activity described as continuing to expand at a solid pace, consistent
+with July 29 statement. AI-related capital expenditures remain the primary
+driver of business investment, with companies announcing capex plans that
+exceeded earlier expectations. Consumer spending held, supported by stock market
+gains and tax refunds, with uneven distribution (higher-income households
+disproportionately supported; lower-income households increasingly reliant on
+credit).
+Direction: neutral — solid growth frame unchanged, no concern.
+
+────────────────────────────────────────────────────────────────────
+LABOR MARKET
+────────────────────────────────────────────────────────────────────
+Participants described labor market conditions as stable, with unemployment at
+4.2% in June and payroll growth running above the prior year's pace. Per
+secondary sources, the labor market "drew little concern" and "was not a source
+of inflationary pressures" — consistent with June 17 minutes framing. The labor
+market appears to have been explicitly deprioritized as a driver of the policy
+decision: the focus was entirely on the inflation side of the dual mandate.
+
+vs. June 17 minutes: Unchanged in character — stable, not a policy concern in
+either meeting's deliberations.
+Direction: neutral — stable, no concern, consistent with July 29 statement.
+
+────────────────────────────────────────────────────────────────────
+INFLATION
+────────────────────────────────────────────────────────────────────
+Officials described inflation as elevated and the outlook as "highly uncertain,"
+with risks skewed to the upside. Key cited factors: tariff pass-through, energy
+costs elevated due to the Middle East conflict (oil prices ended the inter-
+meeting period higher following escalation of tensions), and demand generated
+by the AI buildout. "Several" and "some" participants expressed concern about
+the breadth of inflation — consistent with June 17 language ("several" noted
+price pressures had become more broad-based).
+
+The Warsh July 29 opening statement framing — "nine weeks" and "no soft target"
+— appears to represent the committee consensus on inflation, not just Warsh's
+personal view. The minutes confirm the committee's collective posture: a single
+month of improvement (June CPI/PCI) was explicitly insufficient to alter the
+assessment.
+
+vs. June 17 minutes: Inflation framing is MORE hawkish. In June, "most
+participants" pointed to scenarios where inflation would soon begin to return
+to 2 percent (the "benign" scenario). In July, the conditional hike language
+("tightening would likely be necessary if inflation did not decline") positions
+the committee as assuming the unfavorable scenario is real until proved otherwise.
+Direction: hawkish lean — breadth concern persists; conditionality sharpened.
+
+────────────────────────────────────────────────────────────────────
+MONETARY POLICY DELIBERATION
+────────────────────────────────────────────────────────────────────
+The core shift vs. June 17 minutes:
+
+  June 17 minutes: "A few participants commented that, in light of these
+  developments, there was a case for raising the target range for the federal
+  funds rate, but those participants indicated that they supported maintaining
+  the current target range at this meeting." [All 12 voted to hold; "a few"
+  saw a case for a hike but stood down.]
+
+  July 29 minutes: "Several participants favored an increase of 25 basis
+  points... Many participants assessed that policy tightening would likely be
+  necessary if inflation did not decline." [3 voted for a hike; "several"
+  wanted to hike; "many" say it will be needed if inflation doesn't fall.]
+
+ESCALATION: "a few" seeing a case → "several" actively preferring → "many"
+saying tightening likely necessary = a three-step shift in the committee's
+center of gravity, all within the formal-hold camp. The formal majority held
+the instrument but is increasingly committing, at least conditionally, to using
+it.
+
+The rate distribution (from June 17 SEP as baseline, since no July 29 SEP):
+  June 17 SEP dot plot: Most dots above current rate, with hawkish shift vs.
+  March. No September SEP to formally update this. The minutes' "many
+  participants ... above the current target range at year-end" language (from
+  June 17 minutes) appears to have strengthened in July.
+
+What did NOT make it into the July 29 statement (minutes vs. statement gap):
+  (a) The "several wanting to hike" distribution — visible dissent was only 3
+  (b) The conditional tightening commitment ("many" if inflation doesn't fall)
+  (c) The AI financial stability concern — first time raised at an FOMC meeting
+  (d) "Highly uncertain" inflation characterization with upside skew
+  (e) The meeting-frequency discussion (Warsh's 6x/year proposal)
+  These are the bottom-up leading indicators: distributed hawkishness not yet
+  consolidated into statement language.
+
+Direction: HAWKISH SHIFT — the conditional-hike coalition is broader than the
+formal vote indicated.
+
+────────────────────────────────────────────────────────────────────
+STRUCTURAL DISCUSSION — WARSH INITIATIVES
+────────────────────────────────────────────────────────────────────
+Meeting frequency: Warsh told the committee a six-meeting calendar (vs. current
+eight) "would allow more information to accumulate between meetings than under
+current practice and provide policymakers and the staff more time to consider
+strategic monetary policy issues." Two "off" meetings would focus on substantive
+economic topics rather than rate decisions. No 2026 calendar change; the
+committee reached no conclusion. Warsh indicated remaining 2026 meetings proceed
+on the existing timetable. Next opportunity to revisit: likely 2027.
+
+Significance: A six-meeting cadence increases the data accumulation between
+decisions (roughly 8-week intervals vs. current 6-week) and effectively raises
+the bar for intra-window adjustments. For the current cycle, this would
+concentrate hawkish decisions at fewer, higher-information junctures — arguably
+a more data-dependent (and less reactive) posture.
+
+Meeting length/record: The July 29 minutes document is reportedly among the
+shortest in recent memory (media characterization: "115 words, six meetings"),
+consistent with Warsh's communications-reform agenda and his stated preference
+for terseness. Both the statement (frozen text) and the minutes (short) reflect
+Warsh's deliberate "leaner" communication posture.
+────────────────────────────────────────────────────────────────────
+
+REQUIRED TYPE D COMPARISONS (for reference when formally scored)
+─────────────────────────────────────────────────────────────────
+(a) vs. Warsh July 29 opening statement (committee baseline):
+    Opening statement confirmed: "no soft target" credibility commitment; "nine
+    weeks" dismissal of favorable June data; bond market tightening welcomed.
+    Minutes ADD: the distribution ("several" wanting to hike; "many" saying
+    tightening necessary); the AI financial stability concern; the restrictiveness
+    debate ("some" say not sufficiently restrictive). The opening statement set
+    the public framing; the minutes reveal the private weight of opinion.
+
+(b) vs. June 17, 2026 minutes (primary inter-meeting shift):
+    Core shift: "a few saw a case for raising but supported holding" (Jun 17)
+    → "several favored a hike at this meeting; many say tightening necessary
+    if inflation doesn't fall" (Jul 29). Direction: HAWKISH SHIFT. The
+    benign-scenario language ("most" expecting inflation return to 2%) appears
+    to have weakened; the conditional tightening commitment strengthened.
+    AI moved from an inflation discussion item to a financial-stability concern
+    — a categorical upgrade in how the committee characterizes the risk.
+
+(c) vs. July 29, 2026 FOMC statement (what didn't make it in):
+    Statement was FROZEN (character-for-character identical to June 17, minus
+    one housekeeping word). The minutes reveal the significant distributional
+    content that remained below the statement threshold: the "several"/"many"
+    hike language, the AI financial stability flag, the restrictiveness debate,
+    the meeting-frequency discussion. These represent the bottom-up reservoir
+    of hawkishness not yet formalized in public statement language.
+
+NET: HAWKISH SHIFT vs. June 17 minutes — the committee has moved from
+"a few seeing a case for tightening" to "several wanting to tighten now and
+many saying it will be needed if inflation doesn't fall." The formal instrument
+has not moved, but the committee's conditional commitment to moving it has
+become substantially more explicit.
+
+LANGUAGE TO WATCH (when official transcript recovered):
+  • "would likely be necessary if inflation did not decline" — exact conditional
+    formulation for the hike trigger; verify precise language and whether it
+    is "many" or a different quantifier
+  • AI "financial stability concern" — exact characterization; first use at FOMC
+  • "not currently sufficiently restrictive" — exact quantifier ("some"?); this
+    is the restrictiveness framing that the CLAUDE.md flags as precision-critical
+  • Meeting-frequency framing: Warsh's exact language on the 6-meeting proposal
+
+ANALYST FLAG: YES
+  → (1) What is the exact count of participants who favored a hike at the
+    meeting? "Several" with 3 formal dissenters could mean 4-6 total; if closer
+    to 6, the effective minority for a hike was nearly half the committee.
+  → (2) Did the minutes use "many" or a different quantifier for the tightening-
+    necessary conditional? "Many" (7+) is a majority-approaching signal;
+    "several" (4-6) is significant but below majority.
+  → (3) What exactly was the AI financial stability framing — demand-side
+    inflation (Cook Aug 5) or asset-price/credit channel concern (different)?
+  → (4) Was there any forward guidance on the September meeting? Any participant
+    language conditioning September SEP dots on intervening data?
+
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+COMMITTEE STATUS — POST-JULY-29 WINDOW (as of August 19, 2026)
+────────────────────────────────────────────────────────────────
+Open communication window: 17 days remain (Aug 19 – Sep 4).
+Blackout begins Saturday September 5.
+Next FOMC: September 15–16, 2026 (projection meeting: SEP + dot plot).
+
+Minutes confirmed: broader hawkish lean than the formal 9-3 vote indicated.
+Key data since July 29 meeting: July CPI (+0.1% headline, +0.2% core MoM,
+released Aug 12) and July retail sales (-0.6% MoM, released Aug 14).
+  • July CPI appears to have cleared Waller's stated hold-conditionality
+    threshold (Jul 13 speech: hike conditionality on inflation staying high).
+  • Retail sales weakness complicates the "strong demand" inflation narrative —
+    but the minutes predate this data, so the committee did not deliberate on it.
+
+Post-FOMC Troika status:
+  WARSH — last: Jul 29 press conference. No post-FOMC Type A. Jackson Hole
+    keynote Aug 28 (Friday) is his next confirmed communication. 21 days post-
+    FOMC with no Type A. Minutes proxy his committee posture until then.
+    Jackson Hole is Type G: HIGHEST PRIORITY. He has described it as focusing
+    on "long-term structural questions" with "a blank piece of paper" framing.
+  JEFFERSON — last: Jul 29 FOMC period. No post-FOMC Type A. 21 days without
+    communication — LONGEST TROIKA SILENCE of the inter-meeting window.
+    Any appearance is elevated priority. Minutes may reveal his inter-meeting
+    framing, but his personal signals are absent.
+  WILLIAMS — last: Jul 15 "Stability of Thy Times" (scored). No post-July-29
+    Type A. 35 days since last scored speech.
+
+Just Voters (post-FOMC communications):
+  HAMMACK — Jul 31 dissent statement (scored). No subsequent Type A. 20 days
+    since dissent. Minutes confirm her formal view was "several" company.
+  KASHKARI — Jul 31 dissent statement (scored). Aug 5 CNBC interview (scored).
+    No further communication.
+  LOGAN — Jul 31 dissent statement (scored). No subsequent Type A.
+  PAULSON — Aug 4 CNBC Squawk Box + Aug 4 speech (both scored). Holding stance.
+  COOK — Aug 5 Anchorage speech (scored; dovish lean; AI demand-side concern).
+    No subsequent communication.
+  WALLER — Jul 13 speech (scored; hike conditionality on CPI). July CPI appears
+    to have cleared his hold threshold. Econoday event #693681 suggests a speech
+    in the Aug 17–26 window; date unconfirmed. WATCH: revision to his hike-
+    conditionality language post-CPI; first post-FOMC Type A from Waller.
+  BOWMAN — Aug 8 fireside chat (NOT SCORED — transcript pending; 12th day).
+    First post-July-29 communication.
+  BARR — no post-July-29 Type A.
+
+Non Voters:
+  DALY — Aug 6 ESRI/Japan keynote (scored). Aug 13 appearance (NOT SCORED —
+    transcript pending; 7th day). July CPI is key intervening data point.
+  BARKIN — Aug 13 Greenville speech (scored; "mysterious" economy; explicit hike
+    binary question first use; net: neutral-to-hawkish).
+  KASHKARI, COLLINS, MUSALEM, GOOLSBEE: no post-July-29 Type A.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+OUTSTANDING ACTION ITEMS (updated August 19)
+────────────────────────────────────────────────────────────────
+1. FOMC MINUTES — July 28–29, 2026 (Type D)
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (proxy_blocked; federalreserve.gov
+   inaccessible from this environment)
+   Action: python3 main.py refetch from a non-proxy IP, or:
+     Direct fetch: https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+     PDF: https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260729.pdf
+   Priority: HIGHEST — core document of the inter-meeting window; must be
+     scored with required three comparisons before the September 15-16 FOMC.
+   Secondary summary above serves as a placeholder ONLY.
+
+2. DALY — August 13, 2026
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (7th consecutive day without
+   recovery; all SF Fed fetch attempts proxy_blocked)
+   Action: python3 main.py refetch from non-proxy IP, or:
+     https://www.frbsf.org/news-and-media/speeches/mary-c-daly/
+   Priority: HIGH — Daly's second post-FOMC communication; first since her
+     Aug 6 two-scenario keynote.
+
+3. BOWMAN — August 8, 2026 — Fireside Chat, 2026 CEO & Senior Management
+   Summit and Annual Meeting (Virtual, 12:45pm ET)
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (12th day; Fed Board proxy_blocked)
+   Action: python3 main.py refetch from non-proxy IP, or:
+     https://www.federalreserve.gov/newsevents/speech/bowman20260808a.htm
+   Priority: HIGH — Bowman's first post-July-29 communication.
+
+4. MUSALEM — August 6, 2026 — AEI remarks
+   STATUS: NOT SCORED — TRANSCRIPT PENDING (carried from Aug 6)
+   Action: python3 main.py refetch, or check stlouisfed.org directly.
+   Priority: MODERATE — Non Voter; stlouisfed.org proxy_blocked.
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday August 21
+────────────────────────────────────────────────────────────────
+  Note: Fed Board calendar and all regional bank event pages are proxy_blocked
+  in this environment. No confirmed Federal Reserve speaker events were found
+  for Friday August 21. All entries below are unconfirmed. Verify against
+  federalreserve.gov/newsevents/calendar.htm once access is restored.
+
+  ─── FRIDAY August 21 — POSSIBLE / UNCONFIRMED ───────────────────────
+
+  • Waller  |  Board Governor  |  Just Voter
+    (unconfirmed) — Econoday event #693681 suggests a speech in the Aug 17–26
+    window. August 21 or later in the week is possible. Date unconfirmed.
+    WATCH: first post-July-29 Type A; revision to hike conditionality; July CPI
+    reaction. If confirmed, highest priority of the week.
+
+  • Jefferson  |  Vice Chair  |  Troika
+    (unconfirmed) — entering 22nd day without post-FOMC Type A communication.
+    Any appearance in the Aug 19–24 window would be elevated priority.
+
+  ─── FORWARD CALENDAR ─────────────────────────────────────────────────
+    Aug 27–29              — Jackson Hole Symposium
+      Theme: "Financial Innovation: Implications for Payments and Policy"
+    Aug 28 (Friday)        — Warsh keynote [Type G; HIGHEST PRIORITY; first
+      Jackson Hole as Chair; "frame the big questions"; structural focus]
+    Sep 2, 2:00pm ET       — Beige Book release [Type H; 13 days pre-FOMC]
+    Saturday Sep 5         — BLACKOUT BEGINS (Sep 15–16 FOMC)
+      Open window: 16 days remain (Aug 21 – Sep 4 inclusive as of Friday)
+      Sep 15–16 IS a projection meeting: SEP + dot plot (Type I)
+
+  ─── OPEN QUESTIONS FOR THE REMAINING WINDOW ─────────────────────────
+    (1) Waller: will he explicitly revise hike conditionality post-July CPI?
+    (2) Minutes confirmed "several" wanted to hike + "many" say tightening
+        necessary if no inflation decline. Will any of the 9-vote majority
+        go public with their conditional hike posture before blackout?
+    (3) Jefferson: 22 days silent — first Troika communication is highest
+        priority signal in the remaining window.
+    (4) Jackson Hole (Aug 28): Warsh keynote — structural focus ("a blank
+        piece of paper") but watch for any conditioning of the September
+        SEP dot path.
+    (5) Will the three dissenters (Hammack, Kashkari, Logan) give full
+        Type A speeches before blackout? All currently overdue vs. prior
+        post-dissent patterns.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Official documents (blocked; not fetched this run):
+  FOMC Minutes (Jul 28-29):
+    https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+  FOMC Minutes PDF:
+    https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260729.pdf
+  Fed August 19 press release:
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm
+
+Prior reference documents (on disk):
+  July 29, 2026 statement diff:       data/reports/fomc/20260729_statement_diff.txt
+  July 29, 2026 press conf opening:   data/reports/fomc/20260729_pressconf_opening_statement.txt
+  June 17, 2026 minutes (raw):        data/raw/minutes/20260617_FOMC_Minutes.txt
+  June 17, 2026 minutes (scored):     data/raw/minutes/20260617_FOMC_Minutes_scored.txt
+
+Secondary sources consulted for minutes summary (characterizations from these
+sources are clearly labeled in the report; they do NOT constitute official
+transcript and must be verified against the actual PDF):
+  Reuters/Yahoo Finance summary (accessed via web search):
+    https://finance.yahoo.com/economy/policy/articles/fed-july-2026-fomc-minutes-181529233.html
+  CNBC coverage (URL found; page proxy_blocked):
+    https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html
+  InvestingLive headline (accessed via web search):
+    https://investinglive.com/central-banks/fomc-minutes-many-participants-assessed-higher-rates-would-likely-be-necessary-if-inflation-did-not-fall/
+  Newsquawk preview (also used in Aug 18 report):
+    https://www.newsquawk.com/headlines/preview-fomc-minutes-due-wednesday-19th-august-2026-at-1900bst1400edt
+  FXStreet (minutes length characterization):
+    https://www.fxstreet.com/news/115-words-six-meetings-why-the-fed-keeps-shrinking-the-record-202608192008
+  Warsh meeting-frequency discussion:
+    https://finance.yahoo.com/economy/policy/articles/warsh-raises-rethink-on-feds-policy-meeting-frequency-timing-213617291.html
+
+Post-July-29 scored files (for committee status):
+  Hammack Jul 31 dissent:    data/scored/speeches/20260731_Beth_Hammack_scored.txt
+  Kashkari Jul 31 dissent:   data/scored/speeches/20260731_Neel_Kashkari_scored.txt
+  Logan Jul 31 dissent:      data/scored/speeches/20260731_Lorie_Logan_scored.txt
+  Paulson Aug 4 CNBC:        data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook Aug 5 Anchorage:      data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Kashkari Aug 5 CNBC:       data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Daly Aug 6 ESRI/Japan:     data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Barkin Aug 13 Greenville:  data/scored/speeches/20260813_Tom_Barkin_scored.txt
+════════════════════════════════════════════════════════════════
