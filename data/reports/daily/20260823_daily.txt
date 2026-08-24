@@ -1,0 +1,202 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 23, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none — Sunday, August 23, 2026; no scheduled Fed communications)
+
+  NOTE: No raw speech files were collected by the GitHub Actions runs for
+  August 23, 2026 (Sunday). The Collect 2026-08-23 commit (10:03am UTC)
+  and Collect 2026-08-24 commit (10:22am UTC) both only updated
+  _fetch_failures.json with no new speech files. Sunday is consistent with
+  the Fed's standard weekend communication pattern. The Kansas City Fed
+  website (kansascityfed.org) continues to timeout in this environment
+  — the Jackson Hole full program was expected to be released on the
+  evening of Thursday August 27.
+════════════════════════════════════════════════════════════════
+
+NO NEW SPEECHES — COMMITTEE STATUS SNAPSHOT
+────────────────────────────────────────────────────────────────
+As of Sunday August 23, 2026 (25 days post-July-29 FOMC):
+
+TROIKA
+  Warsh (Chair):
+    Last public: July 29, 2026 press conference Q&A. No post-July-29
+    Type A speech. 25 days post-FOMC with zero inter-meeting communication.
+    NEXT CONFIRMED: Jackson Hole keynote, Friday Aug 28, 10:00am ET
+    (Type G — HIGHEST PRIORITY). First Jackson Hole address as Chair.
+    "Blank piece of paper" framing (per Jul 29 Q&A) suggests structural /
+    framework questions; watch for conditioning of the Sep SEP dot path or
+    explicit signaling on the September hike debate (3-dissenter bloc).
+
+  Jefferson (Vice Chair):
+    Last scored: July 16, 2026 ("Navigating Economic Shocks"). 38 days
+    without a public communication — LONGEST Troika silence of the cycle.
+    No confirmed upcoming appearance before or at Jackson Hole. Any
+    communication is elevated priority.
+
+  Williams (NY Fed President):
+    Last scored: July 15, 2026 ("Stability of Thy Times"). 39 days since
+    last scored speech. No confirmed upcoming appearance before Jackson Hole.
+
+JUST VOTERS (post-July-29 communications):
+  Hammack (Cleveland): Jul 31 dissent statement only; no Type A. 23 days
+    post-dissent with no full economic outlook. Overdue vs. ~10-day
+    follow-on pattern. No confirmed Jackson Hole appearance in available
+    sources.
+  Kashkari (Minneapolis): Jul 31 dissent + Aug 5 CNBC Squawk Box (scored).
+    No confirmed Jackson Hole appearance.
+  Logan (Dallas): Jul 31 dissent statement only; no Type A. Cited demand-
+    side pressures and labor market strength. No confirmed Jackson Hole
+    appearance.
+  Paulson (Philadelphia): Aug 4 speech (scored; inflation-first, holding
+    stance). Most recent voter Type A. No confirmed Jackson Hole appearance.
+  Cook (Governor): Aug 5 Anchorage speech (scored; dovish lean). Confirmed
+    for Jackson Hole Aug 27-29 (speech, time TBD).
+  Bowman (Vice Chair for Supervision): Confirmed for Jackson Hole Aug 27-29
+    (discussion, time TBD). Watch for hawkish lean consistent with 2026
+    posture.
+  Waller (Governor): Last scored: Jul 13 (Type A; explicit hike
+    conditionality set on CPI threshold; July CPI came in below threshold).
+    No post-July-29 Type A speech. No confirmed Jackson Hole appearance
+    in available sources. First post-July-29 Type A is HIGHEST PRIORITY
+    for revising his hike conditionality framing.
+  Barr (Vice Chair for Supervision): Jul 14 Jackson Hole-adjacent Type B
+    (AI focus). No post-July-29 economic outlook.
+
+NON-VOTERS (recent):
+  Daly (SF): Aug 6 ESRI keynote (scored).
+  Barkin (Richmond): Aug 13 Greenville speech (scored).
+  Goolsbee (Chicago): Jul 14 KABA fireside (last scored); no post-July-29
+    Type A. YouTube is primary source for his appearances.
+  Collins (Boston): May 13 last scored; extended silence through July-Aug.
+  Musalem (St. Louis): Low transcript availability; no recent Type A.
+
+FOMC MINUTES (July 28–29):
+  Released August 19, 2026, 2:00pm ET. NOT YET FORMALLY SCORED — official
+  transcript is blocked in this scoring environment (proxy_blocked). The
+  August 19 daily report includes a secondary-source analytical summary.
+  Key finding (secondary sources): "Several" participants assessed higher
+  rates would likely be necessary if inflation did not decline; minutes
+  confirmed the 3-dissenter bloc and revealed broader hawkish lean within
+  the 9-vote majority.
+  Action: python3 main.py refetch from a non-proxy IP to recover the
+    official PDF and produce the formal Type D scored file.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Monday August 24 – Friday August 28
+────────────────────────────────────────────────────────────────
+  NOTE: Fed Board calendar (federalreserve.gov) is proxy_blocked in this
+  environment. Upcoming section draws on web search results (Bloomberg,
+  Yahoo Finance, TechTimes, archyde.com) and prior daily context.
+
+  Mon Aug 24 — (none confirmed)
+    Pre-Jackson Hole silence window. Officials historically refrain from
+    policy speeches in the 3–5 days before the symposium to let the
+    Chair's keynote carry the signal. No Monday speeches found in any
+    available source.
+
+  Tue Aug 25 — (none confirmed)
+    Pre-Jackson Hole silence continues. No confirmed appearances.
+
+  Wed Aug 26, 8:30am ET
+    July PCE Deflator release (economic data release, not a Fed speech)
+    Market significance: key inflation input for the September SEP dot
+    path and direct context for Jackson Hole and the September 15-16 FOMC.
+
+  Thu Aug 27
+    JACKSON HOLE ECONOMIC SYMPOSIUM OPENS — Day 1
+    Host: Kansas City Fed | Venue: Jackson Lake Lodge, Moran, Wyoming
+    Theme: "Financial Innovation: Implications for Payments and Policy"
+    Full agenda typically released ~8pm ET Thursday evening.
+    Day 1 typically: arrival/registration, research presentations, dinner.
+    No confirmed Fed policy speeches on Thursday (per prior years' pattern
+    and available sources as of Aug 23).
+
+  Fri Aug 28 — JACKSON HOLE DAY 2 (highest-priority day)
+    ★ Warsh (Chair) — keynote, 10:00am ET [TYPE G — HIGHEST PRIORITY]
+      First Jackson Hole address as Chair. Prior framing ("blank piece of
+      paper," Jul 29 Q&A) suggests structural / framework focus; watch for:
+      (a) any explicit conditioning of the September SEP dot path;
+      (b) signaling on the September hike debate relative to the
+          3-dissenter bloc (Hammack, Kashkari, Logan);
+      (c) whether he frames the September meeting as genuinely open or
+          tilts toward hold vs. hike.
+      Carries highest analytical weight of the remaining pre-blackout window.
+    • Cook (Governor) — speech, time TBD [TYPE A, confirmed]
+      Watch for update to her AI/demand-side inflation framing from Aug 5
+      and any shift in her dovish-within-voters positioning.
+    • Bowman (Vice Chair for Supervision) — discussion, time TBD
+      (unconfirmed slot per some sources; consistent with Aug 22 report)
+      Watch for hawkish lean consistent with her 2026 posture.
+    NOTE: Waller, Jefferson, Williams, Paulson, Hammack, Kashkari, Logan
+    appearances at Jackson Hole have NOT been confirmed in available sources.
+    Full participant list expected Aug 27 evening.
+
+  Sat Aug 29 — JACKSON HOLE DAY 3
+    Outside Mon-Fri window. Research presentations and closing sessions.
+    (Monitored separately; any Fed speeches flagged for Monday Aug 31 daily.)
+
+  ─── FORWARD CALENDAR ─────────────────────────────────────────
+  Sep 2 (Wed), 2:00pm ET — Beige Book release [Type H; 13 days pre-FOMC;
+                            final color input before blackout Sep 5]
+  Sep 4 (Fri)            — LAST OPEN WINDOW DAY before blackout
+  Sep 5 (Sat)            — BLACKOUT BEGINS (Sep 15–16 FOMC)
+  Sep 15–16 (Tue-Wed)    — FOMC MEETING (projection meeting: SEP + dot
+                            plot [Type I] released with statement)
+  Next Jackson Hole blackout check: September 5 is blackout start.
+  11 open-window days remain after Aug 28 (Aug 31–Sep 4).
+
+  ─── OPEN QUESTIONS ──────────────────────────────────────────
+  (1) WARSH KEYNOTE (Aug 28): hike signal, hold signal, or framework-only?
+      Does "blank piece of paper" mean the Sep dot is genuinely open or
+      does he implicitly anchor it? Compare to Powell's Jul 25, 2025 JH
+      keynote (first Jackson Hole as sole incumbent after 2024 pivot).
+  (2) WALLER TYPE A: post-July-29 Type A is the most analytically
+      overdue voter speech. How does he revise his July 13 hike
+      conditionality post-benign CPI? This is the clearest guide to
+      whether the 9-vote majority center-of-mass is shifting toward a hike.
+  (3) DISSENTERS TYPE A (Hammack, Logan): dissent statements only so far.
+      Any Type A pre-blackout will likely set explicit hike criteria for
+      September — high signal.
+  (4) JEFFERSON / WILLIAMS: 38-39 days of Troika silence. Any pre-blackout
+      communication is elevated priority.
+  (5) MINUTES FORMAL SCORING: July 28–29 minutes official transcript
+      remains unscored (proxy_blocked). Distribution language ("several,"
+      "many") must be verified before committing to committee consensus
+      characterization.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches August 23, 2026:
+  (none)
+
+Web sources consulted for UPCOMING / committee status:
+  Bloomberg — Warsh first Jackson Hole as Fed Chair:
+    https://www.bloomberg.com/news/articles/2026-08-22/kevin-warsh-to-make-first-jackson-hole-speech-as-fed-chair
+  CNBC — Warsh Jackson Hole preview:
+    https://www.cnbc.com/video/2026/08/21/warsh-not-eager-to-move-needle-either-way-on-rates-at-jackson-hole-says-fmr-fed-vice-chair.html
+  Yahoo Finance — Warsh Jackson Hole:
+    https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html
+  Fed Board August 2026 calendar (proxy_blocked; not fetched this run):
+    https://www.federalreserve.gov/newsevents/2026-august.htm
+  Kansas City Fed — Jackson Hole Symposium page:
+    https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+
+Prior reports for committee status context:
+  August 22, 2026 daily report:   data/reports/daily/20260822_daily.txt
+  August 19, 2026 daily report:   data/reports/daily/20260819_daily.txt
+
+Most recent scored files for key speakers:
+  Warsh Jul 29 press conference:  data/reports/fomc/20260729_pressconf_opening_statement.txt
+  Jefferson Jul 16:               data/scored/speeches/20260716_Philip_N__Jefferson_scored.txt
+  Williams Jul 15:                data/scored/speeches/20260715_John_Williams_scored.txt
+  Waller Jul 13:                  data/scored/speeches/20260713_Christopher_J__Waller_scored.txt
+  Paulson Aug 4:                  data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook Aug 5:                     data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Kashkari Aug 5:                 data/scored/speeches/20260805_Neel_Kashkari_scored.txt
+  Daly Aug 6:                     data/scored/speeches/20260806_Mary_Daly_scored.txt
+  Barkin Aug 13:                  data/scored/speeches/20260813_Tom_Barkin_scored.txt
+════════════════════════════════════════════════════════════════
