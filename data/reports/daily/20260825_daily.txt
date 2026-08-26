@@ -1,0 +1,165 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 25, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (hike-risk rising)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Susan M. Collins  |  Boston Fed President  |  Non Voter
+     "Perspectives on the Economy from Susan M. Collins"
+     Boston Fed Perspectives blog (pre-Jackson Hole publication)
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  SUSAN M. COLLINS  |  Boston Fed President  |  Non Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Collins characterizes growth as "expanding at a near-trend pace" —
+  a subtle step down from the July 29 statement's "solid pace" and from
+  her own May 13 "resilient" framing. Growth is positive but not a
+  policy concern. She does flag the AI build-out as generating demand-
+  side goods inflation (addressed under Inflation), which implies AI
+  capex is a growth tailwind with an inflationary shadow.
+  Direction: neutral
+
+LABOR MARKET
+  Strong positive pivot vs. May 13: Collins now characterizes labor as
+  "broadly consistent with maximum or full employment," leading with
+  unemployment "just above 4 percent" in a "narrow range since mid-2024,"
+  limited layoffs, and hiring that has "picked up relative to late 2025"
+  and become "somewhat more broad-based." She retains the "unusual
+  balance" framing from May 13 (low-hire, low-fire; immigration-adjusted)
+  but converts the risk framing from downside-skewed to "two-sided" —
+  upside (stronger growth tightens labor further) and downside (AI
+  repricing/displacement, low job-finding rate → discouraged workers).
+  May 13's AI skill-mismatch alarm is absent. Net labor read is the most
+  constructive from Collins in 2026.
+  Direction: neutral (improved vs. May 13 → mild hawkish offset for policy)
+
+INFLATION
+  Price-stability-first framing leads the piece: "inflation still too
+  high," "running above the FOMC's 2 percent target for over five years."
+  Modal scenario requires limited additional tariff increases AND some
+  Hormuz reopening — neither assumed. Collins lists three disinflation
+  factors: (1) balanced labor not adding price pressure; (2) mildly
+  restrictive policy PLUS "the recent rise in longer-term interest rates"
+  (new — echoes Warsh July 29 bond-yield-as-credibility framing); (3)
+  productivity growth "if it continues." Upside inflation risks include
+  supply shocks and stronger demand; new AI channel: "the AI build-out
+  appears to be putting upward pressure on core goods inflation" (aligns
+  with Waller's July 13 AI-goods analysis). Data: "June and July inflation
+  reports were mildly encouraging" — most positive data characterization
+  from Collins in 2026, but immediately qualified: "monthly readings can
+  be volatile... remains to be seen whether the recent improvements will
+  be sustained."
+  Direction: neutral (unchanged from May 13 with new AI upside risk added)
+
+MONETARY POLICY
+  Validates the July 29 hold: "comfortable with July's FOMC decision to
+  maintain the current target range." Characterizes stance as "mildly
+  restrictive" (same as May 13's "slightly restrictive" — stable Collins
+  vocabulary). Critical condition: "maintaining the current federal funds
+  rate target range will require continued evidence that inflation is
+  indeed coming down." Then the escalation: "Should evidence of sustained
+  inflation progress not materialize, I believe it will be appropriate to
+  tighten policy soon to ensure we deliver price stability in a reasonable
+  time frame."
+
+  "TIGHTEN POLICY SOON" is the key phrase. Compare to May 13: "I can
+  also envision a scenario that requires some policy tightening" (hypothetical).
+  Aug 25 upgrades to a pre-commitment with time pressure. The gap between
+  "I can envision" (May 13) and "I believe it will be appropriate... soon"
+  (Aug 25) is the policy signal. Cut signal: absent. Hike signal: conditional
+  and time-pressured.
+  Direction: hawkish (escalation vs. May 13)
+
+NET SIGNAL: HAWKISH LEAN — The primary move is in monetary policy: Collins
+  pre-commits to tighten "soon" if sustained progress does not materialize.
+  Labor has improved (removing a dovish offset), and the AI goods-inflation
+  channel is a new hawkish add. "Mildly encouraging" June/July data is the
+  only dovish note and is explicitly qualified as volatile and uncertain.
+
+vs. PRIOR SPEECH (May 13, 2026):       HAWKISH — "Tighten policy soon" is
+  meaningfully more urgent than May 13's "I can also envision a scenario."
+  Labor improved (two-sided risks vs. downside-skewed), removing a softening
+  argument. AI inflation channel added. Net escalation is clear.
+vs. PRE-FOMC SPEECH (May 13, 2026):    HAWKISH — Same comparison (May 13
+  is both the prior speech and the pre-FOMC baseline given no scored speech
+  in the intervening period). The arc from neutral-patient (Mar 6) → conditional
+  tightening scenario (May 13) → time-pressured pre-commitment (Aug 25) is
+  consistently and incrementally hawkish across the post-April cycle.
+vs. COMMITTEE SINCE FOMC:              Collins sits inside the hold-but-primed
+  camp, directionally aligned with the three July 29 dissenters (Hammack,
+  Kashkari, Logan) without joining their immediate-hike preference. As a
+  non-voter, her signal is informational but high-quality. The "soon" framing
+  means that absent a decisive string of soft prints, Collins would support
+  a September hike — a posture that, if replicated among Just Voters, resolves
+  into a live hike meeting.
+
+LANGUAGE TO WATCH:
+  • "tighten policy soon" — first Collins use of time-pressured tighten.
+    Language cycle stage: EMERGING (dissenters in hike camp; Collins now
+    in conditional-soon camp from non-voter bench). Watch for spread to voters.
+  • "AI build-out appears to be putting upward pressure on core goods
+    inflation" — AI demand channel for goods. DISPERSED: Waller Jul 13,
+    Collins Aug 25. Not yet Troika-level. If Warsh echoes at Jackson Hole,
+    it enters the committee-wide vocabulary.
+  • "the recent rise in longer-term interest rates" as a policy co-tightening
+    factor — echoes Warsh July 29 bond-market framing. EMERGING from Chair
+    downward; Collins' adoption suggests it is propagating.
+
+ANALYST FLAG: YES
+  → Collins publishes her pre-Jackson Hole posture: hold for now, but
+    "tighten soon" if inflation progress stalls. Her own read of June/July
+    data is "mildly encouraging" but not decisive. If August CPI/PCE
+    disappoints, Collins' "soon" language would reach the September FOMC
+    with full pre-commitment force. Highest-value action: track whether
+    Warsh's Aug 28 Jackson Hole keynote (Type G — highest priority)
+    echoes or softens this "soon" framing. If Warsh does not push back,
+    September is a live hike meeting with at least 3 confirmed dissenters
+    and Collins-style pre-committed non-voters.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday, August 27, 2026
+────────────────────────────────────────────────────────────────
+  Jackson Hole Economic Policy Symposium opens (Aug 27–29)
+  Theme: "Financial Innovation: Implications for Payments and Policy"
+  Kansas City Fed / Jackson Lake Lodge, Jackson Hole, WY
+
+  NOTE: The symposium agenda is expected to be released Wednesday
+  evening (Aug 26). Day 1 (Thursday, Aug 27) typically features
+  research presentations and panel discussions; main policy speeches
+  are on Friday and Saturday.
+
+  KEY EVENT — FRIDAY, AUGUST 28 (not tomorrow but imminent):
+  Kevin Warsh  |  Chair, Federal Reserve  |  Troika
+  Jackson Hole Keynote Speech (TYPE G — HIGHEST PRIORITY)
+  Jackson Lake Lodge, Jackson Hole, WY
+  — This is Warsh's first Jackson Hole keynote as Chair and his
+    first Type G speech. As of July 29, he described it as "a blank
+    piece of paper right now." Given the 9–3 dissent vote, the five-
+    year inflation overshoot, and the Collins "tighten soon" signal
+    published the prior day, the keynote's treatment of hike risk
+    and forward guidance will be the most market-relevant Fed
+    communication since the July 29 press conference. Time: TBC
+    (historically Friday morning ET; typically 10am ET).
+  — Blackout does NOT apply to Jackson Hole (blackout starts Sep 5,
+    2026 for the Sep 15–16 FOMC meeting).
+
+  OTHER SPEAKERS POSSIBLE: Regional presidents and Board governors
+  sometimes give presentations or participate in panels during
+  the symposium. Agenda not yet published. (unconfirmed as of this run)
+
+  NEXT BLACKOUT: Begins September 5, 2026 (for Sep 15–16 FOMC).
+  No policy speeches Aug 26–Sep 4.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Collins Aug 25, 2026:
+    https://www.bostonfed.org/news-and-events/speeches/2026/perspectives-on-the-economy.aspx
+
+Prior speech / Pre-FOMC baseline (vs. PRIOR SPEECH / vs. PRE-FOMC SPEECH):
+  Collins May 13, 2026  "The U.S. Economy: Resilience Amid Risks and Uncertainty":
+    https://www.bostonfed.org/news-and-events/speeches/2026/the-us-economy-resilience-amid-risks-and-uncertainty.aspx [reconstruct — verify]
+════════════════════════════════════════════════════════════════
