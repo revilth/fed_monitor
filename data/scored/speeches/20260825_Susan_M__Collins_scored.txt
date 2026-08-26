@@ -1,0 +1,260 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-08-25 | Susan M. Collins | Boston Fed President | Non Voter
+"Perspectives on the Economy from Susan M. Collins"
+Boston Fed Perspectives blog (published ahead of Jackson Hole departure)
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/perspectives-on-the-economy.aspx
+
+CLASSIFICATION: Type A — Full economic outlook speech, written-piece format.
+  Sections: Growth (embedded in opening), Labor Market, Inflation,
+  Monetary Policy. Published the day before Collins departs for the
+  Jackson Hole symposium (Aug 27–29); explicitly frames as a pre-Jackson
+  Hole summary of her views. No PDF — HTML text published directly.
+
+REFERENCE FOMC:    July 29, 2026  (HOLD 3.50–3.75%; 9–3 vote; Hammack,
+                   Kashkari, Logan dissented preferring +25bp hike;
+                   statement substantive text FROZEN vs. June 17 except
+                   "reaffirmed" → "is continuing" on ample reserves)
+PRE-FOMC BASELINE: May 13, 2026  "The U.S. Economy: Resilience Amid
+                   Risks and Uncertainty"  Boston Economic Club, Boston
+POST-FOMC PRIOR:   N/A — no scored Collins speech between May 13 and
+                   Aug 25; May 13 is both the immediate prior and the
+                   pre-FOMC baseline.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "economic activity has been expanding at a solid pace"
+  [July 29 stmt, verbatim from June 17; activity paragraph FROZEN]
+  → Collins: "I see recent economic activity as expanding at a
+    near-trend pace"
+  → "Near-trend" is a subtle step down from the statement's "solid."
+    May 13 used "resilient." Collins has softened the modifier by
+    one level.
+
+Own language:
+  "I see recent economic activity as expanding at a near-trend pace"
+  — Positive but bounded: growth is adequate but not a policy concern.
+
+  [AI demand channel, raised in the inflation section]:
+  "the AI build-out appears to be putting upward pressure on core
+   goods inflation" — implies AI-capex investment is generating
+   demand-side goods inflation. Growth has an AI-driven momentum
+   component that Collins views as inflationary, not just productive.
+
+Shift vs. prior speech:   NEUTRAL LEAN — "near-trend" is softer than
+  May 13's "resilient," but growth remains a non-concern for policy.
+Shift vs. pre-FOMC:       NEUTRAL — directionally unchanged; the growth
+  characterization has not moved in a way that motivates a policy signal.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have been low, on average, and the unemployment rate
+   remains low." [July 29 stmt, verbatim from June 17; FROZEN]
+  → Collins: "unemployment rate just above 4 percent and fluctuating
+    within a narrow range since mid-2024"; "Layoffs continue to be
+    limited"; "hiring has picked up relative to late 2025 and become
+    somewhat more broad-based across industries"
+  → Her read is more constructive than the statement's "job gains
+    have been low." She emphasizes hiring improvement and low layoffs.
+
+Own verdict:
+  "I see labor market conditions as broadly consistent with maximum
+   or full employment, one part of the Fed's dual mandate."
+  — Most positive Collins labor characterization in 2026. May 13
+    led with "labor market has clearly softened"; Aug 25 leads with
+    "maximum or full employment."
+
+Own qualifier / addition:
+  "I view risks to the labor market as two-sided."
+  — Upside risk: stronger-than-expected growth → tighter labor →
+    more price pressure.
+  — Downside risks: (a) AI-related stock-market repricing → reduced
+    business and consumer spending → lower labor demand; (b) AI
+    displacing (not complementing) labor in affected sectors;
+    (c) low job-finding rate in low-hire, low-fire environment →
+    potential discouraged-worker exit from labor force.
+  — "I see labor market conditions as broadly balanced – although
+    it is an unusual balance and not without risks."
+  — "Unusual balance" framing retained from May 13. The downside
+    risk framing has not disappeared, but it is now paired with
+    explicit upside labor risks, moderating the net read.
+
+Shift vs. prior speech:   NEUTRAL — "unusual balance" retained; risks
+  shifted from downside-skewed (May 13) to explicitly two-sided.
+  Hiring improvement noted positively. Net: mild hawkish lean within
+  the labor section.
+Shift vs. pre-FOMC:       HAWKISH LEAN — May 13 led with softened labor
+  framing and AI skill-mismatch downside. Aug 25 leads with "maximum
+  or full employment" and two-sided risks. The labor channel no longer
+  supports a patience argument for holding.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent
+   goal." [July 29 stmt, verbatim from June 17; FROZEN]
+  → Collins: "inflation still too high" + "running above the FOMC's
+    2 percent target for over five years"
+  → "Still too high" reinforces "elevated"; duration emphasis ("over
+    five years") is Collins' own addition, not in the statement.
+
+Own language — KEY:
+  "with inflation still too high, I remain particularly concerned
+   about the price stability portion of the dual mandate."
+  — Price-stability-first framing leads the piece.
+
+  "In the coming months, I will be looking for evidence that
+   inflation is durably returning to 2 percent, consistent with my
+   modal, or most likely, outlook for the remainder of this year."
+  — Modal scenario is conditional on: (1) limited additional tariff
+    increases; (2) some degree of Hormuz reopening. Neither is assumed.
+
+  Three stated disinflation factors:
+  (1) "A balanced labor market, with economic activity growing near
+      trend, should not be a source of additional price pressures."
+  (2) "mildly restrictive monetary policy, together with the recent
+      rise in longer-term interest rates, should mitigate, at least
+      to some extent, a possible re-acceleration in household and
+      business spending"
+  (3) "solid productivity growth – if it continues – should put some
+      downward pressure on prices"
+  — NEW ELEMENT: "the recent rise in longer-term interest rates"
+    named as a co-tightening factor alongside the policy rate. Echoes
+    Warsh's July 29 framing that higher bond yields are a credibility
+    signal, not a constraint.
+
+  "upside risks to inflation from both additional adverse supply
+   shocks, and a stronger-than-expected pace of economic activity.
+   With regards to the latter, I'll note that the AI build-out
+   appears to be putting upward pressure on core goods inflation."
+  — NEW: AI demand channel named explicitly for goods inflation.
+    Aligns with Waller's July 13 analysis (chips/servers/memory →
+    retail goods). First Collins use of this channel.
+
+  "While June and July inflation reports were mildly encouraging,
+   monthly readings can be volatile. It remains to be seen whether
+   the recent improvements will be sustained"
+  — "Mildly encouraging" is the most positive inflation data language
+    Collins has used in 2026. Heavily qualified ("volatile," "remains
+    to be seen").
+
+Shift vs. prior speech:   UNCHANGED — May 13's explicit look-through
+  fatigue ("five years has reduced my patience for looking through")
+  is not repeated verbatim, but the duration concern is present.
+  "Mildly encouraging" data acknowledgment is slightly dovish; AI
+  demand channel is hawkish offset. Net: broadly unchanged on
+  inflation.
+Shift vs. pre-FOMC:       UNCHANGED — Same structural concern over
+  above-target duration. May 13 was explicit on look-through fatigue;
+  Aug 25 reframes this as conditional: "maintaining the current
+  federal funds rate target range will require continued evidence."
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  No forward guidance in July 29 statement. Collins does not echo
+  any cut-oriented language. "Well positioned" is her own
+  construction, not verbatim statement language.
+
+Own language:
+  "I was comfortable with July's FOMC decision to maintain the
+   current target range for the federal funds rate."
+  — Non-voter explicitly validating the hold vote.
+
+  "For now, this mildly restrictive policy stance should leave the
+   Committee well positioned to address evolving economic conditions
+   and return inflation to target in a reasonable amount of time."
+  — Rate characterization: "mildly restrictive" (same as May 13's
+    "slightly restrictive" — stable descriptor in Collins' vocabulary).
+  — "In a reasonable amount of time" is her inflation-return bar.
+
+  "maintaining the current federal funds rate target range will
+   require continued evidence that inflation is indeed coming down."
+  — Hold is explicitly conditional on evidence. Without it, the hold
+    is not justified.
+
+  "Should evidence of sustained inflation progress not materialize,
+   I believe it will be appropriate to tighten policy soon to ensure
+   we deliver price stability in a reasonable time frame."
+  — HAWKISH ESCALATION vs. May 13. Comparison:
+    May 13: "I can also envision a scenario that requires some policy
+            tightening" — hypothetical framing
+    Aug 25: "I believe it will be appropriate to tighten policy soon"
+            — pre-commitment + time dimension ("soon")
+  — Upgrade: (a) from "I can envision" to "I believe it will be
+    appropriate" (from hypothetical to pre-commitment); (b) "soon"
+    introduces urgency absent from May 13.
+
+  "I particularly value the range of perspectives expressed around
+   the FOMC table. I look forward to the on-going robust, substantive,
+   and data-driven discussion with my fellow Committee members"
+  — Diplomatic nod to the 3-dissenter dynamic; confirms she is not
+    calling for the immediate hike the dissenters preferred.
+
+Cut signal status:  ABSENT
+Hike signal status: CONDITIONAL, TIME-PRESSURED.
+  [Inference: "tighten policy soon" if evidence does not materialize
+  positions Collins within the hold-but-primed camp, directionally
+  aligned with Hammack/Kashkari/Logan without joining their immediate-
+  hike preference. Given she is a non-voter, her influence is
+  informational — but high-quality non-voters (Collins, Goolsbee)
+  signal where rotating-voter sentiment may be heading.]
+
+Shift vs. prior speech:   HAWKISH — May 13 named tightening scenario
+  in hypothetical terms. Aug 25 pre-commits with a time dimension
+  ("soon"). This is a meaningful escalation in urgency.
+Shift vs. pre-FOMC:       HAWKISH — The arc from March 6 (neutral-
+  patient) → May 13 (conditional tightening scenario) → Aug 25
+  (time-pressured pre-commitment) is consistently hawkish.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+  Primary escalation is in monetary policy: "tighten policy soon"
+  is a pre-commitment upgrade from May 13's conditional "I can
+  envision a scenario." Labor improved ("maximum or full employment"
+  vs. "clearly softened"), removing the dovish offset that existed
+  in May. Inflation is broadly unchanged with a new AI demand channel
+  adding to upside risk. "Mildly encouraging" June/July data note is
+  the only dovish element, heavily qualified.
+
+  Published the day before Jackson Hole (Aug 27–29), this piece sets
+  Collins' public posture ahead of Warsh's keynote (Aug 28). Her
+  framing — comfortable with the July hold, but "soon" if progress
+  stalls — is consistent with a September tightening if upcoming data
+  disappoint. Her acknowledgment of "the recent rise in longer-term
+  interest rates" as a co-tightening factor (echoing Warsh July 29)
+  indicates committee-level language propagation.
+
+Language watch:
+  • "tighten policy soon" — first Collins use of time-pressured
+    tighten language. Language cycle stage: EMERGING (dissenters in
+    hike camp; Collins now in conditional-soon camp from non-voter
+    bench). Watch for spread to Just Voter ranks.
+  • "mildly encouraging" re data — most positive data characterization
+    in 2026 from Collins. If repeated post-Jackson-Hole, track shift.
+  • "AI build-out appears to be putting upward pressure on core goods
+    inflation" — AI demand channel for goods. DISPERSED (Waller Jul 13,
+    Collins Aug 25). Watch for Troika adoption.
+  • "the recent rise in longer-term interest rates" as tightening co-
+    factor — echoes Warsh July 29. EMERGING downward spread from Chair.
+
+Analyst flag:  YES
+  → Collins pre-commits to "tighten policy soon" if sustained
+    progress does not materialize. By her own read, June and July
+    were only "mildly encouraging" — a bar that may not stay met
+    through September data. This piece was timed for maximum impact
+    ahead of Jackson Hole. Track whether Warsh's Aug 28 keynote
+    echoes, softens, or clarifies the "soon" timeline. If Warsh does
+    not push back on the tightening-soon framing, September becomes
+    a live hike meeting, and Collins would be among the first non-
+    dissenter voices to have put that in writing.
+══════════════════════════════════════════════════════════
