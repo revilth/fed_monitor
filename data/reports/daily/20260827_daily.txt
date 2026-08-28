@@ -1,0 +1,208 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 27, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (hike-risk rising)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  Jackson Hole Economic Policy Symposium — Day 1
+  Theme: "Financial Innovation: Implications for Payments and Policy"
+  Kansas City Fed / Jackson Lake Lodge, Jackson Hole, WY
+
+  Confirmed August 27 appearances:
+  1. Jeffrey Schmid  |  Kansas City Fed President  |  Non Voter
+     Media interviews (CNBC + Bloomberg) at Jackson Hole sidelines;
+     opening/welcome remarks as symposium host
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+     (kansascityfed.org blocked this run; official transcript not retrieved)
+     Action item: recover via local 'python3 main.py refetch'
+
+  2. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     Rapid Response podcast appearance (date-confirmed: August 27)
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+     (Official Chicago Fed page blocked this run; no official transcript retrieved)
+     Action item: recover via local 'python3 main.py refetch'
+
+  Additional symposium participants (exact day within Aug 27–29 unconfirmed):
+  3. Lisa D. Cook  |  Governor  |  Just Voter
+     Speech at symposium — financial innovation / payments policy theme
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+     (federalreserve.gov blocked; date within symposium unconfirmed as Aug 27)
+
+  4. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     Discussion (discussant on academic paper) at symposium
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+     (federalreserve.gov blocked; date within symposium unconfirmed as Aug 27)
+
+NOTE: The 5:30am ET automated scraper was blocked by the Fed CDN on all relevant
+  sources on this date. A manual 'python3 main.py refetch' from a non-blocked IP
+  (local machine) is required to recover all August 27 transcripts. The Kansas
+  City Fed symposium agenda was published at 8:00pm ET on August 27, after the
+  scrape window.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTEXT: JACKSON HOLE DAY 1 — KEY COMMUNICATIONS REPORTED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Official scoring is NOT possible this run — all official transcript sources are
+proxy-blocked. The summary below is drawn from web search results (news coverage
+only) and MUST NOT be treated as a verified scored output. Recover official
+transcripts before scoring.
+
+DATA CONTEXT (released August 26, day before):
+  PCE Price Index (July): 3.7% YoY — matching June; down from 4.1% in May.
+  Second consecutive month with no further deterioration. The market received
+  this as "mildly encouraging" — same Collins (Aug 25) characterization —
+  but still substantially above the 2% target.
+
+──────────────────────────────────────────────────────────────
+1. JEFFREY SCHMID  |  Kansas City Fed President  |  Non Voter
+   CNBC + Bloomberg media interviews at Jackson Hole sidelines
+   (Also: opening remarks as symposium host; transcript separately)
+   ⚠ TRANSCRIPT PENDING — analysis below is based on news coverage only
+──────────────────────────────────────────────────────────────
+
+REPORTED KEY STATEMENTS (unverified against official transcript):
+  On policy rate:
+    "I don't know what we're restricting currently with the rate policy that
+     we're at today." — rates not viewed as restrictive; leans toward need
+     for higher rates if inflation does not decline.
+
+  On inflation:
+    "Still stubborn and it's still sticky" — echoes the committee's five-year
+     inflation-overshoot framing; language aligns with Hammack/Kashkari/Logan
+     dissent posture.
+
+  On stance:
+    "Inflation is too hot, rates too accommodative" — pre-Jackson Hole headline
+     quote. Most explicit statement from Schmid in 2026 on rate adequacy.
+    Rates "not restrictive" is the clearest formulation of the hawkish-dissenter
+     argument: if you believe policy is not restricting activity, you cannot
+     justify holding to bring inflation down.
+
+DIRECTIONAL READ (provisional, pending transcript):
+  HAWKISH — Schmid joins the dissenter-aligned camp in challenging the holding
+  majority's implicit view that current policy is mildly restrictive. His "I
+  don't know what we're restricting" goes further than the dissenters' rate-path
+  demand — it questions the theoretical basis for the hold. As a Non Voter,
+  this is an information signal, not a vote signal, but it reinforces the
+  committee's hawkish internal momentum ahead of September.
+
+  Language to watch: "I don't know what we're restricting" — if this framing
+  spreads to Just Voters or Troika, it converts the September meeting from a
+  "hold with risk of hike" to an active hike debate.
+
+──────────────────────────────────────────────────────────────
+2. AUSTAN GOOLSBEE  |  Chicago Fed President  |  Non Voter
+   Rapid Response podcast, August 27, 2026
+   ⚠ TRANSCRIPT PENDING — analysis below is based on news coverage only
+──────────────────────────────────────────────────────────────
+
+REPORTED KEY STATEMENTS (unverified against official transcript):
+  On inflation:
+    "Everybody should be on edge." — inflation uncertainty framing.
+    "My biggest fear in the short run continues to be that inflation is not
+     under control." — leads with the downside risk of further acceleration,
+     not with a soft-landing view.
+    "If inflation starts going up again, it's very hard to get rid of it."
+     — second-round risk and inflation expectations concern.
+    "We hear a lot about affordability and we better be mindful." — household
+     inflation burden framing, not a purely academic signal.
+
+  Risk factors cited (unverified):
+    Rising energy costs (Iran/Hormuz supply disruption)
+    Oscillation in tariff policy (Trump administration)
+    — both supply-side and policy uncertainty channels.
+
+DIRECTIONAL READ (provisional, pending transcript):
+  HAWKISH LEAN — notable because Goolsbee was positioned as a more dovish
+  regional voice earlier in the cycle (opposed to Dec 2025 cut on inflation-
+  first grounds, but skeptical of active tightening). His "everybody should be
+  on edge" framing at Jackson Hole represents a harder inflation-first posture
+  than his most recent scored speech (July 14 fireside). As a Non Voter, the
+  signal is informational; this is his first clearly hawkish-leaning public
+  statement since the July 29 FOMC.
+
+  Context: Goolsbee's July 14 speech (scored) framed inflation as elevated but
+  the labor market as still requiring care. His August 27 framing drops the
+  dovish labor offset and leads with inflation fear. If he maintains this
+  posture at a formal scheduled speech, it would represent a meaningful shift
+  for a previously cautious voice.
+
+CROSS-SPEAKER NOTE (Schmid + Goolsbee, August 27):
+  Both non-voters arrive at Jackson Hole from hawkish directions — Schmid from
+  the "rates not restrictive" angle and Goolsbee from the "inflation not under
+  control" angle. Together they represent the informational bookends of the
+  committee's September risk: (1) rates may need to rise because current stance
+  does not restrict activity; (2) inflation may re-accelerate if the Fed
+  misreads the current environment. Neither is a voter, but both signals are
+  directionally consistent with the three July 29 dissenters (Hammack,
+  Kashkari, Logan). If the Troika (Warsh in particular) echoes either framing
+  in his August 28 keynote, September becomes a live hike meeting.
+
+  ANALYST FLAG: PRIORITY — Warsh keynote TODAY (August 28, 10am ET) is the
+  critical test. Does he echo "rates not restrictive" (Schmid) or "everybody
+  on edge" (Goolsbee)? A Troika-level adoption of either phrase converts
+  the September FOMC from a "hold with risk" to an active debate on timing.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Monday, August 31 – Friday, September 5, 2026
+────────────────────────────────────────────────────────────────
+  ⚠ BLACKOUT BEGINS Friday, September 5, 2026 (for September 15–16 FOMC)
+  September 15–16 FOMC is a PROJECTION MEETING (SEP + dot plot).
+  Effective open-period window: Tuesday Sep 2 – Thursday Sep 4.
+
+  Monday, August 31 (Labor Day eve):
+    — Warsh Jackson Hole keynote (Aug 28, today) transcript expected on
+      kansascityfed.org by end of weekend; recover for Monday scoring.
+    — Jackson Hole Day 3 (Saturday Aug 29) speakers possible; check agenda.
+    — No scheduled Fed appearances confirmed as of this run. (unconfirmed)
+
+  Tuesday, September 2 – Thursday, September 4:
+    — Three final trading days before blackout. Historically the pre-blackout
+      window sees officials who want to pre-position their September views make
+      a final speech. No specific appearances confirmed as of this run.
+      (unconfirmed — watch Fed Board calendar and regional bank pages)
+
+  Friday, September 5:
+    BLACKOUT BEGINS (September 15–16 FOMC). No policy speeches.
+
+  NEXT FOMC: September 15–16, 2026 (projection meeting — SEP + dot plot)
+  KEY ITEMS TO WATCH PRE-BLACKOUT:
+    • Any Warsh public statement beyond the Aug 28 keynote (unlikely before Sep 5)
+    • Jefferson (Vice Chair / Troika) — has not spoken since July 16; any pre-
+      blackout speech would carry exceptional weight given Troika silence since FOMC
+    • Paulson (Philadelphia / median voter) — no scored speech since Aug 4; pre-
+      blackout positioning critical for reading the vote
+    • Cook, Williams (Troika) — any post-Jackson Hole speeches Sep 2–4 would
+      clarify their reaction to the symposium
+
+  CALENDAR LOOKUP STATUS: Fed Board (federalreserve.gov) and regional bank
+    calendars blocked this run. Check manually for confirmed appearances.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches / appearances this date:
+  Schmid Aug 27, 2026 — CNBC interview:
+    https://www.cnbc.com/video/2026/08/27/watch-cnbcs-full-interview-with-kansas-city-fed-president-jeff-schmid.html
+  Schmid Aug 27, 2026 — Bloomberg interview:
+    https://www.bloomberg.com/news/videos/2026-08-27/fed-s-schmid-talks-policy-inflation-communication-video
+  Schmid Aug 27, 2026 — KC Fed speeches page (official; blocked this run):
+    https://www.kansascityfed.org/speeches/
+  Goolsbee Aug 27, 2026 — Rapid Response podcast (Chicago Fed; blocked this run):
+    https://www.chicagofed.org/ [recover via local refetch]
+
+NOTE: All quotes attributed to Schmid and Goolsbee are from news search results
+  (unverified against official transcripts). Formal scoring requires the official
+  transcript. DO NOT use news-summary quotes in portfolio-facing analysis.
+
+Jackson Hole symposium event page:
+  https://www.kansascityfed.org/research/jackson-hole-economic-symposium/
+  [blocked this run]
+
+Prior scored speeches for context:
+  Collins Aug 25, 2026 ("Perspectives on the Economy"):
+    data/scored/speeches/20260825_Susan_M__Collins_scored.txt
+  Goolsbee Jul 14, 2026 (most recent Goolsbee scored):
+    data/scored/speeches/20260714_Austan_Goolsbee_scored.txt
+════════════════════════════════════════════════════════════════
