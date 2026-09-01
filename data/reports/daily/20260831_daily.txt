@@ -1,0 +1,114 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 31, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (hike-risk rising)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  No scheduled Fed official speeches or public appearances on August 31, 2026.
+
+  NOTE: The Jackson Hole Economic Policy Symposium concluded Saturday,
+  August 29. Key Jackson Hole content pending official scoring:
+
+  — Kevin Warsh | Chair | Troika
+    "In Our Time" — Jackson Hole keynote (Type G), August 28, 2026
+    STATUS: NOT SCORED — raw file present (data/raw/speeches/2026/Kevin_Warsh/
+    20260828_In_Our_Time.txt); scoring queued for next eligible run.
+    SOURCE (official): https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+    NEWS SUMMARY (unverified, pending official transcript scoring): Warsh
+    expressed concern about elevated inflation; characterized summer readings
+    as "more concerning" while avoiding forward guidance or a rate-path
+    commitment. Said the Fed must deliver price stability and noted inflation
+    prints "do not tell me that underlying trends have meaningfully improved."
+    Advocated for a "quieter" central bank (less forward guidance, more
+    data-dependent). Market read: hawkish-leaning without a formal hike signal.
+    DO NOT use news-summary quotes in portfolio-facing analysis — score from
+    official transcript when accessed.
+
+  — Additional Jackson Hole participants (August 27–29) similarly pending
+    official transcript recovery and scoring per the August 27 daily report.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NO NEW SCORED SPEECHES — AUGUST 31, 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+No Fed official speeches or scorable appearances were recorded on
+August 31, 2026. The post-Jackson Hole Monday was quiet; official
+transcript recovery for the August 27–29 symposium content is required
+before any scoring of that block can proceed.
+
+PENDING TRANSCRIPT RECOVERY (action required):
+  1. Warsh "In Our Time" keynote (Aug 28) — raw file present but scoring
+     blocked by proxy on federalreserve.gov this run. Recover via local
+     'python3 main.py refetch'. Priority: Type G, highest.
+  2. Jackson Hole Day 1 participants (Schmid, Goolsbee, Cook, Bowman,
+     Aug 27) — transcript recovery per August 27 daily action items.
+  3. Additional Day 2/3 symposium participants (Aug 28–29) — check
+     kansascityfed.org/research/jackson-hole-economic-symposium/ for
+     full agenda and transcript links once accessible.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Wednesday, September 2, 2026
+────────────────────────────────────────────────────────────────
+  No confirmed Fed official appearances for Wednesday, September 2, 2026
+  as of this run. (unconfirmed — Fed Board calendar and regional bank
+  sites blocked this run; check manually)
+
+  PRE-BLACKOUT WINDOW: September 2–4, 2026 (3 days remain before blackout)
+  BLACKOUT BEGINS: Friday, September 5, 2026
+  NEXT FOMC: September 15–16, 2026 — PROJECTION MEETING (SEP + dot plot)
+  No policy speeches during September 5–17 blackout.
+
+  OFFICIALS TO WATCH BEFORE BLACKOUT (Sep 2–4):
+    • Philip Jefferson  |  Vice Chair  |  Troika
+      Has not given an economic outlook speech since July 16 — pre-blackout
+      positioning would carry exceptional weight given Troika silence since
+      the July 29 FOMC. Any speech this week would be highest priority.
+      (unconfirmed)
+    • Anna Paulson  |  Philadelphia Fed  |  Just Voter (median voter)
+      No scored speech since August 4. Pre-blackout positioning critical
+      for reading the September vote distribution. (unconfirmed)
+    • John Williams  |  NY Fed  |  Troika
+      Last scored speech July 15. Any post-Jackson Hole reaction speech
+      Sep 2–4 would clarify Troika reaction to symposium content.
+      (unconfirmed)
+    • Lisa D. Cook  |  Governor  |  Just Voter
+      Participated at Jackson Hole (Aug 27–29 per prior report); a follow-
+      up speech pre-blackout is possible but unconfirmed.
+    • Thomas Barkin  |  Richmond  |  Non Voter
+      Historically active pre-FOMC. Pricing and labor intelligence useful
+      for inflation read. (unconfirmed)
+
+  KEY ANALYTICAL QUESTION HEADING INTO BLACKOUT:
+    Does the committee's September meeting resolve as a hold or a hike?
+    The July 29 9–3 dissent (Hammack, Kashkari, Logan for +25bp) marks the
+    first hike-preferring coalition since the tightening cycle ended. Warsh's
+    Aug 28 keynote tone (hawkish, no guidance) and the Collins (Aug 25)
+    "tighten policy soon" pre-commitment have not been countered by dovish
+    Troika language. A decisive August CPI miss OR a Jefferson/Williams
+    speech rejecting hike urgency would be required to firmly close September.
+    Absent that, September 15–16 enters as a live debate between hold and hike.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  None — no Fed official appearances on August 31, 2026.
+
+Context sources (unscored; pending official transcript recovery):
+  Warsh Aug 28, 2026 "In Our Time":
+    https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+  News coverage (NOT for scoring; reference only):
+    CNBC: https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html
+    CNN: https://www.cnn.com/2026/08/28/business/fed-chairman-kevin-warsh-jackson-hole
+
+Prior context for pre-blackout UPCOMING officials:
+  Jefferson Jul 16, 2026 (most recent scored):
+    [scored file: data/scored/speeches/20260716_Philip_Jefferson_scored.txt — verify path]
+  Paulson Aug 4, 2026 (most recent scored):
+    [scored file: data/scored/speeches/20260804_Anna_Paulson_scored.txt — verify path]
+  Williams Jul 15, 2026 (most recent scored):
+    data/scored/speeches/20260715_John_Williams_scored.txt
+  Collins Aug 25, 2026 ("Perspectives on the Economy"):
+    data/scored/speeches/20260825_Susan_M__Collins_scored.txt
+════════════════════════════════════════════════════════════════
