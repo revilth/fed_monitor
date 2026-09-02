@@ -1,0 +1,161 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 1, 2026  (Labor Day — U.S. federal holiday)
+Reference FOMC: July 29, 2026  |  Cycle: holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michael S. Barr  |  Governor  |  Just Voter
+     "Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record"
+     Second-Chance Lending Forum, Developing Evidence-Based Policy on
+       Creditworthiness and Criminal History, Washington, D.C.
+     [TYPE B with embedded economic outlook — scored]
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  MICHAEL S. BARR  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Type B speech (financial inclusion / second-chance lending forum) with a brief
+but high-signal embedded economic outlook section at the opening. The policy
+signal is the most explicit Barr has put on record in the current cycle; it is
+notable that he chose to include it on Labor Day, in a non-policy venue, six
+weeks before the September 15–16 FOMC meeting.
+
+GROWTH
+  Barr opens with a constructive characterization: "The economy has been growing
+  solidly, powered in part by the boom in AI-related business investment and the
+  buildout of AI-related capabilities. Productivity and new business formation
+  have been strong for a number of years. Consumer spending to date has been
+  largely resilient." This is meaningfully more positive than his March 26 baseline,
+  which offered no affirmative growth assessment. A solid growth read removes
+  any growth-case for urgency to ease.
+  Direction: neutral-to-hawkish lean (growth supportive of patience / no-cut stance)
+
+LABOR MARKET
+  "The labor market is stable, with relatively low unemployment." One sentence.
+  Notably absent: his March 26 vulnerability qualifier ("Low levels of hiring
+  likely leave the labor market vulnerable to shocks, so continued vigilance on
+  labor market conditions remains warranted") and his "low hire, low fire"
+  framing. The omission of fragility language represents a subtle hawkish shift
+  in his labor read relative to his own prior.
+  Direction: neutral-to-hawkish lean (fragility language dropped)
+
+INFLATION
+  Barr intensifies past the July 29 statement language: "But inflation remains
+  too high—and has been for over five years." ("Too high" vs. statement's
+  "elevated.") He restates core non-housing services as "remains elevated" and
+  names a new shock source: "the rapid AI buildout" alongside tariffs and the
+  Middle East conflict pushed inflation "off course." De-anchoring risk framing
+  persists: "there is a risk of broader price pressures taking hold, a risk I
+  am watching closely." Duration-clock language ("five years") is consistent
+  with his March 26 baseline and with Warsh's committee-approved language.
+  Direction: hawkish lean — consistent with March 26 baseline; AI-buildout
+  as inflation source is new relative to prior Barr speeches.
+
+MONETARY POLICY
+  The key passage. Barr names both scenarios explicitly for the September meeting:
+
+  HOLD SCENARIO: "If trends in the data give me some confidence that inflation
+  is moderating on a path to 2 percent, then I think we can take a bit more
+  time to assess our policy stance."
+
+  HIKE SCENARIO: "However, if inflation appears not to be moderating
+  sufficiently, then I think we should act decisively to raise rates."
+
+  This is EXPLICIT AND NAMED scenario framing (per methodology: both scenarios
+  labeled, trigger specified, policy responses named). It is the strongest and
+  most specific hike conditionality Barr has placed on record — a material
+  escalation from his March 26 "take some time to assess" (pure hold framing;
+  hike not named). "Act decisively" is unhedged. Cut scenario: ABSENT.
+
+  Relative to committee: Barr voted HOLD at July 29 but is now aligning policy
+  conditionality direction with the dissenting bloc (Hammack/Kashkari/Logan).
+  His hike is conditional (not base case), distinguishing him from the
+  dissenters, but he is the first majority voter to name "raise rates" as a
+  September meeting scenario.
+  Direction: hawkish — explicit two-way conditionality with named hike scenario
+
+NET SIGNAL: HAWKISH LEAN — Barr's first post-July-29 economic outlook is a
+  meaningful escalation. Growth read is more positive, labor vulnerability
+  language is dropped, and the policy section moves from pure patience to
+  explicit hike conditionality tied to September inflation data. This is the
+  most hawkish policy statement from a majority voter in the current cycle.
+
+vs. PRIOR SPEECH (March 26, 2026):    HAWKISH — growth positive (new), labor
+  fragility dropped, policy escalates from "take time to assess" to explicit
+  named hike scenario.
+vs. PRE-FOMC SPEECH (March 26, 2026): Same baseline — HAWKISH. The March 26
+  speech served as both prior and pre-FOMC reference (no post-June-17 economic
+  outlook speeches; June 6 and July 14 raw files are Type B with no policy
+  outlook section).
+vs. COMMITTEE SINCE FOMC (July 29):   Barr's signal is the most hawkish from
+  a majority voter since the July 29 vote. The three dissenting voters
+  (Hammack, Kashkari, Logan) hold base-case hike positions; Barr's conditional
+  hike sits between the majority hold consensus and the dissenters' stance —
+  but is directionally aligned with the dissenting bloc's inflation diagnosis.
+  Among the majority, no other voter has placed a named hike scenario on
+  record in the current cycle.
+
+LANGUAGE TO WATCH:
+  • "act decisively to raise rates" — first named hike conditional from a
+    majority voter. Watch for uptake from Waller, Cook, Paulson in the
+    remaining pre-blackout window (September 3–4).
+  • "too high—and has been for over five years" — persistent Barr/Warsh
+    duration framing; committee-level language cycle stage.
+  • "rapid AI buildout" as inflation source — Barr now names AI capex
+    as an inflationary shock alongside tariffs and Middle East conflict;
+    distinct from Waller's AI-demand channel analysis.
+
+ANALYST FLAG: YES
+  → Barr's explicit "act decisively to raise rates" conditional, delivered
+    6 weeks before September 15–16 and on Labor Day in a non-policy venue,
+    is high-signal. Key question: is this a genuine stance shift toward the
+    dissenter coalition, or pre-FOMC positioning to preserve optionality?
+    Barr's trigger condition ("trends in the data") is broader and less
+    specified than Waller's prior conditionality ("several months of lower
+    core readings" in July 13 speech). Assess against August CPI (release
+    date ~Sep 10, just before the meeting) — if August CPI prints hot,
+    Barr's language makes his September vote non-trivial.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday, September 3, 2026
+────────────────────────────────────────────────────────────────
+  NOTE: The FOMC blackout period begins Saturday, September 5, 2026
+  (for the September 15–16 FOMC meeting — a projection meeting; SEP +
+  dot plot). September 3–4 (Thursday–Friday) are the final two business
+  days before blackout.
+
+  The Fed Board events calendar (federalreserve.gov) was unreachable
+  this run (network proxy block). Based on available search results,
+  no confirmed policy speeches were identified for September 3 or 4.
+  Regional bank event pages also could not be reached.
+
+  UPCOMING: (none confirmed for September 3 — calendar lookup
+  partially unavailable this run; check federalreserve.gov/newsevents
+  directly. With blackout starting September 5, any pre-blackout
+  appearances on September 3–4 would be final pre-meeting communications
+  from all officials.)
+
+  [Note: September 5–17 is full FOMC blackout. September 15–16 FOMC
+  meeting is a projection meeting (SEP + dot plot). Chair Warsh press
+  conference: September 16. Next daily report after September 17
+  will be the canonical FOMC-day report (FOMC_DAY path).]
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Barr, September 1, 2026:
+    https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm
+
+Prior speech (vs. PRIOR SPEECH):
+  Barr, March 26, 2026 ("Brief Remarks on the Economic Outlook and
+    Monetary Policy," Brookings Institution):
+    https://www.federalreserve.gov/newsevents/speech/barr20260326a.htm
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Same as prior speech — March 26, 2026 is the most recent scored
+  economic outlook and also the most recent pre-July-29-FOMC scored
+  baseline. June 6 and July 14 raw files are Type B (no economic
+  outlook sections); their unscored status does not affect the
+  comparison because neither contains policy-relevant content.
+════════════════════════════════════════════════════════════════
