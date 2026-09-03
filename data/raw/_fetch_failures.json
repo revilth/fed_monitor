@@ -6,7 +6,7 @@
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.kansascityfed.org', port=443): Max retries exceeded with url: /speeches (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidd",
     "first_seen": "2026-08-07T20:02:14Z",
-    "last_seen": "2026-09-02T10:41:34Z"
+    "last_seen": "2026-09-03T10:42:05Z"
   },
   {
     "url": "https://www.federalreserve.gov/newsevents/2026-speeches.htm",
@@ -14,8 +14,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /newsevents/2026-speeches.htm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connectio",
-    "first_seen": "2026-09-02T10:40:36Z",
-    "last_seen": "2026-09-02T10:40:36Z"
+    "first_seen": "2026-09-03T10:41:11Z",
+    "last_seen": "2026-09-03T10:41:11Z"
   },
   {
     "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
@@ -23,8 +23,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /monetarypolicy/fomccalendars.htm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel conne",
-    "first_seen": "2026-09-02T10:40:42Z",
-    "last_seen": "2026-09-02T10:40:42Z"
+    "first_seen": "2026-09-03T10:41:15Z",
+    "last_seen": "2026-09-03T10:41:15Z"
   },
   {
     "url": "https://www.federalreserve.gov/newsevents/testimony.htm",
@@ -32,8 +32,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Max retries exceeded with url: /newsevents/testimony.htm (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection fa",
-    "first_seen": "2026-09-02T10:40:47Z",
-    "last_seen": "2026-09-02T10:40:47Z"
+    "first_seen": "2026-09-03T10:41:20Z",
+    "last_seen": "2026-09-03T10:41:20Z"
   },
   {
     "url": "https://www.bostonfed.org/news-and-events/speeches.aspx",
@@ -41,8 +41,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.bostonfed.org', port=443): Max retries exceeded with url: /news-and-events/speeches.aspx (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection fa",
-    "first_seen": "2026-09-02T10:40:52Z",
-    "last_seen": "2026-09-02T10:40:52Z"
+    "first_seen": "2026-09-03T10:41:25Z",
+    "last_seen": "2026-09-03T10:41:25Z"
   },
   {
     "url": "https://www.newyorkfed.org/newsevents/speeches",
@@ -50,8 +50,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.newyorkfed.org', port=443): Max retries exceeded with url: /newsevents/speeches (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403",
-    "first_seen": "2026-09-02T10:40:57Z",
-    "last_seen": "2026-09-02T10:40:57Z"
+    "first_seen": "2026-09-03T10:41:29Z",
+    "last_seen": "2026-09-03T10:41:29Z"
   },
   {
     "url": "https://www.philadelphiafed.org/the-economy/speeches-anna-paulson",
@@ -59,8 +59,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.philadelphiafed.org', port=443): Max retries exceeded with url: /the-economy/speeches-anna-paulson (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel con",
-    "first_seen": "2026-09-02T10:41:02Z",
-    "last_seen": "2026-09-02T10:41:02Z"
+    "first_seen": "2026-09-03T10:41:34Z",
+    "last_seen": "2026-09-03T10:41:34Z"
   },
   {
     "url": "https://www.clevelandfed.org/collections/speeches",
@@ -68,8 +68,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.clevelandfed.org', port=443): Max retries exceeded with url: /collections/speeches (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: ",
-    "first_seen": "2026-09-02T10:41:07Z",
-    "last_seen": "2026-09-02T10:41:07Z"
+    "first_seen": "2026-09-03T10:41:39Z",
+    "last_seen": "2026-09-03T10:41:39Z"
   },
   {
     "url": "https://www.richmondfed.org/press_room/speeches",
@@ -77,8 +77,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.richmondfed.org', port=443): Max retries exceeded with url: /press_room/speeches (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 40",
-    "first_seen": "2026-09-02T10:41:11Z",
-    "last_seen": "2026-09-02T10:41:11Z"
+    "first_seen": "2026-09-03T10:41:43Z",
+    "last_seen": "2026-09-03T10:41:43Z"
   },
   {
     "url": "https://www.atlantafed.org/news-and-events/speeches",
@@ -86,8 +86,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.atlantafed.org', port=443): Max retries exceeded with url: /news-and-events/speeches (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed",
-    "first_seen": "2026-09-02T10:41:16Z",
-    "last_seen": "2026-09-02T10:41:16Z"
+    "first_seen": "2026-09-03T10:41:48Z",
+    "last_seen": "2026-09-03T10:41:48Z"
   },
   {
     "url": "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking",
@@ -95,8 +95,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.chicagofed.org', port=443): Max retries exceeded with url: /utilities/about-us/office-of-the-president/office-of-the-president-speaking (Caused by ProxyError('Unable to c",
-    "first_seen": "2026-09-02T10:41:21Z",
-    "last_seen": "2026-09-02T10:41:21Z"
+    "first_seen": "2026-09-03T10:41:53Z",
+    "last_seen": "2026-09-03T10:41:53Z"
   },
   {
     "url": "https://www.minneapolisfed.org/people/neel-kashkari",
@@ -104,8 +104,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.minneapolisfed.org', port=443): Max retries exceeded with url: /people/neel-kashkari (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed",
-    "first_seen": "2026-09-02T10:41:26Z",
-    "last_seen": "2026-09-02T10:41:26Z"
+    "first_seen": "2026-09-03T10:41:58Z",
+    "last_seen": "2026-09-03T10:41:58Z"
   },
   {
     "url": "https://www.dallasfed.org/news/speeches/logan",
@@ -113,8 +113,8 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.dallasfed.org', port=443): Max retries exceeded with url: /news/speeches/logan (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 ",
-    "first_seen": "2026-09-02T10:41:39Z",
-    "last_seen": "2026-09-02T10:41:39Z"
+    "first_seen": "2026-09-03T10:42:10Z",
+    "last_seen": "2026-09-03T10:42:10Z"
   },
   {
     "url": "https://www.frbsf.org/news-and-media/speeches/mary-c-daly",
@@ -122,7 +122,7 @@
     "kind": "proxy_blocked",
     "status": null,
     "reason": "HTTPSConnectionPool(host='www.frbsf.org', port=443): Max retries exceeded with url: /news-and-media/speeches/mary-c-daly (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection ",
-    "first_seen": "2026-09-02T10:41:44Z",
-    "last_seen": "2026-09-02T10:41:44Z"
+    "first_seen": "2026-09-03T10:42:15Z",
+    "last_seen": "2026-09-03T10:42:15Z"
   }
 ]

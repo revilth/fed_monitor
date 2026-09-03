@@ -1,0 +1,158 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 2, 2026
+Reference FOMC: July 29, 2026  |  Cycle: holding (rising hike risk)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. John C. Williams  |  NY Fed President  |  Troika
+     CNBC "Squawk Box" interview with Steve Liesman
+     CNBC, New York, NY (televised; taped at NY Fed headquarters)
+     [TYPE J — on-record media interview  |  NOT SCORED — transcript unavailable]
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  JOHN C. WILLIAMS  |  NY Fed President  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOT SCORED — TRANSCRIPT UNAVAILABLE
+  Classification: Type J (on-record television interview).
+  The NY Fed site (newyorkfed.org) and CNBC (cnbc.com) were both
+  blocked by the network egress proxy. The official NY Fed speeches
+  page shows no formal speech posted for this date (last formal
+  Williams speech: July 15, 2026 "Stability of Thy Times"). A verbatim
+  Q&A transcript is required for Type J scoring; media paraphrase
+  does not satisfy the provenance standard.
+
+  ACTION ITEM: Recover via local 'python3 main.py refetch' or access
+    https://www.newyorkfed.org/newsevents/speeches/2026 directly to
+    confirm whether the NY Fed published an official transcript for
+    this appearance. If not, attempt to retrieve the full CNBC Squawk
+    Box transcript from:
+    https://www.cnbc.com/video/2026/09/02/new-york-fed-president-john-williams-higher-bond-yields-come-with-a-strong-economy.html
+
+DESCRIPTIVE NOTE (media coverage; not a scored assessment):
+  Williams gave a live CNBC "Squawk Box" interview on the morning of
+  September 2, conducted by Steve Liesman. Four themes emerged from
+  published media coverage (Bloomberg, Reuters, CNBC, FXStreet):
+
+  BOND YIELDS / FINANCIAL CONDITIONS
+    Williams characterized the recent surge in Treasury yields as
+    reflecting a strong economic outlook rather than market dysfunction:
+    "the recent surge in Treasury yields is the product of a strong
+    economy, not market dysfunction." He framed rising yields as an
+    informational signal rather than a policy complication, and
+    separately noted that Treasury debt-management actions "don't
+    complicate my job or our job making monetary policy."
+    [Reported as slightly hawkish framing: higher yields = strong
+    economy = policy stance appropriate. Does NOT echo Warsh's
+    Jackson Hole concern about financial conditions being insufficiently
+    tight — Williams is less alarmed by financial conditions.]
+
+  INFLATION
+    Williams struck a more optimistic tone on inflation than most
+    of his recent peers: "I am actually seeing the trend in inflation
+    moving slowly down as some of the effects of the tariffs move
+    into the rearview mirror." He added that energy prices are not
+    spreading into other services sectors and that inflation
+    expectations "remain well anchored."
+    [Notable contrast: Warsh (Aug 28), Barr (Sep 1), and the July 29
+    minutes all emphasize upside inflation risk and the risk of
+    de-anchoring. Williams is expressing greater confidence in
+    disinflation. This is a Troika-level signal with potential cycle
+    significance if it represents a genuine majority-bloc view distinct
+    from the hawkish dissenters.]
+
+  MONETARY POLICY / SEPTEMBER MEETING
+    On the September rate decision, Williams declined to pre-commit:
+    "we have to wait and see." He acknowledged policy uncertainty:
+    "There's no clear science that says monetary policy is currently in
+    the right position to accomplish the Fed's objectives and lower
+    inflation to target in the next year or so." When asked about a
+    rate hike, he said the decision "will depend on the data and depend
+    on some of the risks to achieve our goals."
+    [Data-dependent framing. He did not signal a September hike,
+    distinguishing himself from Barr's conditional hike scenario
+    (September 1) and the Hammack/Kashkari/Logan base-case hike
+    positions. Within the Troika, Williams is signaling patience rather
+    than conditionality — a potential moderating signal within the
+    current hawkish cycle if confirmed by the official transcript.]
+
+  CANDIDATE SIGNAL (pending transcript confirmation):
+    IF these reported quotes are confirmed verbatim, Williams's
+    September 2 interview represents the most dovish Troika communication
+    since Jackson Hole. His inflation optimism and data-dependent
+    (rather than conditionally hawkish) framing contrasts with both
+    Barr's explicit hike conditionality (Sep 1) and the dissenting bloc's
+    base-case hike positions. This gap — between majority Troika patience
+    and the growing conditional-hike bloc — is a key variable heading
+    into the September 15–16 meeting. SCORE WHEN TRANSCRIPT AVAILABLE.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday, September 4, 2026
+────────────────────────────────────────────────────────────────
+  ⚠ FINAL PRE-BLACKOUT DAY: FOMC blackout begins Saturday,
+  September 5, 2026 (for the September 15–16 FOMC — a PROJECTION
+  MEETING with SEP + dot plot). September 4 (Friday) is the
+  last calendar day any FOMC member may speak publicly before
+  the 13-day blackout silence.
+
+  The Fed Board events calendar (federalreserve.gov) and all
+  regional bank speech pages were unreachable this run (network
+  proxy block). No confirmed speeches were identified for
+  September 4 via web search.
+
+  UPCOMING: (none confirmed — calendar lookup unavailable;
+  check federalreserve.gov/newsevents directly for any late-added
+  appearances.)
+
+  WATCH LIST FOR SEPTEMBER 4: Officials most likely to communicate
+  in the final pre-blackout window, given their September cycle
+  activity and analytical priority:
+    • Warsh (Chair, Troika) — hawkish Jackson Hole framing; any
+      September 4 remarks would be final pre-meeting guidance
+    • Jefferson (Vice Chair, Troika) — silent since July 15 Humphrey-
+      Hawkins; a final statement before blackout would be notable
+    • Waller (Governor, Just Voter) — conditionally hawkish since
+      July 13; most likely to update August inflation read
+    • Cook (Governor, Just Voter) — most recent speech August 5
+      (Anchorage, first post-July-29 majority signal; hawkish lean)
+    • Paulson (Philadelphia, Just Voter / median voter) — last known
+      economic outlook speech predates July 29; unresolved
+
+  DATA CONTEXT FOR SEPTEMBER MEETING:
+    August CPI releases ~September 10 (inside blackout) — key data
+    point for the final September 15–16 vote. July 29 minutes
+    (released August 19): "many participants assessed that policy
+    tightening would likely be necessary if inflation did not decline."
+    Current baseline: majority HOLD with hike optionality; dissenting
+    bloc (Hammack, Kashkari, Logan) at base-case +25bp.
+
+  [Blackout period: September 5–17, 2026. September 15–16 FOMC is
+  a projection meeting (SEP + dot plot; Chair Warsh press conference
+  September 16). Next daily report after September 17 is the canonical
+  FOMC-day finalizer (FOMC_DAY path).]
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Appearances this date:
+  Williams, September 2, 2026 (CNBC Squawk Box interview):
+    Video: https://www.cnbc.com/video/2026/09/02/new-york-fed-president-john-williams-higher-bond-yields-come-with-a-strong-economy.html
+    CNBC article: https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html
+    Bloomberg: https://www.bloomberg.com/news/articles/2026-09-02/fed-s-williams-says-inflation-continuing-to-trending-down
+    Note: transcript NOT available this run; above are media coverage
+    URLs only. Official NY Fed speech page for 2026 speeches:
+    https://www.newyorkfed.org/newsevents/speeches/2026
+
+Prior scored context (comparison baseline for when transcript available):
+  Williams, July 15, 2026 ("Stability of Thy Times," Partnership for
+    New York City):
+    https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
+  Williams, June 25, 2026 ("The Strategy and the Goals," Crane's Money
+    Fund Symposium):
+    https://tellerwindow.newyorkfed.org/2026/06/25/the-strategy-and-the-goals/
+
+FOMC context:
+  July 29, 2026 statement: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+  July 29, 2026 FOMC minutes (released August 19):
+    https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+════════════════════════════════════════════════════════════════
