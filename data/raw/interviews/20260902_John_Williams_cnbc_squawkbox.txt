@@ -1,0 +1,63 @@
+SOURCE: https://www.cnbc.com/video/2026/09/02/new-york-fed-president-john-williams-higher-bond-yields-come-with-a-strong-economy.html
+TYPE: J (on-record interview)
+PROVENANCE: first-party interview; no official transcript published
+INTERVIEWER: Steve Liesman, CNBC "Squawk Box"
+BROADCAST: September 2, 2026, morning. Segment runtime 6:17.
+
+OFFICIAL-SOURCE CHECK — COMPLETED AND NEGATIVE. The New York Fed speeches
+index (https://www.newyorkfed.org/newsevents/speeches) was retrieved at source
+on 2026-09-03, HTTP 200. Williams's most recent posted item remains
+"Stability of Thy Times" (wil260715, July 15, 2026). No transcript exists for
+this appearance on any Fed site. The Type J precondition is VERIFIED, not
+merely asserted.
+
+TRANSCRIPT PROVENANCE: CNBC's own broadcast closed-caption track for the clip
+(WebVTT, retrieved from CNBC's Akamai CDN). These are the network's captions,
+NOT a third-party ASR pass and NOT a news summary. Two normalizations were
+applied and nothing else: (1) roll-up caption cues were de-duplicated to
+reconstruct the continuous stream; (2) broadcast ALL-CAPS was converted to
+sentence case for readability. No words were added, removed or reordered.
+Broadcast captions can drop or garble occasional words; verify against the
+video before external quotation.
+
+SCOPE CAVEAT — PARTIAL. This is the segment CNBC published, and it is complete
+as published, but it ENDS MID-SENTENCE at 6:17 ("...so that's, that's going").
+The on-air interview evidently continued past the posted clip. A search of
+CNBC's video index for 2026-09-02 and of the accompanying article found no
+second Williams segment. Anything Williams said after the 6:17 mark is NOT in
+this file and is not scored. Treat topic coverage as truncated as well as
+interviewer-driven.
+
+SPEAKER TAGS: the caption stream marks speaker changes with '>>' but does not
+name speakers. Q:/A: alternation below is inferred from those markers and from
+content. The first turn is the anchor's lead-in before Williams joins.
+
+=== TRANSCRIPT ===
+
+Q: The way. Leisure hospitality in the second position there 16,000. Construction okay professional business services down 16,000. And manufacturing taking a big hit. We'll have to look into that a little bit more. Joining me now New York Fed president John williams. John thanks for joining us.
+
+A: Well thanks for being here. The New York fed.
+
+Q: Always love it. The big story I think this morning and as the past couple of days has been the rise in bond yields. Does that create a headwind for the economy.
+
+A: Well you with anything with financial prices or financial market developments you have to think about what's driving it. And I think what's driving it in large part is higher yields is really a strong U.S. Economy and a strong economic outlook fueled by big investments in AI and data centers and and technology in general. So I see this as more of a reflection of the strength of the economy. We're not seeing it in terms of inflation compensation. We're seeing it mostly in real rates. So I think much of this is really about with a strong economy, you expect, you know, the cost of funding, this investment tends to go up. And so I see that mostly through that light. So with the strong. So I think it's not really about financial conditions affecting the economy. It's more about the economy affecting financial conditions.
+
+Q: Interesting. At the same time, it does look like bond yields are very sensitive to oil prices, even though I acknowledge that it's not showing up in the chip spreads in the inflation component, doesn't it seem like there is an inflation component in those bond yields?
+
+A: Well, you know, it's always hard to know. But I agree that there's this correlation between the oil prices and developments in related to the conflict in the Middle East and and bond yields. I think some of that's probably in the term premium or the risk premium there, because there is a lot of uncertainty about the future evolution of oil prices, commodity prices. That's probably affecting the risk premium return premium there.
+
+Q: Is there a message from the market to the Fed about where interest rates should be set? When you look at these bond yields.
+
+A: You know, it's obviously, as I said, important information to understand financial conditions. Also how market participants are viewing the outlook for the economy. That's true of the equity markets and other markets as well. But at the end of the day, you know, we just got to get together, think focus on our two goals of maximum employment and price stability and say, what's the Fed funds rate that would best achieve those goals over the, you know, over the future? So really, those are inputs into my thinking. Obviously, we study them very carefully. But at the end of the day, we look at the totality of the data, what it means for the economic outlook, the risks to achieving our goals and come to our best judgment about what policy needs to be.
+
+Q: When the market rises like this. Obviously, there's some headwind aspect to it in terms of restraining borrowing activity. When rates get so high, does the Fed have to act or can the market do the work for the Fed?
+
+A: Well, okay. So I think in the end of the day, it's our job to ensure that we ensure price stability. And most importantly right now is to get inflation back to 2% on a sustained basis. That's job number one. So that's our job. And you know, nobody else can do that for us. That's that's something that we'll have to do through our the decisions we make over the next few years in terms of, you know, the market clearly, you know, if you think about longer term yields, this is affecting the cost of funding, affects mortgage rates, affects other, longer term interest rates. It affects different sectors. I think, again, a lot of this is being driven by very strong demand for investment that is pushing yields up. And that is affecting of course sectors that are interest sensitive in more negative ways. So some crowding out there. But again that's you know I see it mostly coming from the investment, you know, surge if you will.
+
+Q: You talk about price stability. What's your view on inflation right now. It obviously is elevated. But when you look beneath the hood, so to speak, do you see more widespread inflation that's not just linked to, for example, higher oil prices or tariffs.
+
+A: So I do think that the tariffs and the effects of the conflict in the Middle East in terms of energy prices and and of course, that spills over into core inflation through airfares and things like that. In broader commodity prices are the biggest drivers of inflation. That's driving inflation above our 2% longer run goal. Core inflation today is running around 3.3%. A big chunk of that, you know, inflation above 2% is from the effects of the higher energy prices and tariffs. There's there's still some effects of higher some effects of higher service inflation too. But so when I think about inflation today, it is important to like disaggregate the data, look at the different pieces and think through that. I'm I see the tariff the tariffs. I so far, the data is that we're not seeing kind of second round effects or broadening of the tariffs. We're not seeing unusual broadening of the effects of higher energy prices. So and we're seeing well-anchored inflation expectations and and pretty contained compensation growth. So I am actually, you know, seeing inflation, the trend in inflation moving slowly down as some of the effects of the tariffs can move into the rear view mirror. But we've got to be data dependent. Got to keep watching that data.
+
+Q: At this level of inflation. And given your forecast is it something the Fed needs to address.
+
+A: Well I think it's going to depend on the data and depend on some of the risks to achieving our goals. You know, my view is that we just have to keep watching, you know, how the effects of the tariffs and the other, you know, energy prices and other other factors, including the AI investment, which is showing up in some of the inflation data to in terms of semiconductor prices and software prices and things like that. Just, you know, carefully analyze that. I think, you know, I obviously supported our decision not to raise rates in the last meeting. I think, you know, at that time, it was let's get some more data. The labor market is solid. It's stable. So that's a very good. And really just analyze that incoming data and make sure that we're on a path that will bring inflation back down to 2% on a sustained basis over the next year or two. Now, I do think that, you know, it's important not only that we are on that path, but we are on that path to to do that, you know, in, in the foreseeable future. So that's, that's going

@@ -1,0 +1,338 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+September 3, 2026 | Christopher J. Waller | Governor | Just Voter
+"The Economic Outlook and Some Comments on My Policy Communication"
+Reuters NEXT Newsmaker Interview, Washington, D.C. (prepared remarks
+delivered before a moderated Q&A with Howard Schneider)
+SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
+
+CLASSIFICATION: Type A — Economic Outlook. Growth / Labor Market / Inflation /
+  Monetary Policy in order, followed by a section on policy communication
+  (scored under MONETARY POLICY). Prepared remarks only: the Board posted the
+  text; the Reuters Q&A that followed is not published and is NOT SCORED.
+  Delivered the day before the August employment report and two days before
+  blackout.
+
+REFERENCE FOMC:    July 29, 2026  (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari,
+                   Logan dissented preferring +25bp; statement substantive
+                   text frozen vs. June 17; no forward guidance)
+PRE-FOMC BASELINE: July 13, 2026  "Monetary Policy at a Crossroads" (NYABE) —
+                   data/scored/speeches/20260713_Christopher_J__Waller_scored.txt
+POST-FOMC PRIOR:   N/A — first Waller communication since July 13 (52 days).
+                   July 13 is both comparators. (July 6, "Two Thoughts on the
+                   Transmission of Monetary Policy," is Type B with no outlook
+                   and is used only for the forward-guidance comparison.)
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace despite elevated uncertainty
+   ... Productivity growth and capital investment are strong." [Jul 29 stmt]
+  → Waller: "Despite the uncertainties I mentioned, most of which weigh on
+    economic activity, growth in real gross domestic product (GDP) is
+    continuing at a solid pace." "business investment has been strong
+    throughout."
+
+Own language:
+  "Real GDP grew at a 1.8 percent annual rate in the first half of this year."
+  "real private domestic final purchases, the measure of spending that best
+   reflects the underlying strength of consumer demand, rose a strong 3 percent
+   in the first half of 2026."
+  "I expect real GDP to grow a bit more than 2 percent this year, a respectable
+   outcome considering the uncertainties I mentioned."
+  July retail sales: "weak. But this decrease reflected the fact that Amazon's
+   Prime Day promotion was held in June, dragging down seasonally adjusted
+   sales in July. Outside of 'non-store' sales, retail spending grew."
+  Wealth effect: "Given the rise in wealth from the increase in equity prices
+   this year, I believe this should sustain consumption growth."
+  AI investment — refuses the compositional discount: "Some would argue that
+   this investment in a narrow sector that tends to be capital intensive,
+   rather than labor intensive, is misleadingly propping up GDP and should in
+   some sense be discounted. I don't agree. AI investment is a legitimate part
+   of GDP today."
+  → The compositional concern he rejects is the one Cook and Daly have raised;
+    he takes a side.
+
+Shift vs. prior speech (Jul 13):  UNCHANGED — July 13: "Economic activity
+  continues to be solid," PDFP "likely rose strongly," "the real side of the
+  economy is in good shape." Same read, now with a full-year forecast and the
+  AI-not-discounted argument attached.
+Shift vs. pre-FOMC (Jul 13):      Same comparison — unchanged.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Jul 29 stmt]
+  → Waller: "Job creation, though a bit volatile, has increased this year by
+    an average of 60,000 a month through July. That is close to and probably a
+    bit above estimates of what it takes to keep pace with the slow growth in
+    the labor force—mostly because of much lower net immigration."
+  → The statement's "kept pace" is rendered with the mechanism (low labor
+    supply growth from lower immigration).
+
+Own verdict:
+  "the labor market, it is also in satisfactory shape."
+  "While there were indications in the second half of 2025 of easing labor
+   demand, relative to supply, those signs evaporated."
+  "the unemployment rate has fallen a bit to 4.1 percent in July, a
+   historically low rate and slightly below the median of FOMC participants'
+   long-run or equilibrium rate. Layoffs and initial claims for unemployment
+   insurance are likewise low."
+  "As of today, the labor market is stable, with employment near its maximum
+   sustainable level."
+
+Own qualifier / addition:
+  "With economic activity and the labor market in good shape, they are not a
+   large factor in my determination of the appropriate setting of monetary
+   policy. But they are an important backdrop for the part of the outlook that
+   is my focus right now, inflation."
+  "I expect more of the same tomorrow when we get the August employment
+   report."
+  → Labor is removed from his decision. The −23K July print is absorbed into
+    the "60,000 a month through July" average without being named. Third
+    official in a week to supply a mechanism for reading low payroll gains as
+    non-signal (Schmid Aug 27: retirements; Warsh Aug 28: "when labor supply
+    is barely growing"; Waller: lower net immigration).
+
+Shift vs. prior speech (Jul 13):  UNCHANGED — July 13: "employment is close
+  to its maximum sustainable level, neither a source of concern for the
+  strength of the six-year economic expansion nor a source of inflationary
+  pressure"; "Unless I see evidence of a significantly weakening labor market,
+  my focus will be on inflation." Same verdict and same gatekeeper. New
+  detail: unemployment "slightly below" the long-run median; "those signs
+  evaporated" on 2025's easing.
+Shift vs. pre-FOMC (Jul 13):      Same comparison — unchanged.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy." [Jul 29 stmt]
+  → Waller: "Inflation is elevated significantly above the FOMC's 2 percent
+    goal and has exceeded that target for five and a half years."
+  → On the supply shocks he concedes the level and denies the ongoing force:
+    "I don't see elevated energy prices and tariffs now as a significant
+    source of ongoing inflation pressure. The evidence is that the price
+    effects of tariffs have largely passed through inflation, and my earlier
+    worry that higher energy prices would bleed into many goods and services
+    prices hasn't come to pass, at least so far."
+    (Williams, Sep 2, keeps the shocks as "the biggest drivers"; Waller says
+    they are spent. Both readings are dovish in effect.)
+
+Own language — KEY:
+  "while inflation remains meaningfully above the Federal Open Market
+   Committee's (FOMC) 2 percent goal, recent data suggest we are finally seeing
+   some signs of disinflation."
+  Levels: "PCE prices are up 3.7 percent in the past 12 months, and core PCE
+   inflation is 3.3 percent ... they are not the best guide for where
+   inflation is today."
+  The measure he uses: "Three-month core inflation is 3.05 percent for the
+   three months through July, a level that is still not consistent with the
+   FOMC's 2 percent goal. Nevertheless, it is important to note the trend.
+   Three-month inflation has fallen steadily from 4.76 percent in February.
+   That is a considerable improvement, and the speed of this downward
+   trajectory is encouraging."
+  → A momentum test. Warsh's Aug 28 standard asks whether underlying inflation
+    is moving to target "clearly and at sufficient speed" and answers no on a
+    breadth measure; Waller answers the speed question yes on a three-month
+    core measure. Same question, different measure, opposite verdict.
+
+Own language — the nonmarket-services adjustment (new):
+  "what caught my eye in the last PCE report is that nonmarket services prices
+   accounted for approximately half of the increase in core prices. As you are
+   probably aware, I don't like throwing out specific categories going into
+   the estimate of PCE inflation, but nonmarket services prices have always
+   been an issue for me, since they are imputed and not actual price changes.
+   So, ignoring this one factor, my take is that underlying inflation is doing
+   better than the core numbers suggest."
+  "a pending change in the way the Commerce Department estimates the fees paid
+   to stock market traders and related professionals ... could lower 12-month
+   PCE inflation by a few tenths of a percentage point ... this is a welcome
+   measurement correction."
+  → A statistical revision, not an economic change, that he expects "shortly."
+    Note the contrast with Warsh, who counts all 199 components.
+
+Upside risks — named:
+  "Energy prices have moved up again and remain significantly higher than they
+   were at the beginning of 2026, and the economy faces both pressure on
+   technology goods prices related to the AI buildout and the possibility of
+   more tariff increases."
+  Wages: "wage growth, once one accounts for productivity growth, is broadly
+   consistent with an expectation that inflation is continuing to come down to
+   2 percent."
+  Expectations: "we haven't seen a significant increase in longer-term
+   inflation expectations, but it must be acknowledged as a risk—one that the
+   FOMC should be prepared to act on if longer-term expectations rise and
+   progress on inflation reverses."
+
+Not repeated from July 13: the breadth statistic ("nearly 70 percent of
+  [core services] categories have 3-month and 12-month inflation over 3
+  percent") and the characterization of core as on an "upward trajectory."
+
+Shift vs. prior speech (Jul 13):  DOVISH — July 13: core "has steadily moved
+  up ... from 3 percent in December 2025 to 3.4 percent in May," with an
+  "equally plausible" case that inflation "will remain at its elevated level
+  or even trend higher." September 3: "signs of disinflation," three-month
+  core 4.76% → 3.05%, tariff pass-through "largely" done, energy bleed
+  "hasn't come to pass." The AI goods channel (Jul 13) is retained as an
+  upside risk; the breadth measure is dropped.
+Shift vs. pre-FOMC (Jul 13):      Same comparison — dovish.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee decided to maintain the target range ..." [Jul 29 stmt]
+  → Waller: "I was comfortable supporting the FOMC's decision in late July to
+    hold rates steady because the data at that time led me to view the real
+    side of the economy as solid and we finally saw hints that disinflation
+    may be starting. So I was willing to be patient and see if the
+    disinflation would continue."
+  The statement carries no guidance; Waller supplies his own conditional.
+
+Own language — KEY (explicit, named two-branch conditional, stated twice):
+  Opening: "If this continues in the data due over the next two weeks, I would
+   be inclined to support holding the target for the federal funds rate at its
+   current setting ... If the incoming data for August show this improvement
+   has been fleeting, then it may be appropriate to raise the policy rate when
+   the FOMC meets on September 15 and 16."
+  Closing: "my decision on the appropriate stance of policy will be heavily
+   influenced by what we learn about August inflation. If there is continued
+   progress toward our 2 percent goal, then I am willing to support holding
+   the policy rate at its current level. But if inflation comes in hot, I
+   would consider a rate hike."
+  → Scenario framing is EXPLICIT AND NAMED, with a dated trigger (the August
+    inflation data) and a named meeting. He says so himself: "I have outlined
+    what it would take for me to support a continued pause as well as what
+    would cause me to support tighter policy." "Hot" is not quantified.
+
+Own language — restrictiveness and sensitivity:
+  "I judge that policy is currently only slightly restricting aggregate demand,
+   and it may not take much acceleration in inflation to nudge me into
+   supporting tighter policy. If there is evidence that progress toward 2
+   percent inflation reversed in August, a small adjustment in our stance
+   would help ensure that it resumes."
+  → First stance characterization since May 22 ("still at a restrictive
+    setting"; July 13 had none). "Only slightly restricting" sits with the
+    "mildly restrictive" group (Paulson, Collins, Daly; Cook in Q&A) rather
+    than with Warsh's "hard pressed to describe ... as restrictive" or the
+    dissenters' "not appropriately restrictive." He draws a different
+    operational conclusion from it than that group: because the margin is
+    thin, a small inflation surprise moves him. "A small adjustment" — one
+    move, not a series.
+
+Own language — policy communication (the second half of the speech):
+  Three types: (1) explaining the current position; (2) the reaction function
+  — "IF the data comes in a particular way, THEN I will advocate for policy to
+  be set a particular way ... it is not a commitment to a policy action—it is
+  a conditional policy statement"; (3) forward guidance — "a path for the
+  policy rate that is essentially independent of incoming data ... most
+  warranted when the policy rate is at the effective lower bound."
+  "I agree with Chairman Warsh that forward guidance isn't appropriate now or
+   in many other situations. But when it is truly needed, I believe it should
+   be used."
+  "Now, is that reaction function perfect? No ... I do not let perfection
+   become the enemy of the good."
+  "I view myself as a home plate umpire in baseball ... Both want to play the
+   ball, but they cannot do that until they know the umpire's strike zone. The
+   strike zone is the umpire's reaction function."
+  → Against Warsh Aug 28: Warsh rejected forward guidance AND an explicit
+    reaction function ("our knowledge just doesn't extend that far ... works
+    better in theory than in practice"). Waller accepts the first and defends
+    the second, using Warsh's own idiom ("play the ball, not the referee,"
+    Jul 29; "play the ball, don't play the Fed," Jul 15) to argue that
+    playing the ball requires knowing the referee's rule. On forward guidance
+    itself his position is unchanged from July 6 ("in some cases, it's best
+    not to use it at all"); the explicit alignment with the Chair is new.
+  Historical example: September 2021 guidance moved the two-year yield 200bp
+  by March 2022 before any rate move — "forward guidance helped tighten
+  economic conditions long before we actually raised the policy rate."
+
+Cut signal status:  ABSENT (third consecutive outlook speech).
+Hike signal status: PRESENT as a conditional branch; no longer the near-term
+  consideration it was on July 13. Trigger: the August inflation print.
+
+Shift vs. prior speech (Jul 13):  DOVISH on the base case — July 13's hold
+  branch required "several months of lower readings"; the hike branch was
+  "If we get another hot reading on core inflation this week, then the FOMC
+  will need to consider tightening monetary policy in the near term." The
+  readings since were not hot, and hold is now his stated inclination.
+  UNCHANGED-TO-TIGHTER on trigger sensitivity ("it may not take much"). New:
+  the "only slightly restricting" characterization. Not repeated: July 13's
+  "avoid overtightening ... and risking a recession" / "fighting the last
+  war" guardrails — replaced by sizing ("a small adjustment").
+Shift vs. pre-FOMC (Jul 13):      Same comparison.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH LEAN (vs. July 13), with a live, dated hike branch
+               The Committee's most explicit hike conditional has resolved
+               to a hold base case: the July 13 trigger (a hot core reading)
+               did not fire, and Waller now reports "signs of disinflation,"
+               three-month core falling from 4.76% to 3.05%, tariff effects
+               "largely passed through," and imputed nonmarket services
+               flattering core. Growth and labor are unchanged and explicitly
+               excluded from his decision. What keeps the read from being
+               plainly dovish: "only slightly restricting aggregate demand,"
+               "it may not take much acceleration in inflation," and a named
+               hike branch for September 15–16 keyed to the August print.
+
+               Position relative to the Committee: on the inflation trend he
+               is with Williams (Sep 2), by a momentum test rather than an
+               attribution test, and against Warsh's breadth verdict. On the
+               stance he is in the "mildly restrictive" group, not the
+               not-restrictive group. On labor he is with Warsh and Schmid
+               in pre-discounting weak payrolls. On AI he rejects the
+               compositional discount Cook and Daly apply. On communication
+               he is the first official to align with the Chair on forward
+               guidance while defending reaction functions against him.
+
+Language watch:
+  • "only slightly restricting aggregate demand" — stance characterization
+    from a voting Governor. Stage: COMMITTEE-WIDE among the hold majority
+    ("mildly restrictive": Paulson, Collins, Daly; Cook Q&A); the Chair and
+    the dissenters are outside it.
+  • "it may not take much acceleration in inflation to nudge me into
+    supporting tighter policy" — thin-margin trigger. Stage: DISPERSED (first
+    use).
+  • Three-month core 4.76% → 3.05%, "the speed of this downward trajectory is
+    encouraging" — the momentum answer to Warsh's "at sufficient speed."
+    Stage: DISPERSED. A second official citing the three-month series would
+    put the momentum measure in open competition with breadth.
+  • Nonmarket / imputed services exclusion and the pending Commerce revision
+    ("a few tenths") — Stage: DISPERSED (first use). A checkable, near-dated
+    item.
+  • "The strike zone is the umpire's reaction function" / "I do not let
+    perfection become the enemy of the good" — Stage: DISPERSED (first use);
+    the counter-idiom to Warsh's "play the ball, not the referee."
+  • "signs of disinflation" — Stage: EMERGING (Williams Sep 2 "trend ...
+    moving slowly down"; minutes "most participants anticipated that
+    inflation would step down").
+
+Analyst flag:  YES
+  → (1) One voter's September position is now a published function of the
+    August inflation print: continued progress → hold; "hot" → he would
+    consider a hike. "Hot" is not numbered; with three-month core at 3.05%
+    and falling, the bar for "fleeting" looks high, but it is his bar.
+  → (2) Three definitions of "underlying inflation" in six days — Warsh
+    (breadth), Williams (attribution), Waller (momentum) — with opposite
+    verdicts. Definitional, not empirical; watch which one the September
+    statement and SEP discussion adopt.
+  → (3) The Commerce measurement change: a revision to nonmarket services
+    that could cut 12-month PCE by "a few tenths," expected "shortly." If it
+    lands around the meeting it improves the hold case with no change in
+    conditions. Verify the timing.
+  → (4) The Prime Day explanation for weak July retail sales is checkable
+    against the seasonal adjustment; if right, one of the few soft demand
+    prints in the cycle disappears.
+  → (5) The Reuters Q&A is not published. Given the prepared text carries
+    both the conditional and the disagreement with the Chair, recover a
+    transcript if one appears.
+══════════════════════════════════════════════════════════

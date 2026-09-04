@@ -1,0 +1,192 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 3, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (hike risk two-sided)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "The Economic Outlook and Some Comments on My Policy Communication"
+     —  Type A (economic outlook)
+     Reuters NEXT Newsmaker Interview, Washington, D.C., 8:30am ET
+     First Waller communication since July 13. Prepared remarks scored; the
+     moderated Reuters Q&A that followed is not published — NOT SCORED
+     (action: recover a transcript if one appears).
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  CHRISTOPHER J. WALLER  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Solid pace" (statement language). Real GDP 1.8% annualized in H1; real PDFP
+  "a strong 3 percent"; full-year "a bit more than 2 percent." Weak July retail
+  sales attributed to Amazon Prime Day moving to June — "Outside of 'non-store'
+  sales, retail spending grew." He rejects the AI-composition discount that
+  Cook and Daly have raised: "Some would argue that this investment ... is
+  misleadingly propping up GDP and should in some sense be discounted. I don't
+  agree." Unchanged from July 13; no easing case from growth.
+  Direction: neutral
+
+LABOR MARKET
+  "Satisfactory shape." Job creation averaging 60,000/month through July,
+  "close to and probably a bit above" breakeven "mostly because of much lower
+  net immigration"; unemployment 4.1%, "slightly below the median of FOMC
+  participants' long-run or equilibrium rate"; 2025's signs of easing demand
+  "evaporated"; "employment near its maximum sustainable level." The −23K July
+  print is absorbed into the average without being named. Then the gatekeeper:
+  "they are not a large factor in my determination of the appropriate setting
+  of monetary policy." Third official in a week (Schmid, Warsh, Waller) to
+  supply a mechanism for reading low payroll gains as non-signal, the day
+  before the August report: "I expect more of the same tomorrow."
+  Direction: neutral, unchanged — and explicitly excluded from his decision
+
+INFLATION
+  "Elevated significantly above" target, "five and a half years" — then the
+  turn: "recent data suggest we are finally seeing some signs of
+  disinflation." The supply shocks are conceded as the source of the level and
+  denied as ongoing pressure: tariffs "have largely passed through," the
+  energy bleed "hasn't come to pass." Twelve-month PCE 3.7% / core 3.3% "are
+  not the best guide for where inflation is today"; his measure is momentum:
+  "Three-month core inflation is 3.05 percent ... has fallen steadily from
+  4.76 percent in February ... the speed of this downward trajectory is
+  encouraging" — the momentum answer to Warsh's "at sufficient speed"
+  standard, reaching the opposite verdict. New: nonmarket (imputed) services
+  were "approximately half of the increase in core prices" — "ignoring this
+  one factor, my take is that underlying inflation is doing better than the
+  core numbers suggest" — and a pending Commerce Department revision "could
+  lower 12-month PCE inflation by a few tenths." Upside risks named (energy
+  up again, AI-related tech goods prices, more tariffs); wages consistent with
+  2% after productivity; expectations a risk "the FOMC should be prepared to
+  act on." July 13's breadth statistic and "upward trajectory" are gone.
+  Direction: dovish
+
+MONETARY POLICY
+  Explicit, named, dated two-branch conditional: "If this continues in the
+  data due over the next two weeks, I would be inclined to support holding
+  ... If the incoming data for August show this improvement has been
+  fleeting, then it may be appropriate to raise the policy rate when the FOMC
+  meets on September 15 and 16." Restated at the close: "if inflation comes in
+  hot, I would consider a rate hike." Stance: "I judge that policy is
+  currently only slightly restricting aggregate demand, and it may not take
+  much acceleration in inflation to nudge me into supporting tighter policy
+  ... a small adjustment in our stance would help ensure that it resumes."
+  "Only slightly restricting" places him with the "mildly restrictive" hold
+  majority, not with Warsh's "hard pressed to describe ... as restrictive" —
+  but with a thinner margin and a hair trigger. Cut signal: absent. Hike
+  signal: present as a branch, no longer the near-term consideration of July
+  13.
+  On communication: three types — explaining the current position; the
+  reaction function ("not a commitment to a policy action—it is a conditional
+  policy statement"); forward guidance (data-independent path, for the lower
+  bound). "I agree with Chairman Warsh that forward guidance isn't appropriate
+  now or in many other situations. But when it is truly needed, I believe it
+  should be used." He defends the reaction function Warsh declined at Jackson
+  Hole ("our knowledge just doesn't extend that far"): "I do not let
+  perfection become the enemy of the good," and inverts the Chair's idiom —
+  "Both want to play the ball, but they cannot do that until they know the
+  umpire's strike zone. The strike zone is the umpire's reaction function."
+  Direction: dovish lean on the base case; hike branch live
+
+NET SIGNAL: DOVISH LEAN vs. July 13 — the Committee's most explicit hike
+  conditional resolved to a hold base case after the trigger did not fire;
+  held short of plainly dovish by "only slightly restricting," "may not take
+  much," and a named September hike branch keyed to the August print.
+
+vs. PRIOR SPEECH (Jul 13):              DOVISH on the base case — "several
+  months of lower readings" → hold is now the inclination; "hot reading →
+  FOMC will need to consider tightening in the near term" → hike only if
+  August is "fleeting." Growth and labor unchanged. New stance descriptor.
+  July 13's anti-overtightening guardrails not repeated.
+vs. PRE-FOMC SPEECH (Jul 13):           Same document — July 13 is both
+  comparators (no intervening communication).
+vs. COMMITTEE SINCE FOMC:              On the trend, with Williams (Sep 2) by
+  a different test and against Warsh's breadth verdict. On the stance, with
+  Paulson, Collins and Daly ("mildly restrictive"), not with Warsh, Schmid or
+  the dissenters. On labor, with Warsh and Schmid in pre-discounting weak
+  payrolls. On communication, the first official to align with the Chair on
+  forward guidance while defending reaction functions against him.
+
+LANGUAGE TO WATCH:
+  • "only slightly restricting aggregate demand" — COMMITTEE-WIDE among the
+    hold majority; the Chair and dissenters outside it.
+  • "it may not take much acceleration in inflation" — thin-margin trigger.
+    DISPERSED (first use).
+  • Three-month core 4.76% → 3.05%, "speed of this downward trajectory is
+    encouraging" — momentum vs. Warsh's breadth. DISPERSED.
+  • Nonmarket/imputed services exclusion; Commerce revision "a few tenths" —
+    DISPERSED (first use); checkable and near-dated.
+  • "signs of disinflation" — EMERGING (Williams Sep 2; minutes "most
+    participants anticipated that inflation would step down").
+  • "The strike zone is the umpire's reaction function" — the counter-idiom
+    to "play the ball, not the referee." DISPERSED.
+
+ANALYST FLAG: YES
+  → (1) One voter's September vote is now a published function of one data
+    point (August inflation). "Hot" is not numbered.
+  → (2) Three definitions of "underlying inflation" in six days (see cross-
+    speaker note). Which one governs the September statement's inflation
+    sentence and the SEP discussion is the highest-value thing to watch.
+  → (3) The Commerce nonmarket-services revision — verify timing; if it lands
+    around the meeting it flatters the hold case with no change in conditions.
+  → (4) Q&A unpublished; recover if a transcript appears.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — three measures of "underlying inflation," six days
+────────────────────────────────────────────────────────────────
+  WARSH (Aug 28)   BREADTH — share of the 199 PCE components rising above 3%:
+                   54% (12m), 49% (6m), vs. 32% pre-pandemic.
+                   Verdict: summer prints "do not tell me that underlying
+                   trends have meaningfully improved."
+  WILLIAMS (Sep 2) ATTRIBUTION — are tariff and energy effects producing
+                   second-round or broadening effects? No.
+                   Verdict: "the trend in inflation moving slowly down."
+  WALLER (Sep 3)   MOMENTUM — three-month annualized core, 4.76% (Feb) →
+                   3.05% (Jul), setting aside imputed nonmarket services.
+                   Verdict: "the speed of this downward trajectory is
+                   encouraging."
+  Breadth is slow-moving and resistant to one soft print; momentum and
+  attribution respond quickly. The August CPI/PCE will be read differently
+  under each. Restrictiveness ladder as it now stands:
+    not restrictive             — Warsh, Schmid, Hammack, Kashkari, Logan
+    only slightly restricting   — Waller
+    mildly restrictive          — Paulson, Collins, Daly (Cook in Q&A)
+    yields reflect the economy  — Williams (question reframed)
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Monday Sep 7 – Friday Sep 11
+────────────────────────────────────────────────────────────────
+  Entire window is inside the FOMC blackout (Sat Sep 5 – Thu Sep 17). No
+  policy speeches will occur. Mon Sep 7 is Labor Day (federal holiday).
+  The August CPI lands inside the blackout, before the meeting — decisive for
+  Waller's stated branch, and read differently under the three frameworks
+  above.
+
+  Today (Fri Sep 4): August employment report, 8:30am ET — the last release
+  before blackout; its dovish reading pre-discounted this week by Warsh,
+  Schmid and Waller.
+
+  Sep 15–16   FOMC — projection meeting: statement + SEP / dot plot (Type I,
+              first SEP under Warsh); press conference Sep 16.
+
+  Entering blackout without a post-July-29 outlook from: Jefferson (Troika),
+  Hammack, Kashkari, Logan (dissenters; Jul 31 statements only), Paulson
+  (median voter), Bowman.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Waller Sep 3, 2026:
+    https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
+
+Prior speech / Pre-FOMC baseline (vs. PRIOR SPEECH / vs. PRE-FOMC SPEECH):
+  Waller Jul 13, 2026 "Monetary Policy at a Crossroads":
+    https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm
+
+Cross-reference:
+  Warsh Aug 28, 2026:
+    https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+  Williams Sep 2, 2026 (CNBC):
+    https://www.cnbc.com/video/2026/09/02/new-york-fed-president-john-williams-higher-bond-yields-come-with-a-strong-economy.html
+  Waller Jul 6, 2026 "Two Thoughts on the Transmission of Monetary Policy":
+    https://www.federalreserve.gov/newsevents/speech/waller20260706a.htm
+════════════════════════════════════════════════════════════════

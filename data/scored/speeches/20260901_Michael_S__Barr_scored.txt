@@ -1,216 +1,193 @@
 ══════════════════════════════════════════════════════════
 PER-SPEECH ANALYSIS
 ══════════════════════════════════════════════════════════
-2026-09-01 | Michael S. Barr | Governor | Just Voter
+September 1, 2026 | Michael S. Barr | Governor | Just Voter
 "Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record"
 Second-Chance Lending Forum, Developing Evidence-Based Policy on
-  Creditworthiness and Criminal History, Washington, D.C.
+Creditworthiness and Criminal History, Washington, D.C.
 SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm
 
-CLASSIFICATION: Type B (financial inclusion / second-chance lending policy)
-  WITH EMBEDDED ECONOMIC OUTLOOK. The outlook section (paragraphs 2–4
-  of the intro, before pivoting to the conference topic) is brief but
-  contains the most explicit policy conditionality Barr has put on record
-  post-July 29 FOMC. Scored using Type A methodology for the embedded
-  section. Delivered on Labor Day 2026 (federal holiday), Washington, D.C.
+CLASSIFICATION: Type B (financial inclusion / second-chance lending) WITH
+  EMBEDDED ECONOMIC OUTLOOK. The outlook is four short paragraphs at the
+  opening ("Before I proceed, I wanted to share a few thoughts about the
+  economy"), covering growth, labor, inflation and a two-branch policy
+  conditional for the September meeting. Scored with the Type A structure.
+  The remainder of the speech (financial inclusion, entrepreneurship, AI
+  tools for small business) carries no policy signal and is not scored.
 
-REFERENCE FOMC:    July 29, 2026  (HOLD 3.50–3.75%; 9–3; Hammack,
-                   Kashkari, Logan dissented preferring +25bp hike;
-                   statement text FROZEN vs. June 17 except "reaffirmed"
-                   → "is continuing" on ample reserves; no forward
-                   guidance)
-PRE-FOMC BASELINE: March 26, 2026  "Brief Remarks on the Economic
-                   Outlook and Monetary Policy," Brookings Institution
-                   (the most recent scored economic outlook; reference
-                   FOMC at that time was March 18, 2026)
-POST-FOMC PRIOR:   None scorable — June 6, 2026 ("Deregulating in a
-                   Financial Boom: What Could Go Wrong?" — Type B
-                   regulatory/financial stability; no economic outlook
-                   section) and July 14, 2026 ("Will Artificial
-                   Intelligence Broadly Raise Living Standards?" — Type B
-                   AI/inequality; no economic outlook section). This is
-                   Barr's FIRST post-July-29 economic outlook.
-                   [Note: 5-month gap since last scored economic outlook
-                   (March 26). Shifts are measured against that baseline.]
+REFERENCE FOMC:    July 29, 2026  (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari,
+                   Logan dissented preferring +25bp; statement substantive
+                   text frozen vs. June 17; no forward guidance)
+PRE-FOMC BASELINE: March 26, 2026  "Brief Remarks on the Economic Outlook and
+                   Monetary Policy," Brookings Institution — Barr's most
+                   recent outlook remarks. June 6 ("Deregulating in a
+                   Financial Boom") and July 14 ("Will Artificial Intelligence
+                   Broadly Raise Living Standards?") contain no outlook
+                   section (checked against the raw texts).
+POST-FOMC PRIOR:   N/A — first Barr outlook language since the July 29 FOMC.
+                   March 26 serves as both comparators; the shifts below span
+                   five months and two FOMC meetings (April 29, June 17).
 ──────────────────────────────────────────────────────────
 
 GROWTH
 ──────────────────────────────────────────────────────────
-FOMC statement language echoed: None explicitly echoed.
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace ... Productivity growth and
+   capital investment are strong." [Jul 29 stmt]
+  → Barr: "The economy has been growing solidly, powered in part by the boom in
+    AI-related business investment and the buildout of AI-related capabilities.
+    Productivity and new business formation have been strong for a number of
+    years."
+  → Close paraphrase of the statement's activity and productivity/investment
+    sentences — consensus language.
 
 Own language:
-  "The economy has been growing solidly, powered in part by the boom
-   in AI-related business investment and the buildout of AI-related
-   capabilities. Productivity and new business formation have been
-   strong for a number of years. Consumer spending to date has been
-   largely resilient."
-  → Constructive growth read. AI-capex-led growth narrative now in Barr's
-    framing (also used by Daly, Waller). "Largely resilient" on consumer
-    spending is a mild qualifier.
+  "Consumer spending to date has been largely resilient."
+  → "To date" and "largely" are his own qualifiers on the consumer; the
+    business side is unqualified. Growth is not a policy concern in this text.
 
-Shift vs. prior speech (Mar 26): hawkish lean on growth — March 26 did
-  not offer a positive growth characterization; today's speech opens with
-  explicitly solid growth, reinforcing that there is no growth-case for
-  immediate rate cuts.
-Shift vs. pre-FOMC (Mar 26): same baseline — hawkish lean, growth has
-  become a supporting argument against urgency to ease.
+Shift vs. prior speech (Mar 26):  HAWKISH LEAN — March 26 offered no
+  affirmative growth characterization (it went straight to labor); solid,
+  AI-investment-led growth is now stated up front.
+Shift vs. pre-FOMC (Mar 26):      Same comparison — hawkish lean.
 
 ──────────────────────────────────────────────────────────
 LABOR MARKET
 ──────────────────────────────────────────────────────────
-FOMC statement language echoed: (not quoted verbatim, but aligned)
-  July 29 statement: "Job gains have remained low, and the unemployment
-   rate has been little changed in recent months."
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Jul 29 stmt]
   → Barr: "The labor market is stable, with relatively low unemployment."
 
 Own verdict:
   "The labor market is stable, with relatively low unemployment."
-  → One-sentence characterization. "Stable" is Barr's word (consistent
-    with Warsh's repeated "kept pace with the workforce" framing). No
-    vulnerability language ("susceptible to shocks" — Jefferson's Apr 7
-    qualifier) and no "low hire, low fire" qualifier (his own Mar 26
-    language). The omission of fragility language is the signal here.
+  → One sentence; no data cited. "Stable" is the minutes' word ("labor market
+    conditions appeared stable").
 
-Shift vs. prior speech (Mar 26): HAWKISH LEAN — March 26 included
-  "Low levels of hiring likely leave the labor market vulnerable to
-  shocks, so continued vigilance on labor market conditions remains
-  warranted." That fragility/vulnerability qualifier is ABSENT today.
-  Barr's labor read has moved from fragile-but-stable to simply stable.
-Shift vs. pre-FOMC (Mar 26): same baseline — hawkish lean, labor
-  vulnerability concern has stepped back.
+Own qualifier / addition:
+  None. The March 26 qualifier — "Low levels of hiring likely leave the labor
+  market vulnerable to shocks, so continued vigilance on labor market
+  conditions remains warranted" — and the "low hire, low fire" description are
+  absent. The −23K July payroll is not mentioned.
+
+Shift vs. prior speech (Mar 26):  HAWKISH LEAN — the vulnerability qualifier
+  is gone; the verdict is "stable" without a fragility clause.
+Shift vs. pre-FOMC (Mar 26):      Same comparison — hawkish lean.
 
 ──────────────────────────────────────────────────────────
 INFLATION
 ──────────────────────────────────────────────────────────
 FOMC statement language echoed:
-  July 29 statement: "Inflation remains elevated relative to the
-   Committee's 2 percent goal."
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy." [Jul 29 stmt]
   → Barr: "But inflation remains too high—and has been for over five years."
+    "A series of shocks—from tariffs and then the conflict in the Middle East,
+    as well as from the rapid AI buildout—pushed us off course."
+  → "Too high" replaces the statement's "elevated." The shock attribution is
+    echoed but extended: the statement names supply shocks; Barr adds "the
+    rapid AI buildout" as a third shock, which is a demand-side source not in
+    the statement.
 
 Own language — KEY:
-  "But inflation remains too high—and has been for over five years."
-  → "Too high" is stronger than the statement's "elevated." The five-year
-    duration marker reappears from his Mar 26 baseline ("five years now of
-    inflation at elevated levels") — a persistent credibility-clock framing.
+  "We made enormous progress from inflation's peak of more than 7 percent in
+   2022 to a bit above 2 percent in 2024, but that progress stalled in 2025."
+  "And core non-housing services inflation remains elevated."
+  → Same component focus as March 26 ("Nonhousing services inflation has also
+    remained elevated") and as the minutes ("price increases remained elevated
+    in core services excluding housing").
+  "With inflation above target for a protracted period, there is a risk of
+   broader price pressures taking hold, a risk I am watching closely."
+  → Broadening risk. March 26 framed the same concern as expectations: "yet
+    another price shock could increase longer-term inflation expectations."
+    The September 1 framing is about price-setting behavior rather than
+    expectations, and "watching closely" is a calmer register than March 26's
+    "We need to be especially vigilant."
 
-  "core non-housing services inflation remains elevated."
-  → Specific sub-component focus. Same language as Mar 26 ("Nonhousing
-    services inflation has also remained elevated") — unchanged, persistent
-    concern.
+Duration: "for over five years" — carry-over of March 26's "five years now of
+  inflation at elevated levels." (Warsh: "65 months"; Waller Sep 3: "five and
+  a half years.")
 
-  "With inflation above target for a protracted period, there is a risk
-   of broader price pressures taking hold, a risk I am watching closely."
-  → Expectation de-anchoring risk reappears from Mar 26 ("I am
-    particularly concerned that yet another price shock could increase
-    longer-term inflation expectations") — framing is softened slightly
-    ("a risk I am watching closely" vs. Mar 26's more alarmed tone), but
-    the direction is consistent.
-
-  Note: "a series of shocks—from tariffs and then the conflict in the
-   Middle East, as well as from the rapid AI buildout—pushed us off
-   course." — The AI buildout is now explicitly named as a source of
-   inflationary pressure (alongside tariffs and Middle East conflict).
-   This is new relative to Mar 26 and distinct from Waller's AI-demand
-   channel note.
-
-Shift vs. prior speech (Mar 26): UNCHANGED to HAWKISH LEAN — core
-  language is consistent (duration framing, services inflation, de-
-  anchoring risk). The softening of urgency tone is marginal; the "too
-  high" intensifier vs. statement "elevated" represents continuation,
-  not escalation or retreat.
-Shift vs. pre-FOMC (Mar 26): same baseline — consistent hawkish-lean
-  inflation framing since the most recent scored baseline.
+Shift vs. prior speech (Mar 26):  UNCHANGED — same structure (duration,
+  services, broadening/de-anchoring risk). "Series of shocks" and the AI
+  buildout as a shock are new elements; the urgency register is slightly
+  lower. Net unchanged.
+Shift vs. pre-FOMC (Mar 26):      Same comparison — unchanged.
 
 ──────────────────────────────────────────────────────────
 MONETARY POLICY
 ──────────────────────────────────────────────────────────
 FOMC statement language echoed:
-  July 29 statement: no forward guidance; meeting-by-meeting, data-
-   dependent. "The Committee remains attentive to the risks to both sides
-   of its dual mandate."
-  → Barr does not echo this specific language.
+  None. The statement carries no guidance; Barr does not restate "will deliver
+  price stability."
 
-Own language — KEY (EXPLICIT HIKE CONDITIONALITY):
+Own language — KEY (explicit, named two-branch scenario for September):
   "At our September FOMC meeting, we will again discuss the outlook for
    inflation and our policy stance."
-  → Direct reference to the upcoming September 15–16 meeting. Unusual
-    specificity for a Type B speech.
+  HOLD branch: "If trends in the data give me some confidence that inflation is
+   moderating on a path to 2 percent, then I think we can take a bit more time
+   to assess our policy stance."
+  HIKE branch: "However, if inflation appears not to be moderating
+   sufficiently, then I think we should act decisively to raise rates."
+  → Scenario framing is EXPLICIT AND NAMED: both branches carry a specified
+    policy response. The trigger ("trends in the data" on whether inflation is
+    "moderating sufficiently") is not quantified.
+  → Note the hold branch's wording: "a bit more time" — the hold is described
+    as a deferral, not a settled stance.
+  → "Moderating sufficiently" is the same test-form as Warsh's Aug 28 standard
+    ("moving to our objective, clearly and at sufficient speed"). Two officials
+    in four days conditioning policy on a sufficiency judgment about the pace
+    of disinflation.
 
-  "If trends in the data give me some confidence that inflation is
-   moderating on a path to 2 percent, then I think we can take a bit
-   more time to assess our policy stance."
-  → HOLD SCENARIO: continued patience, assessment, no action. "A bit
-    more time" suggests he is not pre-committed to a hold beyond September.
+Cut signal status:  ABSENT.
+Hike signal status: PRESENT — conditional, named, unquantified trigger.
 
-  "However, if inflation appears not to be moderating sufficiently, then
-   I think we should act decisively to raise rates."
-  → HIKE SCENARIO: explicit, named, conditional — the strongest hike
-    signal Barr has given on record. "Act decisively" is not hedged.
-    This is scenario framing per CLAUDE.md — EXPLICIT AND NAMED, with
-    both policy scenarios pre-specified and a labeled trigger condition.
-
-  [Note on scenario framing type: Both scenarios are named and have
-   specified policy responses — hold (more time) vs. hike (decisively).
-   Trigger condition is "trends in the data" on inflation path. This is
-   EXPLICIT scenario framing, a stronger signal of pre-commitment than
-   descriptive risk language.]
-
-Cut signal status: ABSENT — zero cut language. The dovish scenario is
-  extended hold, not a cut.
-
-Shift vs. prior speech (Mar 26): HAWKISH — March 26: "it makes sense
-  to take some time to assess conditions" (pure patience/hold framing;
-  cut absent; hike not named). September 1: explicit hike scenario
-  named as the policy response to insufficient inflation progress. This
-  is a meaningful escalation in policy conditionality.
-Shift vs. pre-FOMC (Mar 26): same baseline — HAWKISH escalation. Barr
-  has moved from pure-hold to explicit two-way conditionality with a
-  named hike scenario.
+Shift vs. prior speech (Mar 26):  HAWKISH — March 26: "Our current policy
+  stance puts us in a good place to hold steady while we evaluate incoming
+  data" and "it makes sense to take some time to assess conditions" — a hold
+  with no hike branch. September 1 names a hike branch for a specific meeting
+  with an unhedged verb ("act decisively").
+Shift vs. pre-FOMC (Mar 26):      Same comparison — hawkish.
 
 ──────────────────────────────────────────────────────────
 SUMMARY
 ──────────────────────────────────────────────────────────
-Net signal:    HAWKISH LEAN — relative to March 26 baseline and relative
-               to the current committee consensus position.
+Net signal:    HAWKISH LEAN
+               Barr's first outlook language since March 26 removes the two
+               qualifiers that had cushioned his hawkish inflation read (no
+               labor vulnerability clause; growth now affirmatively solid) and
+               converts a pure hold into a two-branch conditional with a
+               named hike for September. The inflation read itself is
+               unchanged in structure. The hold branch is framed as "a bit
+               more time," not as a stance he is settled in.
 
-  Barr's September 1 embedded outlook represents his clearest policy
-  statement since March 26. Three directional developments: (1) growth
-  is now characterized as solid (no longer neutral/absent), removing the
-  growth argument for urgency to ease; (2) labor fragility language is
-  gone, replaced by simple "stable" — hawkish relative to his own prior;
-  (3) monetary policy moves from pure hold to explicit two-way
-  conditionality with a named hike scenario ("act decisively to raise
-  rates" if inflation not moderating). The inflation read (duration
-  framing, services persistence, de-anchoring risk) is consistent with
-  his March 26 baseline.
-
-  Relative to committee: Barr's hike conditionality aligns him with the
-  dissenters (Hammack, Kashkari, Logan) in its direction but stops short
-  of their base-case hike position — Barr's hike is conditional, not
-  pre-committed. Among majority voters, this is the most explicit
-  pre-meeting hike signal from a non-dissenter in the current cycle.
-  It sits to the hawkish side of the July 29 statement language.
+               Position relative to the Committee: with Cook (Aug 5: "I am
+               prepared to act by raising rates, if necessary") he is one of
+               two majority-side voters with a named hike conditional since
+               July 29. His trigger is broader than Waller's (Jul 13: a hot
+               core reading; Sep 3: the August inflation print) and his hold
+               branch is weaker than Cook's ("It may not" be needed). He does
+               not take the dissenters' base-case position.
 
 Language watch:
-  • "act decisively to raise rates" — first explicit named-hike
-    conditional from a majority voter. Watch for uptake in other
-    Just Voter speeches ahead of September 15–16 FOMC.
-  • "too high—and has been for over five years" — duration framing
-    reinforced. Consistent with Warsh's "five years above 2%" language
-    in the June 17 and July 29 opening statements.
-  • "rapid AI buildout" as inflation source — new addition to the
-    shock narrative; distinct from Waller's AI-demand channel (Waller
-    focuses on chips/servers/memory → retail goods; Barr names AI
-    buildout itself as inflationary).
+  • "act decisively to raise rates" — unhedged hike verb from a majority
+    voter. Stage: DISPERSED (Cook's "prepared to act by raising rates" is the
+    nearest). Watch the September minutes for the distribution of participants
+    carrying a hike conditional.
+  • "moderating sufficiently" — sufficiency test on the pace of disinflation;
+    pairs with Warsh's "at sufficient speed." Stage: EMERGING (two officials).
+  • "a series of shocks ... as well as from the rapid AI buildout" — extends
+    the successive-shocks framing (Waller Apr 17 "sequence of transitory
+    shocks"; Kashkari Jul 31) and adds AI capex to the shock list. Stage:
+    EMERGING.
+  • "risk of broader price pressures taking hold" — broadening framing rather
+    than expectations framing. Stage: DISPERSED.
 
 Analyst flag:  YES
-  → Barr voted with the majority (hold) at July 29 but is now signaling
-    explicit hike conditionality six weeks before September 15–16.
-    Question for analyst: does this signal Barr has moved closer to the
-    dissenters' position, or is this pre-FOMC positioning to preserve
-    optionality rather than a committed stance change? Compare with
-    Waller's July 13 conditionality structure — Barr's trigger condition
-    is broader ("trends in the data") and less specific than Waller's
-    ("several months of lower core readings"). Does the ambiguity of
-    the trigger make this more or less actionable as a signal?
+  → Barr voted to hold on July 29 and now names a September hike branch with
+    an unquantified trigger. Is this a stance shift toward the dissenters, or
+    optionality-preserving language ahead of a projection meeting? The verb
+    ("act decisively") is stronger than Cook's; the trigger is vaguer than
+    Waller's. The August CPI/PCE prints — which land inside blackout — are the
+    only data that can resolve which branch he takes.
 ══════════════════════════════════════════════════════════

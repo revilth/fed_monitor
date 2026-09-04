@@ -1,0 +1,258 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+September 2, 2026 | John C. Williams | NY Fed President | Troika
+CNBC "Squawk Box" — on-record interview (Steve Liesman)
+SOURCE: https://www.cnbc.com/video/2026/09/02/new-york-fed-president-john-williams-higher-bond-yields-come-with-a-strong-economy.html
+RAW: data/raw/interviews/20260902_John_Williams_cnbc_squawkbox.txt
+
+CLASSIFICATION: Type J — on-record interview. No official transcript exists
+  (NY Fed speeches index checked at source; latest posted item is "Stability
+  of Thy Times," Jul 15). Transcript is CNBC's own broadcast caption track for
+  the published clip (6:17). Scored with the Type A structure.
+  Type J caveats: (a) topic coverage is the interviewer's, not the speaker's —
+  the absence of a topic is not a signal; (b) the published clip ends
+  mid-sentence, so anything said after 6:17 is not scored; (c) broadcast
+  captions can drop or garble words — verify against video before external
+  quotation. Interviewer-initiated topics: bond yields (three questions),
+  oil-yield correlation, market message to the Fed, whether the market can
+  "do the work," inflation breadth, whether inflation needs addressing.
+
+REFERENCE FOMC:    July 29, 2026  (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari,
+                   Logan dissented preferring +25bp; statement substantive
+                   text frozen vs. June 17; no forward guidance)
+PRE-FOMC BASELINE: July 15, 2026  "Stability of Thy Times" (Partnership for
+                   New York City) — data/scored/speeches/
+                   20260715_John_Williams_scored.txt
+POST-FOMC PRIOR:   August 3, 2026  Reuters interview (conducted Jul 31; Type
+                   J) — data/scored/interviews/20260803_John_Williams_scored.txt
+                   Note: the August 3 read pre-dated the −23K July payroll and
+                   the July CPI/PCE; this interview post-dates them.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+[Interviewer-initiated, via the bond-yield question; growth is not treated
+separately.]
+
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace ... Productivity growth and
+   capital investment are strong." [Jul 29 stmt]
+  → Williams: "what's driving it in large part is higher yields is really a
+    strong U.S. economy and a strong economic outlook fueled by big investments
+    in AI and data centers and technology in general."
+
+Own language:
+  "a lot of this is being driven by very strong demand for investment that is
+   pushing yields up. And that is affecting of course sectors that are interest
+   sensitive in more negative ways. So some crowding out there."
+  → "Strong" is his adjective; the statement's is "solid." He uses the
+    strength to explain the yield rise, and concedes a crowding-out cost to
+    rate-sensitive sectors, attributed to the investment surge rather than to
+    policy.
+
+Shift vs. prior speech (Aug 3):   HAWKISH LEAN on the read — August 3 had
+  "Growth has been solid, but not more than solid" and "more or less at
+  trend"; September 2 has "a strong U.S. economy and a strong economic
+  outlook." The strength is not used to argue for tightening.
+Shift vs. pre-FOMC (Jul 15):      HAWKISH LEAN — July 15: "solid and on
+  trend," with weak sectors (housing, federal spending, energy drag on
+  households) named as offsets; September 2 names only the AI-investment leg.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+[Not asked. Mentioned once, in passing, inside the policy answer.]
+
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Jul 29 stmt]
+  → Williams: "The labor market is solid. It's stable. So that's a very good."
+
+Own verdict:
+  "solid ... stable" — the July 15 formulation ("solid and stable") restored;
+  August 3 had "stable" alone. Given the format, the returned adjective is not
+  scored as a change.
+
+Own qualifier / addition:
+  None. The −23K July payroll is not raised by the anchor or addressed by
+  Williams. (The anchor's lead-in was walking through fresh payroll-by-sector
+  figures; no question followed.) This is the first Williams communication
+  since that print, and it does not engage it.
+
+Shift vs. prior speech (Aug 3):   UNCHANGED.
+Shift vs. pre-FOMC (Jul 15):      UNCHANGED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy." [Jul 29 stmt]
+  → Williams: "the tariffs and the effects of the conflict in the Middle East
+    in terms of energy prices and ... broader commodity prices are the biggest
+    drivers of inflation. That's driving inflation above our 2% longer run
+    goal."
+  → The statement's supply-shock attribution is echoed and put first. Among
+    post-FOMC speakers this is the clearest defense of that clause: Warsh
+    (Aug 28) did not use it; Waller (Sep 3) says the shocks are no longer a
+    source of "ongoing" pressure; Hammack and Logan (Jul 31) attributed
+    pressure to demand.
+
+Own language — KEY:
+  "Core inflation today is running around 3.3%. A big chunk of that, you know,
+   inflation above 2% is from the effects of the higher energy prices and
+   tariffs. There's there's still some effects of higher some effects of higher
+   service inflation too."
+  "when I think about inflation today, it is important to like disaggregate the
+   data, look at the different pieces and think through that."
+  "so far, the data is that we're not seeing kind of second round effects or
+   broadening of the tariffs. We're not seeing unusual broadening of the effects
+   of higher energy prices. So and we're seeing well-anchored inflation
+   expectations and and pretty contained compensation growth. So I am actually,
+   you know, seeing inflation, the trend in inflation moving slowly down as
+   some of the effects of the tariffs can move into the rear view mirror. But
+   we've got to be data dependent."
+  → The test he applies is attribution and broadening: are the tariff and
+    energy effects producing second-round effects? Answer: no. Warsh (Aug 28)
+    also said "disaggregate" and applied a breadth count (54% of the PCE
+    basket above 3%) — same verb, different operation, opposite verdict
+    ("do not tell me that underlying trends have meaningfully improved" vs.
+    "the trend in inflation moving slowly down").
+  AI: "the AI investment, which is showing up in some of the inflation data too
+   in terms of semiconductor prices and software prices" — listed among
+   factors to analyze. August 3 called AI demand "not a big driver of
+   inflation right now"; the characterization here is descriptive, neither a
+   promotion nor a demotion.
+
+Shift vs. prior speech (Aug 3):   DOVISH LEAN — August 3 gave the disinflation
+  as forecast ("my forecast personally is for inflation to come down in the
+  second half of this year"; "we should see those factors diminish").
+  September 2 reports it as observed: "I am actually ... seeing ... the trend
+  in inflation moving slowly down." Tariffs "in the rear view mirror" is new.
+  The no-broadening claim is carried from August 3.
+Shift vs. pre-FOMC (Jul 15):      UNCHANGED — July 15 called the peak
+  ("inflation has peaked and should edge down in coming quarters"); September
+  2 describes the decline as under way. The peak call is confirmed, not
+  extended; no updated forecast is given.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee decided to maintain the target range ... in support of the
+   Federal Reserve's dual mandate." [Jul 29 stmt]
+  → Williams: "I obviously supported our decision not to raise rates in the
+    last meeting. I think, you know, at that time, it was let's get some more
+    data. The labor market is solid. It's stable."
+  "The Committee will deliver price stability." [Jul 29 stmt]
+  → Williams: "it's our job to ensure that we ensure price stability. And most
+    importantly right now is to get inflation back to 2% on a sustained basis.
+    That's job number one."
+
+Own language — bond yields and financial conditions:
+  "We're not seeing it in terms of inflation compensation. We're seeing it
+   mostly in real rates. So I think much of this is really about with a strong
+   economy, you expect ... the cost of funding, this investment tends to go
+   up."
+  "So I think it's not really about financial conditions affecting the
+   economy. It's more about the economy affecting financial conditions."
+  → Yields are read as an outcome of strong investment demand, not as a
+    policy input. Note the decomposition matches the minutes ("Nominal
+    Treasury yields rose, driven by increases in real yields"). Warsh on July
+    29 used the same real-rate fact to describe "a material tightening"; on
+    August 28 he said the level of conditions is not restrictive. Williams's
+    claim is about causation, not restrictiveness — the two are not the same
+    proposition, but they point to different policy conclusions from the same
+    yield move.
+  Asked whether "the market [can] do the work for the Fed":
+  "That's job number one. So that's our job. And you know, nobody else can do
+   that for us. That's that's something that we'll have to do through our the
+   decisions we make over the next few years."
+  → Same position as August 3 ("I never like the phrase that the markets are
+    doing the work for us because I know that we have to do the work
+    ourselves"), stated more firmly and as institutional responsibility.
+  On markets as input: "those are inputs into my thinking. Obviously, we study
+   them very carefully. But at the end of the day, we look at the totality of
+   the data, what it means for the economic outlook, the risks to achieving our
+   goals and come to our best judgment about what policy needs to be."
+
+Own language — the path:
+  "make sure that we're on a path that will bring inflation back down to 2% on
+   a sustained basis over the next year or two. Now, I do think that, you know,
+   it's important not only that we are on that path, but we are on that path to
+   to do that, you know, in, in the foreseeable future. So that's, that's
+   going" [clip ends]
+  → The bar he sets is being on the path AND getting there "in the foreseeable
+    future" / "over the next year or two." The sentence that would have
+    completed the thought is not in the published clip.
+
+Cut signal status:  ABSENT — unchanged since the April 16 retraction.
+Hike signal status: ABSENT in the published segment. The August 3
+  direction-unnamed conditional ("if the economy is not on a trajectory ... it
+  would absolutely be appropriate to act") does not appear; given the
+  truncation, this is not scored as a retraction. "Well positioned" (Jul 15,
+  Aug 3) is not restated; not asked.
+
+Shift vs. prior speech (Aug 3):   UNCHANGED — hold-anchored; anti-substitution
+  point firmer; no conditional visible in the clip.
+Shift vs. pre-FOMC (Jul 15):      UNCHANGED on stance.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    DOVISH LEAN (mild) — hold-anchored
+               The stance is unchanged; the movement is in the inflation
+               read, from forecast (Aug 3) to observed ("I am actually ...
+               seeing ... the trend in inflation moving slowly down"), with
+               tariffs "in the rear view mirror" and no second-round effects.
+               He defends the statement's supply-shock attribution more
+               directly than any other post-FOMC speaker, reads the yield
+               rise as a consequence of strong investment rather than a
+               policy input, and rejects the idea that the market can do the
+               Fed's job. Growth is characterized as "strong," but the
+               strength is used to explain yields, not to argue for
+               tightening. No September signal survives in the clip.
+
+               Position relative to the Committee: within the Troika, his
+               inflation verdict ("moving slowly down") is the opposite of
+               the Chair's five days earlier ("do not tell me that underlying
+               trends have meaningfully improved"), reached by a different
+               test (attribution/broadening vs. breadth). On the trend he is
+               with Waller (Sep 3: "signs of disinflation," three-month core
+               falling), by a different route. On yields and the stance he
+               does not join the not-restrictive group (Warsh, Schmid, the
+               dissenters); he reframes the question rather than answering
+               it. He is the FOMC Vice Chair; the Vice Chair of the Board
+               (Jefferson) has not spoken since before July 29.
+
+Language watch:
+  • "It's more about the economy affecting financial conditions" — yields as
+    outcome, not input. Stage: DISPERSED (first use). Watch Jefferson and
+    Board members.
+  • "Nobody else can do that for us" — anti-substitution, second iteration
+    (Aug 3: "we have to do the work ourselves"). Stage: DISPERSED (Williams).
+  • "The trend in inflation moving slowly down" / tariffs "in the rear view
+    mirror" — Stage: EMERGING (minutes "several participants ... pass-through
+    ... now largely complete"; Waller Sep 3 "largely passed through").
+  • "Disaggregate the data" — used by Warsh (Aug 28) and Williams (Sep 2) for
+    different operations. Watch which definition of underlying inflation the
+    September minutes carry.
+
+Analyst flag:  YES
+  → (1) The Troika now carries two public verdicts on underlying inflation
+    that point in opposite directions (Warsh: breadth, not improving;
+    Williams: attribution, moving down). Neither is wrong on its own terms and
+    no single print reconciles them. Which framework the September statement's
+    inflation sentence and the SEP discussion adopt is the tell.
+  → (2) The clip ends mid-sentence at the point where a path/September
+    remark would most plausibly follow ("on that path ... in the foreseeable
+    future. So that's, that's going"). A full-tape or rush-transcript
+    recovery is worth one targeted attempt before the meeting.
+  → (3) Williams is the clearest remaining public defender of the statement's
+    supply-shock clause. If it survives into the September statement, this
+    is where the support is; if it is dropped, note who lost the argument.
+  → (4) First Williams communication since the −23K July payroll, and it does
+    not engage it ("solid ... stable"). Not asked; do not over-read.
+══════════════════════════════════════════════════════════

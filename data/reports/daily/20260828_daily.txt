@@ -1,0 +1,196 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: August 28, 2026
+Reference FOMC: July 29, 2026  |  Cycle: Holding (hike risk rising)  |  FFR: 3.50–3.75%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Kevin Warsh  |  Chair  |  Troika
+     "In Our Time"  —  Type G (Jackson Hole)
+     "Financial Innovation: Implications for Payments and Policy," economic
+     policy symposium sponsored by the Federal Reserve Bank of Kansas City,
+     Jackson Hole, Wyoming. Warsh's first Jackson Hole address as Chair.
+
+  No other Federal Reserve official spoke on August 28 (Board index and the
+  Boston, New York, Philadelphia, Cleveland, Richmond, Chicago, Minneapolis,
+  Dallas and San Francisco speech pages checked; Kansas City unreachable).
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  KEVIN WARSH  |  Chair  |  Troika
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "I am impressed by the overall performance of the economy, which appears to
+  have strengthened" — one step beyond the statement's "solid pace." Capex in
+  equipment and intangibles up ~9% four-quarter, "its highest growth rate
+  since 2021," more than half AI-related; S&P 500 profits up more than 20%;
+  PDFP running near 3% this year; consumption above 2%. Credit spreads near
+  historical lows and bank C&I standards on the easier end: "Credit and loan
+  markets are showing few signs of policy restraint." The one hedge is that he
+  will watch "the second derivative" of capex and earnings growth.
+  Direction: hawkish lean
+
+LABOR MARKET
+  Statement language echoed ("quite stable," 4.1%, "has not changed much for a
+  couple of years"), then a completion claim that is new for him: "as of now, I
+  believe the labor markets are consistent with full employment." The
+  analytically important addition is structural: "When labor supply is barely
+  growing, monthly job gains are naturally going to run low." The −23K July
+  payroll is not mentioned; the sentence supplies a reason not to read low job
+  gains as weakness, ahead of the August report on September 4.
+  Direction: hawkish lean
+
+INFLATION
+  Levels stated plainly — 12-month PCE 3.7%, six-month 4.1% — with the
+  statement's supply-shock attribution left unused: "Inflation is running
+  above our 2 percent target. So the Fed's predominant focus right now should
+  be on prices." He then discloses the measure behind the "underlying
+  inflation" reaction function he gave on July 29: "disaggregate the 199
+  individual components of the PCE price measure ... 54 percent of goods and
+  services in the PCE basket showed price increases above 3 percent ... well
+  above the level of 32 percent in the two decades that preceded the
+  pandemic"; 49 percent over six months. A breadth measure, slow-moving by
+  construction. The verdict on the summer data: "they do not tell me that
+  underlying trends have meaningfully improved." The standard: "We must be
+  confident that underlying inflation is moving to our objective, clearly and
+  at sufficient speed. Otherwise, we have work to do." Target restated as 2%
+  PCE, "firm, fixed," and "nor is inflation necessarily mean-reverting." Wage
+  growth dismissed as an indicator; expectations anchored but "they tend to
+  look strong and durable until they don't." Duration clock now "65 months."
+  Direction: hawkish
+
+MONETARY POLICY
+  No decision, no path, no reference to September, the SEP or the dissents:
+  "committed to a discipline, not to a decision." Three things do move. (1)
+  Stance: "on balance, I would be hard pressed to describe broad financial
+  conditions as restrictive" — a level judgment, where July 29 spoke of the
+  change ("a material tightening ... in real rates"). The July hold leaned on
+  that tightening; he is no longer using the argument. (2) Instrument: "short-
+  term interest rates are the predominant tool," unconventional policy "used
+  sparingly, if at all" — narrowing the balance-sheet route he had raised on
+  July 15 ("two instruments") and July 29 ("how much accommodation are we
+  getting from the balance sheet?"). (3) Guidance: forward guidance "has
+  overstayed its welcome"; an explicit reaction function declined ("our
+  knowledge just doesn't extend that far") five weeks after he volunteered a
+  directional one in the July 29 Q&A — a rule-versus-disposition distinction he
+  does not draw himself. His summary of the July minutes ("a good majority ...
+  thought the wiser course was to await new information") omits the "several
+  participants" who favored a 25bp increase and the "many participants" who
+  expected tightening if inflation did not decline. AI is set aside from the
+  current policy conjuncture entirely. Cut signal: absent. Hike signal: absent
+  as a signal — "Otherwise, we have work to do" is undirected in instrument
+  and timing.
+  Direction: hawkish lean
+
+NET SIGNAL: HAWKISH LEAN — the grounds for patience are addressed one by one
+  (growth strengthened; labor at full employment with low payrolls pre-
+  explained; conditions not restrictive; wages uninformative; expectations
+  anchored "until they don't"; summer prints discounted) and a published
+  standard is reported unmet. Only the decision is withheld.
+
+vs. PRIOR SPEECH (Jul 29 press conference):   HAWKISH — the reaction
+  function's input is now disclosed and a standard stated; the financial-
+  conditions claim moved from change to level; rates named the predominant
+  tool. "We will not hesitate to act" became "we have work to do."
+vs. PRE-FOMC SPEECH (Jul 14–15 testimony):    HAWKISH — testimony kept
+  leave / raise / cut all open and treated benign prints as "imperfect
+  measures"; he now supplies his own measure and a verdict.
+vs. COMMITTEE SINCE FOMC:               On the diagnosis — restrictiveness,
+  breadth, non-mean-reversion — his language now sits with the three
+  dissenters, Schmid (Aug 27) and the minutes' "some participants." On the
+  instrument he is with the majority: rates, not the balance sheet, and not
+  yet. His breadth measure is the direct counterpart to Paulson's Aug 4
+  underlying estimate of "2.4, 2.8" (tariff and energy effects stripped out);
+  the two methods read the same data in opposite directions.
+
+LANGUAGE TO WATCH:
+  • "clearly and at sufficient speed" — the stated standard. DISPERSED (first
+    use). If a second official adopts a "sufficient" test, the Committee has
+    a shared bar.
+  • 199-component PCE breadth (share above 3%) — DISPERSED (Chair only;
+    Waller's Jul 13 core-services breadth is the nearest prior). Watch the
+    September minutes and SEP discussion.
+  • "hard pressed to describe broad financial conditions as restrictive" —
+    EMERGING (minutes "some participants"; Hammack, Kashkari, Logan; Schmid;
+    now the Chair). The proposition on which a September hold rests.
+  • "nor is inflation necessarily mean-reverting" — EMERGING (Kashkari's
+    successive-shocks argument; minutes "many participants ... more
+    persistently elevated").
+  • "65 months" — duration clock, third consecutive document, incrementing.
+  • "committed to a discipline, not to a decision" — the no-guidance formula.
+
+ANALYST FLAG: YES
+  → (1) The standard is public and unmet by his own account. Whether "work to
+    do" means the rate in September or continued observation is unresolved.
+  → (2) Breadth barely moves on one soft print. Under this reaction function
+    the August CPI/PCE matter less for the Chair than for officials using
+    momentum or attribution tests.
+  → (3) [Inference] Footnote 7 cites a Board paper ("Anchored to the Dot
+    Plot") on expectations adhering to prior SEP projections, three weeks
+    before a projection meeting. He does not connect them. Low confidence,
+    high consequence if the September SEP is restructured or caveated.
+  → (4) The minutes characterization omits the hike caucus — same device as
+    July 29 (unity on the objective; dispersion on the path unmentioned).
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE — Warsh (Aug 28) and Schmid (Aug 27, Type J)
+────────────────────────────────────────────────────────────────
+  Two statements on the stance, one day apart, same venue:
+    Schmid, Aug 27: "I think we're at a fairly accommodative place for rates
+      right now."
+    Warsh, Aug 28: "I would be hard pressed to describe broad financial
+      conditions as restrictive."
+  Neither is a policy signal on its own (Schmid is a non-voter; Warsh named no
+  action), but the not-restrictive proposition the three dissenters put in
+  writing on July 31 is now stated by the host and the Chair.
+  Same convergence on labor, in the same defensive direction: Schmid's boomer-
+  retirement mechanism ("retiring at about 4 million people per year") and
+  Warsh's "when labor supply is barely growing, monthly job gains are naturally
+  going to run low" both pre-discount a weak payroll print.
+  One divergence: Schmid puts the AI/data-center buildout at the center of the
+  inflation problem; Warsh sets AI aside from the current policy conjuncture.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Monday Aug 31 – Friday Sep 4
+────────────────────────────────────────────────────────────────
+  Last open week before the September blackout (begins Sat Sep 5).
+
+  Tue Sep 1   Michael S. Barr  |  Governor  |  Just Voter
+              Second-Chance Lending Forum, Washington, D.C. (financial-
+              inclusion topic; outlook remarks possible)
+  Wed Sep 2   John C. Williams  |  NY Fed President  |  Troika
+              CNBC "Squawk Box" interview (unconfirmed)
+              Beige Book (Type H), 2:00pm ET — scored separately
+  Thu Sep 3   Christopher J. Waller  |  Governor  |  Just Voter
+              Reuters NEXT Newsmaker interview, Washington, D.C., 8:30am ET
+              (prepared remarks on the outlook expected; first appearance
+              since Jul 13)
+  Fri Sep 4   August employment report, 8:30am ET. No Fed speakers confirmed.
+
+  Not yet heard from since July 29: Jefferson (Troika), the three dissenters
+  (no Type A since their Jul 31 statements), Paulson (median voter).
+
+  Sat Sep 5   BLACKOUT BEGINS (through Sep 17)
+  Sep 15–16   FOMC — projection meeting: statement + SEP / dot plot (Type I);
+              first SEP under Warsh; press conference Sep 16
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Warsh Aug 28, 2026:
+    https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+
+Prior speech (vs. PRIOR SPEECH):
+  Warsh Jul 29, 2026 FOMC press conference (final transcript):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Warsh Jul 14–15, 2026 Semiannual Monetary Policy Report testimony:
+    https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm
+
+Cross-reference:
+  Schmid Aug 27, 2026 (Bloomberg Odd Lots, Type J):
+    data/scored/interviews/20260827_Jeffrey_Schmid_scored.txt
+  July 28–29 FOMC minutes:
+    https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm
+════════════════════════════════════════════════════════════════
