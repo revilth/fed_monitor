@@ -20,19 +20,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2   # need the previous commit to diff which files were just added
+          fetch-depth: 0   # full history: the push may contain several commits
 
       - name: Email alert report(s) just pushed
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
         run: |
           python3 - <<'EOF'
-          import smtplib, os, subprocess, sys
+          import smtplib, os, subprocess, sys, re
           from email.mime.text import MIMEText
 
-          # Alert report files changed in the pushed commit (FOMC + Beige Book).
+          # Alert report files changed anywhere in the PUSH RANGE (FOMC + Beige
+          # Book). Diffing HEAD~1..HEAD missed alerts when a push carried more
+          # than one commit (2026-09-17: three FOMC alerts were never emailed).
+          before, after = os.environ.get("BEFORE_SHA", ""), os.environ.get("AFTER_SHA", "HEAD")
+          rng = [before, after] if before and not re.fullmatch("0+", before) else ["HEAD~1", "HEAD"]
           out = subprocess.run(
-              ["git", "diff", "--name-only", "--diff-filter=AM", "HEAD~1", "HEAD",
+              ["git", "diff", "--name-only", "--diff-filter=AM", *rng,
                "--", "data/reports/fomc/", "data/reports/beige_book/"],
               capture_output=True, text=True
           ).stdout
