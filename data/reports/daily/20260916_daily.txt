@@ -1,0 +1,253 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 16, 2026
+FOMC MEETING DAY — September 15–16, 2026 (PROJECTION MEETING — SEP released)
+Prior Reference FOMC: July 29, 2026  |  Cycle: Holding (hike risk elevated)
+FFR: 3.50–3.75% (prior; September 16 result pending transcript recovery)
+════════════════════════════════════════════════════════════════
+CANONICAL FOMC-DAY REPORT — TRANSCRIPT RECOVERY REQUIRED
+════════════════════════════════════════════════════════════════
+
+FOMC DOCUMENTS — STATUS
+────────────────────────────────────────────────────────────────
+  1. FOMC Statement 2026-09-16 (Type C — statement diff vs. July 29, 2026)
+     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed; recover
+     via 'python3 main.py refetch' from a network that can reach
+     federalreserve.gov, then re-run scoring for REPORT_DATE=2026-09-16)
+
+  2. SEP / Dot Plot September 2026 (Type I — projection meeting)
+     STATUS: NOT SCORED — TRANSCRIPT PENDING (SEP table not fetched)
+     Comparison when recovered: vs. June 17, 2026 SEP (prior projection
+     meeting; two meetings back — July 29 was not a projection meeting)
+     Key question: did the August inflation data shift the hike-half of the
+     committee toward hold, hold the split at ~50/50, or expand the hike
+     caucus? Did Warsh submit a dot this time (withheld at June 17)?
+
+  3. Press Conference September 16, 2026 (Type E — Warsh, Chair)
+     STATUS: NOT SCORED — TRANSCRIPT PENDING (transcript not fetched)
+     Context: Warsh's SECOND SEP press conference (first: June 17, 2026;
+     last press conf: July 29, 2026). Compare when recovered:
+       vs. PREVIOUS PRESS CONFERENCE (July 29, 2026):
+         scored at data/reports/daily/20260729_daily.txt
+       vs. PRIOR WARSH SPEECH (August 28, 2026 — Jackson Hole):
+         scored at data/scored/speeches/20260828_Kevin_Warsh_scored.txt
+
+  4. PROVISIONAL ALERTS: None generated. No data/reports/fomc/20260916*
+     files exist. The July 29 provisional alerts remain the last emailed
+     FOMC-day alerts (data/reports/fomc/20260729_*).
+     This report does NOT finalize any provisional — there was none to
+     finalize for the September 16 meeting.
+
+════════════════════════════════════════════════════════════════
+COLLECTION FAILURE — ROOT CAUSE
+════════════════════════════════════════════════════════════════
+The 5:30am ET GitHub Actions collect job checks today's date (2026-09-17)
+against the blackout calendar. Since 2026-09-17 is the FINAL day of the
+September 16 blackout period (start: 2026-09-05, end: 2026-09-17), the
+collect script printed "BLACKOUT DAY (2026-09-17) — skipping collection."
+and exited with no data collected. The FOMC statement, SEP projections
+table, and press conference transcript — all posted by 2:00pm ET on
+September 16 — were never retrieved by the scraper.
+
+In addition, this scoring environment's egress proxy blocks all outbound
+connections to federalreserve.gov (error: EGRESS_BLOCKED), so the
+python3 main.py refetch fallback and direct WebFetch paths also fail from
+within this session.
+
+STRUCTURAL WORKFLOW GAP: The collect job will always miss FOMC-day
+documents when the blackout period ends the day AFTER the decision day:
+the collect job runs at 5:30am on the day the blackout ends, sees that
+day is still within the blackout, and skips. The FOMC materials posted at
+2:00pm the prior day are therefore never auto-collected. The September 18
+collect run (first non-blackout run) WILL collect the September 16
+documents, but no scoring routine is scheduled to process them — the
+September 18 run reports on September 17 (BLACKOUT → SKIP) and the
+September 19 run reports on September 18. The September 16 canonical FOMC
+report will remain pending unless manually triggered.
+
+════════════════════════════════════════════════════════════════
+ACTION ITEMS — REQUIRED FOR COMPLETION
+════════════════════════════════════════════════════════════════
+1. RECOVER DOCUMENTS. From the GitHub Actions environment (or any network
+   that can reach federalreserve.gov), fetch and save:
+     a. FOMC Statement:
+        URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+        Save: data/raw/statements/20260916_FOMC_Statement.txt (first line: SOURCE: <url>)
+     b. SEP Projections Table:
+        URL: https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm
+        (Dot distribution: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
+     c. Press Conference Transcript:
+        URL: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+        (fallback via FOMC calendars page if URL pattern fails)
+        Save: data/raw/pressconferences/20260916_pressconf_transcript.txt (SOURCE: header)
+
+2. RE-RUN SCORING. Once documents are in data/raw/, manually trigger this
+   scoring agent for REPORT_DATE=2026-09-16 to:
+     - Write statement diff (Type C) vs. July 29, 2026 statement
+     - Write SEP diff (Type I) vs. June 17, 2026 SEP
+     - Score press conference (Type E): opening statement + Q&A
+     - Overwrite this placeholder with the canonical FOMC-day report
+
+3. DISSENT SWEEP. Confirm the September 16 vote tally from the recovered
+   statement. If not unanimous, check daily through September 25:
+     - Logan (Dallas): https://www.dallasfed.org/news/releases/2026/
+       (URL pattern: nrYYMMDDdissent)
+     - Hammack (Cleveland): https://www.clevelandfed.org/collections/speeches
+       (URL pattern: sp-YYYYMMDD-...)
+     - Kashkari (Minneapolis): https://www.minneapolisfed.org/article/2026/
+       (URL pattern: statement-on-my-fomc-dissent)
+     All three dissented at July 29 (preferred +25bp hike). Whether they
+     repeat, escalate, or return to the majority is the first post-meeting
+     signal.
+
+4. COLLECT WORKFLOW FIX (recommended). Modify collect.yml blackout check
+   to permit collection on FOMC_DAY (the second date of the meeting).
+   Currently: skip if today is in any blackout[start..end].
+   Proposed: skip if today is in blackout AND today is NOT an FOMC decision day.
+   This is a one-line change that prevents FOMC materials from falling
+   through the gap permanently.
+
+════════════════════════════════════════════════════════════════
+PRE-MEETING CYCLE CONTEXT
+(calibration-note summary; analytical context only — not a substitute for
+official transcripts; all claims from scored files)
+════════════════════════════════════════════════════════════════
+CYCLE ENTERING SEPTEMBER 15–16, 2026
+
+Reference FOMC: July 29, 2026.
+Vote: 9–3. Dissenters: Hammack (Cleveland), Kashkari (Minneapolis), Logan
+(Dallas) — all preferred +25bp hike. First three-dissenter pro-hike
+coalition; first explicit hike vote of the current cycle. Prior vote was
+12–0 (June 17); Hammack and Kashkari returned to majority once easing
+bias dropped, then re-escalated to demand active tightening.
+
+Statement (July 29): Text FROZEN — verbatim identical to June 17 on all
+substantive paragraphs. One word change: "reaffirmed" → "is continuing"
+on ample reserves. Inflation language unchanged: "Inflation remains
+elevated relative to the Committee's 2 percent goal." No forward guidance.
+
+KEY ANALYTICAL QUESTIONS THE SEPTEMBER MEETING WAS EXPECTED TO RESOLVE:
+
+1. DID THE AUGUST DATA TRIGGER WALLER'S HIKE BRANCH?
+   Waller (Sep 3): "If the incoming data for August show this improvement
+   [in inflation] has been fleeting, then it may be appropriate to raise
+   the policy rate when the FOMC meets on September 15 and 16." Explicit,
+   named, dated conditional. The August CPI/PCE landed inside the blackout
+   and was determinative. The three-month core trajectory (4.76% Feb →
+   3.05% Jul) was Waller's measure. Also: "only slightly restricting
+   aggregate demand" — a thin margin, so the August print carried
+   asymmetric downside for the hold case.
+
+2. HOW FAR DID THE HIKE CAUCUS EXPAND?
+   At July 29: Logan, Hammack, Kashkari confirmed. September added:
+   — Barr (Sep 1): "if inflation appears not to be moderating sufficiently,
+     then I think we should act decisively to raise rates." Hike trigger
+     unquantified but named.
+   — Waller (Sep 3): conditioned explicitly on August data (see above).
+   — Cook (Aug 5): "prepared to act by raising rates, if necessary"
+     (weakest formulation; "It may not [be necessary]").
+   Any of these three crossing to the hike side would expand the dissent
+   bloc from three to four-plus, a qualitative shift in committee dynamics.
+
+3. UNDERLYING INFLATION: THREE COMPETING FRAMEWORKS.
+   Going into the meeting, the Troika held three different measures:
+   • Warsh (Aug 28, BREADTH): 54% of 199 PCE components still above 3%
+     (12m); 49% (6m); vs. 32% pre-pandemic. Standard: "unmet."
+   • Williams (Sep 2, ATTRIBUTION): tariffs in the "rear view mirror"; no
+     second-round effects or broadening. Standard: "trend moving slowly
+     down."
+   • Waller (Sep 3, MOMENTUM): 3m annualized core 3.05% (down from 4.76%
+     Feb); imputed nonmarket services ~half of core increase (strip out:
+     underlying "doing better than core numbers suggest").
+   Which framework governs the September statement language and dot
+   discussion is the highest-value open question in the entire cycle.
+
+4. SEP DOT DISTRIBUTION: first Warsh-chaired projection meeting.
+   June 17, 2026: 9 of 18 penciled a 2026 hike; median 3.75–3.8%.
+   Warsh withheld his own dot at June 17 ("not well suited to current
+   conjuncture"). Whether he submitted in September is a structural
+   question about the SEP's credibility as a consensus document.
+   Three outcomes possible: hike bloc expands (dot distribution shifts
+   more hawkish), contracts (August data relieved pressure), or holds
+   (near 50/50 maintained).
+
+5. SEP FORWARD GUIDANCE REFORM.
+   Warsh's five task forces were expected to report "by fall/year-end."
+   Any announced change to the SEP structure, press conference frequency,
+   or forward guidance format would be structural, not cyclical.
+
+COMMITTEE POSITIONING ENTERING SEPTEMBER 15–16
+(most recent scored communication per speaker):
+  Warsh (Chair):        Aug 28 — breadth standard unmet; "hard pressed to
+                          describe broad financial conditions as restrictive";
+                          no September/hike reference; "committed to a
+                          discipline, not to a decision." HAWKISH LEAN.
+  Jefferson (V.Ch.):    No post-July-29 outlook speech. Last: Apr 7
+                          (assessed "susceptible to adverse shocks" on
+                          labor). UNKNOWN.
+  Williams (NY Fed):    Sep 2 (CNBC clip, truncated) — "trend in inflation
+                          moving slowly down." NEUTRAL-TO-DOVISH relative
+                          to Warsh/dissenters.
+  Waller:               Sep 3 — hold inclination on base case; hike branch
+                          if August data "fleeting." DOVISH LEAN vs. Jul 13;
+                          "only slightly restricting."
+  Barr:                 Sep 1 — hike conditional named but unquantified.
+                          HAWKISH LEAN vs. Mar 26.
+  Cook:                 Aug 5 — "prepared to act by raising rates, if
+                          necessary." HAWKISH LEAN vs. Jul 17 Q&A.
+  Bowman:               Last outlook Jan 16. Post-energy-shock view unknown.
+  Paulson (median):     No post-July-29 outlook speech. Last: Jul 9
+                          (inflation-first bar, "if above 2% and has been
+                          for some time, I would be more cautious"). UNKNOWN.
+  Hammack (dissenter):  Jul 31 dissent statement — "NOW IS THE TIME for
+                          the FOMC to act." HAWKISH.
+  Kashkari (dissenter): Jul 31 dissent statement — series of small hikes;
+                          1970s analogy. HAWKISH.
+  Logan (dissenter):    Jul 31 dissent statement — "one month of relief is
+                          not enough; it is time to finish the job."
+                          HAWKISH.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday September 18
+────────────────────────────────────────────────────────────────
+  Blackout ends September 17. Post-FOMC commentary may begin September 18.
+  Calendar lookup unavailable this run (federalreserve.gov egress-blocked).
+
+  HIGH PRIORITY first post-FOMC documents to watch (September 18 onward):
+    • Warsh — post-meeting communications pattern; any institutional
+      reform announcement.
+    • Dissent statements — if September 16 vote not unanimous: Logan
+      (Dallas), Hammack (Cleveland), Kashkari (Minneapolis), and any new
+      dissenters. Check daily through September 25.
+    • Jefferson, Paulson (median voter) — no post-July-29 outlook on
+      record; first post-FOMC communication will be high signal.
+    • Waller — his September vote was an explicit function of August data;
+      first post-decision speech will either confirm or unwind the Sep 3
+      conditionality.
+
+  (none confirmed — calendar lookup unavailable this run)
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+September 16, 2026 FOMC documents — NOT YET RETRIEVED:
+  Statement:  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+  SEP table:  https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm
+  Press conf: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+
+Comparison baselines (prior meeting / prior projection meeting):
+  July 29, 2026 statement:
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+    (data/raw/statements/20260729_FOMC_Statement.txt)
+  July 29, 2026 press conference: data/reports/daily/20260729_daily.txt
+  June 17, 2026 SEP (prior projection meeting):
+    https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm
+    (data/scored/sep/20260617_SEP_scored.txt)
+
+Pre-meeting scored speeches referenced above:
+  Warsh Aug 28, 2026 (Jackson Hole):
+    https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+  Waller Sep 3, 2026:
+    https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
+  Barr Sep 1, 2026:
+    scored at data/scored/speeches/20260901_Michael_S__Barr_scored.txt
+════════════════════════════════════════════════════════════════
