@@ -1,0 +1,144 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20080430epa.htm
+TYPE: I (SEP) — accessible figure data for the SEP addendum to the minutes
+
+Home
+
+>
+Monetary Policy
+
+>
+Federal Open Market Committee
+
+>
+FOMC Minutes, April 29-30, 2008
+
+Print
+
+Accessible Version
+
+Table data for charts presented with Summary of Economic Projections given within the FOMC Minutes on April 29-30, 2008.
+
+[TABLE]
+FOMC Minutes | Summary of Economic Projections
+[/TABLE]
+
+Chart 1: Central Tendencies and Ranges of Economic Projections
+
+Central tendencies and ranges of economic projections for years 2008 through 2010. Actual data for years 2003 through 2007. See notes to Table 1 for variable definitions.
+
+[TABLE] Real GDP Growth Percent
+| 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 3.7 | 3.1 | 2.9 | 2.6 | 2.5 | - | - | -
+Upper End of Range | - | - | - | - | - | 1.5 | 3.0 | 3.4
+Upper End of Central Tendency | - | - | - | - | - | 1.2 | 2.8 | 3.1
+Lower End of Central Tendency | - | - | - | - | - | 0.3 | 2.0 | 2.6
+Lower End of Range | - | - | - | - | - | 0.0 | 1.8 | 2.0
+[/TABLE]
+
+[TABLE] Unemployment Rate Percent
+| 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 5.8 | 5.4 | 4.9 | 4.4 | 4.8 | - | - | -
+Upper End of Range | - | - | - | - | - | 6.0 | 6.3 | 5.9
+Upper End of Central Tendency | - | - | - | - | - | 5.7 | 5.7 | 5.5
+Lower End of Central Tendency | - | - | - | - | - | 5.5 | 5.2 | 4.9
+Lower End of Range | - | - | - | - | - | 5.3 | 5.2 | 4.8
+[/TABLE]
+
+[TABLE] PCE Inflation Percent
+| 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 1.9 | 3.1 | 3.2 | 1.9 | 3.4 | - | - | -
+Upper End of Range | - | - | - | - | - | 3.8 | 3.0 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 3.4 | 2.3 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 3.1 | 1.9 | 1.8
+Lower End of Range | - | - | - | - | - | 2.8 | 1.7 | 1.5
+[/TABLE]
+
+[TABLE] Core PCE Inflation Percent
+| 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 1.4 | 2.2 | 2.2 | 2.3 | 2.1 | - | - | -
+Upper End of Range | - | - | - | - | - | 2.5 | 2.2 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 2.4 | 2.1 | 1.9
+Lower End of Central Tendency | - | - | - | - | - | 2.2 | 1.9 | 1.7
+Lower End of Range | - | - | - | - | - | 1.9 | 1.7 | 1.3
+[/TABLE]
+
+Chart 2(a): Distribution of Participants' Projections (percent)
+
+Histograms, six panels. See notes to Table 1 for variable definitions.
+
+[TABLE] Real GDP Projections Number of Participants
+Projections | 0.0-0.1 | 0.2-0.3 | 0.4-0.5 | 0.6-0.7 | 0.8-0.9 | 1.0-1.1 | 1.2-1.3 | 1.4-1.5 | 1.6-1.7 | 1.8-1.9 | 2.0-2.1 | 2.2-2.3 | 2.4-2.5 | 2.6-2.7 | 2.8-2.9 | 3.0-3.1 | 3.2-3.3 | 3.4-3.5
+2008
+April | 1 | 3 | 2 | 1 | 5 | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+January | 0 | 0 | 0 | 0 | 0 | 2 | 3 | 4 | 1 | 2 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0
+2009
+April | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 | 2 | 3 | 3 | 1 | 3 | 0 | 0
+January | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 3 | 5 | 3 | 1 | 0 | 1 | 0
+2010
+April | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 2 | 4 | 2 | 5 | 2 | 1
+January | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 5 | 7 | 0 | 3 | 1 | 0
+[/TABLE]
+
+[TABLE] Unemployment Rate Projections Number of Participants
+Projections | 4.7-4.8 | 4.9-5.0 | 5.1-5.2 | 5.3-5.4 | 5.5-5.6 | 5.7-5.8 | 5.9-6.0 | 6.1-6.2 | 6.3-6.4
+2008
+April | 0 | 0 | 0 | 2 | 8 | 6 | 1 | 0 | 0
+January | 0 | 1 | 8 | 7 | 1 | 0 | 0 | 0 | 0
+2009
+April | 0 | 0 | 5 | 3 | 4 | 4 | 0 | 0 | 1
+January | 0 | 5 | 8 | 2 | 1 | 1 | 0 | 0 | 0
+2010
+April | 1 | 5 | 2 | 5 | 3 | 0 | 1 | 0 | 0
+January | 3 | 10 | 2 | 2 | 0 | 0 | 0 | 0 | 0
+[/TABLE]
+
+Chart 2(b): Distribution of Participants' Projections (percent)
+
+Histograms, six panels. See notes to Table 1 for variable definitions.
+
+[TABLE] PCE Inflation Projections Number of Participants
+Projections | 1.5-1.6 | 1.7-1.8 | 1.9-2.0 | 2.1-2.2 | 2.3-2.4 | 2.5-2.6 | 2.7-2.8 | 2.9-3.0 | 3.1-3.2 | 3.3-3.4 | 3.5-3.6 | 3.7-3.8
+2008
+April | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | 5 | 6 | 2 | 1
+January | 0 | 0 | 2 | 6 | 6 | 2 | 1 | 0 | 0 | 0 | 0 | 0
+2009
+April | 0 | 3 | 7 | 3 | 2 | 0 | 1 | 1 | 0 | 0 | 0 | 0
+January | 0 | 9 | 5 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+2010
+April | 1 | 8 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+January | 3 | 7 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+[/TABLE]
+
+[TABLE] Core PCE Inflation Projections Number of Participants
+Projections | 1.3-1.4 | 1.5-1.6 | 1.7-1.8 | 1.9-2.0 | 2.1-2.2 | 2.3-2.4 | 2.5-2.6
+2008
+April | 0 | 0 | 0 | 1 | 7 | 7 | 2
+January | 0 | 0 | 0 | 6 | 9 | 2 | 0
+2009
+April | 0 | 0 | 3 | 9 | 5 | 0 | 0
+January | 0 | 0 | 5 | 9 | 3 | 0 | 0
+2010
+April | 1 | 1 | 10 | 5 | 0 | 0 | 0
+January | 1 | 2 | 7 | 7 | 0 | 0 | 0
+[/TABLE]
+
+Return to top
+
+Last update:
+
+Home
+
+|
+Monetary Policy
+
+Accessibility
+
+Contact us
+
+Disclaimer
+
+Linking Policy
+
+FOIA
+
+PDF Reader

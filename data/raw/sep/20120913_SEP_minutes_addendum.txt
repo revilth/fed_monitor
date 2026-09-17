@@ -1,0 +1,198 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20120913ep.htm
+TYPE: I (SEP) — Summary of Economic Projections addendum to the minutes
+
+Minutes of the Federal Open Market Committee
+
+September 12-13, 2012
+
+In conjunction with the September 12-13, 2012, Federal Open Market Committee (FOMC) meeting, meeting participants--the 7 members of the Board of Governors and the 12 presidents of the Federal Reserve Banks, all of whom participate in the deliberations of the FOMC--submitted their assessments, under each participant's judgment of appropriate monetary policy, of real output growth, the unemployment rate, inflation, and the target federal funds rate for each year from 2012 through 2015 and over the longer run. These assessments were based on information available at the time of the meeting and participants' individual assumptions about the factors likely to affect economic outcomes. The longer-run projections represent each participant's judgment of the rate to which each variable would be expected to converge, over time, under appropriate monetary policy and in the absence of further shocks to the economy. "Appropriate monetary policy" is defined as the future path of policy that participants deem most likely to foster outcomes for economic activity and inflation that best satisfy their individual interpretations of the Federal Reserve's objectives of maximum employment and stable prices.
+
+Overall, the assessments that FOMC participants submitted in September indicated that, under appropriate monetary policy, the pace of economic recovery over the 2012-15 period would gradually pick up and inflation would remain subdued (table 1 and figure 1). Participants judged that the growth rate of real gross domestic product (GDP) would increase somewhat in 2013 and that economic growth in 2014 and 2015 would modestly exceed participants' estimates of the longer-run sustainable rate of growth, while the unemployment rate would decline gradually through 2015. Participants projected that inflation, as measured by the annual change in the price index for personal consumption expenditures (PCE), would run close to or below the FOMC's longer-run inflation objective of 2 percent.
+
+Table 1. Economic projections of Federal Reserve Board members and Federal Reserve Bank presidents, September 2012
+
+Percent
+
+[TABLE]
+Variable | Central tendency 1 | Range 2
+2012 | 2013 | 2014 | 2015 | Longer run | 2012 | 2013 | 2014 | 2015 | Longer run
+Change in real GDP | 1.7 to 2.0 | 2.5 to 3.0 | 3.0 to 3.8 | 3.0 to 3.8 | 2.3 to 2.5 | 1.6 to 2.0 | 2.3 to 3.5 | 2.7 to 4.1 | 2.5 to 4.2 | 2.2 to 3.0
+June projection | 1.9 to 2.4 | 2.2 to 2.8 | 3.0 to 3.5 | n.a. | 2.3 to 2.5 | 1.6 to 2.5 | 2.2 to 3.5 | 2.8 to 4.0 | n.a. | 2.2 to 3.0
+Unemployment rate | 8.0 to 8.2 | 7.6 to 7.9 | 6.7 to 7.3 | 6.0 to 6.8 | 5.2 to 6.0 | 8.0 to 8.3 | 7.0 to 8.0 | 6.3 to 7.5 | 5.7 to 6.9 | 5.0 to 6.3
+June projection | 8.0 to 8.2 | 7.5 to 8.0 | 7.0 to 7.7 | n.a. | 5.2 to 6.0 | 7.8 to 8.4 | 7.0 to 8.1 | 6.3 to 7.7 | n.a. | 4.9 to 6.0
+PCE inflation | 1.7 to 1.8 | 1.6 to 2.0 | 1.6 to 2.0 | 1.8 to 2.0 | 2.0 | 1.5 to 1.9 | 1.5 to 2.1 | 1.6 to 2.2 | 1.8 to 2.3 | 2.0
+June projection | 1.2 to 1.7 | 1.5 to 2.0 | 1.5 to 2.0 | n.a. | 2.0 | 1.2 to 2.0 | 1.5 to 2.1 | 1.5 to 2.2 | n.a. | 2.0
+Core PCE inflation 3 | 1.7 to 1.9 | 1.7 to 2.0 | 1.8 to 2.0 | 1.9 to 2.0 | | 1.6 to 2.0 | 1.6 to 2.0 | 1.6 to 2.2 | 1.8 to 2.3 |
+June projection | 1.7 to 2.0 | 1.6 to 2.0 | 1.6 to 2.0 | n.a. | | 1.7 to 2.0 | 1.4 to 2.1 | 1.5 to 2.0 | n.a. |
+[/TABLE]
+
+Note:
+Projections of change in real gross domestic product (GDP) and projections for both measures of inflation are from the fourth quarter of the previous year to the fourth quarter of the year indicated. PCE inflation and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption expenditures (PCE) and the price index for PCE excluding food and energy. Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. Each participant's projections are based on his or her assessment of appropriate monetary policy. Longer-run projections represent each participant's assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in the absence of further shocks to the economy. The April projections were made in conjunction with the meeting of the Federal Open Market Committee on June 19-20, 2012.
+
+1. The central tendency excludes the three highest and three lowest projections for each variable in each year.
+Return to table
+
+2. The range for a variable in a given year consists of all participants' projections, from lowest to highest, for that variable in that year.
+Return to table
+
+3. Longer-run projections for core PCE inflation are not collected.
+Return to table
+
+As shown in figure 2, most participants judged that highly accommodative monetary policy was likely to be warranted over the next few years. In particular, 13 participants thought that it would be appropriate for the first increase in the target federal funds rate to occur during 2015 or later. The majority of participants judged that appropriate monetary policy would involve a decision by the Committee, at the September meeting or before long, to undertake significant additional asset purchases.
+
+Figure 1. Central tendencies and ranges of economic projections, 2012-15 and over the longer run
+*
+
+*
+NOTE: Definitions of variables are in the general note to table 1. The data for the actual values of the variables are annual.
+
+Accessible version of figure 1
+|
+Return to figure 1
+
+As in June, participants in September judged the uncertainty associated with the outlook for real activity and the unemployment rate to be unusually high compared with historical norms, with the risks weighted mainly toward slower economic growth and a higher unemployment rate. While a number of participants viewed the uncertainty surrounding their projections for inflation to be unusually high in comparison with historical norms, many judged it to be broadly similar to historical norms, and most considered the risks to inflation to be roughly balanced.
+
+Figure 2. Overview of FOMC participants' assessments of appropriate monetary policy, September 2012
+*
+
+*
+NOTE: In the upper panel, the height of each bar denotes the number of FOMC participants who judge that, under appropriate monetary policy, the first increase in the target federal funds rate from its current range of 0 to 1/4 percent will occur in the specified calendar year. In June 2012, the numbers of FOMC participants who judged that the first increase in the target federal funds rate would occur in 2012, 2013, 2014, and 2015 were, respectively, 3, 3, 7, and 6. In the lower panel, each shaded circle indicates the value (rounded to the nearest 1/4 percentage point) of an individual participant’s judgment of the appropriate level of the target federal funds rate at the end of the specified calendar year or over the longer run.
+
+Accessible version of figure 2
+|
+Return to figure 2
+
+The Outlook for Economic Activity
+
+Conditional on their individual assumptions about appropriate monetary policy, participants judged that the economy would grow at a moderate pace over coming quarters and then pick up somewhat in 2013 before expanding in 2014 and 2015 at a rate modestly above what participants saw as the longer-run rate of output growth. The central tendency of their projections for the change in real GDP in 2012 was 1.7 to 2.0 percent, somewhat lower than in June. Many participants characterized the incoming data as having been to the weak side of their expectations at the time of the June meeting; several participants also cited the severe drought as a factor causing them to mark down their projections for economic growth in 2012. However, participants' projections for 2013 and 2014 were generally slightly higher than in June; this reflected, in part, a greater assumed amount of monetary policy accommodation than in their June submissions as well as some improvement since then in the outlook for economic activity in Europe. The central tendency of participants' projections for real GDP growth in 2013 was 2.5 to 3.0 percent, followed by central tendencies for both 2014 and 2015 of 3.0 to 3.8 percent. The central tendency for the longer-run rate of increase of real GDP remained at 2.3 to 2.5 percent, unchanged from June. While most participants noted that the increased degree of monetary policy accommodation assumed in their projections would help promote a faster recovery, participants cited several headwinds that would be likely to hold back the pace of economic expansion over the forecast period, including slower growth abroad, a still-weak housing market, the difficult fiscal and financial situation in Europe, and fiscal restraint in the United States.
+
+Participants projected the unemployment rate at the end of 2012 to remain close to recent levels, with a central tendency of 8.0 to 8.2 percent, the same as in their June submissions. Participants anticipated gradual improvement from 2013 through 2015; even so, they generally thought that the unemployment rate at the end of 2015 would still lie well above their individual estimates of its longer-run normal level. The central tendencies of participants' forecasts for the unemployment rate were 7.6 to 7.9 percent at the end of 2013, 6.7 to 7.3 percent at the end of 2014, and 6.0 to 6.8 percent at the end of 2015. The central tendency of participants' estimates of the longer-run normal rate of unemployment that would prevail under the assumption of appropriate monetary policy and in the absence of further shocks to the economy was 5.2 to 6.0 percent, unchanged from June. Most participants projected that the gap between the current unemployment rate and their estimates of its longer-run normal rate would be closed in five or six years, while a few judged that less time would be needed.
+
+Figures 3.A and 3.B provide details on the diversity of participants' views regarding the likely outcomes for real GDP growth and the unemployment rate over the next three years and over the longer run. The dispersion in these projections reflects differences in participants' assessments of many factors, including appropriate monetary policy and its effects on the economy, the rate of improvement in the housing sector, the spillover effects of the fiscal and financial situation in Europe, the prospective path for U.S. fiscal policy, the extent of structural dislocations in the labor market, the likely evolution of credit and financial market conditions, and longer-term trends in productivity and the labor force. With much of the data for the first eight months of 2012 now in hand, the dispersion of participants' projections of real GDP growth and the unemployment rate this year narrowed in September compared with June. The range of participants' forecasts for the change in real GDP in 2013 and 2014, however, was little changed from June, on balance. The distribution of projections for the unemployment rate was not much altered for 2013, while for 2014 it narrowed a bit and shifted down slightly. The range for the unemployment rate for 2015 was 5.7 to 6.9 percent. As in June, the dispersion of estimates for the longer-run rate of output growth was fairly narrow, with the values being mostly from 2.2 to 2.7 percent. The range of participants' estimates of the longer-run rate of unemployment was 5.0 to 6.3 percent, a similar range to that in June; this range reflected different judgments among participants about several factors, including the outlook for labor force participation and the structure of the labor market.
+
+Figure 3.A. Distribution of participants' projections for the change in real GDP, 2012-15 and over the longer run
+*
+
+*
+NOTE: Definitions of variables are in the general note to table 1.
+
+Accessible version of figure 3.A
+|
+Return to figure 3.A
+
+The Outlook for Inflation
+
+Participants' views on the broad outlook for inflation under the assumption of appropriate monetary policy were little changed from June. For 2012 as a whole, most anticipated that overall inflation would be only slightly above its average annual rate of 1.6 percent over the first half of the year; a number of participants pointed to higher food prices in response to the drought, along with recent increases in oil prices, as temporary sources of upward pressure on the headline rate. Almost all participants judged that both headline and core inflation would remain subdued over the 2013-15 period, running at rates at or below the FOMC's longer-run objective of 2 percent. In pointing to factors likely to restrain price pressures, several participants cited sizable resource slack and stable inflation expectations, while a few noted the subdued behavior of labor compensation. Specifically, the central tendency of participants' projections for inflation, as measured by the PCE price index, moved up and tightened to 1.7 to 1.8 percent for 2012 and was little changed for 2013 and 2014 at 1.6 to 2.0 percent. For 2015, the central tendency was 1.8 to 2.0 percent. The central tendencies of the forecasts for core inflation were broadly similar to those for the headline measure for 2013 through 2015.
+
+Figure 3.B. Distribution of participants' projections for the unemployment rate, 2012–15 and over the longer run
+*
+
+*
+NOTE: Definitions of variables are in the general note to table 1.
+
+Accessible version of figure 3.B
+|
+Return to figure 3.B
+
+Figures 3.C and 3.D provide information about the diversity of participants' views about the outlook for inflation. Participants' projections for headline inflation for 2012, which in June had ranged from 1.2 to 2 percent, narrowed in September to the range of 1.5 to 1.9 percent; about three-fourths of participants' projections took values of 1.7 to 1.8 percent, broadly in line with recent inflation readings. The distributions of participants' projections for headline inflation in 2013 and 2014 were very similar to those for June, while the range of projections for core inflation narrowed slightly for both years. The distributions for core and overall inflation in 2015 were concentrated near the Committee's longer-run inflation objective of 2 percent.
+
+Figure 3.C. Distribution of participants' projections for PCE inflation, 2012-15 and over the longer run
+*
+
+*
+NOTE: Definitions of variables are in the general note to table 1.
+
+Accessible version of figure 3.C
+|
+Return to figure 3.C
+
+Appropriate Monetary Policy
+
+As indicated in figure 2, most participants judged that exceptionally low levels of the federal funds rate would remain appropriate for several more years. In particular, 12 participants thought that the first increase in the target federal funds rate would not be warranted until 2015, and 1 viewed a start to firming in 2016 as appropriate (upper panel). The 12 participants who expected that the target federal funds rate would not move above its effective lower bound until 2015 thought the federal funds rate would be 1.6 percent or lower at the end of that year, while the one participant who expected that policy firming would commence in 2016 saw the funds rate target at 75 basis points at the end of that year. Six participants judged that policy firming in 2012, 2013, or 2014 would be consistent with the Committee's statutory mandate. Those participants judged that the appropriate value for the federal funds rate would range from 1-1/2 to 3 percent at the end of 2014 and from 2-1/2 to 4-1/2 percent at the end of 2015. In total, 14 participants judged that appropriate monetary policy called for a more-accommodative path for the federal funds rate than in their June submissions, involving either a lower target for the federal funds rate at the end of the initial year of policy firming, or a shift out in the first year of firming.
+
+All participants reported levels for the appropriate target federal funds rate at the end of 2014 that were well below their estimates of the level expected to prevail in the longer run, and most saw the appropriate target federal funds rate as still well below its longer-run value at the end of 2015. Estimates of the longer-run target federal funds rate ranged from 3 to 4-1/2 percent, reflecting the Committee's inflation objective of 2 percent and participants' judgments about the longer-run equilibrium level of the real federal funds rate.
+
+Figure 3.D. Distribution of participants' projections for core PCE inflation, 2012-15
+*
+
+*
+NOTE: Definitions of variables are in the general note to table 1.
+
+Accessible version of figure 3.D
+|
+Return to figure 3.D
+
+Participants also provided qualitative information on their views regarding the appropriate path of the Federal Reserve's balance sheet. Eleven participants indicated that appropriate policy would involve a decision by the Committee, at the September meeting or soon thereafter, to undertake significant additional asset purchases. Several participants envisioned this program as entailing purchases of agency mortgage-backed securities. Almost all participants assumed that, at the appropriate time, the Committee would carry out the normalization of the balance sheet according to the principles approved at the June 2011 FOMC meeting. In general, participants linked their preferred start dates for the normalization process to their views for the appropriate timing of the first increase in the target federal funds rate.
+
+The key factors informing participants' individual assessments of the appropriate setting for monetary policy included their judgments regarding labor market conditions that would be consistent with the maximum level of employment, the extent to which employment currently deviated from the maximum level of employment, the extent to which inflation deviated from the Committee's longer-term objective of 2 percent, and participants' projections of the likely time horizon necessary to return employment and inflation to mandate-consistent levels. Several participants noted that their assessments of appropriate monetary policy reflected the subpar pace of labor market improvement and the persistent shortfall of output from potential since the 2007-09 recession. A few participants noted that their settings of appropriate federal funds rate policy took into account unusual factors prevailing in recent years, such as the likelihood that the neutral level of the federal funds rate was somewhat below its historical norm and the fact that policy rate setting had been constrained by the effective lower bound on nominal interest rates. Two participants expressed concern that a protracted period of very accommodative monetary policy could lead to imbalances in the financial system. Participants also noted that because the appropriate stance of monetary policy is conditional on the evolution of real activity and inflation over time, their assessments of the appropriate future path of the federal funds rate and the balance sheet could change if economic conditions were to evolve in an unexpected manner.
+
+Figure 3.E details the distribution of participants' judgments regarding the appropriate level of the target federal funds rate at the end of each calendar year from 2012 to 2015 and over the longer run. As previously noted, most participants judged that economic conditions would warrant maintaining the current low level of the federal funds rate through the end of 2014. Views on the appropriate level of the federal funds rate at the end of 2015 were more widely dispersed, with 10 participants seeing the appropriate level of the federal funds rate as 1 percent or lower and 6 of them seeing the appropriate rate as 2-1/2 percent or higher. Those who judged that a longer period of very accommodative monetary policy would be appropriate generally were participants who projected a sizable gap between the unemployment rate and the longer-run normal level of the unemployment rate until 2015 or later. In contrast, the 6 participants who judged that policy firming should begin in 2012, 2013, or 2014 indicated that the Committee would need to act relatively soon in order to keep inflation near the FOMC's longer-run objective of 2 percent and to prevent a rise in inflation expectations.
+
+Figure 3.E. Distribution of participants' projections for the target federal funds rate, 2012-15 and over the longer run
+*
+
+*
+NOTE: The target federal funds rate is measured as the level of the target rate at the end of the calendar year or in the longer run.
+
+Accessible version of figure 3.E
+|
+Return to figure 3.E
+
+Uncertainty and Risks
+
+Nearly all participants judged that their current level of uncertainty about real GDP growth and unemployment was higher than was the norm during the previous 20 years (figure 4).
+1
+
+Eight participants judged the level of uncertainty associated with their forecasts of total PCE inflation to be higher as well, while another 10 participants viewed uncertainty about inflation as broadly similar to historical norms. The main factors cited as contributing to the elevated uncertainty about economic outcomes were the ongoing fiscal and financial situation in Europe, the outlook for fiscal policy in the United States, and a general slowdown in global economic growth, including the possibility of a significant slowdown in China. As in June, participants noted the difficulties associated with forecasting the path of the U.S. economic recovery following a financial crisis and recession that differed markedly from recent historical experience. A number of participants commented that in the aftermath of the financial crisis, they were more uncertain about the level of potential output and its rate of growth. A couple of participants noted that some of the uncertainty about potential output arose from the risk that continuation of long-term unemployment might impair the skill level of the labor force or cause some workers to retire earlier than would otherwise have been the case, thereby reducing potential output in the medium term.
+
+Table 2. Average historical projection error ranges
+
+Percentage points
+
+[TABLE]
+Variable | 2012 | 2013 | 2014 | 2015
+Change in real GDP 1 | ±0.6 | ±1.4 | ±1.7 | ±1.7
+Unemployment rate 1 | ±0.2 | ±0.9 | ±1.5 | ±1.9
+Total consumer prices 2 | ±0.5 | ±0.9 | ±1.1 | ±1.0
+[/TABLE]
+
+Note
+: Error ranges shown are measured as plus or minus the root mean squared error of projections for 1992 through 2011 that were released in the summer by various private and government forecasters. As described in the box "Forecast Uncertainty," under certain assumptions, there is about a 70 percent probability that actual outcomes for real GDP, unemployment, and consumer prices will be in ranges implied by the average size of projection errors made in the past. Further information is in David Reifschneider and Peter Tulip (2007), "
+Gauging the Uncertainty of the Economic Outlook from Historical Forecasting Errors
+," Finance and Economics Discussion Series 2007-60 (Washington: Board of Governors of the Federal Reserve System, November).
+
+1. Definitions of variables are in the general note to table 1.
+Return to table
+
+2. Measure is the overall consumer price index, the price measure that has been most widely used in government and private economic forecasts. Projection is percent change, fourth quarter of the previous year to the fourth quarter of the year indicated.
+Return to table
+
+A majority of participants reported that they saw the risks to their forecasts of real GDP growth as weighted toward the downside and, accordingly, the risks to their projections of the unemployment rate as tilted to the upside. The most frequently identified sources of risk were the situation in Europe, which many participants thought had the potential to slow global economic activity further, particularly over the near term, and issues associated with fiscal policy in the United States.
+
+Most participants continued to judge the risks to their projections for inflation as broadly balanced, with several highlighting the recent stability of inflation expectations. However, four participants saw the risks to inflation as tilted to the downside, with a couple of them noting that slack in resource markets could turn out to be greater than they were anticipating. Three participants saw the risks to inflation as weighted to the up side in light of concerns about U.S. fiscal imbalances, the current highly accommodative stance of monetary policy, and uncertainty about the Committee's ability to shift to a less accommodative policy stance when it becomes appropriate to do so.
+
+Figure 4. Uncertainty and risks in economic projections
+*
+
+*
+NOTE: For definitions of uncertainty and risks in economic projections, see the box “Forecast Uncertainty.” Definitions of variables are in the general note to table 1.
+
+Accessible version of figure 4
+|
+Return to figure 4
+
+Forecast Uncertainty
+
+The economic projections provided by the members of the Board of Governors and the presidents of the Federal Reserve Banks inform discussions of monetary policy among policymakers and can aid public understanding of the basis for policy actions. Considerable uncertainty attends these projections, however. The economic and statistical models and relationships used to help produce economic forecasts are necessarily imperfect descriptions of the real world, and the future path of the economy can be affected by myriad unforeseen developments and events. Thus, in setting the stance of monetary policy, participants consider not only what appears to be the most likely economic outcome as embodied in their projections, but also the range of alternative possibilities, the likelihood of their occurring, and the potential costs to the economy should they occur.
+
+Table 2 summarizes the average historical accuracy of a range of forecasts, including those reported in past
+Monetary Policy Report
+s and those prepared by the Federal Reserve Board's staff in advance of meetings of the Federal Open Market Committee. The projection error ranges shown in the table illustrate the considerable uncertainty associated with economic forecasts. For example, suppose a participant projects that real gross domestic product (GDP) and total consumer prices will rise steadily at annual rates of, respectively, 3 percent and 2 percent. If the uncertainty attending those projections is similar to that experienced in the past and the risks around the projections are broadly balanced, the numbers reported in table 2 would imply a probability of about 70 percent that actual GDP would expand within a range of 2.4 to 3.6 percent in the current year, 1.6 to 4.4 percent in the second year, and 1.3 to 4.7 percent in the third and fourth years. The corresponding 70 percent confidence intervals for overall inflation would be 1.5 to 2.5 percent in the current year, 1.1 to 2.9 percent in the second year, 0.9 to 3.1 percent in the third year, and 1.0 to 3.0 percent in the fourth year.
+
+Because current conditions may differ from those that prevailed, on average, over history, participants provide judgments as to whether the uncertainty attached to their projections of each variable is greater than, smaller than, or broadly similar to typical levels of forecast uncertainty in the past, as shown in table 2. Participants also provide judgments as to whether the risks to their projections are weighted to the upside, are weighted to the downside, or are broadly balanced. That is, participants judge whether each variable is more likely to be above or below their projections of the most likely outcome. These judgments about the uncertainty and the risks attending each participant's projections are distinct from the diversity of participants' views about the most likely outcomes. Forecast uncertainty is concerned with the risks associated with a particular projection rather than with divergences across a number of different projections.
+
+As with real activity and inflation, the outlook for the future path of the federal funds rate is subject to considerable uncertainty. This uncertainty arises primarily because each participant's assessment of the appropriate stance of monetary policy depends importantly on the evolution of real activity and inflation over time. If economic conditions evolve in an unexpected manner, then assessments of the appropriate setting of the federal funds rate would change from that point forward.
+
+1.
+Table 2 provides estimates of the forecast uncertainty for the change in real GDP, the unemployment rate, and total consumer price inflation over the period from 1991 to 2011. At the end of this summary, the box "Forecast Uncertainty" discusses the sources and interpretation of uncertainty in the economic forecasts and explains the approach used to assess the uncertainty and risks attending the participants' projections.
+Return to text

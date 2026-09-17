@@ -1,0 +1,293 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20111102epa.htm
+TYPE: I (SEP) — accessible figure data for the SEP addendum to the minutes
+
+Home
+
+>
+Monetary Policy
+
+>
+Federal Open Market Committee
+
+>
+FOMC Minutes, November 1-2, 2011
+
+Print
+
+Accessible Version
+
+Table data for charts presented with Summary of Economic Projections given within the FOMC Minutes on November 1-2, 2011.
+
+FOMC Minutes
+
+Summary of Economic Projections
+
+Figure 1.
+Central tendencies and ranges of economic projections, 2011-14 and over the longer run
+
+Central tendencies and ranges of economic projections for years 2011 through 2014 and over the longer run. Actual values for years 2006 through 2010. The data for the actual values of the variables are annual. Definitions of variables are in the notes to table 1.
+
+Change in real GDP
+
+Percent
+
+[TABLE]
+| 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | Longer Run
+Actual | 2.4 | 2.2 | (3.3) | (0.5) | 3.1 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.8 | 3.5 | 4.0 | 4.5 | 3.0
+Upper End of Central Tendency | - | - | - | - | - | 1.7 | 2.9 | 3.5 | 3.9 | 2.7
+Lower End of Central Tendency | - | - | - | - | - | 1.6 | 2.5 | 3.0 | 3.0 | 2.4
+Lower End of Range | - | - | - | - | - | 1.6 | 2.3 | 2.7 | 2.7 | 2.2
+[/TABLE]
+
+Unemployment rate
+
+Percent
+
+[TABLE]
+| 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | Longer Run
+Actual | 4.5 | 4.8 | 6.9 | 10.0 | 9.6 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 9.1 | 8.9 | 8.4 | 8.0 | 6.0
+Upper End of Central Tendency | - | - | - | - | - | 9.1 | 8.7 | 8.2 | 7.7 | 6.0
+Lower End of Central Tendency | - | - | - | - | - | 9.0 | 8.5 | 7.8 | 6.8 | 5.2
+Lower End of Range | - | - | - | - | - | 8.9 | 8.1 | 7.5 | 6.5 | 5.0
+[/TABLE]
+
+PCE inflation
+
+Percent
+
+[TABLE]
+| 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | Longer Run
+Actual | 1.9 | 3.5 | 1.7 | 1.5 | 1.3 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 3.3 | 2.8 | 2.5 | 2.4 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 2.9 | 2.0 | 2.0 | 2.0 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 2.7 | 1.4 | 1.5 | 1.5 | 1.7
+Lower End of Range | - | - | - | - | - | 2.5 | 1.4 | 1.4 | 1.5 | 1.5
+[/TABLE]
+
+Core PCE inflation
+
+Percent
+
+[TABLE]
+| 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | Longer Run
+Actual | 2.3 | 2.4 | 2.0 | 1.7 | 1.0 | - | - | - | - | n.a.
+Upper End of Range | - | - | - | - | - | 2.0 | 2.1 | 2.1 | 2.2 | n.a.
+Upper End of Central Tendency | - | - | - | - | - | 1.9 | 2.0 | 1.9 | 2.0 | n.a.
+Lower End of Central Tendency | - | - | - | - | - | 1.8 | 1.5 | 1.4 | 1.5 | n.a.
+Lower End of Range | - | - | - | - | - | 1.7 | 1.3 | 1.4 | 1.4 | n.a.
+[/TABLE]
+
+Figure 2.
+Uncertainty and risks in economic projections
+
+Histograms, eight panels. For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty." Definitions of variables are in the general note to table 1.
+
+Uncertainty about GDP growth
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+November projections | 0 | 1 | 16
+June projections | 0 | 4 | 13
+[/TABLE]
+
+Uncertainty about Unemployment
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+November projections | 0 | 3 | 14
+June projections | 0 | 4 | 13
+[/TABLE]
+
+Uncertainty about PCE inflation
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+November projections | 1 | 4 | 12
+June projections | 1 | 2 | 14
+[/TABLE]
+
+Uncertainty about Core PCE inflation
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+November projections | 1 | 5 | 11
+June projections | 1 | 4 | 12
+[/TABLE]
+
+Risks to GDP Growth
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+November projections | 11 | 6 | 0
+June projections | 11 | 6 | 0
+[/TABLE]
+
+Risks to Unemployment
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+November projections | 0 | 6 | 11
+June projections | 0 | 8 | 9
+[/TABLE]
+
+Risks to PCE inflation
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+November projections | 4 | 10 | 3
+June projections | 1 | 10 | 6
+[/TABLE]
+
+Risks to Core PCE inflation
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+November projections | 4 | 10 | 3
+June projections | 2 | 9 | 6
+[/TABLE]
+
+Figure 3.A.
+Distribution of participants' projections for the change in real GDP, 2011-14 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2011 | 2012 | 2013 | 2014 | Longer Run
+November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections
+1.6 - 1.7 | 14 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+1.8 - 1.9 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+2 - 2.1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+2.2 - 2.3 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | n.a. | 3 | 0
+2.4 - 2.5 | 0 | 2 | 6 | 0 | 0 | 0 | 0 | n.a. | 8 | 10
+2.6 - 2.7 | 0 | 7 | 5 | 0 | 1 | 0 | 1 | n.a. | 4 | 2
+2.8 - 2.9 | 0 | 6 | 3 | 0 | 1 | 0 | 1 | n.a. | 1 | 4
+3 - 3.1 | 0 | 2 | 0 | 1 | 7 | 1 | 3 | n.a. | 1 | 1
+3.2 - 3.3 | 0 | 0 | 1 | 2 | 4 | 2 | 1 | n.a. | 0 | 0
+3.4 - 3.5 | 0 | 0 | 1 | 7 | 2 | 3 | 5 | n.a. | 0 | 0
+3.6 - 3.7 | 0 | 0 | 0 | 3 | 0 | 2 | 0 | n.a. | 0 | 0
+3.8 - 3.9 | 0 | 0 | 0 | 2 | 1 | 2 | 3 | n.a. | 0 | 0
+4 - 4.1 | 0 | 0 | 0 | 1 | 1 | 3 | 1 | n.a. | 0 | 0
+4.2 - 4.3 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | n.a. | 0 | 0
+4.4 - 4.5 | 0 | 0 | 0 | 0 | 0 | 2 | 1 | n.a. | 0 | 0
+[/TABLE]
+
+Figure 3.B.
+Distribution of participants' projections for the unemployment rate, 2011-14 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2011 | 2012 | 2013 | 2014 | Longer Run
+November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections
+5.0 - 5.1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 1 | 2
+5.2 - 5.3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 7 | 6
+5.4 - 5.5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 3 | 5
+5.6 - 5.7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 1 | 1
+5.8 - 5.9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 1
+6 - 6.1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 5 | 2
+6.2 - 6.3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+6.4 - 6.5 | 0 | 0 | 0 | 0 | 0 | 2 | 2 | n.a. | 0 | 0
+6.6 - 6.7 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | n.a. | 0 | 0
+6.8 - 6.9 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | n.a. | 0 | 0
+7 - 7.1 | 0 | 0 | 0 | 0 | 0 | 6 | 2 | n.a. | 0 | 0
+7.2 - 7.3 | 0 | 0 | 0 | 0 | 0 | 2 | 3 | n.a. | 0 | 0
+7.4 - 7.5 | 0 | 0 | 0 | 2 | 3 | 3 | 2 | n.a. | 0 | 0
+7.6 - 7.7 | 0 | 0 | 0 | 1 | 0 | 2 | 4 | n.a. | 0 | 0
+7.8 - 7.9 | 0 | 0 | 0 | 1 | 2 | 0 | 1 | n.a. | 0 | 0
+8 - 8.1 | 0 | 0 | 1 | 9 | 5 | 0 | 1 | n.a. | 0 | 0
+8.2 - 8.3 | 0 | 0 | 0 | 2 | 6 | 1 | 0 | n.a. | 0 | 0
+8.4 - 8.5 | 0 | 3 | 5 | 1 | 1 | 0 | 0 | n.a. | 0 | 0
+8.6 - 8.7 | 0 | 7 | 9 | 1 | 0 | 0 | 0 | n.a. | 0 | 0
+8.8 - 8.9 | 1 | 4 | 2 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+9 - 9.1 | 16 | 3 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+[/TABLE]
+
+Figure 3.C.
+Distribution of participants' projections for PCE inflation, 2011-14 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2011 | 2012 | 2013 | 2014 | Longer Run
+November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections
+1.1 - 1.2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | n.a. | 0 | 0
+1.3 - 1.4 | 0 | 0 | 4 | 2 | 2 | 3 | 0 | n.a. | 0 | 0
+1.5 - 1.6 | 0 | 0 | 3 | 7 | 5 | 4 | 6 | n.a. | 3 | 3
+1.7 - 1.8 | 0 | 0 | 4 | 2 | 4 | 2 | 3 | n.a. | 2 | 3
+1.9 - 2.0 | 0 | 0 | 3 | 3 | 4 | 6 | 6 | n.a. | 12 | 11
+2.1 - 2.2 | 0 | 3 | 2 | 0 | 0 | 1 | 0 | n.a. | 0 | 0
+2.3 - 2.4 | 0 | 8 | 0 | 0 | 1 | 0 | 2 | n.a. | 0 | 0
+2.5 - 2.6 | 3 | 3 | 0 | 1 | 1 | 1 | 0 | n.a. | 0 | 0
+2.7 - 2.8 | 6 | 0 | 1 | 1 | 0 | 0 | 0 | n.a. | 0 | 0
+2.9 - 3.0 | 7 | 1 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+3.1 - 3.2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+3.3 - 3.4 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+3.5 - 3.6 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | n.a. | 0 | 0
+[/TABLE]
+
+Figure 3.D.
+Distribution of participants' projections for core PCE inflation, 2011-14
+
+Histograms, three panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2011 | 2012 | 2013 | 2014
+November projections | June projections | November projections | June projections | November projections | June projections | November projections | June projections
+1.1 - 1.2 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | n.a.
+1.3 - 1.4 | 0 | 0 | 2 | 5 | 4 | 4 | 3 | n.a.
+1.5 - 1.6 | 0 | 8 | 6 | 5 | 5 | 5 | 4 | n.a.
+1.7 - 1.8 | 10 | 7 | 4 | 2 | 3 | 2 | 4 | n.a.
+1.9 - 2.0 | 7 | 1 | 3 | 3 | 4 | 5 | 5 | n.a.
+2.1 - 2.2 | 0 | 0 | 2 | 0 | 1 | 0 | 1 | n.a.
+2.3 - 2.4 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | n.a.
+2.5 - 2.6 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | n.a.
+[/TABLE]
+
+Return to top
+
+Last update:
+
+November 22, 2011
+
+Home
+
+|
+Monetary Policy
+
+Accessibility
+
+Contact us
+
+Disclaimer
+
+Linking Policy
+
+FOIA
+
+PDF Reader

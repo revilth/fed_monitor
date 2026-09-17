@@ -1,0 +1,170 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20090624ep.htm
+TYPE: I (SEP) — Summary of Economic Projections addendum to the minutes
+
+Home
+
+>
+Monetary Policy
+
+>
+Federal Open Market Committee
+
+>
+FOMC Minutes, June 23-24, 2009
+
+Print
+
+Minutes of the Federal Open Market Committee
+
+June 23-24, 2009
+
+[TABLE]
+FOMC Minutes | Summary of Economic Projections
+[/TABLE]
+
+In conjunction with the June 23-24, 2009, FOMC meeting, the members of the Board of Governors and the presidents of the Federal Reserve Banks, all of whom participate in deliberations of the FOMC, submitted projections for output growth, unemployment, and inflation in 2009, 2010, 2011, and over the longer run. Projections were based on information available through the end of the meeting and on each participant's assumptions about factors likely to affect economic outcomes, including his or her assessment of appropriate monetary policy. "Appropriate monetary policy" is defined as the future path of policy that the participant deems most likely to foster outcomes for economic activity and inflation that best satisfy his or her interpretation of the Federal Reserve's dual objectives of maximum employment and stable prices. Longer-run projections represent each participant's assessment of the rate to which each variable would be expected to converge over time under appropriate monetary policy and in the absence of further shocks.
+
+FOMC participants generally expected that, after declining over the first half of this year, output would expand sluggishly over the remainder of the year. Consequently, as indicated in table 1 and depicted in figure 1, all FOMC participants projected that real gross domestic product (GDP) would contract over the entirety of this year and that the unemployment rate would increase in coming quarters. All participants also expected that overall inflation would be somewhat slower this year than in recent years, and most projected that core inflation would edge down this year. Almost all participants viewed the near-term outlook for domestic output as having improved modestly relative to the projections they made at the time of the April FOMC meeting, reflecting both a slightly less severe contraction in the first half of 2009 and a moderately stronger, but still sluggish, recovery in the second half. With the strong adverse forces that have been acting on the economy likely to abate only slowly, participants generally expected the recovery to be gradual in 2010. Even though all participants had raised their near-term outlook for real GDP, in light of incoming data on labor markets, they increased their projections for the path of the unemployment rate from those published in April. Participants foresaw only a gradual improvement in labor market conditions in 2010 and 2011, leaving the unemployment rate at the end of 2011 well above the level they viewed as its longer-run sustainable rate. Participants projected low inflation this year. For 2010 and 2011, the central tendencies of the participants' inflation forecasts pointed to fairly stable inflation that would be modestly below most participants' estimates of the rate consistent with the dual objectives; however, the divergence of participants' views about the inflation outlook remained wide. Most participants indicated that they expected the economy to take five or six years to converge to a longer-run path characterized by a sustainable rate of output growth and by rates of unemployment and inflation consistent with the Federal Reserve's dual objectives, but several said full convergence would take longer. In contrast to recent projections, a majority of participants perceived the risks to growth as roughly balanced, although several still viewed those risks as tilted to the downside. Most participants saw the risks surrounding their inflation outlook as roughly balanced, and fewer participants than in April characterized those risks as skewed to the downside. With few exceptions, participants judged that the projections for economic activity and inflation remained subject to a degree of uncertainty exceeding historical norms.
+
+[TABLE] Table 1. Economic projections of Federal Reserve Governors and Reserve Bank presidents, June 2009 Percent
+Variable | Central tendency 1 | Range 2
+2009 | 2010 | 2011 | Longer Run | 2009 | 2010 | 2011 | Longer Run
+Change in real GDP | -1.5 to -1.0 | 2.1 to 3.3 | 3.8 to 4.6 | 2.5 to 2.7 | -1.6 to -0.6 | 0.8 to 4.0 | 2.3 to 5.0 | 2.4 to 2.8
+April projection | -2.0 to -1.3 | 2.0 to 3.0 | 3.5 to 4.8 | 2.5 to 2.7 | -2.5 to -0.5 | 1.5 to 4.0 | 2.3 to 5.0 | 2.4 to 3.0
+Unemployment rate | 9.8 to 10.1 | 9.5 to 9.8 | 8.4 to 8.8 | 4.8 to 5.0 | 9.7 to 10.5 | 8.5 to 10.6 | 6.8 to 9.2 | 4.5 to 6.0
+April projection | 9.2 to 9.6 | 9.0 to 9.5 | 7.7 to 8.5 | 4.8 to 5.0 | 9.1 to 10.0 | 8.0 to 9.6 | 6.5 to 9.0 | 4.5 to 5.3
+PCE inflation | 1.0 to 1.4 | 1.2 to 1.8 | 1.1 to 2.0 | 1.7 to 2.0 | 1.0 to 1.8 | 0.9 to 2.0 | 0.5 to 2.5 | 1.5 to 2.1
+April projection | 0.6 to 0.9 | 1.0 to 1.6 | 1.0 to 1.9 | 1.7 to 2.0 | -0.5 to 1.2 | 0.7 to 2.0 | 0.5 to 2.5 | 1.5 to 2.0
+Core PCE inflation 3 | 1.3 to 1.6 | 1.0 to 1.5 | 0.9 to 1.7 | | 1.2 to 2.0 | 0.5 to 2.0 | 0.2 to 2.5 |
+April projection | 1.0 to 1.5 | 0.7 to 1.3 | 0.8 to 1.6 | | 0.7 to 1.6 | 0.5 to 2.0 | 0.2 to 2.5 |
+[/TABLE]
+
+Note
+: Projections of change in real gross domestic product (GDP) and in inflation are from the fourth quarter of the previous year to the fourth quarter of the year indicated. PCE inflation and core PCE inflation are the percentage rates of change in, respectively, the price index for personal consumption expenditures (PCE) and the price index for PCE excluding food and energy. Projections for the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. Each participant's projections are based on his or her assessment of appropriate monetary policy. Longer-run projections represent each participant's assessment of the rate to which each variable would be expected to converge under appropriate monetary policy and in the absence of further shocks to the economy. The April projections were made in conjunction with the meeting of the Federal Open Market Committee on April 28-29, 2009.
+
+1. The central tendency excludes the three highest and three lowest projections for each variable in each year.
+Return to table
+
+2. The range for a variable in a given year includes all participants' projections, from lowest to highest, for that variable in that year.
+Return to table
+
+3. Longer-run projections for core PCE inflation are not collected.
+Return to table
+
+Figure 1. Central tendencies and ranges of economic projections, 2009–11 and over the longer run
+*
+
+*
+Accessible version of figure 1
+|
+Return to figure 1
+
+The Outlook
+Participants' projections for the change in real GDP in 2009 had a central tendency of negative 1.5 percent to negative 1.0 percent, somewhat above the central tendency of negative 2.0 percent to negative 1.3 percent for their April projections. Participants noted that the data received between the April and June FOMC meetings pointed to a somewhat smaller decline in output during the first half of the year than they had anticipated at the time of the April meeting. Moreover, participants saw additional indications that the economic downturn in the United States and worldwide was moderating in the second quarter, and they continued to expect that sales and production would begin to recover gradually during the second half of the year, reflecting the effects of monetary and fiscal stimulus, measures to support credit markets, and diminishing financial stresses. As reasons for marking up their projections for near-term economic activity, participants pointed to a further improvement in financial conditions during the intermeeting period, signs of stabilization in consumer spending, and tentative indications of a leveling out of activity in the housing sector. In addition, they observed that aggressive inventory reductions during the first half of this year appeared to have left firms' stocks in better balance with sales, suggesting that production is likely to increase as sales stabilize and then start to turn up later this year. Participants expected, however, that recoveries in consumer spending and residential investment initially would be damped by further deterioration in labor markets, the continued repair of household balance sheets, persistently tight credit conditions, and still-weak housing demand. They also anticipated that very low capacity utilization, sluggish growth in sales, uncertainty about the economic environment, and a continued elevated cost and limited availability of financing would contribute to continued weakness in business fixed investment this year. Some participants noted that weak economic conditions in other countries probably would hold down growth in U.S. exports. A number of participants also saw recent increases in some long-term interest rates and in oil prices as factors that could damp a near-term economic recovery.
+
+Looking further ahead, participants' projections for real GDP growth in 2010 and 2011 were not materially different from those provided in April. The projections for growth in 2010 had a central tendency of 2.1 to 3.3 percent, and those for 2011 had a central tendency of 3.8 to 4.6 percent. Participants generally expected that household financial positions would improve only gradually and that strains in credit markets and in the banking system would ebb slowly; hence, the pace of recovery would continue to be damped in 2010. But they anticipated that the upturn would strengthen in late 2010 and in 2011 to a pace exceeding the growth rate of potential GDP. Participants noted several factors contributing to this pickup, including accommodative monetary policy, fiscal stimulus, and continued improvement in financial conditions and household balance sheets. Beyond 2011, they expected that output growth would remain above that of potential GDP for a time, leading to a gradual elimination of slack in resource utilization. Over the longer run, most participants expected that, without further shocks, real GDP growth eventually would converge to a rate of 2.5 to 2.7 percent per year, reflecting longer-term trends in the growth of productivity and the labor force.
+
+Even though participants raised their output growth forecasts, they also moved up their unemployment rate projections and continued to anticipate that labor market conditions would deteriorate further over the remainder of the year. Their projections for the average unemployment rate during the fourth quarter of 2009 had a central tendency of 9.8 to 10.1 percent, about 1/2 percentage point above the central tendency of their April projections and noticeably higher than the actual unemployment rate of 9.4 percent in May--the latest reading available at the time of the June FOMC meeting. All participants raised their forecasts of the unemployment rate at the end of this year, reflecting the sharper-than-expected rise in unemployment that occurred over the intermeeting period. With little material change in projected output growth in 2010 and 2011, participants still expected unemployment to decline in those years, but the projected unemployment rate in each year was about 1/2 percentage point above the April forecasts, reflecting the higher starting point of the projections. Most participants anticipated that output growth next year would not substantially exceed its longer-run sustainable rate and hence that the unemployment rate would decline only modestly in 2010; some also pointed to frictions associated with the re-allocation of labor from shrinking economic sectors to expanding sectors as likely to restrain progress in reducing unemployment. The central tendency of the unemployment rate at the end of 2010 was 9.5 to 9.8 percent. With output growth and job creation generally projected to pick up appreciably in 2011, participants anticipated that joblessness would decline more noticeably, as evident from the central tendency of 8.4 to 8.8 percent for their projections of the unemployment rate in the fourth quarter of 2011. They expected that the unemployment rate would decline considerably further in subsequent years as it moved back toward its longer-run sustainable level, which most participants still saw as between 4.8 and 5.0 percent; however, a few participants raised their estimates of the longer-run unemployment rate.
+
+The central tendency of participants' projections for personal consumption expenditures (PCE) inflation in 2009 was 1.0 to 1.4 percent, about 1/2 percentage point above the central tendency of their April projections. Participants noted that higher-than-expected inflation data over the intermeeting period and the anticipated influence of higher oil and commodity prices on consumer prices were factors contributing to the increase in their inflation forecasts. Looking beyond this year, participants' projections for total PCE inflation had central tendencies of 1.2 to 1.8 percent for 2010 and 1.1 to 2.0 percent for 2011, modestly higher than the central tendencies from the April projections. Reflecting the large increases in energy prices over the intermeeting period, the forecasts for core PCE inflation (which excludes the direct effects of movements in food and energy prices) in 2009 were raised by less than the projections for total PCE inflation, while the forecasts for core and total PCE inflation in 2010 and 2011 increased by similar amounts. The central tendency of projections for core inflation in 2009 was 1.3 to 1.6 percent; those for 2010 and 2011 were 1.0 to 1.5 percent and 0.9 to 1.7 percent, respectively. Most participants expected that sizable economic slack would continue to damp inflation pressures for the next few years and hence that total PCE inflation in 2011 would still be below their assessments of its appropriate longer-run level. Some thought that such slack would generate a decline in inflation over the next few years. Most, however, projected that, as the economy recovers, inflation would increase gradually and move closer to their individual assessments of the measured rate of inflation consistent with the Federal Reserve's dual mandate for maximum employment and price stability. Several participants, noting that the public's longer-run inflation expectations had not changed appreciably, expected that inflation would return more promptly to levels consistent with their judgments about longer-run inflation than these participants had projected in April. A few participants also anticipated that projected inflation in 2011 would be modestly above their longer-run inflation projections because of the possible effects of very low short-term interest rates and of the large expansion of the Federal Reserve's balance sheet on the public's inflation expectations. Overall, the range of participants' projections of inflation in 2011 remained quite wide.
+
+As in April, the central tendency of projections of the longer-run inflation rate was 1.7 to 2.0 percent. Most participants judged that a longer-run PCE inflation rate of 2 percent would be consistent with the Federal Reserve's dual mandate; others indicated that inflation of 1-1/2 percent or 1-3/4 percent would be appropriate. Modestly positive longer-run inflation would allow the Committee to stimulate economic activity and support employment by setting the federal funds rate temporarily below the inflation rate when the economy suffers a large negative shock to demands for goods and services.
+
+Uncertainty and Risks
+In contrast to the participants' views over the past several quarters, in June a majority of participants saw the risks to their projections for real GDP growth and the unemployment rate as broadly balanced. In explaining why they perceived a reduction in downside risks to the outlook, these participants pointed to the tentative signs of economic stabilization, indications of some effectiveness of monetary and fiscal policy actions, and improvements in financial conditions. In contrast, several participants still saw the risks to their GDP growth forecasts as skewed to the downside and the associated risks to unemployment as skewed to the upside. Almost all participants shared the judgment that their projections of future economic activity and unemployment continued to be subject to greater-than-average uncertainty.
+1
+Many participants again highlighted the still-considerable uncertainty about the future course of the financial crisis and the risk that a resurgence of financial turmoil could adversely impact the real economy. In addition, some noted the difficulty in gauging the macroeconomic effects of the credit-easing policies that have been employed by the Federal Reserve and other central banks, given the limited experience with such tools.
+
+Most participants judged the risks to the inflation outlook as roughly balanced, with the number doing so higher than in April. A few participants continued to view these risks as skewed to the downside, and one saw the inflation risks as tilted to the upside. Some participants noted the risk that inflation expectations might drift downward in response to persistently low inflation outcomes and continued significant slack in resource utilization. Several participants pointed to the possibility of an upward shift in expected and actual inflation if the stimulative monetary policy measures and the attendant expansion of the Federal Reserve's balance sheet were not unwound in a timely fashion as the economy recovers. Most participants again saw the uncertainty surrounding their inflation projections as exceeding historical norms.
+
+[TABLE] Table 2. Average historical projection error ranges Percentage points
+Variable | 2009 | 2010 | 2011
+Change in real GDP 1 | ±1.0 | ±1.5 | ±1.6
+Unemployment rate 1 | ±0.4 | ±0.8 | ±1.0
+Total consumer prices 2 | ±0.9 | ±1.0 | ±1.0
+[/TABLE]
+
+Note
+: Error ranges shown are measured as plus or minus the root mean squared error of projections that were released in the winter from 1989 through 2008 for the current and following two years by various private and government forecasters. As described in the box "Forecast Uncertainty," under certain assumptions, there is about a 70 percent probability that actual outcomes for real GDP, unemployment, and consumer prices will be in ranges implied by the average size of projection errors made in the past. Further information is in David Reifschneider and Peter Tulip (2007), "
+Gauging the Uncertainty of the Economic Outlook from Historical Forecasting Errors
+," Finance and Economics Discussion Series 2007-60 (Washington: Board of Governors of the Federal Reserve System, November).
+
+1. For definitions, refer to general note in table 1.
+Return to table
+
+2. Measure is the overall consumer price index, the price measure that has been most widely used in government and private economic forecasts. Projection is percent change, fourth quarter of the previous year to the fourth quarter of the year indicated.
+Return to table
+
+Diversity of Views
+Figures 2.A and 2.B provide further details on the diversity of participants' views regarding likely outcomes for real GDP growth and the unemployment rate in 2009, 2010, 2011, and over the longer run. The dispersion in participants' June projections for the next three years reflects, among other factors, the diversity of their assessments regarding the effects of fiscal stimulus and nontraditional monetary policy actions as well as the likely pace of improvement in financial conditions. For real GDP growth, the distribution of projections for 2009 narrowed and shifted slightly higher, reflecting the somewhat better-than-expected data received during the intermeeting period. The distributions for 2010 and 2011 changed little. For the unemployment rate, the surprisingly large increases in unemployment reported during the intermeeting period prompted an upward shift in the distribution. Because of the persistence exhibited in many of the unemployment forecasts, there were similar upward shifts in the distributions for 2010 and 2011. The dispersion of these forecasts for all three years was roughly similar to that of April. The distribution of participants' projections of longer-run real GDP growth was about unchanged. A few participants raised their longer-run projections of the unemployment rate, widening the dispersion of these estimates, as they incorporated the effects of unexpectedly high recent unemployment data and of the reallocation of labor from declining sectors to expanding ones. The dispersion in participants' longer-run projections reflected differences in their estimates regarding the sustainable rates of output growth and unemployment to which the economy would converge under appropriate monetary policy and in the absence of any further shocks.
+
+Figures 2.C and 2.D provide corresponding information about the diversity of participants' views regarding the inflation outlook. The distribution of the projections for total and core PCE inflation in 2009 moved upward, reflecting the higher inflation data released over the intermeeting period, while distributions for the projections in 2010 and 2011 did not change significantly. The dispersion in participants' projections for total and core PCE inflation for 2009, 2010, and 2011 illustrates their varying assessments of the effects on inflation and inflation expectations of persistent economic slack as well as of the recent expansion of the Federal Reserve's balance sheet. These varying assessments are especially evident in the wide dispersion of inflation projections for 2011. In contrast, the tight distribution of participants' projections for longer-run inflation illustrates their substantial agreement about the measured rate of inflation that is most consistent with the Federal Reserve's dual objectives of maximum employment and stable prices.
+
+Figure 2.A. Distribution of participants' projections for the change in real GDP, 2009–11 and over the longer run
+*
+
+*
+Accessible version of figure 2(a)
+|
+Return to figure 2(a)
+
+Figure 2.B. Distribution of participants' projections for the unemployment rate, 2009–11 and over the longer run
+*
+
+*
+Accessible version of figure 2(b)
+|
+Return to figure 2(b)
+
+Figure 2.C. Distribution of participants' projections for PCE inflation, 2009–11 and over the longer run
+*
+
+*
+Accessible version of figure 2(c)
+|
+Return to figure 2(c)
+
+Figure 2.D. Distribution of participants' projections for core PCE inflation, 2009–11
+*
+
+*
+Accessible version of figure 2(d)
+|
+Return to figure 2(d)
+
+Forecast Uncertainty
+
+The economic projections provided by the members of the Board of Governors and the presidents of the Federal Reserve Banks inform discussions of monetary policy among policymakers and can aid public understanding of the basis for policy actions. Considerable uncertainty attends these projections, however. The economic and statistical models and relationships used to help produce economic forecasts are necessarily imperfect descriptions of the real world. And the future path of the economy can be affected by myriad unforeseen developments and events. Thus, in setting the stance of monetary policy, participants consider not only what appears to be the most likely economic outcome as embodied in their projections, but also the range of alternative possibilities, the likelihood of their occurring, and the potential costs to the economy should they occur.
+
+Table 2 summarizes the average historical accuracy of a range of forecasts, including those reported in past
+Monetary Policy Report
+s and those prepared by Federal Reserve Board staff in advance of meetings of the Federal Open Market Committee. The projection error ranges shown in the table illustrate the considerable uncertainty associated with economic forecasts. For example, suppose a participant projects that real gross domestic product (GDP) and total consumer prices will rise steadily at annual rates of, respectively, 3 percent and 2 percent. If the uncertainty attending those projections is similar to that experienced in the past and the risks around the projections are broadly balanced, the numbers reported in table 2 would imply a probability of about 70 percent that actual GDP would expand within a range of 2.0 to 4.0 percent in the current year, 1.5 to 4.5 percent in the second year, and 1.4 to 4.6 percent in the third year. The corresponding 70 percent confidence intervals for overall inflation would be 1.1 to 2.9 percent in the current year and 1.0 to 3.0 percent in the second and third years.
+
+Because current conditions may differ from those that prevailed, on average, over history, participants provide judgments as to whether the uncertainty attached to their projections of each variable is greater than, smaller than, or broadly similar to typical levels of forecast uncertainty in the past as shown in table 2. Participants also provide judgments as to whether the risks to their projections are weighted to the upside, are weighted to the downside, or are broadly balanced. That is, participants judge whether each variable is more likely to be above or below their projections of the most likely outcome. These judgments about the uncertainty and the risks attending each participant's projections are distinct from the diversity of participants' views about the most likely outcomes. Forecast uncertainty is concerned with the risks associated with a particular projection rather than with divergences across a number of different projections.
+
+1.
+Table 2 provides estimates of forecast uncertainty for the change in real GDP, the unemployment rate, and total consumer price inflation over the period from 1989 to 2008. At the end of this summary, the box titled "Forecast Uncertainty" discusses the sources and interpretation of uncertainty in economic forecasts and explains the approach used to assess the uncertainty and risks attending participants' projections.
+Return to text
+
+Return to top
+
+Last update:
+
+July 15, 2009
+
+Home
+
+|
+Monetary Policy
+
+Accessibility
+
+Contact us
+
+Disclaimer
+
+Linking Policy
+
+FOIA
+
+PDF Reader

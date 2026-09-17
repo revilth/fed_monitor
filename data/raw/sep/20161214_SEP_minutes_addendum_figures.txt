@@ -1,0 +1,305 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20161214epa.htm
+TYPE: I (SEP) — accessible figure data for the SEP addendum to the minutes
+
+Accessible Version
+
+Table data for charts presented with Summary of Economic Projections given within the FOMC Minutes on December 13-14, 2016.
+
+Figure 1. Medians, central tendencies, and ranges of economic projections, 2016-19 and over the longer run
+
+Change in real GDP
+
+Percent
+
+[TABLE]
+| 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | Longer run
+Actual | 1.7 | 1.3 | 2.7 | 2.5 | 1.9 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 2.0 | 2.4 | 2.3 | 2.2 | 2.2
+Upper End of Central Tendency | - | - | - | - | - | 1.9 | 2.3 | 2.2 | 2.0 | 2.0
+Median | - | - | - | - | - | 1.9 | 2.1 | 2.0 | 1.9 | 1.8
+Lower End of Central Tendency | - | - | - | - | - | 1.8 | 1.9 | 1.8 | 1.8 | 1.8
+Lower End of Range | - | - | - | - | - | 1.8 | 1.7 | 1.7 | 1.5 | 1.6
+[/TABLE]
+
+Unemployment rate
+
+Percent
+
+[TABLE]
+| 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | Longer run
+Actual | 8.7 | 7.8 | 7.0 | 5.7 | 5.0 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 4.8 | 4.7 | 4.7 | 4.8 | 5.0
+Upper End of Central Tendency | - | - | - | - | - | 4.8 | 4.6 | 4.7 | 4.8 | 5.0
+Median | - | - | - | - | - | 4.7 | 4.5 | 4.5 | 4.5 | 4.8
+Lower End of Central Tendency | - | - | - | - | - | 4.7 | 4.5 | 4.3 | 4.3 | 4.7
+Lower End of Range | - | - | - | - | - | 4.7 | 4.4 | 4.2 | 4.1 | 4.5
+[/TABLE]
+
+PCE inflation
+
+Percent
+
+[TABLE]
+| 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | Longer run
+Actual | 2.7 | 1.8 | 1.2 | 1.2 | 0.4 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.6 | 2.0 | 2.2 | 2.2 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 1.5 | 2.0 | 2.0 | 2.1 | 2.0
+Median | - | - | - | - | - | 1.5 | 1.9 | 2.0 | 2.0 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 1.5 | 1.7 | 1.9 | 2.0 | 2.0
+Lower End of Range | - | - | - | - | - | 1.5 | 1.7 | 1.8 | 1.8 | 2.0
+[/TABLE]
+
+Core PCE Inflation
+
+Percent
+
+[TABLE]
+| 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | Longer run
+Actual | 1.9 | 1.8 | 1.5 | 1.6 | 1.4 | - | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.8 | 2.0 | 2.2 | 2.2 | n.a
+Upper End of Central Tendency | - | - | - | - | - | 1.8 | 1.9 | 2.0 | 2.0 | n.a
+Median | - | - | - | - | - | 1.7 | 1.8 | 2.0 | 2.0 | n.a
+Lower End of Central Tendency | - | - | - | - | - | 1.7 | 1.8 | 1.9 | 2.0 | n.a
+Lower End of Range | - | - | - | - | - | 1.6 | 1.7 | 1.8 | 1.8 | n.a
+[/TABLE]
+
+Note:
+Definitions of variables and other explanations are in the notes to the projections table. The data for the actual values of the variables are annual.
+
+Figure 2. FOMC participants' assessments of appropriate monetary policy: Midpoint of target range or target level for the federal funds rate
+
+[TABLE]
+Midpoint of target range or target level (Percent) | 2016 | 2017 | 2018 | 2019 | Longer run
+0.125 | | | | |
+0.250 | | | | |
+0.375 | | | | |
+0.500 | | | | |
+0.625 | 17 | | | |
+0.750 | | | | |
+0.875 | | 2 | 1 | 1 |
+1.000 | | | | |
+1.125 | | 4 | | |
+1.250 | | | | |
+1.375 | | 6 | | |
+1.500 | | | | |
+1.625 | | 3 | 1 | |
+1.750 | | 1 | | |
+1.875 | | | 5 | |
+2.000 | | | | |
+2.125 | | 1 | 3 | 1 |
+2.250 | | | | |
+2.375 | | | 2 | 2 |
+2.500 | | | | | 1
+2.625 | | | 2 | 3 |
+2.750 | | | | | 6
+2.875 | | | | 2 |
+3.000 | | | 1 | 2 | 7
+3.125 | | | | 2 |
+3.250 | | | 1 | 2 |
+3.375 | | | 1 | |
+3.500 | | | | | 1
+3.625 | | | | 1 |
+3.750 | | | | | 1
+3.875* | | | | 1 |
+[/TABLE]
+
+Note:
+Each shaded circle indicates the value (rounded to the nearest 1/8 percentage point) of an individual participant's judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate at the end of the specified calendar year or over the longer run. One participant did not submit longer-run projections for the federal funds rate.
+
+* On January 18, 2017, this entry was updated to include a missing data point; the values in the graphical version of Figure 2 were not affected.
+
+Figure 3.A.
+Distribution of participants' projections for the change in real GDP, 2016-19 and over the longer run
+
+Histograms, five panels.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2016 | 2017 | 2018 | 2019 | Longer Run
+December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections
+1.4 - 1.5 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0
+1.6 - 1.7 | 0 | 5 | 1 | 2 | 1 | 2 | 2 | 7 | 3 | 5
+1.8 - 1.9 | 15 | 9 | 3 | 3 | 4 | 3 | 7 | 4 | 8 | 6
+2 - 2.1 | 2 | 3 | 5 | 5 | 8 | 9 | 6 | 5 | 4 | 4
+2.2 - 2.3 | 0 | 0 | 6 | 5 | 4 | 2 | 1 | 1 | 1 | 1
+2.4 - 2.5 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0
+[/TABLE]
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.B.
+Distribution of participants' projections for the unemployment rate, 2016-19 and over the longer run
+
+Histograms, five panels.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2016 | 2017 | 2018 | 2019 | Longer Run
+December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections
+4 - 4.1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0
+4.2 - 4.3 | 0 | 0 | 0 | 0 | 4 | 3 | 3 | 3 | 0 | 0
+4.4 - 4.5 | 0 | 0 | 9 | 6 | 9 | 6 | 5 | 4 | 1 | 1
+4.6 - 4.7 | 9 | 4 | 8 | 9 | 4 | 5 | 4 | 6 | 7 | 7
+4.8 - 4.9 | 8 | 13 | 0 | 2 | 0 | 3 | 4 | 2 | 4 | 4
+5 - 5.1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 4 | 4
+[/TABLE]
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.C.
+Distribution of participants' projections for PCE inflation, 2016-19 and over the longer run
+
+Histograms, five panels.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2016 | 2017 | 2018 | 2019 | Longer Run
+December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections
+1.1 - 1.2 | 0 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+1.3 - 1.4 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+1.5 - 1.6 | 17 | 2 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0
+1.7 - 1.8 | 0 | 1 | 8 | 5 | 1 | 4 | 1 | 1 | 0 | 0
+1.9 - 2 | 0 | 0 | 9 | 9 | 14 | 13 | 12 | 15 | 17 | 17
+2.1 - 2.2 | 0 | 0 | 0 | 0 | 2 | 0 | 4 | 1 | 0 | 0
+[/TABLE]
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.D.
+Distribution of participants' projections for core PCE inflation, 2016-19
+
+Histograms, four panels.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2016 | 2017 | 2018 | 2019
+December projections | September projections | December projections | September projections | December projections | September projections | December projections | September projections
+1.5 - 1.6 | 1 | 8 | 0 | 2 | 0 | 0 | 0 | 0
+1.7 - 1.8 | 16 | 8 | 9 | 8 | 1 | 3 | 1 | 1
+1.9 - 2 | 0 | 1 | 8 | 7 | 14 | 14 | 13 | 15
+2.1 - 2.2 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 1
+[/TABLE]
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 3.E.
+Distribution of participants' judgments of the midpoint of the appropriate target range for the federal funds rate or the appropriate target level for the federal funds rate, 2016-19 and over the longer run
+
+Histograms, five panels.
+
+Number of Participants
+
+[TABLE]
+Percent Range | 2016 | 2017 | 2018 | 2019 | Longer Run
+December Projections | September Projections | December Projections | September Projections | December Projections | September Projections | December Projections | September Projections | December Projections | September Projections
+0.38 - 0.62 | 0 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+0.63 - 0.87 | 17 | 10 | 0 | 2 | 0 | 1 | 0 | 1 | 0 | 0
+0.88 - 1.12 | 0 | 3 | 2 | 1 | 1 | 0 | 1 | 0 | 0 | 0
+1.13 - 1.37 | 0 | 1 | 4 | 7 | 0 | 0 | 0 | 0 | 0 | 0
+1.38 - 1.62 | 0 | 0 | 6 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+1.63 - 1.87 | 0 | 0 | 4 | 3 | 1 | 2 | 0 | 0 | 0 | 0
+1.88 - 2.12 | 0 | 0 | 0 | 2 | 5 | 7 | 0 | 0 | 0 | 0
+2.13 - 2.37 | 0 | 0 | 1 | 1 | 3 | 1 | 1 | 1 | 0 | 0
+2.38 - 2.62 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 3 | 1 | 3
+2.63 - 2.87 | 0 | 0 | 0 | 0 | 2 | 4 | 3 | 6 | 6 | 5
+2.88 - 3.12 | 0 | 0 | 0 | 0 | 1 | 1 | 4 | 3 | 7 | 6
+3.13 - 3.37 | 0 | 0 | 0 | 0 | 1 | 1 | 4 | 1 | 0 | 0
+3.38 - 3.62 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 1
+3.63 - 3.87 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1
+3.88 - 4.12 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0
+[/TABLE]
+
+Note: Definitions of variables and other explanations are in the notes to table 1.
+
+Figure 4.
+Uncertainty and risks in economic projections
+
+Histograms, eight panels.
+
+Uncertainty about GDP growth
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+December projections | 0 | 11 | 6
+September projections | 1 | 15 | 1
+[/TABLE]
+
+Uncertainty about the unemployment
+rate
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+December projections | 0 | 12 | 5
+September projections | 1 | 15 | 1
+[/TABLE]
+
+Uncertainty about PCE inflation
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+December projections | 0 | 13 | 4
+September projections | 0 | 15 | 2
+[/TABLE]
+
+Uncertainty about core PCE inflation
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+December projections | 0 | 14 | 3
+September projections | 1 | 16 | 0
+[/TABLE]
+
+Risks to GDP growth
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+December projections | 1 | 12 | 4
+September projections | 4 | 12 | 1
+[/TABLE]
+
+Risks to the unemployment
+rate
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+December projections | 3 | 14 | 0
+September projections | 2 | 12 | 3
+[/TABLE]
+
+Risks to PCE inflation
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+December projections | 2 | 12 | 3
+September projections | 5 | 11 | 1
+[/TABLE]
+
+Risks to core PCE inflation
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+December projections | 2 | 12 | 3
+September projections | 5 | 11 | 1
+[/TABLE]
+
+Note: For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty." Definitions of variables are in the notes to table 1.

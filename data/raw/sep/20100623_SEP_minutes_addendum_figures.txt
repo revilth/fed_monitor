@@ -1,0 +1,211 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20100623epa.htm
+TYPE: I (SEP) — accessible figure data for the SEP addendum to the minutes
+
+Home
+
+>
+Monetary Policy
+
+>
+Federal Open Market Committee
+
+>
+FOMC Minutes, June 22-23, 2010
+
+Print
+
+Accessible Version
+
+Table data for charts presented with Summary of Economic Projections given within the FOMC Minutes on June 22-23, 2010.
+
+[TABLE]
+FOMC Minutes | Summary of Economic Projections
+[/TABLE]
+
+Figure 1.
+Central tendencies and ranges of economic projections, 2010-12 and over the longer run
+
+Central tendencies and ranges of economic projections for years 2010 through 2012 and over the longer run. Actual values for years 2005 through 2009. The data for the actual values of the variables are annual. Definitions of variables are in the notes to table 1.
+
+Change in real GDP
+
+Percent
+
+[TABLE]
+| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | Longer Run
+Actual | 2.7 | 2.4 | 2.5 | -1.9 | 0.1 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 3.8 | 4.5 | 5.0 | 3.0
+Upper End of Central Tendency | - | - | - | - | - | 3.5 | 4.2 | 4.5 | 2.8
+Lower End of Central Tendency | - | - | - | - | - | 3.0 | 3.5 | 3.5 | 2.5
+Lower End of Range | - | - | - | - | - | 2.9 | 2.9 | 2.8 | 2.4
+[/TABLE]
+
+Unemployment rate
+
+Percent
+
+[TABLE]
+| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | Longer Run
+Actual | 5.0 | 4.5 | 4.8 | 6.9 | 10.0 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 9.9 | 8.9 | 7.9 | 6.3
+Upper End of Central Tendency | - | - | - | - | - | 9.5 | 8.7 | 7.5 | 5.3
+Lower End of Central Tendency | - | - | - | - | - | 9.2 | 8.3 | 7.1 | 5.0
+Lower End of Range | - | - | - | - | - | 9.0 | 7.6 | 6.8 | 5.0
+[/TABLE]
+
+PCE inflation
+
+Percent
+
+[TABLE]
+| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | Longer Run
+Actual | 3.3 | 1.9 | 3.6 | 1.7 | 1.2 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.8 | 2.4 | 2.2 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 1.1 | 1.6 | 1.7 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 1.0 | 1.1 | 1.0 | 1.7
+Lower End of Range | - | - | - | - | - | 0.9 | 0.8 | 0.5 | 1.5
+[/TABLE]
+
+Core PCE inflation
+
+Percent
+
+[TABLE]
+| 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012
+Actual | 2.3 | 2.3 | 2.5 | 2.0 | 1.5 | - | - | -
+Upper End of Range | - | - | - | - | - | 1.5 | 2.4 | 2.2
+Upper End of Central Tendency | - | - | - | - | - | 1.0 | 1.3 | 1.5
+Lower End of Central Tendency | - | - | - | - | - | 0.8 | 0.9 | 1.0
+Lower End of Range | - | - | - | - | - | 0.7 | 0.6 | 0.4
+[/TABLE]
+
+Figure 2.A.
+Distribution of participants' projections for the change in real GDP, 2010-12 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2010 | 2011 | 2012 | Longer Run
+June projections | April projections | June projections | April projections | June projections | April projections | June projections | April projections
+2.4 - 2.5 | 0 | 0 | 0 | 0 | 0 | 0 | 10 | 8
+2.6 - 2.7 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 3
+2.8 - 2.9 | 1 | 0 | 1 | 0 | 1 | 1 | 5 | 5
+3.0 - 3.1 | 4 | 1 | 2 | 1 | 1 | 1 | 1 | 1
+3.2 - 3.3 | 4 | 4 | 0 | 1 | 1 | 1 | 0 | 0
+3.4 - 3.5 | 6 | 2 | 2 | 2 | 2 | 2 | 0 | 0
+3.6 - 3.7 | 1 | 7 | 2 | 0 | 0 | 0 | 0 | 0
+3.8 - 3.9 | 1 | 1 | 2 | 1 | 1 | 0 | 0 | 0
+4.0 - 4.1 | 0 | 1 | 4 | 1 | 2 | 3 | 0 | 0
+4.2 - 4.3 | 0 | 0 | 2 | 4 | 1 | 1 | 0 | 0
+4.4 - 4.5 | 0 | 0 | 2 | 6 | 5 | 5 | 0 | 0
+4.6 - 4.7 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0
+4.8 - 4.9 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0
+5.0 - 5.1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0
+[/TABLE]
+
+Figure 2.B.
+Distribution of participants' projections for the unemployment rate, 2010-12 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2010 | 2011 | 2012 | Longer Run
+June projections | April projections | June projections | April projections | June projections | April projections | June projections | April projections
+5.0 - 5.1 | 0 | 0 | 0 | 0 | 0 | 0 | 9 | 10
+5.2 - 5.3 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 5
+5.4 - 5.5 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0
+5.6 - 5.7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+5.8 - 5.9 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+6.0 - 6.1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1
+6.2 - 6.3 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1
+6.4 - 6.5 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0
+6.6 - 6.7 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0
+6.8 - 6.9 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0
+7.0 - 7.1 | 0 | 0 | 0 | 0 | 6 | 5 | 0 | 0
+7.2 - 7.3 | 0 | 0 | 0 | 1 | 5 | 3 | 0 | 0
+7.4 - 7.5 | 0 | 0 | 0 | 0 | 3 | 2 | 0 | 0
+7.6 - 7.7 | 0 | 0 | 1 | 0 | 0 | 2 | 0 | 0
+7.8 - 7.9 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0
+8.0 - 8.1 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0
+8.2 - 8.3 | 0 | 0 | 3 | 7 | 0 | 0 | 0 | 0
+8.4 - 8.5 | 0 | 0 | 6 | 5 | 0 | 0 | 0 | 0
+8.6 - 8.7 | 0 | 1 | 6 | 1 | 0 | 0 | 0 | 0
+8.8 - 8.9 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0
+9.0 - 9.1 | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 0
+9.2 - 9.3 | 5 | 8 | 0 | 0 | 0 | 0 | 0 | 0
+9.4 - 9.5 | 8 | 4 | 0 | 0 | 0 | 0 | 0 | 0
+9.6 - 9.7 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0
+9.8 - 9.9 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+[/TABLE]
+
+Figure 2.C.
+Distribution of participants' projections for PCE inflation, 2010-12 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2010 | 2011 | 2012 | Longer Run
+June projections | April projections | June projections | April projections | June projections | April projections | June projections | April projections
+0.5 - 0.6 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0
+0.7 - 0.8 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0
+0.9 - 1.0 | 9 | 0 | 2 | 3 | 3 | 1 | 0 | 0
+1.1 - 1.2 | 6 | 5 | 2 | 1 | 0 | 2 | 0 | 0
+1.3 - 1.4 | 0 | 7 | 7 | 3 | 2 | 1 | 0 | 0
+1.5 - 1.6 | 1 | 3 | 2 | 4 | 7 | 6 | 3 | 3
+1.7 - 1.8 | 1 | 1 | 0 | 2 | 2 | 1 | 3 | 2
+1.9 - 2.0 | 0 | 1 | 1 | 2 | 1 | 3 | 11 | 12
+2.1 - 2.2 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0
+2.3 - 2.4 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 0
+[/TABLE]
+
+Figure 2.D.
+Distribution of participants' projections for core PCE inflation, 2010-12
+
+Histograms, three panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2010 | 2011 | 2012
+June projections | April projections | June projections | April projections | June projections | April projections
+0.3 - 0.4 | 0 | 0 | 0 | 0 | 1 | 0
+0.5 - 0.6 | 0 | 0 | 1 | 1 | 0 | 1
+0.7 - 0.8 | 6 | 3 | 2 | 0 | 0 | 0
+0.9 - 1.0 | 8 | 7 | 4 | 4 | 3 | 1
+1.1 - 1.2 | 2 | 5 | 5 | 4 | 4 | 4
+1.3 - 1.4 | 0 | 0 | 2 | 4 | 4 | 3
+1.5 - 1.6 | 1 | 2 | 0 | 1 | 2 | 5
+1.7 - 1.8 | 0 | 0 | 0 | 0 | 1 | 0
+1.9 - 2.0 | 0 | 0 | 1 | 1 | 1 | 2
+2.1 - 2.2 | 0 | 0 | 1 | 1 | 1 | 1
+2.3 - 2.4 | 0 | 0 | 1 | 1 | 0 | 0
+[/TABLE]
+
+Return to top
+
+Last update:
+
+July 14, 2010
+
+Home
+
+|
+Monetary Policy
+
+Accessibility
+
+Contact us
+
+Disclaimer
+
+Linking Policy
+
+FOIA
+
+PDF Reader

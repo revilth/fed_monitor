@@ -1,0 +1,327 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20130619epa.htm
+TYPE: I (SEP) — accessible figure data for the SEP addendum to the minutes
+
+Accessible Version
+
+Table data for charts presented with Summary of Economic Projections given within the FOMC Minutes on June 18-19, 2013.
+
+Figure 1.
+Central tendencies and ranges of economic projections, 2013-15 and over the longer run
+
+Central tendencies and ranges of economic projections for years 2013 through 2015 and over the longer run. Actual values for years 2008 through 2012.
+
+Change in real GDP
+
+Percent
+
+[TABLE]
+| 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Longer Run
+Actual | (3.3) | (0.1) | 2.4 | 2.0 | 1.7 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 2.6 | 3.6 | 3.8 | 3.0
+Upper End of Central Tendency | - | - | - | - | - | 2.6 | 3.5 | 3.6 | 2.5
+Lower End of Central Tendency | - | - | - | - | - | 2.3 | 3.0 | 2.9 | 2.3
+Lower End of Range | - | - | - | - | - | 2.0 | 2.2 | 2.3 | 2.0
+[/TABLE]
+
+Unemployment rate
+
+Percent
+
+[TABLE]
+| 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Longer Run
+Actual | 6.9 | 9.9 | 9.5 | 8.7 | 7.8 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 7.5 | 6.9 | 6.4 | 6.0
+Upper End of Central Tendency | - | - | - | - | - | 7.3 | 6.8 | 6.2 | 6.0
+Lower End of Central Tendency | - | - | - | - | - | 7.2 | 6.5 | 5.8 | 5.2
+Lower End of Range | - | - | - | - | - | 6.9 | 6.2 | 5.7 | 5.0
+[/TABLE]
+
+PCE inflation
+
+Percent
+
+[TABLE]
+| 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Longer Run
+Actual | 1.7 | 1.4 | 1.5 | 2.5 | 1.6 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.5 | 2.0 | 2.3 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 1.2 | 2.0 | 2.0 | 2.0
+Lower End of Central Tendency | - | - | - | - | - | 0.8 | 1.4 | 1.6 | 2.0
+Lower End of Range | - | - | - | - | - | 0.8 | 1.4 | 1.6 | 2.0
+[/TABLE]
+
+Core PCE inflation
+
+Percent
+
+[TABLE]
+| 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | Longer Run
+Actual | 2.0 | 1.6 | 1.2 | 1.7 | 1.5 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 1.5 | 2.0 | 2.3 | n.a.
+Upper End of Central Tendency | - | - | - | - | - | 1.3 | 1.8 | 2.0 | n.a.
+Lower End of Central Tendency | - | - | - | - | - | 1.2 | 1.5 | 1.7 | n.a.
+Lower End of Range | - | - | - | - | - | 1.1 | 1.5 | 1.7 | n.a.
+[/TABLE]
+
+Note:
+Definitions of variables are in the notes to table 1. The data for the actual values of the variables are annual.
+
+Figure 2.
+Overview of FOMC participants' assessments of appropriate monetary policy
+
+Appropriate timing of policy firming
+
+[TABLE]
+| 2013 | 2014 | 2015 | 2016
+Number of participants | 1 | 3 | 14 | 1
+[/TABLE]
+
+Note:
+In the upper panel, the height of each bar denotes the number of FOMC participants who judge that, under appropriate monetary policy, the first increase in the target federal funds rate from its current range of 0 to 1/4 percent will occur in the specified calendar year. In March 2013, the numbers of FOMC participants who judged that the first increase in the target federal funds rate would occur in 2013, 2014, 2015, and 2016 were, respectively, 1, 4, 13, and 1.
+
+Appropriate pace of policy firming
+
+Number of participants with projected targets
+
+[TABLE]
+Target federal funds rate at year-end (Percent) | 2013 | 2014 | 2015 | Longer Run
+0 - 0.37 | 18 | 15 | 1 |
+0.38 - 0.62 | 1 | | 2 |
+0.63 - 0.87 | | | 3 |
+0.88 - 1.12 | | 3 | 4 |
+1.13 - 1.37 | | | 2 |
+1.38 - 1.62 | | 1 | 3 |
+1.63 - 1.87 | | | |
+1.88 - 2.12 | | | 1 |
+2.13 - 2.37 | | | |
+2.38 -2.62 | | | |
+2.63 - 2.87 | | | |
+2.88 - 3.12 | | | 3 |
+3.13 - 3.37 | | | | 1
+3.38 - 3.62 | | | | 2
+3.63 - 3.87 | | | | 1
+3.88 - 4.12 | | | | 9
+4.13 - 4.37 | | | | 3
+4.38 - 4.62 | | | | 3
+[/TABLE]
+
+Note:
+In the lower panel, each shaded circle indicates the value (rounded to the nearest 1/4 percentage point) of an individual participant's judgment of the appropriate level of the target federal funds rate at the end of the specified calendar year or over the longer run.
+
+Figure 3.A.
+Distribution of participants' projections for the change in real GDP, 2013-15 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2013 | 2014 | 2015 | Longer Run
+June projections | March projections | June projections | March projections | June projections | March projections | June projections | March projections
+2 - 2.1 | 2 | 1 | 0 | 0 | 0 | 0 | 2 | 2
+2.2 - 2.3 | 4 | 4 | 1 | 0 | 1 | 0 | 11 | 10
+2.4 - 2.5 | 9 | 4 | 0 | 0 | 1 | 1 | 5 | 6
+2.6 - 2.7 | 4 | 5 | 1 | 2 | 0 | 0 | 0 | 0
+2.8 - 2.9 | 0 | 3 | 1 | 2 | 2 | 3 | 0 | 0
+3 - 3.1 | 0 | 2 | 3 | 2 | 2 | 1 | 1 | 1
+3.2 - 3.3 | 0 | 0 | 6 | 7 | 2 | 2 | 0 | 0
+3.4 - 3.5 | 0 | 0 | 6 | 5 | 6 | 7 | 0 | 0
+3.6 - 3.7 | 0 | 0 | 1 | 0 | 4 | 4 | 0 | 0
+3.8 - 3.9 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0
+[/TABLE]
+
+NOTE: Definitions of variables are in the general note to table 1.
+
+Figure 3.B.
+Distribution of participants' projections for the unemployment rate, 2013-15 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2013 | 2014 | 2015 | Longer Run
+June projections | March projections | June projections | March projections | June projections | March projections | June projections | March projections
+5 - 5.1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1
+5.2 - 5.3 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 5
+5.4 - 5.5 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 7
+5.6 - 5.7 | 0 | 0 | 0 | 0 | 2 | 1 | 0 | 0
+5.8 - 5.9 | 0 | 0 | 0 | 0 | 3 | 0 | 2 | 0
+6 - 6.1 | 0 | 0 | 0 | 1 | 10 | 7 | 4 | 6
+6.2 - 6.3 | 0 | 0 | 2 | 1 | 3 | 6 | 0 | 0
+6.4 - 6.5 | 0 | 0 | 2 | 1 | 1 | 5 | 0 | 0
+6.6 - 6.7 | 0 | 0 | 10 | 2 | 0 | 0 | 0 | 0
+6.8 - 6.9 | 1 | 1 | 5 | 7 | 0 | 0 | 0 | 0
+7 - 7.1 | 1 | 1 | 0 | 7 | 0 | 0 | 0 | 0
+7.2 - 7.3 | 14 | 4 | 0 | 0 | 0 | 0 | 0 | 0
+7.4 - 7.5 | 3 | 11 | 0 | 0 | 0 | 0 | 0 | 0
+7.6 - 7.7 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0
+[/TABLE]
+
+NOTE: Definitions of variables are in the general note to table 1.
+
+Figure 3.C.
+Distribution of participants' projections for PCE inflation, 2013-15 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2013 | 2014 | 2015 | Longer Run
+June projections | March projections | June projections | March projections | June projections | March projections | June projections | March projections
+0.7 - 0.8 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+0.9 - 1 | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+1.1 - 1.2 | 4 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+1.3 - 1.4 | 1 | 9 | 4 | 1 | 0 | 0 | 0 | 0
+1.5 - 1.6 | 1 | 4 | 6 | 6 | 4 | 2 | 0 | 0
+1.7 - 1.8 | 0 | 5 | 5 | 4 | 5 | 2 | 0 | 0
+1.9 - 2 | 0 | 1 | 4 | 7 | 8 | 12 | 19 | 19
+2.1 - 2.2 | 0 | 0 | 0 | 1 | 1 | 2 | 0 | 0
+2.3 - 2.4 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0
+2.5 - 2.6 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0
+[/TABLE]
+
+NOTE: Definitions of variables are in the general note to table 1.
+
+Figure 3.D.
+Distribution of participants' projections for core PCE inflation, 2013-15
+
+Histograms, three panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2013 | 2014 | 2015
+June projections | March projections | June projections | March projections | June projections | March projections
+1.1 - 1.2 | 10 | 0 | 0 | 0 | 0 | 0
+1.3 - 1.4 | 8 | 0 | 0 | 0 | 0 | 0
+1.5 - 1.6 | 1 | 16 | 9 | 1 | 0 | 0
+1.7 - 1.8 | 0 | 2 | 7 | 10 | 9 | 5
+1.9 - 2 | 0 | 1 | 3 | 7 | 8 | 10
+2.1 - 2.2 | 0 | 0 | 0 | 1 | 1 | 3
+2.3 - 2.4 | 0 | 0 | 0 | 0 | 1 | 0
+2.5 - 2.6 | 0 | 0 | 0 | 0 | 0 | 1
+[/TABLE]
+
+NOTE: Definitions of variables are in the general note to table 1.
+
+Figure 3.E.
+Distribution of participants' projections for the target federal funds rate, 2013-15 and over the longer run
+
+Histograms, four panels. Definitions of variables are in the general note to table 1.
+
+Number of Participants
+
+[TABLE]
+Percent range | 2013 | 2014 | 2015 | Longer Run
+June projections | March projections | June projections | March projections | June projections | March projections | June projections | March projections
+0 - 0.37 | 18 | 18 | 15 | 14 | 1 | 1 | 0 | 0
+0.38 - 0.62 | 1 | 0 | 0 | 1 | 2 | 7 | 0 | 0
+0.63 - 0.87 | 0 | 0 | 0 | 0 | 3 | 1 | 0 | 0
+0.88 - 1.12 | 0 | 1 | 3 | 2 | 4 | 2 | 0 | 0
+1.13 - 1.37 | 0 | 0 | 0 | 0 | 2 | 4 | 0 | 0
+1.38 - 1.62 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0
+1.63 - 1.87 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0
+1.88 - 2.12 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0
+2.13 - 2.37 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+2.38 - 2.62 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+2.63 - 2.87 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0
+2.88 - 3.12 | 0 | 0 | 0 | 0 | 3 | 1 | 0 | 0
+3.13 - 3.37 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1
+3.38 - 3.62 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 2
+3.63 - 3.87 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1
+3.88 - 4.12 | 0 | 0 | 0 | 0 | 0 | 0 | 9 | 9
+4.13 - 4.37 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 3
+4.38 - 4.62 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 3
+[/TABLE]
+
+NOTE: The target federal funds rate is measured as the level of the target rate at the end of the calendar year or in the longer run.
+
+Figure 4.
+Uncertainty and risks in economic projections
+
+Histograms, eight panels. For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty." Definitions of variables are in the general note to table 1.
+
+Uncertainty about GDP growth
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+June projections | 0 | 12 | 7
+March projections | 0 | 7 | 12
+[/TABLE]
+
+Uncertainty about Unemployment
+rate
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+June projections | 0 | 13 | 6
+March projections | 0 | 7 | 12
+[/TABLE]
+
+Uncertainty about PCE inflation
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+June projections | 2 | 12 | 5
+March projections | 3 | 10 | 6
+[/TABLE]
+
+Uncertainty about Core PCE inflation
+
+Number of participants
+
+[TABLE]
+| Lower | Broadly similar | Higher
+June projections | 2 | 12 | 5
+March projections | 3 | 10 | 6
+[/TABLE]
+
+Risks to GDP Growth
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+June projections | 7 | 12 | 0
+March projections | 8 | 11 | 0
+[/TABLE]
+
+Risks to Unemployment
+rate
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+June projections | 0 | 13 | 6
+March projections | 1 | 11 | 7
+[/TABLE]
+
+Risks to PCE inflation
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+June projections | 4 | 14 | 1
+March projections | 4 | 13 | 2
+[/TABLE]
+
+Risks to Core PCE inflation
+
+Number of participants
+
+[TABLE]
+| Weighted to downside | Broadly balanced | Weighted to upside
+June projections | 4 | 14 | 1
+March projections | 4 | 13 | 2
+[/TABLE]
+
+NOTE: For definitions of uncertainty and risks in economic projections, see the box "Forecast Uncertainty." Definitions of variables are in the general note to table 1.

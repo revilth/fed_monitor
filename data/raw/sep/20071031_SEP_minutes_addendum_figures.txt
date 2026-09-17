@@ -1,0 +1,148 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcminutes20071031epa.htm
+TYPE: I (SEP) — accessible figure data for the SEP addendum to the minutes
+
+Home
+
+>
+Monetary Policy
+
+>
+Federal Open Market Committee
+
+>
+FOMC Minutes, October 30-31, 2007
+
+Print
+
+Accessible Version
+
+Table data for charts presented with Summary of Economic Projections given within the FOMC Minutes on October 30-31, 2007.
+
+[TABLE]
+FOMC Minutes | Summary of Economic Projections
+[/TABLE]
+
+Chart 1: Central Tendencies and Ranges of Economic Projections
+
+Central tendencies and ranges of economic projections for years 2007 through 2010. Actual data for years 2002 through 2006. See notes to Table 1 for variable definitions.
+
+[TABLE] Real GDP Growth Percent
+| 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 1.9 | 3.7 | 3.1 | 2.9 | 2.6 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 2.7 | 2.6 | 2.8 | 2.7
+Upper End of Central Tendency | - | - | - | - | - | 2.5 | 2.5 | 2.7 | 2.6
+Lower End of Central Tendency | - | - | - | - | - | 2.4 | 1.8 | 2.3 | 2.5
+Lower End of Range | - | - | - | - | - | 2.2 | 1.6 | 2.0 | 2.2
+[/TABLE]
+
+[TABLE] Unemployment Rate Percent
+| 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 5.9 | 5.8 | 5.4 | 5.0 | 4.5 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 4.8 | 5.0 | 5.0 | 5.0
+Upper End of Central Tendency | - | - | - | - | - | 4.8 | 4.9 | 4.9 | 4.9
+Lower End of Central Tendency | - | - | - | - | - | 4.7 | 4.8 | 4.8 | 4.7
+Lower End of Range | - | - | - | - | - | 4.7 | 4.6 | 4.6 | 4.6
+[/TABLE]
+
+[TABLE] PCE Inflation Percent
+| 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 1.8 | 1.9 | 3.1 | 3.2 | 1.9 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 3.2 | 2.3 | 2.2 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 3.0 | 2.1 | 2.0 | 1.9
+Lower End of Central Tendency | - | - | - | - | - | 2.9 | 1.8 | 1.7 | 1.6
+Lower End of Range | - | - | - | - | - | 2.7 | 1.7 | 1.5 | 1.5
+[/TABLE]
+
+[TABLE] Core PCE Inflation Percent
+| 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010
+Actual | 1.6 | 1.4 | 2.2 | 2.2 | 2.3 | - | - | - | -
+Upper End of Range | - | - | - | - | - | 2.1 | 2.0 | 2.0 | 2.0
+Upper End of Central Tendency | - | - | - | - | - | 1.9 | 1.9 | 1.9 | 1.9
+Lower End of Central Tendency | - | - | - | - | - | 1.8 | 1.7 | 1.7 | 1.6
+Lower End of Range | - | - | - | - | - | 1.8 | 1.7 | 1.5 | 1.5
+[/TABLE]
+
+Chart 2(a): Distribution of Participants' Projections (percent)
+
+Histograms, eight panels. See notes to Table 1 for variable definitions. Those participants' June projections that were provided in quarter points have been rounded to the nearest tenth for the construction of these histograms.
+
+[TABLE] Real GDP Projections Number of Participants
+Projections | 1.6-1.7 | 1.8-1.9 | 2.0-2.1 | 2.2-2.3 | 2.4-2.5 | 2.6-2.7 | 2.8-2.9 | 3.0-3.1
+2007
+October | 0 | 0 | 0 | 3 | 13 | 1 | 0 | 0
+June | 0 | 0 | 3 | 9 | 4 | 1 | 0 | 0
+2008
+October | 3 | 1 | 3 | 4 | 4 | 2 | 0 | 0
+June | 0 | 0 | 0 | 0 | 7 | 5 | 3 | 2
+2009
+October | 0 | 0 | 1 | 3 | 8 | 4 | 1 | 0
+2010
+October | 0 | 0 | 0 | 2 | 9 | 6 | 0 | 0
+[/TABLE]
+
+[TABLE] Unemployment Rate Projections Number of Participants
+Projections | 4.4-4.5 | 4.6-4.7 | 4.8-4.9 | 5.0-5.1 | 5.2-5.3
+2007
+October | 0 | 8 | 9 | 0 | 0
+June | 0 | 15 | 2 | 0 | 0
+2008
+October | 0 | 1 | 13 | 3 | 0
+June | 1 | 7 | 8 | 1 | 0
+2009
+October | 0 | 2 | 12 | 3 | 0
+2010
+October | 0 | 4 | 10 | 3 | 0
+[/TABLE]
+
+Chart 2(b): Distribution of Participants' Projections (percent)
+
+Histograms, eight panels. See notes to Table 1 for variable definitions. Those participants' June projections that were provided in quarter points have been rounded to the nearest tenth for the construction of these histograms.
+
+[TABLE] PCE Inflation Projections Number of Participants
+Projections | 1.5-1.6 | 1.7-1.8 | 1.9-2.0 | 2.1-2.2 | 2.3-2.4 | 2.5-2.6 | 2.7-2.8 | 2.9-3.0 | 3.1-3.2
+2007
+October | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 11 | 3
+2008
+October | 0 | 7 | 5 | 4 | 1 | 0 | 0 | 0 | 0
+2009
+October | 2 | 9 | 4 | 2 | 0 | 0 | 0 | 0 | 0
+2010
+October | 4 | 6 | 7 | 0 | 0 | 0 | 0 | 0 | 0
+[/TABLE]
+
+[TABLE] Core PCE Inflation Projections Number of Participants
+Projections | 1.3-1.4 | 1.5-1.6 | 1.7-1.8 | 1.9-2.0 | 2.1-2.2 | 2.3-2.4
+2007
+October | 0 | 0 | 7 | 8 | 2 | 0
+June | 0 | 0 | 0 | 9 | 8 | 0
+2008
+October | 0 | 0 | 9 | 8 | 0 | 0
+June | 0 | 0 | 6 | 8 | 3 | 0
+2009
+October | 0 | 2 | 9 | 6 | 0 | 0
+2010
+October | 0 | 4 | 8 | 5 | 0 | 0
+[/TABLE]
+
+Return to top
+
+Last update:
+
+January 17, 2008
+
+Home
+
+|
+Monetary Policy
+
+Accessibility
+
+Contact us
+
+Disclaimer
+
+Linking Policy
+
+FOIA
+
+PDF Reader
