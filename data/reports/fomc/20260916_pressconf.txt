@@ -1,0 +1,425 @@
+FOMC PRESS CONFERENCE — September 16, 2026 (Type E) — OPENING STATEMENT + Q&A
+════════════════════════════════════════════════════════════════════════
+Kevin Warsh, Chair | Troika | Third press conference as Chair
+Reference FOMC: September 16, 2026 (HIKE +25bp to 3.75–4.00%, 12–0)
+Prior press conference: July 29, 2026 (HOLD, 9–3)
+Chair's prior speech: August 28, 2026 (Jackson Hole, Type G)
+SOURCE: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+        (Fed "PRELIMINARY" transcript, full — opening statement and Q&A;
+        retrieved Sept 17, HTTP 200. Official wording; expect minor
+        transcription fixes in the final version.)
+Written September 17. No provisional alert was generated on decision day.
+════════════════════════════════════════════════════════════════════════
+
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+The opening statement moves Warsh's August 28 personal framework into
+Committee language: his standard for action ("clearly and at sufficient
+speed") is reported as the FOMC's finding — "Today, the FOMC decided that this
+standard has not been satisfied" — and his breadth measure of underlying
+inflation appears as consensus text ("Too many categories are still posting
+increases above 3 percent"). The hike is characterized not as a move into
+restriction but as the removal of accommodation: "we removed a dose of
+accommodation," a view "widely shared by the Committee."
+
+The Q&A adds three personal signals. He will not own a path ("I'm not in the
+forward guidance business"), but points twice to the dots as where the path
+lives. He says the August CPI was not the trigger — trends, a stronger economy
+and a changed geopolitical judgment were. And he refuses to call 3.875%
+restrictive or to use a neutral rate operationally ("Do I think it has any
+operational effect on decisions that we make today? No, I don't"), which
+leaves the door to the next hike formally open.
+
+NET: HAWKISH. Opening statement committee-level hawkish; Q&A declines every
+opportunity to bound the path.
+
+════════════════════════════════════════════════════════════════════════
+OPENING STATEMENT (committee-approved language; consensus signal)
+════════════════════════════════════════════════════════════════════════
+Carry-over check: every "new" item below was verified absent from the July 29
+official opening statement (data/raw/pressconferences/20260729_pressconf_
+transcript.txt). Items that first appeared in the Aug 28 Jackson Hole speech
+are marked as such — they are new to a PRESS CONFERENCE but not new language.
+
+GROWTH
+  Statement language: "Economic activity is expanding at a solid pace ...
+    domestic spending has been resilient. Productivity growth is strong, and
+    capital investment is robust." (read verbatim)
+  Own additions (new vs. July 29):
+    "the American economy appears to be strengthening. New hiring,
+    private-sector earnings, business capital investment—each of these
+    markers has improved in recent months and is pointing in a good
+    direction. Credit flows have been robust, particularly for businesses."
+    "an attitude of optimism is exactly what I heard inside the FOMC these
+    last two days."
+  Absent vs. July 29: the AI-capex quantification ("nearly 20 percent") and
+    the supply-side hedge. Growth is now stated as a settled fact, not a
+    two-sided development.
+  Direction: HAWKISH LEAN — "strengthening," "optimism," robust credit flows.
+    No growth-side reason for patience is offered.
+
+LABOR MARKET
+  Statement language: "Job gains have kept pace with the workforce, and the
+    unemployment rate has changed little." (verbatim; third consecutive)
+  Own additions (new vs. July 29 — the July opening had no labor detail
+    beyond the statement line):
+    "The jobless rate remains low at around 4.1 percent, and both job
+    openings and weekly hours have been increasing. Unemployment claims, on a
+    four-week moving average, are running at levels consistent with full
+    employment. So, the labor side of the Fed's congressional remit is in
+    good shape."
+  → "consistent with full employment" was Aug 28 language (personal); here it
+    is the Committee's opening-statement verdict. Openings and hours
+    "increasing" is new evidence not cited before.
+  Direction: HAWKISH LEAN — a full-employment verdict in consensus language
+    removes the labor argument for patience. Matches the SEP: unemployment
+    median 4.1 through 2029; upside-risk count 7 → 0.
+
+INFLATION (the section that moved)
+  Statement language: "inflation remains elevated. Today's policy action will
+    support a timelier return to the Committee's 2 percent goal. This
+    Committee will deliver price stability." (read verbatim, with "But"
+    prefixed)
+  New vs. July 29:
+    (1) "our predominant focus is on the price-stability side of our mandate.
+        The plain fact is that inflation is too high and has been for too
+        long." — Aug 28 had "predominant focus right now should be on prices"
+        (personal); now consensus.
+    (2) "This summer's inflation readings do not tell me that underlying
+        trends have meaningfully improved." — Aug 28 verbatim, carried into
+        the opening statement. The two benign summer prints remain
+        discounted; the August data did not change the verdict.
+    (3) The data: "the 12-month change in total PCE prices likely was around
+        3.6 percent in August. Core PCE and CPI prices are running at about
+        3.2 percent and 2.4 percent respectively."
+    (4) THE BREADTH MEASURE, NOW COMMITTEE TEXT: "Too many categories are
+        still posting increases above 3 percent, on both a 6- and 12-month
+        basis." — Aug 28 disclosed this as his personal lens (54% / 49% of
+        199 PCE components). It is now in the consensus document without the
+        numbers. Language-cycle stage: personal (Aug 28) → committee-level
+        (Sept 16) in nineteen days.
+    (5) Commodities: "over the inter-meeting period, the prices of many of
+        these key inputs have risen." — Aug 28 said they "bear watching";
+        now they have moved.
+    (6) THE STANDARD, EXECUTED: "Last month in Wyoming, I expressed my
+        commitment to a monetary policy discipline, not to a decision. I
+        defined the standard for action: We must be confident that underlying
+        inflation is moving to our objective, clearly and at sufficient
+        speed. Today, the FOMC decided that this standard has not been
+        satisfied." — The Chair's personal standard is reported as the
+        Committee's finding. That is the mechanism of today's decision stated
+        in one sentence.
+    (7) FOUR AIMS (new enumeration): "ensure that credit and financial
+        conditions are consistent over time with our mandate, that relative
+        price changes in some sectors of the economy do not broaden, that
+        inflation compensation in market prices stays low, and that inflation
+        expectations remain well-anchored."
+        → "relative price changes ... do not broaden" absorbs the
+        supply-shock story the statement just deleted, and inverts it: the
+        shocks are no longer a reason to wait; their broadening is what the
+        hike guards against. Williams's "not seeing broadening" test has
+        become a policy aim rather than a reason for patience.
+  ABSENT vs. July 29 (verified present in July, absent now):
+    • "There is no soft inflation target, there is no soft implicit
+      target—not on this Committee's watch." Not repeated. [Inference: the
+      action made the declaration unnecessary; not a softening.]
+    • "cannot be cured in nine weeks—or by a single month of modest price
+      decreases." Replaced by "This summer's inflation readings do not tell
+      me..." — same function.
+  Direction: HAWKISH — committee-level adoption of the breadth test and the
+    speed standard; the summer data dismissed a second time.
+
+MONETARY POLICY
+  Statement language: "raise the target range ... by ¼ percentage point to 3¾
+    to 4 percent, in support of the Federal Reserve's dual mandate." (verbatim)
+  New vs. July 29:
+    (1) STANCE: "as I said at the policy symposium in Jackson Hole, I would
+        be hard-pressed to describe broad financial conditions as
+        restrictive. This view was widely shared by the Committee. So we
+        removed a dose of accommodation." — The Aug 28 personal LEVEL claim
+        is now attributed to the Committee, and the hike is named as
+        accommodation-removal, not tightening into restriction. This is the
+        single most consequential framing in the document for the path: a
+        Committee that describes 3.875% as "less accommodative" has not
+        reached the point where it must justify further moves.
+    (2) THE JULY HOLD RE-DESCRIBED: "At our July meeting, we all agreed that
+        inflation remained too high, and we expressed our joint readiness to
+        act ... a good majority of my colleagues and I thought the wiser
+        course then would be to await new information." — Aug 28 language,
+        carried. The 9–3 is retold as a timing choice.
+    (3) UNANIMITY AS RESOLVE: "The committee's unanimous vote shows our
+        resolve to achieve price stability on a timelier basis." — July 29
+        relocated the unity claim from the decision to the goal ("Not one of
+        my FOMC colleagues is under any illusion"); September has it back on
+        the decision.
+    (4) SEP: "as in June—I have not offered a projection of my own." Second
+        consecutive withheld dot (confirms the 18-participant count is
+        19 minus Warsh). He reads the medians and adds: "Inflation risks are
+        to the upside while labor risks are roughly balanced."
+    (5) INTERNATIONAL (new): Jackson Hole, "Asheville at the G-20 meeting,
+        which the U.S. hosted," "a central bank conference in Basel" — "most
+        advanced economies are facing price pressures. Their central banks
+        are making their own judgments." — Global tightening context offered
+        unprompted; the ECB has hiked twice this year (raised by AFP in Q&A).
+  ABSENT vs. July 29:
+    • The bond-market section ("play the ball, not the referee"; top-decile
+      yield move; "a change for the better"). In July the curve was doing the
+      work; in September the Committee did it. Yields appear only when asked
+      (Q&A 7 below).
+    • The four meeting questions / deliberation-framework disclosure. Gone.
+    • THE BALANCE SHEET. Not mentioned in the opening statement, the
+      statement, the implementation note, or any Q&A answer. The July 29
+      fourth meeting question ("how much accommodation are we getting from
+      the balance sheet?") has no successor. Consistent with Aug 28 principle
+      5 (rates "the predominant tool") — the rate was used, the balance sheet
+      was not.
+    • "where necessary and appropriate, we will not hesitate to act." —
+      superseded by the act.
+  Cut signal status:  ABSENT.
+  Hike signal status: the hike itself; no forward path. See Q&A 1.
+  Direction: HAWKISH.
+
+════════════════════════════════════════════════════════════════════════
+Q&A ANALYSIS (Chair's personal, unscripted signals — where he went beyond
+the opening statement)
+════════════════════════════════════════════════════════════════════════
+
+1. THE PATH — delegated to the dots, disowned by the Chair
+   Asked (Colby Smith, NYT) whether the usual sequence of hikes applies:
+   "I'm not in the forward guidance business. The decision we made today was
+   a sober decision, serious decision, responsible decision, one that we have
+   been preparing for and thinking about in my 110 or 20 days here. You heard
+   from other people in the dots effectively, what their forecasts are. I'm
+   not going to pre-judge any future decisions we make."
+   Asked (McKee, Bloomberg) how "timelier" squares with the SEP reaching 2%
+   in 2029: "those aren't my forecasts. Those are the forecasts of my 18
+   colleagues, and I've tried to represent them dutifully to you ... when we
+   continue our discussions over the course of the next several weeks and
+   months, we'll have more to say about it. But I'm ill-prepared to pre-judge
+   those future actions."
+   Beyond the statement: twice he routes the path question to the SEP. In a
+   regime with no guidance, the dots — 16 of 18 above the new midpoint — are
+   the Committee's de facto forward signal, and the Chair has pointed at them
+   without endorsing them. "We'll have more to say about it" is the only
+   forward-looking phrase of his own, and it is undirected. [Inference: "more
+   to say" may refer to the communications task force (SEP reform) as much
+   as to policy; not resolvable from the text.]
+
+2. WHAT CHANGED SINCE JULY — not the CPI
+   Asked (Rugaber, AP) what changed and whether today's retail sales mattered:
+   "I'm not a data point dependent guy ... a good majority of my colleagues
+   seven weeks ago thought seven weeks is a good investment, it's a way to
+   buy time so we could make a wise decision. I'll highlight three things
+   ... There's been a pretty wide-ranging set of data, including in the labor
+   markets, that the economy has strengthened ... My judgment some weeks ago
+   was the inflation summer trends weren't passing the test. I've seen very
+   little information since that would make me reverse that decision, so
+   I've stuck with it. And the third thing that's changed in seven weeks are
+   geopolitics ... our judgment about what is the most likely, or least
+   likely of the geopolitical situation has changed."
+   Asked (Guida, Politico) about the market's focus on August CPI: "I was not
+   waiting breathlessly on what any particular data was, whether it was
+   retail sales this morning, or a CPI print last week ... trends matter.
+   Data points are noisy. Data point dependence is a dangerous
+   preoccupation."
+   Beyond the statement: the Chair's stated reasons are (i) a stronger
+   economy, (ii) an unchanged verdict on inflation trends, (iii) geopolitics.
+   Note (ii): he did not say inflation got WORSE; he said the summer data did
+   not pass the test in August and nothing since reversed that. The hike is
+   the execution of a judgment already formed at Jackson Hole, not a reaction
+   to the August print. This is the opposite of Waller's Sep 3 framing, which
+   made the August data the explicit trigger; both reached the same vote.
+   Also new: the July hold retold as buying time ("seven weeks is a good
+   investment"), settling the July diff's open question — the center was
+   there; it was waiting.
+
+3. STANCE — "removed a dose of accommodation"; no neutral rate
+   Asked (Jones, FT) whether rates are now restrictive: "I found it difficult
+   to describe financial conditions as restrictive. I think I said I was
+   hard-pressed. What I heard around the table in the last couple of days is,
+   my colleagues were hard-pressed to describe it that way too. We removed a
+   dose of accommodation ... we'll continue to evaluate that prospectively."
+   Asked (Liesman, CNBC) where the rate sits vs. neutral, short-run vs.
+   long-run: "In a word, no ... I've always been interested in a neutral rate
+   as an academic matter ... Do I think it has any operational effect on
+   decisions that we make today? No, I don't."
+   Beyond the statement: he declines to call 3.875% restrictive and rejects
+   neutral as an operational anchor. The scored record has the majority's own
+   stance language at "mildly restrictive" (Paulson, Collins, Daly) and "only
+   slightly restricting" (Waller) BEFORE the hike. The Chair says the
+   Committee was "hard-pressed" to call it restrictive. If policy was
+   accommodative at 3.625, it is at best neutral at 3.875, and there is no
+   stated point at which the Chair would have to justify stopping. This is
+   the hawkish content of the Q&A: not a path, but the absence of a ceiling.
+
+4. THE HIKE AGAINST SUPPLY SHOCKS — broadening is the target
+   Asked (Escobedo, CBS) how a hike helps when it "does not reopen the Strait
+   of Hormuz": "We cannot affect any individual price ... But what we can do,
+   and will do, is ensure that any change in relative prices don't broaden
+   out. Don't have second and third order effects in the economy."
+   Asked (Schonberger, Yahoo) whether he must push growth below potential:
+   "we believe that the unemployment rate is basically running consistent
+   with full employment. I don't believe that we need to do harm to the labor
+   markets to achieve our objective. I don't believe that the two parts of
+   our mandate ... are working at cross purposes over the medium term."
+   Beyond the statement: the rationale for hiking into a supply shock is
+   second-round prevention, which is what the deleted statement clause and
+   the new "do not broaden" aim encode. The no-labor-sacrifice position is
+   carried from June 17 ("I don't believe we have a cruel choice") — not new,
+   but now stated after an actual hike.
+
+5. MARKET-LED? THE PRESIDENT? — independence framing, unanimous hike
+   Asked (Lawrence, Fox) whether a 90%-priced hike was market-led: "the Fed
+   has an enormous amount of power. These are decisions we make ... Sometimes
+   the market tries to pre-judge our outcomes. I'll observe market prices and
+   see what they have to say. But today was our decision."
+   Asked (Schulze, ABC; Halaschak, Examiner) about the President's calls for
+   cuts and the trade threat: "I've got nothing for you on the discussion
+   with the president." "Part of the independence of the Federal Reserve is
+   we stay in our lane. Independence is a two-way street. We'll let people
+   that do trade policy and fiscal policy stay in their lane too."
+   Beyond the statement: a unanimous hike delivered against explicit
+   presidential pressure for cuts, with the Chair declining to engage. The
+   institutional signal is the 12–0, not the words.
+
+6. YIELDS — three causes, none of them "the Fed"
+   Asked (Irwin, Axios) what the bond market is saying: "these things tend to
+   be overdetermined ... first is economic strength ... Second reason,
+   competition for capital. The surge in capital expenditures ... the
+   so-called hyperscalers are out in the market raising funding ... The third,
+   is geopolitics ... the difference between those spot prices and so-called
+   crack spreads."
+   Beyond the statement: July's "yields are doing the tightening" argument is
+   gone. Yields are explained by growth, capex funding and geopolitics, and
+   the policy consequence is left unstated. Consistent with Williams's Sep 2
+   read ("the economy affecting financial conditions") — a rare point of
+   Troika convergence.
+
+7. DISTRIBUTION — "inflation is a choice"
+   Asked (Cheung, NBC) who the "least well-off" are: "people that don't own
+   financial assets, call that a bit less than 50 percent of the country ...
+   living off their paycheck ... As I've said before, inflation is a choice,
+   and today we took a step in delivering it."
+   Beyond the statement: Aug 28's distributional argument, now attached to
+   the action. "Inflation is a choice" is new phrasing for the tracked
+   commitment.
+
+8. AI — task force "by the end of the year" (Egan, CNN). Housekeeping; no
+   policy content. Confirms the AI task force timeline; nothing on the
+   communications / SEP task force.
+
+════════════════════════════════════════════════════════════════════════
+vs. PREVIOUS PRESS CONFERENCE (July 29, 2026)
+════════════════════════════════════════════════════════════════════════
+GROWTH:      HAWKISH LEAN — July: "impressive resilience," AI capex "nearly
+             20 percent" with a supply-side hedge. Sept: "strengthening,"
+             "optimism," credit flows "robust." Statement adds "domestic
+             spending has been resilient."
+LABOR:       HAWKISH LEAN — July: statement line only. Sept: "consistent with
+             full employment," openings and hours "increasing," "in good
+             shape." Statement line itself unchanged (third time).
+INFLATION:   HAWKISH — July: "no soft target," single-month dismissal, "will
+             not waver," statement text frozen with supply-shock attribution.
+             Sept: statement attribution DELETED, "timelier return" added;
+             opening statement adopts the breadth test and reports the speed
+             standard unmet as the Committee's finding.
+POLICY:      HAWKISH — July: hold, 9–3, curve "doing the work," balance sheet
+             a formal question, "will not hesitate to act." Sept: +25bp, 12–0,
+             "removed a dose of accommodation," curve argument dropped,
+             balance sheet absent, path delegated to the dots.
+GUIDANCE:    Absent in both. Sept's "timelier" is the nearest thing to a
+             forward-looking clause in three Warsh statements.
+DISSENTS:    July 9–3, never mentioned by the Chair. Sept 12–0, cited as
+             "resolve."
+
+════════════════════════════════════════════════════════════════════════
+vs. CHAIR'S PREVIOUS SPEECH (August 28, 2026 — Jackson Hole)
+════════════════════════════════════════════════════════════════════════
+Jackson Hole set out a standard, a measure and a level claim, all personal:
+"clearly and at sufficient speed"; the share of PCE components above 3%;
+"hard pressed to describe broad financial conditions as restrictive";
+"Otherwise, we have work to do." September 16 executes all four and
+attributes each to the Committee: "the FOMC decided that this standard has
+not been satisfied"; "Too many categories are still posting increases above 3
+percent"; "This view was widely shared by the Committee"; and the hike. The
+personal-to-committee migration took nineteen days, and it ran top-down —
+the Chair's framework became the Committee's text, not the reverse.
+Genuinely new since Aug 28: "removed a dose of accommodation" (the
+characterization of the move); geopolitics as a stated decision input; the
+"do not broaden" aim; "inflation is a choice." Retracted or dropped since
+Aug 28: nothing. The balance sheet, narrowed on Aug 28, is now absent.
+Unchanged: no reaction function, no path, dot withheld, "discipline, not a
+decision."
+
+════════════════════════════════════════════════════════════════════════
+vs. COMMITTEE SINCE THE PREVIOUS FOMC (July 29 → September 16)
+════════════════════════════════════════════════════════════════════════
+Anticipated the decision: Hammack, Kashkari, Logan (Jul 31 dissent
+statements); Collins Aug 25 ("tighten policy soon"); Barr Sep 1 (raise rates
+"decisively" if not moderating); Waller Sep 3 (hike branch on August data);
+Cook Aug 5 ("prepared to act by raising rates"); Daly Aug 6 (scenario two
+"much more likely"); Paulson Aug 4 ("could be higher rates"). Seven voters
+and two non-voters were on record with a conditional or outright hike case
+going into blackout.
+Diverged from the decision's language: Williams (Aug 3, Sep 2) — attribution
+framework, tariffs "in the rear view mirror," "trend moving slowly down." He
+voted with the majority; the statement deleted his framework's clause.
+Diverged from the decision's STANCE language: Paulson, Collins, Daly
+("mildly restrictive"), Waller ("only slightly restricting") — all described
+the pre-hike stance as restrictive; the Chair says the Committee was
+"hard-pressed" to. Watch every first post-meeting speech for which label
+they use at 3.875%.
+Not on record since July 29: Jefferson, Bowman, Powell. All three voted to
+hike.
+
+NET SIGNAL: HAWKISH — a unanimous hike framed as accommodation-removal, the
+Chair's personal inflation framework adopted as Committee text, the supply-
+shock excuse retired, no ceiling on the path and the path itself delegated to
+a dot plot in which sixteen of eighteen see another hike.
+
+LANGUAGE TO WATCH:
+  • "removed a dose of accommodation" — Chair, attributed to Committee. Stage:
+    committee-level by attribution; not yet used by any other official. If
+    Just Voters adopt it, "restrictive" is retired and the path lengthens.
+  • "clearly and at sufficient speed" / "this standard has not been
+    satisfied" — Aug 28 personal → Sept 16 Committee finding. Stage:
+    committee-level. Watch for echo in Paulson / Jefferson.
+  • "Too many categories are still posting increases above 3 percent" — the
+    breadth test in consensus text. Stage: committee-level. Williams's
+    attribution test is now the minority language.
+  • "relative price changes ... do not broaden" — supply-shock story
+    inverted into a policy aim. Stage: opening statement.
+  • "timelier" — in-statement. Test in October.
+  • "inflation is a choice" — personal; new phrasing.
+  • DROPPED from the Chair's repertoire this meeting: "play the ball, not the
+    referee"; "no soft inflation target"; "will not hesitate to act"; balance
+    sheet accommodation.
+
+ANALYST FLAG: YES
+  → (1) Is October live? 16 of 18 dots, "timelier," "we'll have more to say."
+        The Chair gave no path; the Committee's documents give one.
+  → (2) The stance-label collision: "mildly restrictive" (four voters, pre-
+        hike) vs. "hard-pressed to describe as restrictive ... widely shared"
+        (Chair, post-hike). One of these characterizations will be revised in
+        the first round of post-meeting speeches.
+  → (3) Williams: his framework's clause was deleted from the statement and
+        his Sep 2 verdict contradicts the opening statement's. First
+        post-meeting speech is the highest-signal document of the period.
+  → (4) Balance sheet: promoted to a formal question on July 29, absent on
+        September 16. Minutes (Oct 7) should show whether it was discussed.
+
+════════════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────────────
+  Sep 16 press conference (preliminary official transcript):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+    data/raw/pressconferences/20260916_pressconf_transcript.txt
+  Jul 29 press conference (final official transcript, baseline):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+    data/raw/pressconferences/20260729_pressconf_transcript.txt
+  Sep 16 statement + implementation note: data/raw/statements/20260916_*
+  Sep 16 statement diff: data/reports/fomc/20260916_statement_diff.txt
+  Sep 16 SEP: data/scored/sep/20260916_SEP_scored.txt
+  Warsh Aug 28: data/scored/speeches/20260828_Kevin_Warsh_scored.txt
+  Inter-meeting scored speeches: data/scored/speeches/202607*–202609*
+════════════════════════════════════════════════════════════════════════

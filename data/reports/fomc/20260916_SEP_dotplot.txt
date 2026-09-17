@@ -1,0 +1,270 @@
+SEP / DOT PLOT — September 16, 2026 (Type I) — THE PATH MOVED, THE FORECAST DID NOT
+════════════════════════════════════════════════════════════════════════
+Hike delivered | Median 2026 dot 4.1 = ONE MORE hike this year | 16 of 18 above the new midpoint
+Prior SEP: June 17, 2026 | New FFR: 3.75–4.00% (midpoint 3.875%) | Cycle: HIKING
+SOURCE (Sept): https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm
+SOURCE (June): https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm
+Written September 17 (decision-day run failed; see statement diff).
+════════════════════════════════════════════════════════════════════════
+
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+The September projections raise the rate path far more than they raise the
+inflation forecast. Headline and core PCE medians move up one tenth for 2026
+and are unchanged for 2027; the fed funds median moves up +0.3 for 2026, +0.5
+for 2027 and +0.5 for 2028. The Committee is responding to roughly the same
+inflation outlook it had in June with roughly two more quarter-point hikes.
+
+What changed is not the inflation forecast but the rest of the frame: the
+unemployment path was revised DOWN two tenths to 4.1 across every horizon, the
+count of participants seeing upside risk to unemployment went from 7 to 0,
+and the count seeing downside risk to growth went from 5 to 0. The labor-market
+argument for patience did not weaken; it disappeared. With inflation risks
+still skewed to the upside by 17 of 18, the Committee re-priced its reaction
+function, not its inflation view.
+
+Against the NEW 3.875% midpoint, 16 of 18 participants project at least one
+more hike by year-end, 2 project a hold, and 0 project a cut — the first SEP of
+the cycle with no dot below the current rate. The 2027 median equals the 2026
+median (4.1): hike once more, then hold for a year.
+
+════════════════════════════════════════════════════════════════════════
+MEDIAN PROJECTIONS — JUNE → SEPTEMBER (the diff is the signal)
+════════════════════════════════════════════════════════════════════════
+                        2026        2027        2028        2029      Longer Run
+─────────────────────────────────────────────────────────────────────
+Real GDP        Jun     2.2         2.3         2.2          —          2.0
+                Sep     2.3         2.4         2.2         2.1         2.0
+                Δ      +0.1        +0.1          0           —           0
+
+Unemployment    Jun     4.3         4.3         4.2          —          4.2
+                Sep     4.1         4.1         4.1         4.1         4.2
+                Δ      -0.2 ↓      -0.2 ↓      -0.1 ↓        —           0
+                        (full employment through 2029 — the labor cover is gone)
+
+PCE inflation   Jun     3.6         2.3         2.0          —          2.0
+                Sep     3.7         2.3         2.1         2.0         2.0
+                Δ      +0.1          0         +0.1          —           0
+                        (2% now reached in 2029, not 2028)
+
+Core PCE        Jun     3.3         2.5         2.1          —          —
+                Sep     3.4         2.5         2.2         2.0         —
+                Δ      +0.1          0         +0.1          —          —
+
+Fed funds rate  Jun     3.8         3.6         3.4          —          3.1
+                Sep     4.1         4.1         3.9         3.6         3.2
+                Δ      +0.3 ↑↑     +0.5 ↑↑     +0.5 ↑↑       —         +0.1
+─────────────────────────────────────────────────────────────────────
+Exact histogram medians (unrounded): 2026 3.750 → 4.125; 2027 3.625 → 4.125;
+2028 3.375 → 3.875; 2029 3.625; longer run 3.0625 → 3.25.
+Central tendency, fed funds 2026: June 3.6–4.1 → Sept 4.1–4.4. Range: June
+3.4–4.4 → Sept 3.9–4.4. The bottom of the range rose 50bp; the top did not move.
+
+KEY READ ON THE RATE PATH:
+• Read against the NEW midpoint (3.875% after today's hike), not the old one.
+  The 2026 median of 4.125 is one quarter-point above it: the median
+  participant expects one more hike at one of the two remaining meetings
+  (October 27–28 or December 8–9).
+• 2027 median = 2026 median = 4.125. The modal path is hike-then-plateau, not
+  a hiking cycle: the median sees the rate reached by year-end held through
+  all of 2027, one cut in 2028 (3.875), another in 2029 (3.625).
+• Longer-run median 3.0625 → 3.25 (published 3.1 → 3.2). A small upward
+  re-estimate of neutral, NOT the explanation for the near-term move: the
+  2026-minus-longer-run gap widened from +0.69 to +0.875 (published +0.7 →
+  +0.9), and the 2027 gap from +0.56 to +0.875. The Committee is signaling
+  MORE restriction relative to a slightly higher neutral, i.e.
+  higher-for-longer, not neutral-repricing. [Per the CLAUDE.md neutral-rate
+  precision rule: the near-term move is a restrictiveness call; the neutral
+  drift is real but second-order — see the longer-run histogram below.]
+
+════════════════════════════════════════════════════════════════════════
+2026 DOT DISTRIBUTION — NO ONE BELOW THE CURRENT RATE
+════════════════════════════════════════════════════════════════════════
+Rate level        JUNE (18 dots)         SEPT (18 dots)
+─────────────────────────────────────────────────────────────────────
+3.375%                 1                      —
+3.625%  (June current) 8                      —
+3.875%  (Sept current) 3                      2
+4.125%                 5                     12
+4.375%                 1                      4
+─────────────────────────────────────────────────────────────────────
+Median             3.750% (avg 9th–10th)  4.125% (9th and 10th both)
+Range              3.375% – 4.375%        3.875% – 4.375%
+
+Directional split vs. the CURRENT midpoint at each meeting:
+                        JUNE (vs 3.625)      SEPT (vs 3.875)
+  HIKE  (above)         9 / 18  (50%)       16 / 18  (89%)
+  HOLD  (at)            8 / 18               2 / 18
+  CUT   (below)         1 / 18  (6%)         0 / 18  (0%)
+
+Same split measured against June's 3.625 midpoint: in June 9 of 18 were
+above it; in September 18 of 18 are above it. Every participant now sits at
+least one hike above where the Committee was in June. Twelve of eighteen
+cluster on a single dot (4.125): the modal view is unusually tight — one more
+hike, and that is the year.
+
+2027 DISTRIBUTION — the plateau
+Rate level        JUNE (18)     SEPT (18)
+  2.875%              1             —
+  3.125%              4             1
+  3.375%              3             —
+  3.625%              2             3
+  3.875%              5             —
+  4.125%              2             6
+  4.375%              1             8
+Median             3.625%        4.125%
+In June 8 of 18 saw the rate BELOW June's current 3.625 level by end-2027
+and 2 more saw it unchanged — a cut-or-hold path for 10 of 18. In September
+14 of 18 sit at or above 4.125 — no cuts through 2027 for the bulk of the
+Committee. Only 4 dots (3.625 and 3.125) still carry
+a 2027 cut. The June dovish tail for 2027 (eight dots at 3.375 or below) has
+collapsed to one.
+
+LONGER-RUN DISTRIBUTION — a thickening upper half, same mode
+  June (18):  2.875:2  3.0:7  3.125:2  3.25:1  3.375:2  3.5:1  3.625:1  3.75:1  3.875:1
+  Sept (18):  2.875:1  3.0:6  3.125:1  3.25:2  3.375:1  3.5:2  3.625:2  3.75:1  3.875:2
+The mode is still 3.0 (7 → 6). Dots at 3.5 or above went 4 → 7. The median
+crossed from 3.0625 to 3.25 because the middle thinned, not because the center
+moved. The dissenters' argument that AI-era investment has raised neutral
+(which Paulson on Aug 4 conceded is "the key question") is winning converts
+one at a time, not carrying the Committee.
+
+════════════════════════════════════════════════════════════════════════
+INFLATION DISTRIBUTIONS — the forecast converged, it did not shift
+════════════════════════════════════════════════════════════════════════
+PCE 2026 (number of participants per range):
+  Range       2.7-2.8  2.9-3.0  3.3-3.4  3.5-3.6  3.7-3.8  3.9-4.0  4.1-4.2
+  June           1        —        —        9        5        2        1
+  Sept           —        1        1        4       12        —        —
+The median rose 0.1, but the distribution changed more than the median
+suggests — in the direction of LESS dispersion, not more inflation. The three
+dots at 3.9 or above in June are gone; twelve of eighteen now sit on 3.7–3.8.
+The Committee is more certain about 2026 inflation than it was, and the upper
+tail came DOWN. Core PCE 2026 tells the same story (3.3–3.4: 10 → 12; 3.5–3.6:
+4 → 3; nothing above 3.6 either time).
+
+PCE 2027: essentially unchanged (2.1–2.2: 5 → 6; 2.3–2.4: 6 → 7; 2.5–2.6: 4 →
+4). PCE 2028: 1.9–2.0 went 12 → 6, 2.1–2.2 went 4 → 11 — the median moved from
+2.0 to 2.1 and target achievement slipped to 2029.
+
+Risk assessments (Figure 4):
+  PCE inflation risk weighted to upside:   June 17/18 → Sept 17/18 (unchanged)
+  Core PCE risk weighted to upside:        June 17/18 → Sept 15/18
+  Unemployment risk weighted to upside:    June  7/18 → Sept  0/18  ← the change
+  Unemployment risk broadly balanced:      June 10/18 → Sept 17/18
+  GDP risk weighted to downside:           June  5/18 → Sept  0/18  ← the change
+  GDP risk weighted to upside:             June  3/18 → Sept  5/18
+The inflation risk picture is identical to June. The labor and growth risk
+pictures flipped. That is the mechanism behind the headline: the rate path
+rose because the downside risks that justified waiting were withdrawn, not
+because the inflation forecast worsened.
+
+THE TENSION WORTH FLAGGING: "Today's policy action will support a timelier
+return to the Committee's 2 percent goal" (statement), yet the median PCE
+path reaches 2.0 in 2029 rather than June's 2028. Michael McKee put this to
+Warsh; the answer was "those aren't my forecasts." [Inference: the medians
+are set by different participants per variable and per year, so the composite
+is not one participant's internally consistent path. Read "timelier" as
+relative to the counterfactual of not hiking, not relative to the June SEP.
+But the analyst should note that the Committee's own central forecast does
+not show the higher rate path buying faster disinflation.]
+
+════════════════════════════════════════════════════════════════════════
+PARTICIPANT COUNT AND COMPOSITION
+════════════════════════════════════════════════════════════════════════
+18 participants in June, 18 in September. One participant did not submit
+2028 and 2029 projections (June: one did not submit 2028). No composition
+change between the two SEPs.
+
+Warsh confirmed in the opening statement: "as in June—I have not offered a
+projection of my own." The Committee has 19 participants (7 governors, 12
+presidents); 18 submitted. CORRECTION TO THE JUNE SCORED FILE: the June
+analysis inferred the missing dot was the Atlanta interim president. The
+Chair's statement resolves it — the missing dot in both SEPs is Warsh's own.
+Every other participant, including Atlanta, submitted.
+
+Consequence: with identical composition, the ENTIRE June → September move is
+participants revising their own dots. For 2026, the nine participants who were
+at or below 3.625 in June are all now at 3.875 or above: at least nine moved
+up, most by two steps. This is not a composition or a median-crossing
+artifact; it is a broad revision.
+
+════════════════════════════════════════════════════════════════════════
+EVALUATION AGAINST THE SPEECHES (since the July 29 FOMC)
+════════════════════════════════════════════════════════════════════════
+The dots formalize what the inter-meeting speeches said, almost voter by
+voter. All positions below are from scored files.
+
+• THE JULY DISSENTERS (Hammack, Kashkari, Logan; Jul 31 dissent statements):
+  "now is the time," "finish the job," a series of small hikes. The 2026
+  median dot at 4.125 with sixteen above the new midpoint is their path
+  adopted as the Committee's central expectation.
+• WALLER (Sep 3): hold if August inflation improved; "it may be appropriate to
+  raise the policy rate" if the improvement "has been fleeting." Voted to
+  raise. [Inference: his dot is among the 16; unconfirmed.] Also: "a small
+  adjustment ... one move, not a series" — consistent with the 4.125 cluster
+  (one more), not the 4.375 tail.
+• PAULSON (Aug 4), the median voter: "Could be higher rates, could be same
+  rates for longer" — the SEP's modal path is BOTH: higher now, same for
+  longer (2027 = 2026). Her framework maps onto the median dot exactly.
+• COLLINS (Aug 25): "tighten policy soon." Delivered.
+• BARR (Sep 1): "act decisively to raise rates" if inflation not moderating
+  sufficiently. Delivered.
+• COOK (Aug 5): "prepared to act by raising rates, if necessary." Delivered.
+• DALY (Aug 6): scenario two ("much more likely" than before) — tightening.
+  Delivered.
+• WARSH (Aug 28): standard "clearly and at sufficient speed," reported unmet;
+  "hard pressed to describe broad financial conditions as restrictive." The
+  opening statement makes both Committee-level: "the FOMC decided that this
+  standard has not been satisfied"; "This view was widely shared by the
+  Committee. So we removed a dose of accommodation."
+• WILLIAMS (Sep 2) — the divergence: "trend in inflation moving slowly down,"
+  tariffs "in the rear view mirror," "not seeing second round effects or
+  broadening." The vote was unanimous, so he voted to hike; the statement
+  dropped the supply-shock attribution he had defended. His dot is
+  unobservable, but the dovish 2027 tail (4 dots) is where an attribution-
+  framework participant would sit. [Inference.] His first post-meeting speech
+  is the priority document of the inter-meeting period.
+• GOOLSBEE (non-voter, Jul 14): "several months of CPI-like PCE prints → the
+  sooner we can normalize." The SEP contains no normalization until 2028.
+
+DOTS-VS-STATEMENT GAP (Language Cycle):
+In June the gap was "dots say hike, statement says nothing." In September the
+statement closed half of it by hiking, and the dots re-opened it: sixteen
+participants see another hike; the statement's only forward-looking word is
+"timelier." The individual positioning is still running ahead of the
+collective text by one move. Per the bottom-up cycle, the October statement is
+where that consolidates or does not. The Chair has explicitly delegated the
+path signal to the dots ("You heard from other people in the dots") while
+disowning them ("those aren't my forecasts") — which makes the dots the
+Committee's de facto guidance in a regime that has formally abolished it.
+
+════════════════════════════════════════════════════════════════════════
+NET READ
+════════════════════════════════════════════════════════════════════════
+HAWKISH SEP, on the rate path, with the mechanism worth stating precisely:
+the inflation forecast barely moved and became more certain; the labor and
+growth risk assessments flipped from skewed-down to balanced; the Committee
+therefore withdrew the patience it had been extending and moved its central
+path up two steps against a neutral estimate that drifted up one tenth. The
+result is one more hike this year, a plateau through 2027, and the first SEP
+of the cycle with no participant below the current rate.
+
+The two watch items for October: (1) whether "timelier" survives a second
+hike as guidance, and (2) whether the Just Voters who called the pre-hike
+stance "mildly restrictive" now adopt the Chair's "removed a dose of
+accommodation" framing — if they do, 4.125 is a floor, not a ceiling.
+
+ANALYST FLAGS:
+1. The user's observation — rate revision (+0.3/+0.5/+0.5) far exceeds the
+   inflation revision (+0.1/0/+0.1) — is confirmed and explained above by the
+   labor/growth risk flip. Historical benchmarking of this "reaction-function
+   revision" against the 2012–2026 SEP archive is a separate analysis
+   (options presented September 16; not run yet).
+2. Median PCE reaches 2.0 in 2029 vs 2028 in June, despite the higher path.
+   Frame for the analyst: does the Committee believe the hike shortens the
+   path, or is it hiking because it now believes the path is longer?
+3. Correct the June inference: the withheld dot is Warsh, not Atlanta.
+4. Minutes (Oct 7): was 50bp discussed; how many favored a hold; balance sheet
+   silence.
+════════════════════════════════════════════════════════════════════════

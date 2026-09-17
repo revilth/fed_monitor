@@ -1,253 +1,359 @@
-FED MONITOR — DAILY UPDATE
+FED MONITOR — DAILY UPDATE (FOMC DAY — CANONICAL)
 ════════════════════════════════════════════════════════════════
 Date: September 16, 2026
-FOMC MEETING DAY — September 15–16, 2026 (PROJECTION MEETING — SEP released)
-Prior Reference FOMC: July 29, 2026  |  Cycle: Holding (hike risk elevated)
-FFR: 3.50–3.75% (prior; September 16 result pending transcript recovery)
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since July 26, 2023)  |  FFR: 3.75–4.00%
 ════════════════════════════════════════════════════════════════
-CANONICAL FOMC-DAY REPORT — TRANSCRIPT RECOVERY REQUIRED
+FOMC DAY — Type C (Statement) + Type I (SEP / Dot Plot) + Type E (Press Conference)
+Chair: Kevin Warsh  |  Third press conference as Chair
+Decision: HIKE +25bp to 3-3/4 to 4 percent
+Vote: 12–0 UNANIMOUS (July 29 was 9–3 with three dissents FOR a hike)
+PROJECTION MEETING — SEP released; prior SEP June 17, 2026
+════════════════════════════════════════════════════════════════
+⚠ This report REPLACES the placeholder emailed the morning of September 17,
+which reported all three documents as NOT SCORED. Cause: the September 16
+decision-day cloud runs could not reach federalreserve.gov (egress blocked),
+so no provisional alerts were generated, and the collect job skipped
+September 17 as a blackout day. All three documents were retrieved directly
+from federalreserve.gov on September 17 (HTTP 200) and scored from the
+official text. There are no provisional alerts to finalize and no quote
+corrections; this is the first analysis of the meeting.
+  Full files:
+    Statement diff:   data/reports/fomc/20260916_statement_diff.txt
+    SEP / dot plot:   data/scored/sep/20260916_SEP_scored.txt
+    Press conference: data/reports/fomc/20260916_pressconf.txt
 ════════════════════════════════════════════════════════════════
 
-FOMC DOCUMENTS — STATUS
-────────────────────────────────────────────────────────────────
-  1. FOMC Statement 2026-09-16 (Type C — statement diff vs. July 29, 2026)
-     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed; recover
-     via 'python3 main.py refetch' from a network that can reach
-     federalreserve.gov, then re-run scoring for REPORT_DATE=2026-09-16)
-
-  2. SEP / Dot Plot September 2026 (Type I — projection meeting)
-     STATUS: NOT SCORED — TRANSCRIPT PENDING (SEP table not fetched)
-     Comparison when recovered: vs. June 17, 2026 SEP (prior projection
-     meeting; two meetings back — July 29 was not a projection meeting)
-     Key question: did the August inflation data shift the hike-half of the
-     committee toward hold, hold the split at ~50/50, or expand the hike
-     caucus? Did Warsh submit a dot this time (withheld at June 17)?
-
-  3. Press Conference September 16, 2026 (Type E — Warsh, Chair)
-     STATUS: NOT SCORED — TRANSCRIPT PENDING (transcript not fetched)
-     Context: Warsh's SECOND SEP press conference (first: June 17, 2026;
-     last press conf: July 29, 2026). Compare when recovered:
-       vs. PREVIOUS PRESS CONFERENCE (July 29, 2026):
-         scored at data/reports/daily/20260729_daily.txt
-       vs. PRIOR WARSH SPEECH (August 28, 2026 — Jackson Hole):
-         scored at data/scored/speeches/20260828_Kevin_Warsh_scored.txt
-
-  4. PROVISIONAL ALERTS: None generated. No data/reports/fomc/20260916*
-     files exist. The July 29 provisional alerts remain the last emailed
-     FOMC-day alerts (data/reports/fomc/20260729_*).
-     This report does NOT finalize any provisional — there was none to
-     finalize for the September 16 meeting.
-
+DOCUMENTS TODAY (September 16, 2026)
+  1. FOMC Statement (Type C) — HIKE +25bp | 12–0 | inflation paragraph rewritten
+  2. Summary of Economic Projections / Dot Plot (Type I) — vs. June 17
+  3. Kevin Warsh  |  Chair  |  Troika — Press Conference (Type E)
 ════════════════════════════════════════════════════════════════
-COLLECTION FAILURE — ROOT CAUSE
-════════════════════════════════════════════════════════════════
-The 5:30am ET GitHub Actions collect job checks today's date (2026-09-17)
-against the blackout calendar. Since 2026-09-17 is the FINAL day of the
-September 16 blackout period (start: 2026-09-05, end: 2026-09-17), the
-collect script printed "BLACKOUT DAY (2026-09-17) — skipping collection."
-and exited with no data collected. The FOMC statement, SEP projections
-table, and press conference transcript — all posted by 2:00pm ET on
-September 16 — were never retrieved by the scraper.
 
-In addition, this scoring environment's egress proxy blocks all outbound
-connections to federalreserve.gov (error: EGRESS_BLOCKED), so the
-python3 main.py refetch fallback and direct WebFetch paths also fail from
-within this session.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  FOMC STATEMENT — September 16, 2026  (Type C)
+    HIKE  |  12–0  |  SUPPLY-SHOCK ATTRIBUTION DELETED  |  "TIMELIER" ADDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RATE DECISION
+  "The Committee decided to raise the target range for the federal funds
+  rate by 1/4 percentage point to 3-3/4 to 4 percent." First increase since
+  July 26, 2023. Implementation note moves every administered rate 25bp
+  (IORB 3.90, standing repo 4.00, ON RRP 3.75, primary credit 4.00); no
+  balance-sheet change.
 
-STRUCTURAL WORKFLOW GAP: The collect job will always miss FOMC-day
-documents when the blackout period ends the day AFTER the decision day:
-the collect job runs at 5:30am on the day the blackout ends, sees that
-day is still within the blackout, and skips. The FOMC materials posted at
-2:00pm the prior day are therefore never auto-collected. The September 18
-collect run (first non-blackout run) WILL collect the September 16
-documents, but no scoring routine is scheduled to process them — the
-September 18 run reports on September 17 (BLACKOUT → SKIP) and the
-September 19 run reports on September 18. The September 16 canonical FOMC
-report will remain pending unless manually triggered.
+VOTE
+  12–0. The three July dissenters (Hammack, Kashkari, Logan) got the 25bp they
+  asked for; the nine who held in July joined them. No dovish dissent from
+  Bowman, Powell, Williams or Paulson. Voting members [INFERRED from roster;
+  the page lists only the tally]: Warsh, Jefferson, Williams, Barr, Bowman,
+  Cook, Powell, Waller, Paulson, Hammack, Kashkari, Logan.
 
-════════════════════════════════════════════════════════════════
-ACTION ITEMS — REQUIRED FOR COMPLETION
-════════════════════════════════════════════════════════════════
-1. RECOVER DOCUMENTS. From the GitHub Actions environment (or any network
-   that can reach federalreserve.gov), fetch and save:
-     a. FOMC Statement:
-        URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
-        Save: data/raw/statements/20260916_FOMC_Statement.txt (first line: SOURCE: <url>)
-     b. SEP Projections Table:
-        URL: https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm
-        (Dot distribution: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
-     c. Press Conference Transcript:
-        URL: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
-        (fallback via FOMC calendars page if URL pattern fails)
-        Save: data/raw/pressconferences/20260916_pressconf_transcript.txt (SOURCE: header)
+GROWTH  (¶2)
+  Jul 29: "expanding at a solid pace despite elevated uncertainty that owes,
+    in part, to the conflict in the Middle East. Productivity growth and
+    capital investment are strong."
+  Sep 16: "expanding at a solid pace. While uncertainty remains elevated
+    owing, in part, to geopolitical developments, domestic spending has been
+    resilient. Productivity growth is strong, and capital investment is
+    robust."
+  Changes: Middle East → "geopolitical developments" (broadened); NEW
+    "domestic spending has been resilient" (first demand-side line in a
+    Warsh statement); capex "strong" → "robust."
+  Direction: HAWKISH LEAN — resilient demand plus strong supply leaves no
+    growth-side case for patience.
 
-2. RE-RUN SCORING. Once documents are in data/raw/, manually trigger this
-   scoring agent for REPORT_DATE=2026-09-16 to:
-     - Write statement diff (Type C) vs. July 29, 2026 statement
-     - Write SEP diff (Type I) vs. June 17, 2026 SEP
-     - Score press conference (Type E): opening statement + Q&A
-     - Overwrite this placeholder with the canonical FOMC-day report
+LABOR MARKET  (¶2, second sentence)
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+  changed little." UNCHANGED — third consecutive statement.
+  Direction: NEUTRAL by text. The SEP does the work: unemployment median 4.1
+  through 2029; upside-risk count 7 → 0.
 
-3. DISSENT SWEEP. Confirm the September 16 vote tally from the recovered
-   statement. If not unanimous, check daily through September 25:
-     - Logan (Dallas): https://www.dallasfed.org/news/releases/2026/
-       (URL pattern: nrYYMMDDdissent)
-     - Hammack (Cleveland): https://www.clevelandfed.org/collections/speeches
-       (URL pattern: sp-YYYYMMDD-...)
-     - Kashkari (Minneapolis): https://www.minneapolisfed.org/article/2026/
-       (URL pattern: statement-on-my-fomc-dissent)
-     All three dissented at July 29 (preferred +25bp hike). Whether they
-     repeat, escalate, or return to the majority is the first post-meeting
-     signal.
+INFLATION  (¶3 — the document)
+  Jul 29: "Inflation remains elevated relative to the Committee's 2 percent
+    goal, in part reflecting supply shocks that have driven price increases
+    in certain sectors, including energy. The Committee will deliver price
+    stability."
+  Sep 16: "Inflation remains elevated. Today's policy action will support a
+    timelier return to the Committee's 2 percent goal. The Committee will
+    deliver price stability."
+  Changes: DELETED "relative to the Committee's 2 percent goal" as qualifier;
+    DELETED the entire supply-shock attribution clause (in every statement
+    since June 17; the framework Williams defended Aug 3 / Sep 2); NEW
+    purpose clause with a comparative — "timelier" says the July path was
+    too slow; "will deliver price stability" retained (third time).
+  Direction: HAWKISH — the Committee stopped explaining inflation and acted
+    on it. The breadth test (Warsh, Aug 28) beat the attribution test
+    (Williams) in the drafting.
 
-4. COLLECT WORKFLOW FIX (recommended). Modify collect.yml blackout check
-   to permit collection on FOMC_DAY (the second date of the meeting).
-   Currently: skip if today is in any blackout[start..end].
-   Proposed: skip if today is in blackout AND today is NOT an FOMC decision day.
-   This is a one-line change that prevents FOMC materials from falling
-   through the gap permanently.
+MONETARY POLICY
+  Forward guidance: absent (third statement). "Timelier" is a purpose
+  clause, not a path. Warsh in Q&A: "I'm not in the forward guidance
+  business ... You heard from other people in the dots effectively."
+  Direction: HAWKISH — the action.
 
-════════════════════════════════════════════════════════════════
-PRE-MEETING CYCLE CONTEXT
-(calibration-note summary; analytical context only — not a substitute for
-official transcripts; all claims from scored files)
-════════════════════════════════════════════════════════════════
-CYCLE ENTERING SEPTEMBER 15–16, 2026
+NET SIGNAL: HAWKISH — action, deleted attribution and new purpose clause all
+  point one way; nothing in the text points the other.
 
-Reference FOMC: July 29, 2026.
-Vote: 9–3. Dissenters: Hammack (Cleveland), Kashkari (Minneapolis), Logan
-(Dallas) — all preferred +25bp hike. First three-dissenter pro-hike
-coalition; first explicit hike vote of the current cycle. Prior vote was
-12–0 (June 17); Hammack and Kashkari returned to majority once easing
-bias dropped, then re-escalated to demand active tightening.
+vs. PREVIOUS STATEMENT (Jul 29): every change hawkish or hawkish-lean; labor
+  and reserves sentences carried verbatim.
 
-Statement (July 29): Text FROZEN — verbatim identical to June 17 on all
-substantive paragraphs. One word change: "reaffirmed" → "is continuing"
-on ample reserves. Inflation language unchanged: "Inflation remains
-elevated relative to the Committee's 2 percent goal." No forward guidance.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  SEP / DOT PLOT — September 2026 vs. June 2026  (Type I)
+    THE PATH MOVED, THE FORECAST DID NOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MEDIANS (June → Sept)          2026        2027        2028       2029    LR
+  Real GDP                  2.2→2.3     2.3→2.4     2.2→2.2      2.1    2.0→2.0
+  Unemployment              4.3→4.1     4.3→4.1     4.2→4.1      4.1    4.2→4.2
+  PCE inflation             3.6→3.7     2.3→2.3     2.0→2.1      2.0    2.0→2.0
+  Core PCE                  3.3→3.4     2.5→2.5     2.1→2.2      2.0      —
+  Fed funds                 3.8→4.1     3.6→4.1     3.4→3.9      3.6    3.1→3.2
+  Exact dot medians: 2026 3.750→4.125; 2027 3.625→4.125; 2028 3.375→3.875;
+  2029 3.625; longer run 3.0625→3.25.
 
-KEY ANALYTICAL QUESTIONS THE SEPTEMBER MEETING WAS EXPECTED TO RESOLVE:
+THE RATE PATH vs. THE NEW 3.875% MIDPOINT
+  2026 dots: 3.875:2 | 4.125:12 | 4.375:4.  16 of 18 project at least one
+  more hike by year-end (Oct 27–28 or Dec 8–9); 2 hold; 0 cut — the first SEP
+  of the cycle with no participant below the current rate. June, against its
+  own 3.625 midpoint, was 9 hike / 8 hold / 1 cut.
+  2027 median = 2026 median = 4.125: hike once more, then hold through 2027.
+  14 of 18 at or above 4.125 for 2027; the June dovish 2027 tail (8 dots at
+  3.375 or below) is down to 1.
+  Longer run 3.0625 → 3.25: mode still 3.0; dots at ≥3.5 went 4 → 7. The
+  2026-minus-longer-run gap widened +0.69 → +0.875 — higher-for-longer
+  against a slightly higher neutral, not neutral-repricing.
 
-1. DID THE AUGUST DATA TRIGGER WALLER'S HIKE BRANCH?
-   Waller (Sep 3): "If the incoming data for August show this improvement
-   [in inflation] has been fleeting, then it may be appropriate to raise
-   the policy rate when the FOMC meets on September 15 and 16." Explicit,
-   named, dated conditional. The August CPI/PCE landed inside the blackout
-   and was determinative. The three-month core trajectory (4.76% Feb →
-   3.05% Jul) was Waller's measure. Also: "only slightly restricting
-   aggregate demand" — a thin margin, so the August print carried
-   asymmetric downside for the hold case.
+THE MECHANISM — why the rate path rose +0.3/+0.5/+0.5 on an inflation
+revision of +0.1/0/+0.1
+  The inflation forecast barely moved and CONVERGED (2026 PCE: 12 of 18 now
+  on 3.7–3.8; June's three dots at 3.9+ are gone). Inflation risk unchanged
+  (17 of 18 upside, both SEPs). What flipped is labor and growth: unemployment
+  revised down 0.2 at every horizon; participants seeing upside unemployment
+  risk 7 → 0 (balanced 10 → 17); downside growth risk 5 → 0. The patience
+  that the labor market had justified was withdrawn. The Committee re-priced
+  its reaction function, not its inflation view.
+  Tension to flag: "timelier return" (statement) vs. median PCE reaching 2.0
+  in 2029, one year later than June's path. Warsh: "those aren't my
+  forecasts." [Inference: "timelier" is relative to not hiking, not to June.]
 
-2. HOW FAR DID THE HIKE CAUCUS EXPAND?
-   At July 29: Logan, Hammack, Kashkari confirmed. September added:
-   — Barr (Sep 1): "if inflation appears not to be moderating sufficiently,
-     then I think we should act decisively to raise rates." Hike trigger
-     unquantified but named.
-   — Waller (Sep 3): conditioned explicitly on August data (see above).
-   — Cook (Aug 5): "prepared to act by raising rates, if necessary"
-     (weakest formulation; "It may not [be necessary]").
-   Any of these three crossing to the hike side would expand the dissent
-   bloc from three to four-plus, a qualitative shift in committee dynamics.
+PARTICIPANTS: 18 in both SEPs; no composition change. Warsh: "as in June—I
+  have not offered a projection of my own." CORRECTION to the June scored
+  file: the withheld dot is Warsh's, not Atlanta's. With identical
+  composition, the whole move is participants revising their own dots — at
+  least nine moved up for 2026, most by two steps.
 
-3. UNDERLYING INFLATION: THREE COMPETING FRAMEWORKS.
-   Going into the meeting, the Troika held three different measures:
-   • Warsh (Aug 28, BREADTH): 54% of 199 PCE components still above 3%
-     (12m); 49% (6m); vs. 32% pre-pandemic. Standard: "unmet."
-   • Williams (Sep 2, ATTRIBUTION): tariffs in the "rear view mirror"; no
-     second-round effects or broadening. Standard: "trend moving slowly
-     down."
-   • Waller (Sep 3, MOMENTUM): 3m annualized core 3.05% (down from 4.76%
-     Feb); imputed nonmarket services ~half of core increase (strip out:
-     underlying "doing better than core numbers suggest").
-   Which framework governs the September statement language and dot
-   discussion is the highest-value open question in the entire cycle.
+vs. SPEECHES SINCE JULY 29: the dots formalize the inter-meeting record —
+  Collins "tighten policy soon," Barr "act decisively," Waller's August-data
+  hike branch, Paulson "could be higher rates," Cook "prepared to act," Daly
+  scenario two, the three dissenters. Divergence: Williams (attribution;
+  "trend moving slowly down") — voted with the majority; his clause was
+  deleted from the statement.
 
-4. SEP DOT DISTRIBUTION: first Warsh-chaired projection meeting.
-   June 17, 2026: 9 of 18 penciled a 2026 hike; median 3.75–3.8%.
-   Warsh withheld his own dot at June 17 ("not well suited to current
-   conjuncture"). Whether he submitted in September is a structural
-   question about the SEP's credibility as a consensus document.
-   Three outcomes possible: hike bloc expands (dot distribution shifts
-   more hawkish), contracts (August data relieved pressure), or holds
-   (near 50/50 maintained).
+Direction: HAWKISH. Dots-vs-statement gap: half-closed by the hike,
+  re-opened by the dots (16 see another; the statement names none).
 
-5. SEP FORWARD GUIDANCE REFORM.
-   Warsh's five task forces were expected to report "by fall/year-end."
-   Any announced change to the SEP structure, press conference frequency,
-   or forward guidance format would be structural, not cyclical.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  KEVIN WARSH  |  Chair  |  Troika — PRESS CONFERENCE  (Type E)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPENING STATEMENT (committee-approved language). All "new" items verified
+absent from the July 29 official opening statement; Aug 28 origins noted.
 
-COMMITTEE POSITIONING ENTERING SEPTEMBER 15–16
-(most recent scored communication per speaker):
-  Warsh (Chair):        Aug 28 — breadth standard unmet; "hard pressed to
-                          describe broad financial conditions as restrictive";
-                          no September/hike reference; "committed to a
-                          discipline, not to a decision." HAWKISH LEAN.
-  Jefferson (V.Ch.):    No post-July-29 outlook speech. Last: Apr 7
-                          (assessed "susceptible to adverse shocks" on
-                          labor). UNKNOWN.
-  Williams (NY Fed):    Sep 2 (CNBC clip, truncated) — "trend in inflation
-                          moving slowly down." NEUTRAL-TO-DOVISH relative
-                          to Warsh/dissenters.
-  Waller:               Sep 3 — hold inclination on base case; hike branch
-                          if August data "fleeting." DOVISH LEAN vs. Jul 13;
-                          "only slightly restricting."
-  Barr:                 Sep 1 — hike conditional named but unquantified.
-                          HAWKISH LEAN vs. Mar 26.
-  Cook:                 Aug 5 — "prepared to act by raising rates, if
-                          necessary." HAWKISH LEAN vs. Jul 17 Q&A.
-  Bowman:               Last outlook Jan 16. Post-energy-shock view unknown.
-  Paulson (median):     No post-July-29 outlook speech. Last: Jul 9
-                          (inflation-first bar, "if above 2% and has been
-                          for some time, I would be more cautious"). UNKNOWN.
-  Hammack (dissenter):  Jul 31 dissent statement — "NOW IS THE TIME for
-                          the FOMC to act." HAWKISH.
-  Kashkari (dissenter): Jul 31 dissent statement — series of small hikes;
-                          1970s analogy. HAWKISH.
-  Logan (dissenter):    Jul 31 dissent statement — "one month of relief is
-                          not enough; it is time to finish the job."
-                          HAWKISH.
+GROWTH
+  New: "the American economy appears to be strengthening. New hiring,
+  private-sector earnings, business capital investment—each of these markers
+  has improved ... Credit flows have been robust." "an attitude of optimism
+  is exactly what I heard inside the FOMC." The July AI-capex hedge is gone.
+  Direction: HAWKISH LEAN.
+
+LABOR MARKET
+  New: "jobless rate remains low at around 4.1 percent, and both job openings
+  and weekly hours have been increasing. Unemployment claims ... consistent
+  with full employment. So, the labor side of the Fed's congressional remit
+  is in good shape." (Aug 28's "consistent with full employment" now
+  consensus text.)
+  Direction: HAWKISH LEAN — full-employment verdict removes the labor case
+  for patience.
+
+INFLATION
+  New: "our predominant focus is on the price-stability side"; "inflation is
+  too high and has been for too long"; "This summer's inflation readings do
+  not tell me that underlying trends have meaningfully improved" (Aug 28
+  verbatim); PCE "around 3.6 percent in August"; "Too many categories are
+  still posting increases above 3 percent, on both a 6- and 12-month basis"
+  — THE BREADTH MEASURE, personal on Aug 28, committee text 19 days later;
+  commodity input prices "have risen"; and the standard executed: "I defined
+  the standard for action: We must be confident that underlying inflation is
+  moving to our objective, clearly and at sufficient speed. Today, the FOMC
+  decided that this standard has not been satisfied." Four aims enumerated,
+  including "that relative price changes in some sectors of the economy do
+  not broaden" — the deleted supply-shock clause inverted into a policy aim.
+  Absent vs. July: "no soft inflation target" passage (not repeated).
+  Direction: HAWKISH.
+
+MONETARY POLICY
+  New: "as I said at the policy symposium in Jackson Hole, I would be
+  hard-pressed to describe broad financial conditions as restrictive. This
+  view was widely shared by the Committee. So we removed a dose of
+  accommodation." The July hold retold as timing ("a good majority ... thought
+  the wiser course then would be to await new information"). "The committee's
+  unanimous vote shows our resolve." Dot withheld again. Global context:
+  G-20 Asheville, Basel — "most advanced economies are facing price
+  pressures." Absent vs. July: the bond-market/"play the ball" section, the
+  four meeting questions, the balance sheet (not mentioned anywhere today),
+  "will not hesitate to act" (superseded by acting).
+  Cut signal: ABSENT.  Hike signal: the hike; no path.
+  Direction: HAWKISH.
+
+Q&A — the unscripted signals beyond the opening statement
+  • The path delegated, then disowned. "I'm not in the forward guidance
+    business ... You heard from other people in the dots effectively, what
+    their forecasts are." And on the SEP's 2029: "those aren't my forecasts.
+    Those are the forecasts of my 18 colleagues ... we'll have more to say
+    about it. But I'm ill-prepared to pre-judge those future actions."
+  • Not the CPI. "I'm not a data point dependent guy." Three things changed
+    since July: the economy "has strengthened"; "the inflation summer trends
+    weren't passing the test. I've seen very little information since that
+    would make me reverse that decision"; and geopolitics — "our judgment
+    about what is the most likely, or least likely of the geopolitical
+    situation has changed." The July hold: "seven weeks is a good investment
+    ... a way to buy time." The judgment was formed at Jackson Hole and
+    executed today; Waller's dated August-data trigger reached the same vote
+    by a different route.
+  • No ceiling. Restrictive? "my colleagues were hard-pressed to describe it
+    that way too. We removed a dose of accommodation." Neutral rate? "Do I
+    think it has any operational effect on decisions that we make today? No,
+    I don't." Against the majority's own pre-hike labels ("mildly
+    restrictive" — Paulson, Collins, Daly; "only slightly restricting" —
+    Waller), the Chair will not call 3.875% restrictive.
+  • Hiking into a supply shock: "what we can do, and will do, is ensure that
+    any change in relative prices don't broaden out. Don't have second and
+    third order effects." No labor sacrifice: "I don't believe that we need
+    to do harm to the labor markets to achieve our objective."
+  • Independence: "today was our decision." On the President: "I've got
+    nothing for you." "Independence is a two-way street." A unanimous hike
+    against explicit pressure for cuts.
+  • Yields explained by growth, hyperscaler capital demand and geopolitics —
+    July's "curve doing the work" argument is gone.
+
+NET SIGNAL: HAWKISH — a unanimous hike framed as accommodation-removal; the
+  Chair's Aug 28 framework (standard, breadth test, level claim) adopted as
+  Committee text within nineteen days; the supply-shock excuse retired; no
+  ceiling stated; the path handed to a dot plot in which 16 of 18 see another
+  hike.
+
+vs. PREVIOUS PRESS CONFERENCE (Jul 29):  HAWKISH on every section — growth
+  "strengthening" vs. "resilience"; labor full-employment verdict vs.
+  statement line only; inflation attribution deleted and speed standard
+  reported unmet vs. frozen text; policy +25bp/12–0 vs. hold/9–3; curve and
+  balance-sheet arguments dropped; dissents cited as "resolve" vs. unmentioned.
+vs. CHAIR'S PREVIOUS SPEECH (Aug 28, Jackson Hole):  EXECUTION — standard,
+  measure and level claim all migrated personal → Committee; new: "removed a
+  dose of accommodation," geopolitics as a decision input, "do not broaden,"
+  "inflation is a choice." Nothing retracted. Balance sheet now absent.
+vs. COMMITTEE SINCE PREVIOUS FOMC:  Anticipated by seven voters and two
+  non-voters on record with a hike case (dissenters, Collins, Barr, Waller,
+  Cook, Daly, Paulson). Diverged: Williams on inflation attribution (voted
+  with the majority anyway). Stance-label collision: four voters said
+  "restrictive" pre-hike; the Chair says the Committee was "hard-pressed" to.
+
+LANGUAGE TO WATCH:
+  • "removed a dose of accommodation" — Chair, attributed to Committee; not
+    yet used by any other official. Adoption by Just Voters would retire
+    "mildly restrictive" and lengthen the path.
+  • "clearly and at sufficient speed" → "this standard has not been
+    satisfied" — Aug 28 personal → Sept 16 Committee finding.
+  • "Too many categories are still posting increases above 3 percent" — the
+    breadth test in consensus text; Williams's attribution test is now the
+    minority language.
+  • "a timelier return to the Committee's 2 percent goal" — IN-STATEMENT;
+    retained after a second hike = guidance device.
+  • "domestic spending has been resilient" — IN-STATEMENT, new demand line.
+  • "relative price changes ... do not broaden" — supply-shock story inverted
+    into a policy aim.
+  • DELETED: "in part reflecting supply shocks ... including energy";
+    "relative to the Committee's 2 percent goal" as a qualifier on elevated.
+  • Dropped from the Chair's repertoire: "play the ball, not the referee";
+    "no soft inflation target"; "will not hesitate to act"; balance sheet.
+
+ANALYST FLAG: YES
+  → (1) Is October live? 16/18 dots above the new midpoint, "timelier," and
+        "we'll have more to say." Committee documents give a path the Chair
+        will not.
+  → (2) The stance-label collision ("mildly restrictive" vs. "hard-pressed
+        to describe as restrictive ... widely shared") must resolve in the
+        first round of post-meeting speeches. Which label survives at 3.875%?
+  → (3) Williams: framework clause deleted from the statement; Sep 2 verdict
+        contradicts the opening statement. First post-meeting speech is the
+        highest-signal document of the period.
+  → (4) SEP tension: higher path, 2% reached in 2029 rather than 2028. Is the
+        Committee hiking to shorten the path or because it believes the path
+        is longer?
+  → (5) Waller's Sep 3 branch: confirm in his own words that the August data
+        failed his test.
+  → (6) Minutes Oct 7: 50bp discussed? Any hold preference? Balance sheet?
+  → (7) Correct the June SEP inference — the withheld dot is Warsh's.
+  → (8) The user's dot-plot question (rate revision vs. inflation revision,
+        benchmarked against the 2012–2026 SEP archive) is queued; options
+        presented Sept 16, method not yet chosen.
+
+CROSS-DOCUMENT NOTE
+  All three documents move the same way, and the direction of the language
+  cycle is TOP-DOWN this meeting: the Chair's Aug 28 personal framework is
+  now the Committee's statement rationale, opening-statement text and SEP
+  path. The bottom-up signal (dots ahead of statement) persists by one move.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — TOMORROW: Friday September 18
 ────────────────────────────────────────────────────────────────
   Blackout ends September 17. Post-FOMC commentary may begin September 18.
-  Calendar lookup unavailable this run (federalreserve.gov egress-blocked).
+  Board calendar and regional event pages checked Sept 17 (Board calendar
+  page is JS-rendered and returned no event data): (none confirmed).
 
-  HIGH PRIORITY first post-FOMC documents to watch (September 18 onward):
-    • Warsh — post-meeting communications pattern; any institutional
-      reform announcement.
-    • Dissent statements — if September 16 vote not unanimous: Logan
-      (Dallas), Hammack (Cleveland), Kashkari (Minneapolis), and any new
-      dissenters. Check daily through September 25.
-    • Jefferson, Paulson (median voter) — no post-July-29 outlook on
-      record; first post-FOMC communication will be high signal.
-    • Waller — his September vote was an explicit function of August data;
-      first post-decision speech will either confirm or unwind the Sep 3
-      conditionality.
-
-  (none confirmed — calendar lookup unavailable this run)
+  Priority first post-meeting documents (Sept 18 onward):
+    • Williams (NY Fed, Troika) — attribution framework deleted from the
+      statement; does he retain it?
+    • Paulson (median voter) — "higher rates" or "same for longer"; which
+      stance label at 3.875%?
+    • Waller — did the August data fail his Sep 3 test? One move or a series?
+    • Jefferson, Bowman, Powell — no outlook communication since July 29;
+      all voted to hike.
+    • Hammack / Kashkari / Logan — no dissent statements expected (12–0);
+      watch whether they now argue for 50bp or a series.
+  Next FOMC: October 27–28 (no SEP). Minutes of Sept 15–16: ~October 7.
+  Beige Book: check beige_book_dates.json.
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-September 16, 2026 FOMC documents — NOT YET RETRIEVED:
-  Statement:  https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
-  SEP table:  https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm
-  Press conf: https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+September 16, 2026 documents (all retrieved from federalreserve.gov, HTTP 200,
+September 17):
+  Statement:
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+  Implementation note:
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm
+  SEP / projection materials:
+    https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm
+  Press conference (preliminary official transcript, full):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
 
-Comparison baselines (prior meeting / prior projection meeting):
-  July 29, 2026 statement:
+Comparison baselines:
+  July 29 statement:
     https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
-    (data/raw/statements/20260729_FOMC_Statement.txt)
-  July 29, 2026 press conference: data/reports/daily/20260729_daily.txt
-  June 17, 2026 SEP (prior projection meeting):
+    data/raw/statements/20260729_FOMC_Statement.txt
+  July 29 press conference (final official transcript):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260729.pdf
+    data/raw/pressconferences/20260729_pressconf_transcript.txt
+  June 17 SEP (prior projection meeting):
     https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260617.htm
-    (data/scored/sep/20260617_SEP_scored.txt)
+    data/scored/sep/20260617_SEP_scored.txt
+  Last prior increase (Jul 26, 2023):
+    data/raw/statements/20230726_FOMC_Statement.txt
 
-Pre-meeting scored speeches referenced above:
+Chair's prior speech:
   Warsh Aug 28, 2026 (Jackson Hole):
     https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
-  Waller Sep 3, 2026:
-    https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
-  Barr Sep 1, 2026:
-    scored at data/scored/speeches/20260901_Michael_S__Barr_scored.txt
+    data/scored/speeches/20260828_Kevin_Warsh_scored.txt
+
+Inter-meeting scored speeches referenced:
+  Hammack / Logan / Kashkari Jul 31 dissent statements; Paulson Aug 4;
+  Cook Aug 5; Kashkari Aug 5; Daly Aug 6; Barkin Aug 13; Collins Aug 25;
+  Barr Sep 1; Waller Sep 3 — data/scored/speeches/
+  Williams Aug 3 (Reuters) / Sep 2 (CNBC) — Type J, data/raw/interviews/
 ════════════════════════════════════════════════════════════════

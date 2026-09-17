@@ -1,0 +1,298 @@
+FOMC STATEMENT DIFF — September 16, 2026 (Type C)
+════════════════════════════════════════════════════════════════════════
+HIKE +25bp TO 3.75–4.00% | 12–0 UNANIMOUS | INFLATION PARAGRAPH REWRITTEN
+Prior FOMC: July 29, 2026 (HOLD 3.50–3.75%, 9–3, three dissents for a hike)
+Cycle: HIKING — first rate increase since July 26, 2023
+Retrieved from federalreserve.gov (HTTP 200) on September 17; both sides of this
+diff are verbatim official text. Written one day late: the September 16 cloud
+runs could not reach federalreserve.gov (egress blocked) and no alert was
+generated on decision day.
+════════════════════════════════════════════════════════════════════════
+
+HEADLINE
+─────────────────────────────────────────────────────────────────────
+The Committee raised rates by 25bp, unanimously, and rewrote the inflation
+paragraph to remove the supply-shock attribution that had framed inflation as
+exogenous since June. The three July dissenters got their hike; the nine who
+held in July joined them, including every voter who had been on record with a
+"mildly restrictive" or "only slightly restricting" stance characterization.
+No dovish dissent.
+
+Three textual changes carry the signal, all in the same direction:
+  1. "maintain" → "raise ... by 1/4 percentage point" — the action.
+  2. The inflation paragraph loses "relative to the Committee's 2 percent goal"
+     and loses the entire clause "in part reflecting supply shocks that have
+     driven price increases in certain sectors, including energy." What is left
+     is a bare "Inflation remains elevated." The Committee has stopped
+     explaining inflation and started acting on it.
+  3. A new purpose clause: "Today's policy action will support a timelier
+     return to the Committee's 2 percent goal." "Timelier" is the operative
+     word. It concedes that the July path was too slow, and it is the closest
+     thing to guidance this Committee has published since Warsh removed it.
+
+The labor sentence is unchanged for the third consecutive statement. The
+demand side gets its first explicit characterization ("domestic spending has
+been resilient"). The Middle East conflict becomes "geopolitical developments."
+
+DIRECTION: HAWKISH. The action, the deleted attribution, and the new purpose
+clause all point the same way. Nothing in the text points the other way.
+
+════════════════════════════════════════════════════════════════════════
+THE VOTE
+════════════════════════════════════════════════════════════════════════
+Sept 16:   12–0. "approved the following statement for release by a 12 – 0
+           vote." The press-release page reports the tally and lists no names.
+July 29:   9–3 (Hammack, Kashkari, Logan preferred +25bp).
+June 17:   12–0 (hold).
+April 29:  8–4.
+
+THE HAWK ESCALATION LADDER — completed:
+  April 29  → dissent against LANGUAGE (the easing bias)
+  June 17   → fall in line once the language is removed
+  July 29   → dissent for the RATE (+25bp)
+  Sept 16   → the Committee delivers the rate they dissented for, 12–0
+
+Voting members [INFERRED from the 2026 roster; the page lists only the tally]:
+Warsh, Jefferson, Williams, Barr, Bowman, Cook, Powell, Waller (Board);
+Paulson (Philadelphia), Hammack (Cleveland), Kashkari (Minneapolis), Logan
+(Dallas).
+
+What the unanimity tells you, voter by voter, against their last stated
+position (all from scored files, not recollection):
+  • Waller (Sep 3): named, dated two-branch conditional — hold if August
+    inflation improved, "it may be appropriate to raise the policy rate" if
+    "this improvement has been fleeting." He voted to raise. By his own rule,
+    the August data failed his test. [Inference: the branch fired; he has not
+    yet said so himself.]
+  • Paulson (Aug 4), the median voter: "Could be higher rates, could be same
+    rates for longer." Chose higher rates. The median moved.
+  • Cook (Aug 5): "prepared to act by raising rates, if necessary." Acted.
+  • Barr (Sep 1): "act decisively to raise rates" if inflation "appears not
+    to be moderating sufficiently." Acted.
+  • Williams (Sep 2): "trend in inflation moving slowly down," tariffs "in
+    the rear view mirror." Voted for the hike anyway — and the statement
+    deleted the supply-shock attribution his framework rested on. He lost the
+    drafting argument and joined the vote. Highest-priority first post-meeting
+    speech on the Committee.
+  • Bowman, Jefferson, Powell: no post-July outlook communication on record.
+    All three voted for the hike. No dovish dissent from any of them.
+  • Hammack, Kashkari, Logan: got exactly the 25bp they dissented for.
+
+════════════════════════════════════════════════════════════════════════
+SENTENCE-BY-SENTENCE DIFF (Prior = July 29 | New = Sept 16, both verbatim)
+════════════════════════════════════════════════════════════════════════
+
+─── PARAGRAPH 1 — Policy decision + reserves ───
+JULY 29:  "The Committee decided to MAINTAIN the target range for the federal
+           funds rate AT 3-1/2 to 3-3/4 percent, in support of the Federal
+           Reserve's dual mandate. The Committee is continuing its policy of
+           maintaining ample reserves in the banking system."
+SEPT 16:  "The Committee decided to RAISE the target range for the federal
+           funds rate BY 1/4 PERCENTAGE POINT TO 3-3/4 to 4 percent, in support
+           of the Federal Reserve's dual mandate. The Committee is continuing
+           its policy of maintaining ample reserves in the banking system."
+CHANGE:   The decision. Reserves sentence unchanged (second consecutive use of
+          "is continuing").
+DIRECTION: HAWKISH — the first increase in the target range since July 26,
+          2023. The implementation note moves every administered rate by 25bp
+          (IORB 3.65 → 3.90; standing repo 3.75 → 4.00; ON RRP 3.50 → 3.75;
+          primary credit 3.75 → 4.00) and changes nothing else: the $160bn ON
+          RRP per-counterparty limit, bill purchases to maintain ample
+          reserves, and full reinvestment are all unchanged. No balance-sheet
+          action. The balance sheet — a formal meeting question on July 29 —
+          is absent from the statement, the implementation note, and the
+          press conference.
+          Factual note: the primary-credit increase was approved on requests
+          "submitted by the Board of Directors of the Federal Reserve Banks of
+          Cleveland, Richmond, Atlanta, Chicago, Minneapolis, Kansas City, and
+          Dallas" — seven of twelve. [Inference: the other five boards had not
+          filed a request as of the meeting; this is a bank-board matter and
+          may be timing, not a signal. Low priority.]
+
+─── PARAGRAPH 2 — Economic activity + labor ───
+JULY 29:  "Economic activity is expanding at a solid pace DESPITE ELEVATED
+           UNCERTAINTY THAT OWES, IN PART, TO THE CONFLICT IN THE MIDDLE EAST.
+           Productivity growth AND capital investment ARE STRONG. Job gains
+           have kept pace with the workforce, and the unemployment rate has
+           changed little."
+SEPT 16:  "Economic activity is expanding at a solid pace. WHILE UNCERTAINTY
+           REMAINS ELEVATED OWING, IN PART, TO GEOPOLITICAL DEVELOPMENTS,
+           DOMESTIC SPENDING HAS BEEN RESILIENT. Productivity growth IS strong,
+           AND capital investment IS ROBUST. Job gains have kept pace with the
+           workforce, and the unemployment rate has changed little."
+CHANGES:  (a) "the conflict in the Middle East" → "geopolitical developments."
+              Broadened, not dropped. Warsh in Q&A: geopolitics is one of the
+              three things that changed since July — "there's no hiding from
+              hot spots around the world, and our judgment about what is the
+              most likely, or least likely of the geopolitical situation has
+              changed." The uncertainty is now a standing condition rather
+              than a single conflict.
+          (b) NEW: "domestic spending has been resilient." First explicit
+              demand-side characterization in a Warsh-era statement. The
+              prior statements described supply (productivity, capex) and
+              labor only.
+          (c) "Productivity growth and capital investment are strong" →
+              "Productivity growth is strong, and capital investment is
+              robust." Capex upgraded one step.
+          (d) Labor sentence: UNCHANGED, third consecutive statement.
+DIRECTION: HAWKISH LEAN. (b) is the substantive addition: resilient demand
+          alongside strong supply removes the last growth-side argument for
+          patience. Read with the SEP, where the 2026 unemployment median fell
+          to 4.1 and the count of participants seeing upside unemployment
+          risk went from 7 to 0, the labor market has moved from "no case for
+          cuts" to "no obstacle to hikes." (a) is neutral-to-hawkish: the
+          uncertainty that in July was a reason to wait is now described as
+          persistent, and the Committee hiked through it.
+
+─── PARAGRAPH 3 — Inflation ───
+JULY 29:  "Inflation remains elevated RELATIVE TO THE COMMITTEE'S 2 PERCENT
+           GOAL, IN PART REFLECTING SUPPLY SHOCKS THAT HAVE DRIVEN PRICE
+           INCREASES IN CERTAIN SECTORS, INCLUDING ENERGY. The Committee will
+           deliver price stability."
+SEPT 16:  "Inflation remains elevated. TODAY'S POLICY ACTION WILL SUPPORT A
+           TIMELIER RETURN TO THE COMMITTEE'S 2 PERCENT GOAL. The Committee
+           will deliver price stability."
+CHANGES:  (a) DELETED: "relative to the Committee's 2 percent goal" as a
+              qualifier on "elevated." The goal is relocated into the new
+              second sentence. The first sentence is now three words.
+          (b) DELETED: "in part reflecting supply shocks that have driven
+              price increases in certain sectors, including energy." This
+              clause had been in every statement since June 17. It was the
+              Committee's stated reason inflation could be looked through, and
+              it was the framework Williams defended publicly on Aug 3 and
+              Sep 2 ("broader commodity prices are the biggest drivers," "not
+              seeing second round effects or broadening").
+          (c) NEW: "Today's policy action will support a timelier return to
+              the Committee's 2 percent goal."
+          (d) RETAINED: "The Committee will deliver price stability" — third
+              consecutive statement.
+DIRECTION: HAWKISH, and this paragraph is the document.
+          (b) is the largest textual change since Warsh's June rewrite.
+          Removing the supply-shock attribution removes the Committee's
+          published reason for patience. It is consistent with Warsh's Aug 28
+          framework — underlying inflation measured by BREADTH (share of PCE
+          components above 3%), where the source of a price increase is not
+          the test — and inconsistent with Williams's ATTRIBUTION framework.
+          The breadth test won the drafting; the press conference opening
+          statement then put it in committee language ("Too many categories
+          are still posting increases above 3 percent"). The supply-shock
+          story does survive in one place, inverted: the opening statement
+          lists as an aim "that relative price changes in some sectors of the
+          economy do not broaden." The shocks are no longer a reason to wait;
+          their broadening is the thing the hike is meant to prevent.
+          (c) "timelier" is a comparative. It says the July path — the one the
+          nine-vote majority chose seven weeks ago — was not timely enough.
+          That is the Committee adopting the July dissenters' premise
+          ("finish the job," "now is the time") in its own text. It also
+          operationalizes Warsh's Aug 28 standard ("moving to our objective,
+          clearly and at sufficient speed"), which the opening statement then
+          reports as unmet: "Today, the FOMC decided that this standard has
+          not been satisfied."
+          Note what "timelier" is NOT: it is not a path. There is no "further
+          adjustments" language, no "additional firming," nothing that names
+          a next step. Whether it survives into October unchanged, after
+          another hike, or is dropped, will tell you whether it was a purpose
+          clause or a guidance device.
+
+─── FORWARD GUIDANCE ───
+Absent in June. Absent in July. Absent in September, in the formal sense.
+Warsh in Q&A, asked directly whether the usual sequence of hikes applies:
+"I'm not in the forward guidance business ... I'm not going to pre-judge any
+future decisions we make. You heard from other people in the dots effectively,
+what their forecasts are." The path signal has been delegated to the SEP —
+where 16 of 18 participants see at least one more hike by year-end — and
+disowned by the Chair in the same breath ("those aren't my forecasts. Those are
+the forecasts of my 18 colleagues").
+
+════════════════════════════════════════════════════════════════════════
+WHAT THE STATEMENT RESOLVED FROM JULY — and what it did not
+════════════════════════════════════════════════════════════════════════
+The July diff posed two readings of the frozen text: (a) Warsh holding the
+center deliberately, absorbing dissents rather than conceding language; (b) no
+majority for anything else. September answers it: (a). Seven weeks after
+absorbing three dissents with the text frozen, the Chair delivered the
+dissenters' rate with the text rewritten and twelve votes. Warsh in Q&A: "a
+good majority of my colleagues seven weeks ago thought seven weeks is a good
+investment, it's a way to buy time so we could make a wise decision." The hold
+was a delay, not a disagreement.
+
+The DOTS-VS-STATEMENT GAP flagged in June and July has now partly closed from
+the statement side (the action) and re-opened from the dots side (16 of 18 see
+another hike; the statement names none). See the SEP scored file.
+
+NOT RESOLVED: the stance characterization. The Chair says policy was
+accommodative ("we removed a dose of accommodation ... This view was widely
+shared by the Committee"; "hard-pressed to describe broad financial conditions
+as restrictive," and his colleagues "were hard-pressed to describe it that way
+too"). The scored record has Paulson, Collins, Daly and Waller calling the
+PRE-hike stance "mildly restrictive" / "only slightly restricting." Both cannot
+be right about the same rate. If the Just Voters re-label 3.875% as
+"restrictive" in their first post-meeting speeches while the Chair will not,
+that is the next fault line; if they adopt "accommodation," the hiking path is
+longer than one more move.
+
+════════════════════════════════════════════════════════════════════════
+LANGUAGE TO WATCH
+════════════════════════════════════════════════════════════════════════
+  • "a timelier return to the Committee's 2 percent goal" — NEW, IN-STATEMENT.
+    Purpose clause with a comparative in it. Test in October: retained after a
+    second hike = guidance device; dropped = one-off justification.
+  • "Inflation remains elevated." (bare) — the qualifier and the attribution
+    are gone. Watch whether any official re-attaches "supply shocks" or
+    "energy" in speeches; that would be a dovish crack against the statement.
+  • "domestic spending has been resilient" — NEW, IN-STATEMENT. Demand-side
+    characterization; watch for "resilient" spreading to Just Voter growth
+    sections.
+  • "geopolitical developments" replaces "the conflict in the Middle East."
+  • DELETED: "in part reflecting supply shocks that have driven price
+    increases in certain sectors, including energy." Retired after three
+    statements. Williams's framework; watch his response.
+  • "The Committee will deliver price stability" — third consecutive
+    statement. Stage: IN-STATEMENT, settled.
+  • "Job gains have kept pace with the workforce" — third consecutive
+    statement. Stage: IN-STATEMENT, settled.
+
+════════════════════════════════════════════════════════════════════════
+NEXT
+════════════════════════════════════════════════════════════════════════
+  • SEP (Type I): data/scored/sep/20260916_SEP_scored.txt — median 2026 dot
+    4.1 (exact 4.125) against the new 3.875 midpoint: one more hike this year
+    is the median view, and no participant is below the new midpoint.
+  • Press conference (Type E): data/reports/fomc/20260916_pressconf.txt.
+  • Minutes (Type D): ~October 7. Key questions: was a 50bp move discussed;
+    how many participants favored holding; the balance sheet's disappearance.
+  • Post-meeting sweep: no dissents, so no dissent-statement sweep. Priority
+    first speeches instead: Williams (lost the attribution language),
+    Waller (did his branch fire?), Paulson (median voter; "higher rates" or
+    "same for longer" — she chose, does she say why?).
+  • Next meetings: October 27–28 (no SEP); December 8–9 (SEP).
+  • Reference FOMC for all subsequent scoring: SEPTEMBER 16, 2026.
+    FFR 3.75–4.00%. Cycle: HIKING.
+
+════════════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────────────
+  Statement (Sep 16):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
+  Implementation note (Sep 16):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm
+  Statement (Jul 29, baseline):
+    https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+    data/raw/statements/20260729_FOMC_Statement.txt
+  Last prior increase (Jul 26, 2023): data/raw/statements/20230726_FOMC_Statement.txt
+  Press conference (Sep 16, preliminary official transcript):
+    https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+  Waller Sep 3:   data/scored/speeches/20260903_Christopher_J__Waller_scored.txt
+  Paulson Aug 4:  data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Cook Aug 5:     data/scored/speeches/20260805_Lisa_D__Cook_scored.txt
+  Barr Sep 1:     data/scored/speeches/20260901_Michael_S__Barr_scored.txt
+  Warsh Aug 28:   data/scored/speeches/20260828_Kevin_Warsh_scored.txt
+  Williams Aug 3 / Sep 2: data/raw/interviews/ (Type J), see CALIBRATION.md
+
+DATA-INTEGRITY NOTE
+────────────────────────────────────────────────────────────────────────
+Both sides of this diff are official verbatim text retrieved directly from
+federalreserve.gov. No part of this analysis derives from media coverage. The
+September 16 decision-day alerts were never generated (cloud egress block);
+this file is the first and only statement analysis for the meeting.
+════════════════════════════════════════════════════════════════════════

@@ -95,19 +95,27 @@ For each Type A or Type B-with-outlook:
    speech's own date).
 
 **Cycle context (keep current — update when the reference FOMC changes):**
-Reference FOMC **July 29, 2026** | FFR **3.50–3.75%** | holding cycle (rising
-hike risk). The July 29 statement: SUBSTANTIVE TEXT FROZEN — the activity, labor
-and inflation paragraphs are verbatim identical to June 17. Inflation reads
-"Inflation remains **elevated** relative to the Committee's 2 percent goal" —
-unchanged from June 17. The ONLY textual change in the document is "reaffirmed"
-→ "is continuing" on ample reserves. No forward guidance. Vote 9–3:
-Hammack (Cleveland), Kashkari (Minneapolis), Logan (Dallas) dissented preferring
-+25bp hike — first pro-hike dissent coalition since the active tightening cycle
-ended; escalation from April 29 (opposed easing bias) to July 29 (demand active
-tightening). Waller voted with majority (June CPI came in below his July 13
-hike-conditionality threshold). NOT a projection meeting. Next FOMC
-**September 15–16, 2026** (IS a projection meeting; SEP + dot plot).
-Next blackout starts **September 5, 2026**.
+Reference FOMC **September 16, 2026** | FFR **3.75–4.00%** | HIKING cycle (first
+increase since July 26, 2023). Vote 12–0 unanimous — the three July dissenters
+(Hammack, Kashkari, Logan) got their 25bp and the nine holders joined. Statement
+changes vs. July 29: "maintain" → "raise ... by 1/4 percentage point"; the
+supply-shock attribution clause ("in part reflecting supply shocks ... including
+energy") was DELETED — inflation paragraph now reads "Inflation remains elevated.
+Today's policy action will support a timelier return to the Committee's 2 percent
+goal. The Committee will deliver price stability."; "domestic spending has been
+resilient" added; "the conflict in the Middle East" → "geopolitical developments";
+capex "strong" → "robust"; labor sentence unchanged (third statement). No forward
+guidance. Warsh press conference: hike framed as "removed a dose of accommodation"
+(Committee "hard-pressed to describe" conditions as restrictive); his Aug 28
+standard ("clearly and at sufficient speed") reported as the FOMC's finding; the
+breadth test ("Too many categories ... above 3 percent") now in the opening
+statement; path delegated to the dots. SEP (projection meeting): 2026 median dot
+4.1 vs. new 3.875 midpoint, 16/18 above, 0 below; 2027 median 4.1 (plateau);
+longer run 3.2. Watch: the stance-label collision ("mildly restrictive" — Paulson,
+Collins, Daly, Waller pre-hike — vs. the Chair's "accommodation"); Williams's
+first post-meeting speech (his attribution clause was deleted); whether
+"timelier" survives October. Next FOMC **October 27–28, 2026** (NOT a projection
+meeting). Minutes ~October 7. Next blackout starts **October 17, 2026**.
 Always read `blackout_periods.json` for authoritative meeting/SEP flags.
 
 ### STEP 6 — DAILY REPORT
@@ -151,7 +159,7 @@ afternoon from `data/reports/fomc/`.
 ### F2 — STATEMENT DIFF (Type C)
 Read CLAUDE.md + CALIBRATION.md. Diff word-for-word vs the IMMEDIATELY PRIOR
 FOMC statement (the most recent statement in `data/raw/statements/` before
-REPORT_DATE — as of mid-2026 that is **June 17, 2026**). Assess each change
+REPORT_DATE — as of September 2026 that is **September 16, 2026**). Assess each change
 hawkish/dovish/neutral.
 
 ### F3 — PRESS CONFERENCE (Type E)
