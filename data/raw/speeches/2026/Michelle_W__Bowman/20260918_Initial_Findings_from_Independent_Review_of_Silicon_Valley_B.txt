@@ -1,0 +1,45 @@
+SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm
+
+September 18, 2026
+Initial Findings from Independent Review of Silicon Valley Bank
+Vice Chair for Supervision Michelle W. Bowman
+At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom
+Watch Live
+Today I am announcing the initial findings of the independent review of the failure of Silicon Valley Bank (SVB).
+1
+In June 2023, I called for an independent review of SVB's failure to supplement the internal review. After I was confirmed as Vice Chair for Supervision, I engaged the Starling Advisory Group to conduct an independent review.
+Their report marks a pivotal moment not just in our understanding of what went wrong at SVB, but in our understanding of what went wrong within the Federal Reserve's supervisory process. SVB's collapse in March 2023 was not just the failure of a single institution. It sparked contagion that quickly spread to Signature Bank and First Republic Bank and threatened to spread throughout the banking system, requiring extraordinary government intervention to contain its effects. It fundamentally shook public confidence in the effectiveness of bank supervision. That loss of confidence demands our response. And transparency is where accountability begins.
+The Starling Advisory Group's reportâthe first in a seriesâprovides an in-depth, independent examination of the facts surrounding SVB's failure. Its review was structured to be independent from the Federal Reserve System staff and principals. This independence matters. It ensures the integrity and reliability of the review and its findings.
+The Independent ReviewâIts Purpose and Key Findings
+The initial report answers three critical questions:
+Did the Federal Reserve supervisory staff identify SVB's vulnerabilities well in advance of its failure?
+If so, why did they not take prompt and decisive action to require SVB to eliminate or reduce those vulnerabilities?
+Did supervisory actions or inactions contribute to SVB's failure?
+This review is not about assigning blame. Instead, it is about learning lessons from the past to avoid repeating them in the future.
+The preliminary report makes seven critical findings:
+First
+, SVB failed as the result of a confluence of vulnerabilities including real but unrealized accounting losses on its securities portfolio that exceeded its capital, a run-prone deposit basis that was 94 percent uninsured and concentrated in venture capitalâbacked technology companies, and a lack of operational readiness to borrow from the discount window when it was needed.
+Second
+, our supervisory staff knew, or should have known, about these vulnerabilities as early as March 2022.
+Third
+, despite what it knew or should have known, supervisory staff did not take prompt and decisive action to encourage or require SVB to reduce its interest rate risk or concentration of vulnerabilities.
+Fourth
+, the delays in supervisory action were not caused by the regulatory tailoring mandate in the Economic Growth, Regulatory Relief, and Consumer Protection Act of 2018 or by any directive or suggestion from the former Vice Chair for Supervision to reduce the intensity of supervision. In fact, the former Vice Chair had stepped down in October 2021, well before 2022, when SVB's vulnerabilities became most apparent.
+Fifth
+, one significant factor contributing to supervisory inaction was a long-standing culture of risk aversion. Staff believed it was personally safer to take no action unless they were certain the action was exactly right.
+Sixth
+, a lack of clarity regarding decision rights compounded this culture of risk aversion. Amid persistent and Systemwide divorcing of responsibility, authority, and accountability, the supervisory staff was unsure who could provide certainty that a particular action was correct.
+Seventh
+, while many postmortem accounts have asserted that social media fueled the run at SVB, none of these accounts made any effort to substantiate that claim. In fact, Charles River Associates analyzed this claim at Starling's request and concluded that social media did not trigger the bank run at SVB, and there was no evidence that social media accelerated the run. Among other things, they found that 96 percent of the social media chatter regarding the run appeared after SVB's failure was inevitable.
+Initial Responses
+We have not waited for the review to be completed to address some of the shortcomings revealed in the report. For example, we issued a Statement of Supervisory Operating Principles that fundamentally refocuses our supervision. This statement:
+Clearly defines the primary objectives of supervision as identifying significant threats to the safety and soundness of banking organizations and U.S. financial stability as early as possible; and then taking prompt, decisive action to encourage or require banking organizations to take appropriate, proportionate actions to eliminate or mitigate those threats as promptly as possible.
+Redirects examiners' attention to prioritize threats that could result in significant harm to the financial condition of a banking organization or U.S. financial stability, instead of focusing excessively on procedural or documentation footfalls.
+Expands our array of supervisory options to include observations, along with MRAs and enforcement actions. This gives examiners more flexibility to calibrate their responses and differentiate among vulnerabilities based on their relative seriousness.
+In addition, we are addressing the culture problem head on. The review revealed that too many staff members feel it is personally safer to take no action than to risk taking the wrong action. Going forward, examination teams will submit monthly reports directly to the heads of supervision and their respective Reserve Banks. These reports will identify any supervisory issue or concern in which an examiner was uncertainâabout whether the standard for taking supervisory action was met, or whether such action might be inconsistent with the expectations of Board or Reserve Bank leadership. This accomplishes two goals. First, it empowers our examiners to escalate concerns without fear, and it gives leadership real-time visibility into where our teams need clearer guidance.
+Closing Thoughts
+The failure of Silicon Valley Bank tested our financial system and exposed vulnerabilities in our supervisory framework. It revealed shortcomings and vulnerabilitiesâboth at the bank and within our supervisory processesâthat require an honest assessment and meaningful reform. The independent work of the Starling Advisory Group provides that honest assessment. It is now our responsibility to follow through with meaningful reform.
+The American people deserve a banking system that is safe, sound, and resilient. They deserve supervisors who constantly assess the banking system to identify vulnerabilities and have the will to act promptly and decisively when material vulnerabilities are identified. And they deserve leaders who are unafraid to examine their own shortcomings with the same rigor we apply to the institutions we supervise.
+This report represents our commitment to deliver what the American people deserve. The dedicated professionals conducting supervision every day also deserve the tools, authority, and support necessary for success. We owe it to the American people to ensure that the lessons from SVB's failure lead to meaningful and lasting improvements in how we safeguard our financial system.
+1. The views expressed here are my own and are not necessarily those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee.
+Return to text
