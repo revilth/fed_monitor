@@ -1,0 +1,127 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 18, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first hike since July 26,
+  2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "Initial Findings from Independent Review of Silicon Valley Bank"
+     Luncheon of the Lord Mayor City of London at Mansion House, London, UK
+     STATUS: NOT SCORED — Type B (supervisory review); no embedded economic outlook
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm
+
+  2. Michelle W. Bowman  |  Vice Chair for Supervision  |  Just Voter
+     "The Final Chapter on Modernizing Bank Regulatory Stress Testing"
+     Luncheon of the Lord Mayor City of London at Mansion House, London, UK
+     STATUS: NOT SCORED — Type B (regulatory/supervisory); no embedded economic outlook
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTE — FIRST POST-FOMC COMMUNICATIONS (September 18, 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+September 18 is the first day the blackout period has lifted (blackout ran
+September 5–17, 2026). Bowman's two London speeches are the FIRST post-FOMC
+public appearances by any Fed official following the September 16, 2026 +25bp
+hike. Both are purely regulatory and supervisory in content — no monetary policy
+signals or economic outlook language are present in either speech. No scoring
+output is produced.
+
+SPEECH 1 — "Initial Findings from Independent Review of Silicon Valley Bank"
+Classification: Type B — supervisory reform announcement.
+Content: Bowman announced initial findings of the independent Starling Advisory
+  Group review of SVB's March 2023 collapse. Seven key findings: supervisory staff
+  knew of SVB vulnerabilities as early as March 2022 but did not take timely action;
+  root cause was a culture of risk aversion and unclear decision rights, NOT
+  regulatory tailoring or direction from the former Vice Chair for Supervision;
+  social media did NOT trigger or accelerate the bank run (Charles River Associates
+  analysis). Announced remedial actions already underway: Supervisory Operating
+  Principles statement; examiners to submit monthly escalation reports to leadership.
+Policy signal: none. Regulatory significance: high (first formal independent
+  accountability assessment of SVB; frames Bowman's supervisory reform agenda).
+
+SPEECH 2 — "The Final Chapter on Modernizing Bank Regulatory Stress Testing"
+Classification: Type B — stress testing framework finalization.
+Content: Previewed the upcoming final rules on enhanced transparency and public
+  accountability for the bank stress capital buffer framework. Key elements:
+  publication of stress test model equations, coefficients, assumptions, and
+  scenario-design process; reduction of year-over-year capital requirement
+  volatility; introduction of forward-looking stress exercises (results would NOT
+  affect capital requirements — informational/supervisory only). Basel III capital
+  reforms and G-SIB surcharge revisions expected to be finalized by year-end 2026.
+Policy signal: none. Regulatory significance: high (completes the stress-testing
+  modernization program Bowman began on confirmation as VCS).
+
+NET SIGNAL (September 18): No monetary policy content from any official.
+  First post-FOMC day used by Bowman for regulatory announcements from a
+  pre-planned London engagement. No economic outlook signals to score.
+
+LANGUAGE TO WATCH (regulatory track, not policy):
+  • "Culture of risk aversion" — SVB diagnostic that Bowman is applying to
+    current supervisory operating reform. Watch for this framing to spread to
+    other supervisory speeches.
+  • "Prompt and decisive action" — becomes the standard for supervisory
+    adequacy in Bowman's reform agenda.
+
+ANALYST FLAG: NO — no policy content. Monitor for Bowman economic outlook
+  speech in the coming week (no such appearance currently confirmed in London;
+  her last economic outlook remarks were January 16, 2026).
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Sunday Sep 20
+────────────────────────────────────────────────────────────────
+  Sunday September 20:
+    (None confirmed) — typical weekend quiet period.
+
+  NOTE — WEEK AHEAD (Monday–Friday, September 21–25):
+  First full post-FOMC week. The most consequential pending appearances are:
+
+  Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    "In Conversation with Austan Goolsbee: Monetary Policy in an Uncertain World"
+    Official Monetary and Financial Institutions Forum (OMFIF), London, UK
+    Monday, September 21, 2026 — 6:30am ET / 11:30am BST
+    Moderated by OMFIF Chairman David Marsh; livestream available
+    SOURCE: https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+    NOTE: Goolsbee's first post-FOMC speech; explicit policy title suggests
+    substantive remarks. Prior Goolsbee appearances at external London events
+    have been YouTube-only (no Chicago Fed transcript posted). Score as
+    Type B with embedded outlook or Type A depending on content; if transcript
+    is unavailable, mark NOT SCORED and flag for YouTube recovery.
+    (confirmed — event listed on Chicago Fed speaking page)
+
+  Williams (NY Fed, Troika), Jefferson (VP, Troika), Waller, Cook, Barr, Paulson,
+  Hammack, Kashkari, Logan, Collins, Barkin, Daly — no confirmed appearances
+  as of this run for the Sep 21–25 week. Calendar lookup via federalreserve.gov
+  blocked this run (egress proxy). Check the Fed Board calendar and regional bank
+  event pages.
+
+  HIGH PRIORITY FOR ANALYST:
+    • Williams — FIRST Troika speech post-hike. His inflation attribution
+      framework ("not seeing second round effects or broadening") is directly
+      challenged by the Sep 16 statement's deletion of the supply-shock
+      attribution clause. Whether he defends, modifies, or aligns with the
+      new statement language is the cycle's key fault-line signal.
+    • Hammack, Kashkari, Logan — all three dissenters got their hike (12–0).
+      Their post-hike communications will reveal whether they declare
+      satisfaction and join a hold majority or signal further tightening needed.
+      The Sep 16 SEP shows 16/18 participants above the 3.875% midpoint —
+      the distribution strongly skews toward at least one more move.
+    • Warsh — no post-hike speech date known. His press conference introduced
+      "removed a dose of accommodation" (vs. "mildly restrictive") and the
+      breadth test as committee-level language. Watching for Just Voter
+      adoption of this stance-label language.
+
+  Next FOMC: October 27–28, 2026 (NOT a projection meeting).
+  Next blackout begins: October 17, 2026 (28 days from today).
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date (September 18, 2026):
+  Bowman (SVB review):    https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm
+  Bowman (stress tests):  https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm
+
+Upcoming reference:
+  Goolsbee Sep 21 (OMFIF):  https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+════════════════════════════════════════════════════════════════
