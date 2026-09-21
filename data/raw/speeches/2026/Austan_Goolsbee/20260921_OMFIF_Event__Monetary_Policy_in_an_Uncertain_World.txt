@@ -1,0 +1,175 @@
+SOURCE: https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+
+Remarks at Official Monetary and Financial Institutions Forum Event 
+
+Austan D. Goolsbee 
+President and Chief Executive Officer, Federal Reserve Bank of Chicago 
+
+September 21, 2026 
+London, England  
+
+The views expressed today are my own and not necessarily those of the Federal Reserve System or the FOMC. 
+
+Introduction 
+
+Normally we think of the central banking challenge of economic stabilization and the 
+business cycle as being about ﬂuctuations in demand. But over the last several years we 
+have lived through a repeated series of supply shocks that have exposed the limits of that 
+thinking and forced new consideration of how central banks should handle supply-side 
+disruptions.  
+
+Since the experience of the 1970s, the oft-stated intuition has been that central banks 
+should “look through” supply shocks and only respond if they start to have secondary 
+effects on other industries or begin unanchoring inﬂation expectations.  
+
+Lately, though, we seem to have entered a period where large supply shocks—from wars, 
+tariffs, weather, supply chain disruptions, oil shocks, and so on—have become a regular 
+feature of the economy. My argument is that in this new environment, there are some 
+supply shocks that central banks should not simply look through—namely, the persistent 
+ones.  
+
+At a fundamental level in modern macro thinking, the Fed responds to inﬂationary 
+pressures that come from imbalances between aggregate demand and aggregate supply. 
+When demand is high relative to supply, it creates inﬂationary pressure. Because the Fed 
+has a dual mandate—to stabilize prices and maximize employment—it raises rates to bring 
+that overheating back into balance. 
+
+Are Supply Shocks Different? 
+
+In a purely mechanical sense, the economy can generate the same gap between supply 
+and demand whether demand goes up or supply goes down.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+But the standard wisdom says not to react the same way, even when the gap is the same 
+size. Instead, as I said, it is to “look through” supply shocks and hold off responding except 
+to prevent secondary effects or wage-price spirals. 
+
+Much of this “look through” intuition comes from the historical observation that shocks to 
+aggregate supply have tended to produce more transitory inﬂation than demand shocks do. 
+Weather events, supply bottlenecks, and oil price shocks often resolve relatively quickly—
+and even when they don’t fully reverse, they are frequently one-time level shifts rather than 
+persistent inﬂation shocks.  
+
+They do not change long-run potential growth, and monetary policy takes months or years 
+to work its way through an economy. So it’s largely pointless—and prone to timing errors—
+to use monetary policy in response to something short-lived. Why ﬁght against something 
+that’s going away on its own? 
+
+Demand-driven overheating, by contrast, has historically built up slowly but persisted 
+much longer—which is why the standard prescription is for monetary policy to respond 
+strongly to demand overheating. There are real dangers of escalation if problems on that 
+side are left to fester.  
+
+Lately, though, supply shocks have come more frequently, hit harder, and lasted longer. 
+And once supply shocks to inﬂation become persistent, some of the logic behind “looking 
+through” no longer holds.  
+
+That may seem surprising at ﬁrst. If the proper response to a temporary six-month supply 
+shock is to look through it, then a temporary 60-month supply shock—so long as it is 
+forecast to go away on its own—would seem to call for the same response. Ten times zero 
+is still zero.  
+
+The problem, of course, is that this implies failing the price stability mandate. If a central 
+bank commits to hitting 2% inﬂation in the medium term and commits to not respond to 
+supply shocks,  then a repeated or persistent supply shock to inﬂation means one of those 
+two commitments can’t hold up.   
+
+A cost shock that lasts multiple years forces us to revisit the rationale for looking through. 
+No one said to automatically look through persistent inﬂationary supply shocks.  
+
+And these days, when you see a large supply shock, it’s usually more accurate to assume it 
+will be persistent than to assume it will quickly go away. That’s certainly been the U.S. 
+experience over the last six years: Covid supply chains were supposed to heal within 
+months. When war broke out in the Gulf, futures markets projected oil prices to fall rapidly; 
+months later, oil is still around $100 a barrel and potentially heading higher. Tariffs have 
+
+Page 2 of 4 
+
+ 
+been nothing like the stylized textbook example of a one-time price increase—they’ve 
+instead followed a pattern of repeated escalation. 
+
+If the forecast calls for large, persistent, recurring shocks, the central bank still has to 
+restore price stability under its legal mandate—and the only way to bring inﬂation down is 
+to raise rates and narrow the gap between supply and demand, even if it’s not in the exact 
+same sectors where the cost shocks are occurring.  
+
+So the key becomes recognizing when a shock stops being temporary and should be 
+treated as persistent. My presumption—especially for big shocks—is that they will end up 
+lasting longer than we initially think.   
+
+How to Respond to Extended Supply Shocks  
+
+So what’s a central bank to do if the economy is hit by an unending string of supply shocks 
+that push inﬂation up persistently and keep it above target? 
+
+Well, the ﬁrst answer is, don’t do nothing. Looking through won’t work.  
+
+But it’s important to recognize that the response to a persistent cost shock does not need 
+to mirror the response to a demand shock, even for an identically sized imbalance between 
+supply and demand.  
+
+That’s partly a function of the tools the central bank has. Monetary policy works through the 
+demand channel. In principle, the central bank can directly counter a shock to demand 
+that overheats the economy by raising rates—putting supply and demand back into 
+balance without forcing a trade-off between mandate goals.  
+
+But an identical sized gap that comes from a negative supply shock puts the Fed in a 
+tougher spot because it doesn’t control supply.  
+
+So if inﬂationary pressure rises from a negative supply shock, the only way the central bank 
+can close the gap is by reducing demand—and, with it, output and employment. And here 
+the critical fact is that wages are sticky. They don’t adjust instantaneously.  
+
+For an economy to rebalance after a lasting negative supply shock, people would need to 
+adjust to a new, less favorable equilibrium, and wages would need to fall. If wages adjusted 
+instantly, the central bank’s response to supply shocks and demand shocks would be the 
+same.  
+
+But wages adjust slowly. Forcing inﬂation back to target in the short run means pushing 
+employment below target and output below potential. In the short run, supply shocks force 
+
+Page 3 of 4 
+
+ 
+ 
+a difficult trade-off for the dual mandate that demand shocks simply don’t. That’s why the 
+central bank may not react as aggressively to a supply-driven imbalance as it does to a 
+demand-driven one. But again, if the shock is lasting, it can’t simply be ignored.   
+
+What It Means to Watch Out for Now 
+
+Which brings me to the current outlook in the United States—and what I think we should be 
+watching. 
+
+I’m especially attuned to elevated inﬂation in service-sector industries, and to any 
+evidence that AI data center construction is spilling out of its own lane and raising 
+aggregate output beyond what the economy can absorb. Either could be signs of old-
+fashioned demand overheating—and if demand overheats, there is no ambiguity about how 
+the Fed needs to respond. Both are areas of concern in the recent data. 
+
+On the supply side—oil, tariffs, and commodity prices—forecasters have spent more than 
+a year pushing back the date when inﬂation was supposed to peak and start falling. 
+Originally it was supposed to happen in Q4 2025. Then Q1 2026. Then Q2, then Q3, then 
+Q4—and now sometime in 2027. That’s not a comforting pattern.  
+
+Whether you attribute this to a steady stream of new supply shocks or to old shocks 
+proving more persistent than expected, this has been nothing like the “one and done” 
+pattern that underpins the case for looking through.  
+
+We need evidence that these shocks are actually fading, or it’s hard to see a credible path 
+back to 2% inﬂation—and harder still to justify continuing to look through them.   
+
+Our policy response to persistent supply shocks may not need to be as large as it would be 
+if the inﬂation were coming from demand overheating. But it won’t be painless either. This 
+is exactly the painful trade-off between employment and inﬂation that stagﬂationary 
+shocks always impose on a central bank. Unfortunately, in environments like that, the only 
+way back is the hard way. 
+
+Page 4 of 4
