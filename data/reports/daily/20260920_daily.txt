@@ -1,0 +1,114 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 20, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first hike since July 26,
+  2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (None) — Sunday, September 20, 2026. No Fed communications scheduled or
+  received. Second consecutive post-FOMC weekend day.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTE — NO NEW CONTENT (September 20, 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+September 20 is a Sunday — four days after the September 16, 2026 FOMC hike
+(+25bp to 3.75–4.00%, 12–0). No speeches, testimony, or communications were
+posted or scheduled. The first post-FOMC public appearances remain the two
+Bowman regulatory speeches delivered in London on September 18 (covered in
+the 20260918 daily report) — both Type B only, no economic outlook content.
+
+The first full post-FOMC policy week begins Monday, September 21.
+
+Transcript fetch note: All Fed and regional bank sites remain proxy-blocked
+from this run environment. The GitHub Actions collect job at 5:30am ET had
+access and found no September 20 speeches. Recovery via `python3 main.py
+refetch` on a local (non-proxied) machine will clear once connectivity is
+restored, but there is no September 20 content to recover — no failures are
+logged for this date.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Mon Sep 21 – Fri Sep 25
+────────────────────────────────────────────────────────────────
+First full post-FOMC policy week. Officials are free to speak — the blackout
+(September 5–17) lifted September 18. Confirmed or announced appearances:
+
+  Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    "In Conversation with Austan Goolsbee: Monetary Policy in an Uncertain World"
+    Official Monetary and Financial Institutions Forum (OMFIF), London, UK
+    Monday, September 21, 2026 — 5:30am CT / 10:30am GMT
+    Moderated by OMFIF Chairman David Marsh; livestream on Chicago Fed page
+    SOURCE: https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+    NOTE: Speech title is explicitly policy-focused. Goolsbee's first post-FOMC
+    appearance and first post-hike communication since his July 14 Kenosha
+    fireside (pre-FOMC, pre-hike). Watch for update to his "stable without being
+    good" labor verdict and his conditional normalization path ("several months
+    of CPI-like PCE prints → normalize"). Transcript status uncertain — prior
+    Goolsbee London/international events have been YouTube-only; no Chicago Fed
+    transcript posted until after the event. If unavailable: mark NOT SCORED,
+    flag for YouTube recovery. (Confirmed — listed on Chicago Fed speaking page.)
+
+  Philip N. Jefferson  |  Vice Chair  |  Troika
+    "Discount Window Modernization and Treasury Market Functioning"
+    2026 Treasury Market Conference, Federal Reserve Bank of New York
+    Tuesday, September 22, 2026 — 9:30am ET
+    (unconfirmed — sourced from web search; topic is Type B / financial stability)
+    NOTE: Speech title suggests institutional/plumbing topic; check for embedded
+    economic outlook section. Jefferson's first post-FOMC communication. His
+    pre-blackout language ("susceptible to adverse shocks" labor qualifier;
+    "upside risk to my inflation forecast") is the baseline. High priority.
+
+  Michael S. Barr  |  Governor  |  Just Voter
+    Housing remarks
+    Housing Affordability 2026: A Community Development Summit
+    Federal Reserve Bank of Chicago, Chicago, IL
+    Wednesday, September 23, 2026 — 10:20am CT
+    (unconfirmed — sourced from web search; topic is community development)
+    NOTE: Likely Type B; check for embedded economic outlook. Barr's prior
+    economic outlook content came in his Sep 1 Second-Chance Lending Forum
+    remarks (HAWKISH LEAN; hike conditional stated). This is expected to be
+    a community-development/CRA event without meaningful policy content, but
+    verify.
+
+  Williams (NY Fed, Troika), Warsh (Chair), Waller, Cook, Bowman, Paulson,
+  Hammack, Kashkari, Logan, Collins, Barkin, Daly — no confirmed appearances
+  for Sep 21–25 as of this run. Calendar lookup via federalreserve.gov is
+  proxy-blocked. Check the Fed Board calendar
+  (https://www.federalreserve.gov/newsevents/2026-september.htm) and regional
+  bank event pages for additional engagements.
+
+  HIGH PRIORITY FOR ANALYST THIS WEEK:
+    • Goolsbee (Mon Sep 21) — Confirmed, policy-explicit title. First post-hike
+      Non Voter speech. Does he update "stable without being good" (labor) and
+      the normalization conditionality in light of the 12–0 hike? His pre-hike
+      stance was consistent with the three former dissenters' position; see how
+      he frames the hike outcome.
+    • Williams (Troika, CRITICAL) — Not yet confirmed for this week but
+      expected imminently. His attribution-based inflation framework ("not
+      seeing second round effects or broadening") is now directly in tension
+      with the September 16 statement's deletion of the supply-shock attribution
+      clause and Warsh's breadth test. Whether Williams defends, modifies, or
+      aligns with the new statement is the cycle's primary fault-line signal.
+    • Warsh (Chair) — No post-hike speech date confirmed. His "removed a dose
+      of accommodation" stance-label and breadth test are now Committee-level
+      language; watching for first post-meeting elaboration and any clarification
+      on the path beyond the dots ("those aren't my forecasts").
+    • Hammack, Kashkari, Logan — The three former dissenters got their hike
+      (12–0 vote, unanimous for the first time). Their first post-hike
+      communications will reveal whether they declare satisfaction with a single
+      move or signal further tightening is needed. The Sep 16 SEP shows 16/18
+      participants above the 3.875% midpoint — the distribution skews toward
+      at least one more move.
+
+  Next FOMC: October 27–28, 2026 (NOT a projection meeting).
+  Next blackout begins: October 17, 2026 (26 days from today).
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date (September 20, 2026):
+  (None)
+
+Upcoming references:
+  Goolsbee Sep 21 (OMFIF):  https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+════════════════════════════════════════════════════════════════
