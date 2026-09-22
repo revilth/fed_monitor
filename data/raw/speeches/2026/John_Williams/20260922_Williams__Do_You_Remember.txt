@@ -1,0 +1,131 @@
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260922
+
+Speech
+Do You Remember?
+September 22, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City
+As prepared for delivery
+Introduction
+Good  morning, everyone. On behalf of the New York Fed, welcome to the 12th  annual U.S. Treasury Market Conference. I’d like to thank the distinguished  speakers and panelists for participating in today’s event and our staff for  putting together an outstanding program. I’m looking forward to diving into the  many important topics that will be addressed today.
+Let  me get the standard Fed disclaimer out of the way, which is that the views I  express today are mine alone and do not necessarily reflect those of the  Federal Open Market Committee (FOMC) or others in the Federal Reserve System.
+Thinking  Past the 21st of September
+When  you looked at the calendar yesterday, I am sure you all had
+that
+song  stuck in your head. The legendary band Earth, Wind, & Fire asks if you  remember the 21st night of September. That should be a fairly easy  task this morning. But I’m going to give you a harder assignment and ask you to  remember a lot further back.
+Indeed,  for over a decade now, the Joint Member Agencies have co-hosted this annual conference  to better understand the U.S. Treasury market, the deepest and most liquid  government securities market in the world. This conference has served as a valuable  touchpoint to discuss critical and pressing issues. And, it has presented us  all with actionable takeaways and a renewed determination to strengthen the  resilience and efficiency of this essential market. The success of this  endeavor is in large part due to the strong partnership between leaders and  representatives from both the public and private sectors.
+After the  LIBOR-Love Has Gone
+The  countless conversations that have taken place in this room—and virtually for a  couple of years—have no doubt moved the needle and made a measurable difference  for the smooth functioning of the U.S. Treasury market.
+You  surely remember the countdown clock that signaled the end of LIBOR.
+1
+,
+2
+,
+3
+Well, time flies. The successful transition away from LIBOR is now very much in  the rearview mirror. And the foundation of our global financial system is  stronger and more robust because of it. The lesson from this undertaking is  that when the public and private sectors work side by side with determination toward  a common goal, we can move mountains.
+Speaking  of moving mountains, the shift to expanded central clearing has been a  prominent topic of discussion at recent conferences, and I am pleased to say  that that process is now well underway. In anticipation of upcoming deadlines,  the industry has already begun expanding infrastructure for cleared repo and  cash trading, and activity has been shifting from uncleared to cleared markets  ahead of schedule.
+4
+Today’s  panels are equally important and timely. Naturally, we’ll focus a fair amount  of time on stablecoins. This is part of the broader topic of tokenized finance and  the role that it will play in shaping financial markets in coming years. This  was a central topic of this year’s Jackson Hole Symposium and is a worthy theme  for future U.S. Treasury Market Conferences.
+5
+We  must continue to study these developments, identify the potential  ramifications, and engage actively with each other on these key issues as we  navigate a rapidly evolving landscape.
+Let’s  Groove (and Evolve)
+The  topics that are covered here build on each other and reinforce themes from year  to year. And there is a common theme that runs through most of them: the importance  of innovations in the evolution of market structure, and their widespread  implications for the future.
+That’s  a very broad topic with many tentacles. Given our responsibility here at the  New York Fed to implement monetary policy on behalf of the FOMC, I will focus  my remaining remarks on how innovations in market structure have impacted—and  will continue to impact—monetary policy implementation.
+At  last year’s conference, I spoke about how monetary policy implementation  frameworks are critically important for the effectiveness of monetary policy  and have important implications for the functioning of core markets.
+6
+I  explained that the events and lessons that we learned over the years have shaped  the FOMC’s thinking around monetary policy implementation and the design of our  ample reserves approach. Specifically, I called out the 2014 “flash rally” and  2020 “dash-for-cash,” both of which revealed the importance of market  resiliency.
+This  led me to discuss how the Fed’s operational framework has evolved over time,  reflecting the experience with large balance sheets since the global financial  crisis. In 2019, the FOMC adopted the “ample reserves” implementation framework,  which relies on administered rates rather than active reserve management.
+7
+This framework is supported by two complementary tools: overnight reverse repo  operations (ON RRP) and standing repo operations (SRP). Ultimately, the  combination of an ample supply of reserves and these tools enables the FOMC to  maintain strong interest rate control and flexibility regarding changes in the  size of the balance sheet. This operational framework has proven to be highly effective  at delivering interest rate control and supporting the smooth functioning of  core financial markets.
+Reasons
+There  is a reason why I am emphasizing all this once again. And that is to reiterate  the imperative that as markets evolve over time, we must ensure that policy  tools are fit for purpose to carry out their necessary functions. Put simply,  the evolution of financial market structure leads to the evolution of how we  carry out monetary policy effectively.
+We  see this clearly in the shift that took place from a bilateral repo structure  to a tri-party repo structure.
+8
+As  the repo market moved to tri-party, the Open Market Trading Desk at the New  York Fed followed by moving its operations into the markets where the trades  happen. Tri-party is still a major share of repo operations and remains a  highly effective way we implement monetary policy. That said, as the markets  move to central clearing, we’ll continue to monitor the market structure and  study how this impacts the effectiveness of our tools.
+ON  RRP is another instance showing how we carry out monetary policy evolves with  market structure. The growth of money market funds shaped how the ON RRP was  designed and now operates. Twenty years ago, it may have sounded revolutionary to  think that money market funds would become some of the Fed’s largest  counterparties through the ON RRP. It was, in fact, evolutionary. The evolution  of the tools of effective monetary policy implementation supports effective interest  rate control on both the high and low sides, and that means the set of counterparties  that the Fed interacts with evolves in turn.
+These  two examples illustrate that as markets evolve, policy tools must evolve as  well to ensure effective monetary policy implementation.
+Shining  Stars of Monetary Policy Implementation
+This  background brings us to the three most important principles for monetary policy  implementation: interest rate control, low opportunity costs, and elasticity.
+The  first is effective interest rate control, which of course is absolutely  foundational and a core responsibility of the Federal Reserve.
+A second principle is that there should be little or no opportunity cost to holding  reserves at the central bank. A high opportunity cost is simply inefficient and  creates other distortions that interfere with market functioning and stability.  I should emphasize that this principle was recognized before the global  financial crisis, when paying interest on reserves was first permitted in the  United States, and is not a result of QE.
+9
+And this is a key defining feature of the FOMC’s “ample reserves” approach, as  well as approaches taken by many other central banks.
+10
+Finally,  elasticity means that as conditions change, the quantity of reserves changes  too. This idea traces back to the early days of the founding of the Federal  Reserve.
+11
+If  underlying demand for reserves shifts due to changes in regulation, market  structure, or any other reason, the Federal Reserve will match that with a  shift in the supply of reserves over time.
+Closing
+For  effective monetary policy implementation, it’s important that the Federal  Reserve is active in the markets that matter for the transmission of monetary  policy. For this reason, we at the New York Fed are engaged in monitoring and  understanding the evolution of market structure, so that we can recognize its  implications for the work that we do.
+Earth,  Wind, and Fire didn’t write a hit song about the 22nd of September.  But I hope you will remember this from my remarks today: It is imperative that  as the markets evolve, we have the policy tools that are right for that purpose  and are well designed to function effectively under all circumstances. Our role  is to be prepared for the evolution so that there never is a cloudy day.
+1
+John  C. Williams, “
+901 Days
+,”  remarks at Securities Industry and Financial Markets Association (SIFMA), New  York City, July 15, 2019.
+2
+John  C. Williams, “
+LIBOR: The  Clock Is Ticking
+,” remarks at the 2019 U.S. Treasury Market Conference,  Federal Reserve Bank of New York, New York City, September 23, 2019.
+3
+John  C. Williams, “
+537 Days:  Time Is Still Ticking
+,” remarks at LIBOR: Entering the  Endgame (a webinar hosted by the Bank of England and the New York Fed), July  13, 2020.
+4
+Roberto  Perli, “
+Repo  Market Structure and Monetary Policy Implementation
+,” remarks at The Future of Market Liquidity and Functioning  Workshop, Federal Reserve Bank of New York, New York City, July 9, 2026.
+5
+Darrell  Duffie, 2026. “
+Tokenized  Finance and The Perimeter of Central Banking
+,” Jackson Hole Symposium,  August 22; Isabel Schnabel, “
+Central  banks on-chain
+,” speech at the Jackson Hole Economic Policy Symposium on  Financial Innovation: Implications for Payments and Policy, Jackson Hole,  August 28, 2026; and Wenxin Du, “
+Three  Myths About Payment Innovation
+,” panel remarks at the Jackson Hole  Economic Policy Symposium, Jackson Hole, August 29. 2026.
+6
+John  C. Williams, “
+Next Level  Unlocked
+,” remarks at the 2025 U.S. Treasury Market  Conference, Federal Reserve Bank of New York, New York City, November 12, 2025.
+7
+Board  of Governors of the Federal Reserve System,
+Statement  Regarding Monetary Policy Implementation and Balance Sheet Normalization
+,  January 30, 2019.
+8
+Antoine Martin and Susan McLaughlin, “
+Financial  Innovation: The Origins of the Tri-Party Repo Market
+,” Federal Reserve Bank  of New York,
+Liberty Street Economics,
+May 11, 2015.
+9
+Federal  Reserve History, “
+Interest  on Reserves
+,” December 12, 2025.
+10
+John  C. Williams, “
+Theory and  Practice of Monetary Policy Implementation
+,” remarks at  the ECB Conference on Money Markets 2025, European Central Bank, Frankfurt,  Germany, November 7, 2025.
+11
+Mark  A. Carlson and David C. Wheelock, “
+Furnishing an ‘Elastic Currency’:  The Founding of the Fed and the Liquidity of the U.S. Banking System
+,”  Federal Reserve Bank of St. Louis
+Review
+, First Quarter 2018, pp. 17-44.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map
