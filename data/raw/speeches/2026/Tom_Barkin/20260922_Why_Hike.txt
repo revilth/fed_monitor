@@ -1,0 +1,131 @@
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260922
+
+Why Hike?
+
+Sept. 22, 2026
+
+Tom Barkin
+
+President, Federal Reserve Bank of Richmond
+
+CFA Society Baltimore
+
+The Center Club
+
+Baltimore, Md.
+
+Highlights:
+
+The Federal Reserve has a dual mandate from Congress: price stability and maximum employment. The FOMC weighs each as we make our decisions.
+
+The risks to inflation outweigh the risks to maximum employment. That’s why we raised rates.
+
+Thanks for the kind introduction, and for inviting me to join you today. At our meeting last week, the Federal Open Market Committee (FOMC) raised the federal funds rate by 25 basis points. This was our first move since cutting rates last December, and our first hike since mid-2023. I thought you might be interested in understanding more, so I’ll focus my remarks today on why a hike, why now, and what comes next. As always, these are my thoughts alone, and not those of anyone else on the FOMC or in the Federal Reserve System.
+
+Why hike? The Federal Reserve has a dual mandate from Congress: price stability and maximum employment. The FOMC weighs each as we make our decisions.
+
+Someone on my team once compared it to raising two very different kids. You care about each one. You keep an eye on both. But on any given day, you have to focus a little more on one or the other, depending on who needs the most attention. I have two great kids myself, so I have to say the analogy spoke to me. After all, both parents and the Fed have an interest in taking away the punch bowl before the party gets started.
+
+Today, inflation is our troublemaker. It’s been above the Fed’s 2 percent target for more than five years. In July, headline PCE inflation was 3.7 percent. Core PCE came in at 3.3 percent. It is tempting to try to blame high inflation on a handful of categories with particularly high exposure to the Middle East conflict or to tariffs. But more than 60 percent of the PCE index is rising faster than 3 percent year over year.
+1
+
+At the same time, the labor market continues to get good grades. The unemployment rate in August came in at 4.1 percent, extending the longest streak in recorded history of U.S. unemployment at or below 4.5 percent. Initial unemployment claims are testing historic lows. Layoffs remain muted. And job gains — which gave a scare in July — picked back up in August, surpassing 160,000.
+
+Looking at both, it’s clear which kid needs our focus. The risks to inflation outweigh the risks to maximum employment. That’s why we raised rates.
+
+Why Now?
+
+You might ask: Why now? The focus at our recent meetings has been price stability, too. What’s changed? My answer: not that much. But that is precisely why it was appropriate for the FOMC to adjust our stance.
+
+The economy and the labor market remain on solid footing. We
+hear from businesses
+that economic conditions are, if anything, firming.
+
+Consumer spending makes up about 70 percent of GDP, and consumers are still spending. Higher gas prices don’t seem to have had much effect. We got a blowout retail sales report last week.
+
+How can consumers afford to keep spending as incomes struggle to keep up with inflation? Spending is disproportionately driven by those who are well off, and that group has gotten even wealthier, thanks to remarkable asset price growth in recent years.
+
+But even those with fewer resources are still finding ways to consume. With the unemployment rate so low, most have jobs. They are finding creative ways to maintain their spending. They are trading down to private labels and discount retailers. They are moving from beef to chicken to even cheaper proteins, like peanut butter. They are making trade-offs across time, too, effectively borrowing from the future. They are buying used instead of new and choosing to repair rather than replace. They are dropping coverages or opting out of insurance altogether. They are saving less, or even tapping into savings, where they can. They are managing payments carefully. They’re making ends meet by living a little closer to the edge, but they’re still spending.
+
+At the same time, investment is booming. Artificial intelligence (AI) is a big part of this story, of course. Earlier this year, nearly $700 billion in AI investments were announced in just one week. But I am hearing momentum outside of data centers, too. The defense sector is hot. Manufacturing contacts are starting to sound more upbeat. Bankers tell us pipelines are healthy.
+
+Uncertainty was the story last year, but now it seems to have become the new baseline. Business leaders say they can’t afford to wait for certainty any longer. Strong earnings give them courage. Productivity improvements buy them wiggle room.
+
+The big gap on the demand side is still hiring. Firms still seem to be dragging their feet in the context of increased productivity, the potential of AI, and caution about the future. This has been less of an issue for the unemployment rate because workforce growth has slowed as well, due to reduced immigration and retiring baby boomers.
+
+So, the demand picture hasn’t changed much. Unfortunately, we haven’t seen much change on the inflation front either. With inflation more than a percentage point above target, that’s a problem.
+
+There was an argument that inflation would return to target on its own, without any additional help from the Fed. The idea was that as inflationary shocks passed, so would high inflation. One problem with that argument, of course, is that the “passing” shocks aren’t proving to be short-lived, or one-off events. New tariffs are still cropping up. The conflict in the Middle East is ongoing. And the AI build-out continues to stress those supply chains.
+
+These may pass in time, but I do expect it will take time. In the interim, there is a risk that current elevated levels of inflation could affect future inflation. I hear this in my district.
+
+I see it in our surveys: In
+the Richmond Fed’s monthly surveys
+, growth in prices received has averaged 3.5 percent since late 2023. That’s nearly double the average in the two years prior to the pandemic. In the second quarter of
+The CFO Survey
+, which we run in collaboration with Duke University and the Atlanta Fed, expectations for 2027 year-over-year price growth came in at 4.1 percent. That is more than double the 2019 average. I don’t overindex on the numbers, but generally “double” is not a word I want to be using when it comes to price growth.
+
+I see it when I talk to businesses, too. I joined the Richmond Fed in 2018, so I can compare conversations today to those from the prepandemic period. Back then, the economy was healthy, tariffs were highly visible, and inflation was close to our target. The firms I talked to then were convinced they had no ability to pass on costs. I hear a different story today. Why is that?
+
+First, there are more costs to pass on. The intensity and frequency of cost pressures are up — from tariffs and oil prices to be sure, but also from AI build-out spillovers, health care, transportation, or commodity prices. I found myself reading up recently on water levels in the Panama Canal.
+
+Importantly, we’ve all just lived through a period when costs did in fact get passed on. During the post-pandemic supply challenges, businesses rediscovered the pricing lever. So, today, many are willing to test if they can’t use it again. When they try, they are finding less resistance than they did prepandemic, especially from the wealthy and from business customers. Inflation headlines surely help. The experience of supply chain shortages makes firms more hesitant to push back on suppliers. Low-cost international alternatives have become less attractive. Lower-income consumers have become quite price sensitive, to be sure, but I’m increasingly finding firms willing to take their chances.
+
+The net of all this is more inflationary pressure. And that’s why we needed to act.
+
+What’s Next?
+
+Where do we go from here? We are committed to returning inflation sustainably to our 2 percent target. Last week’s hike will help. Will additional hikes be required, and how many? We’ll see.
+
+I’m open to the possibility that inflation could come back down in short order. Some of these recent shocks could reverse. Consumers could start to reach their limit. The investment boom could slow. Markets could correct. Employment could falter, making the labor market the problem child.
+
+On the other hand, inflation could prove more stubborn. Temporary shocks could drag on. New cost pressures could develop. Firming demand conditions could flow through to prices, as could the impact of today’s inflation. I remember my dad saying, “Do I need to repeat myself?” Like in child rearing, one “talking-to” might not be enough.
+
+As I had to learn with my own teenagers, you can never be too confident that you know what’s going on with them. You have to ask a lot of questions, pay close attention to every signal, and stay committed to keeping them on the right path. That’s why I like doing sessions like this one. I want to learn from what you’re seeing and look forward to your questions and comments.
+
+1
+
+Based on a decomposition of PCE into 180 categories.
+
+Topics
+
+Business Cycles
+
+Economic Growth
+
+Inflation
+
+Monetary Policy
+
+Subscribe to News
+
+Receive an email notification when News is posted online:
+
+Subscribe to News
+
+By submitting this form you agree to the
+Bank's Terms & Conditions and Privacy Notice.
+
+Email Address
+
+Re-enter Email Address
+
+I agree to the terms of the privacy policy
+
+Thank you for signing up!
+
+As a new subscriber, you will need to confirm your request to receive email notifications from the Richmond Fed. Please click the
+confirm subscription
+link in the email to activate your request.
+If you do not receive a confirmation email, check your junk or spam folder as the email may have been diverted.
+
+Thank you for signing up!
+
+You can unsubscribe at any time using the Unsubscribe link at the bottom of every email.
+Subscribe to our other digital publications
+
+Contact Icon
+
+Contact Us
+
+Jim Strader

@@ -1,136 +1,198 @@
 FED MONITOR — DAILY UPDATE
 ════════════════════════════════════════════════════════════════
 Date: September 22, 2026
-Reference FOMC: September 16, 2026  |  Cycle: HIKING (first hike since
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
   July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
   1. John C. Williams  |  NY Fed President  |  Troika
      "Do You Remember?"
-     2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York,
-     New York City
-     STATUS: NOT SCORED — Type B (Treasury market structure / monetary
-     policy implementation plumbing). No economic outlook section; zero
-     growth/labor/inflation/rate-path content. See note below.
+     2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York
+     STATUS: NOT SCORED — Type B (monetary policy implementation /
+     Treasury market plumbing). No growth, labor, inflation or rate-path
+     content. Transcript verified in full.
      SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260922
-
   2. Philip N. Jefferson  |  Vice Chair  |  Troika
      "Discount Window Modernization and Treasury Market Functioning"
-     2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York,
-     New York City
-     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed;
-     recover via local 'python3 main.py refetch'). Speech confirmed delivered
-     September 22 and indexed at federalreserve.gov; proxy egress blocks
-     direct fetch from this run environment. Action item: retrieve
-     https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm
-     and assess for embedded economic outlook. Based on title and web-search
-     summaries, likely Type B (discount window / Treasury market resilience);
-     verify for any embedded policy-stance or rate-path content. Jefferson's
-     last scored appearance: July 16, 2026 "Navigating Economic Shocks — A
-     Monetary Policymaker's Perspective."
+     2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York
+     STATUS: NOT SCORED — Type B (discount window reform). Transcript now
+     retrieved (it was pending in the first version of this report): zero
+     references to inflation, the labor market or the rate path. No
+     embedded outlook.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm
+  3. Tom Barkin  |  Richmond Fed President  |  Non Voter
+     "Why Hike?"
+     CFA Society Baltimore, The Center Club, Baltimore, Md.
+     Type A — SCORED. Posted after the September 22 collect run and
+     therefore absent from the first version of this report.
+     SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260922
 ════════════════════════════════════════════════════════════════
+REVISED September 23: supersedes the version emailed the morning of
+September 23, which carried Williams and Jefferson only. Adds Barkin
+(collected directly from the Richmond Fed site) and closes the Jefferson
+transcript action item. Full score:
+data/scored/speeches/20260922_Tom_Barkin_scored.txt
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-NOTE — NO SCORED SPEECHES (September 22, 2026)
+1–2.  WILLIAMS and JEFFERSON  |  Troika  |  Treasury Market Conference
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Both Troika members chose an implementation venue for their first
+post-hike appearance and gave no outlook language. Williams covered the
+LIBOR transition, central clearing and the ample-reserves framework;
+Jefferson covered discount-window modernization and its role in Treasury
+market resilience. Neither engaged the September 16 decision.
+Significance: Williams is the official whose inflation framework
+(attribution, "not seeing broadening") the September 16 statement
+deleted; Jefferson is the Vice Chair with no outlook communication since
+July 16. Both signals remain outstanding. Their next outlook speeches are
+the two highest-priority documents of the inter-meeting period.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  TOM BARKIN  |  Richmond Fed President  |  Non Voter
+    Type A — first explicit defense of the hike by a participant
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-September 22 marks six days after the September 16, 2026 FOMC hike (+25bp
-to 3.75–4.00%, 12–0 unanimous — the first increase since July 2023). Both
-speeches delivered on this date were at the 2026 U.S. Treasury Market
-Conference hosted by the NY Fed, and both address market-structure /
-financial-plumbing topics rather than the economic outlook.
+GROWTH
+  "The economy and the labor market remain on solid footing. We hear from
+  businesses that economic conditions are, if anything, firming" — one
+  step past the statement's "solid." Consumers "still spending" ("a
+  blowout retail sales report last week"), top-heavy by wealth, with a
+  longer coping list at the low end (trading down "from beef to chicken
+  to even cheaper proteins," dropping insurance, "living a little closer
+  to the edge"). Investment "booming," and "momentum outside of data
+  centers, too" (defense, manufacturing, bank pipelines). Uncertainty is
+  "the new baseline"; firms "can't afford to wait." Hiring remains "the
+  big gap on the demand side." Verdict: "the demand picture hasn't
+  changed much."
+  Direction: hawkish lean
 
-WILLIAMS — "DO YOU REMEMBER?" (TYPE B, NO EMBEDDED OUTLOOK)
-Williams opened the 12th annual U.S. Treasury Market Conference with
-remarks entirely about monetary policy implementation: the completed LIBOR
-transition, the ongoing central clearing rollout, the ample-reserves
-framework (ON RRP, SRP), and three principles for effective implementation
-(interest rate control, low opportunity cost of reserves, elasticity). The
-speech is a companion to Jefferson's same-day remarks (also Treasury market
-infrastructure). There is no growth, labor market, inflation, or rate-path
-content. This is therefore not a post-FOMC policy signal.
+LABOR MARKET
+  "The labor market continues to get good grades": unemployment 4.1%,
+  "the longest streak in recorded history ... at or below 4.5 percent,"
+  claims "testing historic lows," layoffs "muted," August payrolls
+  "surpassing 160,000" after July's "scare." The Aug 13 softer-under-the-
+  headline read (−23K, the fragile supply/demand offset, the CFO hiring
+  pause) is withdrawn; the slower-workforce mechanism survives as one
+  explanatory sentence.
+  Direction: hawkish lean
 
-Significance flag: Williams is Troika. His July 15 scored speech ("Stability
-of Thy Times") — his last pre-blackout and pre-hike communication — framed
-the labor market's overall characterization as "solid and on trend" (growth)
-and inflation as still above 2% with a data-dependent path. The key fault-
-line entering the post-hike cycle is whether Williams defends or modifies
-his attribution-based inflation framework (his "not seeing broadening /
-second-round effects" logic) in light of the September 16 statement's
-deletion of the supply-shock attribution clause. THAT signal did not come
-on September 22 — Williams chose a technical implementation venue for his
-first post-FOMC appearance. His next economic-outlook speech is the one
-to watch.
+INFLATION
+  "Today, inflation is our troublemaker." PCE 3.7 / core 3.3. The
+  BREADTH TEST, in his own decomposition: "It is tempting to try to blame
+  high inflation on a handful of categories with particularly high
+  exposure to the Middle East conflict or to tariffs. But more than 60
+  percent of the PCE index is rising faster than 3 percent year over
+  year" (180 categories). That is Warsh's Aug 28 measure (54% of 199)
+  reproduced by a second official — and the reasoning behind the
+  statement's deleted attribution clause. The "return to target on its
+  own" argument, which he steelmanned on Aug 13, is named as the argument
+  that lost: "the 'passing' shocks aren't proving to be short-lived, or
+  one-off events." Firm expectations quantified on the hawkish side:
+  Richmond surveys' prices received averaging 3.5% since late 2023,
+  "nearly double" pre-pandemic; CFO Survey 2027 price growth 4.1%, "more
+  than double the 2019 average ... 'double' is not a word I want to be
+  using." Pass-through flips back to hawkish: firms "rediscovered the
+  pricing lever" and are "finding less resistance than they did
+  prepandemic, especially from the wealthy and from business customers."
+  "The net of all this is more inflationary pressure."
+  Direction: hawkish
 
-JEFFERSON — "DISCOUNT WINDOW MODERNIZATION AND TREASURY MARKET FUNCTIONING"
-(TRANSCRIPT PENDING)
-Jefferson's speech was confirmed delivered and indexed on the Fed Board
-website. Based on web-search summaries, the focus is on discount window
-reform and Treasury market resilience ("The U.S. Treasury market serves as
-the foundation for pricing risk across all asset classes... In this context,
-the discount window supports Treasury market resilience in important ways").
-This also appears to be Type B; however, the full transcript must be
-retrieved before a definitive classification or any assessment of embedded
-outlook content. Jefferson is Vice Chair (Troika); his first post-hike
-economic-outlook speech is high priority. His last scored speech (July 16,
-"Navigating Economic Shocks") characterized the labor market as
-"susceptible to adverse shocks" and carried a hawkish lean on inflation
-outlook. The September 16 12–0 unanimous hike ended his pre-hike dissent
-bloc; his post-hike positioning on whether one hike suffices vs. further
-action is the primary unknown.
+MONETARY POLICY
+  "The risks to inflation outweigh the risks to maximum employment.
+  That's why we raised rates." Why now: "What's changed? My answer: not
+  that much. But that is precisely why it was appropriate for the FOMC to
+  adjust our stance" — the wait expired; the same rationale as Warsh
+  Sept 16 and Goolsbee Sept 21. What next: "Will additional hikes be
+  required, and how many? We'll see." Two descriptive risk lists, no
+  named scenarios, no pre-commitment — but the only directional image
+  points to a second move: "Like in child rearing, one 'talking-to'
+  might not be enough." No stance label at all ("restrictive" and
+  "accommodation" both absent). Cut signal: absent.
+  Direction: hawkish
 
-ACTION ITEMS:
-  • Retrieve Jefferson transcript from
-    https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm
-    (run `python3 main.py refetch` from a non-proxied environment; or
-    manually WebFetch the URL) and assess for embedded outlook. Score if
-    Type A or Type B-with-outlook.
-  • Monitor Williams' next economic-outlook speech for the attribution-
-    framework signal (will he defend "look through" logic now that the
-    statement deleted the supply-shock clause?). This is the cycle's primary
-    fault-line signal.
-  • Jefferson's first post-hike economic-outlook speech: check his calendar.
-    His pre-hike (July 16) stance was hawkish lean — does he maintain that
-    or declare the 12–0 unanimous hike sufficient?
+NET SIGNAL: HAWKISH — a defense of the hike on the Chair's three pillars
+  (full employment, breadth, the expired wait), with every dovish element
+  of Aug 13 withdrawn and his on-the-ground pricing and expectations
+  intelligence now on the hawkish side.
+
+vs. PRIOR SPEECH (Aug 13):     HAWKISH — hike-as-open-question becomes
+  hike-delivered-and-defended; "already on a path down" dropped; labor
+  from "delicate balance" to "good grades"; pass-through reversed back;
+  "many think ... still restrictive enough" gone.
+vs. PRE-FOMC SPEECH (Aug 13):  same document — HAWKISH. (His Aug 31
+  Bloomberg Odd Lots appearance was never collected; see flag.)
+vs. COMMITTEE SINCE FOMC:      Second regional voice after the hike, one
+  day after Goolsbee, same conclusion by a different route (business
+  intelligence vs. theory). Both reject the attribution framework; both
+  decline a stance label; both leave the path open with a lean toward
+  more. The "mildly restrictive" bloc has not yet spoken.
+
+LANGUAGE TO WATCH:
+  • "more than 60 percent of the PCE index is rising faster than 3
+    percent" — the breadth test, second official (Warsh 54%). Stage:
+    EMERGING. A third user makes it committee-wide.
+  • "The risks to inflation outweigh the risks to maximum employment.
+    That's why we raised rates." — cleanest one-line rationale on record.
+  • "one 'talking-to' might not be enough" — personal; second-hike image.
+  • "the 'passing' shocks aren't proving to be short-lived" — pairs with
+    Goolsbee's "persistent ones" (Sept 21). Stage: EMERGING.
+  • "firming" — direction added to the statement's "solid."
+
+ANALYST FLAG: YES
+  → (1) Pass-through has flipped three times since May; weight the
+        direction, not the level.
+  → (2) Coverage gap: Aug 31 Bloomberg Odd Lots not collected.
+  → (3) No stance label — third official after Warsh and Goolsbee. Is the
+        "mildly restrictive" bloc (Paulson, Collins, Daly, Waller) now the
+        outlier? Their first post-hike speeches decide it.
+  → (4) Williams and Jefferson: outlook signals still outstanding.
+
+CROSS-SPEAKER NOTE (Sept 21–22)
+  Goolsbee and Barkin, non-voters from opposite reputational poles,
+  delivered the same argument on consecutive days: supply shocks have
+  proven persistent, the labor market gives no reason to wait, the hike
+  was warranted and the path is open with a lean toward more. Neither
+  used "restrictive" or "accommodation." Two Troika members spoke the same
+  day and said nothing about the outlook. The post-hike consensus is so
+  far being articulated from the regional banks, not the Board.
 
 ════════════════════════════════════════════════════════════════
-UPCOMING — TOMORROW: Thursday, September 24, 2026
+UPCOMING — TOMORROW: Thursday September 24 (this report re-sent Wed Sept 23)
 ────────────────────────────────────────────────────────────────
-  (None confirmed for September 24, 2026 as of this run.) Calendar
-  lookup via federalreserve.gov remains proxy-blocked from this
-  environment; no confirmed appearances surfaced via web search.
+  Thursday Sept 24: (none confirmed) — Board calendar page is JS-rendered
+  and returned no event data; no regional bank page lists a Sept 24 event.
 
-  NOTE — TODAY'S RUN DAY (September 23, 2026): Multiple economic-outlook
-  speeches are confirmed for today and will be covered in tomorrow's
-  (September 24) daily report. Confirmed for September 23:
-    • Christopher J. Waller  |  Governor  |  Just Voter  — remarks on
-      inflation and the economic outlook (event TBD; confirmed via
-      Newsquawk primer)
-    • Beth Hammack  |  Cleveland Fed President  |  Just Voter (hawkish
-      dissenter through July 29) — opening remarks (event TBD)
-    • Austan Goolsbee  |  Chicago Fed President  |  Non Voter — confirmed
-      speaking September 23 (source: Newsquawk primer; event TBD)
+  NOTE — Wednesday Sept 23 (today's send day), to be covered in the next
+  report:
+    • Christopher J. Waller  |  Governor  |  Just Voter — inflation and
+      economic outlook remarks (event to confirm). First majority-bloc
+      Governor to speak after the hike; his Sept 3 August-data trigger
+      is the thing to confirm in his own words.
+    • Beth Hammack  |  Cleveland Fed President  |  Just Voter — opening
+      remarks (event to confirm). First July dissenter to speak after
+      getting the hike.
+    • Austan Goolsbee  |  Chicago Fed President  |  Non Voter — second
+      appearance of the week (event to confirm).
     • Michael S. Barr  |  Governor  |  Just Voter — Housing Affordability
-      2026: A Community Development Summit, Federal Reserve Bank of Chicago
-      (previously confirmed in September 20 UPCOMING; likely Type B /
-      community development)
-  These are the first post-hike economic-outlook speeches from the
-  majority bloc (Waller) and from a former dissenter (Hammack). HIGH
-  PRIORITY. Collect and score from tomorrow's run.
-
-  Next FOMC: October 27–28, 2026 (NOT a projection meeting).
-  Next blackout begins: October 17, 2026 (24 days from today's run date).
+      2026 summit, Chicago Fed (likely Type B).
+  Sept 29: Goolsbee, "The Economy Ahead" (Chicago Fed luncheon); Musalem,
+  LSE event (livestream scheduled). Sept 30: Goolsbee, "Why Consumers and
+  Economists See Different Economies."
+  Next FOMC: October 27–28 (no SEP). Minutes of Sept 15–16: ~October 7.
+  Next blackout begins October 17.
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
-Speeches this date (September 22, 2026):
+Speeches this date:
   Williams Sep 22:  https://www.newyorkfed.org/newsevents/speeches/2026/wil260922
   Jefferson Sep 22: https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm
-    (transcript pending — proxy blocked from run environment)
-
-Prior speech baselines (for future scoring reference):
-  Williams Jul 15: https://www.newyorkfed.org/newsevents/speeches/2026/wil260715
-    ("Stability of Thy Times" — last pre-blackout Troika appearance)
-  Jefferson Jul 16: https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm
-    ("Navigating Economic Shocks" — last pre-blackout Troika appearance)
+  Barkin Sep 22:    https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260922
+Prior speech / pre-FOMC baseline (vs. PRIOR SPEECH, vs. PRE-FOMC SPEECH):
+  Barkin Aug 13:    https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260813
+                    data/scored/speeches/20260813_Tom_Barkin_scored.txt
+Related:
+  Goolsbee Sep 21:  data/scored/speeches/20260921_Austan_Goolsbee_scored.txt
+  Reference FOMC:   data/reports/fomc/20260916_statement_diff.txt
+                    data/scored/sep/20260916_SEP_scored.txt
+                    data/reports/fomc/20260916_pressconf.txt
 ════════════════════════════════════════════════════════════════

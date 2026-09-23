@@ -1,0 +1,300 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-09-21 | Austan D. Goolsbee | Chicago Fed President | Non Voter
+"Monetary Policy in an Uncertain World"
+Official Monetary and Financial Institutions Forum (OMFIF), London
+(prepared remarks, then ~50 minutes of moderated Q&A with OMFIF chairman
+David Marsh and the floor)
+SOURCE: https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+        (prepared remarks, official) +
+        https://www.youtube.com/watch?v=zcAFMHbXGpY (Chicago Fed channel,
+        full event incl. Q&A; auto-captions, lightly cleaned)
+CLASSIFICATION: Type B (a framework speech on how central banks should
+  treat supply shocks) WITH EMBEDDED OUTLOOK — the closing section ("What
+  It Means to Watch Out for Now") and the Q&A carry the current-conditions
+  read and are scored with Type A methodology. First post-September-16
+  appearance by any regional president, and Goolsbee's first speech since
+  the hike.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the statement)
+PRE-FOMC BASELINE: July 14, 2026  "Fireside Chat — Business Lunch" (Kenosha)
+                   [His Aug 28 Bloomberg Odd Lots podcast was never
+                   collected — see analyst flag.]
+POST-FOMC PRIOR:   N/A — first post-September-16 speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Growth is treated as a demand-overheating question, not a level question.
+FOMC statement language echoed:
+  "domestic spending has been resilient ... capital investment is robust"
+  [Sep 16 stmt]
+  → Speaker version: not echoed as a description; he runs the same facts
+    as a risk — "any evidence that AI data center construction is
+    spilling out of its own lane and raising aggregate output beyond what
+    the economy can absorb."
+Own language:
+  "the bigger the hype the bigger the risk of short-run overheating ...
+   we're going to invest and spend out of our stock market wealth before
+   the capacity has actually expanded, then that could overheat it today.
+   So I'm still worried about that." [Q&A]
+  → The June 25 productivity-overheating frame, absent on July 14, is
+    back and now sits inside the policy argument: AI-adjacent inflation
+    is one of the two things he names as possible "old-fashioned demand
+    overheating."
+  Fiscal (asked): "part of aggregate demand ... in an accounting sense
+   much of that impact is what's the delta from last year." Declines to
+   editorialize; rejects the "cut to make debt issuance cheaper" argument
+   as "the canonical reason why you want monetary independence."
+Shift vs. prior speech (Jul 14):  hawkish lean — overheating risk
+  reinstated as a live concern and tied to a policy consequence ("if
+  demand overheats, there is no ambiguity about how the Fed needs to
+  respond").
+Shift vs. pre-FOMC (Jul 14):      same document — hawkish lean.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate
+   has changed little." [Sep 16 stmt]
+  → Speaker version: no echo of the statement line; the labor read is
+    reduced to the unemployment rate and used as the premise for the
+    inflation argument.
+Own verdict:
+  "If the unemployment rate is barely 4% and core inflation is above three
+   on an extended basis, there's not a conflict of mandates. There's just
+   an inflation problem." [Q&A, to a question on "timelier"]
+  "I know right now we do not have an employment problem and we do have
+   an inflation problem." [Q&A, on the stance]
+  → The standing idiom "stable without being good" (May 12 / Jun 25 /
+    Jul 14) does NOT appear. The labor market is no longer characterized
+    at all; it is invoked only as absence of a problem. That is the
+    labor-side cover for patience being withdrawn in his own voice — the
+    same move the SEP made (unemployment upside-risk count 7 → 0).
+Own framework:
+  The four rates-based measures and the low-hire/low-fire paradox are not
+  mentioned in either the remarks or the Q&A.
+Shift vs. prior speech (Jul 14):  hawkish lean — from "stable without
+  being good" plus the hiring-rate-at-recession-lows worry to "we do not
+  have an employment problem"; the qualifier is gone.
+Shift vs. pre-FOMC (Jul 14):      same document — hawkish lean.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated. Today's policy action will support a
+   timelier return to the Committee's 2 percent goal." [Sep 16 stmt]
+  → Speaker version: the DELETED clause is what he engages, not the
+    retained one. The statement dropped "in part reflecting supply shocks
+    ... including energy"; the whole speech is an argument for why
+    supply-shock attribution no longer licenses looking through. He
+    supplies the reasoning the statement omitted.
+Own language — KEY (the framework):
+  "My argument is that in this new environment, there are some supply
+   shocks that central banks should not simply look through—namely, the
+   persistent ones."
+  "If a central bank commits to hitting 2% inflation in the medium term
+   and commits to not respond to supply shocks, then a repeated or
+   persistent supply shock to inflation means one of those two
+   commitments can't hold up."
+  "these days, when you see a large supply shock, it's usually more
+   accurate to assume it will be persistent than to assume it will
+   quickly go away."
+  "My presumption—especially for big shocks—is that they will end up
+   lasting longer than we initially think."
+  → A presumption of persistence is a reversal of his own July 14 tariff
+    line ("tariffs should be a one-time increase in prices but not a
+    lasting inflation rate increase. That should be one and done"). Here:
+    "Tariffs have been nothing like the stylized textbook example of a
+    one-time price increase—they've instead followed a pattern of
+    repeated escalation." He has changed his mind on the component he
+    used to look through.
+Own language — the peak-date slippage:
+  "forecasters have spent more than a year pushing back the date when
+   inflation was supposed to peak and start falling. Originally it was
+   supposed to happen in Q4 2025. Then Q1 2026. Then Q2, then Q3, then
+   Q4—and now sometime in 2027. That's not a comforting pattern."
+  "We need evidence that these shocks are actually fading, or it's hard
+   to see a credible path back to 2% inflation—and harder still to
+   justify continuing to look through them."
+  → On July 14 he was "heartened" by one benign CPI print but refused to
+    bank it ("one month is no months"). Two months later the discount
+    rule has resolved against the data: the summer improvement did not
+    become the "several months" he required.
+Own language — what he watches (the demand-side tell):
+  "I'm especially attuned to elevated inflation in service-sector
+   industries, and to any evidence that AI data center construction is
+   spilling out of its own lane ... Either could be signs of old-fashioned
+   demand overheating ... Both are areas of concern in the recent data."
+  Q&A: "the parts of inflation that are harder to rationalize as being
+   from temporary supply shocks, namely services inflation and all of the
+   AI data center buildup adjacent driven inflation. Those in my mind
+   correlate more strongly with overheating demand."
+  → Services persistence (held since May 12) is unchanged as the core
+    concern; AI-adjacent inflation is promoted alongside it as a second
+    demand marker. He still says he is "sorting that out ... there's
+    conflicting evidence" on supply vs. demand — the verdict is not
+    closed, but both of his named tests point toward demand.
+Own language — expectations:
+  "longer-run market-based inflation expectations have remained
+   remarkably stable ... [but] if you look at survey-based expectations
+   measures and especially ... two-year, one to two-year which are
+   relevant for wage and price setting there's been a lot of movement on
+   those and we should not ignore [them]." [Q&A]
+  → New: a short-horizon survey-expectations caveat. Not in July 14.
+Duration framing, with a correction:
+  "I don't agree with the characterization that we've basically been
+   above the target for five and a half years, making no progress ...
+   in the last year, year and a half [we] stopped making progress, first
+   stalled out and then at several points it's going the wrong way."
+Shift vs. prior speech (Jul 14):  HAWKISH — the tariff one-and-done view
+  is withdrawn; persistence is now the presumption; the multi-month bar
+  he set in July is reported unmet.
+Shift vs. pre-FOMC (Jul 14):      same document — HAWKISH.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "raise the target range ... by 1/4 percentage point" [Sep 16 stmt]
+  → Speaker version: "we know what has to happen in that circumstance";
+    "that's why I supported this decision" [Q&A]. A non-voter endorsing
+    the hike in the first person — the Chicago seat backs the 12–0.
+Own language — KEY (the policy conclusion of the framework):
+  "If the forecast calls for large, persistent, recurring shocks, the
+   central bank still has to restore price stability under its legal
+   mandate—and the only way to bring inflation down is to raise rates and
+   narrow the gap between supply and demand, even if it's not in the exact
+   same sectors where the cost shocks are occurring."
+  "the first answer is, don't do nothing. Looking through won't work."
+  "Our policy response to persistent supply shocks may not need to be as
+   large as it would be if the inflation were coming from demand
+   overheating. But it won't be painless either ... the only way back is
+   the hard way."
+  → Two bounds in one passage: (a) the direction is up and the cost is
+    accepted ("won't be painless"); (b) the magnitude is smaller than a
+    demand-shock response would be, because sticky wages make the
+    supply-shock trade-off real. He is arguing for a hike, not a cycle —
+    unless the demand tests (services, AI) fire, in which case "there is
+    no ambiguity."
+Own language — the retained cut path (conditional, unchanged in form):
+  "I'm among the more optimistic folks that we can get back on path
+   inflation headed to 2% and if ... we have some convincing evidence
+   that we're headed back to 2%, I have no problem with rates going back,
+   you know, heading back down to where I think they're going to." [Q&A]
+  "I'm open to being shown that the inflation problem we have is not a
+   persistent problem, but is coming from a supply shock that is going to
+   go away. But I want to see the evidence that it's going away.
+   Otherwise, we know what has to happen." [Q&A]
+  "we're moving into the Missouri show-me state ... We need to see some
+   evidence that we're getting back on a path to 2% or else, as I say, we
+   know what has to happen."
+  → The July 14 conditional normalization path survives in form
+    ("convincing evidence" → rates "heading back down") but the default
+    has flipped: in July the default was patience with a cut path
+    attached; now the default is "we know what has to happen" (more
+    tightening) with a cut path attached to evidence that has not
+    arrived. Same conditional, opposite base case.
+  → SEP disclosure: "I've looked at the dot plot ... I'm among the more
+    optimistic folks." [Inference: places his dots in the lower part of
+    the September distribution — plausibly among the four 2027 dots at
+    3.625 or below. Not stated.]
+Own language — stance and neutral (asked directly, twice):
+  "what is the monetary stance? Now we're back to the question of well
+   what is r-star ... Am I taller or am I shorter than my imaginary
+   friend or Sasquatch? I don't know. I don't know."
+  "I have historically been loosely on the lower end that I kind of
+   thought, hey, a 3% rate with 2% inflation and 1% real felt
+   approximately right to me ... If you think that the productivity
+   growth rate is going to be higher in the medium term because of AI
+   ... that raises the long run rate. It doesn't lower it."
+  → Asked to react to Warsh's "removed a dose of accommodation," he
+    declines the label question entirely and answers on outcomes
+    ("we do not have an employment problem and we do have an inflation
+    problem"). Neither "restrictive" (the Just Voters' pre-hike label)
+    nor "accommodative" (the Chair's). The r-star-as-Sasquatch line is
+    his standing device (Feb 24 "not obvious ... even restrictive"), now
+    with an explicit low-end prior of 3% nominal that he concedes AI
+    would push UP.
+On the December 2025 dissent (volunteered):
+  "I kept expressing unease with the idea that we're going to front-load
+   the rate cuts and just count on the inflation going away and being
+   temporary because it's a supply shock. And so I ended up dissenting at
+   the last of the meetings because we literally the government shut down
+   and we didn't even have the data."
+  → Retroactively frames his December dissent as the same
+    don't-assume-transitory argument now made in the speech.
+On independence (asked repeatedly): "a very narrow form of independence
+  ... independence from political interference when setting the interest
+  rate"; "you can't be afraid to take a punch"; "if that makes the
+  central bank unpopular, then so be it." On the Barr/SVB question and on
+  Powell's presence on the Committee: declines.
+Task forces: "we aren't on the task forces so I don't know."
+Cut signal status:  CONDITIONAL — retained in form, demoted in default
+  (see above).
+Hike signal status: PRESENT — endorsed the September hike; "we know what
+  has to happen" if the persistence evidence does not arrive.
+Shift vs. prior speech (Jul 14):  HAWKISH — from "the sooner we can
+  normalize" as the operative conditional to "don't do nothing. Looking
+  through won't work" as the operative rule; the cut path is now the
+  exception clause.
+Shift vs. pre-FOMC (Jul 14):      same document — HAWKISH.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+               Goolsbee delivers the intellectual case for the September
+               decision the statement itself did not make: persistent
+               supply shocks cannot be looked through without breaking
+               the 2% commitment, so "the only way back is the hard way."
+               His own July positions are reversed one by one — tariffs
+               are no longer one-and-done, the labor market is no longer
+               "stable without being good" but simply "not a problem,"
+               and the multi-month disinflation bar he set is reported
+               unmet. What keeps this at a lean rather than outright
+               hawkish: he bounds the magnitude (supply-shock responses
+               "may not need to be as large"), keeps a conditional path
+               back down, and says twice that he is still "sorting out"
+               supply versus demand. Read him as the Committee's marker
+               for how far the former dovish wing has moved: a
+               non-voter who dissented against a cut in December now
+               endorses a hike in the first person.
+
+Language watch:
+  • "the only way back is the hard way" — personal; the closing line of
+    the remarks and repeated in Q&A. Watch for pickup by Collins / Daly.
+  • "persistent supply shocks ... should not simply look through" — the
+    rationale for the statement's deleted clause, stated by a regional
+    president. Stage: DISPERSED (Goolsbee; Warsh's breadth argument is a
+    cousin, not the same). Williams's attribution test is the opposite
+    pole.
+  • "there's not a conflict of mandates. There's just an inflation
+    problem" — echoes Warsh Sep 16 ("I don't believe that the two parts
+    of our mandate ... are working at cross purposes"). Stage: EMERGING
+    (Chair + one regional).
+  • "time for sniffing" / "data dogs" — his idiom for not yet ruling on
+    supply vs. demand; if it becomes "time for walking" the next move is
+    a series.
+  • "show-me state" — new idiom for the evidence bar on disinflation.
+  • DROPPED: "stable without being good" (four consecutive uses ended);
+    "one and done" for tariffs.
+
+Analyst flag:  YES
+  → (1) He declined BOTH stance labels — "restrictive" and
+        "accommodation." If the majority's "mildly restrictive" bloc
+        moves toward his outcome-based framing, the stance-label
+        collision flagged on Sept 16 resolves by abandoning the label.
+  → (2) Coverage gap: his Aug 28 Bloomberg Odd Lots appearance ("Austan
+        Goolsbee Is Worried the Economy Is Overheating," 46 min) was
+        never collected; the pre-FOMC baseline here is therefore July 14,
+        not his actual last pre-blackout communication. Recover via
+        auto-captions if a tighter baseline is wanted.
+  → (3) Next appearances: Chicago Fed luncheon Sept 29 ("The Economy
+        Ahead") and Sept 30 ("Why Consumers and Economists See Different
+        Economies") — the Sept 29 title promises a full outlook.
+══════════════════════════════════════════════════════════

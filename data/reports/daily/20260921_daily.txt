@@ -1,0 +1,144 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 21, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
+  July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Monetary Policy in an Uncertain World"
+     Official Monetary and Financial Institutions Forum (OMFIF), London
+     (prepared remarks + ~50 min moderated Q&A)
+     SOURCE: https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+             https://www.youtube.com/watch?v=zcAFMHbXGpY (full event, Q&A)
+════════════════════════════════════════════════════════════════
+
+NOTE ON DELIVERY: the cloud routine scored this speech on the morning of
+September 22 but its push was refused by the run sandbox's git proxy; the
+score and report were lost with the sandbox. Re-scored September 23 from
+the official prepared remarks plus the Chicago Fed's own video of the
+event (the Q&A, which carries most of the current-conditions content, was
+not in the routine's version). Full score:
+data/scored/speeches/20260921_Austan_Goolsbee_scored.txt
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  AUSTAN GOOLSBEE  |  Chicago Fed President  |  Non Voter
+    Type B (framework speech on supply shocks) with embedded outlook
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  Treated only as an overheating risk: "any evidence that AI data center
+  construction is spilling out of its own lane and raising aggregate
+  output beyond what the economy can absorb" is one of his two demand
+  tells, and in Q&A "the bigger the hype the bigger the risk of short-run
+  overheating ... I'm still worried about that." Fiscal deficits are
+  "part of aggregate demand"; he rejects cutting to cheapen debt issuance
+  as "the canonical reason why you want monetary independence."
+  Direction: hawkish lean
+
+LABOR MARKET
+  No characterization at all — the four-consecutive-appearance idiom
+  "stable without being good" is gone. Labor appears only as the absence
+  of a problem: "If the unemployment rate is barely 4% and core inflation
+  is above three on an extended basis, there's not a conflict of mandates.
+  There's just an inflation problem." And: "we do not have an employment
+  problem and we do have an inflation problem." The labor cover for
+  patience is withdrawn in his own voice.
+  Direction: hawkish lean
+
+INFLATION
+  The speech is the rationale the statement omitted when it deleted the
+  supply-shock clause: "there are some supply shocks that central banks
+  should not simply look through—namely, the persistent ones"; "when you
+  see a large supply shock, it's usually more accurate to assume it will
+  be persistent." His July "tariffs should be one and done" is reversed
+  ("nothing like the stylized textbook example ... repeated escalation").
+  The peak-inflation date has slipped "Q4 2025 ... Q1 2026 ... Q2, then
+  Q3, then Q4—and now sometime in 2027. That's not a comforting pattern."
+  Watch list: services inflation and AI-adjacent inflation, both of which
+  "correlate more strongly with overheating demand." New caveat: one-to-
+  two-year survey expectations show "a lot of movement."
+  Direction: hawkish
+
+MONETARY POLICY
+  Endorses the hike in the first person as a non-voter: "we know what has
+  to happen in that circumstance"; "that's why I supported this decision."
+  The rule: "don't do nothing. Looking through won't work"; "the only way
+  back is the hard way." Two bounds: supply-shock responses "may not need
+  to be as large as" demand-shock responses, and the July conditional cut
+  path survives in form — "if we have some convincing evidence that we're
+  headed back to 2%, I have no problem with rates ... heading back down."
+  But the default has flipped: patience with a cut path attached has
+  become "we know what has to happen" with a cut path attached to evidence
+  that has not arrived ("show-me state"). Asked about Warsh's "removed a
+  dose of accommodation," he declines both stance labels — r-star is his
+  "Sasquatch" — and answers on outcomes. Low-end neutral prior stated: "a
+  3% rate with 2% inflation and 1% real felt approximately right," which
+  AI productivity "raises ... It doesn't lower it." Says he is "among the
+  more optimistic" dots. Scenario framing: descriptive, with a named
+  evidence bar.
+  Direction: hawkish
+
+NET SIGNAL: HAWKISH LEAN — the former dovish wing's marker; a non-voter
+  who dissented against the December cut now endorses a hike and supplies
+  the theory for why supply shocks no longer license looking through,
+  while keeping magnitude bounded and a conditional way back down.
+
+vs. PRIOR SPEECH (Jul 14):     HAWKISH — tariffs no longer one-and-done;
+  labor no longer "stable without being good"; the multi-month
+  disinflation bar he set is reported unmet; "normalize" demoted from
+  operative conditional to exception clause.
+vs. PRE-FOMC SPEECH (Jul 14):  same document — HAWKISH. (His Aug 28
+  Bloomberg Odd Lots appearance was never collected; see flag.)
+vs. COMMITTEE SINCE FOMC:      First regional voice after the hike. Aligns
+  with Warsh Sept 16 on the mandates not being in conflict and on the
+  summer data not passing the test; adds the persistence argument the
+  statement's deletion implied. Declines the Chair's "accommodation" label
+  as firmly as the Just Voters' "restrictive" one.
+
+LANGUAGE TO WATCH:
+  • "the only way back is the hard way" — personal; closing line and
+    repeated in Q&A.
+  • "persistent supply shocks ... should not simply look through" —
+    rationale for the deleted statement clause; DISPERSED (one regional).
+    Williams's attribution test is the opposite pole.
+  • "there's not a conflict of mandates. There's just an inflation
+    problem" — echoes Warsh Sept 16; EMERGING (Chair + one regional).
+  • "time for sniffing" / "show-me state" — his idioms for the evidence
+    bar; a shift to "time for walking" would mean a series.
+  • DROPPED: "stable without being good"; "one and done" for tariffs.
+
+ANALYST FLAG: YES
+  → (1) He rejected both stance labels. If the "mildly restrictive" bloc
+        (Paulson, Collins, Daly, Waller) moves to outcome language, the
+        stance-label collision resolves by abandoning the label.
+  → (2) Coverage gap: Aug 28 Bloomberg Odd Lots (46 min) not collected;
+        the July 14 baseline may understate his pre-blackout position.
+  → (3) Sept 29 "The Economy Ahead" (Chicago Fed luncheon) promises a
+        full outlook — the next Goolsbee document to prioritize.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Tuesday September 22 (as originally due)
+────────────────────────────────────────────────────────────────
+  John Williams  |  NY Fed President  |  Troika
+  "Do You Remember?" — 2026 U.S. Treasury Market Conference, NY Fed
+  Philip Jefferson  |  Vice Chair  |  Troika
+  "Discount Window Modernization and Treasury Market Functioning" — same
+  conference. Both delivered; both Type B (see the September 22 report).
+  Tom Barkin  |  Richmond Fed President  |  Non Voter
+  "Why Hike?" — CFA Society Baltimore (delivered; Type A; see the
+  September 22 report).
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee Sep 21:  https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+                    https://www.youtube.com/watch?v=zcAFMHbXGpY
+Prior speech / pre-FOMC baseline (vs. PRIOR SPEECH, vs. PRE-FOMC SPEECH):
+  Goolsbee Jul 14:  https://www.youtube.com/watch?v=sfB5QnbNjwM
+                    data/scored/speeches/20260714_Austan_Goolsbee_scored.txt
+Reference FOMC documents:
+  data/reports/fomc/20260916_statement_diff.txt
+  data/scored/sep/20260916_SEP_scored.txt
+  data/reports/fomc/20260916_pressconf.txt
+════════════════════════════════════════════════════════════════

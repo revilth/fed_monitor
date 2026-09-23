@@ -1,0 +1,277 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+2026-09-22 | Thomas I. Barkin | Richmond Fed President | Non Voter
+"Why Hike?"
+CFA Society Baltimore, The Center Club, Baltimore, Md.
+SOURCE: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260922
+CLASSIFICATION: Type A — Economic Outlook, organized as "Why hike? /
+  Why now? / What's next?" Covers labor, growth (consumer + investment),
+  inflation and policy. Barkin's first post-September-16 speech and the
+  first explicit defense of the hike by any participant other than the
+  Chair.
+COLLECTION NOTE: posted after the Sept 22 collect run; not in the
+  Sept 22 daily as first sent. Fetched directly Sept 23.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the statement)
+PRE-FOMC BASELINE: August 13, 2026  "The Mysterious U.S. Economy"
+                   (Greenville, S.C.) [His Aug 31 Bloomberg Odd Lots
+                   appearance was never collected — see analyst flag.]
+POST-FOMC PRIOR:   N/A — first post-September-16 speech
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "domestic spending has been resilient. Productivity growth is strong,
+   and capital investment is robust." [Sep 16 stmt]
+  → Speaker version: "The economy and the labor market remain on solid
+    footing. We hear from businesses that economic conditions are, if
+    anything, firming." — echoes and pushes one step past the statement:
+    "firming" is a direction, where the statement gives a level.
+Own language — consumer:
+  "Consumer spending makes up about 70 percent of GDP, and consumers are
+   still spending. Higher gas prices don't seem to have had much effect.
+   We got a blowout retail sales report last week."
+  "Spending is disproportionately driven by those who are well off, and
+   that group has gotten even wealthier ... even those with fewer
+   resources are still finding ways to consume ... trading down to
+   private labels ... from beef to chicken to even cheaper proteins, like
+   peanut butter ... buying used instead of new ... dropping coverages or
+   opting out of insurance ... living a little closer to the edge, but
+   they're still spending."
+  → The three-tier consumer structure from Aug 13 is intact; the coping
+    list is longer and more specific. Compositional concern retained.
+Own language — investment:
+  "investment is booming ... nearly $700 billion in AI investments were
+   announced in just one week. But I am hearing momentum outside of data
+   centers, too. The defense sector is hot. Manufacturing contacts are
+   starting to sound more upbeat. Bankers tell us pipelines are healthy."
+  "Uncertainty was the story last year, but now it seems to have become
+   the new baseline. Business leaders say they can't afford to wait for
+   certainty any longer."
+  → Aug 13's fog-reversal is now stated as settled ("the new baseline").
+Own language — the one demand gap:
+  "The big gap on the demand side is still hiring. Firms still seem to
+   be dragging their feet in the context of increased productivity, the
+   potential of AI, and caution about the future."
+Verdict: "So, the demand picture hasn't changed much."
+Shift vs. prior speech (Aug 13):  unchanged-to-hawkish lean — same
+  structure and verdict, with "firming" and the retail-sales reference
+  added; the AI-breadth point is repeated with new sectors (defense).
+Shift vs. pre-FOMC (Aug 13):      same document.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate
+   has changed little." [Sep 16 stmt]
+  → Speaker version: "This has been less of an issue for the unemployment
+    rate because workforce growth has slowed as well, due to reduced
+    immigration and retiring baby boomers." — the statement's "kept pace
+    with the workforce" rendered with the mechanism spelled out.
+Own verdict:
+  "the labor market continues to get good grades. The unemployment rate
+   in August came in at 4.1 percent, extending the longest streak in
+   recorded history of U.S. unemployment at or below 4.5 percent.
+   Initial unemployment claims are testing historic lows. Layoffs remain
+   muted. And job gains — which gave a scare in July — picked back up in
+   August, surpassing 160,000."
+  → "Good grades." On Aug 13 the same rate was "a different, delicate
+    balance" of two slowdowns, the −23K July payroll was foregrounded,
+    and the CFO hiring-pause data was the qualifier. Here the July print
+    is "a scare" that has passed and the August +160K is the fact.
+Own qualifier / addition (the supply-offset argument, retained but
+  demoted):
+  "workforce growth has slowed as well, due to reduced immigration and
+   retiring baby boomers" — one sentence, in the growth section, as an
+   explanation for why weak hiring has not lifted unemployment. The
+   Aug 13 warning that the offset might not be durable is not repeated.
+Shift vs. prior speech (Aug 13):  HAWKISH LEAN — the Aug 13 dovish read
+  ("softer under the headline") is withdrawn; labor is now "good grades"
+  and used as the clean premise for hiking.
+Shift vs. pre-FOMC (Aug 13):      same document — HAWKISH LEAN.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated." [Sep 16 stmt — attribution clause
+   DELETED]
+  → Speaker version: he explains the deletion in his own words: "It is
+    tempting to try to blame high inflation on a handful of categories
+    with particularly high exposure to the Middle East conflict or to
+    tariffs. But more than 60 percent of the PCE index is rising faster
+    than 3 percent year over year." (footnote: "Based on a decomposition
+    of PCE into 180 categories.")
+  → This is the BREADTH test — Warsh's Aug 28 measure (54% of 199
+    components above 3% over 12 months) — reproduced by a regional
+    president with his own decomposition and a higher number. Second
+    official to use it; second number (Warsh 54% / Barkin "more than 60
+    percent"); the opening statement on Sept 16 carried it without a
+    number ("Too many categories"). Language-cycle stage moves from
+    committee-level-by-attribution to EMERGING across officials.
+Own language — KEY (the verdict):
+  "Today, inflation is our troublemaker. It's been above the Fed's 2
+   percent target for more than five years. In July, headline PCE
+   inflation was 3.7 percent. Core PCE came in at 3.3 percent."
+  "The risks to inflation outweigh the risks to maximum employment.
+   That's why we raised rates."
+  "With inflation more than a percentage point above target, that's a
+   problem."
+Own language — the "passing shocks" argument, rejected:
+  "There was an argument that inflation would return to target on its
+   own, without any additional help from the Fed ... One problem with
+   that argument, of course, is that the 'passing' shocks aren't proving
+   to be short-lived, or one-off events. New tariffs are still cropping
+   up. The conflict in the Middle East is ongoing. And the AI build-out
+   continues to stress those supply chains."
+  → On Aug 13 he steelmanned exactly this case ("Much of today's elevated
+    inflation level has come from shocks, which should pass") as one of
+    two open possibilities. Here it is named as the argument that lost.
+    Same conclusion as Goolsbee's Sept 21 persistence presumption,
+    reached from business intelligence rather than theory.
+Own language — expectations, with district evidence:
+  "there is a risk that current elevated levels of inflation could
+   affect future inflation. I hear this in my district."
+  "In the Richmond Fed's monthly surveys, growth in prices received has
+   averaged 3.5 percent since late 2023. That's nearly double the average
+   in the two years prior to the pandemic. In the second quarter of The
+   CFO Survey ... expectations for 2027 year-over-year price growth came
+   in at 4.1 percent. That is more than double the 2019 average ...
+   generally 'double' is not a word I want to be using when it comes to
+   price growth."
+  → New numbers. Aug 13 had "Market-based measures of inflation
+    expectations remain stable" on the dovish side of the ledger; Sept 22
+    puts firm-level expectations on the hawkish side with data.
+Own language — PASS-THROUGH (the analyst-flagged reversal, reversed
+  again):
+  "The firms I talked to then [2018–19] were convinced they had no
+   ability to pass on costs. I hear a different story today."
+  "First, there are more costs to pass on ... from tariffs and oil
+   prices to be sure, but also from AI build-out spillovers, health care,
+   transportation, or commodity prices."
+  "businesses rediscovered the pricing lever. So, today, many are willing
+   to test if they can't use it again. When they try, they are finding
+   less resistance than they did prepandemic, especially from the wealthy
+   and from business customers ... Lower-income consumers have become
+   quite price sensitive, to be sure, but I'm increasingly finding firms
+   willing to take their chances."
+  "The net of all this is more inflationary pressure."
+  → Aug 13 reported "Many business-to-consumer firms tell us they have
+    little ability to pass on costs" — flagged then as a dovish reversal
+    of May 21. Sept 22 reverses it back: firms are testing the lever and
+    finding "less resistance." He reconciles the two: B2C price
+    sensitivity is real at the low end, but the wealthy and business
+    customers absorb increases and firms are willing to try. The
+    on-the-ground pricing signal is back on the hawkish side.
+Shift vs. prior speech (Aug 13):  HAWKISH — the "already on a path down"
+  branch is dropped, the breadth test replaces the attribution framing,
+  firm expectations are quantified on the hawkish side, and the
+  pass-through read flips back.
+Shift vs. pre-FOMC (Aug 13):      same document — HAWKISH.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "raise the target range for the federal funds rate by 1/4 percentage
+   point" ... "The Committee will deliver price stability." [Sep 16 stmt]
+  → Speaker version: "At our meeting last week, the Federal Open Market
+    Committee (FOMC) raised the federal funds rate by 25 basis points.
+    This was our first move since cutting rates last December, and our
+    first hike since mid-2023." ... "We are committed to returning
+    inflation sustainably to our 2 percent target. Last week's hike will
+    help." — "we"; a non-voter owning the decision.
+Own language — why now:
+  "What's changed? My answer: not that much. But that is precisely why
+   it was appropriate for the FOMC to adjust our stance."
+  → The most useful line for reading the Committee's reaction function.
+    The hike is explained not by new information but by the ABSENCE of
+    the improvement the hold had been waiting for. Same logic as Warsh
+    Sept 16 ("very little information since that would make me reverse
+    that decision") and Goolsbee Sept 21 (the peak-date slippage). Three
+    officials, one rationale: the wait expired.
+Own language — what next (open, two-sided):
+  "Will additional hikes be required, and how many? We'll see."
+  Downside case: "inflation could come back down in short order. Some of
+   these recent shocks could reverse. Consumers could start to reach
+   their limit. The investment boom could slow. Markets could correct.
+   Employment could falter, making the labor market the problem child."
+  Upside case: "inflation could prove more stubborn. Temporary shocks
+   could drag on. New cost pressures could develop. Firming demand
+   conditions could flow through to prices, as could the impact of
+   today's inflation. I remember my dad saying, 'Do I need to repeat
+   myself?' Like in child rearing, one 'talking-to' might not be enough."
+  → Scenario framing is DESCRIPTIVE (two risk lists, no named scenarios,
+    no policy response pre-committed to either). But the asymmetry is in
+    the metaphor: "one talking-to might not be enough" is the only
+    policy-directional image in the speech, and it points to a second
+    hike. The Aug 13 open question ("Will the Fed need to raise rates
+    further, or is inflation already on a path down?") has been answered
+    on the first half and re-posed as "how many."
+Stance characterization: NONE. Neither "restrictive" nor "accommodation"
+  appears. The Aug 13 hedge ("many think [rates are] still restrictive
+  enough") is gone with the dovish case it belonged to.
+Cut signal status:  ABSENT.
+Hike signal status: PRESENT — the September hike endorsed in the first
+  person; further hikes an open, leaning question ("how many," "one
+  talking-to might not be enough").
+Shift vs. prior speech (Aug 13):  HAWKISH — from hike-as-open-question to
+  hike-delivered-and-defended, with "how many" as the new question.
+Shift vs. pre-FOMC (Aug 13):      same document — HAWKISH.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH
+               Barkin's first post-hike speech is a defense of the hike
+               built on the same three pillars as the Chair's press
+               conference: full-employment labor market ("good
+               grades"), breadth of inflation ("more than 60 percent of
+               the PCE index is rising faster than 3 percent"), and the
+               expiry of the wait ("What's changed? ... not that much.
+               But that is precisely why"). Every dovish element of
+               Aug 13 is withdrawn — the softer-under-the-headline labor
+               read, the "already on a path" branch, the B2C
+               can't-pass-through signal, and the "many think ... still
+               restrictive enough" hedge. His proprietary intelligence
+               now points the hawkish way on both pricing power and firm
+               expectations. He stops short of a path ("We'll see") but
+               the one directional image he offers is a second
+               "talking-to."
+
+Language watch:
+  • "more than 60 percent of the PCE index is rising faster than 3
+    percent" — the BREADTH TEST, second official after Warsh (54% / 199
+    components; Barkin 180 categories). Stage: EMERGING. If Paulson or
+    Jefferson use a share-above-3% figure, it is committee-wide.
+  • "The risks to inflation outweigh the risks to maximum employment.
+    That's why we raised rates." — the cleanest one-line rationale for
+    the hike on record; candidate for pickup.
+  • "one 'talking-to' might not be enough" — personal; the second-hike
+    image.
+  • "the 'passing' shocks aren't proving to be short-lived" — the
+    attribution framework rejected in Barkin's words; pairs with
+    Goolsbee's "persistent ones" (Sept 21). Stage: EMERGING (two
+    regionals, one day apart).
+  • "'double' is not a word I want to be using" — firm expectations
+    entering his vocabulary as a hawkish input.
+  • "firming" — direction added to the statement's "solid."
+
+Analyst flag:  YES
+  → (1) The pass-through signal has now flipped three times (May hawkish
+        → Aug dovish → Sept hawkish). Treat the level of this indicator
+        with care; the direction of the latest flip is consistent with
+        every other input in the speech.
+  → (2) Coverage gap: his Aug 31 Bloomberg Odd Lots appearance (31 min,
+        "on the Surprisingly Resilient Real Economy") was never
+        collected; the Aug 13 baseline may understate how far he had
+        already moved before blackout.
+  → (3) He gives no stance label at all. Third official (after Warsh and
+        Goolsbee) to describe the post-hike setting without
+        "restrictive." Watch whether the "mildly restrictive" bloc
+        (Paulson, Collins, Daly, Waller) is now the outlier.
+══════════════════════════════════════════════════════════

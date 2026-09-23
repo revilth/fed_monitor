@@ -1,0 +1,46 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 19, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
+  July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (None) — Saturday, September 19, 2026. No Fed communications were
+  posted or delivered. First post-FOMC weekend day.
+════════════════════════════════════════════════════════════════
+
+NOTE ON DELIVERY: this report was written by the cloud routine on the
+morning of September 20 but its push was refused by the run sandbox's git
+proxy, so it was never committed or emailed. Re-issued September 23 from
+the local machine as part of the post-FOMC backfill; content verified
+against the Board and regional bank pages (no September 19 appearances).
+
+POST-FOMC STATUS (as of September 19)
+  Only post-hike communications so far: Bowman's two September 18 London
+  speeches (SVB review; stress-testing), both Type B with no outlook
+  content — see data/reports/daily/20260918_daily.txt. No participant has
+  yet spoken to the September 16 decision itself. The first outlook-bearing
+  appearances of the post-hike cycle are scheduled for the coming week
+  (Goolsbee Sept 21, London; Williams and Jefferson Sept 22, NY Fed
+  Treasury Market Conference).
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Sunday September 20 / MONDAY September 21
+────────────────────────────────────────────────────────────────
+  Sunday Sept 20: (none confirmed)
+
+  Monday Sept 21:
+  Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+  "In Conversation with Austan Goolsbee: Monetary Policy in an Uncertain
+  World" — Official Monetary and Financial Institutions Forum (OMFIF),
+  London; 5:30am CT; livestreamed on the Chicago Fed YouTube channel.
+  First post-hike appearance by a regional president.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date: none.
+Reference FOMC documents:
+  data/reports/fomc/20260916_statement_diff.txt
+  data/scored/sep/20260916_SEP_scored.txt
+  data/reports/fomc/20260916_pressconf.txt
+════════════════════════════════════════════════════════════════
