@@ -1,0 +1,58 @@
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/260924-10th-annual-fintech-conference-speech
+
+Speech
+Opening Remarks
+by
+Anna Paulson
+President and Chief Executive Officer
+24 Sep ’26
+President and CEO Anna Paulson welcomes participants to the 10th Annual Fintech Conference at the Federal Reserve Bank of Philadelphia.
+View PDF
+Share
+Remarks as prepared for delivery.
+Thank you, Julapa, and good morning, everyone.
+1
+Welcome to the 10th Annual Fintech Conference!
+Whether you’re attending in person or online, we are glad you are here. Many thanks to our partners at the Wharton School of the University of Pennsylvania, the School of International and Public Affairs at Columbia University, the University of Cambridge, and the Brookings Institution for your support of this conference.
+Twenty-twenty-six has been a year of milestone events — including the 250th anniversary of the Declaration of Independence, signed just two blocks from where I’m standing.
+Now, a 10-year anniversary isn’t quite as momentous as two-and-a-half centuries, but it still speaks to something we take seriously. Over the past 10 years, this gathering has grown into one of the field's most valuable forums — bringing together regulators, academics, established financial institutions, and the innovators pushing the industry forward. The conference has consistently produced insights that shape how we think about fintech and the broader financial system. I’d like to thank the organizing committee for putting together another dynamic agenda.
+This year’s conference takes place against a backdrop of important economic developments, so I am going to begin by sharing my thoughts about the economic landscape and monetary policy.
+I’ll offer the standard caveat here, because it’s important: These are my own views, not necessarily those of my colleagues on the Federal Open Market Committee or elsewhere in the Federal Reserve System.
+The Current Economic Landscape
+My assessment of the economy draws on a wide range of data and analysis, along with regular conversations with businesses and workers here in the region and beyond. Together, they tell a consistent story: despite shocks from tariffs and high energy prices, output growth has been solid, perhaps even strengthening somewhat. And the labor market is holding steady. Inflation, meanwhile, remains stubbornly elevated, and only in part because of those same shocks. Let me explore each of these topics in turn and then describe what this landscape means for monetary policy.
+Strong business investment, fueled by the artificial intelligence buildout, continues to power the economy. Plans for new data centers are multiplying here in Pennsylvania and beyond, although not without controversy. But my regional economic experts assure me that manufacturing strength extends well beyond AI. The Philadelphia Fed’s
+Manufacturing Business Outlook Survey
+continues to point to continued expansion. Most firms anticipate increasing activity and investment in the months ahead. That’s consistent with the national story, where manufacturing activity has also been strong. Businesses tell me orders keep climbing, and that’s stretching delivery times and creating backlogs.
+Economic growth is also being supported by the consumer. Consumer sentiment is low. But the spending data tell a different story. After a slow start to the year, real consumption growth accelerated to an annualized rate of 3.4 percent in the second quarter, and the
+Atlanta Fed’s GDPNow model
+is currently pointing to above 4 percent consumption growth in the third quarter. This momentum in aggregate consumption growth is likely being bolstered by the stock market. Although I’d note that this is not a boost that is being experienced evenly.
+2
+Turning to the labor market, conditions here are stable and seem to have improved a bit.
+The unemployment rate was 4.3 percent in January and currently sits at 4.1 percent — a rate consistent with what I consider to be maximum employment. Until this spring, hiring in healthcare and social assistance had largely carried the labor market. Since then, hiring has broadened to include a wider range of industries, and over the summer, total job gains averaged a solid 74,000 per month. Wage growth, though, has been modest, and employers report few pressures to raise wages. These are signs that labor costs are not driving inflation pressures.
+And that brings me to inflation itself. I want to focus specifically on underlying inflation: an estimate of what inflation would look like if we strip out the effects of shocks that are expected to fade, like swings in oil prices or the price increases tied to tariffs. At a moment when multiple overlapping shocks are buffeting the headline numbers, underlying inflation can provide a clearer read on where prices are actually headed.
+There are many ways to measure underlying inflation and, by and large, they all tell the same story. Underlying inflation is running in a range of about 2.5 to 3 percent, well above our 2 percent target, and that gap has shown little sign of closing. The best I can say about underlying inflation this year is that it hasn’t gotten worse. The AI buildout is one factor keeping underlying inflation stubbornly high. While the impact of AI on productivity remains unclear, its effect on prices is not.
+The scale of AI investment is adding meaningfully to demand for everything from computer chips to construction materials and that demand is showing up in prices. Import prices for computers and computer accessories are up 24 percent over the last 12 months. One technology company noted that price pressures from the AI buildout are rippling through the entire electronics supply chain — from circuit boards to capacitors.
+Putting this all together, I see a resilient economy that is showing some signs of increased momentum. Despite shocks from tariffs and the conflict in the Middle East, recent consumption growth has been strong, the AI buildout is driving investment, and the labor market is stable. Underlying inflation, however, remains stubbornly elevated.
+Implications for Monetary Policy
+So, what does this mean for monetary policy? The Federal Open Market Committee answers to two mandates: maximum employment and price stability. Right now, it's price stability that needs attention. Inflation has been too high for too long. For some context — this is the 10th Annual Fintech Conference, and it’s the sixth consecutive gathering where inflation has been above 2 percent.
+Coming into the summer, I was asking myself whether policy was restrictive enough to deliver 2 percent inflation — or whether a somewhat higher federal funds rate might be needed. Was underlying inflation improving? Were pressures from tariffs, energy, and AI staying contained? And were growth and the labor market consistent with some modest monetary policy restrictiveness?
+By September, it was clear that inflation risks were growing. Underlying inflation showed little to no progress. Tariff-related price pressures eased, but price pressures from the conflict in the Middle East and the AI buildout grew. Meanwhile, economic growth firmed up a little, and the labor market strengthened a touch. Against this backdrop, the risk of persistently elevated inflation had increased.
+That's why I supported raising the federal funds rate by 25 basis points at last week's meeting. This recalibration brings policy closer to what I believe is needed to return inflation to 2 percent at a pace that appropriately balances inflation risks with risks to the labor market. Looking ahead, if conditions evolve as I expect, some modest further tightening may be warranted.
+As always, I'll be watching the data and listening closely to what businesses and workers are telling me. But let me be clear: returning inflation to 2 percent is non-negotiable, and I will support the policy path that gets us there while carefully weighing risks to the labor market along the way.
+Fintech Conference: Tackling Tough Questions
+The economic and monetary policy landscape I just described is quite different from the landscape at our first Fintech Conference back in 2017. Just as economic conditions have changed, so has the world of fintech.
+At our first event, the line separating fintech and traditional finance was relatively clear. Ten years later, that line has blurred. Some traditional financial institutions — both large and small — are embracing innovations like cryptocurrencies and tokenized collateral. Some fintech companies are pursuing traditional banking charters. And everyone is trying to adapt to the world of AI.
+These changes raise important questions about the future of our financial system. Questions that affect the largest mega banks and the smallest community banks. And questions that are central to the mission of the Federal Reserve Bank of Philadelphia and the Federal Reserve System. Let me share a few of these questions, knowing that you will tackle them over the next two days:
+How are developments in fintech — from stablecoins to tokenized deposits to real-world asset tokenization — affecting the stability and integrity of the financial system? How can regulators and the private sector innovate to improve risk management? What will it take for fintech innovations to deliver real value broadly, not just to sophisticated users, but across the economy? And perhaps the most pressing and most challenging issue of all: artificial intelligence. How can we harness this technology to build a better, safer financial system for everyone?
+These are big questions. And we need open dialogue and healthy debate to understand and address them. That is why this conference exists.
+Every year for the past decade, we have come together to debate the benefits and drawbacks of new technologies. We’ve exchanged ideas about the impact of old and new regulations. And we’ve worked together to mitigate risks.
+This year’s program carries that tradition forward, and I’d like to thank our distinguished speakers for their willingness to engage in constructive dialogue. By tackling the big questions together, we can help build an innovative, stable, and secure financial system that works for everyone. And when we gather to mark this conference's next milestone anniversary, I hope we will be able to look back on what we've accomplished together.
+To kick things off, I’m delighted to introduce Mark Gould who will discuss the past and future of payments. Mark is the chief payments executive for the Federal Reserve System. He is responsible for the networks and operations that move money safely and efficiently across the country on behalf of the Federal Reserve System, from retail and wholesale payments to cash. Under Mark’s leadership, the Federal Reserve has transformed its payment services to operate as one enterprise to better serve financial institutions and, ultimately, the American people. Please join me in welcoming Mark Gould.
+The views expressed here are solely those of the author and do not necessarily reflect the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
+Julapa Jagtiani, senior economic advisor and economist, Federal Reserve Bank of Philadelphia,
+https://www.philadelphiafed.org/our-people/julapa-jagtiani
+.
+"More U.S. Households Are Supporting Spending by Drawing on Investment Wealth," JPMorgan Chase Institute, September 17, 2026, accessed September 21, 2026,
+https://www.jpmorganchase.com/institute/all-topics/household-financial-health/drawing-on-investment-wealth
+.
+View the Full Speech
