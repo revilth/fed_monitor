@@ -1,0 +1,214 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 24, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
+  July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Anna Paulson  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
+     "Opening Remarks" — 10th Annual Fintech Conference
+     Federal Reserve Bank of Philadelphia, Philadelphia, PA
+     Type B with full embedded outlook — SCORED.
+  2. Beth Hammack  |  Cleveland Fed President  |  Just Voter
+     "Opening Remarks" — Inflation: Drivers and Dynamics Conference 2026
+     Cleveland Fed / ECB, Cleveland, OH
+     Type B with brief embedded outlook — SCORED (official livestream
+     auto-caption; no text posted).
+  3. Thomas Barkin  |  Richmond Fed President  |  Non Voter
+     Fireside chat, Economic Club of Washington, D.C.
+     STATUS: NOT SCORED — TRANSCRIPT PENDING. No livestream and no text.
+     Action: check the Economic Club of Washington's YouTube channel for a
+     posted video. Media coverage exists but is not a source.
+
+  NOTE: The Sept 22 report said Waller, Hammack, and Goolsbee would speak
+  on Sept 23. That was wrong. The Fed Board calendar lists no Waller
+  appearance, Goolsbee has none before Sept 29, and Hammack's event was
+  today. The Sept 23 report has been corrected.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  ANNA PAULSON  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
+    First communication since the hike; first prepared text since May 19
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "output growth has been solid, perhaps even strengthening somewhat" —
+  one step past the statement's "solid pace." The consumer is the engine:
+  Q2 real consumption at 3.4 percent annualized, GDPNow above 4 percent for
+  Q3, helped by stock-market wealth that is "not ... experienced evenly."
+  AI investment "continues to power the economy," and manufacturing
+  strength "extends well beyond AI."
+  Direction: hawkish lean
+
+LABOR MARKET
+  "stable and seem to have improved a bit." For the first time she calls
+  4.1 percent unemployment "consistent with what I consider to be maximum
+  employment." Hiring has "broadened" beyond healthcare. Wage growth is
+  "modest," so labor is "not driving inflation pressures" (carry-over). The
+  May 19 downside caveats were untested after the Aug 4 interview. They are
+  absent again in a prepared text.
+  Direction: hawkish lean
+
+INFLATION
+  Her underlying-inflation range moved UP: Aug 4 "somewhere in the range of
+  2.4, 2.8" with "a little bit of mild progress" → Sept 24 "about 2.5 to 3
+  percent ... that gap has shown little sign of closing." AI is now a direct
+  inflation source: "While the impact of AI on productivity remains
+  unclear, its effect on prices is not" (computer import prices +24 percent).
+  Her Aug 4 defense of looking through supply shocks is not repeated.
+  Direction: HAWKISH
+
+MONETARY POLICY
+  She explains the vote as her Aug 4 conditional firing: "Underlying
+  inflation showed little to no progress ... That's why I supported raising
+  the federal funds rate by 25 basis points." The hike "brings policy
+  closer to what I believe is needed," so policy was not restrictive enough
+  before it. "Mildly restrictive," her label since March, is gone. Forward
+  path: "if conditions evolve as I expect, some modest further tightening
+  may be warranted." Returning to 2 percent is "non-negotiable." Scenario
+  framing is descriptive, a single baseline with no named trigger.
+  Direction: HAWKISH
+
+NET SIGNAL: HAWKISH — the median voter's base case now includes a further
+  modest hike.
+
+vs. PRIOR SPEECH (Aug 4, CNBC):         HAWKISH — conditional "could be higher
+  rates" became an executed hike plus a lean toward more; underlying range
+  raised; "mildly restrictive" dropped.
+vs. PRE-FOMC SPEECH (Aug 4):            HAWKISH — same document.
+vs. COMMITTEE SINCE FOMC:  Joins Barr ("further policy adjustments are
+  likely to be needed," Sept 23) and Barkin ("one 'talking-to' might not be
+  enough," Sept 22) in leaning toward more. She is the first of the "mildly
+  restrictive" bloc (Paulson, Collins, Daly, Waller) to speak after the
+  hike, and she left it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  BETH HAMMACK  |  Cleveland Fed President  |  Just Voter
+    First post-hike communication from a July hike dissenter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "output is growing at a solid pace" — statement echo, nothing added.
+  Direction: neutral
+
+LABOR MARKET
+  "the labor market remains close to my definition of maximum employment"
+  — carry-over from Jul 31 and Jun 2. No downside risk named.
+  Direction: neutral
+
+INFLATION
+  "The inflation outlook continues to be highly uncertain with risks tilted
+  to the upside." This echoes the Chair's Sept 16 "Inflation risks are to
+  the upside," but she drops his "labor risks are roughly balanced." She
+  names the demand shock for the first time: "the boom in capital spending
+  related to AI." Jul 31 said only "the demand side of the economy." She
+  also argues against looking through supply shocks when "the shocks arrive
+  one after another in a period when inflation has been elevated for
+  years." "Costly to bring it back down" is verbatim from Jul 31.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  Nothing. No mention of the September hike, the rate level or the path.
+  This was a research-conference welcome. She told the room she will be on
+  a policy panel Friday afternoon, which is where a path view would come.
+  Direction: no signal
+
+NET SIGNAL: HAWKISH LEAN on inflation; no policy signal.
+
+vs. PRIOR SPEECH (Jul 31 dissent):      hawkish lean on inflation (upside
+  risk stated; AI named as the demand source); policy untested.
+vs. PRE-FOMC SPEECH (Jul 31):           same. ⚠ Her Aug 27 CNBC interview is
+  the true pre-FOMC baseline. It is unscored because YouTube rate-limited the
+  caption fetch today. Recover and re-check.
+vs. COMMITTEE SINCE FOMC:  The dissent bloc's framework is now shared. The
+  statement deleted the supply-shock clause, and the median voter made the
+  same AI-demand argument this morning. Hammack's open question is the
+  path, not the diagnosis.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE
+────────────────────────────────────────────────────────────────
+The median voter and a July dissenter spoke an hour apart and said the same
+thing about AI. Paulson: "The AI buildout is one factor keeping underlying
+inflation stubbornly high." Hammack: shocks "from the demand side from the
+boom in capital spending related to AI." On Aug 4 Paulson used AI only as a
+reason policy might not be restrictive enough. Now both treat it as a direct
+inflation driver. If AI capex is a demand shock, looking through it is not an
+option, and that removes the last doctrinal argument for pausing after one
+hike.
+
+Paulson went further than Hammack on policy. The median voter now has a
+base-case lean toward "some modest further tightening." The July dissenter
+said nothing on the path today.
+
+LANGUAGE TO WATCH:
+  • "some modest further tightening may be warranted" — Paulson. Pairs with
+    Barr's "further policy adjustments are likely to be needed." Stage:
+    EMERGING (two voters in two days).
+  • AI capex as a demand-side inflation source — Paulson, Hammack (Sept 24),
+    Goolsbee (Sept 21). Stage: EMERGING.
+  • "mildly restrictive" — DROPPED by Paulson, its anchor user. Watch
+    Collins, Daly, Waller. Stage: FADING.
+  • "risks tilted to the upside" (inflation) — Hammack, echoing the Chair.
+    Stage: COMMITTEE-WIDE.
+  • "non-negotiable" (2 percent) — Paulson, first use. Stage: DISPERSED.
+
+ANALYST FLAG: YES
+  → (1) The median voter's base case includes "some modest further
+    tightening." Is October 28 live? She names no date or trigger. Friday's
+    August PCE release is the first data point against her new 2.5–3 range.
+  → (2) Paulson's underlying range rose from 2.4–2.8 to 2.5–3. Aug 4 was
+    spoken and approximate. Confirm this is new data, not a new measure.
+  → (3) Hammack's Friday panel is the first chance to hear whether a July
+    dissenter wants a second hike.
+  → (4) Coverage: Hammack's Aug 27 CNBC interview is still unscored, and
+    Barkin's Economic Club of Washington chat has no transcript yet.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday Sept 25 (plus next week's known dates)
+────────────────────────────────────────────────────────────────
+  Friday Sept 25:
+  Beth Hammack  |  Cleveland Fed President  |  Just Voter
+  Policy panel with ECB Vice President Vujčić and a Bank of Mexico
+  deputy governor, moderated by David Wilcox
+  Inflation: Drivers and Dynamics Conference, Cleveland Fed (livestream on
+  the Cleveland Fed YouTube channel), afternoon
+
+  Tuesday Sept 29:
+  Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+  "The Economy Ahead: A Luncheon with the Chicago Fed"
+  Illinois Manufacturers' Association, Champaign, IL (noon CT livestream)
+
+  Alberto Musalem  |  St. Louis Fed President  |  Non Voter
+  London School of Economics event (livestream scheduled)
+
+  Wednesday Sept 30:
+  Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+  "Why Consumers and Economists See Different Economies"
+  NORC
+
+  No Board member appearances are on the Fed Board calendar for either
+  window. Next: Minutes of Sept 15–16 on Oct 7. Blackout begins Oct 17.
+  FOMC Oct 27–28 (no SEP).
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Paulson Sept 24:  https://www.philadelphiafed.org/the-economy/monetary-policy/260924-10th-annual-fintech-conference-speech
+                    data/scored/speeches/20260924_Anna_Paulson_scored.txt
+  Hammack Sept 24:  https://www.youtube.com/watch?v=Yr9ZL_8gN2M
+                    (Cleveland Fed official livestream)
+                    data/scored/speeches/20260924_Beth_Hammack_scored.txt
+
+Prior speech / pre-FOMC baseline:
+  Paulson Aug 4:    https://www.youtube.com/watch?v=6ah9AdhVgpA
+                    data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Hammack Jul 31:   https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
+                    data/scored/speeches/20260731_Beth_Hammack_scored.txt
+  Hammack Aug 27 (unscored baseline): https://www.youtube.com/watch?v=Z-TAPdCG_gA
+
+Related:
+  Reference FOMC:   data/reports/fomc/20260916_statement_diff.txt
+                    data/reports/fomc/20260916_pressconf.txt
+  Barr Sept 23:     data/scored/speeches/20260923_Michael_S__Barr_scored.txt
+════════════════════════════════════════════════════════════════

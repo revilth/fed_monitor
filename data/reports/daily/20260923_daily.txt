@@ -12,24 +12,14 @@ SPEECHES TODAY
      Type B with embedded outlook — SCORED.
      SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm
 
-  NOT COLLECTED (expected per Sept 22 report):
-  — Christopher J. Waller  |  Governor  |  Just Voter
-    Inflation / economic outlook remarks (event to confirm). No raw
-    transcript received from the 5:30am collect run; action item.
-  — Beth Hammack  |  Cleveland Fed President  |  Just Voter
-    Opening remarks (event to confirm). No raw transcript received;
-    action item.
-  — Austan Goolsbee  |  Chicago Fed President  |  Non Voter
-    Second appearance of the week (event to confirm). No raw transcript
-    received; action item. His Sept 30 NORC speech page currently
-    points to the Sept 21 OMFIF event — may be a stub; verify.
-
-  NOTE: The 5:30am collect run yielded only the Barr speech. If Waller,
-  Hammack, or Goolsbee spoke on Sept 23 and transcripts are now available,
-  run `python3 main.py refetch` from a non-blocked IP and supplement this
-  report. Waller in particular is the highest-priority outstanding signal
-  (his Sept 3 August-data trigger has not been confirmed post-hike in his
-  own words).
+  NOTE: The Sept 22 report listed Waller, Hammack, and Goolsbee as
+  expected Sept 23 speakers. Verified Sept 24 against the Fed Board
+  events calendar and each bank's site: none of the three spoke on
+  Sept 23. Barr was the only FOMC appearance. Hammack (opening remarks,
+  Cleveland Fed / ECB "Inflation: Drivers and Dynamics" conference) and
+  Paulson (economic outlook, Philadelphia Fed Fintech Conference) speak
+  on Thursday Sept 24 and will be covered in the Sept 24 report. Waller
+  has no scheduled appearance on the Board calendar.
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -129,17 +119,26 @@ ANALYST FLAG: YES
     patience warranted), or are both officials endorsing further hikes
     despite the attribution (as the text says)? Analyst: verify the Barr
     logic chain.
-  → (2) Waller, Hammack, Goolsbee: no transcripts collected for Sept 23.
-    Waller is the highest priority — his Sept 3 August-trigger language
-    needs a post-hike update. Recover via refetch or direct WebFetch.
+  → (2) The "mildly restrictive" bloc (Paulson, Collins, Daly, Waller)
+    has not yet spoken post-hike. Paulson speaks Sept 24; Waller has no
+    scheduled appearance on the Board calendar.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — TOMORROW: Friday September 25
 ────────────────────────────────────────────────────────────────
-  (calendar lookup unavailable this run — Fed Board events page and all
-  regional bank pages blocked by egress proxy)
+  Thursday Sept 24 (send day, covered in the next report):
+  — Thomas Barkin  |  Richmond Fed President  |  Non Voter — fireside
+    chat on economic conditions and inflation risks, 8:00am ET.
+  — Beth Hammack  |  Cleveland Fed President  |  Just Voter — opening
+    remarks, "Inflation: Drivers and Dynamics" conference (Cleveland Fed
+    / ECB), 8:50am ET. First July dissenter to speak after the hike.
+  — Anna Paulson  |  Philadelphia Fed President  |  Just Voter (median
+    voter) — economic outlook, 10th Annual Fintech Conference,
+    Philadelphia Fed, 10:10am ET.
+  Friday Sept 25: (none confirmed) — Board calendar lists no event;
+  Cleveland conference day 2 has no Hammack slot listed.
 
-  Known scheduled appearances not yet covered:
+  Later:
   — Sept 29: Goolsbee, "The Economy Ahead: A Luncheon with the Chicago
     Fed," Illinois Manufacturers' Association, Champaign IL (noon CT
     livestream). Raw stub collected at

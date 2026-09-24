@@ -1,0 +1,198 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+September 24, 2026 | Beth M. Hammack | Cleveland Fed President | Just Voter
+"Opening Remarks" — Inflation: Drivers and Dynamics Conference 2026
+Federal Reserve Bank of Cleveland / European Central Bank, Cleveland, Ohio
+SOURCE: https://www.youtube.com/watch?v=Yr9ZL_8gN2M
+
+CLASSIFICATION: Type B (research-conference welcome) WITH EMBEDDED ECONOMIC
+  OUTLOOK. About 13 minutes. One compact outlook paragraph plus a
+  look-through passage. The rest introduces the conference papers on
+  underlying-inflation measures, expectations anchoring and firms'
+  expectations, and carries no policy signal.
+  First post-September-16 communication from Hammack, and the first from
+  any of the three July hike dissenters since the Committee delivered their
+  hike.
+
+⚠ SOURCE DISCIPLINE: official Cleveland Fed livestream on the bank's own
+  YouTube channel. The bank has posted no text transcript. The raw file is
+  the YouTube auto-caption with a light cleanup of names and jargon. Verify
+  exact wording against the video before treating a single phrase as a quote
+  of record.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the statement;
+                   "timelier return to the Committee's 2 percent goal" added)
+PRE-FOMC BASELINE: July 31, 2026  Statement on July FOMC dissent (latest SCORED
+                   document; data/scored/speeches/20260731_Beth_Hammack_scored.txt)
+                   ⚠ COVERAGE GAP: an August 27 CNBC interview ("now is the time
+                   to act," youtube.com/watch?v=Z-TAPdCG_gA) is her true last
+                   pre-FOMC communication. It is not scored. The caption fetch
+                   was rate-limited by YouTube on Sept 24. Comparisons below are
+                   against July 31 and will be re-checked once Aug 27 is scored.
+POST-FOMC PRIOR:   N/A — first post-September-16 communication.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace." [Sept 16 stmt]
+  → Hammack: "output is growing at a solid pace."
+
+Own language: none beyond the echo. Growth is a one-clause premise.
+
+Shift vs. prior speech (Jul 31):  UNCHANGED — Jul 31 treated growth as strong
+  enough to restrain; nothing here contradicts it.
+Shift vs. pre-FOMC (Jul 31):      UNCHANGED — same document.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Sept 16 stmt]
+  → Hammack does not echo it. She states a level judgment instead.
+
+Own verdict:
+  "the labor market remains close to my definition of maximum employment"
+  → Carry-over. Jul 31: "the unemployment rate near my estimate of maximum
+    employment"; Jun 2: "right around my definition of full employment." NOT a
+    shift.
+
+Shift vs. prior speech (Jul 31):  UNCHANGED.
+Shift vs. pre-FOMC (Jul 31):      UNCHANGED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated." [Sept 16 stmt]
+  → Hammack: "inflation remains elevated and it has now run above the FOMC's
+    2% inflation objective for more than 5 years."
+  → The echo is verbatim. The duration clause is her own carry-over (Jul 31:
+    "stubbornly above 2 percent for more than five years").
+
+Own language — KEY (risk balance stated, one-sided):
+  "The inflation outlook continues to be highly uncertain with risks tilted to
+   the upside."
+  → Jul 31 had no risk language at all. May 1 had "upside risks to inflation
+    AND downside risks to growth and employment." Here she names only the
+    upside inflation risk and pairs it with "highly uncertain." The one-sided
+    balance first seen by omission on Jul 31 is now stated outright.
+    [Caution: "continues to be" signals she sees this as unchanged. The CNBC
+    Aug 27 interview may already have stated it. Confirm before calling it a
+    new formulation.]
+
+Own language — KEY (AI named as the demand shock):
+  "the extended sequence of shocks that we've recently faced from both the
+   supply side via tariffs and oil prices as well as from the demand side from
+   the boom in capital spending related to AI."
+  → Jul 31: "I see inflationary pressures coming from the demand side of the
+    economy, as well," with no source named. Now the demand shock has a name,
+    AI capital spending. Same day, Paulson called the AI buildout "one factor
+    keeping underlying inflation stubbornly high." Two voters, two banks, the
+    same attribution on the same morning.
+
+Own language — the look-through argument:
+  "The conventional view is that monetary policy should look through a supply
+   shock. ... But when the environment is more prone to shocks or the shocks
+   arrive one after another in a period when inflation has been elevated for
+   years, there's a greater risk that an inflationary mindset could take hold."
+  → This is the successive-shocks doctrine Kashkari introduced on Jul 31 and
+    the Chair folded into the Sept 16 opening statement ("relative price
+    changes ... do not broaden"). Hammack now states it in her own voice. The
+    phrase "inflationary mindset" is her own carry-over from Jun 2
+    ("Preventing an inflationary mindset is critical").
+  "The longer that high inflation persists, the more challenging and costly it
+   can be to bring it back down."
+  → Verbatim carry-over from Jul 31. NOT new.
+
+Measurement emphasis (research framing, low weight):
+  She highlights Cleveland Fed work on median and trimmed-mean inflation
+  adjusted for skewness, expectations-anchoring measures that account for
+  dispersion and uncertainty, and the firms' inflation expectations survey.
+  → Conference welcome material. Read only as a signal of what she watches:
+    underlying trend, dispersion of expectations, and firms' price plans.
+
+Shift vs. prior speech (Jul 31):  HAWKISH LEAN — upside risk now stated
+  explicitly; demand-side source named as AI capex; look-through critique
+  stated as doctrine rather than implied.
+Shift vs. pre-FOMC (Jul 31):      HAWKISH LEAN — same document.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none. She does not mention the September 16
+  decision, the rate level, or the path.
+
+Own language:
+  "Maintaining price stability is the responsibility of central banks and the
+   research literature has shown that only a central bank can deliver on that
+   goal over time."
+  → Generic framing for a research audience. No stance signal.
+
+  Hike signal: NOT STATED. No endorsement of the hike, no view on a second
+               move.
+  Cut signal:  ABSENT.
+
+  ⚠ Do not read the silence as a signal. This was a welcome to a research
+  conference, and she told the room she will speak on a policy panel on
+  Friday, Sept 25 (with ECB Vice President Vujčić and a Bank of Mexico deputy
+  governor, moderated by David Wilcox). That panel is where her path view
+  will come, if it comes.
+
+Scenario framing: NONE.
+
+Shift vs. prior speech (Jul 31):  UNTESTED — Jul 31 was a policy verdict; this
+  is a research welcome with no policy content.
+Shift vs. pre-FOMC (Jul 31):      UNTESTED.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN on inflation; no policy signal.
+
+               Hammack's outlook is unchanged in substance from July 31.
+               Growth is solid, labor is at her maximum-employment estimate,
+               and inflation has been above target for more than five years.
+               Two things sharpen. She now states the risk balance outright,
+               "risks tilted to the upside," with no offsetting labor risk.
+               And she names the demand shock as the AI capital-spending
+               boom, which Paulson did independently the same morning.
+
+               She says nothing about the hike she dissented for in July or
+               about what comes next. The genre explains that. Her Friday
+               panel is the real test.
+
+Position relative to committee:
+  The dissent bloc's framework (successive shocks, demand-side inflation,
+  costly delay) is now committee language. The Sept 16 statement deleted the
+  supply-shock clause, and Paulson, the median voter, made the same AI-demand
+  argument today. Hammack no longer has to argue for the framework. The open
+  question is whether she wants a second move and how soon.
+
+Language watch:
+  • "risks tilted to the upside" (inflation) — echoes the Chair's Sept 16
+    press conference ("Inflation risks are to the upside while labor risks
+    are roughly balanced"). Hammack drops the labor half. Stage:
+    COMMITTEE-WIDE on inflation; her omission of labor risk is her own.
+  • "demand side from the boom in capital spending related to AI" — AI capex
+    as a demand shock. Stage: EMERGING (Hammack and Paulson on Sept 24;
+    Goolsbee on Sept 21).
+  • "the shocks arrive one after another" — the successive-shocks critique of
+    look-through. Stage: COMMITTEE-WIDE (Kashkari Jul 31, Barkin, Goolsbee,
+    the Chair on Sept 16).
+  • "inflationary mindset" — Hammack's own recurring phrase since Jun 2.
+    Stage: DISPERSED.
+
+Analyst flag:  YES
+  → (1) Coverage gap: the Aug 27 CNBC interview ("now is the time to act") is
+    unscored because YouTube rate-limited the caption fetch. It is her true
+    pre-FOMC baseline. Recover it and re-check the "risks tilted to the upside"
+    comparison.
+  → (2) Friday Sept 25 policy panel (afternoon, Cleveland, with ECB and Bank
+    of Mexico officials, moderated by Wilcox) is the first chance to hear
+    whether a July dissenter wants a second hike. Check the Cleveland Fed
+    YouTube channel afterward.
+══════════════════════════════════════════════════════════

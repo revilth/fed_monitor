@@ -1,0 +1,284 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+September 24, 2026 | Anna Paulson | Philadelphia Fed President | Just Voter (MEDIAN)
+"Opening Remarks" — 10th Annual Fintech Conference
+Federal Reserve Bank of Philadelphia (hybrid), Philadelphia, PA
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/260924-10th-annual-fintech-conference-speech
+
+CLASSIFICATION: Type B (fintech conference welcome) WITH EMBEDDED ECONOMIC
+  OUTLOOK. The first half of the remarks is a full, prepared outlook section
+  ("The Current Economic Landscape" + "Implications for Monetary Policy")
+  covering all four topics. The fintech questions and speaker introduction
+  carry no policy signal and are not scored. Remarks as prepared for
+  delivery — this is Paulson's first PREPARED text since May 19 and her
+  first communication of any kind since September 16.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the statement;
+                   "timelier return to the Committee's 2 percent goal" added)
+PRE-FOMC BASELINE: August 4, 2026  CNBC "Squawk Box" interview (unscripted,
+                   7 min; scored at data/scored/speeches/20260804_Anna_Paulson_scored.txt)
+                   Last prepared text: May 19, 2026 "Navigating Uncertainty"
+                   (data/scored/speeches/20260519_Anna_Paulson_scored.txt)
+POST-FOMC PRIOR:   N/A — first post-September-16 communication. August 4 serves
+                   as both comparators below.
+
+⚠ FORMAT NOTE: the Aug 4 comparator was an unscripted TV interview; this is a
+  prepared text. Where Aug 4 was silent on a topic because it was not asked,
+  the change below is marked as untested rather than as a shift.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace. While uncertainty remains
+   elevated owing, in part, to geopolitical developments, domestic spending
+   has been resilient. ... capital investment is robust." [Sept 16 stmt]
+  → Paulson: "output growth has been solid, perhaps even strengthening
+    somewhat"; "I see a resilient economy that is showing some signs of
+    increased momentum."
+
+Own language:
+  "Strong business investment, fueled by the artificial intelligence buildout,
+   continues to power the economy." ... "manufacturing strength extends well
+   beyond AI."
+  "real consumption growth accelerated to an annualized rate of 3.4 percent in
+   the second quarter, and the Atlanta Fed's GDPNow model is currently pointing
+   to above 4 percent consumption growth in the third quarter. This momentum
+   ... is likely being bolstered by the stock market. Although I'd note that
+   this is not a boost that is being experienced evenly."
+  → "strengthening" and "increased momentum" go one step past the statement's
+    "solid pace." The consumer is quantified for the first time and is the
+    growth engine, not a risk. The unevenness caveat (wealth-effect spending,
+    footnoted to a JPMorgan Chase Institute study) is a compositional note, not
+    a demand-side worry.
+  → Aug 4 housing-as-evidence-of-restrictiveness line ("very subdued") is
+    ABSENT. No sector is offered as proof the stance is biting.
+
+Shift vs. prior speech (Aug 4):  HAWKISH LEAN — Aug 4 "pretty strong" with a
+  soft Q2 headline set aside; Sept 24 "perhaps even strengthening," with
+  consumption accelerating.
+Shift vs. pre-FOMC (Aug 4):      HAWKISH LEAN — same document.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Sept 16 stmt — unchanged, third statement]
+  → Paulson: "the labor market is holding steady."
+
+Own verdict:
+  "conditions here are stable and seem to have improved a bit."
+  "The unemployment rate ... currently sits at 4.1 percent — a rate consistent
+   with what I consider to be maximum employment."
+  → First time Paulson labels the current rate as maximum employment in her own
+    voice. Matches the Chair's Sept 16 opening statement ("consistent with full
+    employment"), Barr Sept 23 ("solid") and Barkin Sept 22 ("good grades").
+
+Own qualifier / addition:
+  "Since then, hiring has broadened to include a wider range of industries, and
+   over the summer, total job gains averaged a solid 74,000 per month."
+  → Hiring BREADTH is new evidence. It answers the concentration concern
+    (healthcare carrying payrolls) that underpinned the dovish labor case.
+  "Wage growth, though, has been modest, and employers report few pressures to
+   raise wages. These are signs that labor costs are not driving inflation
+   pressures."
+  → Carry-over of the Aug 4 "wage growth ... very consistent with 2% inflation"
+    and the May 19 exculpation of labor. NOT new.
+
+  THE MAY 19 CAVEATS — now tested in a prepared text, and absent:
+    the soft-data divergence, the 1948 anomaly, and the AI layoff flag were
+    marked UNTESTED after Aug 4 because she was not asked. Here she wrote her
+    own labor section and none of them appear.
+  → [Inference: in a prepared text, their absence can now be read as a real
+    drop of the labor downside caveats, not a format artifact. Moderate
+    confidence.]
+
+Shift vs. prior speech (Aug 4):  HAWKISH LEAN — "stable" → "stable and seem to
+  have improved a bit"; maximum-employment verdict added; hiring breadth added.
+Shift vs. pre-FOMC (Aug 4):      HAWKISH LEAN — same document.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated." [Sept 16 stmt — attribution clause deleted]
+  → Paulson: "Inflation, meanwhile, remains stubbornly elevated, and only in
+    part because of those same shocks."
+  → She keeps a partial attribution ("only in part") but inverts its emphasis.
+    Where the July statement said "in part reflecting supply shocks," she now
+    stresses the part that is NOT the shocks. Closer to the Sept 16 deletion
+    than Barr (Sept 23), who restated the full shock list.
+
+Own language — KEY (the underlying-inflation number moved UP):
+  Aug 4:   "When I look at underlying inflation ... I see it somewhere in the
+           range of 2.4, 2.8. Maybe there was a little bit of mild progress
+           over the last several months"
+  Sept 24: "Underlying inflation is running in a range of about 2.5 to 3
+           percent, well above our 2 percent target, and that gap has shown
+           little sign of closing. The best I can say about underlying
+           inflation this year is that it hasn't gotten worse."
+  → Both ends of the range rose: 2.4 → 2.5 and 2.8 → 3.0. Aug 4's "mild
+    progress" is gone and replaced by "little sign of closing." This is the
+    median voter's own decision variable, and it moved against her Aug 4 hold.
+  → [Caution: Aug 4 was spoken and approximate; Sept 24 is a prepared text
+    that cites "many ways to measure." The direction is clear. Do not read
+    the size of the move precisely.]
+
+Own language — AI as an inflation source (switch of sign):
+  "The AI buildout is one factor keeping underlying inflation stubbornly high.
+   While the impact of AI on productivity remains unclear, its effect on prices
+   is not." ... "Import prices for computers and computer accessories are up 24
+   percent over the last 12 months." ... "price pressures from the AI buildout
+   are rippling through the entire electronics supply chain."
+  → On Aug 4 AI capex sat on the not-restrictive-enough side of her ledger as a
+    growth and neutral-rate consideration. Now it is a named DIRECT source of
+    underlying inflation, with a data point and a contact anecdote. This lines
+    up with Hammack's same-day "demand side from the boom in capital spending
+    related to AI" and Goolsbee's AI-adjacent inflation watch.
+
+Look-through doctrine — no longer defended:
+  Aug 4: "I have definitely been of the view that you should look through
+          supply shocks. I think that the June PCE inflation data kind of
+          validate that."
+  Sept 24: no look-through defense. Instead, "Tariff-related price pressures
+          eased, but price pressures from the conflict in the Middle East and
+          the AI buildout grew."
+  → The Aug 4 timing argument ("I would have been too late") does not appear.
+    [Inference: the first majority-side rebuttal of the dissent bloc's doctrine
+    has been dropped by the voter who made it. She does not repudiate it; she
+    simply no longer argues it.]
+
+Shift vs. prior speech (Aug 4):  HAWKISH — underlying range raised, progress
+  claim withdrawn, AI promoted to a direct inflation driver, look-through
+  defense dropped.
+Shift vs. pre-FOMC (Aug 4):      HAWKISH — same document.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Today's policy action will support a timelier return to the Committee's 2
+   percent goal." [Sept 16 stmt]
+  → Paulson: "This recalibration brings policy closer to what I believe is
+    needed to return inflation to 2 percent at a pace that appropriately
+    balances inflation risks with risks to the labor market."
+  → "At a pace" is her rendering of "timelier." She also reuses her own Aug 4
+    word "recalibrating" ("we have to be open to recalibrating monetary
+    policy") — the conditional she named on Aug 4 is now the action she
+    describes.
+
+Own language — the vote, in her own words:
+  "By September, it was clear that inflation risks were growing. Underlying
+   inflation showed little to no progress. ... Against this backdrop, the risk
+   of persistently elevated inflation had increased. That's why I supported
+   raising the federal funds rate by 25 basis points at last week's meeting."
+  → A clean statement of which Aug 4 branch fired. Aug 4: "if we don't see that
+    progress, then we have to be open to recalibrating ... Could be higher
+    rates, could be same rates for longer." Sept 24: no progress, so higher
+    rates.
+
+Own language — the STANCE LABEL is gone:
+  Aug 4: "I think we need policy that's mildly restrictive. And I think policy
+          has been mildly restrictive."
+  Sept 24: "Coming into the summer, I was asking myself whether policy was
+          restrictive enough to deliver 2 percent inflation — or whether a
+          somewhat higher federal funds rate might be needed." ... "were growth
+          and the labor market consistent with some modest monetary policy
+          restrictiveness?" ... "brings policy CLOSER to what I believe is
+          needed."
+  → "Mildly restrictive" — her label in every outlook communication since March
+    6 — does NOT appear. "Closer to what is needed" says, in her own words, that
+    policy before the hike was NOT restrictive enough and is still short of the
+    required setting after it. That is the dissenters' July diagnosis.
+  → She joins Warsh, Goolsbee and Barkin in not stating a stance label. The
+    "mildly restrictive" bloc (Paulson, Collins, Daly, Waller) has lost its
+    anchor member.
+
+Own language — KEY (forward path):
+  "Looking ahead, if conditions evolve as I expect, some modest further
+   tightening may be warranted."
+  → An explicit forward TIGHTENING lean from the median voter, conditional only
+    on her own baseline ("if conditions evolve as I expect"). This is the
+    base case, not a tail scenario. "Modest" bounds the size. It is a stronger
+    path statement than the Chair gave on Sept 16 ("not in the forward guidance
+    business") and parallels Barr Sept 23 ("further policy adjustments are
+    likely to be needed").
+  "returning inflation to 2 percent is non-negotiable, and I will support the
+   policy path that gets us there while carefully weighing risks to the labor
+   market along the way."
+  → "Non-negotiable" is new, strong commitment language from Paulson. The labor
+    clause is a guardrail, not a counterweight.
+
+  Hike signal: PRESENT — base-case, forward-looking ("some modest further
+               tightening may be warranted"). Upgraded from Aug 4's
+               first-person conditional.
+  Cut signal:  ABSENT.
+
+Scenario framing: DESCRIPTIVE — a single baseline ("if conditions evolve as I
+  expect") with no named alternative branch and no specified trigger data.
+
+Shift vs. prior speech (Aug 4):  HAWKISH — conditional option ("could be higher
+  rates") → executed hike plus a base-case lean toward more; "mildly
+  restrictive" dropped; "non-negotiable" added.
+Shift vs. pre-FOMC (Aug 4):      HAWKISH — same document.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — the median voter now leans toward a second hike.
+
+               Paulson explains her September vote as the Aug 4 conditional
+               firing: underlying inflation made "little to no progress," so
+               she chose higher rates over "same rates for longer." Her own
+               underlying estimate rose from 2.4–2.8 to about 2.5–3 percent,
+               and the "mild progress" she saw on Aug 4 is gone. She drops the
+               "mildly restrictive" label she has used since March and says the
+               hike only brings policy "closer to what I believe is needed."
+               Her base case is "some modest further tightening."
+
+               Labor is at maximum employment in her own words. Growth is
+               "perhaps even strengthening." AI is now a direct source of
+               inflation in her account. Nothing in the text argues for
+               patience.
+
+Position relative to committee:
+  Paulson is the third official since the hike to lean toward more tightening,
+  after Barr ("likely") and Barkin ("we'll see," "one talking-to might not be
+  enough"). Goolsbee (Sept 21) left the path open but named no second move. She is the first of the "mildly
+  restrictive" bloc to speak after the hike, and she left it. If the median
+  voter sees a further modest hike as her baseline, the October 28 meeting is
+  live. [Inference: October is live on her words alone. Whether it happens
+  depends on the September and October data against her 2.5–3 range. She
+  names no date.]
+
+Language watch:
+  • "some modest further tightening may be warranted" — base-case path lean
+    from the median voter. Pairs with Barr's "further policy adjustments are
+    likely to be needed" (Sept 23). Stage: EMERGING (two voters in two days).
+  • "brings policy closer to what I believe is needed" — implicit admission
+    that the pre-hike stance was not restrictive enough. Stage: DISPERSED.
+  • "Underlying inflation is running in a range of about 2.5 to 3 percent" —
+    the median voter's number, now higher. Stage: DISPERSED (only Paulson
+    publishes a range).
+  • "its effect on prices is not" (AI) — AI capex as a direct inflation source.
+    Stage: EMERGING (Paulson, Hammack same day; Goolsbee Sept 21).
+  • "non-negotiable" — commitment language. Stage: DISPERSED (first use).
+  • "mildly restrictive" — DROPPED by its anchor user. Watch Collins, Daly and
+    Waller. If they drop it too, the label has left the committee.
+
+Analyst flag:  YES
+  → (1) The median voter has a base-case lean toward "some modest further
+    tightening." Is October 28 now a live meeting? She gives no date and no
+    trigger. The next PCE release is the first data point against
+    her new 2.5–3 range.
+  → (2) The underlying range moved up from 2.4–2.8. Is this the same measure
+    with new data, or a different basket? Aug 4 was spoken and approximate.
+    Worth confirming the direction is not a measurement change.
+  → (3) Her Aug 4 look-through-on-timing defense is not repeated. Does she
+    still hold it for energy while treating AI as a demand shock? The text
+    lists the Middle East conflict alongside AI as sources of growing
+    pressure, which suggests look-through is no longer her operating rule.
+══════════════════════════════════════════════════════════
