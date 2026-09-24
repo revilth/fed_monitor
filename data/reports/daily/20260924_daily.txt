@@ -115,11 +115,11 @@ MONETARY POLICY
 
 NET SIGNAL: HAWKISH LEAN on inflation; no policy signal.
 
-vs. PRIOR SPEECH (Jul 31 dissent):      hawkish lean on inflation (upside
-  risk stated; AI named as the demand source); policy untested.
-vs. PRE-FOMC SPEECH (Jul 31):           same. ⚠ Her Aug 27 CNBC interview is
-  the true pre-FOMC baseline. It is unscored because YouTube rate-limited the
-  caption fetch today. Recover and re-check.
+vs. PRIOR SPEECH (Aug 27, CNBC):        hawkish lean on inflation. Upside risk
+  is now stated and AI named as the demand source; "layered shocks" is
+  carry-over. Policy untested. On Aug 27 she saw "no restriction in policy"
+  and a high neutral, and today she did not say whether one hike fixed that.
+vs. PRE-FOMC SPEECH (Aug 27):           same document.
 vs. COMMITTEE SINCE FOMC:  The dissent bloc's framework is now shared. The
   statement deleted the supply-shock clause, and the median voter made the
   same AI-demand argument this morning. Hammack's open question is the
@@ -161,8 +161,9 @@ ANALYST FLAG: YES
     spoken and approximate. Confirm this is new data, not a new measure.
   → (3) Hammack's Friday panel is the first chance to hear whether a July
     dissenter wants a second hike.
-  → (4) Coverage: Hammack's Aug 27 CNBC interview is still unscored, and
-    Barkin's Economic Club of Washington chat has no transcript yet.
+  → (4) Coverage: Barkin's Economic Club of Washington chat has no
+    transcript yet. Hammack's Aug 27 CNBC interview is now scored and serves
+    as her pre-FOMC baseline.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — TOMORROW: Friday Sept 25 (plus next week's known dates)
@@ -203,9 +204,10 @@ Speeches this date:
 Prior speech / pre-FOMC baseline:
   Paulson Aug 4:    https://www.youtube.com/watch?v=6ah9AdhVgpA
                     data/scored/speeches/20260804_Anna_Paulson_scored.txt
+  Hammack Aug 27:   https://www.youtube.com/watch?v=Z-TAPdCG_gA
+                    data/scored/speeches/20260827_Beth_Hammack_scored.txt
   Hammack Jul 31:   https://www.clevelandfed.org/collections/speeches/2026/sp-20260731-statement-regarding-july-fomc-meeting-vote
                     data/scored/speeches/20260731_Beth_Hammack_scored.txt
-  Hammack Aug 27 (unscored baseline): https://www.youtube.com/watch?v=Z-TAPdCG_gA
 
 Related:
   Reference FOMC:   data/reports/fomc/20260916_statement_diff.txt

@@ -24,14 +24,12 @@ CLASSIFICATION: Type B (research-conference welcome) WITH EMBEDDED ECONOMIC
 REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
                    supply-shock attribution DELETED from the statement;
                    "timelier return to the Committee's 2 percent goal" added)
-PRE-FOMC BASELINE: July 31, 2026  Statement on July FOMC dissent (latest SCORED
-                   document; data/scored/speeches/20260731_Beth_Hammack_scored.txt)
-                   ⚠ COVERAGE GAP: an August 27 CNBC interview ("now is the time
-                   to act," youtube.com/watch?v=Z-TAPdCG_gA) is her true last
-                   pre-FOMC communication. It is not scored. The caption fetch
-                   was rate-limited by YouTube on Sept 24. Comparisons below are
-                   against July 31 and will be re-checked once Aug 27 is scored.
-POST-FOMC PRIOR:   N/A — first post-September-16 communication.
+PRE-FOMC BASELINE: August 27, 2026  CNBC interview, Jackson Hole ("now is the
+                   time to act"; unscripted, clip truncated;
+                   data/scored/speeches/20260827_Beth_Hammack_scored.txt)
+POST-FOMC PRIOR:   N/A — first post-September-16 communication. August 27
+                   serves as both comparators below. July 31 (dissent
+                   statement) is cited where Aug 27 did not cover a topic.
 ──────────────────────────────────────────────────────────
 
 GROWTH
@@ -42,9 +40,9 @@ FOMC statement language echoed:
 
 Own language: none beyond the echo. Growth is a one-clause premise.
 
-Shift vs. prior speech (Jul 31):  UNCHANGED — Jul 31 treated growth as strong
-  enough to restrain; nothing here contradicts it.
-Shift vs. pre-FOMC (Jul 31):      UNCHANGED — same document.
+Shift vs. prior speech (Aug 27):  UNCHANGED — Aug 27 said businesses feel no
+  restraint from rates; nothing here contradicts it.
+Shift vs. pre-FOMC (Aug 27):      UNCHANGED — same document.
 
 ──────────────────────────────────────────────────────────
 LABOR MARKET
@@ -60,8 +58,9 @@ Own verdict:
     employment"; Jun 2: "right around my definition of full employment." NOT a
     shift.
 
-Shift vs. prior speech (Jul 31):  UNCHANGED.
-Shift vs. pre-FOMC (Jul 31):      UNCHANGED.
+Shift vs. prior speech (Aug 27):  UNTESTED — labor was not asked about on
+  Aug 27. Unchanged vs. Jul 31.
+Shift vs. pre-FOMC (Aug 27):      UNTESTED — same document.
 
 ──────────────────────────────────────────────────────────
 INFLATION
@@ -80,9 +79,9 @@ Own language — KEY (risk balance stated, one-sided):
     AND downside risks to growth and employment." Here she names only the
     upside inflation risk and pairs it with "highly uncertain." The one-sided
     balance first seen by omission on Jul 31 is now stated outright.
-    [Caution: "continues to be" signals she sees this as unchanged. The CNBC
-    Aug 27 interview may already have stated it. Confirm before calling it a
-    new formulation.]
+  → Verified against Aug 27: the phrase does not appear in the published
+    clip. The clip is truncated, so treat it as new with that caveat. "Continues
+    to be" signals she regards the view itself as unchanged.
 
 Own language — KEY (AI named as the demand shock):
   "the extended sequence of shocks that we've recently faced from both the
@@ -99,7 +98,10 @@ Own language — the look-through argument:
    shock. ... But when the environment is more prone to shocks or the shocks
    arrive one after another in a period when inflation has been elevated for
    years, there's a greater risk that an inflationary mindset could take hold."
-  → This is the successive-shocks doctrine Kashkari introduced on Jul 31 and
+  → Carry-over in substance from Aug 27: "We have had these layered shocks
+    ... are they going to neatly roll off ... or are there going to be new
+    shocks." Not new. It is also the successive-shocks doctrine Kashkari
+    introduced on Jul 31 and
     the Chair folded into the Sept 16 opening statement ("relative price
     changes ... do not broaden"). Hammack now states it in her own voice. The
     phrase "inflationary mindset" is her own carry-over from Jun 2
@@ -115,10 +117,12 @@ Measurement emphasis (research framing, low weight):
   → Conference welcome material. Read only as a signal of what she watches:
     underlying trend, dispersion of expectations, and firms' price plans.
 
-Shift vs. prior speech (Jul 31):  HAWKISH LEAN — upside risk now stated
-  explicitly; demand-side source named as AI capex; look-through critique
-  stated as doctrine rather than implied.
-Shift vs. pre-FOMC (Jul 31):      HAWKISH LEAN — same document.
+Shift vs. prior speech (Aug 27):  HAWKISH LEAN — upside risk now stated
+  explicitly; demand-side source named as AI capex, which Aug 27 did not
+  mention. The layered-shocks critique is carry-over. Aug 27's concession
+  that measured expectations look anchored is not repeated, but the genre
+  here gave no reason to address it.
+Shift vs. pre-FOMC (Aug 27):      HAWKISH LEAN — same document.
 
 ──────────────────────────────────────────────────────────
 MONETARY POLICY
@@ -144,16 +148,18 @@ Own language:
 
 Scenario framing: NONE.
 
-Shift vs. prior speech (Jul 31):  UNTESTED — Jul 31 was a policy verdict; this
-  is a research welcome with no policy content.
-Shift vs. pre-FOMC (Jul 31):      UNTESTED.
+Shift vs. prior speech (Aug 27):  UNTESTED — Aug 27 said "now is the time to
+  act," "I don't see any restriction in policy," and "put some restraint
+  there." The Committee then hiked. Whether one 25bp move delivers the
+  "restraint" she asked for is not addressed here.
+Shift vs. pre-FOMC (Aug 27):      UNTESTED — same document.
 
 ──────────────────────────────────────────────────────────
 SUMMARY
 ──────────────────────────────────────────────────────────
 Net signal:    HAWKISH LEAN on inflation; no policy signal.
 
-               Hammack's outlook is unchanged in substance from July 31.
+               Hammack's outlook is unchanged in substance from August 27.
                Growth is solid, labor is at her maximum-employment estimate,
                and inflation has been above target for more than five years.
                Two things sharpen. She now states the risk balance outright,
@@ -187,10 +193,10 @@ Language watch:
     Stage: DISPERSED.
 
 Analyst flag:  YES
-  → (1) Coverage gap: the Aug 27 CNBC interview ("now is the time to act") is
-    unscored because YouTube rate-limited the caption fetch. It is her true
-    pre-FOMC baseline. Recover it and re-check the "risks tilted to the upside"
-    comparison.
+  → (1) On Aug 27 she saw "no restriction in policy" with a neutral estimate
+    "towards the higher side" of the committee. Does 3.75–4.00 percent count
+    as restraint in her view, or only as neutral? That decides whether she
+    wants a second move.
   → (2) Friday Sept 25 policy panel (afternoon, Cleveland, with ECB and Bank
     of Mexico officials, moderated by Wilcox) is the first chance to hear
     whether a July dissenter wants a second hike. Check the Cleveland Fed

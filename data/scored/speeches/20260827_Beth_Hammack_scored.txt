@@ -1,0 +1,246 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+August 27, 2026 | Beth M. Hammack | Cleveland Fed President | Just Voter
+"Fed's Hammack says 'now is the time to act' on raising interest rates"
+Interview with Steve Liesman, CNBC, Jackson Hole, Wyoming (clip 4:10)
+SOURCE: https://www.youtube.com/watch?v=Z-TAPdCG_gA
+
+CLASSIFICATION: Type A — Economic Outlook, delivered as an unscripted
+  broadcast interview. Covers inflation, policy stance and neutral in depth.
+  No growth or labor question was asked.
+
+⚠ SOURCE DISCIPLINE: Hammack's own spoken words, from CNBC's published
+  caption track on its YouTube video. The video is the primary communication;
+  no article or wire summary was used. Video-only event with no Cleveland Fed
+  transcript. This is the same sanctioned route used for Paulson's Aug 4 CNBC
+  interview.
+⚠ CLIP TRUNCATION: CNBC's clip ends mid-answer on the neutral-rate question.
+  Anything she said after that point is not in the record. Treat the absence
+  of any topic as weak evidence.
+⚠ INTERVIEW CAVEAT: Liesman chose the topics. Growth and labor were not
+  asked about, so their absence is not a signal.
+
+REFERENCE FOMC:    July 29, 2026 (HOLD 3.50–3.75%; 9–3; Hammack, Kashkari and
+                   Logan dissenting in favor of a 25bp HIKE)
+PRE-FOMC BASELINE: June 2, 2026  "It Takes Two to Make an Economy Go Right"
+                   (data/scored/speeches/20260602_Beth_Hammack_scored.txt)
+POST-FOMC PRIOR:   July 31, 2026  Statement on July FOMC dissent
+                   (data/scored/speeches/20260731_Beth_Hammack_scored.txt)
+
+TIMING: recorded the day before the Chair's Jackson Hole speech (Aug 28) and
+  the day after a July PCE release that she describes as "0.25" month on
+  month. Twenty days before the Sept 16 hike. This is Hammack's last public
+  communication before the September meeting, and so it is her PRE-FOMC
+  BASELINE for the Sept 16 cycle.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none. Growth was not asked about.
+
+Own language (financial conditions, used as the growth read):
+  "when I see talk to market participants in the capital markets, I'm hearing
+   businesses are very happy to go out and borrow. They're very happy to, to,
+   to raise capital. They're not thinking about that as as providing any
+   restraint whatsoever."
+  → Credit demand is her evidence that the rate is not biting. Same argument
+    as Jun 2 ("I mainly hear about plans for business investment, not that
+    credit markets or interest rates are holding companies back"), now with
+    "whatsoever."
+
+Shift vs. prior speech (Jul 31):  HAWKISH LEAN — Jul 31 treated growth only as
+  the thing a hike would restrain. Aug 27 restores the financial-conditions
+  evidence that policy is not restraining it.
+Shift vs. pre-FOMC (Jun 2):       UNCHANGED — the Jun 2 financial-conditions
+  argument, restated more flatly.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed: none. Labor was not asked about.
+
+Own language:
+  Only an aside in the Erie anecdote: "they've got good jobs, and yet they
+  still feel like they can't make ends meet."
+  → Consistent with her standing full-employment read (Jun 2, Jul 31). Not a
+    labor assessment. Do not score as one.
+
+Shift vs. prior speech (Jul 31):  UNTESTED.
+Shift vs. pre-FOMC (Jun 2):       UNTESTED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated relative to the Committee's 2 percent goal, in
+   part reflecting supply shocks that have driven price increases in certain
+   sectors, including energy." [Jul 29 stmt]
+  → Hammack: "we've been in an inflationary situation for more than five
+    years. It's been running well above our target." She does not echo the
+    supply-shock clause. Asked directly whether the shocks "will go away," she
+    answers with persistence.
+
+Own language — the data read:
+  "that PCE number that came in at 0.25 was exactly where our nowcast was
+   projecting it to be ... If you annualize that number, that gets you to
+   about 3% inflation per year."
+  → An in-line print is read as confirmation of roughly 3 percent inflation,
+    not as relief. Contrast Paulson's Aug 4 "mild progress" on underlying
+    inflation.
+
+Own language — KEY (layered shocks and persistence):
+  Liesman: "Did you see something more sinister in that number yesterday?"
+  "I wouldn't use that word. I mean what I would say is that worrisome,
+   persistent. I think what I'm seeing is more persistence in it. We have had
+   these layered shocks, and I think one of the questions is, are they going
+   to neatly roll off and just disappear into the background, or are there
+   going to be new shocks that are going to come on that are going to keep
+   things more persistent?"
+  → "Layered shocks" is her form of Kashkari's Jul 31 successive-shocks
+    doctrine. It is the direct answer to look-through: shocks do not roll off
+    cleanly if new ones keep arriving. Jul 31 made the demand-side argument
+    instead. Aug 27 adds the persistence-of-supply argument, so both exits
+    from look-through are now in her record.
+
+Own language — expectations and "despair":
+  "the real problem with us missing on our inflation objective for so long is
+   the risk that an inflationary mindset starts to set in with the public."
+  → "Inflationary mindset" is carry-over from Jun 2 ("Preventing an
+    inflationary mindset is critical").
+  "If you look at inflation expectations, whether it's market based measures
+   or survey based measures, it does seem like individuals are still focused
+   that we will deliver on that 2%."
+  → She concedes measured expectations are anchored. This is the only
+    reassuring sentence in the interview.
+  Erie, PA worker roundtable: "they were all saying that they're feeling a
+   sense of despair ... One fellow said that he'd always gone to all of his
+   son's football games, and this spring he couldn't do the travel football
+   because the price of gasoline was just so high."
+  "maybe we're starting to get some of that inflationary mindset set in. I
+   don't think we're there yet, but that's what I want to make sure we avoid."
+  → "Despair" is carried over from Jul 31 ("consumers are expressing despair")
+    and now has a concrete source. The anecdote is about energy prices, a
+    supply shock. She uses it as evidence of mindset risk, not as something to
+    look through.
+  → "I don't think we're there yet" bounds the claim. Her case is
+    preventive, not that expectations have already de-anchored.
+
+Shift vs. prior speech (Jul 31):  HAWKISH LEAN — adds persistence of layered
+  supply shocks to the Jul 31 demand-side argument, and reads an in-line PCE
+  print as about 3 percent inflation. Measured expectations conceded as
+  anchored.
+Shift vs. pre-FOMC (Jun 2):       HAWKISH — Jun 2 framed the hike case as
+  conditional on trends; Aug 27 says the persistence is already visible.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee will deliver price stability." [Jul 29 stmt]
+  → Hammack: "am I hearing them still believe that we have our 2% objective
+    and that we're going to deliver on that 2% objective?"
+
+Own language — KEY (the call):
+  "we've got a lot of time before our next meeting. So I don't want to
+   prejudge anything, but I believe now is the time to act."
+  → Jul 31: "Now is the time for the FOMC to act." Verbatim carry-over from
+    her dissent statement, restated three weeks later after one more inflation
+    print. The pre-meeting hedge ("I don't want to prejudge") is formal. The
+    position is unchanged.
+
+Own language — the stance:
+  "I don't see any restriction in policy."
+  "I think it's appropriate for us to put some restraint there to help bring
+   inflation back down to target."
+  → Escalation in the restrictiveness verdict:
+      Jun 2:  "monetary policy may not be sufficiently restrictive"
+      Jul 31: "I did not see the current policy stance as appropriately
+              restrictive"
+      Aug 27: "I don't see ANY restriction in policy"
+    "Not appropriately restrictive" becomes "no restriction at all." That
+    places the July policy rate at or below neutral in her judgment.
+  → "Put SOME restraint there" implies moving from zero restraint into
+    restrictive territory. That is more than one 25bp step from a neutral
+    starting point. [Inference: she does not name a size or path. The words
+    point beyond a single move, but she does not say so.]
+
+Own language — neutral:
+  "I think neutral is one of those things that you know it when you see it.
+   It's more an experiential thing ... My estimate tends to be towards the
+   higher side of of people on the committee in terms of where I think it is."
+  → First time Hammack has placed her neutral estimate relative to the
+    committee. A high neutral estimate is what makes "no restriction" coherent
+    at 3.50–3.75 percent. She names no number, and the clip cuts off before
+    she finishes.
+  → Pairs with Goolsbee's later "Sasquatch" framing of r-star (Sept 21) and the
+    Chair's Sept 16 refusal to use neutral operationally. Hammack reaches the
+    same place by a different route: judge restrictiveness by market feel,
+    not by model estimates.
+
+Cost of delay:
+  "The longer inflation stays above our objective, the harder it will be for
+   us to bring it back down. And the more pain that individuals and
+   businesses are going to be experiencing."
+  → Carry-over from Jul 31 ("more challenging and costly") with "pain" added.
+
+  Hike signal: PRESENT — "now is the time to act," unconditional apart from
+               the formal "I don't want to prejudge."
+  Cut signal:  ABSENT.
+
+Scenario framing: DESCRIPTIVE — the "neatly roll off ... or new shocks"
+  question describes a risk without naming a policy response for each branch.
+
+Shift vs. prior speech (Jul 31):  HAWKISH — the same call to act, with the
+  restrictiveness verdict hardened from "not appropriately restrictive" to
+  "no restriction," and a high neutral estimate disclosed.
+Shift vs. pre-FOMC (Jun 2):       HAWKISH — conditional "may soon be
+  appropriate" has become "now is the time."
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — confirmation of the July dissent, with the stance
+               verdict hardened.
+
+               Three weeks after dissenting for a hike, Hammack repeats her
+               July 31 line word for word: "now is the time to act." She
+               reads the July PCE print as about 3 percent inflation. The new
+               material is the stance. "Not appropriately restrictive" on July
+               31 becomes "I don't see any restriction in policy." She
+               discloses that her neutral estimate is on the high side of the
+               committee, which is what makes that verdict coherent. She adds
+               a persistence argument, "layered shocks" that may not "neatly
+               roll off," to her July demand-side case.
+
+               The one reassuring note is that measured inflation expectations
+               still look anchored ("I don't think we're there yet"). Her case
+               is to prevent an inflationary mindset, not to reverse one.
+
+Position relative to committee:
+  Hammack's call was confirmed twenty days later, when the Committee hiked
+  12–0. Her "no restriction" verdict matches the Chair's Sept 16 position
+  that the hike "removed a dose of accommodation." That puts the pre-hike
+  rate below neutral, as she had argued. Her "layered shocks" framing sits
+  alongside Kashkari's successive shocks and later appears in her own Sept 24
+  remarks ("the shocks arrive one after another").
+
+Language watch:
+  • "I don't see any restriction in policy" — stance at or below neutral.
+    Stage: COMMITTEE-WIDE by Sept 16 (Chair: "removed a dose of
+    accommodation").
+  • "layered shocks" — persistence of successive supply shocks. Stage:
+    EMERGING (Kashkari Jul 31; Hammack Aug 27 and Sept 24; Barkin; Goolsbee
+    Sept 21).
+  • "towards the higher side ... on the committee" (neutral) — Hammack's
+    first relative placement. Stage: DISPERSED.
+  • "now is the time to act" — carry-over from Jul 31. Resolved by the Sept 16
+    hike.
+
+Analyst flag:  YES
+  → (1) "Put some restraint there" starts from "no restriction." Does she
+    think one 25bp move got policy into restrictive territory, or only to
+    neutral? Her Sept 25 panel is the first chance to ask.
+  → (2) The clip cuts off mid-answer on neutral. CNBC may have aired a longer
+    version. The full answer could contain a number.
+══════════════════════════════════════════════════════════
