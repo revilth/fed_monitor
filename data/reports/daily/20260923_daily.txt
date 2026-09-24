@@ -1,0 +1,170 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 23, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
+  July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Michael S. Barr  |  Governor  |  Just Voter
+     "A Long-Term View on the Costs of Shelter"
+     Housing Affordability 2026: A Community Development Summit
+     Federal Reserve Bank of Chicago, Chicago, Illinois
+     Type B with embedded outlook — SCORED.
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm
+
+  NOT COLLECTED (expected per Sept 22 report):
+  — Christopher J. Waller  |  Governor  |  Just Voter
+    Inflation / economic outlook remarks (event to confirm). No raw
+    transcript received from the 5:30am collect run; action item.
+  — Beth Hammack  |  Cleveland Fed President  |  Just Voter
+    Opening remarks (event to confirm). No raw transcript received;
+    action item.
+  — Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+    Second appearance of the week (event to confirm). No raw transcript
+    received; action item. His Sept 30 NORC speech page currently
+    points to the Sept 21 OMFIF event — may be a stub; verify.
+
+  NOTE: The 5:30am collect run yielded only the Barr speech. If Waller,
+  Hammack, or Goolsbee spoke on Sept 23 and transcripts are now available,
+  run `python3 main.py refetch` from a non-blocked IP and supplement this
+  report. Waller in particular is the highest-priority outstanding signal
+  (his Sept 3 August-data trigger has not been confirmed post-hike in his
+  own words).
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  MICHAEL S. BARR  |  Governor  |  Just Voter
+    Type B with embedded outlook — first post-hike Barr communication
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Economic growth is strong" — one step past the statement's "solid
+  pace" and a further upgrade from his own Sept 1 "growing solidly."
+  No qualifier attached (Sept 1 had consumer spending "largely
+  resilient"; here the claim is unhedged). AI-investment context echoed
+  from Sept 1 but not restated here, likely due to the briefer embedded
+  format. Growth is presented as a reason to focus on inflation, not a
+  reason to hold.
+  Direction: hawkish lean
+
+LABOR MARKET
+  "the labor market is solid" — upgraded from Sept 1's "stable."
+  Three consecutive upgrades in Barr's labor arc: March 26 ("stable but
+  vulnerable to shocks") → Sept 1 ("stable, no qualifier") → Sept 23
+  ("solid"). Matches Warsh's post-hike framing ("consistent with full
+  employment") and Barkin's Sept 22 ("good grades"). No data cited; the
+  brevity is consistent with a short embedded section.
+  Direction: hawkish lean
+
+INFLATION
+  "inflation is above our 2 percent target and not clearly trending
+  toward target in a timely way" — the "timelier" rationale from the
+  September 16 statement, rendered in negative form (not trending
+  timeward). Explicit risk-asymmetry claim: "risks to achieving our
+  inflation target have increased, while risks to the labor market have
+  receded." Duration language ("for over five years") absent, probably
+  due to the shorter format.
+  ⚠ ATTRIBUTION DIVERGENCE: Barr retains his shock-attribution framing
+  ("tariffs, the conflict in the Middle East ... surge in investment
+  demand to support AI buildout") even though the September 16 statement
+  DELETED the supply-shock attribution clause that had been present in
+  every prior statement since at least June 2025. This is the first
+  documented divergence from the committee's updated language. Williams
+  has also consistently defended attribution (see CALIBRATION.md); a
+  two-governor attribution bloc (Barr + Williams) persisting inside a
+  committee that officially dropped it is an analytical flag.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  "The FOMC took important action to that end last week by increasing
+  the policy rate, which I supported." — explicit personal endorsement,
+  first person. Rationale: "We needed to recalibrate monetary policy to
+  reflect the balance of risks" and "we were out of position." Path:
+  "In my base case, further policy adjustments are likely to be needed
+  to ensure inflation comes down to target in a timely fashion." This
+  is a meaningful forward signal — the base case is further tightening.
+  Cut signal: absent. Hike signal: BASE-CASE, further moves likely.
+  Direction: hawkish
+
+NET SIGNAL: HAWKISH LEAN — post-hike endorsement in the first person,
+  the conditional of Sept 1 resolved to the hike branch, and the base
+  case calls for further adjustments. Three sequential upgrades on
+  growth and labor remove the last cushioning language from his 2026 arc.
+
+vs. PRIOR SPEECH (Sept 1, 2026):  HAWKISH — Sept 1's two-branch
+  conditional is resolved (hike branch triggered); base case now "further
+  adjustments likely needed"; growth upgraded to "strong"; labor upgraded
+  to "solid." The risk balance that was implicit on Sept 1 ("act
+  decisively" conditional) is now explicit ("risks to inflation have
+  increased, risks to labor have receded").
+vs. PRE-FOMC SPEECH (Sept 1, 2026): same document — HAWKISH.
+vs. COMMITTEE SINCE FOMC:  Barr is the third official to speak on the
+  economy after the hike (Goolsbee Sept 21, Barkin Sept 22, Barr Sept 23).
+  All three endorse the hike and signal the path is open with a lean toward
+  more. The "mildly restrictive" bloc (Paulson, Collins, Daly, Waller pre-
+  Sept 3) has not yet publicly updated post-hike. The Board is now 1-for-1
+  post-hike (Barr; Jefferson and Williams were not-scored Sept 22).
+
+LANGUAGE TO WATCH:
+  • "further policy adjustments are likely to be needed" — base-case
+    forward lean from a majority voter, one week post-hike. Stage:
+    DISPERSED. Watch Waller, Cook, and Jefferson for adoption.
+  • "we were out of position ... made an adjustment in the right
+    direction" — pairs with Warsh's "removed a dose of accommodation."
+    Stage: DISPERSED.
+  • "not clearly trending toward target in a timely way" — the "timelier"
+    rationale rendered in negative pre-hike form; echoes the statement's
+    purpose clause. Stage: NEW.
+  • Supply-shock attribution retained vs. statement deletion — potentially
+    ORPHANED language (statement deleted it, Barr and Williams retain it).
+    Stage: DIVERGENT.
+
+ANALYST FLAG: YES
+  → (1) Supply-shock attribution: Barr's framing attributes inflation to
+    a "series of shocks — from tariffs and then the conflict in the Middle
+    East ... and ... the rapid AI buildout." The September 16 statement
+    DELETED this attribution clause. Williams has defended attribution in
+    both Type J interviews. Does the Barr / Williams attribution position
+    imply a different path inference (supply shocks eventually dissipate →
+    patience warranted), or are both officials endorsing further hikes
+    despite the attribution (as the text says)? Analyst: verify the Barr
+    logic chain.
+  → (2) Waller, Hammack, Goolsbee: no transcripts collected for Sept 23.
+    Waller is the highest priority — his Sept 3 August-trigger language
+    needs a post-hike update. Recover via refetch or direct WebFetch.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday September 25
+────────────────────────────────────────────────────────────────
+  (calendar lookup unavailable this run — Fed Board events page and all
+  regional bank pages blocked by egress proxy)
+
+  Known scheduled appearances not yet covered:
+  — Sept 29: Goolsbee, "The Economy Ahead: A Luncheon with the Chicago
+    Fed," Illinois Manufacturers' Association, Champaign IL (noon CT
+    livestream). Raw stub collected at
+    data/raw/speeches/2026/Austan_Goolsbee/20260929_The_Economy_Ahead__
+    A_Luncheon_with_the_Chicago_Fed.txt — transcript pending.
+  — Sept 30: Goolsbee, "Why Consumers and Economists See Different
+    Economies," NORC. Raw stub collected; transcript pending.
+  — ~Oct 7: Minutes of Sept 15–16 FOMC meeting expected.
+  — Oct 27–28: Next FOMC (no SEP).
+  — Oct 17: Next blackout begins.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Barr Sept 23:  https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm
+                 data/scored/speeches/20260923_Michael_S__Barr_scored.txt
+
+Prior speech / pre-FOMC baseline:
+  Barr Sept 1:   https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm
+                 data/scored/speeches/20260901_Michael_S__Barr_scored.txt
+
+Related:
+  Reference FOMC: data/reports/fomc/20260916_statement_diff.txt
+                  data/scored/sep/20260916_SEP_scored.txt
+                  data/reports/fomc/20260916_pressconf.txt
+  Goolsbee Sept 21: data/scored/speeches/20260921_Austan_Goolsbee_scored.txt
+  Barkin Sept 22:   data/scored/speeches/20260922_Tom_Barkin_scored.txt
+════════════════════════════════════════════════════════════════

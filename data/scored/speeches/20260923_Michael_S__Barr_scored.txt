@@ -1,0 +1,207 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+September 23, 2026 | Michael S. Barr | Governor | Just Voter
+"A Long-Term View on the Costs of Shelter"
+Housing Affordability 2026: A Community Development Summit,
+Federal Reserve Bank of Chicago, Chicago, Illinois
+SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm
+
+CLASSIFICATION: Type B (housing policy, structural supply constraints, CRA/LIHTC)
+  WITH EMBEDDED ECONOMIC OUTLOOK. The outlook is a dedicated "The Economic
+  Outlook" subsection at the top of the speech — three paragraphs covering shock
+  attribution, growth/labor/inflation, the hike rationale, and a path signal.
+  The remainder (shelter costs, supply factors, CRA, LIHTC) carries no monetary
+  policy signal and is not scored. This is Barr's first post-September-16
+  communication.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the statement;
+                   "timelier return to 2 percent goal" added)
+PRE-FOMC BASELINE: September 1, 2026  "Unlocking Opportunities for Workers and
+                   Entrepreneurs with a Criminal Record," Second-Chance Lending
+                   Forum, Washington, D.C.
+                   data/scored/speeches/20260901_Michael_S__Barr_scored.txt
+POST-FOMC PRIOR:   N/A — first post-September-16 speech by Barr.
+                   September 1 serves as both comparators below.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace ... Productivity growth and
+   capital investment are strong." [Sep 16 stmt]
+  → Barr: "Economic growth is strong and the labor market is solid..."
+  → Paraphrases the statement's activity characterization, but substitutes
+    "strong" for "solid" on growth — a step up the intensity scale.
+
+Own language:
+  "Economic growth is strong" — "strong" not "solid"; the statement uses
+  "solid pace." Barr's word is the more emphatic. No qualifier ("to date,"
+  "largely," "resilient") attached to growth itself.
+
+Shift vs. prior speech (Sep 1):  HAWKISH LEAN — Sep 1: "growing solidly" with
+  consumer spending "largely resilient." Sep 23: "strong" with no qualifier.
+  Intensity upgrade from "solidly" to "strong."
+Shift vs. pre-FOMC (Sep 1):      Same comparison — hawkish lean.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Sep 16 stmt — labor sentence UNCHANGED for the third
+   consecutive statement]
+  → Barr: "the labor market is solid"
+  → One clause; no mechanism stated. "Solid" is Barr's own word, not a verbatim
+    echo of the statement's "kept pace" construction.
+
+Own verdict:
+  "the labor market is solid" — a single-clause characterization, brevity
+  matches the Sep 1 brevity ("stable, with relatively low unemployment"), but
+  the adjective is now stronger.
+
+Upgrade from Sep 1: "stable" → "solid." The Sep 1 score noted that the
+  vulnerability qualifier ("vulnerable to shocks," Mar 26) had already been
+  removed. The progression is: Mar 26 (stable but vulnerable) → Sep 1 (stable,
+  no qualifier) → Sep 23 (solid). Three documents, three sequential upgrades.
+
+Shift vs. prior speech (Sep 1):  HAWKISH LEAN — "stable" upgraded to "solid."
+Shift vs. pre-FOMC (Sep 1):      Same comparison — hawkish lean.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated. Today's policy action will support a timelier
+   return to the Committee's 2 percent goal." [Sep 16 stmt — the supply-shock
+   attribution clause was DELETED at this meeting]
+  → Barr: "inflation is above our 2 percent target and not clearly trending
+    toward target in a timely way."
+  → Echoes the "timelier" frame from the statement's purpose clause ("timelier
+    return to the Committee's 2 percent goal"). "Not clearly trending toward
+    target in a timely way" is the reason given for the hike.
+
+  ⚠ ATTRIBUTION DIVERGENCE: Barr retains supply-shock attribution language even
+    though the September 16 statement DELETED the attribution clause:
+    "Our economy has experienced a series of shocks over the past year and half:
+     the imposition of tariffs, the conflict in the Middle East and continued
+     disruptions from Russia's war on Ukraine, and, more recently, a surge in
+     investment demand to support the artificial intelligence (AI) buildout.
+     These shocks have contributed to upward price pressures."
+    The committee REMOVED the attribution clause from the statement language at
+    the September 16 meeting (the July 29 statement had "in part reflecting
+    supply shocks ... including energy"). Barr is still running his own
+    attribution framing independent of the updated committee language. This is
+    the first post-meeting speech to exhibit this divergence. Compare to
+    Williams's attribution position (CALIBRATION.md: Williams defends attribution;
+    watch for his first post-meeting speech).
+
+Own language — KEY:
+  "inflation is above our 2 percent target and not clearly trending toward
+   target in a timely way" — level AND trend both named as problems.
+  "Moreover, risks to achieving our inflation target have increased, while
+   risks to the labor market have receded." — explicit risk asymmetry statement.
+   The balance-of-risks framing ("increased" on inflation / "receded" on labor)
+   is the post-hike rationale stated in Barr's own terms.
+  Duration language: ABSENT. Sep 1 carried "for over five years"; dropped here,
+  possibly due to the shorter embedded section format.
+
+Shift vs. prior speech (Sep 1):  HAWKISH LEAN — the conditional resolved to
+  hike (the "moderating sufficiently" trigger was not met); explicit risk
+  asymmetry ("risks to achieving our inflation target have increased") added.
+  Duration language dropped but the core inflation characterization unchanged.
+Shift vs. pre-FOMC (Sep 1):      Same comparison — hawkish lean.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee ... decided to raise the target range for the federal funds
+   rate to 3-3/4 to 4 percent." [Sep 16 stmt]
+  → Barr: "The FOMC took important action to that end last week by increasing
+    the policy rate, which I supported."
+  → Endorses the September hike explicitly in the first person. "Important
+    action" is Barr's evaluation, not statement language.
+
+Own language — KEY:
+  "We needed to recalibrate monetary policy to reflect the balance of risks to
+   our mandate goals." — rationale for the hike.
+  "In my view, given changes to the economy, we were out of position, and we
+   made an adjustment in the right direction." — "out of position" is a stance
+   admission; "right direction" is forward-looking (implicitly: more moves may
+   be needed to correct the position).
+  "In my base case, further policy adjustments are likely to be needed to
+   ensure inflation comes down to target in a timely fashion." — KEY SIGNAL.
+   "In my base case" qualifies the certainty; "likely" preserves optionality;
+   but the directional claim is clear: more moves in the base case.
+  "We want to support sustainable, durable growth in support of maximum
+   employment, and price stability is crucial to that." — standard dual-mandate
+   close; "price stability is crucial" echoes the statement's "will deliver
+   price stability."
+
+Cut signal status: ABSENT.
+Hike signal status: PRESENT — base-case "further policy adjustments are likely
+  to be needed." More than the Sep 1 conditional (which was still pre-hike and
+  two-branched); this signals the base case is additional tightening.
+
+Shift vs. prior speech (Sep 1):  HAWKISH — Sep 1's two-branch conditional
+  (hold if moderating, hike if not) resolved to the hike branch. Now the base
+  case calls for "further policy adjustments." Sep 1: "act decisively to raise
+  rates" as a conditional. Sep 23: hike endorsed and further moves in base case.
+Shift vs. pre-FOMC (Sep 1):      Same comparison — hawkish.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN
+               Barr's first post-hike communication endorses the September 16
+               increase in the first person ("which I supported"), characterizes
+               the committee as "out of position" before it, and signals
+               "further policy adjustments are likely to be needed" as his base
+               case. Sequential upgrades on growth ("solidly" → "strong") and
+               labor ("stable" → "solid") remove the last remaining cushioning
+               language from his March–September arc. The inflation section
+               adds an explicit risk-asymmetry statement (risks to inflation
+               target "increased" / risks to labor "receded") that was not in
+               the Sep 1 conditional framing.
+
+               The embedded section is brief (three paragraphs), which limits
+               the analytical granularity compared to Sep 1, but the directional
+               read is unambiguous: Barr voted for the hike, explains it as a
+               recalibration from "out of position," and his base case calls for
+               more.
+
+Language watch:
+  • "further policy adjustments are likely to be needed" — base-case forward
+    lean from a majority voter. Stage: DISPERSED. Watch Waller, Cook, and
+    Jefferson for adoption or pushback.
+  • "out of position ... made an adjustment in the right direction" — implies
+    policy was insufficient pre-hike; pairs with Warsh's "removed a dose of
+    accommodation." Stage: DISPERSED.
+  • "not clearly trending toward target in a timely way" — echoes the
+    statement's "timelier return" rationale; Barr's negative formulation
+    ("not clearly trending") is the pre-hike condition stated from the post-hike
+    vantage. Stage: NEW; watch for spread.
+  • "risks to achieving our inflation target have increased, while risks to the
+    labor market have receded" — explicit mandate-asymmetry framing. Stage:
+    DISPERSED. Not yet in statement language.
+  ⚠ Supply-shock attribution retained despite statement deletion — a potential
+    divergence from committee language evolution. Stage: POTENTIALLY ORPHANED
+    (the statement deleted it; Barr still runs it). Track at next Barr
+    appearance and against Williams's post-meeting speech.
+
+Analyst flag:  YES
+  → Barr retains supply-shock attribution ("tariffs, the conflict in the Middle
+    East ... surge in investment demand to support AI buildout") even though the
+    September 16 statement DELETED the attribution clause. Is this a
+    slower-updating personal framing, or does Barr substantively disagree with
+    the committee's decision to drop the attribution? Williams has also
+    consistently defended attribution (CALIBRATION.md); this could be a
+    two-governor attribution bloc persisting inside a committee that officially
+    dropped it. Analyst: check whether the attribution language affects Barr's
+    path for further moves — does it imply the supply shocks are temporary and
+    policy should wait, or is he still calling for further action despite the
+    attribution (which is what the text says: "further policy adjustments are
+    likely to be needed" despite the attribution framing)?
+══════════════════════════════════════════════════════════
