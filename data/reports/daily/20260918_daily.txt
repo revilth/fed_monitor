@@ -16,18 +16,24 @@ SPEECHES TODAY
      Luncheon of the Lord Mayor City of London at Mansion House, London, UK
      STATUS: NOT SCORED — Type B (regulatory/supervisory); no embedded economic outlook
      SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm
+
+  3. Jeffrey R. Schmid  |  Kansas City Fed President  |  Non Voter
+     "The Strategic Imperative of Instant Payments for Community Banks"
+     Independent Community Bankers of Colorado 53rd Annual Convention, Vail, Colorado
+     STATUS: SCORED — Type B (payments) with embedded Economic Outlook section
+     SOURCE: https://www.kansascityfed.org/speeches/the-strategic-imperative-of-instant-payments-for-community-banks/
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-NOTE — FIRST POST-FOMC COMMUNICATIONS (September 18, 2026)
+1–2.  BOWMAN  |  Vice Chair for Supervision  |  Just Voter
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 September 18 is the first day the blackout period has lifted (blackout ran
-September 5–17, 2026). Bowman's two London speeches are the FIRST post-FOMC
-public appearances by any Fed official following the September 16, 2026 +25bp
-hike. Both are purely regulatory and supervisory in content — no monetary policy
+September 5–17, 2026). Bowman's two London speeches are the first post-FOMC
+public appearances by a voter following the September 16, 2026 +25bp hike.
+Both are purely regulatory and supervisory in content — no monetary policy
 signals or economic outlook language are present in either speech. No scoring
-output is produced.
+output is produced for them.
 
 SPEECH 1 — "Initial Findings from Independent Review of Silicon Valley Bank"
 Classification: Type B — supervisory reform announcement.
@@ -54,9 +60,9 @@ Content: Previewed the upcoming final rules on enhanced transparency and public
 Policy signal: none. Regulatory significance: high (completes the stress-testing
   modernization program Bowman began on confirmation as VCS).
 
-NET SIGNAL (September 18): No monetary policy content from any official.
-  First post-FOMC day used by Bowman for regulatory announcements from a
-  pre-planned London engagement. No economic outlook signals to score.
+NET SIGNAL (Bowman): No monetary policy content. First post-FOMC day used by
+  Bowman for regulatory announcements from a pre-planned London engagement.
+  No economic outlook signals to score.
 
 LANGUAGE TO WATCH (regulatory track, not policy):
   • "Culture of risk aversion" — SVB diagnostic that Bowman is applying to
@@ -68,6 +74,82 @@ LANGUAGE TO WATCH (regulatory track, not policy):
 ANALYST FLAG: NO — no policy content. Monitor for Bowman economic outlook
   speech in the coming week (no such appearance currently confirmed in London;
   her last economic outlook remarks were January 16, 2026).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3.  JEFFREY R. SCHMID  |  Kansas City Fed President  |  Non Voter
+    Type B (payments) with embedded outlook — first post-hike endorsement
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Overall economic growth is solid, supported by continued consumer spending
+  and strong business investment" — a close paraphrase of the statement's
+  "solid pace" and "domestic spending has been resilient." "Growth resilient"
+  is his own word since July 16. The Aug 27 AI/data-center crowding-out
+  argument is not in this short outlook preface.
+  Direction: neutral
+
+LABOR MARKET
+  "The labor market appears to be in balance. The unemployment rate, at 4.1
+  percent, is in the range of what most observers would consider to be full
+  employment." "Full employment" is new for Schmid — Aug 4 used "roughly in
+  balance ... neither too tight nor too loose" — and matches the Chair's Sep
+  16 opening statement ("consistent with full employment"). Slow job growth
+  is "not unexpected given the aging of the workforce and an increase in the
+  number of retirements" (Aug 4 cited "a labor force that is barely growing").
+  Direction: hawkish lean (small)
+
+INFLATION
+  Inflation "has remained too high for too long," above 2 percent "for over
+  five years now," with recent readings "trending above 3 percent." The core
+  argument carries over nearly verbatim from Aug 4: "our inflation problem is
+  not just about energy ... a broad range of goods and services are showing
+  price growth inconsistent with our price stability target," and "the Fed,
+  through its influence on demand, always has a role to play when it comes to
+  keeping inflation in check." The statement's deletion of the supply-shock
+  clause moved the committee toward the position he has argued since July.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  "On Wednesday the Federal Open Market Committee voted to raise the policy
+  interest rate and to tighten the stance of monetary policy. I supported this
+  decision." Citing Warsh's Jackson Hole remarks: "the Fed has work to do on
+  inflation and this week's action was a step in that direction." Inflation is
+  his "primary concern as I think about the correct course for monetary
+  policy." No stance label for the new range: his Aug 4 "I do not see the
+  current stance of monetary policy as restrictive" and Aug 27 "fairly
+  accommodative" are neither restated nor withdrawn. No path and no condition.
+  [Inference: "a step" implies he sees the job as incomplete.]
+  Direction: hawkish lean
+
+NET SIGNAL: HAWKISH LEAN — first-person endorsement of the hike as "a step";
+  confirmation of his August position rather than an escalation.
+
+vs. PRIOR SPEECH (Aug 27, Bloomberg Odd Lots interview): unchanged — "We
+  haven't done our job yet on inflation" → "the Fed has work to do on
+  inflation"; "fairly accommodative" is not repeated for the post-hike rate.
+vs. PRE-FOMC SPEECH (Aug 27; last scripted outlook Aug 4): unchanged — Aug 4
+  "will require tighter policy" was delivered; inflation and supply/demand
+  language carried over nearly verbatim; labor label firmed to "full
+  employment."
+vs. COMMITTEE SINCE FOMC: the earliest participant to endorse the hike on
+  record; aligned with the new statement's removal of the supply-shock
+  attribution and with the Chair's breadth framing, and against Williams's
+  attribution framework. Non Voter in 2026; votes in 2027.
+
+LANGUAGE TO WATCH:
+  • "not just about energy" — third consecutive scripted use (Jul 16, Aug 4,
+    Sep 18); in-statement in substance after the Sep 16 deletion.
+  • "full employment" as the labor label — Schmid and the Chair's opening
+    statement; emerging.
+  • "a step in that direction" — hike as first installment; dispersed.
+
+ANALYST FLAG: YES — does Schmid still see 3.75–4.00% as accommodative? "A
+  step in that direction" reads as incomplete but is not a stated path. Probe
+  his next outlook appearance for a stance label.
+
+CROSS-SPEAKER NOTE: Bowman, the day's only voter to speak, gave no policy
+  content; the day's only policy signal is the Non Voter Schmid's endorsement
+  of the hike.
 
 ════════════════════════════════════════════════════════════════
 UPCOMING — TOMORROW: Sunday Sep 20
@@ -121,6 +203,11 @@ SOURCES
 Speeches this date (September 18, 2026):
   Bowman (SVB review):    https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm
   Bowman (stress tests):  https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm
+  Schmid (payments/outlook): https://www.kansascityfed.org/speeches/the-strategic-imperative-of-instant-payments-for-community-banks/
+
+Prior speech / pre-FOMC baseline (vs. PRIOR / PRE-FOMC SPEECH):
+  Schmid Aug 27 (Odd Lots, Type J): https://www.youtube.com/watch?v=jTojmtz0mB0
+  Schmid Aug 4 (last scripted outlook): https://www.kansascityfed.org/speeches/agriculture-the-economy-and-the-kansas-city-fed-august-2026/
 
 Upcoming reference:
   Goolsbee Sep 21 (OMFIF):  https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif

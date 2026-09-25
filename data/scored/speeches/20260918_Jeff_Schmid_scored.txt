@@ -1,0 +1,273 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+September 18, 2026 | Jeffrey R. Schmid | President, Federal Reserve Bank of
+Kansas City | Non Voter (2026; Kansas City rotates on in 2027)
+"The Strategic Imperative of Instant Payments for Community Banks"
+Independent Community Bankers of Colorado 53rd Annual Convention, Vail, Colorado
+SOURCE: https://www.kansascityfed.org/speeches/the-strategic-imperative-of-instant-payments-for-community-banks/
+
+CLASSIFICATION: Type B (payments — FedNow adoption, instant payments for
+  community banks) WITH EMBEDDED ECONOMIC OUTLOOK. The outlook is a dedicated
+  "Economic Outlook" section at the top of the speech (five paragraphs: the
+  hike, inflation, supply vs. demand, labor, growth). The remainder (Jackson
+  Hole reflections, FedNow safety/adoption, community-bank strategy) carries no
+  monetary policy signal and is not scored. Prepared text, official site.
+  This is Schmid's first communication after the September 16 hike, and — two
+  days after the decision — the earliest on-record post-meeting endorsement of
+  the hike by any participant in this corpus.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the statement;
+                   "timelier return to the Committee's 2 percent goal" added)
+PRE-FOMC BASELINE: August 27, 2026  Bloomberg "Odd Lots" interview, Jackson
+                   Hole (Type J; ASR transcript — wording caveats apply)
+                   data/scored/interviews/20260827_Jeffrey_Schmid_scored.txt
+                   This is also his immediately prior communication.
+                   Last PREPARED outlook text before the meeting: August 4,
+                   2026 "Agriculture, the Economy, and the Kansas City Fed,"
+                   Agricultural Economic Summit, Omaha (outlook section
+                   "The Economic Outlook and Monetary Policy"). Because the
+                   Aug 27 topic coverage was interviewer-driven, Aug 4 is used
+                   as a second, like-for-like (scripted vs. scripted)
+                   comparator throughout. July 16 Grand Island outlook speech
+                   consulted for the trajectory.
+POST-FOMC PRIOR:   N/A — first post-September-16 communication by Schmid.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace. While uncertainty remains
+   elevated owing, in part, to geopolitical developments, domestic spending
+   has been resilient. Productivity growth is strong, and capital investment
+   is robust." [Sep 16 stmt]
+  → Speaker version: "Overall economic growth is solid, supported by continued
+    consumer spending and strong business investment."
+  → A close paraphrase: "solid" (statement's word), consumer spending as
+    support (statement's "domestic spending"), investment "strong" (the July 29
+    statement's word; September upgraded it to "robust"). Consensus echo.
+
+Own language:
+  "Outside of inflation, the economy is performing well." ... "growth
+   resilient" — "resilience" has been his own growth word since July 16
+   ("Lately, the word I hear most regularly is 'resilience'") and Aug 4.
+  No growth-composition content: the AI/data-center crowding-out argument he
+  made on Aug 27 ("think about the machinery industry, steel, copper") is not
+  in this text. [Inference: a five-paragraph outlook preface at a payments
+  talk; read the omission as compression, not retreat.]
+
+Shift vs. prior speech:   unchanged — Aug 27 "the economy is moving along
+  nicely ... it's growing" / "pretty optimistic about the durability" →
+  "Overall economic growth is solid." Same verdict.
+Shift vs. pre-FOMC:       unchanged — Aug 4 "underlying consumption and
+  investment remained very strong" → "continued consumer spending and strong
+  business investment." Consumption loses its intensity adjective ("very
+  strong" → "continued"); too thin to read as a directional change.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little." [Sep 16 stmt]
+  → Speaker version: "While the pace of job growth over the past year has been
+    slow, this is not unexpected given the aging of the workforce and an
+    increase in the number of retirements."
+  Press conference opening statement [Sep 16]: "Unemployment claims ... are
+   running at levels consistent with full employment. So, the labor side of
+   the Fed's congressional remit is in good shape."
+  → Speaker version: "The unemployment rate, at 4.1 percent, is in the range of
+    what most observers would consider to be full employment."
+
+Own verdict:
+  "The labor market appears to be in balance." — mandate met on the employment
+  side.
+
+Own qualifier / addition:
+  "in the range of what most observers would consider to be full employment"
+  — the first time in the scored/raw Schmid record that he labels the labor
+  market "full employment." Aug 4 and Jul 16 used a neutrality formula
+  instead: "about in line with what most economists estimate is consistent
+  with a labor market that is neither too tight nor too loose." The new label
+  matches the Chair's Sep 16 opening statement ("consistent with full
+  employment"). Hawkish-leaning: it states the employment mandate as
+  achieved, not merely balanced.
+  "roughly" dropped: Aug 4 "The labor market also appears to be roughly in
+  balance" → "The labor market appears to be in balance."
+  Slow-payroll explanation re-sourced: Aug 4 "a labor force that is barely
+  growing" (Jul 16 also cited "a sharp fall-off in immigration") → "the aging
+  of the workforce and an increase in the number of retirements." Immigration
+  no longer named; the retirement mechanism is the one he gave on Aug 27
+  ("we're retiring at about 4 million people per year ... I'm signing more
+  retirement letters").
+
+Shift vs. prior speech:   unchanged-to-hawkish lean — Aug 27 "the labor force
+  is in a pretty good place" → "in balance ... full employment"; same verdict,
+  firmer label.
+Shift vs. pre-FOMC:       hawkish lean (small) — Aug 4 "roughly in balance ...
+  neither too tight nor too loose" → "in balance ... full employment";
+  unemployment 4.2% → 4.1%.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated. Today's policy action will support a timelier
+   return to the Committee's 2 percent goal." [Sep 16 stmt]
+  Opening statement [Sep 16]: "for more than five years, inflation has been
+   running above target ... The plain fact is that inflation is too high and
+   has been for too long."
+  → Speaker version: "the FOMC was responding to inflation that has remained
+    too high for too long. Inflation has run above the Committee's 2 percent
+    price stability objective for over five years now."
+  → Both phrases are also his own carry-over (Aug 4 "Inflation has been too
+    high for too long"; Jul 16 "above the Fed's 2 percent objective for five
+    consecutive years"). Shared language, now committee-level.
+
+Own language — KEY:
+  "Higher oil prices have been an important driver of elevated inflation, but
+   it is important to acknowledge that our inflation problem is not just about
+   energy. Inflation excluding energy has also been running hot and a broad
+   range of goods and services are showing price growth inconsistent with our
+   price stability target."
+  — Near-verbatim carry-over of Aug 4 ("our inflation problem is not only
+  about energy ... Inflation has been too high across a broad-based and growing
+  cross-section of goods and services") and Jul 16 ("our inflation problem is
+  not only about energy"). A breadth argument, the same test the Chair put in
+  the opening statement ("Too many categories are still posting increases
+  above 3 percent"). Note Aug 4's "growing" (cross-section) is not repeated.
+
+  "While it might be tempting to focus on oil and other supply issues, I would
+   argue for taking a broader view. Inflation always reflects both supply and
+   demand developments ... High inflation is a signal that the economy is out
+   of balance, and the Fed, through its influence on demand, always has a role
+   to play when it comes to keeping inflation in check."
+  — His signature anti-look-through position, carried over from Aug 4 ("would
+  argue against the temptation to attribute our inflation problem to supply
+  shocks alone ... The Fed, through its influence on demand, always has a role
+  to play when it comes to keeping inflation in check, no matter the proximate
+  cause") and Jul 16 ("I largely disagree with this analysis ... the Fed
+  always has a role to play"). The September statement DELETED the supply-shock
+  attribution clause ("in part reflecting supply shocks that have driven price
+  increases in certain sectors, including energy"); Schmid's framing is the
+  one the statement moved toward. [Inference: a bottom-up case — his July/August
+  language preceded the statement change; he is now restating it as consistent
+  with committee text rather than against it.]
+
+  "the most recent readings suggest a pace that is trending above 3 percent"
+  — Level claim. Softer register than the Chair's "around 3.6 percent" total
+  PCE for August and than his own Aug 27 "a bit of a surge into the mid-3s"
+  (ASR). Measures are unspecified, so not directly comparable; do not read as
+  a dovish shift.
+
+  Dropped vs. Jul 16/Aug 4: the June-print caveat ("encouraging deceleration
+  ... premature to put too much weight on a single data point") and "Inflation
+  shocks are not intrinsically transitory" / "I am uncomfortable ever assuming
+  that a burst of inflation will be temporary." The first is stale data; the
+  second is compression. No AI relative-price paragraph (Aug 4).
+
+Shift vs. prior speech:   unchanged — Aug 27 "We haven't done our job yet on
+  inflation" / "It has to be addressed" → "the Fed has work to do on inflation
+  and this week's action was a step in that direction." Same verdict.
+Shift vs. pre-FOMC:       unchanged — Aug 4 "my focus is squarely on inflation
+  that remains too high" and the supply/demand argument carry over nearly
+  verbatim.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee decided to raise the target range for the federal funds
+   rate by 1/4 percentage point to 3-3/4 to 4 percent" / "Today's policy
+   action will support a timelier return to the Committee's 2 percent goal."
+   [Sep 16 stmt]
+  → Speaker version: "On Wednesday the Federal Open Market Committee voted to
+    raise the policy interest rate and to tighten the stance of monetary
+    policy. I supported this decision."
+  Jackson Hole (Aug 28, Warsh): "We must be confident that underlying
+   inflation is moving to our objective, clearly and at sufficient speed.
+   Otherwise, we have work to do."
+  → Speaker version: "As Chairman Warsh said at the Kansas City Fed's Jackson
+    Hole Economic Symposium last month, the Fed has work to do on inflation
+    and this week's action was a step in that direction."
+
+Own language:
+  "I supported this decision." — non-voter endorsement in the first person;
+  the earliest post-meeting endorsement on record (Goolsbee Sep 21 "that's why
+  I supported this decision"; Barkin Sep 22 "That's why we raised rates").
+  "to tighten the stance of monetary policy" — his description of the move.
+  Not the Chair's "removed a dose of accommodation," and not "restrictive."
+  He offers NO stance label for the new 3.75–4.00% range.
+  "this week's action was a step in that direction" — "a step" frames the hike
+  as partial progress on "work to do." [Inference: implies more than one step
+  may be needed; he does not say so, names no path, and gives no condition.]
+  "With the labor market in balance and growth resilient, inflation is my
+  primary concern as I think about the correct course for monetary policy."
+  — Near-verbatim carry-over of the Aug 4 close ("With the labor market in
+  balance and growth resilient, my primary concern is inflation") and Jul 16
+  ("My primary concern is inflation ... my focus remains on inflation in
+  setting the correct course for policy").
+
+  Cut/hike signal status: HIKE ask satisfied, next step UNSTATED. Aug 4: "I do
+  not see the current stance of monetary policy as restrictive. As such, I
+  believe that bringing inflation down to the Fed's 2 percent objective will
+  require tighter policy." Aug 27: "I think we're at a fairly accommodative
+  place for rates right now." Sept 18: the Aug 4 "not restrictive" and Aug 27
+  "accommodative" verdicts are NOT restated for the post-hike rate, and
+  neither is withdrawn.
+
+Shift vs. prior speech:   unchanged (hawkish) — Aug 27 "fairly accommodative"
+  → hike endorsed as "a step"; the diagnosis is consistent with his August
+  position and the Committee acted on it.
+Shift vs. pre-FOMC:       unchanged (hawkish) — Aug 4 "will require tighter
+  policy" → "voted ... to tighten the stance of monetary policy. I supported
+  this decision." His stated ask was delivered; no escalation beyond it.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN — unchanged vs. pre-FOMC.
+               Schmid endorses the hike in the first person and describes it
+               as "a step" on the "work to do" on inflation, with labor now
+               labeled "full employment" and inflation framed as a demand
+               imbalance the Fed "always has a role" in correcting. It is a
+               confirmation document: the inflation and policy language is
+               largely carried over from Aug 4, and his August ask ("will
+               require tighter policy") has been met. What is missing is the
+               path: he restates neither his "not restrictive" (Aug 4) nor
+               "fairly accommodative" (Aug 27) verdict for the new rate, so
+               whether one hike is enough in his view is unresolved.
+
+Position relative to committee: with Goolsbee (Sep 21) and Barkin (Sep 22) in
+  endorsing the hike, and earlier than both; on the supply-vs-demand question
+  he is aligned with the post-September statement and the Chair's breadth
+  framing and against Williams's attribution framework. A 2027 voter.
+
+Language watch:
+  • "our inflation problem is not just/only about energy" — Schmid Jul 16,
+    Aug 4, Sep 18 (third consecutive scripted use). Stage: IN-STATEMENT in
+    substance — the Sep 16 statement deleted the energy/supply-shock clause.
+  • "the Fed, through its influence on demand, always has a role to play when
+    it comes to keeping inflation in check" — Schmid's signature anti-look-
+    through line (Jul 16, Aug 4, Sep 18). Related family: Kashkari's
+    "series of successive supply shocks," Goolsbee's "persistent ones,"
+    Hammack's demand-side attribution. Stage: COMMITTEE-WIDE.
+  • "full employment" as the labor label — Schmid Sep 18, Chair's Sep 16
+    opening statement. Stage: EMERGING. Watch whether Just Voters adopt it in
+    place of the statement's "kept pace with the workforce."
+  • "a step in that direction" — hike as first installment. Stage: DISPERSED
+    (Schmid only; Barkin's "one 'talking-to' might not be enough" is the
+    nearest analogue).
+
+Analyst flag:  YES
+  → (1) Does Schmid still see policy as accommodative at 3.75–4.00%? His
+    Aug 27 "fairly accommodative" verdict (with a "higher base level of r-star"
+    rationale) is neither restated nor withdrawn. "A step in that direction"
+    reads as incomplete, but it is not a stated path. His next outlook speech
+    should be probed for a stance label.
+  → (2) Chronology correction for the record: this Sept 18 endorsement predates
+    Goolsbee (Sep 21) and Barkin (Sep 22); Barkin's scored file describes
+    "Why Hike?" as the first explicit defense of the hike by a participant.
+    Barkin's is still the most detailed defense; Schmid's is the earliest.
+══════════════════════════════════════════════════════════
