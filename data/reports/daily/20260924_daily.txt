@@ -5,16 +5,24 @@ Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
   July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
 ════════════════════════════════════════════════════════════════
 SPEECHES TODAY
-  1. Anna Paulson  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
+  1. John Williams  |  NY Fed President  |  Troika
+     Remarks and Q&A — National Institute of Economic and Social Research
+     (NIESR) conference, London
+     STATUS: NOT SCORED — TRANSCRIPT PENDING. The NY Fed has posted no
+     text (its speeches index ends at Sept 22, "wil260922"), and no NIESR
+     or NY Fed video has been found. Action: check the NY Fed speeches page
+     and NIESR's YouTube channel daily; score as soon as either is posted.
+     Wire coverage of a year-end hike exists but is not a source.
+  2. Anna Paulson  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
      "Opening Remarks" — 10th Annual Fintech Conference
      Federal Reserve Bank of Philadelphia, Philadelphia, PA
      Type B with full embedded outlook — SCORED.
-  2. Beth Hammack  |  Cleveland Fed President  |  Just Voter
+  3. Beth Hammack  |  Cleveland Fed President  |  Just Voter
      "Opening Remarks" — Inflation: Drivers and Dynamics Conference 2026
      Cleveland Fed / ECB, Cleveland, OH
      Type B with brief embedded outlook — SCORED (official livestream
      auto-caption; no text posted).
-  3. Thomas Barkin  |  Richmond Fed President  |  Non Voter
+  4. Thomas Barkin  |  Richmond Fed President  |  Non Voter
      Fireside chat, Economic Club of Washington, D.C.
      STATUS: NOT SCORED — TRANSCRIPT PENDING. No livestream and no text.
      Action: check the Economic Club of Washington's YouTube channel for a
@@ -27,7 +35,7 @@ SPEECHES TODAY
 ════════════════════════════════════════════════════════════════
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1.  ANNA PAULSON  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
+2.  ANNA PAULSON  |  Philadelphia Fed President  |  Just Voter (MEDIAN)
     First communication since the hike; first prepared text since May 19
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -83,7 +91,7 @@ vs. COMMITTEE SINCE FOMC:  Joins Barr ("further policy adjustments are
   hike, and she left it.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2.  BETH HAMMACK  |  Cleveland Fed President  |  Just Voter
+3.  BETH HAMMACK  |  Cleveland Fed President  |  Just Voter
     First post-hike communication from a July hike dissenter
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -161,24 +169,19 @@ ANALYST FLAG: YES
     spoken and approximate. Confirm this is new data, not a new measure.
   → (3) Hammack's Friday panel is the first chance to hear whether a July
     dissenter wants a second hike.
-  → (4) Coverage: Barkin's Economic Club of Washington chat has no
-    transcript yet. Hammack's Aug 27 CNBC interview is now scored and serves
+  → (4) Coverage: Williams (Troika) spoke in London today with no official
+    text yet. He is the first Troika member to speak on the path since the
+    hike, so recovering his words is the top coverage priority. Barkin's
+    Economic Club of Washington chat also has no transcript yet. Hammack's Aug 27 CNBC interview is now scored and serves
     as her pre-FOMC baseline.
 
 ════════════════════════════════════════════════════════════════
-UPCOMING — TOMORROW: Friday Sept 25 (plus next week's known dates)
+UPCOMING — NEXT WEEK: Mon Sept 28 – Fri Oct 2
 ────────────────────────────────────────────────────────────────
-  Friday Sept 25:
-  Beth Hammack  |  Cleveland Fed President  |  Just Voter
-  Policy panel with ECB Vice President Vujčić and a Bank of Mexico
-  deputy governor, moderated by David Wilcox
-  Inflation: Drivers and Dynamics Conference, Cleveland Fed (livestream on
-  the Cleveland Fed YouTube channel), afternoon
-
   Tuesday Sept 29:
   Austan Goolsbee  |  Chicago Fed President  |  Non Voter
-  "The Economy Ahead: A Luncheon with the Chicago Fed"
-  Illinois Manufacturers' Association, Champaign, IL (noon CT livestream)
+  "The Economy Ahead: A Luncheon with the Chicago Fed" (moderated Q&A)
+  Illinois Manufacturers' Association, Champaign, IL (12pm CT)
 
   Alberto Musalem  |  St. Louis Fed President  |  Non Voter
   London School of Economics event (livestream scheduled)
@@ -186,15 +189,23 @@ UPCOMING — TOMORROW: Friday Sept 25 (plus next week's known dates)
   Wednesday Sept 30:
   Austan Goolsbee  |  Chicago Fed President  |  Non Voter
   "Why Consumers and Economists See Different Economies"
-  NORC
+  Chicago Fed / NORC at the University of Chicago (remarks 4:10pm CT)
 
-  No Board member appearances are on the Fed Board calendar for either
-  window. Next: Minutes of Sept 15–16 on Oct 7. Blackout begins Oct 17.
-  FOMC Oct 27–28 (no SEP).
+  Thursday Oct 1:
+  Thomas Barkin  |  Richmond Fed President  |  Non Voter
+  UNC Wilmington event (unconfirmed — not on the Richmond Fed site)
+
+  No Board member appearances are on the Fed Board calendar for the week.
+  Logan: nothing confirmed. Her published calendar is backward-looking
+  (through July 2026); the "Oct 2 Austin energy conference" entry that
+  circulates is from October 2025. Next: Minutes of Sept 15–16
+  on Oct 7. Blackout begins Oct 17. FOMC Oct 27–28 (no SEP).
 ════════════════════════════════════════════════════════════════
 SOURCES
 ────────────────────────────────────────────────────────────────
 Speeches this date:
+  Williams Sept 24: no official transcript posted (checked
+                    https://www.newyorkfed.org/newsevents/speeches)
   Paulson Sept 24:  https://www.philadelphiafed.org/the-economy/monetary-policy/260924-10th-annual-fintech-conference-speech
                     data/scored/speeches/20260924_Anna_Paulson_scored.txt
   Hammack Sept 24:  https://www.youtube.com/watch?v=Yr9ZL_8gN2M

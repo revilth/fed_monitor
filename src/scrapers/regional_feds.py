@@ -873,6 +873,18 @@ class KansasCityFedScraper(BaseScraper):
     base_url = "https://www.kansascityfed.org"
     speaker_name = "Jeff Schmid"
 
+    def __init__(self):
+        super().__init__()
+        # kansascityfed.org's bot filter silently stalls any client whose TLS
+        # fingerprint isn't a real browser: python-requests and curl both hang
+        # with 0 bytes until the read timeout (every run since 2026-08-07 —
+        # this was never CDN slowness). A Chrome-impersonating session gets 200.
+        try:
+            from curl_cffi import requests as cffi_requests
+            self.session = cffi_requests.Session(impersonate="chrome")
+        except ImportError:
+            logger.warning("[Kansas City] curl_cffi not installed — index will likely time out")
+
     def fetch_speeches(self) -> list[SpeechRecord]:
         records = []
         index_url = f"{self.base_url}/speeches"
@@ -886,13 +898,9 @@ class KansasCityFedScraper(BaseScraper):
         last_err = None
         for attempt in range(config.MAX_RETRIES):
             try:
-                # (connect, read) — the read leg is the one that times out.
-                with self.session.get(index_url, timeout=(15, 180), stream=True) as resp:
-                    resp.raise_for_status()
-                    chunks = []
-                    for chunk in resp.iter_content(32768):
-                        chunks.append(chunk)
-                    html = b"".join(chunks).decode("utf-8", errors="replace")
+                resp = self.session.get(index_url, timeout=180)
+                resp.raise_for_status()
+                html = resp.content.decode("utf-8", errors="replace")
                 break
             except Exception as e:
                 last_err = e
@@ -931,9 +939,10 @@ class KansasCityFedScraper(BaseScraper):
             if href.lower().endswith(".pdf"):
                 continue
 
-            speaker_el = card.select_one("div.body p")
-            # The speaker paragraph often starts with "The following remarks are from Jeff Schmid"
-            raw_speaker = speaker_el.get_text(strip=True) if speaker_el else ""
+            # Speaker is named in the card footer ("Jeffrey Schmid" profile link);
+            # older cards named him in the body paragraph instead.
+            raw_speaker = " ".join(el.get_text(" ", strip=True)
+                                   for el in card.select("footer, div.body p"))
             if "Schmid" in raw_speaker or not raw_speaker:
                 speaker = self.speaker_name
             else:

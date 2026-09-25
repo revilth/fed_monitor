@@ -1,0 +1,104 @@
+SOURCE: https://www.kansascityfed.org/speeches/the-federal-reserve-economic-outlook-and-monetary-policy-july-2026/
+
+Speeches
+Current Article
+Home
+Speeches
+Current Article
+The Federal Reserve, Economic Outlook and Monetary Policy
+Remarks delivered at the Kansas City Fed’s Economic Forum in Grand Island, Nebraska.
+July 16, 2026
+Jeff Schmid
+Speeches
+Monetary Policy
+Federal Reserve System
+Economic Update
+by:
+Jeffrey Schmid
+Download speech
+Introduction
+It is an honor to join you today. It is great to be back in Nebraska, my home state, and I look forward to our discussion.
+Just two weeks ago we marked our 250th birthday as a nation. And while we, as a country, might feel young in comparison to some other nations, the truth is that throughout history there are not many institutions or governments that have endured for as long. What is it that has made the United States so successful? One important element is the federated structure of the United States. Distributed power and decision-making across federal, state, and local governments connects Americans more closely within their communities and their government. It allows for a diversity of views and experimentation in how society should be governed. America has always had a healthy skepticism towards centralization and the concentration of power that has served us well over time.
+Regionalism
+While the Federal Reserve is a little less than half as old as the nation, its success derives from many of the same attributes that have contributed to America’s success. The Fed was created with the understanding that decisions on monetary policy are too important to be left to Washington, D.C., and Wall Street alone. As a result, decision-making is divided between the Board of Governors in Washington and regional Reserve Banks spread across the United States. It is a system of distributed—rather than concentrated—power with similarities to the checks-and-balances structure that we use in our most important institutions. The Kansas City Fed is one of 12 Reserve Banks and serves a seven-state region covering most of the Great Plains, including Nebraska, and much of the Mountain West. This region has a special relationship with the Fed’s history. Much of the popular support for the creation of the Fed came from this region. Farming is a credit-intensive industry, and farmers and agricultural bankers in the Midwest desired a more elastic supply of liquidity than provided by money center banks in New York and Chicago. The provision of seasonal credit was an important function of the early Fed.
+Today, each regional Reserve Bank, including the Kansas City Fed, plays an important role in the nation’s financial system. The Reserve Banks provide the payments infrastructure that underpins the economy and supports the safety and soundness of the country’s thousands of banks. However, a key role of each Reserve Bank, and each Reserve Bank president, is to serve as a point of connection and communication between the District and the monetary policy decisions of the Federal Open Market Committee (FOMC) in Washington, D.C. I view myself as being at the intersection of the two-way flow of information. I am the voice of the region on the FOMC, and I am the voice of the FOMC in the region.
+The Fed was designed to ensure that the views of a wide range of industries and communities are included in the nation’s monetary policy deliberations. In the weeks before each FOMC decision, my team and I meet with business and community leaders, including the 30 directors that sit on our boards in Kansas City, Denver, Oklahoma City, and Omaha. We attend roundtables, visit factories and businesses, and conduct outreach across the District, including events like today. Before every policy meeting, we hear from hundreds of individuals. This input informs my contributions at the FOMC table.
+Each industry and community has a different way of speaking about the economy. This is true whether rural or urban, agriculture or healthcare, Kansas City or Omaha. A Reserve Bank must understand each of these communities on its own terms. By being fluent in the District economy, the Kansas City Fed can ensure that the District is heard when it comes to monetary policy. This fluency comes from investing in expertise, but also from being deeply rooted in the community.
+Let me offer an example. Agriculture is important to Nebraska and to our region more generally. To communicate the interests and concerns of the agricultural sector, our Reserve Bank must invest in understanding the issues, challenges, and perhaps most importantly, the vocabulary that shapes the sector’s economic discourse. This understanding provides the rationale for the Kansas City Fed’s recently inaugurated Center for Agriculture and the Economy, led by our Omaha Branch Executive Nate Kauffman. The Center provides an anchor for the District’s research on important issues in the agricultural and rural economies and will further our outreach in these areas.
+It is important the Kansas City Fed speak not only the economic language of the District, but also the language of monetary policy and the FOMC. In bringing a distinct and influential voice to the monetary policy debate, the Kansas City Fed must support research across a variety of topics, relevant to both the region and the wider national economy. Thus, researchers at the Kansas City Fed research, study, and write on a wide range of subjects related to the national economy, including inflation, labor markets, and the transmission and operation of monetary policy.
+Communications
+As I mentioned earlier, I see myself as a conduit for the flow of information between our District and the FOMC. With that in mind, I want to spend a few minutes speaking about the economy and monetary policy. It is important the public understand the framework that I am using as I participate in monetary policy decisions. Why? First, communicating a framework around policy decisions is important for accountability. This is especially true when considering the Fed’s institutional independence from politics. Independence demands accountability. And we can only be accountable if we are transparent on how we arrive at the decisions we make. In addition, transparency is necessary to avoid the perception that our decisions are politically influenced. If we don’t explain our decisions, the public is left to speculate, and speculation can often turn political.
+Second, by providing an outlook, I open my internal reasoning to external scrutiny. The clearer I am in my arguments around policy, the more material I give to those that might disagree with me. That is a good thing. Expressing views on policy allows others to comment and criticize and most likely improve my framework for policy. Here, transparency allows the public to help policymakers identify and avoid blind spots. As I explain my outlook today, the most important feedback you can give me is to tell me what I am missing.
+The Economic Outlook
+With that as background, let me turn to my outlook for the economy and policy. Let me start with a word on conditions here in Nebraska. Overall, the economy in Nebraska appears to be solid. Real GDP in Nebraska increased about 2½ percent over the past year, about the same pace as the country as a whole, and a pickup from a slow patch in 2024. The labor market remains in balance. The unemployment rate in Nebraska is 3 percent—below the national rate, as is typically the case. Of course, Nebraska also has its challenges. Notably the plant closure in Lexington has put a significant dent in the state’s manufacturing employment. And in the agricultural sector, profit margins are thin among row crop producers due to a combination of low prices and high input costs. In contrast, cattle prices remain near all-time highs. Similar to the national economy, as I talk to contacts in Nebraska, inflation and price pressures remain a key concern.
+Inflation
+Turning to the national economy, the Fed approaches policy decisions in the context of its congressionally legislated dual mandate for price stability and full employment. Starting with price stability, the FOMC has defined price stability as an inflation rate of 2 percent. This rate seems to be in the vicinity of the pace where inflation does not meaningfully impact the day-to-day decisions of households and businesses. It could be said that the Fed aims to keep inflation at a pace such that it can safely be ignored.
+This is not where we are now. Though this week’s inflation data showed an encouraging deceleration, it would be premature to put too much weight on a single data point relative to recent trends. Volatile oil prices have both pushed inflation up in prior months and contributed importantly to the most recent fallback in June. With the price of oil once again rising, it is uncertain how persistent any relief on energy will be.
+However, our inflation problem is not only about energy. Excluding energy, inflation is still running solidly above 2 percent. Services price inflation has been trending higher since the end of last year and is at a pace well above the level consistent with us meeting our overall 2 percent target. The persistence of inflation across a broad-based selection of goods and services is concerning, especially with inflation running above the Fed’s 2 percent objective for five consecutive years. On inflation, we are still not where we want to be.
+Food Prices and Imbalance between Supply and Demand
+One contributor to too-high inflation, with special relevance to Nebraska, has been grocery prices. Food price inflation has been creeping up and is currently running around 2.5 percent, a good bit faster than the pre-pandemic average. Within food, beef prices have stood out, with double digit price increases over the previous 12 months. As one of the largest cattle and beef producing states in the country, Nebraska is well aware of the dynamics behind this price increase. Part of the spike in prices reflects low supply. Drought has pushed up the price of maintaining a herd in many cattle-raising regions of the country, contributing to a decline in inventories and a record low U.S. cattle stock.
+Higher beef prices play into a larger and ongoing debate within the conduct of monetary policy. That is, how should monetary policy respond to relative price increases that result from supply shocks? Shocks, that, to varying degrees, might be viewed as temporary. This debate figured prominently into the discussion around energy prices following the recent conflict in the Middle East.
+Textbook models suggest that monetary policy should “look through,” or ignore, inflation coming from temporary supply shocks. The argument is that such supply shocks are volatile and either lead to one-off increases in prices or could reverse quickly. In either case, tightening monetary policy could come too late or be counterproductive. A related argument, and one that came up repeatedly at the start of the pandemic inflation surge, is that monetary policy can help adjust the demand for goods and services and cannot heal supply chain disruptions.
+I largely disagree with this analysis. One of the enduring lessons of the pandemic is that inflation is never just an issue of supply alone. Strong demand is almost always a factor as well. Inflation reflects the balance of supply and demand, and inflation above target implies that there is an imbalance between the two. For example, even though most of the narrative around high beef prices has focused on supply developments, strong demand has been as important for the increase in prices. Forecasts suggest that beef consumption in 2026 will be 10 percent above its 20-year average, notwithstanding record high prices. Imbalances lead to inflation, and the Fed always has a role to play when it comes to keeping inflation in check.
+It is Time to Replace Core Inflation
+In some ways the “looking through” inflation supply shocks approach to monetary policy is already embedded in the way that many economists talk about the economy. This is something I would like to see changed. For example, the Fed’s target for inflation is overall PCE inflation, but policymakers often refer to core inflation, that is inflation less energy and food prices, when discussing the outlook for policy.
+It is important to note that references to core inflation do not reflect a lack of concern or a down-weighting of food and energy prices in policymakers’ consideration of inflation. Food and energy prices are some of the most salient and impactful prices that consumers face and play an outsized role in consumer inflation expectations. It is for this reason that the Fed targets overall, or headline, inflation. It is 2 percent headline inflation, including food and energy prices, that the Fed aims for, not core inflation.
+So, if the target is headline inflation, why do policymakers often refer to core inflation? It is because food and energy prices historically have been volatile—so volatile that core inflation is often thought to be a better predictor of where headline inflation is going than headline inflation itself. That is to say that core is a better measure of trend inflation and that policymakers might get a better read on inflation by “looking through” energy and food price changes.
+For energy, it is not hard to find examples, perhaps even this year, when outsized spikes or declines in oil prices led to temporary changes in inflation that were clearly not informative of the trend. But what about food?
+When the measure of core inflation was first introduced in the mid-1970s, the contribution of food to overall inflation was in fact very volatile, actually more volatile than energy prices if you can believe it. But that is no longer true. While the food price component is almost twice as volatile as overall inflation, energy prices are nearly 10 times as volatile.
+Moreover, recent research at the Kansas City Fed has shown that food prices are increasingly behaving like other prices in the economy.
+_
+Commodity prices are having less passthrough to food prices, and food prices are reacting more to labor market tightness and other factors that are common across many other prices in the economy.
+Last year I gave a speech that suggested that it is time to stop excluding food prices from core inflation.
+_
+I still think this is the right approach. Research at the Kansas City Fed has shown that removing food prices from core does not meaningfully improve estimates of trend inflation. Alternatively, removing food prices from core can lead to communication challenges given the importance of food in the average household budget.
+_
+More generally, I am uncomfortable ever assuming that a burst of inflation is likely to be temporary. Inflation shocks are not intrinsically transitory. How persistent a spike in inflation is will depend importantly on how the Fed reacts or is expected to react. To this point, recent work by Kansas City Fed staff suggests that although energy shocks have historically only had a temporary effect on inflation and inflation expectations, this is because the Fed has reacted to such price pressures in the past.
+_
+Output and the Labor Market
+What about the other side of the Fed’s dual mandate: the labor market and economic activity? Lately, the word I hear most regularly is “resilience.” Despite elevated uncertainty and some notable disruptions to global trade and energy markets, most economic indicators suggest continued steady growth. Over the past year, GDP has increased 2¾ percent, about in line with the average pace of the last couple of decades.
+The labor market also appears to be roughly in balance. The most recent data for June had the unemployment rate at 4.2 percent, about in line with what most economists estimate is consistent with a labor market that is neither too tight nor too loose. The recent pace of job gains has been on the low side, with the economy adding only 500,000 net new jobs over the past year, but this slow pace is consistent with a labor force that is barely growing.
+Demographics
+Which brings me to my final topic, demographics. There is a tendency to view demographics as a slow-moving trend that affects the economy and growth over long periods of time. However, it is notable how quickly things are changing right now in the United States, Nebraska, and the world. These changes will have important implications for labor markets, growth, and the structure of the economy.
+Some numbers for context. As a country we are aging quickly. The proportion of the population aged 75 and older is increasing rapidly. Over the two decades from 2020 to 2040, the share of the population aged 75 and over is set to double from 6 percent to 12 percent. Nebraska is already a bit further along, with those who are 75-plus already making up over 7 percent of the total population.
+Aging, and the retirement of the baby boom generation, is weighing on labor force growth, as is a sharp fall-off in immigration. The U.S. working age population showed almost no increase last year, something that has never happened outside of a war or pandemic. Fewer workers require fewer jobs, explaining both the slow pace of employment growth and the relatively low and stable unemployment rate. Research by Kansas City staff shows that absent immigration, we could currently be at our peak labor force as a country.
+_
+As communities such as Grand Island know, it is hard to grow without people. What has been a persistent economic feature of rural and smaller urban areas is now set to expand to the country as a whole. Without people, growth will increasingly have to come from productivity gains—that is, producing more with less.
+Wrapping Up
+I covered a number of topics today, all of which touch on the Fed’s dual mandate for full employment and price stability and therefore contribute to shaping the outlook for monetary policy. To synthesize, I believe the labor market is in balance and growth remains resilient. My primary concern is inflation, which is too hot and has been above target for too long. As such, my focus remains on inflation in setting the correct course for policy.
+Endnotes
+1
+Scott, Cowley, and Kreitman, “
+Tight Labor Markets Have Been a Key Contributor to High Food Inflation
+.” Kansas City Fed.
+Economic Bulletin
+. April 19, 2023.
+2
+See “
+Remarks on the Outlook and Monetary Policy,
+” remarks delivered at the Kansas City Fed’s Agricultural Summit, June 24, 2025.
+3
+Scott, Mustre-del-Río, Lusompa, and Nichols. “
+Is it Time to Add Food-at-Home Inflation to Measure of Core Inflation?
+” Kansas City Fed.
+Economic Bulletin
+. June 6, 2025.
+4
+Andrew Glover. “
+In Recent Years, Inflation Expectations Increased After Oil Shocks and Stabilized Only Once Monetary Policy Tightened
+.” Kansas City Fed.
+Economic Bulletin
+. July 8, 2026.
+5
+Alison Felix. “
+Is the U.S. Labor Force Nearing Its Peak?
+” Kansas City Fed.
+Economic Bulletin
+. June 29, 2026.
+The views expressed are those of the authors and do not necessarily reflect the positions of the Federal Reserve Bank of Kansas City or the Federal Reserve System.
+Share Article:
+Author
+Jeffrey Schmid
+President and Chief Executive Officer
+Jeff Schmid is president and chief executive officer of the Federal Reserve Bank of Kansas City. He represents the Tenth Federal Reserve District on the Federal Open Market Comm…
+Read Bio
