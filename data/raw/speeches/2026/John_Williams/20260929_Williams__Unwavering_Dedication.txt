@@ -1,0 +1,108 @@
+SOURCE: https://www.newyorkfed.org/newsevents/speeches/2026/wil260929
+
+Speech
+Unwavering Dedication
+September 29, 2026
+John C. Williams
+, President and Chief Executive Officer
+Remarks at the University at Buffalo, Buffalo, New York
+As prepared for delivery
+Introduction
+Good afternoon. It’s a  pleasure to be back at the University at Buffalo. During my tenure as President  of the New York Fed, I’ve enjoyed and learned so much from my trips to Western  New York—including a “virtual visit” during the pandemic.
+And while I’m pleased to  be here in person today, I just can’t seem to get my timing right. I missed  Wing Fest. I couldn’t make the Lucille Ball Comedy Festival. And I didn’t even arrive  in time to join the table-slamming at the tailgate on Sunday.
+At least I’ve gotten the  other aspects of my itinerary down, because an important part of my job is to meet  with business, community, and civic leaders from throughout the Federal  Reserve’s Second District to learn more about our local and regional economies.
+And I always enjoy meeting  with students. I’d like to thank the economics and management students here at UB  for hosting me for lunch. Our in-depth conversation reminded me that there’s a  lot of interest in what’s going on in the economy. So, I won’t try out new comedy  routines or opine on sports; instead, you get to hear me discuss two of my other  favorite topics: the U.S. economy and monetary policy.
+This is as good a time  as any to give the official disclaimer, which is that the views you will hear today  are mine alone and do not necessarily reflect those of the Federal Open Market  Committee (FOMC) or others in the Federal Reserve System.
+The U.S Economy
+Whenever a student solicits  my advice in assessing the U.S. economy, I say this: Focus on the totality of  the data.
+Right now, the data  indicate that, despite large shocks and elevated uncertainty, the underlying  momentum in the U.S. economy is solid and even showing signs of strengthening. Like  Bills Mafia, it’s been resilient in the face of adversity.
+Real GDP has been  growing at about 2 percent for the past year. Productivity growth is running above  pre-pandemic levels. And business investment has surged, powered by the  ever-increasing AI buildout. Expectations of solid growth and high productivity  have, in turn, fueled stock market gains, leading to robust consumer spending, particularly  from higher-income households and homeowners.
+Given these developments,  I’m often asked, “Why can’t the economy grow even faster?” After all, GDP  growth averaged over 4 percent per year during the internet boom starting in  the late 1990s. That’s twice the rate we’re experiencing today.
+There are a few reasons for  this difference.
+First, owing to  immigration policy and the aging of the population, the labor force is no  longer contributing much to the economy’s underlying growth. That means real  GDP growth is almost entirely driven by gains in productivity. This stands in  contrast to the internet boom period, when the labor force grew by more than 1 percent  per year.
+1
+Second, although annual productivity  growth has improved to just above 2 percent in recent years, it has yet to  match the heady days of the last productivity boom, when it averaged 3 percent  per year. And, unlike the late 1990s and early aughts, a significant share of  AI-related investment is now being met with imported goods and therefore not  contributing as much to U.S. GDP growth.
+So, while demand is healthy,  underlying fundamentals imply that this translates to trend growth of only  about 2 percent. Looking ahead, with all the AI investment underway, hopefully we  will see an improving trend in productivity and the economy’s potential, but it  may take a while for these benefits to be fully realized.
+The Labor Market
+As all economics majors  know, the Fed has a dual mandate to achieve maximum employment and price  stability. On the employment side of that mandate, the data show that the labor  market continues to be solid—and has even strengthened a bit on the margin.
+A number of indicators bear  this out. The unemployment rate has edged down to where it was in the first  half of 2025. Layoff rates are near  historic lows nationwide. Payroll employment gains have been positive. And  survey measures of job and worker availability have improved somewhat.
+Closer to home, the New  York Fed’s regional business surveys indicate that employment in the Second  District is picking up at a solid clip in the manufacturing sector and holding  steady in the services sector.
+2
+Inflation
+The other side of the  dual mandate is where the challenge lies. The Fed defines price stability as 2  percent inflation over the longer run.
+3
+At 3.7 percent, inflation  is unquestionably too high. So I’m going to spend some time discussing why inflation  is elevated and what that means for future inflation.
+Over the past year and a  half, inflation has increased by about one percentage point, owing to three primary  drivers. The first is higher tariffs on imported goods. The second is supply-chain  disruptions and higher energy and commodity prices owing to the conflicts in  the Middle East and elsewhere. And the third is robust demand for certain  categories of goods and services associated with the surge in AI-related investments.
+Among these three, one  piece of good news is that tariffs are no longer adding to inflation in goods  prices.
+4
+Of course, that may change  if new tariffs are instituted.
+But the other two  drivers remain. The ongoing conflict in the Middle East and severe capacity  constraints in oil refining are driving up not only crude oil prices, but also the  spreads of prices for refined products like gasoline and diesel fuel relative  to oil prices.
+In addition, the AI boom  has resulted in a race between available supply and surging demand in certain  categories of goods—and so far, demand is winning. As a result, we are seeing  sharp increases in the prices of goods essential for the AI buildout. These goods  are also inputs into other products purchased by consumers and businesses, and therefore  the higher costs are starting to affect those prices, too.
+Fortunately, other  indicators are more encouraging regarding the inflation outlook. Prices for housing  services have decelerated, and there is no evidence that the labor market is adding  to inflationary pressures. This conclusion is supported by a wide range of data  on labor compensation, as well as the New York Fed’s HPW Labor Market Tightness  Index.
+5
+In addition, survey- and  market-based measures show that inflation expectations remain well anchored.
+6
+Importantly, although we  are seeing the effects of tariffs, the conflicts, and the AI surge on prices of  certain categories of goods, we have not seen evidence of these spilling over  into broader and more persistent inflation.
+Monetary Policy and the Economic  Outlook
+What does this all mean  for monetary policy?
+Based on the totality of  the data, the balance of risks to achieving our dual mandate has evolved in  recent months. With the economy proving resilient in the face of shocks and with  underlying demand strengthening, the risk to maximum employment has receded. At  the same time, the risk to achieving price stability has increased. In  particular, the inflationary impact of the AI-related demand shock is  increasingly salient, and I now expect somewhat larger and longer-lasting effects  from energy prices on inflation.
+It is imperative that we  return inflation to our 2 percent target on a sustained basis. To do so, we must  make certain that adverse inflationary disturbances do not become entrenched,  and that any second-round effects on inflation remain muted.
+Given that context—and  to support a timelier return to 2 percent inflation—the FOMC recently raised  the target range for the federal funds rate by 1/4 of a percentage point to  3-3/4 to 4 percent.
+7
+While monetary policy cannot move ships or reopen pipelines and refineries, it  can diminish the risk that these supply shocks spill over into broader and more  persistent inflation.
+In terms of my outlook, I  expect real GDP growth to average about 2-1/4 percent this year and next year—slightly  above its longer-run trend pace. With this ongoing momentum in the economy, I  expect the unemployment rate to edge down to about 4 percent over the next  year.
+Reflecting the effects  of elevated energy and AI-related goods prices, I expect overall inflation to  come in at 3-1/2 percent this year. As the effects of tariffs move further into  the rearview mirror, energy prices normalize, and the demand and supply of  AI-related goods move back toward better balance, I anticipate inflation will  slow to just above 2 percent next year, then reach our longer-run inflation goal  of 2 percent in 2028.
+Conclusion
+The overall economy is on  a solid footing; therefore, getting inflation back to 2 percent is job No. 1. With  unwavering dedication like that of Bills Mafia, I am firmly committed to  achieving the Fed’s dual mandate goals of maximum employment and price  stability.
+As I consider the future  path of monetary policy, I will continue to assess the underlying trends in  inflation and the balance of supply and demand in the economy. With the policy  action we took at our September meeting, there is no need for urgency, and we  have time to gather more information. The accumulation of more data should  provide greater clarity on the underlying trends in the economy and the  associated risks to achieving our goals—and thereby the appropriate setting of  monetary policy.
+If the economy evolves  in a manner broadly consistent with my forecast, one further upward adjustment  of the federal funds target range may be appropriate late this year to support  a timelier return of inflation to target. But that is just my forecast, and  time—and the totality of the data—will tell.
+And as this trip to  Buffalo comes to a close, I’ll be collecting data from all of you on where to  find the best beef on weck.
+1
+Congressional  Budget Office.
+The Budget and Economic Outlook: 2026 to 2036
+. Washington, DC:  Congressional Budget Office, February 2026.
+2
+See the latest results from the New  York Fed’s
+Empire State Manufacturing Survey
+(September 2026) and
+Business Leaders Survey
+(September 2026).
+3
+As measured by the Personal  Consumption Expenditures (PCE) Price Index.
+4
+See Amiti, Mary, Sebastian Heise, and  David E. Weinstein. 2026. “
+The Anatomy of Tariff Pass-Through  into Consumer Prices.
+”  Federal Reserve Bank of New York
+Staff  Reports
+, no. 1201, revised September 2026.
+5
+Federal Reserve Bank of New York,
+Heise, Pearce, Weber (HPW) Labor  Market Tightness Index
+(July 2026).
+6
+Federal Reserve Bank of New York,
+Survey of Consumer Expectations
+(August 2026).
+7
+Board of Governors of the Federal  Reserve System,
+Federal Reserve issues FOMC statement
+, September 16, 2026.
+By continuing to use our site, you agree to our
+Terms of Use
+and
+Privacy Statement
+. You can learn more about how we use cookies by reviewing our
+Privacy Statement
+.
+Request a Speaker
+International Seminars & Training
+Governance & Culture Reform
+Data Visualization
+Economic Research
+Tracker
+Markets Data APIs
+Podcast
+Contact Us
+Terms of Use
+Privacy
+Site Map
