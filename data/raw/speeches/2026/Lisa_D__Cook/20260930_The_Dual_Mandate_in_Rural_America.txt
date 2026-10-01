@@ -1,0 +1,133 @@
+SOURCE: https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm
+
+September 30, 2026
+The Dual Mandate in Rural America
+Governor Lisa D. Cook
+At the 2026 Investing in Rural America Conference, Federal Reserve Bank of Richmond, Asheville, North Carolina
+Thank you, President Barkin, for that kind introduction. And thank you to the Federal Reserve Bank of Richmond and your partners across the Federal Reserve System for organizing this timely and important conference this year and for the past several years.
+1
+It is a delight and a privilege to be back in North Carolina where I spent the summers and holidays of my childhood. In fact, the summer after the TV series "Roots" aired, my parents packed my sisters and me up in our lime green station wagon, and we traversed much of the state identifying and meeting our relatives and researching our family's ancestry. This was significantly before we had AI, Google and Ancestry.com searches at our fingertips, and it was a real opportunity to discover rural North Carolina. It is a distinct pleasure to be back here in Asheville, especially at this colorful, beautiful time of year. And the people of Asheville and the rest of western North Carolina remain in my thoughts and prayers as you continue to recover from Hurricane Helene.
+slide 1
+As a Fed Governor, my charge is to set policy that will best achieve maximum employment and stable prices for all Americans, including those of us who live in rural communities. I care about those communities as a policymaker and as an economist, but also as someone who grew up in a small town in central Georgia: Milledgeville. That makes this conference of special interest to me. I know firsthand how hard people in rural areas work, how intensely they care for their families and neighbors, and how much they contribute to their communities and to the entire economy. In turn, it is only appropriate that we have events like this to inform policymakers about how residents of rural areas are experiencing and contributing to the economy.
+As some of you may know, this is the first year that the scope of the Investing in Rural America conference has been national. It is also the first time that all 12 Reserve Banks and the Board of Governors have partnered to organize and present this conference. Congratulations to the Richmond Fed and the other Reserve Banks for achieving these firsts! The Systemwide commitment to this signature event is an acknowledgment of the importance of rural communities to the national economy and to the Federal Reserve.
+Rural communities are vital contributors to the U.S. economy. These communities are the source of critical resources to the nation's economy, including food to stock our grocery stores, energy to power our businesses, and materials to build our homes.
+2
+Rural communities also play vital roles in integrated, regional supply chains, including those for furniture, motor vehicles, electronics, as well as paper, plastics, and rubber products. And I know that across rural America, small businesses in these and other industries play an essential role as employers and innovators.
+Today, I will take the opportunity to try to address a few key questions about rural areas and the Federal Reserve's analysis of and engagement with them. How are rural communities evolving economically, especially along the dimensions related to our dual mandate related to employment and inflation? How are small businesses faring in the rural economy? Finally, how are staff at the Board and across the System engaged in research and outreach to better understand rural economies?
+Economic Outlook in Rural Communities
+In my assessment, rural communities experience labor-market dynamics broadly similar to those in much of the rest of the country, with some important caveats. Nationwide, the labor market is largely stable. Unemployment is low by historical standards, and new claims for unemployment benefitsâa proxy for layoffsâcontinue to trend at low levels. Hiring has been more modest in recent years than earlier in the expansion, though employment gains trended up over the summer months.
+The roughly 20 million workers in rural communities are an important part of that overall picture. They represent about 1 in 8 American workers. As you can see in
+Figure 1
+, the unemployment rate in rural communities has generally been quite close to the national unemployment rate, with the exception of the pandemic period when it rose less and recovered more quickly. A more notable difference between rural and urban communities can be seen in
+Figure 2
+. Rural communities have a smaller share of adults participating in the labor force. That is partly a demographic story. However, even among workers between 25 and 54 years old, the employment-to-population ratio in rural communities is several points lower. In part, this reflects a lower labor force participation rate among working-age men due to both economic and social factors.
+3
+Similarly, the pace of job creation in rural communities has been slower than in urban areas.
+Figure 3
+shows total employment indexed to 2019 levels for both rural and urban communities. During the pandemic, job loss was somewhat less severe in rural areas. Then, in the initial phase of the pandemic recovery, job growth was slightly stronger. However, over the past four or so years, job creation has tilted toward urban areas.
+On the other side of our dual mandate is the inflation picture in rural America. While broadly consistent with national trends, inflation in rural areas also differs in some notable ways. As you can see in
+Figure 4
+, in the year before the pandemic, inflation in rural communities was somewhat lower than in urban areas. That changed considerably during the early part of the pandemic recovery, when the cost of living in rural areas rose even faster than in urban areas. Indeed, several factors are salient, but I will mention two: the increase in energy prices and in housing costs.
+Energy costs can weigh more heavily on rural communities, partly because the distances traveled for employment and services can be significantly farther. Transportation costs account for about a fourth of all expenses for rural households versus less than a fifth for urban households.
+4
+In terms of housing costs, during and in the first years after the pandemic, home-price trends deviated from their pattern over previous decades and rose much faster in rural areas and lower-density areas than in cities. Research shows that between March 2020 and March 2023, home values in nonmetro counties, smaller metro areas, and low-density suburbs of large metros rose about 36 percent, compared to just 21 percent in the densest urban counties.
+5
+This change was driven by an increase in remote work and the desire of many families to have additional space. The rise in home values likely filtered through to put upward pressure on rents in rural and less dense areas as well. Since 2023, housing inflation in rural areas has reverted toward pre-pandemic patterns; however, housing costs remain a significant driver of overall inflation. Another outcome from the pandemic that may be familiar to those of you from Asheville, as well as those from other tourism-dependent rural areas, is a surge in the value of vacation properties and second homes. Research from Harvard's Joint Center for Housing Studies showed that counties with a high share of vacation and second homes saw home prices rise 47 percent in the 3 years after the pandemic.
+6
+That rise in prices can place pressure on long-time residents and seasonal workers seeking housing in those areas.
+Regardless of whether you are in a rural or urban area, the fact remains that inflation has been too high for too long. On a national level, it has exceeded the Fed's 2 percent target for more than five years. As you know, I voted along with the rest of the FOMC to raise rates 25 basis points at the recent September meeting. I am committed to returning inflation to our objective while preserving the strength in the labor market.
+Small Businesses and the Rural Economy
+One very important element of the rural economy are small businesses and entrepreneurs. This is another topic that is dear to me, as I have long researched the economics of innovation and entrepreneurship.
+Some 4.3 million small businesses are dotted across rural America, accounting for more than 96 percent of all rural establishments. Those businesses employ 7.4 million people in rural communities.
+7
+Both research and my firsthand experience show me that rural residents are highly entrepreneurial, with a greater share of people in rural areas than urban ones being self-employed.
+8
+The Fed's latest Small Business Credit Survey shows that a large share of these small businesses, 30 percent, are less than three years old. That speaks as well to the entrepreneurial spirit in rural America, while also showing a mix of both older, more established small businesses and younger start-ups in rural America.
+This mix is important, because new businesses account for a disproportionately large share of gross job creation by small businesses. In 2023, the most recent year for which we have data, new firms represented just 9 percent of all small businesses nationwide, but they accounted for 24 percent of job creation.
+9
+The presence of new, innovative small businesses in rural-communities is consistent with research showing that rural regions. Therefore, many with a higher concentration of innovative businesses demonstrate stronger employment and establishment growth.
+10
+Fed's Role in Promoting Rural Vitality
+Now that I have discussed the economy in rural America, I would like to take a moment to highlight the Fed's role in promoting vitality in rural communities. Both at the Board and at each Reserve Bank, staff are dedicated to supporting the economic health of rural communities so that they are vibrant places where small businesses, families, and individuals can grow and thrive. I pay careful attention to this work, not just because of my rural roots, but also because of my role serving on the Board's Committee on Consumer and Community Affairs, as well as our Subcommittee on Smaller Regional and Community Banking. Consistent with our community development work across the country, the Fed helps advance rural community vitality through various research and engagement activities.
+Of course, every Fed District includes rural regions and therefore many staff members at Reserve Banks, as well as the Board, are engaged in research on rural communities. I would not be able to cite all of their thoughtful work, but I do want to offer a few highlights that are worth exploring further.
+Since we are in western North Carolina, I will start with a research project the Richmond Fed released jointly with Riverbird Research of the Asheville Area Chamber of Commerce. The publication explored how small businesses have been faring in the aftermath of flooding and storms associated with Hurricane Helene.
+11
+Another effort is underway at the Federal Reserve Bank of Minneapolis. Staff there have conducted research exploring the important role that Native community development financial institutions (CDFIs) play in expanding credit access in tribal communities, especially those located in more remote rural areas. CDFIs have long been of interest to me, I served on the board of a CDFI before coming to the Fed, and I have discussed CDFIs in past speeches.
+12
+In addition, a few years ago, the Board and the Federal Reserve Bank of St. Louis published a book,
+Investing in Rural Prosperity.
+The book highlighted work being done to promote entrepreneurship, homeownership, workforce development, and more.
+13
+Engagement with rural communities is also part of our community development efforts. Again, our Reserve Banks play a critical role here. I will offer a few highlights among a much larger portfolio of work. In April of this year, the Board and six Reserve Banks hosted an event that brought together stakeholders from across the public, private, nonprofit, and philanthropic sectors to explore the landscape of investment in rural communities and to identify opportunities to smooth the flow of capital to rural regions.
+14
+At a more grassroots level, in November 2025, the Federal Reserve Bank of Philadelphia hosted a Rural Community Action Assembly focused on how to promote strong small business networks that can support rural economies by fostering innovation, job creation, and local growth.
+15
+Finally, I would be remiss if I did not mention the fine work done right here in the Fifth District. The Richmond Fed recently welcomed the third cohort to its Community Investment Training program, where participants learn how to develop investment-ready community development proposals and how to get connected with potential capital providers.
+16
+I am happy to say that western North Carolina has been well represented across all three cohorts. And thank you again to the Richmond Fed for hosting this event here in Asheville. Meetings like these allow us to share the best ideas and research, which will drive better outcomes for all Americans.
+Conclusion
+Rural communities have played multidimensional roles in the U.S. economy since this country's founding and will continue to do so in the future. It is encouraging that they will do so with the support of people like you in this room, who bring expertise, connections, and resources to help them leverage their assets in new and valuable ways.
+Thank you for the work you do every day to support a thriving rural America and for taking the time to be here to both share your expertise and to learn from your peers. Working together across sectors, from the local to the national level, we can help ensure the ongoing vitality of rural communities across the country.
+Thank you again for the opportunity to connect with you today.
+slide 6
+1. The views expressed here are my own and are not necessarily those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee.
+Return to text
+2. For example, between 2001 and 2021, 53 percent of all personal income generated by the forestry and logging industry and 51 percent of farm income was earned in rural communities.
+Return to text
+3. Andrew Dumont (2024), "
+Changes in the U.S. Economy and Rural-Urban Employment Disparities
+," FEDS Notes (Washington: Board of Governors of the Federal Reserve System, January 19).
+Return to text
+4. Raji Chakrabarti, Natalia Emanuel, Thu Pham, Beck Pierce, and Maxim Pinkovskiy (2026),
+Economic Heterogeneity IndicatorsâNational
+(PDF)
+, Federal Reserve Bank of New York, April.
+Return to text
+5. See Alexander Hermann and Peyton Whitney (2024), "
+The Geography of Pandemic-Era Home Price Trends and the Implications for Affordability
+,"
+working paper (Cambridge, Mass.: Harvard University Joint Center for Housing Studies, May).
+Return to text
+6. See Alexander Hermann and Peyton Whitney (2025), "
+Rural Housing Shift: Vacation Area Home Prices Surge Post-Pandemic
+," working paper (Cambridge, Mass.: Harvard University Joint Center for Housing Studies, December).
+Return to text
+7. U.S. Small Business Administration, Office of Advocacy, 2025 Small Business Profile: Rural Areas
+(Washington: SBA, August). An "establishment" is defined as a single physical location at which business is conducted or services or industrial operations are performed. It is not necessarily identical with a company or enterprise, which may consist of one or more establishments.
+Return to text
+8. Brian Thiede, Lillie Greiman, Stephan Weiler, Steven C. Beda, and Tessa Conroy (2017), "Six Charts that Illustrate the Divide between Rural and Urban America,"
+The Conversation
+, March 16.
+Return to text
+9. Gross job creation refers to all jobs created by entering and expanding establishments. Data are from the Census Bureau's Business Dynamics Statistics, 2023.
+Return to text
+10. Tim Wojan and Timothy Parker (2017), "
+Innovation in the Rural Nonfarm Economy: Its Effect on Job and Earnings Growth, 2010â2014
+," Economic Research Report No. 238 (Washington: U.S. Department of Agriculture, September).
+Return to text
+11. Bethany Greene, Anthony Tringali, and Riverbird Research of the Asheville Area Chamber of Commerce (2026), "
+How Small Businesses Are Faring in the Aftermath of Hurricane Helene
+," Federal Reserve Bank of Richmond,
+Regional Matters
+, January 15.
+Return to text
+12. For example, see Lisa D. Cook (2024), "Growth and Change at Community Development Financial Institutions," speech delivered at the Expanding Access to Capital for CDFIs event, hosted by the Federal Reserve Bank of New York, New York, May 14.
+Return to text
+13. See Andrew Dumont and Daniel Paul Davis, eds. (2021),
+Investing in Rural Prosperity
+(Federal Reserve Bank of St. Louis and Board of Governors of the Federal Reserve System).
+Return to text
+14. For more information, see Board of Governors of the Federal Reserve System (2026), "
+Strengthening America's Economy through Rural Investment: A Working Forum
+," April 14â15.
+Return to text
+15. For more information, see Federal Reserve Bank of Philadelphia (2025), "
+Rural Community Action Assembly: Sustaining Entrepreneurial Ecosystems
+," November 19.
+Return to text
+16. For more information, see Federal Reserve Bank of Richmond (2026), "
+Rural Investment Collaborative
+," webpage.
+Return to text
+View speech charts and figures
+Accessible Version
