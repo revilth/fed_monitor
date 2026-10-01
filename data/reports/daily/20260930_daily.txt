@@ -1,0 +1,72 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: September 30, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
+  July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     "Why Consumers and Economists See Different Economies"
+     NORC at the University of Chicago, Champaign, IL
+     STATUS: NOT SCORED — transcript recovery required. The Chicago Fed
+     speech page (https://www.chicagofed.org/publications/speeches/2026/
+     sept-30-norc) has not yet posted a transcript or prepared text; the
+     raw file captured at collect time contains only a Sept 21 OMFIF
+     carry-over stub. Action: re-run `python3 main.py refetch` once the
+     Chicago Fed posts the text, or check the Chicago Fed's YouTube
+     channel for a posted recording.
+════════════════════════════════════════════════════════════════
+
+NO SCORED SPEECHES TODAY
+
+No speeches from September 30 could be scored this run. The sole speech
+listed (Goolsbee at NORC) has no transcript available. See action item
+above.
+
+Context: Goolsbee's most recent scored speech is September 21, 2026
+("Monetary Policy in an Uncertain World," OMFIF London; scored at
+data/scored/speeches/20260921_Austan_Goolsbee_scored.txt) — his first
+post-hike communication, net HAWKISH LEAN, endorsing the Sept 16 hike
+and arguing some supply shocks require tightening. The NORC speech title
+("Why Consumers and Economists See Different Economies") is consistent
+with a perceptions/expectations topic; the Sept 29 Illinois Manufacturers'
+Association event (also a Goolsbee moderated Q&A, a separate unscored
+stub for that date) has the same coverage gap. Collect both once
+transcripts post.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday, October 2, 2026
+────────────────────────────────────────────────────────────────
+  (Calendar lookup unavailable this run — outbound web access blocked
+  by the proxy environment. Check the Fed Board events calendar at
+  https://www.federalreserve.gov/newsevents/2026-speeches.htm and each
+  speaker's regional bank event page for Friday appearances.)
+
+  Context: the inter-meeting window runs October 1–16, 2026, before
+  the blackout begins October 17 for the October 27–28 FOMC. There
+  are roughly two and a half weeks of speaking time remaining.
+  The September FOMC minutes are expected ~October 7, 2026.
+
+  Note: several speeches are pending transcript recovery for Sept 25–29:
+    - Williams (Sept 24 NIESR London) — TRANSCRIPT PENDING
+    - Barkin (Sept 24 Economic Club of Washington) — TRANSCRIPT PENDING
+    - Goolsbee (Sept 29 Illinois Manufacturers' Assoc.) — stub only
+    - Goolsbee (Sept 30 NORC) — stub only (this report)
+    - Waller (Sept 29 Sibos 2026, "Payments in the Age of AI Agents") —
+      Type B, no embedded outlook; pending classification confirmation
+    - Barr (Sept 29, "Economic Conditions and Monetary Policy") — Type A,
+      pending score
+    - Williams (Sept 29 event) — stub pending
+    - Bowman (Sept 29 opening remarks) — pending classification
+    - Cook (Sept 28, "An Update on AI and the Economy") — pending
+      classification (Type B likely)
+  Action: recover these in order of analytical priority — Barr (Type A,
+  Just Voter) and Williams (Troika) are highest priority.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee Sept 30:  https://www.chicagofed.org/publications/speeches/
+                     2026/sept-30-norc (stub only; transcript not yet
+                     posted)
+════════════════════════════════════════════════════════════════
