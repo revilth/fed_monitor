@@ -1,0 +1,73 @@
+SOURCE: https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm
+
+October 01, 2026
+Modernizing Financial Regulation: Initial Observations from eSLR
+Vice Chair for Supervision Michelle W. Bowman
+At the Atlantic Council 2026 CEO & Senior Management Summit, Washington, D.C.
+Watch Live
+Good morning. Thank you for the invitation to join you today. It is a pleasure to be with you to discuss our work at the Federal Reserve Board and how it interacts with the U.S. Treasury market.
+1
+The U.S. Treasury market plays a foundational role in the U.S. economy. It is central to the transmission of monetary policy, the funding of the federal government, and the stability of the broader financial system. Because large banks play such a critical role in this market, bank regulationsâparticularly capital requirementsâcan significantly impact how well it functions. This is precisely why we must continuously monitor the effects of our regulations to ensure they are working as intended.
+Today, I will discuss the enhanced supplementary leverage ratio, or "eSLR," a capital requirement intended to operate as a backstop to risk-based capital requirements in the United States. As the Treasury market grew over time, it became apparent that the eSLR was imposing a binding constraint on many large bank dealers, curtailing their capacity to provide liquidity to this market. This unintended regulatory effect prompted the Federal Reserve to temporarily reduce the effects of the eSLR in the spring of 2020, when the Treasury market experienced severe illiquidity during the onset of the COVID-related tightening in financial market conditions.
+In the first six months of my term as Vice Chair for Supervision, the Federal Reserve Board recalibrated the eSLR with that reality firmly in view. This recalibration was widely acknowledged to be necessary because the eSLRâadopted in 2014âdid not function as originally designed. Today, I will share an initial assessment of how these reforms have affected Treasury market activity.
+The Problem with Binding Leverage Requirements
+A leverage capital requirement functions best when it serves as a backstop to risk-based capital requirements. Because leverage-based capital requirements do not account for the risk of the underlying activities, they can provide an important signal, particularly during times of stress, and help support market discipline.
+In the United States, the eSLR is a tailored capital requirement that applies only to U.S. global systemically important institutions (GSIBs). The initial framework required each GSIB to maintain a supplementary leverage ratio of at least three percent plus a leverage buffer of two percent. In addition, it required any insured depository institution that is a subsidiary of a GSIB to maintain a supplementary leverage ratio of at least six percent to be considered "well capitalized."
+However, under this framework, the eSLR often became a binding constraint rather than operating as a backstop. When it is binding or could approach binding, the eSLR distorts incentives and activities. As a result, firms reduce participation in lower-risk, lower-return activitiesâsuch as intermediating the U.S. Treasury marketâand instead pursue higher-risk activities in search of higher returns without facing corresponding increases in capital requirements. In addition, dealers have also noted their reluctance to expand Treasury holdings simply out of concern that it could become binding. This misalignment of incentives drove inefficient capital allocation throughout the financial system, ultimately undermining the very market stability these requirements were designed to protect.
+Research confirms that the eSLR was one of the main constraints on dealers' capacity to intermediate in Treasury markets because it is risk blind, treating Treasuries the same as riskier asset classes.
+2
+In particular, when banks are constrained by the eSLR ratios, they tended to hold smaller Treasury positions, hampering market liquidity as trading decreased and dealer intermediation margins increased.
+3
+In addition, following shocks to the size of bank balance sheets, the reduction in Treasury market participation was larger for banks with lower SLRs.
+4
+Regulatory Reform
+To address this issue, in November 2025, the Federal Reserve Board, together with the Federal Deposit Insurance Corporation and the Office of the Comptroller of the Currency, finalized long overdue and necessary changes to the eSLR standard. The Board recalibrated the eSLR buffer standard for GSIBs to equal 50 percent of a GSIB's method-1 surcharge calculated under the Board's GSIB surcharge framework, rather than the previous leverage buffer standard of two percent. For GSIB depository institution subsidiaries, the eSLR buffer standard is equal to 50 percent of a GSIB's method-1 surcharge, capped at one percent. The cap recognizes that the method-1 surcharge of a parent GSIB may be partly driven by activities outside of the depository institution subsidiaries of the GSIB. This new approach tailors the eSLR to each GSIB's systemic footprint and produces a calibration that is consistent with the objective for supplementary leverage ratio requirements to act as a backstop to risk-based capital requirements. In addition, it promotes international consistency, aligning with the leverage ratio framework published by the Basel Committee for Banking Supervision. The final rule became effective April 1, 2026, with optional early adoption beginning January 1, 2026. Seven of the eight U.S. GSIBs adopted it early in the first quarter.
+Early Results
+The impact of this recalibration has been encouraging. So far this year, evidence shows that leverage ratio reforms have improved Treasury market functioning and strengthened its resilience to stress by relaxing regulatory balance sheet constraints.
+According to some estimates, the parent bank holding companies (BHCs) of the six dealers gained nearly $5 trillion of additional eSLR headroom, in aggregate, in Q1 2026, the first quarter during which the modified rule was applied.
+5
+Recent supervisory data also shows clear benefits resulting from this regulatory treatment. Following the eSLR revisions, dealers increased their Treasury market positions, as all of the largest banks benefited from significantly greater headroom. Supervisory data show dealers' total Treasury positions have increased from roughly $600 billion at the beginning of the modification period to over $700 billion at the end of April.
+6
+This increase was concentrated among the firms that had consistently maintained the lowest eSLR buffers over the previous 24 months and were thus more constrained by the eSLR. This pattern suggests that the sharp increase in positions was driven by dealers taking advantage of additional headroom created by the eSLR modification.
+This has translated into greater balance sheet capacity at dealer subsidiaries. The revised eSLR standard provides additional headroom for firms to increase their overall Treasury holdings using their existing capital base and enables them to support other low-risk but balance sheetâintensive market making activities like Treasury market intermediation. It has also created a structural increase in balance sheet capacity for banks that were constrained prior to the rule change. For these firms, additional capacity was deployed to dealer subsidiaries. While all U.S. GSIBs seem to have benefited from the eSLR relief, only a few of them utilized additional balance sheet capacity for U.S. Treasury activities.
+This analysis is confirmed by a forthcoming research note prepared by Federal Reserve Board staff members examining how the new eSLR rule affected dealers' Treasury market activity.
+7
+The note finds that dealers' Treasury positions increased notably after the rule was implemented. The increase was driven by banks with the lowest eSLR buffers and that were more constrained by the prior rule.
+Market Outreach
+These findings are reinforced by our market outreach. Market contacts have cited the lower eSLR requirements for U.S. GSIBs as a primary driver behind the decrease in capital constraints for BHCs. One dealer reported that leveraged capacity at GSIBs surged from $1.8 trillion in the fourth quarter of 2025 to $6.4 trillion after the new rule took effect. Banks have been actively deploying this increased capacity, with leveraged exposure across GSIBs increasing by approximately $900 billion. Some institutions directly attributed the increase in their Treasury holdings and repo market activity to the eSLR recalibration, as reflected in the March 2026 Senior Financial Officer Survey.
+8
+Meanwhile in targeted outreach to individual firms, market participants highlighted that by expanding GSIB balance sheet capacity, the lower eSLR requirements improved Treasury and money market liquidity and functioning.
+Dealers play a central role in the market by warehousing and distributing Treasuries and arbitraging markets. As a result of the eSLR revision, these important market makers have greater capacity to effectively intermediate a growing market both by helping to smooth price changes on days when there is sizable Treasury issuance and by continuing to make markets in periods of greater market volatility.
+We are seeing other market improvements as well. Recently, dealers have increased their holdings of Treasury securities and hedged these positions by shorting Treasury futures. This increase in dealer holdings has likely absorbed some positions previously held predominantly by hedge funds as part of the cash-futures basis trade. These conditions are likely to lessen the influence in Treasury markets of investors holding highly leveraged trading positions that are particularly vulnerable to adverse shocks in funding, cash, or derivatives markets. This change supports Treasury market resilience by limiting the potential for a selloff in cash securities amid volatile conditions, therefore reducing the likelihood of market dislocation. The expanded bank dealer capacity has enabled some market participants to reduce their exposures without significant market disruption.
+We can already see improved market liquidity and functioning across these markets, through narrower bid-ask spreads, reduced intraday volatility during auction cycles, calmer funding conditions, and greater price stability during periods of elevated supply. All of this indicates that dealer intermediation is successfully absorbing flows that could have previously caused more pronounced market dislocations.
+Perhaps most importantly, these reforms deliver their greatest value when it matters mostâthat is, during periods of market stress. As many market participants have noted, while they may not face near-term eSLR constraints in normal times, the real benefit of the recalibration is eliminating the likelihood of becoming constrained during risk-off or surge activity eventsâprecisely when market liquidity is most critical.
+9
+The Broader Lesson: The Importance of Regulatory Modernization
+The success of the eSLR recalibration underscores a critical principle of financial regulatory oversight. We must continuously revisit and modernize our regulations when observations and data reveal frictions or indicate that a rule is no longer functioning as intended. This is not merely good policyâit is a legal requirement. We are obligated by law to periodically review our regulations to ensure they serve their intended purpose, whether that relates to market functioning or the safe and sound operation of financial institutions.
+Regulations should adapt as conditions evolve and as we gain experience with how rules operate in practice. When evidence shows that a regulation is creating adverse unintended consequences, we have a responsibility to act. The eSLR experience demonstrates that thoughtful recalibrationâgrounded in sound analysis and market feedbackâcan meaningfully improve both market resilience and the efficiency of our regulatory framework. This commitment to ongoing regulatory review will continue to guide our approach, ensuring that our rules remain effective, proportionate, and aligned with their fundamental objectives.
+1. The views expressed here are my own and are not necessarily those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee.
+Return to text
+2. See section IV.A of "
+Regulatory Capital: Modifications to the Enhanced Supplementary Leverage Ratio Standards for U.S. Global Systemically Important Bank Holding Companies and Their Subsidiary Depository Institutions; Total Loss-Absorbing Capacity and Long-Term Debt Requirements for U.S. Global Systemically Important Bank Holding Companies
+," December 1, 2025.
+Return to text
+3. See Falk Bräuning and Hillary Stein, "The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market,"
+Review of Financial Studies
+, forthcoming, https://doi.org/10.1093/rfs/hhag043. Similarly, measures of U.S. Treasury market liquidity appeared to be adversely affected as primary dealers faced capacity constraints, as shown by Darrell Duffie, Michael J. Fleming, Frank M. Keane, Claire Nelson, Or Shachar, and Peter Van Tassel, "
+Dealer Capacity and U.S. Treasury Market Functionality
+," Staff Reports No. 1070 (Federal Reserve Bank of New York, August 2023; revised October 2023).
+Return to text
+4. See Giovanni Favara, Sebastian Infante, and Marcelo Rezende, "Leverage Regulations and Treasury Market Participation: Evidence from Credit Line Drawdowns," unpublished paper (August 4, 2022; revised October 21, 2025), https://ssrn.com/abstract=4175429.
+Return to text
+5. See Atman Mohanty, Lubomir Petrasek, Zack Saravay, and Martin Waibel, "Dealers' Treasury Market Activity and eSLR Rule Modification," FEDS Notes (Board of Governors of the Federal Reserve System, forthcoming).
+Return to text
+6. Data from Federal Reserve Board, Form FR 2052a, Complex Institution Liquidity Monitoring Report.
+Return to text
+7. See Mohanty et al., "Dealers' Treasury Market Activities."
+Return to text
+8. The March 2026 Senior Financial Officer Survey results are available on the Board's website at
+https://www.federalreserve.gov/data/sfos/March-2026-Senior-Financial-Officer-Survey-Results.htm
+.
+Return to text
+9. This view is consistent with the findings in Favara et al., "Leverage Regulations."
+Return to text

@@ -1,0 +1,54 @@
+SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm
+
+October 01, 2026
+The U.S. Economy and Monetary Policy
+Vice Chair Philip N. Jefferson
+At the Darden School of Business, University of Virginia, Charlottesville, Virginia
+Watch Live
+Thank you, Bo, for that kind introduction. There are few places I would rather be than on these beautiful grounds at the start of October. Seeing the sugar maples along the Lawn starting to turn their distinctive shade of Cavalier orange is one of this country's iconic scholastic images. I am proud to have received my Ph.D. from the University of Virginia (UVA), and I have many wonderful memories of my time spent here in Charlottesville. It is an honor to speak with you today.
+1
+slide 1
+This is a consequential moment for the U.S. economy and a challenging time for monetary policymakers. The economy is being shaped by the rapid adoption of artificial intelligence (AI), shifting geopolitical dynamics, and underlying demographic trends. Compounding these structural changes, the economy has also faced a cascade of shocks, including an energy shock, a massive AI infrastructure buildout, and significant changes in trade policy. I see the economy as likely to show continued resilience, despite these challenges, by adding jobs and extending a six-and-a-half-year-long expansion. However, inflation is too high and has exceeded the Federal Reserve's 2 percent target for more than five years. While I view the risks to both economic activity and employment as roughly balanced at this point, I see upside risks to inflation.
+Today I will
+discuss
+in more detail how I see the economy unfolding, including for both sides of our dual mandate of maximum employment and price stability. Then, I will discuss the FOMC's policy decision last month and offer a few thoughts on how I will assess the appropriate future path of monetary policy.
+Economic Activity
+Economic growth has maintained its momentum this year and has been expanding at a pace roughly in line with its potential rate despite being buffeted by several shocks. As you can see in
+figure 1
+, GDP expanded at a 2.4 percent pace in the first half of this year, roughly consistent with growth for the previous two years. Business investment has been quite strong, primarily supported by AI-related spending. Consumer spending has remained resilient despite higher energy prices and higher prices for tariff-affected products. As you can see in
+figure 2
+, spending at retailers accelerated somewhat in the first half of this year. I continue, however, to hear anecdotal evidence of elevated price sensitivity and softening consumer demand, especially for low-income consumers.
+Looking ahead, I anticipate that AI-related investments will continue to support growth this year, and, accordingly, I expect near-term real GDP growth to remain roughly the same as the pace seen in the first half of the year. I view the risks to my growth forecast as roughly balanced. On the one hand, increased caution and uncertainty with heightened tensions in the Middle East may still weigh on economic activity. On the other hand, a further surge in investment spending and significant upward surprises in the AI buildout may result in GDP growth that is stronger than my baseline assumption.
+Labor Market
+In the labor market, a broad range of data indicates that conditions have stabilized.
+Figure 3
+shows that after increasing modestly in 2024 and 2025, the unemployment rate has moved roughly sideways this year and ticked down to 4.1 percent in August. I view that level as near maximum employment. Hiring picked up somewhat in the spring and summer months. In
+figure 4
+, focusing on the three-month moving average, the dashed red line, you can see hiring flattened in the second half of last year before edging higher more recently. Very slow growth in the size of the labor force allowed the unemployment rate to remain mostly stable even during that period of slower hiring. While job creation has been somewhat volatile, payroll gains have broadened to many sectors in recent months, which is encouraging. Layoffs have remained low, and job openings have moved a bit higher on net. Consistent with a stable labor market,
+figure 5
+shows that the ratio of job vacancies to unemployed workers has moved back above 1 this year after dipping slightly below that level last year.
+I expect the unemployment rate to stay around its current level through the rest of the year. In line with my growth outlook, I view the risks to my employment forecast as largely balanced. Global uncertainty, especially tied to the conflict in the Middle East, could put pressure on growth and thus weigh on the labor market. I am also closely monitoring the effects of AI on employment. It is possible that this technology leads to job losses in certain sectors or for certain groups of workers. However, if the AI buildout supports even stronger economic growth than in my baseline forecast, the unemployment rate may fall further, resulting in tighter labor market conditions.
+Inflation
+Turning to the price-stability side of our mandate, I will start by acknowledging that inflation has been too high for too long. The 12-month change in the personal consumption expenditures price index, the blue line in
+figure 6
+, was 3.4 percent in August. While inflation has eased from pandemic highs, it has remained above our 2 percent target for more than five years. The 12-month change in core inflation, which excludes volatile food and energy prices, the dashed red line, was somewhat milder. The predominant factor driving the recent pickup in headline inflation is energy prices, including gasoline and diesel costs. Oil prices have been quite volatile, and global energy supplies have come under renewed strain, reflecting heightened geopolitical tensions. I remain concerned about the risk of higher energy prices leading to a persistent rise in inflation more broadly.
+With respect to the components of core inflation, the category of core services excluding housingâthe dashed red line in
+figure 7
+âhas been edging up this year despite gradually declining nominal wage growth. The boom in AI-related demand is driving unusually strong increases in the cost of producing related goods and services, contributing to the rise in core goods prices, the solid blue line. Housing services prices, the dashed-and-dotted orange line, have been a source of disinflation in recent years, though that trend has leveled off this year.
+Survey-based short-term measures of inflation expectations are elevated. Mostâ¯measures ofâ¯longer-term inflation expectations, however, haveâ¯remainedâ¯stable at levels consistent with 2 percentâ¯inflation. These developments suggest that we are not yet seeing spillovers from tariffs, energy price shocks, and the surge in certain categories of goods prices into broader and more persistent inflation. But if actual inflation remains above our target, then households and businesses may eventually stop believing that we will return inflation to 2 percent. This potential uncertainty couldâ¯lead to a rise in longer-term inflation expectations andâ¯affect wage- and price-settingâ¯decisions, and I am committed to avoiding this outcome.
+As my base case, I expect inflation to be elevated in the short run before resuming its decline toward our 2â¯percent goal as the effects of energy and other price shocks fade. I view risks to my inflation forecast as tilted to the upside due to recent geopolitical developments and stronger-than-anticipated aggregate demand.
+Monetary Policy
+Considering the economic conditions that persisted through mid-September, the FOMC voted last month to raise the target range for the federal funds rate by a 1/4 percentage point to 3-3/4 to 4 percent as shown in
+figure 8
+. I supported that decision because I saw it as the appropriate policy to pursue the Fed's dual mandate. This was an important step to ensure longer-term inflation expectations remain well anchored and to validate the public's confidence that we will achieve our 2 percent inflation objective in a timely manner.
+As I described, I see economic activity and labor market conditions remaining broadly solid while inflation remains above our target. The economy is being buffeted by a cascade of shocks, including rising energy prices, the surging AI buildout, and changes to trade policy. We do not have the luxury of considering each of these shocks in isolation. Rather, we must consider how this cascade might affect the entire economy when setting policy to achieve our dual-mandate objectives.
+As we look ahead, my view is that any future adjustments in policy should be determined by carefully examining trends in the data, the evolving outlook, and the balance of risks. Since our September meeting, yields across the term structure have increased further, a sign that investors are reassessing the evolving macroeconomic landscape. My colleagues and I will need to come to our own judgment, which may take more time. I will continue to assess whether underlying trends suggest that inflation will return to target with sufficient speed. With more data in hand, such trends may lend themselves to better discernment, as may the appropriate stance of monetary policy.
+It is the Fed's responsibility to deliver maximum employment and stable prices. That is what Congress has instructed us to do, and those are the conditions that will result in the best outcomes for all Americans.
+Conclusion
+Better understanding how American families are experiencing the economy is something I studied here at UVA, and that has remained an area of focus throughout my academic career. Those lessons taught me why it is so important that the Fed restores price stability while maintaining a solid labor market. And that is what I am fully committed to accomplishing.
+Thank you again for having me. It is a delight to be back in Charlottesville.
+slide 11
+1. The views expressed here are my own and are not necessarily those of my colleagues on the Federal Reserve Board or the Federal Open Market Committee (FOMC).
+Return to text
+View speech charts and figures
+Accessible Version
