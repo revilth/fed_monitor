@@ -1,0 +1,136 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: October 5, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first increase since
+  July 26, 2023)  |  FFR: 3.75–4.00% (raised +25bp, 12–0)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none collected for October 5, 2026)
+════════════════════════════════════════════════════════════════
+
+NO SCORED SPEECHES TODAY
+
+No speeches dated October 5, 2026 were collected by the 5:30am ET GitHub
+Actions run. No fetch failures were logged (_fetch_failures.json absent).
+Outbound web access to federalreserve.gov and regional bank sites is
+blocked by the proxy environment this run (connect_rejected), so
+independent calendar verification was not possible; the absence of October 5
+files in data/raw/ reflects the collect job's output.
+
+Note: There is a significant unscored backlog from October 1–2 awaiting
+processing:
+
+  PRIORITY 1 — Just Voter / Troika (Type A speeches, score next):
+    • Philip N. Jefferson (Vice Chair, Troika)  |  Oct 1, 2026
+      "The U.S. Economy and Monetary Policy"
+      Darden School of Business, UVA, Charlottesville, VA
+      SOURCE: https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm
+      Classification: Type A — Economic Outlook Speech
+      Headline: Endorsed the Sept 16 hike; "I will continue to assess whether
+      underlying trends suggest that inflation will return to target with
+      sufficient speed" (first use of Warsh's "sufficient speed" standard by a
+      Troika member). Inflation PCE 3.4%, "too high for too long," upside
+      risks. Labor "stabilized," unemployment 4.1%, "near maximum employment,"
+      roughly balanced. Growth 2.4% H1, balanced risks. Yields "have increased
+      further" since September — notes this directly. No forward guidance.
+      Pre-FOMC baseline: Score prior speech before writing comparison.
+
+    • Lorie Logan (Dallas, Just Voter)  |  Oct 1, 2026
+      "Opening remarks for moderated conversation at Voices of the Eleventh
+       District"
+      Dallas Fed, Dallas, TX
+      SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl261001
+      Classification: Type A (embedded outlook, brief — prepared remarks
+      opening a district advisory council discussion)
+      Headline: The most explicit rate-path signal from any voter since the
+      Sept 16 decision. "I currently estimate the target range needs to rise
+      an additional 50 basis points or more to appropriately balance the
+      outlook and risks for our dual mandate goals." Inflation "trending toward
+      the mid-2's, not all the way to 2 percent" (verbatim from her July 31
+      dissent statement — unchanged). Growth "strengthening"; labor "well
+      balanced" at 4.1%. Policy "not restrictive"; "policy needs to become
+      restrictive." Noted long-term yield rise driven by "strong nominal growth
+      and higher neutral rate" expectations, plus some term premium — watches
+      decomposition, "shifts ... reveal what market participants think the Fed
+      will need to do; they don't do our work for us." No change in stance vs.
+      July 31 dissent; this is the first post-hike confirmation that her path
+      view has not moved after getting one 25bp.
+
+  SKIP / LOW PRIORITY (Type B, no embedded outlook):
+    • Christopher J. Waller  |  Oct 1, 2026
+      "The Data Version of Godzilla versus Kong: FRED Takes on AI"
+      FRED Con 2026, St. Louis Fed — Type B (technology/data policy); no
+      monetary policy or economic outlook content. Skip.
+    • Michelle W. Bowman  |  Oct 1, 2026
+      "Modernizing Financial Regulation: Initial Observations from eSLR"
+      Atlantic Council CEO Summit — Type B (bank regulation/eSLR reform);
+      no monetary policy outlook content. Skip.
+    • Lorie Logan  |  Oct 2, 2026
+      "Welcome remarks for the Fifth Annual Workshop on the Macroeconomic
+       Implications of Migration"
+      Dallas Fed — Type B (academic conference welcome); no policy
+      outlook content beyond a passing reference to immigration's labor/
+      price effects as a research topic. Skip.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Wednesday, October 7, 2026
+────────────────────────────────────────────────────────────────
+  FOMC MINUTES — September 16, 2026 meeting
+  Expected: Wednesday, October 7, 2026
+  (~3 weeks after the September 15–16 meeting, the standard release
+  schedule; confirm exact time on federalreserve.gov/monetarypolicy/
+  fomccalendars.htm)
+  Classification: Type D — FOMC Minutes
+  Three required comparisons on release:
+    (1) vs. Warsh September 16 opening statement
+    (2) vs. July 29, 2026 minutes (prior meeting)
+    (3) vs. September 16 statement
+  Priority items to watch in the minutes:
+    — The distribution of views on the "not restrictive" / "mildly
+      restrictive" / "accommodation" stance-label debate (Warsh's framing
+      vs. Paulson/Waller/Hammack's "mildly restrictive")
+    — Whether the July dissenters' rationale (Hammack, Kashkari, Logan)
+      was characterized in the July 29 minutes as a distinct minority or
+      as reflecting a broader caucus — the September minutes will show
+      how the 12–0 result was reached
+    — Any mention of Logan's "+50bp or more" type signaling by
+      participants (forward guidance vs. conditional path language)
+    — Supply-shock attribution debate: the statement deleted the
+      attribution clause; the minutes may reveal which participants
+      opposed it and whether "some" vs. "a few" vs. "several" signal
+      a growing bloc
+    — Forward-guidance task-force progress: Warsh's June 17 task forces
+      expected to report by fall; any mention in meeting discussion
+    — Dissent record: 12–0 — minutes should show the path from 9–3
+      (July 29) to unanimity, including what the three former dissenters
+      (Hammack, Kashkari, Logan) received that produced their votes
+
+  Speaker appearances (October 7):
+  (Calendar lookup unavailable this run — outbound web access to
+  federalreserve.gov blocked by proxy environment. Check the Fed Board
+  events calendar and regional bank pages for confirmed appearances.)
+
+  Context: The inter-meeting window October 1–16 continues; blackout
+  begins October 17, 2026 for the October 27–28 FOMC meeting. There are
+  11 speaking days remaining (Oct 7–16 inclusive) before silence. The
+  minutes release on Oct 7 will be the dominant event of the week.
+  Next FOMC: October 27–28, 2026 (NOT a projection meeting — no SEP).
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  (none — no speeches collected for October 5, 2026)
+
+Backlog sources (unscored, for reference):
+  Jefferson Oct 1:
+    https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm
+  Logan Oct 1 (Voices of 11th District):
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl261001
+  Waller Oct 1 (FRED Con):
+    https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm
+  Bowman Oct 1 (eSLR):
+    https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm
+  Logan Oct 2 (Migration Workshop):
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl261002
+════════════════════════════════════════════════════════════════
