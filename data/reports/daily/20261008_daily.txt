@@ -1,0 +1,171 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: October 8, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING  |  FFR: 3.75–4.00%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Christopher J. Waller  |  Governor  |  Just Voter
+     "The Signaling Value of the Summary of Economic Projections"
+     Istanbul Economic Forum, Central Bank of the Republic of Türkiye,
+     Istanbul, Türkiye
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  CHRISTOPHER J. WALLER  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TYPE: B with embedded outlook. The first half reviews the economic rationale
+for the September hike and the current conditions read (Type A methodology);
+the second half argues the SEP functions as a "signaling option" — between
+silence and full forward guidance — that is working as designed.
+
+GROWTH
+  Waller echoes the September 16 statement's "domestic spending has been
+  resilient" with "economic activity is strengthening in the second half of
+  this year." Growth remains the permissive backdrop for further tightening:
+  "I am not greatly concerned that tighter monetary policy threatens a
+  damaging slowdown in the economy." No new data; the directional adjective
+  "strengthening" is stronger than Sep 3's "solid pace."
+  Direction: neutral (growth clears the path for hikes; not a concern in
+  either direction)
+
+LABOR MARKET
+  September jobs report described as "solid and stable"; the unemployment
+  rate "near the median of policymakers' projections of its longer-run
+  level"; payroll gains "in the range of estimates of breakeven." He notes
+  the overall count was "down" but maintains the same "satisfactory" verdict
+  as Sep 3. Labor remains explicitly excluded from his decision: "policy
+  will be focused on the inflation side of our mandate."
+  Direction: neutral
+
+INFLATION
+  The three-month disinflation signal he highlighted on September 3 did not
+  survive the August data. He reports August core PCE at 0.25% monthly and
+  3.0% 12-month — "not showing sufficient progress." He traces the pivot
+  decision to three persistent forces: (1) Middle East conflict keeping oil
+  prices elevated "through 2027"; (2) AI buildout "significantly driving up
+  high-tech consumer prices"; (3) the threat of additional tariffs. The hot
+  August CPI was "impossible to deny." New emphasis vs. Sep 3: expectations
+  risk elevated from contingent to active — "I am concerned that the recent
+  acceleration in inflation... will lead consumers, investors, and price-
+  setting businesses to revise up their expectations." The three-month-core
+  momentum measure (4.76%→3.05%, "encouraging" on Sep 3) and the nonmarket-
+  services adjustment are both absent — silently retired by the August data.
+  Direction: hawkish lean
+
+MONETARY POLICY
+  Base case is now explicit additional hikes: "If the economic data continue
+  to come in as expected, I anticipate additional hikes to support a timelier
+  return of inflation to our 2 percent goal." Verbatim adoption of the
+  September 16 statement phrase "timelier return." Timing is flexible — "do
+  not need to come at consecutive meetings, but they should be in place in an
+  acceptable period of time." No explicit stance label (the Sep 3 "only
+  slightly restricting aggregate demand" is not repeated). Cut scenario:
+  absent entirely.
+
+  SEP framework: He defends the dot plot as functioning as designed — a
+  "signaling option" that communicates the likely terminal rate range without
+  committing to pace. He cites: 16/18 participants expecting at least one
+  more hike this year; 4 expecting two; 8 expecting rates 50bp higher by
+  end-2027. Market pricing (as of Oct 7): 85% chance of at least one hike
+  by December; ~80% chance at least two by March 2027. This is the most
+  explicit defense of the SEP's usefulness since Chair Warsh began signaling
+  possible reform (Jul 1: "for a short time, at the very least"; dot
+  withheld twice). Waller does not address the Chair's reform signals directly.
+  Direction: hawkish
+
+NET SIGNAL: HAWKISH LEAN — the September 3 conditional (hold if disinflation
+continues; hike if hot) has resolved: August was hot, September hiked, and
+additional hikes are now anticipated. The base case has moved from hold-with-
+hike-branch to hike-with-timing-flexibility.
+
+vs. PRIOR SPEECH (Sep 3, 2026):
+  HAWKISH — Sep 3 hold was the stated inclination; Oct 8 additional hikes
+  are the base case. The three-month disinflation read reversed by August
+  data. Expectations risk elevated from contingent to active.
+
+vs. PRE-FOMC SPEECH (Sep 3, 2026):
+  Same comparison — hawkish.
+
+vs. COMMITTEE SINCE FOMC (Sep 16):
+  Waller joins Paulson (Sep 24), Barkin (Sep 22), Schmid (Sep 18), and
+  Goolsbee (Sep 21) in post-hike endorsement and a base case that includes
+  at least one additional move. His formulation is the most explicit: where
+  Barkin said "one 'talking-to' might not be enough" and Paulson said "some
+  modest further tightening may be warranted," Waller says "anticipate
+  additional hikes." The only post-FOMC speakers not explicitly endorsing
+  more: Logan and Hammack have not spoken publicly since September 24–25
+  (Hammack's Sep 25 panel appearance unscored; no Hammack or Logan prepared
+  remarks since the hike).
+
+LANGUAGE TO WATCH:
+  • "timelier return of inflation to our 2 percent goal" — verbatim from the
+    Sep 16 statement; confirmed as committee-level language. Stage: IN-STATEMENT.
+  • "anticipate additional hikes... not consecutive... acceptable period of time"
+    — Waller's most explicit near-term path statement. Stage: DISPERSED (first
+    use of this framing; watch for Logan/Hammack adoption).
+  • "impossible to deny" (re August CPI) — frames September hike as evidence-
+    forced, not discretionary. Stage: DISPERSED (first use).
+  • "five and a half years" duration clock — third use across Waller, Barkin;
+    watch for Logan and Paulson. Stage: SPREADING.
+  • SEP "signaling role" / defense of the dot plot — Stage: DISPERSED. First
+    explicit public defense of the SEP mechanism post-Warsh's reform signals.
+    Key fault line to watch.
+
+ANALYST FLAG: YES
+  → (1) "Acceptable period of time": does this include the October 27–28
+    meeting, or does Waller's flexibility point only to December? Market
+    pricing (85% for December, not October) implies October is not priced.
+    Clarify on next appearance.
+  → (2) SEP defense vs. Warsh reform: the explicit "SEP is serving that
+    signaling role" framing is the first public counter to the Chair's
+    communications-reform trajectory. Does Warsh respond, or is this a
+    permitted public debate within the task forces?
+  → (3) Three-month core momentum and nonmarket-services adjustment (Sep 3's
+    two dovish analytics) are silently dropped. Confirm what August three-
+    month core read was after revisions.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Mon Oct 12 – Fri Oct 16
+────────────────────────────────────────────────────────────────
+NOTE: The FOMC blackout for the October 27–28 meeting begins SATURDAY
+OCTOBER 17. Next week is the LAST FULL WEEK of policy-relevant communication
+before the blackout. Any appearance is final public positioning for the
+October meeting. All speakers should be treated as pre-blackout signals.
+
+CONFIRMED:
+  Beth Hammack  |  Cleveland Fed President  |  Just Voter
+  Luncheon keynote, NABE 2026 Annual Meeting
+  "Global Structural Reset: AI, Demographics and Geopolitics"
+  Monday, October 12, 12:10pm EDT
+  Hilton Cleveland Downtown (virtual access available)
+  SOURCE: nabe.com/NABE/Events/AM26/AM2026.aspx
+  — Hammack is the committee's hardest hawk; her last policy-relevant
+    speech was her Sep 25 policy panel (unscored). This is her first
+    prepared remarks post-hike. High priority: will she signal a second
+    hike at October 27–28 or point to December?
+
+UNCONFIRMED:
+  Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+  Bloomberg TV interview, 08:30 EDT  (date unconfirmed — possibly before
+  Oct 12; flagged by Newsquawk, no confirmed date as of this run)
+  (unconfirmed)
+
+No confirmed appearances found for Oct 12–16 for: Warsh, Jefferson,
+Williams, Bowman, Barr, Cook, Waller, Paulson, Logan, Goolsbee,
+Collins, Barkin, Daly, Schmid, Musalem.
+Additional appearances may be posted later this week; re-check
+federalreserve.gov/newsevents/2026-october.htm and regional bank
+event pages.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Waller Oct 8, 2026:  https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+
+Prior speech (vs. PRIOR SPEECH):
+  Waller Sep 3, 2026:  https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
+
+Pre-FOMC baseline (vs. PRE-FOMC SPEECH):
+  Waller Sep 3, 2026:  https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
+════════════════════════════════════════════════════════════════

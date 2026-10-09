@@ -1,0 +1,282 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+October 8, 2026 | Christopher J. Waller | Governor | Just Voter
+"The Signaling Value of the Summary of Economic Projections"
+Istanbul Economic Forum, Central Bank of the Republic of Türkiye,
+Istanbul, Türkiye
+SOURCE: https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+
+CLASSIFICATION: Type B — Special Topic (SEP signaling framework) WITH
+  EMBEDDED OUTLOOK. The first ~7 paragraphs constitute a Type A economic
+  outlook section reviewing the rationale for the September 16 hike and
+  the current conditions read; scored with Type A methodology. The second
+  section (paragraphs 8 onward) develops a framework for the SEP as a
+  "signaling option" between silence and full forward guidance. His first
+  public appearance since September 3, and his first post-September-16
+  speech.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED from the inflation
+                   paragraph; "domestic spending has been resilient" added;
+                   "Today's policy action will support a timelier return
+                   to the Committee's 2 percent goal")
+PRE-FOMC BASELINE: September 3, 2026  "The Economic Outlook and Some
+                   Comments on My Policy Communication" (Reuters NEXT) —
+                   data/scored/speeches/20260903_Christopher_J__Waller_scored.txt
+POST-FOMC PRIOR:   N/A — first Waller communication since September 3 (35 days);
+                   September 3 is both comparators.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace despite elevated uncertainty
+   ... domestic spending has been resilient" [Sep 16 stmt, new phrase]
+  → Waller: "With evidence that economic activity is strengthening in the
+    second half of this year, I am not greatly concerned that tighter monetary
+    policy threatens a damaging slowdown in the economy."
+
+Own language:
+  "With evidence that economic activity is strengthening in the second half
+   of this year, I am not greatly concerned that tighter monetary policy
+   threatens a damaging slowdown in the economy." — growth provides the cover
+   for tightening; it removes the brake on further hikes. Stronger framing
+   than Sep 3's "solid pace" — "strengthening" is directional, not level.
+
+  Rationale for 2025 cuts vs. current pivot: "When the FOMC cut rates from
+   September through December 2025, we did so with inflation fairly close to
+   our 2 percent target, after accounting for tariff effects... At the same
+   time, there was significant evidence of a weakening labor market." The
+   switch: by 2026 the labor market "stabilized, while progress on inflation
+   stalled."
+
+Shift vs. prior speech (Sep 3):   UNCHANGED — Sep 3 had GDP 2%, PDFP 3%,
+  wealth-effect sustaining consumption, AI investment not discounted. Oct 8
+  carries no new data but restates "strengthening" directionally. Growth is
+  still the permissive backdrop for further tightening.
+Shift vs. pre-FOMC (Sep 3):       Same comparison — unchanged.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little. The labor market is consistent with maximum employment."
+   [Sep 16 stmt]
+  → Waller: "the labor market continued to be solid and stable in September.
+    The unemployment rate remains relatively low and near the median of
+    policymakers' projections of its longer-run level, while payroll gains are
+    in the range of estimates of breakeven to keep the unemployment rate steady."
+
+Own verdict:
+  "the employment report indicated that the labor market continued to be solid
+   and stable in September" — identical register to "satisfactory" in Sep 3.
+   Payroll gains "down overall" but the breakeven-framing mechanism from Sep 3
+   (low net immigration) is carried without repeating the number.
+
+Own qualifier / addition:
+  "the unemployment rate... near the median of policymakers' projections of
+   its longer-run level" — aligns with the Sep 16 statement's "consistent with
+   maximum employment." Labor is explicitly excluded from driving his decision:
+   "policy will be focused on the inflation side of our mandate." This is the
+   Sep 3 gatekeeper ("not a large factor in my determination") restated post-hike.
+
+Shift vs. prior speech (Sep 3):   UNCHANGED — same "solid and stable" verdict;
+  same explicit asymmetry (labor is backdrop, inflation is the active variable).
+Shift vs. pre-FOMC (Sep 3):       Same comparison — unchanged.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated. Today's policy action will support a timelier
+   return to the Committee's 2 percent goal." [Sep 16 stmt — supply-shock
+   attribution DELETED vs. Jul 29]
+  → Waller: "August inflation data... showed monthly core PCE inflation of
+    0.25 percent and the 12-month change at 3 percent... not showing
+    sufficient progress." He echoes "timelier return" explicitly: "anticipate
+    additional hikes to support a timelier return of inflation to our 2 percent
+    goal."
+
+Own language — KEY (decision rationale for September hike):
+  "Three forces that undermined progress":
+  (1) "hopes for a quick ending to the Middle East conflict faded, and experts
+      warned that low inventories and damaged infrastructure could keep oil
+      prices high through 2027"
+  (2) "evidence mounted that the artificial intelligence buildout was
+      significantly driving up high-tech consumer prices, and projections for
+      the size of that buildout ballooned"
+  (3) "continuing trade conflicts threatened new tariffs that could put upward
+      pressure on inflation yet again"
+  → These are the three persistent forces he names as swamping the "fleeting
+    signs of progress." The AI buildout is now an inflation source — same as
+    Sep 3's upside risk, but more definitively framed.
+
+  "When the first inflation reading for August came in hot just before the
+   FOMC's September meeting, it was impossible to deny that inflation was
+   still too high and not making sufficient progress toward our target."
+  → The hot August CPI is stated as the trigger. He explicitly rebuts the
+    narrative that this was one-data-point-dependent: "it was the culmination
+    of factors that developed over the past year."
+
+  Current state: "August inflation data... showed monthly core PCE inflation
+   of 0.25 percent and the 12-month change at 3 percent... Looking at the
+   history of 12-month core inflation, it has been between roughly 2.5 percent
+   and 3.0 percent since the spring of 2024. This is obviously higher than we
+   want, above our target, and not showing sufficient progress."
+
+  Expectations concern (new emphasis vs. Sep 3):
+  "I am concerned that the recent acceleration in inflation—after what soon
+   will be five and a half years of it above the FOMC's target—will lead
+   consumers, investors, and price-setting businesses to revise up their
+   expectations for future inflation." — Duration-framed expectations risk,
+   more prominently stated than Sep 3. Sep 3 named expectations as a risk
+   to "acknowledge" if data reversed; Oct 8 names it as an active concern NOW.
+
+Comparison with Sep 3 — REVERSAL of the disinflation read:
+  Sep 3: "signs of disinflation," three-month core 4.76%→3.05% "encouraging,"
+    nonmarket services flattering core, pending Commerce revision "a few tenths."
+  Oct 8: August PCE 0.25%/3.0% 12m, "not showing sufficient progress."
+  The three-month series is not cited; the pending revision is not mentioned.
+  The Sep 3 hold branch ("continued progress") did not materialize.
+
+Shift vs. prior speech (Sep 3):   HAWKISH — The Sep 3 disinflation signal did
+  not survive the August data. "Not showing sufficient progress" replaces "signs
+  of disinflation." Expectations concern elevated from contingent risk to active
+  concern. The three-month-core momentum measure and the nonmarket-services
+  adjustment (the two novel items in Sep 3) are both silently dropped.
+Shift vs. pre-FOMC (Sep 3):       Same comparison — hawkish.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Today's policy action will support a timelier return to the Committee's 2
+   percent goal." [Sep 16 stmt]
+  → Waller: "I anticipate additional hikes to support a timelier return of
+    inflation to our 2 percent goal." — Verbatim adoption of "timelier return."
+
+Own language — KEY:
+  "If the economic data continue to come in as expected, I anticipate additional
+   hikes to support a timelier return of inflation to our 2 percent goal. But
+   there is some flexibility about when those hikes will occur. The hikes do
+   not need to come at consecutive meetings, but they should be in place in an
+   acceptable period of time."
+  → "Additional hikes" (plural) is now the base case, conditioned on "as
+    expected." This is a materially firmer posture than Sep 3's "I would be
+    inclined to support holding... if inflation comes in hot, I would consider
+    a rate hike." The conditional has resolved: September was the hot print;
+    more hikes are anticipated.
+
+  "For at least the near term, policy will be focused on the inflation side of
+   our mandate." — Asymmetric focus stated explicitly; labor is out of the
+   decision framework for now.
+
+SEP signaling framework (the special topic):
+  Waller argues the SEP functions as a "signaling option" — communicating the
+  likely terminal direction/quantum without committing to pace or meeting-level
+  decisions. He presents three options: silence (too volatile), full forward
+  guidance (too rigid), and the signaling option (SEP + speeches, the actual
+  approach).
+
+  Key SEP facts he cites:
+  "16 of the 18 participants who submitted dots anticipated at least one more
+   hike during the two remaining meetings this year. Four of those 16 expected
+   two additional hikes. ...eight participants expect that rates will be 50
+   basis points higher at the end of 2027 than they are today."
+
+  Market interpretation as of Oct 7: "85 percent chance of at least one hike
+   by the end of the FOMC's December meeting and nearly 20 percent chance of
+   two hikes. And, by the March 2027 meeting, markets see nearly an 80 percent
+   chance of at least two hikes and a 33 percent chance of three or more hikes."
+
+  Analytical note on SEP defense: This is a DIRECT DEFENSE of the SEP's
+  usefulness at a moment when Chair Warsh has signaled SEP reform ("for a
+  short time, at the very least," Jul 1; withheld his own dot twice; footnote
+  citing anti-dot paper in his Jackson Hole text). Waller argues it is
+  "serving that signaling role... The SEP and policymakers' outlook speeches
+  that encompass their interpretation of additional economic data" explain why
+  markets are correctly pricing the hike path. He does not address whether the
+  Chair will reform it.
+
+No stance label appears. "Only slightly restricting aggregate demand" from
+Sep 3 is NOT repeated. The path argument is framed as "removed a dose of
+accommodation" (the Chair's Sep 16 framing) is not used either — Waller does
+not characterize whether 3.75–4.00% is restrictive.
+
+Cut signal status:  ABSENT (no cut discussion in any form).
+Hike signal status: PRESENT — explicit base case; "anticipate additional hikes"
+  conditioned on data coming in "as expected"; timing flexible (not consecutive).
+
+Shift vs. prior speech (Sep 3):   HAWKISH — Sep 3: hold is the stated inclination;
+  hike is a named branch requiring "hot" August data. Oct 8: the September hike
+  has been delivered; additional hikes are now the base case. The transition from
+  conditional to anticipated is the key move.
+Shift vs. pre-FOMC (Sep 3):       Same comparison — hawkish.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH LEAN (vs. Sep 3; vs. the committee's current center)
+               Waller's first post-September-16 speech confirms the hike was
+               driven by a "preponderance of evidence over several months," not
+               a single print. The three-month disinflation trend he cited in
+               Sep 3 did not survive the hot August data (0.25% monthly core
+               PCE; 3.0% 12m). Additional hikes are now the anticipated base
+               case, conditioned on data "as expected." Timing is flexible
+               ("not consecutive meetings"), but the "acceptable period of time"
+               qualifier prevents indefinite deferral.
+
+               The SEP framework section is both analytically substantive and
+               politically pointed: by arguing the SEP is functioning as
+               designed ("signaling option"), he implicitly defends the tool
+               against the Chair's reform signals. The markets-are-reading-it-
+               correctly argument (85% for one hike by December) works only if
+               the SEP continues publishing useful dots.
+
+               Position relative to the committee: his "additional hikes"
+               framing matches the September SEP median (two more to ~4.25%–4.50%
+               through 2026), and is consistent with the Paulson (Sep 24),
+               Barkin (Sep 22), and Schmid (Sep 18) post-hike endorsements.
+               All four name a second hike as a base-case or likely path. Logan
+               and Hammack likely lean harder; Goolsbee's show-me-state caveat
+               is softer.
+
+Language watch:
+  • "anticipate additional hikes... not consecutive meetings, but... acceptable
+    period of time" — most explicit near-term hike path of any post-September-16
+    speaker. Stage: DISPERSED (first use of this specific formulation).
+  • "timelier return of inflation to our 2 percent goal" — VERBATIM ADOPTION of
+    the September 16 statement phrase; confirms it is committee-level language,
+    not just the Chair's. Stage: IN-STATEMENT (committee-wide).
+  • "five and a half years" duration clock — UNCHANGED from Sep 3; also in
+    Barkin Sep 22 ("five-year overshoot"). Stage: SPREADING (Waller, Barkin;
+    watch for Logan and Paulson to use it).
+  • "SEP serving that signaling role" / defense of the dot plot — Stage:
+    DISPERSED (first explicit defense of the SEP as a mechanism). Directly
+    counters Warsh's sunset signal. Watch for other officials to echo or avoid.
+  • "impossible to deny" (re hot August print) — Stage: DISPERSED (first use).
+    The idiom frames the September hike as evidence-forced, not discretionary.
+
+Analyst flag:  YES
+  → (1) "Additional hikes... not consecutive... acceptable period of time":
+    this is the most explicit near-term path statement of any post-FOMC speaker.
+    Does "acceptable period of time" signal the October 27–28 meeting is
+    under consideration, or only December? Markets price 85% for one by December
+    (not October) — verify whether Waller's formulation differs from that.
+  → (2) SEP defense vs. Warsh reform signal: Waller argues the SEP is "serving
+    that signaling role" well. Warsh has withheld his dot twice and signaled
+    potential reform. This is the most direct public counter to the Chair on
+    communications infrastructure. Watch whether other voters echo Waller's
+    defense or stay silent.
+  → (3) The Sep 3 three-month momentum measure (4.76%→3.05%) and the nonmarket-
+    services adjustment — both items he used in Sep 3 to argue "underlying
+    inflation is doing better" — are completely absent from Oct 8. The Aug PCE
+    data evidently negated them. Verify: what were the updated three-month
+    figures for August?
+  → (4) The foreign audience context (Istanbul Economic Forum, Central Bank of
+    Türkiye) is relevant: the international spillover from a US hiking cycle is
+    a natural political pressure point, and Waller explicitly defends the path.
+    No unusual deference in the text — treat it as a domestic policy speech.
+══════════════════════════════════════════════════════════
