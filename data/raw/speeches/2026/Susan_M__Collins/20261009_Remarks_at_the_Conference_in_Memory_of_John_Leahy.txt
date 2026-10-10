@@ -1,0 +1,272 @@
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/remarks-leahy-memorial-conference.aspx
+
+Remarks at the Conference in Memory  
+of  John Leahy 
+
+At the University of Michigan 
+Conference sponsored by the University of Michigan’s 
+Department of Economics and Ford School of Public Policy, 
+and the New York University Department of Economics 
+
+Susan M. Collins 
+President & Chief Executive Officer 
+Federal Reserve Bank of Boston 
+
+Friday, October 9, 2026 
+Ann Arbor, Michigan 
+
+The views expressed today are my own, not necessarily those of my colleagues on 
+the Federal Reserve Board of Governors or the Federal Open Market Committee 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Good afternoon, and thank you Kathryn.   
+
+  While I remain deeply saddened by the tragic loss of John Leahy, I am honored to be here 
+
+today, with all of you, to celebrate John’s life and his many, many contributions – to our lives, to 
+
+economics, and to the field of monetary policy. And it is always gratifying to be back at the Ford 
+
+School, and the University of Michigan. 
+
+I’d like to begin my remarks with a few memories of John, before turning to some of the 
+
+ways his work, as a macro theorist, has been quite impactful for thinking about monetary policy. I 
+
+then look forward to the conversation with Kathryn and Allen. But first – even though I will not speak 
+
+about economic conditions, my outlook, or current policy perspectives, I’ll still give my standard 
+
+disclaimer: The views I express do not necessarily reflect those of the other Fed policymakers at 
+
+the Board of Governors or the Reserve Banks. 
+
+I met John in September 1990, when he first joined the Harvard economics faculty, and we 
+
+were colleagues for two years. I remember thinking that he was the definition of “bright-eyed and 
+
+bushy tailed,” which was quite refreshing. I had joined the Harvard economics faculty six years 
+
+earlier – and had just wrapped up a year in Washington at the Council of Economic Advisors (CEA) 
+
+as the international macro senior staff economist. And John wanted to talk about…everything: how 
+
+to navigate being a junior faculty member at Harvard, why the CEA had championed an exchange 
+
+rate stabilization fund for formerly planned economies, where to get the best food in Harvard 
+
+Square, how the (S,s) models he worked on with Andrew Caplin were relevant for my work on 
+
+realignments in the European Monetary System, and much more. He was great to talk economics 
+
+with – whether about teaching or research projects. (And it was fun to have another colleague who 
+
+looked as young as I did.) 
+
+  Fast forward 25 years, to 2015. I was dean of the Ford School here at Michigan, working 
+
+with the Department of Economics to fill the Allen Sinai Professorship of Macroeconomics and 
+
+Public Policy. Allen will talk about his vision for the Sinai Chair in a moment, but I’ll just say that 
+
+John was the perfect match for the Chair. His addition was exciting for both the Ford School and the 
+
+economics department, and the Chair was the perfect way to recruit John to Michigan – something 
+
+we had aspired to do for some time. It was also wonderful to welcome Aditi and their family to the 
+
+university and Ann Arbor community.  
+
+John was an exemplary colleague – not only a gifted teacher, thoughtful mentor, and 
+
+impactful researcher, but also a senior faculty member who would “step up” to help make the 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+institution a better place for students, faculty, and staff. John was a very special human being – 
+
+kind, thoughtful, and generous – with a fabulous sense of humor. It was great to have him on board. 
+
+I’ll now turn to how John Leahy’s academic research has been influential for the field of 
+
+monetary policy, and valuable to me as a Fed policymaker.   
+
+  As you all know, John’s research was primarily in macroeconomic theory – we heard about 
+
+many dimensions of this in earlier sessions today. However, I’ll note that the connections between 
+
+highly technical work and policy are not always evident. As many of you know, John’s academic 
+
+roots were inter-disciplinary. His Williams B.A. combined History and German with Math. And he got 
+
+an M.S. in Public Policy from Georgetown before heading to Princeton for his Ph.D. in economics. 
+
+So yes, he was a deep, mathematical thinker. But the subjects that excited him intellectually were 
+
+much broader than that. In my experience, he saw this as a two-way street. For instance, he 
+
+leveraged insights from psychology to better understand expectations formation. He also cared 
+
+about applications of his research insights – including for monetary policy.   
+
+  And John was a great communicator, adept at explaining complex ideas in accessible ways 
+
+– to those in his field, and beyond. A case in point is his 2016 “Sinai Lecture” on Wishful Thinking 
+
+and Expectations, delivered in this venue as part of his professorship installation. His ability to 
+
+communicate broadly – and willingness to take the time to do so, is part of how and why John’s 
+
+work was broadly influential. And I’ll note that he was very connected to the Federal Reserve 
+
+System throughout his career – co-authoring with Fed economists, and spending time at several 
+
+Reserve Banks.  
+
+  More generally, John’s research was influential because it helped shape how people in the 
+
+economics profession, especially macroeconomists, think about key economic phenomena. He 
+
+made fundamental contributions to several distinct but intertwined areas of macroeconomics. I will 
+
+highlight three that are especially salient for monetary policy. 
+
+  First, much of John’s early work (with Andrew Caplin) focused on modeling price stickiness, 
+
+and the implications of this stickiness for the real economy. Leveraging (S,s) pricing models that 
+
+provide a rich framework for modeling such rigidities, John and Andrew showed why monetary 
+
+policy has effects on the real economy – and how these effects may vary with economic conditions. 
+
+This research stream also helps explain why monetary policy works with lags – the so-called time 
+
+dimension of monetary policy transmission. In later work, John and Mark Gertler provided a 
+
+tractable (S,s)-based framework for modeling the Phillips Curve, which laid the foundations for 
+
+important modern approaches used – including by major central banks – to quantify how monetary 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+policy affects macroeconomic outcomes. One important idea that subsequently grew from this work 
+
+was that the Phillips curve could be nonlinear. This has been a subject of much discussion in policy 
+
+circles, most recently following the post-pandemic inflation surge, and was featured prominently in 
+
+the Federal Reserve’s most recent framework review. 
+
+  Second, John and co-authors made substantial contributions to explaining how monetary 
+
+policy actually works – the channels of transmission. One important contribution was to explore 
+
+(with Simon Gilchrist) the links between asset prices and monetary policy, considering questions of 
+
+great relevance for policymakers – such as whether and how monetary policy should react to 
+
+shocks that impact financial markets. In recent work with Aditi Thapar, John examined another 
+
+potential determinant of the transmission – the demographics underlying the economy – finding that 
+
+the impact of monetary policy increases with the size of the middle-aged population. 
+
+  Third, in the most recent part of his career, John made major contributions to the burgeoning 
+
+field of rational inattention – how people pay attention, and what information they pay attention to. 
+
+While much of his work focused on micro foundations, this research helped lay the foundation for 
+
+the movement away from models with rational expectations towards more realistic macroeconomic 
+
+models, implications of which have made their way into policy discussions. In fact, the interplay with 
+
+alternate forms of expectations was an important consideration in the Federal Reserve’s 
+
+deliberations about flexible average inflation targeting, which was adopted in 2020. In particular, as 
+
+I’ve already mentioned, John had a deep interest in how people form expectations – and in ways 
+
+these may be biased – emphasizing that people’s expectations may be overly “optimistic” relative to 
+
+a typical rational expectations approach.   
+
+  Pulling these themes together, one central message of John’s work has been that monetary 
+
+transmission depends on microeconomic heterogeneity and frictions that earlier representative 
+
+agent models miss. 
+
+  Of course, the real world never works as simply as even quite complex models suggest. And 
+
+as a policymaker, I am keenly aware that actual policy decisions are almost never easy or clean – 
+
+the real world is much more complicated and nuanced than our simple models can describe or 
+
+capture. This is something John was highly attuned to, eager to discuss, and always trying to better 
+
+understand.   
+
+  Having John join the Chicago Fed as a research director would have brought an 
+
+exceptionally broad and eclectic thinker to the policy table. I am sure John’s intellectual 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+contributions would have been greatly appreciated by the members of the Open Market Committee 
+
+as it grapples with complex economic phenomena. 
+
+I’ll end my remarks there, and look forward to the additional discussion with Kathryn and 
+
+Allen. But let me say, once again, that I am very grateful for the opportunity to be here, to celebrate 
+
+John’s work and life with great appreciation. John is, and will be, deeply missed. 
+
+5
