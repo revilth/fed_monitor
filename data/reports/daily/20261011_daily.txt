@@ -1,0 +1,95 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: October 11, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING  |  FFR: 3.75–4.00%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none)
+════════════════════════════════════════════════════════════════
+
+No Fed official speeches or testimony were scheduled or collected for
+October 11, 2026 (Sunday). No raw files dated 20261011 are present in
+data/raw/. This is expected — Sunday appearances are rare and no events
+were announced.
+
+RECENT ACTIVITY NOTE: Susan Collins (Boston, Non Voter) gave remarks at the
+Conference in Memory of John Leahy (University of Michigan, October 9, 2026).
+The transcript was collected (data/raw/speeches/2026/Susan_M__Collins/
+20261009_Remarks_at_the_Conference_in_Memory_of_John_Leahy.txt) but Collins
+explicitly prefaced: "I will not speak about economic conditions, my outlook,
+or current policy perspectives." This is Type B with no embedded economic
+outlook — not scored per classification rules. The October 9 daily report
+listed no speeches; this appearance should have been flagged there as
+NOT SCORED (Type B tribute, no policy content). No retrospective correction
+required; noted here for analyst awareness.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Monday, October 12 – Friday, October 16
+────────────────────────────────────────────────────────────────
+⚑ CRITICAL: This is the LAST FULL WEEK of policy communication before
+  the FOMC blackout begins Saturday, October 17. October 16 (Friday) is
+  the final day for public policy signals ahead of the October 27–28
+  FOMC meeting. That meeting is NOT a projection meeting (no SEP/dot plot).
+
+CONFIRMED:
+
+  Beth Hammack  |  Cleveland Fed President  |  Just Voter
+  NABE 2026 Annual Meeting — Luncheon Keynote
+  "Global Structural Reset: AI, Demographics and Geopolitics"
+  Monday, October 12, 12:10pm EDT
+  Hilton Cleveland Downtown, Cleveland, OH (virtual access available)
+  NABE Annual Meeting runs October 11–13.
+  — Priority: HIGH. Hammack is the committee's hardest hawk post-hike
+    ("I don't see ANY restriction in policy"; "now is the time to act").
+    Her last policy-relevant scored speech was Sep 24 (research welcome;
+    no policy content). This is her first prepared remarks with a
+    policy-relevant context since the September hike. Watch whether she:
+    (1) extends the "removed a dose of accommodation" framing or returns
+    to "not appropriately restrictive"; (2) names a second hike as her
+    base case or introduces a data condition; (3) updates the district
+    evidence on pricing ("broadening rather than fading").
+
+  Beige Book (Federal Reserve)
+  Wednesday, October 14, 2026, 2:00pm ET
+  Pre-meeting anecdotal survey; covers approx. late August–September.
+  — Score as Type H immediately on release. Critical inputs: whether
+    the national summary's "slight/modest/moderate" intensity language
+    on growth and prices steps up or down vs. the prior Beige Book
+    (last released August 13). This is the committee's final formal
+    economic conditions read before the October 27–28 meeting.
+
+UNCONFIRMED:
+
+  Neel Kashkari  |  Minneapolis Fed President  |  Just Voter
+  Bloomberg TV interview — flagged by Newsquawk as expected this week,
+  date and time unconfirmed.
+  (unconfirmed)
+  — If confirmed: Kashkari's last dated communication is his September
+    SEP dot (one additional hike this year, one in 2027; confirmed vs.
+    Oct 2 Bloomberg paraphrase). His stated dissent position: a SERIES
+    of small hikes if inflation persists. Watch whether he endorses a
+    second hike at October 27–28 or introduces a hold condition.
+
+NO ADDITIONAL CONFIRMED APPEARANCES found for this week for:
+  Warsh, Jefferson, Williams, Bowman, Barr, Cook, Waller, Paulson,
+  Logan, Goolsbee, Collins, Barkin, Daly, Schmid, Musalem.
+  Check federalreserve.gov/newsevents/ and regional bank event pages —
+  this window will likely see additional announcements as the week opens.
+
+BLACKOUT REMINDER: October 17–29 blackout for the October 27–28 FOMC.
+  No policy speeches after October 16 until the post-meeting press
+  conference (October 28, ~2:30pm ET).
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+No speeches this date.
+
+Context references:
+  Waller Oct 8, 2026 (most recent scored speech):
+    https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+  Collins Oct 9, 2026 (unscored — Type B tribute, no policy content):
+    https://www.bostonfed.org/news-and-events/speeches/2026/remarks-leahy-memorial-conference.aspx
+  Blackout periods (authoritative):
+    blackout_periods.json — October 17–29 for Oct 27–28 FOMC
+════════════════════════════════════════════════════════════════
