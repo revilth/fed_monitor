@@ -1,0 +1,125 @@
+SOURCE: https://www.clevelandfed.org/collections/speeches/2026/sp-20261012-trimming-the-sails-communicating-my-reaction-function
+
+Home
+›
+Speeches
+Speech
+Trimming the Sails: Communicating My Reaction Function
+Download pdf
+Beth M. Hammack
+President and Chief Executive Officer
+10.12.2026
+12:50 PM
+                        EDT
+In Person
+National Association of Business Economics, 68th NABE Annual Meeting, Cleveland, Ohio
+Introduction
+Thank you to the National Association of Business Economics for having me and for choosing Cleveland for this year’s annual meeting.
+1
+Cleveland exists because of its water access. In 1796, surveyor Moses Cleaveland chose the spot where the Cuyahoga River meets Lake Erie as the ideal site for settlement because it offered immediate access to inland and Great Lakes shipping lanes. The lake and river serve as foundational anchors for industrial growth in Cleveland. The winding Cuyahoga River and lakefront enabled the rise of massive steel mills, lumber yards, oil refineries, and the growth of manufacturing industries that followed.
+But today, as we look over Lake Erie, I’m reminded of a more recreational function of the water. As any Clevelander will tell you, summers here are glorious. In the warmer months, boating on the lake is a popular pastime. From my office here in downtown Cleveland, I can see sailboats navigating the wind and waves amid often fast-changing weather conditions. And it strikes me that the skills needed to manage these maritime changes are not unlike the skills we monetary policymakers must employ in our own work as we adjust to economic changes in real time.
+To navigate these changes, we must have both a destination and a course. Our destination of maximum employment and price stability is clear, but the course needed to reach that destination is not set; it is conditional on how the economy evolves. Based on current conditions, forecasts, and risks to the inflation side of our mandate, I believe a restrictive policy stance will be needed for us to reach our destination in a timely fashion.
+Before I dive in further, I should note that the views I express today are my own and not necessarily those of the Federal Reserve System or my colleagues on the Federal Open Market Committee (FOMC).
+Setting the Sails and Setting Monetary Policy
+While the destination may be clear when you set sail, even with the best forecast, you don’t know in advance exactly how strong the wind will blow, how hard the waves will break, or how many tacks it will take. Sailing requires continually reading conditions—and adjusting the sails and the tiller in response—in order to reach your destination in time for dinner.
+There are many parallels for policymakers. For one, we are clear on the destination. In the US, Congress has charged the FOMC with effectively promoting the goals of maximum employment and stable prices. Our reaction function explains how we respond to the winds, waves, and weather to reach our destination.
+The course that we have to set for this $32 trillion economy depends on the numerous decisions of households, businesses, and governments that can shift from day to day or year to year. We, as policymakers, must be as informed as possible about all elements of the economy to achieve our objectives. Because of this, I find myself wearing multiple hats in my role at the Cleveland Fed.
+First, there’s leading a Reserve Bank of more than a thousand people who are doing the work needed to help keep the economy running, like providing payments services to commercial banks, acting as fiscal agent to the US government, and ensuring fit currency is always available for the public.
+Second, there’s thinking hard with our team of PhD economists about research, data, financial conditions, the economic outlook, and monetary policy.
+And finally, there’s getting outside the Bank’s walls and into the Fourth Federal Reserve District. This means spending time in the communities of Ohio, western Pennsylvania, eastern Kentucky, and the northern panhandle of West Virginia. I want to hear directly from the people living and working in the Fourth District so that I can better understand how they experience the economy in their everyday lives.
+I do a lot of listening in these meetings, but I also want the people of the Fourth District to better understand the role of the Fed in their lives. In these conversations, I explain our commitment to price stability and maximum employment and how our actions might play a role in their decisions to borrow and save.
+This brings me to today’s topic: communication, specifically, why I think policymakers need to explain the information and the thought process behind our interest rate decisions. Explaining my reaction function is not a prediction for policy. It’s describing how I expect policy to adjust as conditions change.
+Like in sailing, I can explain where I’m going, what I’m seeing, and how I might respond to shifting winds or waves or weather. But what I ultimately do depends on lots of factors, many of which are outside my control.
+Why Explaining My Reaction Function Matters
+While the Federal Reserve Act defines the destination, the FOMC’s Statement on Longer-Run Goals and Monetary Policy Strategy provides the coordinates. Over the longer run, 2 percent PCE inflation is most consistent with price stability. Maximum employment is the highest level of employment that can be achieved while sustaining price stability. While these objectives are generally complementary, the consensus statement says we follow a balanced approach in promoting them when they are not.
+A reaction function describes how monetary policy typically responds to economic fundamentals to reach the goals. For example, when inflation is too high, monetary policymakers tend to raise interest rates to bring inflation back down. When the labor market is weak, policymakers tend to reduce interest rates to stimulate economic activity.
+Simple monetary policy rules capture these reactions in a stylized way. The original Taylor rule provides one reaction function that relates the federal funds rate to the equilibrium real rate, inflation, and the state of the real economy. There are many simple policy rules, and the Cleveland Fed’s website presents a variety of predictions from rules that past research has found useful.
+2
+Such policy rules are a starting point, but they have inherent limitations because the real world is complex. So speeches, like this one, and other communications help to flesh out my reaction function and explain its conditionality on current circumstances, along with how policy may need to respond if the winds suddenly shift.
+Explaining the reaction function is accountability through transparency. As a policymaker, I believe I have a responsibility to the public to explain why I make the decisions I make. Transparency has the benefit of allowing consumers, businesses, and financial markets to make better-informed decisions.
+Information on the reaction function also helps the public and financial markets anticipate policy actions, albeit with conditionality. If a consumer or a business borrows or lends money under a mistaken belief about how policymakers will or won’t move interest rates, that mistake could prove costly at the individual level and potentially for the economy writ large. Understanding the reaction function helps to limit unproductive volatility in financial markets. When markets don’t understand the reaction function, asset prices can lurch sharply as investors are caught wrong-footed.
+On the other hand, when financial markets know how policy is likely to react, they re-price in anticipation of these moves. Between FOMC meetings, financial markets respond to data both based on the outlook for the real economy, but mainly on what the FOMC will do, not what it should do.
+Explaining my thinking about policy also helps align expectations about the future. Many theoretical models used in macroeconomics posit that expectations play a crucial role in determining outcomes. In particular, being clear on the destination and the FOMC’s plan regarding how and when to get there helps anchor longer-term inflation expectations in line with our 2 percent objective, something which, in turn, makes it easier to achieve that outcome. History shows that it is very costly to restore the inflation anchor once it has been lost.
+I want to draw a sharp line here. A reaction function is not forward guidance. Treating the two as interchangeable can turn a well-meaning explanation of logic into the expectations of a promise.
+Forward guidance is a specific tool: an explicit commitment about the future path of policy, typically deployed when the federal funds rate is at the effective lower bound, like it was following the financial crisis.
+Economists have used a different sailing reference here to compare forward guidance to Odysseus tying himself to the mast of his ship to safely pass by the Sirens—Cleveland’s soon to be WNBA team. With Odyssean forward guidance, the commitment itself is the point. In this case, policy plans to deviate from the usual reaction function in an effort to provide more accommodation than is otherwise possible at the effective lower bound. A reaction function promises no such commitment. It instead indicates how policy is likely to proceed, conditional on a specific set of circumstances.
+What Feeds My Reaction Function
+With the dual mandate as the destination, I see my reaction function as trimming the sails and minding the tiller to respond to changing conditions so we safely reach our destination. When feasible, I generally think it’s preferable to make smaller adjustments, and to do so relatively quickly, rather than to wait and risk needing a larger course correction.
+So let me walk you through my reaction function and the variables I incorporate in making my monetary policy decisions. Specifically, my function relies on economic data, financial conditions, forecasts, risks, and what I hear directly from people living in this economy.
+The gold standard, hard economic data are indispensable. They can also take time to produce. I consult a wide variety of official data releases along with other indicators from the private sector to see where the economy is today.
+Researchers at the Cleveland Fed have developed multiple data series and indicators that we update on a regular basis. For example, the Center for Inflation Research at the Cleveland Fed provides daily nowcasts of inflation on the Bank’s website. The Center also produces alternative inflation measures—median CPI, trimmed-mean CPI, and median PCE inflation among them—in an attempt to remove some of the volatility from inflation measures and extract the medium-term inflation trend.
+As another example, Cleveland Fed researchers collect and share data from Worker Adjustment and Retraining Notification (or “WARN”) Act notices to capture mass layoff announcements, which research has found can help predict changes in the unemployment rate.
+3
+Financial markets aggregate an enormous amount of information quickly, sometimes in mere moments after an event occurs. I pay close attention to financial conditions because they play a role in transmitting policy to the broader economy. Businesses and households will be more or less likely to borrow as the cost of capital changes.
+However, asset prices can also move for reasons that are not always clear. I take the information that markets provide seriously, but I take it with my lost shaker of salt.
+Forecasts matter because of the lags between monetary policy actions and their effect on the economy. My staff and I consider a wide range of model- and judgment-based forecasts for their insights. It’s important to project where we’re headed and not just look at where we’re coming from.
+As everyone in this room knows, forecasting is hard. Because of this, it is often more informative to talk about the balance of risks, managing these risks, and the weights associated with alternative scenarios when thinking about the future path of the economy. A risk-management approach to policy helps reduce the likelihood of bad tail events.
+Real-world feedback is incredibly important and a benefit of our decentralized central bank design.
+Each of the 12 Reserve Banks is rooted in a specific part of the country, with boards of directors, advisory councils, and staff who are out talking to business owners, bankers, community organizations, and households every week.
+That District perspective isn’t a substitute for data, but it is a reality check on them. When I visit a manufacturer in Ohio or sit down with community bankers in western Pennsylvania, I hear about hiring plans, input costs, and loan demand. This is anecdotal, but these regional first-hand insights can sometimes portend a shift in the winds before the aggregate data begin to capture the change.
+My Current Economic Outlook
+So, with that framework, here’s how these inputs read to me right now and how I expect the weather to develop. I’ll start with inflation, because it’s where the wind has been blowing hardest against us.
+Inflation is elevated compared with our 2 percent objective. Headline PCE inflation was 3.4 percent in August this year, and core PCE was 3 percent. Both readings are above year-earlier levels, when headline was 2.7 percent and core was 2.9 percent. That’s not a stray gust; it’s a headwind that’s been with us for a while.
+I see inflation pressures as relatively broad-based rather than concentrated in one component. Energy has been making headlines this year, with prices rising for oil, retail gasoline, and diesel, but it isn’t the whole story.
+Higher tariff rates have been pushing up costs on the supply side. While a one-time increase in tariff rates could potentially be viewed as a one-time increase in the price level, multiple waves of tariff rate increases have resulted in a series of cost shocks.
+And it’s not just the supply side. Demand-side pressures coming from the AI buildout are raising prices on key computer, electronic, and high-tech components. This is raising costs for data centers, yes, but also for projects that use similar components in aviation, electricity production, and construction.
+When I talk with contacts across the District, I hear about additional cost pressures in health insurance, plastics, metals, grains, electricity, and other areas. Price pressures are also showing up in core services inflation excluding housing, a category that shouldn’t be especially exposed to tariffs or energy.
+Trend inflation measures point in the same direction. Cleveland Fed researchers estimate that once the median and trimmed-mean inflation measures are adjusted to account for changes in skewness, trend inflation sits in the mid to high 2 percent range, in line with other statistical measures of trend inflation.
+Because of the breadth of inflationary pressures, my baseline forecast is that it will take some time for inflation to return to 2 percent, even with appropriate monetary policy. A leveling off or decline in energy prices would certainly help move inflation in the right direction, but the demand-side pressures are not self-correcting. They are likely to be more persistent and usually require a more restrictive policy to reign them in.
+During my two years at the helm of the Cleveland Fed, the economy has experienced a number of upside inflation developments, and the risks still appear to be skewed in that direction. That’s the difference between a swell that passes under the hull and a genuine shift in the current: I can look through one supply shock without changing course. I have a much harder time looking through shocks that arrive one after another.
+So far, long-run inflation expectations have stayed remarkably well anchored despite actual inflation being above target for more than five years, but I’m not taking that for granted. With each passing month, persistently elevated inflation raises the risks of an inflationary mindset becoming entrenched in the economy.
+I’m beginning to hear this from business contacts. A District retailer, tired of several supply shocks pushing up input costs, said recently that they plan to increase prices by more than their current input costs have increased. They know there’ll be more inflation coming, they just don’t know from where. This could be a sign that an inflationary mindset is taking hold.
+When people expect higher prices, they make decisions with this in mind. It can become a self-fulfilling prophecy that makes it harder for monetary policy to bring inflation back down.
+Meanwhile, the stable labor backdrop gives me room to address these inflationary concerns. The relatively low unemployment rate of 4.2 percent has been steady since late last year and is close to my estimate of maximum employment.
+Other measures corroborate a stable to improving labor market. Payroll growth has picked up this year compared with that of last year. Initial claims for unemployment insurance are low, as are WARN notices of mass layoffs.
+The AI buildout has created strong demand for workers in certain construction industries. District contacts report this is contributing to worker shortages and rapid wage growth in some skilled trades. Recently, I’ve also heard more reports of difficulties finding unskilled workers than I’ve heard of plans for workforce reductions. The risks to our maximum employment mandate may now be leaning toward increased tightness. More broadly, GDP growth was solid in the first half of the year and appears to have grown again at a solid pace in the third quarter. Despite high energy prices, consumer spending was strong through August. CapEx spending on data centers and associated equipment has been robust. When I speak with companies in the region, I hear that business is generally strong to booming. My forecast calls for continued solid growth ahead.
+With the meaningful recent rise in yields, I see financial conditions as neutral rather than holding demand back. Strong earnings growth has supported higher equity market valuations, and corporate bond spreads are low. Market contacts report that rising bond yields reflect myriad factors such as expectations for strong growth, higher policy rates, higher energy prices, geopolitical concerns, and expanding global debt issuance. Part of this move may be a growing realization that neutral real rates are back to their pre-GFC levels, although difficulties estimating neutral rates are well known.
+None of this reads to me as an economy in which the crew are exhausted and the boat is taking on water. It reads, instead, as one that can handle a tighter hand on the tiller to finish the job on inflation. Considering all the inputs that factor into my reaction function, a restrictive monetary policy stance is appropriate to ensure a timely return to 2 percent inflation. Trimming the sails through frequent smaller adjustments reduces the risks of being blown far off course, of an inflationary mindset taking hold, and of taking longer to reach the destination.
+As is always true, this view is conditional on circumstances. A shift in the winds can easily cause a course change. If the labor market shows convincing signs of deterioration, the path of policy would likely need to respond. Inflation that remains elevated relative to my forecast or the settling in of an inflationary mindset could require pointing the bow of monetary policy rates toward an even higher latitude.
+Closing
+Let me close by saying that I’m not going to hand you a fixed course for how we’ll get to our destination because I don’t have one. Reaction functions are conditional. Conditionality is not a promise, but, rather, my response to shifting winds to reach the ultimate destination of maximum employment and price stability. And, importantly, to reach it in time for dinner.
+Thank you again for having me and for coming to Cleveland. I look forward to my conversation with Ellen and to your questions.
+Footnotes
+I’m grateful to Dani Carlson, Tasia Hane, Edward Knotek, and Karen Mracek for assistance with these remarks.
+Return to 1
+For additional information and quarterly updates of its Simple Monetary Policy Rules product on the Cleveland Fed’s website, see
+clevelandfed.org/indicators-and-data/simple-monetary-policy-rules
+.
+Return to 2
+For research on WARN notices, see Pawel M. Krolikowski and Kurt G. Lunsford. 2022. “Advance Layoff Notices and Aggregate Job Loss.” Federal Reserve Bank of Cleveland, Working Paper No. 20-03R.
+doi.org/10.26509/frbc-wp-202003R
+. The researchers regularly update the data associated with this paper at openICPSR:
+doi.org/10.3886/E155161
+.
+Return to 3
+Suggested Citation
+Hammack, Beth M.
+		
+			
+			
+			
+			
+			
+				
+					
+					
+					
+					
+					
+					“Trimming the Sails: Communicating My Reaction Function.”
+				Speech,
+			National Association of Business Economics, 68th NABE Annual Meeting, Cleveland, Ohio,
+			October
+12,
+2026.
+https://doi.org/10.26509/sp-20261012
+Share
+President's upcoming events
+Subscribe to receive notifications about President Hammack's upcoming speaking engagements and text from her latest speeches.
+Related resources
+About Us
+The Federal Reserve Bank of Cleveland (commonly known as the Cleveland Fed) is part of the Federal Reserve System, the central bank of the United States.
+Learn more
+President and CEO
+Learn about the work of Beth M. Hammack, president and CEO of the Federal Reserve Bank of Cleveland.
+Learn more
