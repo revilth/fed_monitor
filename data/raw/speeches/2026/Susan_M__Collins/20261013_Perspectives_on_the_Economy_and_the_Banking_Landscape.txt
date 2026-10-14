@@ -1,0 +1,608 @@
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/perspectives-economy-banking-landscape.aspx
+
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+Perspectives on the Economy and  
+the Banking Landscape   
+
+Remarks at the 25th Annual Regional 
+and Community Bankers Conference  
+Hosted by the Federal Reserve Bank of Boston 
+
+Susan M. Collins 
+President & Chief Executive Officer 
+Federal Reserve Bank of Boston 
+
+Tuesday, October 13, 2026 
+Boston, Massachusetts 
+
+The views expressed today are my own, not necessarily those of my colleagues on 
+the Federal Reserve Board of Governors or the Federal Open Market Committee 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+Key Takeaways 
+
+1. Collins said “The U.S. economy has shown remarkable resilience despite significant adverse 
+shocks from tariffs and energy.” GDP growth was somewhat stronger in the first half of this year 
+than many forecasters had expected – and seems to have stepped-up further in the third quarter.  
+
+“A potential concern is that the acceleration in GDP might reflect an increase in demand that could strain 
+supply and put upward pressure on prices. However, this is not my current expectation. Rather, I see […] 
+an increase in the economy’s productive capacity due to efficiency gains. That is, an economy that can 
+now grow faster with the same number of workers [and] demand and supply remaining roughly balanced.” 
+
+2. In the labor market, “conditions are generally stable and broadly consistent with achieving the 
+employment side of the Fed’s mandate. […] I see the U.S. labor market as broadly balanced – 
+though the aggregate data mask significant variation across place and sector.”  
+
+Collins sees risks to the labor market as two-sided. On the upside, there is potential for a more sustained 
+acceleration in hiring, which could lead to growth in demand outpacing growth in labor supply. On the 
+downside, widespread AI adoption could limit firms’ demand for workers. 
+
+3. Inflation is notably above the Fed’s 2% inflation target and has been for five and a half years. 
+While recent inflation readings include some promising news, in the near-term pressures from the 
+increase in refined petroleum product prices and the AI-buildout should keep inflation above target.  
+
+“It will be important to monitor whether elevated inflation remains largely confined to energy and AI-
+buildout-related categories, while price growth continues to moderate elsewhere – or whether evidence of 
+price pressures broadens.” 
+
+4. On her outlook, Collins said her most likely scenario is healthy GDP growth, with the labor mar-
+ket remaining near full employment. In this scenario, inflation gradually returns to 2%, as continued 
+efficiency gains support the balance between demand and supply, and contribute to disinflation. 
+
+“But several other scenarios are also plausible – and I see two as…almost as likely as my modal outlook, 
+and each highlights the risk of inflation staying above target for longer.” One scenario involves stronger-
+than-expected demand from AI-related optimism. The other features additional inflationary pressures from 
+tariffs, energy prices – or both. 
+
+5. Given elevated risks of persistently high inflation, but more limited downside risks to the real 
+economy and labor market, Collins supported last month’s FOMC decision to raise the federal 
+funds rate by 25 basis points.  
+
+“I also currently expect that it will be appropriate to raise rates a bit further before the end of the year to 
+ensure a timely and durable return of inflation to the Committee’s 2 percent target. However, my view will 
+depend on how the totality of incoming data shapes my outlook and the associated balance of risks.” 
+
+6. Turning to trends in New England banking conditions, Collins said “Banks in New England 
+continue to strengthen their communities and successfully navigate a highly competitive market, 
+both for loans and deposits. While loan growth remains subdued for community banks in the 
+region, loan performance continues to be strong.”  
+
+“A vibrant economy that works for all – our vision at the Boston Fed – requires a safe, sound, resilient 
+financial and banking system. One that is engaged with, and responsive to, its constituents and region.”  
+
+7. Collins noted the unique structure of the U.S. central bank and the regional identity and 
+engagement of the Reserve Banks.  
+
+“We are fortunate in the U.S. to have a central bank with regional reserve banks that play a number of 
+roles, including hearing from stakeholders to understand economic and financial conditions, rounding out 
+the extensive data analysis we do.” 
+
+2
+
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+  Good afternoon. I’m delighted to join you for the 25th annual Boston Fed conference for 
+
+regional & community banks. Twenty-five years is a great milestone, and the constructive work of 
+
+the Fed and regional and community banks extends back much further than that – and will 
+
+continue, going forward.  
+
+  Regional and community banks are key economic actors on the “Main Streets” of New 
+
+England. With the Fed, you share a commitment to a safe and sound banking system, an ever-
+
+improving payments and financial infrastructure, and the region’s economic vibrancy.  
+
+  Those are fairly timeless notions – and may have been discussed at the first annual 
+
+conference. The agenda for today’s 25th conference underlines the ongoing evolution that the 
+
+region’s banks, and the central bank, are attuned to – with topics like fraud risk management in the 
+
+age of A.I., new data resources illuminating banking trends, and forward-looking discussions around 
+
+payments and emerging financial technologies. Important, complex issues such as these require 
+
+constructive engagement and collaboration.  
+
+In our time today, I’ll begin with some comments before sitting down for a discussion with 
+
+Steven Fay. My remarks will include my views on the national economy and monetary policy, key 
+
+aspects of banking trends and conditions in our region, and some brief perspective on the Boston 
+
+Fed’s regional engagement – an important dimension of our nation’s central bank scope of 
+
+responsibilities.  
+
+  As I begin, let me note as always that these are my own views. I’m not speaking for any of 
+
+my colleagues at other Federal Reserve Banks or the Board of Governors. 
+
+Perspectives On the National Economy and Monetary Policy 
+
+I’ll turn now to the national economy, outlining my views on economic conditions before 
+
+discussing my outlook, and implications for monetary policy. The big picture is that the U.S. 
+
+economy has shown remarkable resilience despite significant adverse shocks from tariffs and 
+
+energy. 
+
+  Starting with the labor market, conditions are generally stable and broadly consistent with 
+
+achieving the employment side of the Fed’s Congressional mandate – that is, conditions are near 
+
+maximum, or full, employment. In particular, the unemployment rate remains low, having fluctuated 
+
+in a narrow range just above 4 percent for more than two years, a pattern consistent with overall 
+
+balance between labor demand and supply.  
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+In addition, hiring has accelerated somewhat this year, relative to its sluggish pace in the 
+
+second half of 2025. It is possible this pickup reflects some momentum that could prove sustained. 
+
+For instance, the average work week, which can be a leading indicator of employment growth, has 
+
+risen some. However, recent job gains could simply reflect headcounts normalizing in several 
+
+sectors, after a period of weak hiring due to elevated economic uncertainty. Here, I’ll note that we 
+
+have not yet seen a sustained, broad-based increase in job openings that could signal an 
+
+overheating labor market. Moreover, wage pressures remain subdued, and tighter conditions may 
+
+only be emerging in a few sectors heavily exposed to the AI buildout, such as construction and 
+
+durable goods manufacturing.  
+
+  Taking these, and other, signals into account, I see the U.S. labor market as broadly 
+
+balanced – though the aggregate data mask significant variation across place and sector. Most 
+
+workers looking for a job are able to find one, although it may take time. The data do not suggest 
+
+that job seekers are increasingly becoming discouraged, and the labor force participation rate is 
+
+holding up well, despite an aging labor force.  
+
+  Turning to the risks to the labor market, I see them as two-sided. On the upside, I have 
+
+already mentioned the potential for a more sustained acceleration in hiring, which could lead to 
+
+growth in labor demand outpacing growth in labor supply. And on the downside, amid much 
+
+uncertainty, widespread AI adoption could limit firms’ demand for workers.   
+
+  But for now, a stable labor market near full employment is helping to sustain relatively robust 
+
+consumer spending, with gains in household wealth from equity and housing valuations also 
+
+providing important support. In addition, we are seeing considerable strength in firms’ capital 
+
+outlays, mostly related to the AI buildout. Given resilient consumer demand and strong business 
+
+investment, GDP growth was somewhat stronger in the first half of this year than many forecasters 
+
+had expected – and seems to have stepped-up further in the third quarter. 
+
+  The recent GDP data could signal somewhat more buoyant underlying growth than the 
+
+relative balance suggested by the labor market data. A potential concern is that the acceleration in 
+
+GDP might reflect an increase in demand that could strain supply and put upward pressure on 
+
+prices. However, this is not my current expectation. Rather, I see the strength in real economic 
+
+activity as reflecting not just strong demand but also an increase in the economy’s productive 
+
+capacity due to efficiency gains. That is, an economy that can now grow faster with the same 
+
+number of workers. Indeed, output per hour – or labor productivity – accelerated notably after the 
+
+pandemic; and recent developments, including early efficiencies from AI adoption, remain 
+
+consistent with an expansion in the economy’s overall productive capacity. As a result, even with 
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+stable labor market conditions, there can be faster GDP growth with demand and supply remaining 
+
+roughly balanced. In this context, the implications for inflation would be more benign. 
+
+  Turning to prices, inflation is notably above the Fed’s 2 percent inflation target and has been 
+
+for five and a half years. But while recent inflation readings include some promising news, other 
+
+developments have been less favorable.    
+
+  Over the 12 months ending in August, total PCE inflation – the Fed’s preferred measure – 
+
+was 3.4 percent. Core PCE inflation, which omits the important but volatile food and energy 
+
+categories but can provide a better gauge of where inflation is headed, was a bit lower at 3 percent. 
+
+Focusing on the more recent data, annualized three-month core PCE inflation was only about 2 
+
+percent in August. The improvement in short-term inflation measures partly reflects the waning 
+
+effects from tariffs and from last spring’s energy shock. 
+
+  However, I expect both total and core inflation to again run above the Fed’s 2 percent target 
+
+in the coming months, given the recent jump in prices of refined energy products like jet and diesel 
+
+fuel, and home heating oil. These price increases should keep inflation elevated in the 
+
+transportation sector and in other sectors such as lodging and related services, where energy is an 
+
+important input. We are also likely to see continued price pressures for items related to building out 
+
+data centers.   
+
+  Against this backdrop, it will be important to monitor whether elevated inflation remains 
+
+largely confined to energy and AI-buildout-related categories, while price growth continues to 
+
+moderate elsewhere – or whether evidence of price pressures broadens. 
+
+  Taken together, what are the implications of all these developments for my outlook? My 
+
+modal scenario – the one I see as most likely – continues to feature healthy GDP growth, with the 
+
+labor market remaining near full employment. In this scenario, inflation gradually returns to 2 
+
+percent, as continued efficiency gains support the balance between demand and supply, and 
+
+contribute to disinflation. 
+
+  But several other scenarios are also plausible – and I see two as particularly salient. Each 
+
+seems almost as likely as my modal outlook, and each highlights the risk of inflation staying above 
+
+target for longer.  
+
+In one scenario, stronger-than-expected demand from AI generates even greater investment 
+
+in data centers. The related prospect of higher productivity fosters continued stock price increases, 
+
+further boosting household spending. As a result, even with additional efficiency gains, demand 
+
+outpaces supply, the labor market overheats, and inflation remains persistently above target.  
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+  The other scenario includes additional pressures from tariffs, energy prices – or both – and 
+
+inflation challenges that become even more acute. In particular, the lack of a resolution to the 
+
+conflict in the Middle East reinforces this possibility. It is also important to note that continued 
+
+elevated energy prices could boost domestic oil production. As a result, unlike energy shock 
+
+episodes prior to the 2000s, higher inflation might not be accompanied by a significant decline in 
+
+economic activity.  
+
+  With elevated risks of persistently high inflation, but more limited downside risks to the real 
+
+economy and labor market, I believe it is appropriate for the Federal Open Market Committee (the 
+
+FOMC) to focus on the inflation side of the Fed’s dual mandate. Therefore, I supported last month’s 
+
+FOMC decision to raise the federal funds rate by 25 basis points. I also currently expect that it will 
+
+be appropriate to raise rates a bit further before the end of the year to ensure a timely and durable 
+
+return of inflation to the Committee’s 2 percent target. However, my view of the need for further 
+
+policy action, and the appropriate timing, will depend importantly on how the totality of incoming 
+
+data shapes my outlook and the associated balance of risks.  
+
+Banking Trends and Conditions in New England 
+
+I will turn now to some of the trends we see in First District community banking conditions. 
+
+Banks in New England continue to strengthen their communities and successfully navigate a highly 
+
+competitive market, both for loans and deposits. While loan growth remains subdued for community 
+
+banks in the region, loan performance continues to be strong, with non-accruals to total loans below 
+
+long-term averages. In a welcome sign and despite continued funding pressures, earnings at 
+
+community banks in New England have also improved over the past year from long-term lows. 
+
+  New England community banks have a distinct asset composition relative to their national 
+
+counterparts, in large part due to the prevalence of mutual banks in the region. Community banks in 
+
+the First District have a higher percentage of assets in the form of loans, in particular 1-4 family 
+
+residential loans, as compared to their national peers. While this has the benefit of increased 
+
+residential investment in the communities they serve, it also introduces trade-offs that need to be 
+
+well managed, in particular trade-offs related to earnings and liquidity. 
+
+  We continue to closely monitor how banks in the region manage their interest rate risk 
+
+profiles, especially given the recent increase in the federal funds rate and a higher median funds 
+
+rate path implied by the Summary of Economic Projections released in September. Over the past 
+
+two years, funding costs for interest-bearing accounts at community banks have largely stabilized – 
+
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+both in the region and across the nation, albeit at higher rates than over the preceding decade. In 
+
+another positive development, local core deposit ratios have modestly improved as well.  
+
+  On the lending side, yields have continued to increase from pandemic-period lows through 
+
+new loans at higher rates and a high concentration of loans with 5-year rate terms that have begun 
+
+to reprice. This has improved regional banks’ profitability, as their net interest margins returned to 
+
+levels closer to post-global-financial crisis norms. However, New England remains a highly 
+
+competitive lending environment, and overall returns for community banks in the region remain 
+
+below those of national peers, continuing a long-term pattern.   
+
+  Competition and the need to spread the cost of operations have been cited as motivating 
+
+factors in recent M&A activity in the region. However, mergers in the district have slowed from the 
+
+recent high seen last year, at least partially driven by an improved earnings environment. At five 
+
+mergers to this point in the year, the M&A trend looks more similar to the 2021-24 period than 2025, 
+
+when we had fifteen community bank mergers in our region.   
+
+  With respect to supervisory policy, over the past year, Federal Reserve Board of Governors’ 
+
+Vice Chair for Supervision Michelle Bowman has initiated impactful changes to modernize the 
+
+regulatory and supervisory landscape.1 Locally, we are applying the Board’s Statement of 
+
+Supervisory Operating Principles,2 consistent with the delegated nature of banking supervision 
+
+responsibilities at the Reserve Banks. We also continue to maintain strong partnerships with our 
+
+state counterparts and want to thank the many leaders from New England state banking authorities 
+
+who attended the conference today. 
+
+  A final observation about regional and community banks. Often as I travel the region and 
+
+hear from a wide range of stakeholders, they express appreciation for the engagement of banks in 
+
+the economic “fabric” of their communities. I heard this recently from people involved in economic 
+
+development efforts in New Hampshire, who mentioned partnering with community banks to reach 
+
+small to “micro” business borrowers. And in Connecticut, I heard recently from entrepreneurs 
+
+developing childcare facilities about the importance of relationships with trusted banks, who can 
+
+provide business insights as well as credit.  
+
+1 Speech by Vice Chair for Supervision Bowman on modernizing regulation and supervision - Federal 
+Reserve Board 
+
+2 https://www.federalreserve.gov/supervisionreg/updated-statement-of-supervisory-operating-principles.htm 
+
+7
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+Our Engagement as a Regional Reserve Bank  
+
+  Today I’ve discussed the economy and the banking environment; I’ll conclude with a brief 
+
+observation on another thing worth valuing and leveraging – the unique structure of the U.S. central 
+
+bank and the regional identity and engagement of the Reserve Banks.3  
+
+  We are fortunate in the U.S. to have a central bank with regional reserve banks that play a 
+
+number of roles, including hearing from stakeholders to understand economic and financial 
+
+conditions, rounding out the extensive data analysis we do. Regional “rootedness” and engagement 
+
+not only help us understand current conditions, but also people’s expectations about the future – 
+
+especially around our mandated goals, stable prices and maximum employment. I and other 
+
+regional Reserve Bank presidents bring these insights to the monetary policymaking table in 
+
+Washington. 
+
+  Research and analysis – with a rigorously empirical and nonpartisan mindset – allows the 
+
+Reserve Banks to provide valuable insights on issues, challenges, and opportunities affecting the 
+
+regional economy and labor markets – helping to further our vision of a vibrant economy that works 
+
+for everyone. While we avoid veering into solutioning that should be left to elected fiscal 
+
+policymakers, we contribute to economic vibrancy by serving as a researcher and resource. I will 
+
+highlight three of many recent examples.   
+
+  This summer, we released a comprehensive survey of household wealth in Massachusetts 
+
+(“MassECHOS”), which can help the public, private, philanthropic, and nonprofit sector 
+
+understand opportunities to consider – and helps the Fed see more clearly the prevailing 
+
+conditions of the households that our monetary policymaking impacts.4  
+
+  We also shared research on the availability and cost of childcare in New England. This 
+
+impacts the ability of many to participate in the labor market – and thus relates directly to our 
+
+achievement of the mandate goal Congress assigned the Fed, maximum employment.5   
+
+3 The Boston Fed represents the First Federal Reserve District, which has perhaps the most identifiable of 
+regional footprints among the 12 Reserve Banks, given that essentially New England’s six states form the 
+Boston Fed’s territory. (Our colleagues at the New York Fed get Fairfield County, CT). 
+
+4 See https://www.bostonfed.org/publications/one-time-pubs/mass-echos.aspx. 
+
+5 See https://www.bostonfed.org/publications/community-development-issue-briefs/2026/employment-
+implications-child-care-access-new-england and How Do the Availability and Cost of Childcare Influence 
+Women’s Labor Market Outcomes in New England? - Federal Reserve Bank of Boston  
+
+8
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 4:00 P.M U.S. Eastern Time, 
+Tuesday, October 13, 2026 – OR UPON DELIVERY  
+
+  The Boston Fed also provides data and analysis on regional economic trends and issues, 
+
+including extensive data.6  
+
+Closing Observations 
+
+In closing, a vibrant economy that works for all – our vision at the Boston Fed – requires a 
+
+safe, sound, resilient financial and banking system. One that is engaged with, and responsive to, its 
+
+constituents and region. 
+
+In that spirit, I appreciate the work that New England bankers do – and your commitment to 
+
+our region’s economy and providing services and credit to New Englanders. And I value the 
+
+constructive way you engage with the Fed in our roles as regulator, supervisor, monetary 
+
+policymaker, researcher, convener, and provider of financial infrastructure and payments services. 
+
+  Thank you for being here. My best for the year ahead.  
+
+6 See https://www.bostonfed.org/about-us/new-england. 
+
+9
