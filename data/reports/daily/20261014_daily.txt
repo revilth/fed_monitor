@@ -1,0 +1,157 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: October 14, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING  |  FFR: 3.75–4.00%
+════════════════════════════════════════════════════════════════
+EVENTS TODAY
+  1. Beige Book  |  Federal Reserve Committee Document  |  Type H
+     "Summary of Commentary on Current Economic Conditions"
+     Released 2:00pm ET, Wednesday October 14, 2026
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+     (Official transcript: federalreserve.gov/monetarypolicy/beigebook202610-summary.htm
+     — site unreachable from this cloud environment (proxy 403). Recover via
+     'python3 main.py refetch' run from local environment.)
+     ACTION ITEM: fetch and score as Type H; compare national summary
+     (Overall Economic Activity / Labor Markets / Prices) word-for-word
+     against the prior Beige Book (August 13, 2026 — also not in data/raw/;
+     that file must be recovered first to enable a proper diff).
+
+  2. Thomas I. Barkin  |  Richmond Fed President  |  Non Voter
+     Post-CPI remarks, approx. 5:30–6:00pm ET
+     (event/roundtable details unconfirmed; no official text posted)
+     STATUS: NOT SCORED — TRANSCRIPT PENDING
+     (Richmond Fed speech page unreachable; no official record in data/raw/.
+     Wire reports (FXStreet, 2026-10-14T18:46) cite two remarks on the
+     September CPI release; per HARD RULE these cannot substitute for an
+     official transcript. Recover via 'python3 main.py refetch' or direct
+     check of https://www.richmondfed.org/press_room/speeches/thomas_i_barkin)
+     WIRE CONTEXT (for analyst awareness, NOT scored):
+       — "CPI ran too hot, keeps October decision open"
+       — Quote: CPI "was higher than I would have hoped"
+       — Quote: "I do not want to project the outcome of the October
+         FOMC meeting" (consistent with his Sept 22 open path framing)
+════════════════════════════════════════════════════════════════
+
+DATA BACKDROP — SEPTEMBER CPI (released 8:30am ET, October 14)
+─────────────────────────────────────────────────────────────────
+September CPI was released this morning. Pre-release consensus had headline
+CPI at approximately 3.6–3.7% YoY (from 3.4% in August), driven primarily
+by energy. Core CPI was expected near 2.4% YoY (Cleveland Fed nowcast as
+of October 7: headline 3.60%, core 2.39%). Actual print not confirmed in
+official sources accessible to this run — check BLS (bls.gov) for the
+release. Barkin's post-data characterization ("higher than I would have
+hoped") suggests headline came in at or above the high end of expectations.
+This is the final CPI print before the October 27–28 FOMC; September PPI
+was expected October 15.
+
+MARKET CONTEXT NOTE: Search sources indicate markets were pricing ~20–25%
+probability of an October hike as of mid-week, down from higher levels
+earlier. Fed officials speaking before October 14:
+
+  John Williams (NY Fed / Troika — Oct 13, Bloomberg interview, scored
+  separately if transcript collected): Still sees one more hike appropriate
+  this year; does not think 2027 will need additional increases; "signs
+  inflation will slow 'quite a bit'" toward 2% next year.
+  ⚑ Action item: check newyorkfed.org for official Type J or speech record.
+  Williams score baseline: data/scored/speeches/20260922_Tom_Barkin_scored.txt
+  (most recent Williams scored is 20261001 — see data/scored/speeches/).
+
+  Christopher Waller (Governor, Just Voter — Oct 13, New Delhi): Higher
+  long-term Treasury yields are "doing a little bit of the work" of
+  tightening by cooling rate-sensitive sectors.
+  ⚑ Action item: check if this is a scored speech or brief commentary.
+  Waller's most recent scored speech: 20261008_Christopher_J__Waller_scored.txt.
+
+SCORED SPEECHES TODAY: NONE
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACTION ITEMS REQUIRING FOLLOW-UP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[HIGH] October Beige Book (Type H): Recover official transcript and score.
+  Comparison reference: August 13, 2026 Beige Book (also not in data/raw/;
+  needs recovery — last stored is June 3, 2026 at data/raw/beige_book/).
+  This is the committee's final formal economic-conditions read before
+  the October 27–28 FOMC. The October Beige Book covers conditions
+  through approximately late September.
+
+[HIGH] Barkin October 14 remarks: Recover official transcript (if one
+  was posted) from richmondfed.org. Wire characterization suggests
+  continuation of Sept 22 open-path framing, consistent with his
+  "Will additional hikes be required, and how many? We'll see" position.
+
+[MEDIUM] Williams October 13 Bloomberg interview: Confirm Type J status
+  (first-party verbatim Q&A?) or locate any official NY Fed transcript.
+  Key signal: "one more hike appropriate this year; 2027 no additional
+  increases." Check newyorkfed.org/newsevents/speeches.
+
+[MEDIUM] Waller October 13 (New Delhi): If prepared remarks were given,
+  recover from federalreserve.gov. "Higher yields doing a little bit
+  of the work" — updates his October 8 framing if official.
+
+[MEDIUM] August 2026 Beige Book: Not in data/raw/beige_book/; last
+  stored is June 3. The August 13 Beige Book is needed as the comparison
+  baseline for scoring the October 14 release.
+
+[BACKLOG NOTE] 41 unscored speeches in data/raw/ spanning May–October 13.
+  For blackout-entry context, priority for pre-blackout scoring:
+  — Hammack (Oct 12, "Trimming the Sails") — Just Voter, hawkish anchor
+  — Collins (Oct 13, "Perspectives on the Economy and the Banking Landscape")
+    — Non Voter, high analytical quality
+  — Jefferson (Oct 1, "The U.S. Economy and Monetary Policy") — Troika
+  — Kashkari (Sept 30, CFR Q&A) — Just Voter, hawkish dissenter
+  — Paulson (Sept 24) — median voter
+  See 'python3 main.py pending' for full list.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Friday, October 16, 2026
+────────────────────────────────────────────────────────────────
+⚑ FINAL PRE-BLACKOUT DAY. October 16 (Friday) is the last day for
+  public policy communication before the FOMC blackout begins Saturday,
+  October 17. No policy speeches will occur after October 16 until the
+  post-meeting press conference (October 28, ~2:30pm ET).
+
+(None confirmed for October 16 as of this run.)
+  — federalreserve.gov speech calendar unreachable from this environment.
+    Check board site and individual regional bank event pages for any
+    last-minute announcements. Given that October 15 (Thursday) and
+    October 16 (Friday) are the final two windows, additional appearances
+    are likely — especially for officials who have not yet spoken since
+    the September 16 hike (Warsh has not given a post-meeting speech;
+    Jefferson last scored Oct 1; Williams last scored Oct 1; Bowman,
+    Logan, Goolsbee, Daly, Musalem all have unscored recent appearances).
+
+PPI (September) is expected Thursday, October 15, at 8:30am ET —
+  potential catalyst for additional Fed commentary Thursday or Friday.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Beige Book (October 14, 2026):
+  Official URL (blocked this run):
+  https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm
+  PDF:
+  https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20261014.pdf
+
+Barkin (October 14, 2026):
+  Official transcript (blocked this run / not yet posted):
+  https://www.richmondfed.org/press_room/speeches/thomas_i_barkin
+  Wire reference only (not an acceptable scoring source):
+  https://www.fxstreet.com/news/feds-barkin-says-cpi-ran-too-hot-keeps-october-decision-open-202610141846
+
+Williams (October 13, 2026, Bloomberg interview):
+  No official URL confirmed; check newyorkfed.org/newsevents/speeches
+  Reference: https://www.roic.ai/news/feds-williams-sees-no-need-for-rate-hike-in-2027-but-one-more-increase-this-year-still-possible-10-13-2026
+
+Waller (October 13, 2026, New Delhi):
+  No official URL confirmed; check federalreserve.gov/newsevents/speech/
+  Reference: Bloomberg, October 13, 2026
+
+Prior Barkin baseline:
+  Sept 22, 2026: https://www.richmondfed.org/press_room/speeches/thomas_i_barkin/2026/barkin_speech_20260922
+  Scored: data/scored/speeches/20260922_Tom_Barkin_scored.txt
+
+Blackout periods (authoritative): blackout_periods.json
+  October 17–29 for October 27–28 FOMC.
+════════════════════════════════════════════════════════════════
