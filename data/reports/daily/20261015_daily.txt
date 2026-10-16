@@ -1,0 +1,176 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: October 15, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING  |  FFR: 3.75–4.00%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Kevin Warsh  |  Chair  |  Troika
+     "Managing Director's Fireside Chat with Federal Reserve Chairman Kevin Warsh"
+     IMF Annual Meetings 2026, Bangkok, Thailand
+     Session: Thursday 10:30–11:00am ICT = Wednesday 11:30pm–midnight EDT
+     (October 15 by U.S. clock; October 16 Bangkok time)
+     CLASSIFICATION: Type A (economic outlook + monetary policy Q&A) — tentative;
+       no official transcript available this run
+     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed)
+     federalreserve.gov is unreachable from this cloud environment (proxy 403
+     to CONNECT). The speech was given after the 5:30am ET GitHub Actions
+     collection, so no raw file was deposited. This is Warsh's FIRST public
+     appearance since the September 16 FOMC press conference.
+     ACTION ITEM: WebFetch https://www.federalreserve.gov/newsevents/speech/
+       warsh20261015a.htm  (or warsh20261016a.htm — Fed may date by Bangkok
+       calendar). Recover via 'python3 main.py refetch' from local environment
+       or next run that can reach federalreserve.gov.
+
+════════════════════════════════════════════════════════════════
+DATA BACKDROP — SEPTEMBER PPI (8:30am ET, October 15)
+────────────────────────────────────────────────────────────────
+September PPI was scheduled for release at 8:30am ET this morning. Actual
+figures not confirmed in official sources accessible to this run — bls.gov
+is unreachable from this environment. The September CPI print (October 14)
+was characterized by Tom Barkin as "higher than I would have hoped," and
+search results indicate a beat vs. consensus. PPI context: August 2026
+headline PPI was approximately 5.4% YoY (market sources); consensus was
+looking for September to remain elevated. The PPI release will have been
+available to Warsh before his Bangkok remarks (11:30pm ET).
+
+For confirmed figures, check: https://www.bls.gov/ppi/
+
+════════════════════════════════════════════════════════════════
+WIRE CONTEXT ON WARSH IMF APPEARANCE
+(for analyst situational awareness ONLY — NOT scored per hard rule;
+ official transcript required before any scored output can be written)
+────────────────────────────────────────────────────────────────
+Source: CNBC, October 16, 2026 (headline: "Fed's Warsh withholds rate
+signal, praises recent global tightening with 'no free riders'")
+Context source: investinglive.com/central-banks/warsh-speaks-in-bangkok
+
+Key characterizations in wire coverage (unverified against official transcript):
+  — Withheld rate signal: Did not signal the October 27–28 decision
+    direction. "Withholds" framing consistent with his prior refusal to
+    own a path ("not in the forward guidance business" — Sept 16 Q&A).
+  — "No free riders": Praised synchronous global central bank tightening.
+    Read in context of IMF Annual Meetings setting — signals comfort with
+    the global policy stance, not a specific U.S. rate signal.
+  — Economy "broadly tracked our expectations since [September]":
+    If accurate, consistent with his Sept 16 opening ("attitude of optimism").
+    The phrase "broadly tracked" is notable: it acknowledges the hot CPI
+    (October 14) while declining to characterize it as a material surprise.
+    Warsh's standard for action at Sept 16: "clearly and at sufficient
+    speed" — the phrase "broadly tracked" does not clearly satisfy or reject
+    that bar.
+  — AI development path "very bumpy" but wealth-creating: Thematic; consistent
+    with August 28 Jackson Hole framework ("AI and the long-term supply side").
+    Not a near-term policy signal.
+
+Goldman Sachs read (per investinglive.com): "Alongside other recent comments
+from FOMC participants, Warsh's comments indicate that the FOMC is set to
+pause in October … We continue to expect a second and final hike in December."
+
+⚑ IMPORTANT: The above characterizations are drawn solely from media
+  coverage and a market commentary. Per the HARD RULE, none of this
+  constitutes scored output. The official transcript may confirm, revise
+  or substantially differ from the wire summary. DO NOT treat these wire
+  characterizations as the scored signal until the official transcript is
+  recovered and read in full.
+
+════════════════════════════════════════════════════════════════
+PRE-BLACKOUT POSITIONING SUMMARY
+(context for the Oct 27–28 FOMC; blackout begins tomorrow, Oct 17)
+────────────────────────────────────────────────────────────────
+As of this report, the last day before the October FOMC blackout period,
+the committee's inter-meeting communication has established the following
+positions based on scored speeches in data/scored/speeches/:
+
+TROIKA
+  Warsh (Chair): Jackson Hole (Aug 28) + Sept 16 press conference.
+    Net stance: HAWKISH. "Not in the forward guidance business." Dots
+    are the path. 2026 SEP median dot at 4.1 vs. 3.875 midpoint —
+    16/18 participants above current midpoint. IMF Bangkok remarks
+    (unscored) may update this — recover transcript.
+  Jefferson (VP): Oct 1 speech — unscored. Scored baseline: prior to
+    Sept 16. Action item per Oct 14 report.
+  Williams (NY): Oct 1 (unscored). Oct 13 Bloomberg interview (unscored;
+    Type J candidate — "one more hike appropriate this year; no 2027
+    increases needed"). Action item per Oct 14 report.
+
+JUST VOTERS (most recent scored or noted)
+  Bowman: Oct 14 speech "Supervisory Modernization After Silicon Valley
+    Bank" — special topic (regulation), unscored; embedded outlook TBD.
+  Waller: Oct 8 scored speech; Oct 13 New Delhi remarks (unscored).
+    "Higher long-term yields doing a little bit of the work" (Oct 13).
+  Hammack: Oct 12 "Trimming the Sails" — unscored. Hawkish dissenter
+    (dissented July 29 for +25bp; got it Sept 16).
+  Kashkari: Sept 30 CFR Q&A — unscored. Hawkish dissenter July 29.
+  Logan: Oct 1 remarks — unscored (scored file: 20261001_Lorie_Logan_
+    scored.txt if available). Dallas dissenter July 29.
+  Paulson: Sept 24 speech — unscored. Median voter anchor.
+
+NON VOTERS
+  Collins: Oct 13 "Perspectives on the Economy and the Banking Landscape"
+    — unscored. High analytical quality.
+  Goolsbee: Sept 21 scored (most recent). Inflation-first framing. No
+    post-Sept-21 appearances scored.
+  Barkin: Oct 14 post-CPI remarks — unscored (transcript pending).
+    "Higher than I would have hoped" on Sept CPI. Open path framing.
+
+MARKET PRICING NOTE (search sources, unverified):
+  ~20–25% probability of October hike as of mid-week, per prior search
+  results. Warsh's IMF appearance (if wire characterizations hold) likely
+  moved this probability lower — "withholds rate signal" in a setting where
+  a hike signal was possible but absent is typically read as a lean toward
+  pause.
+
+BACKLOG: 42 unscored raw files in data/scored/speeches/ spanning May–Oct 14.
+  High-priority for blackout context: see Oct 14 daily report ACTION ITEMS.
+
+════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Mon Oct 19 – Fri Oct 23
+────────────────────────────────────────────────────────────────
+⛔ FOMC BLACKOUT IN EFFECT — entire window in blackout.
+   Blackout period: October 17–29, 2026 (for October 27–28 FOMC).
+   No monetary policy speeches will occur October 19–23.
+
+TODAY (October 16, Friday) — FINAL PRE-BLACKOUT WINDOW:
+   This is the last day before blackout. Any speeches given today are
+   the final inter-meeting signals. As of this run, no appearances
+   confirmed for October 16 — check federalreserve.gov calendar and
+   regional bank event pages. Officials who have NOT yet given a
+   scored post-September-16 speech: Warsh (IMF remarks unscored),
+   Jefferson, Williams (Bloomberg interview unscored), Paulson,
+   Logan (Oct 1 unscored), Goolsbee, Daly, Musalem.
+
+NEXT SCHEDULED FED COMMUNICATION:
+   October 27–28 FOMC meeting
+   Statement: October 28, ~2:00pm ET
+   Press conference: October 28, ~2:30pm ET (Warsh)
+   NOT a projection meeting (no SEP/dot plot).
+
+(None confirmed for Oct 19–23) — blackout; no policy speeches expected.
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Warsh IMF Bangkok speech (October 15, 2026 ET):
+  Official URL (blocked this run / may not yet be posted):
+  https://www.federalreserve.gov/newsevents/speech/warsh20261015a.htm
+  Alt (if dated Bangkok):
+  https://www.federalreserve.gov/newsevents/speech/warsh20261016a.htm
+  Wire reference (not a scoring source):
+  https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html
+
+September PPI (October 15, 2026):
+  https://www.bls.gov/ppi/  (blocked this run)
+
+Warsh prior speech (scored):
+  August 28, 2026 — Jackson Hole, Type G:
+  https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
+  Scored: data/scored/speeches/20260828_Kevin_Warsh_scored.txt
+
+Warsh Sept 16 press conference (scored):
+  https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260916.pdf
+  Scored: data/reports/fomc/20260916_pressconf.txt
+
+Blackout periods (authoritative): blackout_periods.json
+  October 17–29 for October 27–28 FOMC.
+════════════════════════════════════════════════════════════════
