@@ -1,0 +1,98 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: November 1, 2026
+Reference FOMC: October 28, 2026  |  Cycle: HIKING  |  FFR: 3.75–4.00%
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  (none — Sunday; no Fed communications scheduled)
+════════════════════════════════════════════════════════════════
+
+No Fed speeches, statements, or testimony on Sunday, November 1, 2026.
+
+The first post-blackout day (October 30) brought one speech — Lorie Logan's
+remarks to Davidson College students — which is the first confirmed post-Oct-28
+FOMC communication and reveals the meeting outcome (see ACTION ITEMS below).
+
+════════════════════════════════════════════════════════════════
+ACTION ITEMS
+────────────────────────────────────────────────────────────────
+1. OCTOBER 28 FOMC FINALIZER REPORT MISSING
+   The FOMC Finalizer Path for October 28, 2026 (decision day) has not been run.
+   The morning routine that would have covered Oct 28 appears to have been skipped
+   (REPORT_DATE=Oct 28 falls inside the blackout end date Oct 29? Check: the
+   classify script returns FOMC_DAY for Oct 28, which should have triggered the
+   Finalizer path). No `20261028_daily.txt` exists in data/reports/daily/.
+   Recovery: fetch the official Oct 28 statement and press-conf transcript from
+   federalreserve.gov, run the Finalizer path manually.
+
+2. LORIE LOGAN (Dallas, Just Voter) — OCTOBER 30, 2026 — UNSCORED
+   "Remarks to Davidson College students"
+   SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl261030
+   Raw file: data/raw/speeches/2026/Lorie_Logan/20261030_Remarks_to_Davidson_College_students.txt
+   Status: NOT SCORED — first post-Oct-28-FOMC speech in archive; backlog.
+   Key content (from raw):
+     • Logan voted to HOLD at Oct 28 meeting: "I voted to maintain the current
+       target range of 3.75 to 4 percent."
+     • FOMC outcome: "After raising the fed funds target range by 25 basis points
+       in September, the FOMC skipped an increase at our meeting this week."
+     • Forward guidance (Logan personal): "it remains clear to me... that the
+       FOMC needs to implement at least two more 25-basis-point rate increases."
+     • Policy gap estimate: "the fed funds target range is at least 50 basis
+       points below the level that would create some modest restriction."
+     • Core PCE: 3.1% y/y through September; "higher for the most recent month."
+     • Financial conditions: "providing a tailwind" — stocks up, credit spreads
+       compressed, banks eager to lend.
+   Score this file before the next speech from Logan or any post-Oct-28 speaker.
+
+════════════════════════════════════════════════════════════════
+CYCLE CONTEXT UPDATE (inferred from Logan Oct 30)
+────────────────────────────────────────────────────────────────
+Reference FOMC:  October 28, 2026 (held; unanimous or near-unanimous hold)
+FFR:             3.75–4.00% (unchanged from September 16 hike)
+Cycle:           HIKING — skip at October; Logan signals at least 2 more hikes
+Next FOMC:       December 8–9, 2026 (projection meeting; SEP/dot plot released)
+Next blackout:   November 28, 2026
+
+Note: The October meeting was a NON-projection meeting (no SEP/dot plot). The
+September 16 SEP (median dot 4.1% for 2026, 4.1% for 2027) is the current
+official projection set.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — THIS WEEK: Mon Nov 2 – Fri Nov 6
+────────────────────────────────────────────────────────────────
+[Fed Board calendar (federalreserve.gov) is outside this session's allowed
+network domains — lookup unavailable this run. Entries below are from raw
+file stubs collected by the 5:30am GitHub Actions scraper.]
+
+  Austan Goolsbee  |  President & CEO, Chicago Fed  |  Non Voter
+  Chicago Fed Financial Markets Group Fall Conference — Q&A moderator
+  Host: Chicago Fed, Chicago, IL
+  November 2, 2026 | 10:15 am CT
+  Note: Goolsbee is MODERATING a Q&A with Andréa M. Maechler (Deputy General
+  Manager, BIS). This is NOT an outlook speech and is not expected to produce
+  a scoreable transcript of Goolsbee's own policy views.
+  SOURCE: https://www.chicagofed.org/publications/speeches/2026/nov-2-financial-markets-group
+
+  (No additional confirmed appearances for Nov 3–6; calendar lookup unavailable)
+
+  LOOKAHEAD:
+  • Austan Goolsbee | Leadership Greater Chicago, "Economics: Are We Ready for
+    Tomorrow?" | Nov 9, Chicago, IL | moderated Q&A (outside this week's window)
+  • Next blackout: November 28, 2026 — no policy speeches after that date until
+    the December 8–9 FOMC decision.
+  • FOMC minutes for October 28 meeting: expected ~November 18, 2026.
+
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  (none)
+
+Cycle context source (Logan Oct 30):
+  Lorie Logan, October 30, 2026:
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl261030
+
+Event stubs (scraped Nov 2 pre-run):
+  Goolsbee (Nov 2):  https://www.chicagofed.org/publications/speeches/2026/nov-2-financial-markets-group
+  Goolsbee (Nov 9):  https://www.chicagofed.org/publications/speeches/2026/nov-9-leadership-greater-chicago
+════════════════════════════════════════════════════════════════
