@@ -1,0 +1,64 @@
+SOURCE: https://www.philadelphiafed.org/the-economy/monetary-policy/261110-81st-annual-field-meeting-capstone-speech
+
+Speech
+Economic Outlook
+by
+Anna Paulson
+President and Chief Executive Officer
+10 Nov ’26
+Philadelphia Fed President and CEO Anna Paulson shared her economic outlook at the 81st Annual Field Meeting Capstone.
+View PDF
+Share
+Good evening, everyone, and thank you, Joe.
+1
+It's a pleasure to be with all of you for the 81st Field Meeting Capstone.
+Tomorrow is Veterans Day, so I'd like to take a moment to thank the veterans with us tonight, and everyone who has served.
+I also want to thank everyone who has shared insights about economic conditions with us over the past year. Your stories illuminate what the data can't show.
+Through roundtables, surveys, and conversations with our team, you've helped all of us better understand what's happening in the economy and what it means for communities, households, businesses, and financial institutions.
+And there's been a lot to understand. Before I share my thoughts on the economy and monetary policy, I want to emphasize that, as always, these are my views. They don't necessarily reflect those of other members of the Federal Open Market Committee (FOMC) or the Federal Reserve.
+The data, and what I hear from all of you, tell me the U.S. economy is strong, and stronger than many had anticipated.
+Back in December of last year, the median FOMC participant expected GDP to grow 2.3 percent this year. So far, growth has averaged 2.7 percent.
+In December, the median participant expected the unemployment rate to end the year at 4.4 percent. The economy has overperformed here, too. The unemployment rate was 4.1 percent in October, and hiring has been broad-based.
+What about inflation? At the end of last year, the median participant expected inflation to ease this year to 2.4 percent. As you all know, that hasn't happened. Instead, inflation has gotten worse. PCE inflation, the Fed's preferred measure, was 3.6 percent over the 12 months ending in September.
+This year has brought strong growth and healthy hiring. It has also brought elevated inflation. I'll talk about each of these in turn. Then, I'll turn to monetary policy, where getting inflation back to 2 percent remains my priority.
+Let's start with growth. Artificial intelligence (AI) gets a lot of the headlines, and AI-related investment is certainly important. But the economy's strength is broader than AI. In our October survey of manufacturers here in the Third District, every business, 100 percent, planned to increase or maintain capital spending next year. That is very rare. In fact, it has only happened in 20 months going all the way back to 1968. And 10 of those months have come in the last year.
+The U.S. consumer is also playing an important role in this year's strong growth. Real consumption growth has averaged 2.8 percent so far this year. That's despite average real income growth of just 1.3 percent. A combination of borrowing, drawing down savings, and spending out of investment gains likely explains the gap between consumption growth and income growth.
+Turning to the labor market, the data show we have been close to what I consider to be maximum employment for several years. And the labor market has strengthened in 2026.
+Last year, job gains averaged just 10,000 per month and were heavily concentrated in healthcare and social assistance. This year, average monthly job gains have been 86,000, and job creation has been much broader. We've also seen healthy hiring in transportation and warehousing, construction, and professional and business services.
+Wage growth has been about 3 percent. But with inflation even higher, many workers feel as though they are falling behind.
+That brings me to prices. Inflation has been above the FOMC's target of 2 percent for five and a half years. Since dropping to 2.3 percent in April 2025, headline PCE inflation has climbed. It has been above 3 percent since March of this year, and the most recent reading, for September, was 3.6 percent.
+Today’s Consumer Price Index (CPI) release for October suggests inflation pressures are still very much with us. Total inflation, the headline number, affects everything from how far a paycheck stretches to what a business can buy with its investment dollars. And the FOMC's mandate to deliver stable prices is about headline inflation.
+But to understand where inflation is going, which is what matters for monetary policy, we need to look at what's driving it. Three main factors have been keeping inflation elevated: tariffs, energy prices, and the AI buildout.
+Tariffs caused goods prices to rise significantly. But recent New York Fed research suggests the inflationary effects of tariffs peaked in February of this year and are beginning to fade.
+2
+That doesn't mean prices are falling. It just means tariffs are no longer pushing prices up.
+Since the start of the war in the Middle East, the average price of a gallon of gas has increased by about 35 percent. Diesel is up more than 60 percent. The knock-on effects of higher energy prices are showing up in services like airline tickets and in inputs like fertilizer.
+The AI boom is also adding to inflation. Demand for chips, power generation equipment, and other components tied to the buildout has surged. That demand has pushed up prices for a wide range of goods, from consumer electronics like laptops to raw materials like copper.
+So, tariffs, energy, and AI have all been pushing prices up. Tariffs look like they're fading. Energy supply and AI demand pressures are harder to call. What matters for monetary policy is where inflation ends up once the effects of these shocks run their course.
+That's why I'm focused on measures of underlying inflation. They show where inflation stands once we set aside shocks that are expected to fade. Ideally, they reflect fundamentals, like the pace of growth and the economy's capacity to produce. They give us a better read on the balance between supply and demand.
+There are many ways to gauge underlying inflation, and they all point to the same conclusion. It has been stuck between 2.5 and 3 percent. Some measures are a touch lower than a year ago, and others are a touch higher. But the bottom line is clear. Underlying inflation is above target, and it hasn't come down. That tells me that elevated inflation isn't just about factors that will go away on their own.
+At the same time, there are some bright spots. Wage growth is not adding to price pressures. And financial markets expect inflation to return to 2 percent.
+But the risks are still high. We've had five and a half years of above-target inflation. And that experience can seep into how businesses set prices and how workers and employers negotiate wages.
+We've heard some isolated reports of firms considering larger wage increases to address the cost of living. There's nothing in the data to suggest this is widespread. But it's a development I'll be watching, since it could complicate the path back to 2 percent if it spreads.
+So, what does all this mean for monetary policy?
+I continue to believe monetary policy needs to be somewhat restrictive to bring inflation back to 2 percent. I supported the decision to raise rates in September, and I supported the decision to hold rates in October. Let me be clear: Skipping a meeting is a matter of pace, not direction. There is likely more work to do.
+But I prefer to tighten gradually when conditions allow. Let me explain why, first as a general principle and then as it applies today.
+In general, I see two main reasons to move gradually.
+First, it gives households, businesses, and the financial sector time to adjust. Families have to work higher rates into their budgets. Businesses have to rethink their borrowing and investment plans. And financial institutions, especially community banks, need time to manage the effects of higher rates on funding costs, loan pricing, and their customers' ability to repay. Gradual steps make these adjustments easier.
+Second, moving gradually lets me learn as we go. I can keep gathering data and hearing from businesses about how the economy is adapting before deciding on the next step.
+In addition, conditions can change. In the past week or so, we've seen big swings in the stock market and in oil prices. Some of the strength in consumer spending is tied to the stock market, and that may prove less durable than we expect. If it does, the labor market could feel it. Moving gradually lets me adjust as these forces evolve.
+But we don't always have the luxury of moving gradually. I would want to act more quickly if inflation expectations drift up, if wage pressures build, or if underlying inflation moves higher. Right now, that's not what I’m seeing. Long-term expectations are well anchored, and wage pressures have been limited.
+A gradual approach also works best when the direction of policy is well understood. If markets expect more tightening, moving gradually doesn't leave us behind where we need to be. That's one of the things I’m tracking.
+For now, further gradual tightening seems appropriate. But the exact path will depend on how conditions evolve, and I'll be watching the data closely. I'll also keep listening to all of you because, as I said at the start, your stories illuminate what the data can't show.
+What won't change is my commitment to the Federal Reserve's dual mandate. Price stability and maximum employment are the conditions families, businesses, and communities need to plan, to invest, and to get ahead. Delivering them is the Federal Reserve's job, and I'm committed to getting it done.
+Thank you all so much for coming tonight.
+The views expressed here are solely those of the author and do not necessarily reflect the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
+Joe Budash, senior director of engagement and operations, financial institutions relations, Federal Reserve Bank of Philadelphia,
+https://www.philadelphiafed.org/our-people/joe-budash
+.
+Mary Amiti, Sebastian Heise, and David E. Weinstein. “How Fast Do Tariffs Pass Through Into Consumer Prices?”
+Liberty Street Economics
+(Federal Reserve Bank of New York), October 6, 2026,
+https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/
+.
+View the Full Speech
