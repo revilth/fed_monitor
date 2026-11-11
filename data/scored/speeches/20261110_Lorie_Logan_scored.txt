@@ -1,0 +1,307 @@
+══════════════════════════════════════════════════════════
+PER-SPEECH ANALYSIS
+══════════════════════════════════════════════════════════
+November 10, 2026 | Lorie K. Logan | Dallas Fed President | Just Voter
+"Economic and monetary policy outlook"
+11th Joint Energy Conference of the Federal Reserve Banks of
+  Dallas and Kansas City, Houston, Texas
+SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl261110
+
+CLASSIFICATION: Type A — Economic Outlook Speech. Full three-part structure
+  (Growth/Labor → Inflation → Monetary Policy). Most comprehensive Logan outlook
+  speech since July 16; eclipses her July 31 dissent statement in analytical depth.
+  The first full post-reference-FOMC economic outlook speech from Logan.
+
+REFERENCE FOMC:    September 16, 2026 (HIKE +25bp to 3.75–4.00%; 12–0;
+                   supply-shock attribution DELETED; "timelier return" added)
+                   October 27–28, 2026 (HOLD at 3.75–4.00%; Logan in majority)
+PRE-FOMC BASELINE: July 31, 2026  "Statement from Dallas Fed President Lorie
+                   Logan on FOMC dissent" — data/scored/speeches/
+                   20260731_Lorie_Logan_scored.txt
+POST-FOMC PRIOR:   N/A — no scored post-September-16 Logan speeches.
+                   Raw files for Oct 1 (opening remarks, Voices of the ...) and
+                   Oct 2 (welcome remarks, Macroeconomics workshop) appear to be
+                   Type B without embedded outlook (brief welcome/opening speeches);
+                   Oct 30 (Davidson College) unscored and not assessed here.
+                   This speech is treated as the first scored post-FOMC Logan
+                   outlook speech since the Jul 31 dissent.
+
+NOTE: Logan explicitly states October CPI data were released this morning and
+  came in "higher than expected." This is a live data point referenced in both
+  her and Waller's speeches on the same day.
+──────────────────────────────────────────────────────────
+
+GROWTH
+──────────────────────────────────────────────────────────
+Brief (growth is the permissive backdrop; not a primary policy concern for Logan).
+
+FOMC statement language echoed:
+  "Economic activity is expanding at a solid pace despite elevated uncertainty...
+   domestic spending has been resilient." [Sep 16 stmt]
+  → Logan: "Economic growth is strong. Real gross domestic product (GDP) increased
+    at an annual rate of 3.4 percent in the third quarter. And the Dallas Fed's
+    Weekly Economic Index is consistent with real GDP continuing to expand at around
+    a 3 percent annual rate."
+
+Own language:
+  Two pillars: (1) consumer spending "solid, especially among wealthier households"
+  that benefited from stock market gains; (2) business investment "robust" — real
+  business investment in equipment +14% Q3 YoY; computers/peripherals (AI data
+  centers) >80% of that growth; broadening into industrial machinery, semiconductor
+  mfg equipment, gas turbines; defense/manufacturers ramping up. "Technological
+  innovation and changes in global trade and security alliances appear poised to
+  continue driving strong investment in coming years."
+  — The broadening-investment narrative is an upgrade from prior Logan speeches.
+    Growth providing strong cover for continued tightening.
+
+Shift vs. pre-FOMC (Jul 31):  HAWKISH LEAN — Jul 31 had growth subsumed into
+  the policy stance argument ("not restraining the economy"). Nov 10 gives full
+  sectoral growth analysis; explicitly calls growth "strong" and investment
+  "robust." The upgrade in texture, not in direction.
+
+──────────────────────────────────────────────────────────
+LABOR MARKET
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Job gains have kept pace with the workforce, and the unemployment rate has
+   changed little. The labor market is consistent with maximum employment."
+   [Sep 16 stmt]
+  → Logan: "A growing economy creates jobs, and the labor market is balanced and
+    even tightening a bit. Unemployment continues to hover just above 4 percent.
+    That is down slightly from late last year and close to most estimates of the
+    lowest sustainable level."
+
+Own verdict:
+  "My assessment is that the economy is achieving maximum employment and, supported
+   by strong aggregate demand, remains on track to continue to do so."
+  → Directly echoes the Sep 16 statement's "consistent with maximum employment."
+    "Tightening a bit" is her signature qualifier — present since July 16 ("well
+    balanced and perhaps even strengthening a bit"). Here downgraded from
+    "strengthening" to "tightening a bit," marginally softer word choice.
+
+Own qualifier / addition (new):
+  "Today's labor market is not especially dynamic. Rapid technological change and
+   geopolitical volatility have increased employers' uncertainty... It's a tough
+   market for anyone seeking employment."
+  → This "low dynamism" observation directly parallels Waller's "low hire, low
+    fire" analysis in his simultaneous Nov 10 speech. Both Just Voters are raising
+    the same structural concern on the same day — appears coordinated in timing or
+    reflects shared awareness of the same data pattern.
+  → Logan's policy disposal: "Monetary policy, however, addresses cyclical
+    mismatches between supply and demand, not structural challenges such as
+    employers' uncertainties." She explicitly quarantines the concern from
+    near-term policy, as Waller does.
+  → "Latest data show hints of increased dynamism, including more job openings and
+    more workers quitting their jobs." — The hint of re-acceleration is noted.
+
+Shift vs. prior speech (Jul 31):  UNCHANGED in direction and near-term verdict.
+  Jul 31: "job market is solid and perhaps strengthening a bit." Nov 10: "balanced
+  and even tightening a bit." The dynamism observation is new but explicitly
+  quarantined from policy. The maximum-employment conclusion is unchanged.
+Shift vs. pre-FOMC (Jul 31):       Same — UNCHANGED.
+
+──────────────────────────────────────────────────────────
+INFLATION
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "Inflation remains elevated." [Sep 16 stmt — supply-shock attribution DELETED vs.
+   Jul 29]
+  → Logan: "inflation has now exceeded the Federal Open Market Committee's 2 percent
+    target for nearly six years." She echoes the duration language but does not
+    quote the statement's exact phrase. She engages the question of TREND vs.
+    temporary at length.
+
+Own language — PATH VERDICT:
+  "Unfortunately, inflation is trending meaningfully higher than 2 percent."
+  "Looking ahead, inflation appears set to trend meaningfully above that target."
+  → This is a significant escalation vs. her July 31 "trending toward the mid-2's,
+    not all the way to 2 percent." "Meaningfully above" is broader and less
+    pinpointed than the prior "mid-2's" framing; the direction of travel is the
+    same (above target), but the word "meaningfully" suggests a wider miss.
+
+Own language — BREADTH DASHBOARD:
+  Core PCE: 3.1% (12m Sept); NY Fed multivariate core trend: 2.8% (Sept);
+  Dallas Fed trimmed mean: 2.3% (12m Sept) BUT "our research finds that a change
+  in the mix of price increases and decreases is causing the trimmed mean to drop
+  too many increases right now. This effect likely makes the trimmed mean lower
+  than the true inflation trend." — The key: Logan explicitly says her own bank's
+  signature trimmed mean is currently misleading to the downside. She provides
+  cover for discounting a measure that might look relatively benign.
+
+  Non-housing, non-transportation core services: 3.2% (12m Sept) — "eight tenths
+  of a percentage point above the pace historically consistent with achieving the
+  FOMC's inflation target." Explicitly: "these services aren't particularly
+  sensitive to tariffs, conflict in the Middle East or surging demand for computer
+  chips. While I expect inflation to moderate as price pressures dissipate in
+  energy and manufactured goods, the broader inflationary trend is more likely
+  to persist."
+  → This is her clearest statement that the breadth of inflation — beyond the
+    identifiable shocks — is the signal. Directly parallels Warsh's Aug 28 breadth
+    test and Barkin's Sep 22 "60% of PCE above 3%."
+
+  October CPI: "came out this morning. It was higher than expected. I am concerned
+  that PCE inflation could rise when we receive those data for October in a couple
+  of weeks."
+  → Live data point; confirms the data as of this speech.
+
+  Expectations framework:
+  "Market- and survey-based measures of long-run inflation expectations are near
+   2 percent, indicating the public trusts the FOMC to deliver price stability."
+  — Expectations noted as anchored. The CEO anecdote (wages for 2027 rising to
+    offset 2026 inflation) illustrates the second-round risk embedded in anchored-
+    but-stretched expectations.
+
+Shift vs. prior speech (Jul 31):  HAWKISH LEAN. Jul 31 "mid-2's, not all the way
+  to 2 percent" (precise forecast) → Nov 10 "trending meaningfully above 2 percent"
+  (less precise but more emphatic). Explicit dismissal of the trimmed mean as
+  currently understated is new and hawkish. The breadth section (non-housing, non-
+  transportation core services 3.2%) is the most detailed inflation analysis since
+  her July 16 speech.
+Shift vs. pre-FOMC (Jul 31):       Same comparison — HAWKISH LEAN.
+
+──────────────────────────────────────────────────────────
+MONETARY POLICY
+──────────────────────────────────────────────────────────
+FOMC statement language echoed:
+  "The Committee will deliver price stability." [Jul 29 stmt] /
+  "Inflation remains elevated. Today's policy action will support a timelier
+   return to the Committee's 2 percent goal." [Sep 16 stmt]
+  → Logan: "Congress charged the FOMC with delivering price stability as well as
+    maximum employment. We must fulfill this responsibility." — Not verbatim, but
+    obligation framing consistent with both.
+
+Own language — REAL RATE CALCULATION (most detailed stance analysis of the cycle):
+  Nominal fed funds rate: 3.88%; Expected PCE inflation (13 surveys): ~3.1%;
+  Real fed funds rate: 78bp = "a quarter-percentage-point below the lowest estimate
+  of neutral." (Neutral real rate estimates from 8 models: 1.0% to 1.85%.)
+  "In my view, accommodative monetary policy is adding to inflationary pressures."
+  → Logan explicitly concludes current policy (3.75–4.00%) is ACCOMMODATIVE,
+    not restrictive, not neutral. This is the clearest stance label in the cycle:
+    not "mildly restrictive," not "slightly restricting" (Waller Sep 3), not
+    "hard-pressed to describe as restrictive" (Warsh Aug 28/Sep 16). Logan says
+    outright it is adding to pressures.
+  → "Broad financial conditions are currently providing a tailwind" — equities up,
+    credit spreads compressed, banks eager to lend. Long-term rate rise explained
+    as a signal of stronger nominal growth expectations, not a tightening force.
+
+Own language — DESTINATION AND PATH:
+  "I currently estimate that the fed funds target range is at least 50 basis
+   points—half a percentage point—below the level that would create some modest
+   restriction and begin to bring the inflation trend back to target."
+  → This is a PRECISE ESTIMATE of the gap to even modest restriction: at least
+    50bp from current 3.75–4.00% → implies a "modestly restrictive" rate of at
+    least 4.25–4.50%.
+
+  "It remains clear to me, given the current outlook, that the FOMC needs to
+   implement at least two more 25-basis-point rate increases."
+  → "AT LEAST TWO MORE" is the clearest and most specific path statement from any
+    voter this cycle. After September hike +25bp and October skip, Logan's base
+    case is December (+25bp, to 4.00–4.25%) and at least one more. Waller says
+    25bp December with 50bp possible — Logan says at minimum two additional moves.
+
+  "The exact pace of increases could depend on the near-term economic and financial
+   environment. It may be possible to move more rapidly this winter than the FOMC
+   has moved so far this fall."
+  → This "move more rapidly" language is the strongest speed signal in the cycle.
+    "So far this fall" references the September 25bp and the October skip — she
+    implies the skip-plus-hike cadence could accelerate.
+
+  "After two more increases are in place, it would make sense in my view to pause
+   and examine economic and financial developments to determine what further action
+   may be appropriate."
+  → Provides a terminal-level framework: two more hikes (minimum), then assess.
+    The pause is conditional on what the economy looks like at that point; "what
+    further action" keeps the door open.
+
+  October skip rationale:
+  "Skipping one meeting does not change the monetary policy destination... by
+   making the destination clear, the FOMC can better help the economy adapt and
+   obtain the promised benefits of a skip."
+  → Fully endorses the skip as a tactical instrument that works only IF the
+    destination is clear. The November 10 speech IS the destination-clarification.
+    Consistent with Waller's simultaneous speech framing.
+
+Hike signal status: PRESENT — "at least two more 25bp"; "may be possible to move
+  more rapidly this winter." Most explicit forward path of any voter this cycle.
+Cut signal status:  ABSENT.
+
+Scenario framing (precision rule): DESCRIPTIVE. The speech frames the path as a
+  base case, not a named scenario structure with discrete branches. The "may be
+  possible to move more rapidly" is directional optionality, not a named branch.
+
+Shift vs. prior speech (Jul 31):  HAWKISH — Jul 31 asked for "one-quarter
+  percentage point" at the July meeting (one move). Nov 10 says "at least two
+  more" from the current 3.75–4.00% level. This is a substantial escalation: her
+  dissent position was one move; her post-hike position is at least two additional
+  moves. The "at least" qualifier leaves the door open for more.
+Shift vs. pre-FOMC (Jul 31):       Same comparison — HAWKISH.
+
+──────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────
+Net signal:    HAWKISH — the most hawkish and most analytically detailed
+               post-reference-FOMC speech from any voter. The key escalation
+               from her July 31 dissent: she asked for one move; she now says
+               "at least two more" with the possibility of moving "more rapidly
+               this winter." The real rate calculation (78bp — below lowest
+               neutral estimate) and the explicit "accommodative" stance label
+               are the most precise public assessments of the policy gap from
+               any voter. The inflation section's dismissal of the Dallas trimmed
+               mean as currently understated removes a potential data safety valve.
+
+               The simultaneous Logan–Waller pair on November 10 is the most
+               coordinated hawkish signal from two Just Voters since the July 16
+               pre-FOMC alignment. Both:
+               (1) explicitly endorse the October skip as tactical;
+               (2) raise the "low dynamism" labor concern and quarantine it from
+                   policy;
+               (3) point to December as the next hike with an escalation option
+                   if October CPI is hot (which Logan confirms it is).
+
+               Position relative to committee: Logan is the hawkish anchor of
+               the voter coalition. Her "at least two more" baseline, combined
+               with Waller's 50bp escalation branch, brackets December at 25bp
+               (minimum) to 50bp (if data confirm). Among previously scored
+               voters, Paulson (Sep 24), Barkin (Sep 22), and Schmid (Sep 18)
+               all name a second hike as likely. No voter has publicly dissented
+               from that direction.
+
+Language watch:
+  • "at least two more 25-basis-point rate increases" — most specific path statement
+    from any voter. Stage: DISPERSED (first use in this form). Watch for Paulson
+    or Hammack to echo.
+  • "accommodative monetary policy is adding to inflationary pressures" —
+    explicit stance label; Stage: DISPERSED. The hardest stance label in the cycle.
+    "Accommodative" vs. "mildly restrictive" (Paulson) vs. "slightly restricting"
+    (Waller Sep 3) vs. "hard-pressed to call restrictive" (Warsh). The gap
+    between Logan's label and the committee median is wide.
+  • "move more rapidly this winter" — speed escalation signal; Stage: DISPERSED
+    (first use). If multiple voters echo, the December meeting debate is 25 vs. 50.
+  • Trimmed mean dismissal ("causing the trimmed mean to drop too many increases")
+    — methodological caution about the Dallas Fed's own signature measure; Stage:
+    DISPERSED. Undercuts a bearish inflation data point; watch for media pickup.
+  • CEO wage anecdote (wages for 2027 rising to offset 2026 inflation) — human
+    evidence of second-round pass-through risk; Stage: DISPERSED. The anecdote
+    is the most memorable illustration of de-anchoring risk in this cycle.
+
+Analyst flag:  YES
+  → (1) "At least two more 25bp increases" is a materially more aggressive path
+    than her July 31 dissent (one move). After the September hike was delivered,
+    her stated base case grew from one move to at least two. This is NOT a
+    carry-over of her prior position — it is a genuine escalation that follows
+    the September hike but does not reset to neutral.
+  → (2) The real rate calculation (78bp below lowest neutral) is the analytical
+    backbone of her path argument. If expectations data revise (the 3.1% survey
+    expectation she uses is elevated vs. TIPS breakevens), the gap would narrow.
+    Confirm the survey sources she cites (13 surveys from "Baker's dozen" of
+    household, business, and market participants) and assess whether this measure
+    is accepted by other voters.
+  → (3) The Dallas trimmed mean dismissal is analytically important: Logan is
+    saying her own bank's signature measure is currently misleading. If other
+    trimmed-mean watchers (including those at the Board) accept this interpretation,
+    it broadens the case for continued tightening. Verify the composition shift her
+    staff identifies.
+  → (4) Both Logan and Waller raise "low dynamism" labor concerns on the same day.
+    This is either parallel independent analysis of the same data or deliberate
+    coordination. Watch for a third speaker to use the same framing.
+══════════════════════════════════════════════════════════

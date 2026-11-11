@@ -1,0 +1,250 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: November 10, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first hike since Jul 2023)
+FFR: 3.75–4.00% (Sep 16 +25bp; Oct 27–28 HOLD)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Lorie K. Logan  |  Dallas Fed President  |  Just Voter
+     "Economic and monetary policy outlook"
+     11th Joint Energy Conference (Dallas/Kansas City Feds), Houston, TX
+  2. Christopher J. Waller  |  Governor  |  Just Voter
+     "The Economic Outlook and Some Thoughts on Labor Market Dynamism"
+     Bank of England Watchers Conference, King's Business School and
+       Money, Macro and Finance Society, London, United Kingdom
+
+DATA CONTEXT: October CPI was released the morning of November 10. Both
+  Logan and Waller reference it in real time. Logan: "higher than expected."
+  Waller: awaiting the data, pre-committed his escalation branch to 50bp at
+  December if core CPI "around 0.3 percent or even higher." The data point is
+  live and directly affects the December FOMC probability distribution.
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1.  LORIE K. LOGAN  |  Dallas Fed President  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  "Economic growth is strong" — GDP 3.4% Q3; Dallas Fed Weekly Economic Index
+  consistent with ~3% annualized. Business investment "robust": equipment +14%
+  YoY, led by AI data center build (>80% of tech equipment growth) with broadening
+  into industrial machinery, semiconductor mfg, defense. "Technological innovation
+  and changes in global trade and security alliances appear poised to continue
+  driving strong investment in coming years." Consumer spending solid, weighted
+  toward wealthier households; growth permissive of further tightening.
+  Direction: neutral (hawkish permissive backdrop)
+
+LABOR MARKET
+  "Balanced and even tightening a bit"; unemployment "just above 4 percent, down
+  slightly from late last year." Conclusion: "achieving maximum employment...
+  remains on track." New nuance: "not especially dynamic" — Logan raises the
+  same low-hire/low-fire structural concern Waller raises simultaneously, then
+  explicitly quarantines it from policy: "Monetary policy addresses cyclical
+  mismatches, not structural challenges." "Latest data show hints of increased
+  dynamism, including more job openings and more workers quitting."
+  Direction: neutral
+
+INFLATION
+  PCE 3.6% (12m Sept); core PCE 3.1%; October CPI "higher than expected" this
+  morning. Non-housing, non-transportation core services 3.2% — "eight-tenths
+  above the pace historically consistent" with 2% — and these categories "aren't
+  particularly sensitive to tariffs, conflict in the Middle East or surging demand
+  for computer chips... the broader inflationary trend is more likely to persist."
+  Notable: Dallas Fed trimmed mean (2.3%) explicitly dismissed as currently
+  misleading downward due to composition effects. NY Fed multivariate core trend:
+  2.8%. Overall verdict: "trending meaningfully above 2 percent."
+  Direction: hawkish
+
+MONETARY POLICY
+  Real fed funds rate: 3.88% nominal minus 3.1% expected PCE inflation = 78bp,
+  "a quarter-percentage-point below the lowest estimate of neutral" (8-model range:
+  1.0–1.85% real). Explicit stance label: "accommodative monetary policy is adding
+  to inflationary pressures." Gap to even modest restriction: "at least 50 basis
+  points." Path: "the FOMC needs to implement at least two more 25-basis-point rate
+  increases." After those: pause to assess. Speed option: "it may be possible to
+  move more rapidly this winter than the FOMC has moved so far this fall." October
+  skip: "skipping one meeting does not change the monetary policy destination."
+  Direction: hawkish
+
+NET SIGNAL: HAWKISH — the most hawkish and most analytically detailed post-FOMC
+  outlook speech from any voter this cycle. Key escalation vs. July 31 dissent:
+  she asked for one move; she now says "at least two more." The real-rate
+  calculation is the most precise policy-gap estimate from any voter.
+
+vs. PRIOR SPEECH (Jul 31, 2026):   HAWKISH — Jul 31 asked for one move (25bp);
+  Nov 10 says "at least two more." Inflation verdict upgraded from "mid-2's"
+  (precise forecast) to "meaningfully above" (broader). "Accommodative" stance
+  label vs. prior implicit "not restraining" framing.
+vs. PRE-FOMC SPEECH (Jul 31, 2026): Same — HAWKISH. No intervening scored speech.
+vs. COMMITTEE SINCE FOMC (Sep 16): Logan is the hawkish anchor. "At least two
+  more" is the most specific multi-hike path of any voter. Paulson (Sep 24): "some
+  modest further tightening"; Barkin (Sep 22): "one 'talking-to' might not be
+  enough"; Waller (Oct 8): "additional hikes... not consecutive"; Schmid (Sep 18):
+  "a step in that direction." Logan is well ahead of the committee median on the
+  number of hikes, while sharing their directional consensus.
+
+LANGUAGE TO WATCH:
+  • "at least two more 25-basis-point rate increases" — most specific multi-hike
+    path from any voter. Stage: DISPERSED. Watch for Paulson or Hammack to echo.
+  • "accommodative monetary policy is adding to inflationary pressures" — the
+    hardest stance label in the cycle. Stage: DISPERSED. If Warsh adopts it, it
+    has statement potential.
+  • "move more rapidly this winter" — speed escalation signal. Stage: DISPERSED.
+  • "causing the trimmed mean to drop too many increases" — dismissal of her own
+    bank's signature measure. Stage: DISPERSED. Affects the data picture.
+  • CEO wage anecdote (raising pay for 2027 to offset 2026 inflation) — most
+    vivid second-round risk illustration this cycle. Stage: DISPERSED.
+
+ANALYST FLAG: YES
+  → "At least two more" is a genuine escalation from July's one-move dissent —
+    not a carry-over. Combined with October CPI higher than expected, her
+    trajectory points toward a 50bp December discussion even without the 50bp
+    explicit label she stopped short of. Verify: Does her "move more rapidly"
+    language implicitly endorse 50bp, or only signal back-to-back 25bp hikes?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.  CHRISTOPHER J. WALLER  |  Governor  |  Just Voter
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GROWTH
+  GDP 3.4% Q3, "healthy pace"; consumer spending strong (wealth-effect driven);
+  business investment in AI continuing. Q4 growth "backing off a bit" as spending
+  normalizes toward income, but "output will continue to grow at a solid pace."
+  Growth provides cover for tightening without recession risk.
+  Direction: neutral
+
+LABOR MARKET
+  "Solid and stable" in September; 4.1% unemployment, payroll gains "in the range
+  of breakeven." Extended structural analysis of "low hire, low fire" equilibrium:
+  long-term unemployed (27+ weeks) at 27%+ of unemployed (20-year high context);
+  new entrant unemployment near 20-year high. Explicit policy disposal: "What is
+  important in the near term is that I see the labor market as stable and employment
+  at a level close to the FOMC's maximum-employment goal." Labor dynamism concern
+  is a "longer-term" question, quarantined from near-term policy.
+  Direction: neutral
+
+INFLATION
+  "September's inflation data were bad. There was no silver lining." PCE 0.5%
+  monthly, 3.7% 12m; core PCE 0.3% monthly, 3.1% 12m; breadth: "more than 70
+  percent of the components of core PCE service prices saw 12-month increases above
+  3 percent." Three forward risks: (1) ISM textual analysis points to more price
+  increases ahead; (2) energy pass-through research finds core inflation "more
+  responsive to energy shocks" post-pandemic, could "persist well into 2027";
+  (3) AI-buildout inflation in high-tech goods. October CPI: "in a few hours" at
+  speech time; Waller pre-committed escalation branch to 50bp if "around 0.3% or
+  higher" (Logan confirms data came in hot).
+  Direction: hawkish
+
+MONETARY POLICY
+  Base case: "even if [October CPI] shows an improvement over September, I would
+  still support a 25 basis point increase... at our December meeting." Escalation
+  branch: "if the October CPI data... are similar to the past two monthly
+  readings—with core CPI inflation around 0.3 percent or even higher—then a
+  stronger policy move may be needed. In that case, I believe a 50 basis point
+  hike in the policy rate should be considered at the December meeting. Hiking only
+  25 basis points would put our credibility at risk, a risk I am not eager to take."
+  October hold rationale confirmed as tactical: "it is not necessary to raise rates
+  at consecutive meetings."
+  Direction: hawkish (escalating)
+
+NET SIGNAL: HAWKISH — most explicit near-term escalation signal from Waller this
+  cycle. The 50bp call, with a quantitative trigger and a credibility framing, is
+  the highest-register policy signal from any voter since Logan's July 31 dissent.
+  The October CPI data (hot, per Logan) place the 50bp branch in live play.
+
+vs. PRIOR SPEECH (Oct 8, 2026):   HAWKISH — Oct 8: "additional hikes... not
+  consecutive... acceptable period of time." Nov 10: 25bp December is the floor;
+  50bp explicitly on the table with a named numerical trigger and a credibility
+  framing. Upgrade from timing-flexible to quantity-escalated.
+vs. PRE-FOMC SPEECH (Sep 3, 2026): HAWKISH — Sep 3 inclination was to hold;
+  hike required hot August data. Nov 10: even an improvement doesn't prevent
+  December hike; question is only 25 vs. 50.
+vs. COMMITTEE SINCE FOMC (Sep 16): Among post-FOMC speakers, Waller's 50bp call
+  is the most aggressive. Logan says "at least two more" but stops short of naming
+  50bp. Paulson: "some modest further tightening." Together, Logan and Waller on
+  November 10 represent the committee's hawkish end, with December 50bp a named
+  possibility for the first time.
+
+LANGUAGE TO WATCH:
+  • "50 basis point hike... should be considered" — first explicit 50bp call from
+    a voter for this cycle. Stage: DISPERSED. Credibility framing upgrades the
+    signal. Watch for Logan or Paulson to echo.
+  • "Hiking only 25 basis points would put our credibility at risk" — credibility-
+    protection argument for 50bp. Stage: DISPERSED. High-consequence if it spreads.
+  • "September's inflation data were bad. There was no silver lining." — Unusually
+    blunt. Stage: DISPERSED. Likely to travel in media.
+  • "low hire, low fire" labor dynamism analysis — methodological parallel to
+    Logan's simultaneous speech. Stage: DISPERSED. Watch for a third speaker to
+    use this framing.
+
+ANALYST FLAG: YES
+  → (1) The October CPI release (morning of Nov 10) was confirmed "higher than
+    expected" by Logan. This places Waller's explicitly named 50bp branch in live
+    play for December. Confirm October CPI core reading vs. his stated trigger
+    (~0.3% or higher).
+  → (2) This is the first explicit 50bp call from any voter for the December
+    meeting. Watch for echoes from Logan, Paulson, Hammack, Kashkari.
+
+════════════════════════════════════════════════════════════════
+CROSS-SPEAKER NOTE
+────────────────────────────────────────────────────────────────
+On the same day (November 10), two Just Voters independently made the most
+hawkish coordinated statement since the July 16 pre-FOMC alignment:
+
+(1) DESTINATION CLARITY: Both explicitly endorse the October hold as a tactical
+    skip that "does not change the monetary policy destination." Neither treats
+    the skip as a signal of a lower terminal rate.
+
+(2) DECEMBER ESCALATION: Logan says "at least two more 25bp"; Waller says 25bp
+    is the floor, 50bp is live if data are hot. Together they bracket December
+    at 25bp minimum to 50bp possible — the first public 50bp discussion from
+    voters this cycle.
+
+(3) LABOR DYNAMISM PARALLEL: Both independently raise the "low hire, low fire"
+    /labor dynamism concern on the same day, then independently quarantine it
+    from near-term policy. The simultaneity is notable.
+
+(4) REAL RATE DIAGNOSIS: Logan's "78bp below lowest neutral" and Waller's
+    "policy will be focused on the inflation side of our mandate" both point to
+    the same operational conclusion: current policy is NOT restricting the economy
+    meaningfully, more tightening is required.
+
+(5) OCTOBER CPI: Both reference it. Logan: "higher than expected." Waller:
+    pre-committed 50bp to "around 0.3% or higher." The live data point may be
+    the most consequential same-day data-and-speech alignment this cycle.
+════════════════════════════════════════════════════════════════
+UPCOMING — TOMORROW: Thursday, November 12, 2026
+────────────────────────────────────────────────────────────────
+  Austan Goolsbee  |  Chicago Fed President  |  Non Voter
+  Yahoo Finance Invest 2026 (confirmed — raw file collected)
+  Topic/format unconfirmed; likely economic outlook remarks given the venue.
+
+  Mary C. Daly  |  San Francisco Fed President  |  Non Voter
+  Keynote Remarks at SIEPR's Policy Forum (Stanford Institute for
+    Economic Policy Research), Stanford, CA — 10:10 a.m. PT (confirmed)
+  Venue covers economic policy broadly; outlook remarks expected.
+
+  (No Board Governor speeches confirmed for November 12 as of this run.)
+  (No blackout — next blackout begins November 28, 2026 for the
+   December 8–9 FOMC meeting, which is a projection meeting with SEP.)
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Logan, Nov 10, 2026:
+    https://www.dallasfed.org/news/speeches/logan/2026/lkl261110
+  Waller, Nov 10, 2026:
+    https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm
+
+Prior speech / pre-FOMC baseline (Logan):
+  Logan, Jul 31, 2026 (FOMC dissent):
+    https://www.dallasfed.org/news/releases/2026/nr260731dissent
+
+Prior speech (Waller post-FOMC):
+  Waller, Oct 8, 2026:
+    https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm
+
+Pre-FOMC baseline (Waller):
+  Waller, Sep 3, 2026:
+    [Reuters NEXT event — URL in data/scored/speeches/20260903_Christopher_J__Waller_scored.txt]
+════════════════════════════════════════════════════════════════
