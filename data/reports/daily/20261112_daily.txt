@@ -1,0 +1,107 @@
+FED MONITOR — DAILY UPDATE
+════════════════════════════════════════════════════════════════
+Date: November 12, 2026
+Reference FOMC: September 16, 2026  |  Cycle: HIKING (first hike since Jul 2023)
+FFR: 3.75–4.00% (Sep 16 +25bp; Oct 27–28 HOLD)
+════════════════════════════════════════════════════════════════
+SPEECHES TODAY
+  1. Austan D. Goolsbee  |  Chicago Fed President  |  Non Voter
+     Yahoo Finance Invest 2026 (virtual moderated Q&A, 10:30am CT)
+     STATUS: NOT SCORED — transcript recovery (YouTube) required
+     SOURCE: https://www.chicagofed.org/publications/speeches/2026/nov-12-yahoo-finance-invest
+     (Raw file is event announcement stub only; no transcript was collected.)
+     ACTION: Search YouTube for "Goolsbee Yahoo Finance Invest November 2026" or
+     the Yahoo Finance channel for the livestream recording.
+
+  2. Michael S. Barr  |  Governor  |  Just Voter
+     "American Inequality and the Future of AI"
+     Yale University, New Haven, Connecticut
+     STATUS: NOT SCORED — Type B (AI/inequality), no embedded monetary policy content
+     SOURCE: https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm
+
+  3. Mary C. Daly  |  San Francisco Fed President  |  Non Voter
+     Keynote Remarks at SIEPR's Policy Forum
+     Stanford Institute for Economic Policy Research, Stanford, CA (10:10am PT)
+     STATUS: NOT SCORED — TRANSCRIPT PENDING (official fetch failed; recover via
+     local 'python3 main.py refetch' once network access to frbsf.org is restored)
+     SOURCE: (URL not retrieved — frbsf.org blocked in this run environment)
+════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTE ON TODAY'S SPEECHES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+None of the three November 12 speeches can be scored in this run:
+
+(1) GOOLSBEE (Yahoo Finance Invest) — The raw file is an event announcement stub
+    with no transcript text. The November 10 daily report flagged this appearance
+    in advance as "likely economic outlook remarks given the venue." As a Non Voter
+    who endorsed the September hike at OMFIF on September 21 and ended that speech
+    at HAWKISH LEAN (cut path demoted to exception clause; "the only way back is
+    the hard way"), any November 12 remarks on inflation trajectory and the December
+    path are analytically significant. Transcript recovery via YouTube is required.
+
+(2) BARR (Yale — "American Inequality and the Future of AI") — Full transcript
+    collected. This is a purely structural speech covering wealth and income
+    concentration data (from the 2025 Survey of Consumer Finances), historical
+    inequality trends, the decline in labor share of national income (record low
+    52.8% in Q2 2026), market concentration, and AI's potential distributional
+    effects. There is no current economic outlook section, no inflation discussion,
+    no mention of monetary policy, the current rate cycle, or the federal funds
+    rate. Classification: Type B (special topic: AI and economic inequality) with
+    NO embedded economic outlook. Not scored per standing methodology. The speech
+    is internally consistent with Barr's September 23 position (which carried the
+    analyst flag: does he still see the inflation shocks as supply-side even as
+    he calls for "further policy adjustments"?). The labor-share data he cites
+    (52.8% in Q2 2026, record low) could become a distributional framing for a
+    future Type A speech but carries no policy signal in today's context.
+
+(3) DALY (SIEPR Policy Forum) — Expected per November 10 daily report's UPCOMING
+    section. The frbsf.org domain is not accessible from this run environment
+    (network policy blocks it). The 5:30am GitHub Actions collect does not appear
+    to have retrieved a transcript either. Daly's last scored speech was July 2
+    (Banco de España dialogue, "policy in a slightly restrictive position") — given
+    the September 16 hike and October 27–28 hold, her post-hike stance update is
+    high-priority. SIEPR is an economic policy forum; full Type A remarks are
+    expected. Recover the transcript when frbsf.org is accessible.
+
+════════════════════════════════════════════════════════════════
+UPCOMING — NEXT WEEK: Mon Nov 16 – Fri Nov 20, 2026
+────────────────────────────────────────────────────────────────
+  (calendar lookup unavailable this run — federalreserve.gov and regional bank
+   websites blocked by session network policy)
+
+  Context: No blackout in effect. Next blackout begins November 28, 2026 for the
+  December 8–9 FOMC meeting (a projection meeting with SEP/dot-plot release).
+  The week of November 16–20 is therefore the last full week of open
+  communications before the pre-December blackout. Officials who have not yet
+  given a post-October-hold speech (including Jefferson, Williams, Bowman, Cook,
+  Daly) may use this window. Waller and Logan gave definitive December framing
+  on November 10 (Waller: 25bp floor, 50bp live if core CPI ~0.3% or higher;
+  Logan: "at least two more 25bp").
+
+  (unconfirmed) — pending calendar access
+════════════════════════════════════════════════════════════════
+SOURCES
+────────────────────────────────────────────────────────────────
+Speeches this date:
+  Goolsbee, Nov 12, 2026 (stub only):
+    https://www.chicagofed.org/publications/speeches/2026/nov-12-yahoo-finance-invest
+  Barr, Nov 12, 2026:
+    https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm
+  Daly, Nov 12, 2026:
+    URL not retrieved — frbsf.org inaccessible this run
+
+Most recent scored speech (Goolsbee prior context):
+  Goolsbee, Sep 21, 2026:
+    https://www.chicagofed.org/publications/speeches/2026/sept-21-omfif
+    (also: https://www.youtube.com/watch?v=zcAFMHbXGpY)
+
+Most recent scored speech (Barr prior context):
+  Barr, Sep 23, 2026:
+    https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm
+
+Most recent scored speech (Daly prior context):
+  Daly, Jul 2, 2026:
+    [Banco de España/Santander — URL in data/scored/speeches/20260702_Mary_Daly_scored.txt]
+════════════════════════════════════════════════════════════════
