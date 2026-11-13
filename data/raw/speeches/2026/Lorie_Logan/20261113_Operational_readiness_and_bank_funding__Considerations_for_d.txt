@@ -1,0 +1,107 @@
+SOURCE: https://www.dallasfed.org/news/speeches/logan/2026/lkl261113
+
+Skip to main content
+Speech by President Lorie Logan
+Operational readiness and bank funding: Considerations for depository institutions and the Federal Reserve
+Lorie Logan
+November 13, 2026
+Remarks delivered at the “
+Bank Funding in the Age of Instance Finance
+” conference at the Federal Reserve Bank of Dallas.
+Thank you,
+Emily [Greenwald]
+, for that warm introduction. I’m delighted to welcome all of you to the Dallas Fed. Thank you to our partners at the Boston Fed for collaborating with us to organize this conference.
+We started this annual conference in the aftermath of the 2023 bank stresses. That episode highlighted how important it is for banks to effectively manage funding risk. At their core, banks transform deposits into productive investments in the real economy. Banks promise depositors they can withdraw funds when needed. When a bank’s depositors lose confidence that it will be able to keep that promise—or, worse, when a bank fails to keep that promise—the liquidity transformation at the heart of the banking system is disrupted. Depositors are put at risk, and so are borrowers who count on the bank to finance their businesses or their homes. Banks’ critical role in the economy comes with the critical responsibility to manage liquidity well.
+The 2023 stresses taught many lessons. One that I’ve discussed repeatedly in the past and would like to focus on again this morning is the importance of operational readiness.
+[1]
+These are my views and not necessarily those of my Federal Reserve colleagues.
+Banks’ operational readiness
+Today’s financial system moves money faster than ever. Banks must be prepared to meet outflows as fast as those outflows can arise. When depositors want their money, you can’t make them wait while you complete legal agreements with a contingent funding source or track down long-forgotten procedures and passwords.
+I have been pleased to see banks’ progress since 2023 in enhancing their operational readiness to access contingent funding.
+Banks rely on a range of contingent liquidity sources. One important contingent liquidity source for many banks is the Fed’s discount window. The ability to borrow at the window can be particularly impactful for smaller banks that lack access to broader capital markets, as well as for larger banks that could need funding late in the day when other borrowing relationships may not be available. The discount window is a normal funding source for healthy firms. I anticipate banks will turn to the window when it is economical to do so.
+The Fed, like any responsible lender, requires appropriate documentation and collateral to secure a loan. Since 2023, many banks have completed documentation and positioned collateral in advance. These steps help a bank avoid undue delay in obtaining discount window funding should a need arise.
+I’m also pleased to see banks taking out test loans to practice the procedures for requesting and repaying funds. Test transactions build muscle memory that bankers can rely on in case of stress.
+People sometimes talk about small-value tests, but tests can be for large amounts, too. The discount window’s primary credit program stands ready to provide funding up to the full lendable value of a bank’s collateral, no questions asked. One banker I know figured the Fed’s discount window commitments might be all hat and no cattle. He requested a large test loan late on a Friday afternoon. He expected we’d bury him in tough questions, or maybe we wouldn’t even get the loan out before the weekend. Instead, we simply delivered the money to his bank’s reserve account without any hassle or delay. The test added to his confidence the window will be there if his bank ever needs it. But you don’t have to believe me when I tell you this story. Test the window yourself, if you haven’t already.
+Banks active in the repo market have also increased their readiness to access funding from the Fed’s standing repurchase agreement (SRP) operations. These daily operations offer funding to depository institutions (DIs) and primary dealers, collateralized by Treasury and agency mortgage-backed securities. The interest rate is the same as the primary credit rate at the discount window. Forty-seven DIs are now SRP counterparties.
+No bank hopes to face unexpected liquidity pressures, but all banks should be prepared in case pressures arise. For those who have increased your operational readiness in recent years: Keep it up! Don’t let your readiness weaken as memories of 2023 fade. And for those whose readiness is not where it should be: It’s up to each banker to decide how to manage their bank in accordance with laws, regulations and business incentives. But my best advice from my own years of experience in banking and financial markets is that operational readiness always pays off. The saying might be trite, but it’s true: Prior planning prevents poor performance.
+Operational readiness at the Fed
+At the Fed, we recognize that we also have a responsibility to support operational readiness. Banks can rely on the discount window and SRP only if these tools are straightforward to access and available when banks need them.
+The Fed has made our lending operations significantly easier to access in recent years.
+Discount Window Direct,
+launched in 2024, lets banks use an online portal to request and prepay loans and manage collateral. This summer, the Federal Reserve Banks
+enhanced the Borrower-in-Custody program
+to give banks a simpler, nationally consistent way to pledge loan collateral to the discount window. Deborah Leonard, director of the Fed’s Credit Risk Management Support Office, will join us for a lunchtime conversation today and share more about these improvements.
+In addition, the Fed is working closely with the Federal Home Loan Banks (FHLBs) to improve interoperability between our institutions. All of the Federal Reserve Banks are collaborating with the FHLBs on tabletop exercises to practice transferring collateral in stress scenarios. We also aim to simplify collateral transfers. The FHLBs are important liquidity providers for banks. These improvements will help banks readily access liquidity from whichever source makes the most sense at any given time.
+The Fed has also enhanced the SRP operations. The New York Fed’s Open Market Trading Desk, which conducts these operations, now offers funding earlier in the day. The Federal Open Market Committee (FOMC) also removed the aggregate limit on operation sizes, so counterparties can be confident they will receive the full amount of funding they request.
+I see several opportunities to further strengthen the Fed’s operational readiness to provide liquidity to the financial system when needed.
+First, banks can currently borrow from the discount window only on business days. However, the growth of instant payments services such as FedNow and private-sector alternatives means that banks can also face overnight liquidity needs on weekends and holidays. The Fed also plans to extend operations of the Fedwire Funds wholesale payments service to Sundays and weekday holidays by 2028 or 2029. Extended Fedwire operations may further increase banks’ potential liquidity needs on days when the discount window is currently closed.
+The Fed should extend discount window operations to weekends and holidays. Depository institutions operate nationwide, and the Board of Governors establishes policies for the discount window. This is not a change any one Reserve Bank can make on its own. I look forward to discussions with my colleagues about this possibility.
+Second, turning to repo operations, when a bank or dealer receives repo funding from the Fed and lends onward to other market participants, that intermediation expands the bank’s or dealer’s balance sheet. A larger balance sheet creates capital and other costs. If the Fed’s repo operations were centrally cleared, our counterparties could net down borrowing from the Fed against onward lending to other firms. This would reduce the balance sheet costs of intermediation. Funding from the Fed could then flow more efficiently to the broad market. The efficiency gain could be particularly valuable in stress episodes, when liquidity needs can rise just as intermediaries may pull back in the face of elevated risks.
+The repo market is also moving toward broader central clearing in response to the Securities and Exchange Commission mandate. Market participants must centrally clear covered repos by mid-2027. Broader clearing will reduce risks and increase transparency in the Treasury market.
+While central banks are exempt from the mandate, the Fed could centrally clear its operations on a voluntary basis. But central clearing requires operational readiness. Legal agreements must be signed. Transactions must be tested to make sure money moves as it should. You know the drill. Central clearing of open market operations would be challenging to stand up quickly in a crisis. The Fed should develop the operational ability to centrally clear operations and then put that ability to use. Centrally clearing open market operations would support the market transition to central clearing, and it would let the Fed implement monetary policy more efficiently and effectively.
+Third, banks are not the only institutions eligible to access contingent funding from the Fed. Under unusual or exigent circumstances, the law allows the Fed to extend a discount window loan to a financial market utility that the Financial Stability Oversight Council has designated as systemically important.
+[2]
+There are eight of these designated financial market utilities (DFMUs). They provide infrastructure that underpins the U.S. financial system, particularly central counterparty clearing that removes default and settlement risk from securities and derivatives markets.
+DFMUs have the first responsibility for managing their own liquidity needs. However, in extreme scenarios, liquidity demands could exceed the private sector’s capacity to provide or intermediate funding. In these scenarios, a timely, collateralized loan from the Fed to a DFMU could make the difference between contained stress and a systemic crisis, at no risk or cost to taxpayers.
+[3]
+But the Fed might have only a matter of hours to decide on and execute such a loan. Operational readiness is crucial. I’ve been working on operational readiness in the Fed’s financial market activities nearly my whole career. DFMUs manage risk very carefully, subject to robust regulations. Severe liquidity stress at a DFMU is an extreme and unlikely scenario. But operational readiness is all about preparing for extreme situations that are highly unlikely and that you hope will never happen. It would be desirable in my view for the Fed to further develop its operational readiness to lend to DFMUs under appropriate circumstances, including by working with DFMUs to complete documentation and examine collateral arrangements.
+Operational readiness to support smooth market functioning
+I’d like to conclude by discussing a broader reason why the Fed should maintain effective, efficient and operationally ready lending tools.
+The market for Treasury securities is the foundation of the U.S. and global financial systems. Treasury debt finances the U.S. government. Treasuries are the benchmark safe asset whose yield curve is the reference point for all other instruments. And the Fed implements monetary policy largely through operations in the Treasury market.
+For all these reasons, smooth functioning of the Treasury market is critical to the continued strength of the U.S. economy. The Treasury market ordinarily functions very well and indeed is functioning very well today. It is not for nothing that it is commonly called the deepest and most liquid market in the world. But precisely because the Treasury market is so liquid, market participants often sell Treasuries when they need to raise cash. If too many traders do so simultaneously, they can overwhelm dealers’ capacity to intermediate, as happened in the dash for cash at the onset of the pandemic in 2020. This vulnerability has increased over time as Treasury debt outstanding outpaced dealers’ balance sheet capacity.
+Severe dysfunction in the Treasury market could impede the flow of credit throughout the economy
+and make it more difficult for the FOMC to accomplish its dual mandate of maximum employment and stable prices. For this reason, the Fed has on rare occasions intervened to support smooth functioning of the Treasury market.
+Let me emphasize that, in my view, the type of dysfunction that could call for a Fed response is significantly more extreme than merely low liquidity.
+[4]
+I have in mind fundamental failures in the process of intermediating between buyers and sellers, or lenders and borrowers, and finding a market-clearing price for their transactions. In almost all circumstances, the private sector can and should absorb shocks and manage risks.
+The Fed can use two broad categories of tools to support market functioning: We can lend against Treasury securities, or we can buy them. In either case, the actions to support market functioning must avoid working at cross purposes with monetary policy.
+Historically, the Fed’s interventions to support market functioning have come at times when the FOMC also wanted to stimulate economic activity. The same asset purchases could serve two purposes: providing monetary policy accommodation and supporting market liquidity.
+But market functioning can break down in other economic environments, too. For example, inflation is currently trending too high. As I discussed in a speech earlier this week, it is necessary to make policy more restrictive, not less.
+[5]
+If Treasury market dysfunction emerged now, the FOMC would not have the luxury of using the same asset purchases to accomplish two goals. And even if the FOMC wanted to provide accommodation, using one tool to achieve two goals can muddy communications and make it more difficult to act decisively.
+It is straightforward to separate lending operations from the monetary policy stance. The Fed can set whatever interest rate target will achieve our monetary policy goals, while supporting financial stability by lending freely at a rate consistent with that target. For example, in March 2023, the Fed simultaneously tightened monetary policy by raising interest rates in response to excessive inflation and offered the Bank Term Funding Program to address liquidity stresses at banks.
+Purchase operations to support smooth market functioning are more difficult to separate from the policy stance. Large-scale purchases of Treasury securities can put downward pressure on term premiums, which would stimulate the economy. So, while lending tools cannot resolve all types of market dysfunction, I believe it is better to use lending tools when possible. Operationally ready lending tools give policymakers better and less costly options for supporting smooth market functioning.
+Lending operations are most effective in supporting market functioning when liquidity stresses are the source of dysfunction or when market intermediaries have the balance sheet capacity to accept funding from the Fed. Asset purchases may be more effective in other scenarios. By purchasing securities from market participants, the Fed can free up space on their balance sheets to continue intermediating. Fed purchases can also give traders confidence that a buyer is in the market. Although market functioning purchases are more challenging to separate from the monetary policy stance, the FOMC should be prepared to create that separation if needed.
+One way to keep market functioning purchases from providing undesired stimulus would be for the FOMC to hold the purchased securities in a separate account and commit to sell them as soon as possible. Purchases that will soon unwind can still support market liquidity. But they should have much less effect on term premiums than purchases that the Fed will keep for many years.
+Regardless of the tool, market participants should know how the FOMC evaluates market functioning and the circumstances under which the Fed might intervene. Better public understanding of the FOMC’s strategy can foster confidence that the market will continue to function well. And when market participants are confident, they keep trading. That reduces the likelihood that the Fed might need to intervene in the first place.
+Of course, I can speak only for myself on this matter. I don’t see high yields or rapidly rising yields, in themselves, as a sign of dysfunction. In a smoothly functioning market, participants can buy and sell in normal size, at low cost and in a timely manner. But participants in a smoothly functioning market are also free to discover the price that best balances supply and demand. Sometimes, that price moves sharply.
+I assess Treasury market functioning based on measures of market liquidity, such as bid-ask spreads, market depth and price impact.
+[6]
+It is normal for market liquidity to decline as volatility rises because high volatility increases the risks and costs of intermediation. Therefore, I pay particular attention to whether market liquidity is in line with historical norms given the degree of volatility.
+Again, I judge that the Treasury market is currently functioning very well. Trading has proceeded smoothly even amid substantial rate volatility. And the Fed should intervene only in extreme scenarios of severe dysfunction. But, especially in an economic environment where tighter policy appears necessary, I believe it is prudent for the FOMC to strengthen its tools for supporting market functioning without providing unnecessary economic stimulus. The FOMC should be prepared in case longstanding vulnerabilities reemerge. This, too, is a matter of operational readiness.
+Thank you again for joining us today. I look forward to stimulating discussions throughout the day. As you learn about and debate the latest developments in digital assets, payments and other aspects of bank funding, I hope you’ll especially focus on how banks can maintain and enhance operational readiness amid these innovations. However the bank funding landscape evolves, bankers must remain ready to serve their customers.
+Notes
+I am grateful to Sam Schulhofer-Wohl for assistance in preparing these remarks.
+See Lorie Logan,
+“Remarks on liquidity provision and on the economic outlook and monetary policy,”
+remarks to the Texas Bankers Association, San Antonio, May 18, 2023; Lorie Logan,
+“Welcoming Remarks at Day 2 of the Technology-Enabled Disruption Conference,”
+Richmond, Va., May 23, 2023; Lorie Logan,
+“Opening remarks for the Eleventh District Banking Conference,”
+Dallas, Sept. 17, 2024; Lorie Logan,
+“Normalizing the FOMC’s monetary policy tools,”
+remarks to the Securities Industry and Financial Markets Association annual meeting, Oct. 21, 2024; Lorie Logan,
+“Efficient and effective central bank balance sheets,”
+remarks at the Bank of England Agenda for Research Conference, London, Feb. 25, 2025; Lorie Logan,
+“Opening remarks for panel titled ‘The increasing role of nonbank institutions in the Treasury and money markets,’”
+remarks at the Federal Reserve Bank of Atlanta 2025 Financial Markets Conference, Amelia Island, Fla., May 19, 2025.
+The Dodd-Frank Act allows the Federal Reserve Board to authorize a Reserve Bank to lend to a DFMU “only in unusual or exigent circumstances, upon the affirmative vote of the majority of the Board of Governors … after consultation with the Secretary [of the Treasury], and upon a showing by the designated financial market utility that it is unable to secure adequate credit accommodations from other banking institutions” (12 USC § 5465(b)).
+See Sam Schulhofer-Wohl,
+“Innovation in the relationships between central banks and central counterparties,”
+remarks at the Federal Reserve Bank of Chicago Financial Markets Group Fall Conference, Nov. 2, 2026; Anna Paulson and Kirstin Wells,
+“Enhancing Financial Stability: The Case of Financial Market Utilities,”
+Chicago Fed Letter
+No. 279, October 2010.
+For more detailed discussion, see Lorie Logan,
+“Preventing and responding to dysfunction in core markets,”
+remarks at the Workshop on Market Dysfunction at the University of Chicago Booth School of Business, March 3, 2023.
+Lorie Logan,
+“Economic and monetary policy outlook,”
+remarks at the 11th Joint Energy Conference, Federal Reserve Banks of Dallas and Kansas City, Houston, Nov. 10, 2026.
+See Lorie Logan,
+“The Federal Reserve’s Market Functioning Purchases: From Supporting to Sustaining,”
+remarks at SIFMA webinar, July 15, 2020.
+Share this
+Lorie Logan
+is president and CEO of the Federal Reserve Bank of Dallas.
+The views expressed are my own and do not necessarily reflect official positions of the Federal Reserve System.

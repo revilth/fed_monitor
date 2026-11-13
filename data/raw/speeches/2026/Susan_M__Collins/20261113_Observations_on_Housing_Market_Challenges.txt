@@ -1,0 +1,593 @@
+SOURCE: https://www.bostonfed.org/news-and-events/speeches/2026/observations-on-housing-market-challenges.aspx
+
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+Observations on Housing Market 
+Challenges 
+
+Opening Remarks at the  
+Federal Reserve Bank of Boston’s  
+70th Economic Conference 
+
+Susan M. Collins 
+President & Chief Executive Officer 
+Federal Reserve Bank of Boston 
+
+Friday, November 13, 2026 
+Boston, Massachusetts 
+
+The views expressed today are my own, not necessarily those of my colleagues on 
+the Federal Reserve Board of Governors or the Federal Open Market Committee 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+Key Takeaways 
+
+1. The Boston Fed’s 70th economic conference focuses on the U.S. housing market. The 
+conference brings together scholars, policymakers, and practitioners to consider this important 
+part of the U.S. economy. The Fed does not set housing policy, but its research helps people 
+understand how housing markets work. 
+
+“Building a shared understanding of these [housing market] issues [are] essential – and a fundamental 
+reason for conferences like this,” Collins says. “Rigorous research can help inform better decisions and 
+identify potential solutions.” 
+
+2. Housing matters for the Federal Reserve’s mission, vision, and mandate from Congress. Housing 
+is an important channel through which monetary policy affects the economy, can contribute 
+disproportionately to business cycles, and can present a barrier to economic vibrancy. 
+
+“Housing is a central component of a vibrant economy that works for all,” Collins says. 
+“There is no ‘silver bullet’ that will solve the many challenges in the housing market,” she says. “It will take 
+constructive collaboration among many parties.” 
+
+3. Higher interest rates can slow housing construction and make homes more expensive to buy. 
+But tighter monetary policy is sometimes necessary to achieve stable prices, which benefit 
+housing, and the economy, as a whole, in the long run.  
+
+“Over the longer run, stable prices create predictable economic conditions that are good for housing,” 
+Collins says. 
+
+4. High housing costs are hurting households and employers. Adequate and affordable housing 
+has become a central challenge for many families and firms in New England and across the nation. 
+High costs can limit homeownership and families’ associated wealth-building potential.   
+
+“A lack of available and affordable housing [for workers] can prevent local businesses from expanding,” 
+Collins says.    
+
+5. Understanding both housing supply and demand is key. Once largely a local concern, housing 
+supply is now a national issue, and supply conditions have become increasingly important in 
+policy discussions. Both construction productivity and zoning can contribute to housing supply 
+shortages, and adding to the housing stock can take many years. 
+
+“I’ll note that monetary policy also plays a role here,” Collins says. “[While essential at times to ensure price 
+stability,] tighter policy in the near term can limit the expansion of the housing stock needed to ease 
+housing market pressures. It can also affect consumers’ willingness and ability to obtain a mortgage and, 
+hence, housing demand.” 
+
+6. Measuring both quantities and costs in the housing sector is challenging. Estimates of the 
+housing shortage vary widely, due largely to differing assumptions about household formation 
+trends and normal vacancy rates. Economists also debate the best way to measure the true costs 
+of housing for both owners and renters.  
+
+“The shortage is not just about one number. It looks quite different across places, both here in New 
+England and around the country,” Collins says. “The shortage also varies along demographic dimensions, 
+including by income and age.” 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+Good morning. It is a pleasure to welcome all of you to the Federal Reserve Bank of Boston and to 
+
+welcome those viewing the conference livestream. 
+
+As we begin, I want to thank Egon Zakrajšek, our director of research, and his colleagues for 
+
+organizing a timely and substantive conference – especially the three economists serving as 
+
+conference sponsors: Daniel Cooper, Chris Foote, and Paul Willen. My thanks as well to our 
+
+organizing team in the Research department and to the many others at the Bank who support this 
+
+gathering. 
+
+For the 70th time, the Boston Fed is proud to host an economic conference bringing together 
+
+scholars, practitioners, and policymakers to study an important topic. Rigorous empirical research is 
+
+a hallmark of our conferences, and we’ll be discussing a great deal of data. However, I would like to 
+
+begin with something more anecdotal. I frequently travel around our district and make a point of 
+
+meeting with a wide range of people in each New England state every year. Housing is almost 
+
+always mentioned in these discussions – its cost and availability; its impact on household budgets; 
+
+and, crucially for businesses, how a lack of affordable housing affects their ability to attract and 
+
+retain workers.   
+
+Over the next day and a half, this conference will explore key challenges facing the U.S. housing 
+
+market through multiple lenses. Along with scholarly analysis, practitioners will share their on-the-
+
+ground insights about housing-related issues in New England and across the nation. 
+
+Why have a Boston Fed conference focused on housing? 
+
+To set the stage for the conference, I’d like to provide a few observations. But first, my standard 
+
+disclaimer: these are my own views, and may not be those of my colleagues at the Board of 
+
+Governors or the other Reserve Banks. In particular, I’ll briefly and broadly address the Federal 
+
+Reserve’s connections to housing and reflect on why the Boston Fed is holding a conference 
+
+focused on housing – its challenges and potential solutions.  
+
+In this spirit, I’ll make four points. 
+
+First, housing is a central component of a vibrant economy that works for all – that is the vision we 
+
+pursue at the Boston Fed. As I noted at last year’s State of the Nation’s Housing event, rapid price 
+
+and rent increases over the past five years have created enormous pressure on household 
+
+3 
+
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+budgets.1 The surge in house prices since the pandemic, combined with the notable increase in 
+
+mortgage rates since early 2022, has pushed homeownership beyond the reach of many 
+
+Americans. For some families, recent developments in the owner-occupied market could delay, 
+
+reduce, or eliminate the wealth-building associated with owning homes.  
+
+Moreover, a lack of available and affordable housing can prevent local businesses from expanding. 
+
+I frequently hear concerns – especially, but by no means exclusively, in northern New England – 
+
+about businesses’ challenges finding the workers they need. Housing availability is often cited as a 
+
+key reason. I’ve been told about physicians, skilled mechanics, research scientists, and hospitality 
+
+workers who have backed out of job offers because of the limited availability and high cost of 
+
+housing. Increasingly, I also hear about housing projects slowing or stalling due to a lack of skilled 
+
+construction workers. 
+
+Of course, monetary policy decisions also matter for housing. In the near term, the higher interest 
+
+rates sometimes needed to cool the economy and keep inflation in check can make homes more 
+
+expensive to buy and to build. But over the longer run, stable prices create predictable economic 
+
+conditions that are good for housing. 
+
+A second observation: housing can contribute disproportionately to business cycles and is an 
+
+important transmission channel for monetary policy. Although housing accounts for a relatively 
+
+small share of GDP, it drove about 17 percent of GDP growth during the mid-2000s housing boom 
+
+— and about 41 percent of the output contraction during the subsequent bust.2 And since the 
+
+construction of new homes and buyers’ willingness and ability to purchase them are particularly 
+
+sensitive to interest rates, monetary policy can have an outsized influence on the housing sector. 
+
+When the Fed began tightening monetary policy in 2022, mortgage rates rose sharply – and higher 
+
+rates have slowed new residential investment, a point I will return to shortly. 
+
+Third, although housing policy is not under the purview of the Federal Reserve, the 12 regional 
+
+Reserve Banks are in a good position to conduct research and bring housing experts and 
+
+stakeholders together to explore solutions to longstanding regional and national housing 
+
+1 Collins, Susan M. 2025. “Observations on Housing and the Economy.” Remarks at The State of the Nation’s 
+Housing 2025, Federal Reserve Bank of Boston, June 24, 2025. https://www.bostonfed.org/news-and-
+events/speeches/2025/harvard-joint-housing-center.aspx 
+
+2 The housing boom period is defined as 2001:Q4 through 2005:Q3, while the bust (or recession) is defined 
+as 2007:Q4 through 2009:Q2.  
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+challenges.3 As an example, last year the Boston Fed hosted the Harvard Joint Center for Housing 
+
+Studies’ release of its annual report on The State of the Nation’s Housing 2025, together with seven 
+
+other Federal Reserve Banks.4 5 
+
+Decisions on housing policies, zoning, and fiscal expenditures related to housing are definitively 
+
+outside the Fed’s purview. But Federal Reserve Banks can contribute empirical insights to the 
+
+discourse on housing issues that play a large role in the economy. These insights can have a 
+
+positive local impact, as demonstrated by the Philadelphia Fed’s analysis identifying land-lease 
+
+manufactured housing communities, which helped Pennsylvania’s housing finance agency support 
+
+residents in buying the land beneath their homes.6 And the Boston Fed’s Working Places initiative 
+
+helps local leaders in smaller cities and rural areas across New England collaborate on economic 
+
+challenges, including housing. In Vermont’s White River Valley, local teams have helped 
+
+homeowners take advantage of a new state law that makes accessory dwelling units, or ADUs, 
+
+easier to build.7  
+
+And a fourth observation: there is a long history of housing research at the Boston Fed – research 
+
+rooted in data and aimed at providing insights for others to use in policymaking that benefits the 
+
+public. The much-discussed 1992 Boston Fed study of Home Mortgage Disclosure Act data, 
+
+published in the American Economic Review in 1996, illustrated racial disparities in access to 
+
+mortgage credit in the Boston area at the time.8 More recently, Boston Fed researchers have shed 
+
+3 For an overview, see Gabriella Chiarenza, Eileen Divringi, Elizabeth Kneebone, and Libby Starling “How the 
+Fed Studies and Understands Housing’s Key Role in the Economy,” FedCommunities,  March 24, 2026. 
+https://fedcommunities.org/research/how-fed-studies-understands-housings-key-role-economy/ 
+4 Joint Center for Housing Studies of Harvard University, 2025. The State of the Nation’s Housing 2025.  
+https://www.jchs.harvard.edu/state-nations-housing-2025.  
+
+5 See also Joint Center for Housing Studies of Harvard University, 2026. The State of the Nation’s Housing 
+2026. https://www.jchs.harvard.edu/state-nations-housing-2026. 
+
+6 Divringi, Eileen. 2023. “Manufactured Housing Communities in Pennsylvania: The Basics,” Federal Reserve 
+Bank of Philadelphia, Community Development and Regional Outreach.  
+https://www.philadelphiafed.org/community-development/housing-and-neighborhoods/manufactured-housing-
+communities-in-pennsylvania-the-basics 
+
+7 Federal Reserve Bank of Boston, Working Communities Challenge, Vermont (White River Valley): 
+https://www.bostonfed.org/workingplaces/communities-challenge/vermont.aspx;  
+Collins, Susan M. 2025. “Observations on Housing and the Economy.” Remarks at the State of the Nation’s 
+Housing 2025, Federal Reserve Bank of Boston, June 24, 2025. https://www.bostonfed.org/news-and-
+events/speeches/2025/harvard-joint-housing-center.aspx 
+
+8 Munnell, Alicia H., Geoffrey M. B. Tootell, Lynn E. Browne, and James McEneaney. 1996. “Mortgage 
+Lending in Boston: Interpreting HMDA Data,” American Economic Review 86, no. 1 (March 1996): 25–53;  
+Tootell, Geoffrey M. B. 1996. “Redlining in Boston: Do Mortgage Lenders Discriminate Against 
+Neighborhoods?” Quarterly Journal of Economics 111(4):  1049–79. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+light on the origins of the early-2000s housing boom and why it went bust. This research both 
+
+informed our understanding of the crisis9 and suggested policies to address it.10 
+
+And just this year, we released the Massachusetts Economic Conditions and Household 
+
+Opportunity Survey (Mass ECHOS), led by our Regional & Community Outreach team in 
+
+collaboration with The Boston Foundation and other partners. Among its findings, the survey 
+
+documented the correlation between wealth and homeownership in Massachusetts, finding median 
+
+net wealth of $790,500 among homeowners, compared with $1,500 among renters.11 
+
+Themes to Explore at this Conference 
+
+Turning to the conference itself, I would like to highlight two of its overarching themes. The first is 
+
+the complexities of housing supply. Researchers – including several in this room – have studied 
+
+housing supply for decades, and communities have long debated it at the local level. But recently, 
+
+housing supply has become a central focus of the national housing policy conversation, alongside 
+
+housing demand. The second theme I’ll cover is the difficulty of measuring important housing 
+
+variables. 
+
+Theme 1 — Supply 
+
+A continuing challenge in understanding the economy is disentangling the influences of supply and 
+
+demand. While trends in supply can be difficult to discern at times, especially those related to 
+
+productivity, supply conditions play an important role in understanding the dynamics of the overall 
+
+economy. Notably, over the past several years, supply factors have been important drivers of 
+
+aggregate economic dynamics. Pandemic-related supply chain constraints, energy shocks tied to 
+
+9 Foote, Christopher L., Kristopher S. Gerardi, and Paul S. Willen. 2012. “Why Did So Many People Make So 
+Many Ex Post Bad Decisions? The Causes of the Foreclosure Crisis.” In Rethinking the Financial Crisis, ed. 
+Alan S. Blinder, Andrew W. Lo, and Robert M. Solow, chapter 6, 136-186. New York: Russell Sage 
+Foundation. 
+
+10 Foote, Christopher L., Jeffrey C. Fuhrer, Eileen Mauskopf, and Paul S. Willen. 2009, “A Proposal to Help 
+Distressed Homeowners: A Government Payment-Sharing Plan,” Federal Reserve Bank of Boston Public 
+Policy Brief 09-1. https://www.bostonfed.org/publications/public-policy-brief/2009/a-proposal-to-help-
+distressed-homeowners-a-government-payment-sharing-plan.aspx 
+
+11 Mattingly, Marybeth J., Sara Chaganti, Michael Evangelist, Marija Bingulac, and Gracie L. Griffin. 2026. 
+“Family Wealth in Massachusetts: Findings from the 2025 Massachusetts Economic Conditions and 
+Household Opportunity Survey (Mass ECHOS) – Revised September 2026.” Federal Reserve Bank of Boston 
+Regional & Community Outreach Report 2026-1. https://www.bostonfed.org/publications/one-time-
+pubs/mass-echos.aspx 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+conflicts abroad, and tariffs have all raised inflation.12 More recently, faster productivity growth has 
+
+helped limit some of the inflationary pressures.13 Boston Fed researchers have done important work 
+
+parsing out some of these sources of inflation.14 
+
+Supply also plays an important role in housing market dynamics, though its effects are often spread 
+
+over much longer time frames, because adding to the housing stock can take many years. As I 
+
+noted earlier, housing availability is an important regional and national issue, and a key question is 
+
+the extent to which housing shortages are due to underestimating housing demand versus 
+
+challenges related to supply. 
+
+In terms of housing supply, one fact stands out. While productivity has picked up across much of 
+
+the economy in recent years, that is not true in the construction sector, where productivity has 
+
+actually declined. By one careful measure, the construction sector produced about 40 percent less 
+
+output from a given set of inputs in 2020 than it did in 1970 – and construction productivity has 
+
+fallen further since the pandemic.15 I look forward to Chad Syverson’s session which will examine 
+
+why productivity in construction has lagged, keeping the cost of building homes high – and whether 
+
+new technologies might help.   
+
+Of course, productivity is only part of the supply picture in the housing sector. Zoning, permitting, 
+
+and other local constraints can also shape what gets built and where. We will hear more about 
+
+these issues from Albert Saiz and Ed Glaeser, who have done as much as anyone over the past 
+
+12 See, for example, Omar Barbiero and Hillary Stein. 2025. “The Impact of Tariffs on Inflation,” Federal 
+Reserve Bank of Boston Current Policy Perspectives 25-2. https://www.bostonfed.org/publications/current-
+policy-perspectives/2025/the-impact-of-tariffs-on-inflation.aspx 
+
+13 See, for example, Philippe Andrade, Omar Barbiero, and Alvaro Silva. 2026. “How Much Did Labor 
+Productivity Gains Offset the Inflationary Impact of the 2025 Tariffs?” Federal Reserve Bank of Boston 
+Current Policy Perspectives 26-7. https://www.bostonfed.org/publications/current-policy-
+perspectives/2026/how-much-did-labor-productivity-gains-offset-inflation-impacts-2025-tariffs.aspx 
+
+14 Danilo Leiva-León, Viacheslav Sheremirov, Jenny Tang, and Egon Zakrajšek. 2025. “Parsing Out the 
+Sources of Inflation,” Federal Reserve Bank of Boston Current Policy Perspectives 25-5. 
+https://www.bostonfed.org/publications/current-policy-perspectives/2025/parsing-out-the-sources-of-
+inflation.aspx 
+
+15 Syverson, Chad. 2026. “Productivity Growth in Construction: Still Strange and Awful.” Working paper 
+prepared for this conference. https://www.bostonfed.org/news-and-events/events/economic-research-
+conference-series/understanding-challenges-solutions-in-us-housing-market.aspx; Goolsbee, Austin and 
+Chad Syverson. 2025. “The Strange and Awful Path of Productivity in the US Construction Sector.” In 
+Technology, Productivity, and Economic Growth, ed. Susanto Basu, Lucy Eldridge, John Haltiwanger, and 
+Erich Strassner, 119–38. Chicago: University of Chicago Press. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+quarter century to build our understanding of housing supply.  And we will also hear from a panel of 
+
+practitioners, who grapple with these issues every day. 
+
+At the same time, understanding housing demand is also important. Konstantin Milbradt’s paper 
+
+session tomorrow will show as much, exploring why the 2022 monetary policy tightening weighed 
+
+less on households than many expected. 
+
+Finally, I’ll note that monetary policy also plays a role here. Tighter policy in the near term can limit 
+
+the expansion of the housing stock needed to ease housing market pressures. It can also affect 
+
+consumers’ willingness and ability to obtain a mortgage and, hence, housing demand. However, as 
+
+I noted earlier, tighter policy is needed at times to ensure price stability, with benefits for the 
+
+housing market and economy as a whole over the longer run.  
+
+Theme 2 — Measurement 
+
+Measurement is another important issue related to housing – and a topic I care deeply about.  
+
+I spoke about measurement last year at the National Association for Business Economists’ (NABE) 
+
+economic measurement seminar.16 In the housing sector, measuring both prices and quantities is 
+
+difficult. However, accurate measurement is important for understanding housing market dynamics 
+
+– both nationally and regionally – as well as the sectoral challenges we face.  
+
+Starting with prices, shelter is the largest component of the Consumer Price Index,17 and shelter 
+
+inflation was a key reason inflation stayed elevated following the pandemic. In 2024, an important 
+
+question was whether elevated housing inflation reflected new price pressures or simply existing 
+
+leases catching up to market rents – something our standard housing market metrics made hard to 
+
+discern in real time.18  
+
+There is also a deeper, conceptual question when it comes to measuring shelter costs. While most 
+
+Americans own their homes, our housing-related inflation measures capture housing costs largely 
+
+16 Collins, Susan M. 2025. “Using Data in Monetary Policymaking: A View from the Fed.” Remarks at the 
+NABE Foundation’s 22nd Annual Economic Measurement Seminar, Washington, D.C., July 15, 2025. 
+https://www.bostonfed.org/news-and-events/speeches/2025/using-data-in-monetary-policymaking.aspx 
+
+17 U.S. Bureau of Labor Statistics, “Relative Importance of Components in the Consumer Price Indexes” 
+(annual December weights): shelter, mostly rent of primary residence and owners’ equivalent rent, is about 
+one-third of the CPI-U. https://www.bls.gov/cpi/tables/relative-importance/home.htm 
+
+18 The BLS now publishes the New Tenant Rent Index quarterly as a research series (R-CPI-NTR), back to 
+2005. For a further discussion, see Brian Adams, Lara Loewenstein, Hugh Montag, and Randal Verbrugge. 
+2024. “Disentangling Rent Index Differences: Data, Methods, and Scope,” American Economic Review: 
+Insights 6 (2):230-45.  doi: 10.1257/aeri.20220685.  
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Remarks as Prepared for Delivery 
+
+EMBARGOED UNTIL 9:10 A.M U.S. Eastern Time, 
+Friday, November 13, 2026 – OR UPON DELIVERY  
+
+through prices on rental properties. Should we change the way we measure housing inflation? I 
+
+look forward to Gabriel Chodorow-Reich’s paper tomorrow, which takes up this very question. 
+
+With respect to quantities, I’ll highlight that estimates of the national housing shortage range from 
+
+several million units to none at all.19 However, the shortage is not just about one number. It looks 
+
+quite different across places, both here in New England and around the country. Shortages also 
+
+vary along demographic dimensions, including by income and age. And not every housing unit is 
+
+the same. New England has some of the oldest housing in the country, and an aging, deteriorating 
+
+housing stock can provide less housing than a simple count of units would suggest.20 Elena Patel’s 
+
+session on measuring the housing shortage, which follows my remarks, is an excellent place to 
+
+start. 
+
+Closing Observations 
+
+In conclusion, I’ll note that there is no “silver bullet” that will solve the many challenges facing 
+
+housing today. It will take constructive collaboration among many parties. Building a shared 
+
+understanding of the complexities of the housing market is essential – and a fundamental reason 
+
+for conferences like this. Rigorous research can help inform better decisions and identify potential 
+
+solutions.   
+
+As I said in my Joint Center remarks, “housing is deeply tied to the overarching role of the Federal 
+
+Reserve – supporting a strong, stable, and healthy economy and financial system, for the benefit of 
+
+the public we at the Fed are here to serve.”21 I am grateful for the opportunity for all of us to learn 
+
+more about this important topic over the coming day and a half. We have a great lineup of 
+
+conference speakers, panelists, and discussants, and I look forward to the presentations and 
+
+discussions. 
+
+It is now my pleasure to welcome the participants of our first session to the stage – Elena Patel, the 
+
+paper author; Paul Willen, the discussant; and Daniel Cooper, our moderator.   
+
+Thank you.  
+
+19 McClure, Kirk, and Alex Schwartz. 2025. “Where Is the Housing Shortage?” Housing Policy Debate 35(1): 
+49–63. doi:10.1080/10511482.2024.2334011 
+
+20 All six New England states have an older housing stock than the nation as a whole. In particular, the 
+median housing unit was built in 1964 in Rhode Island, 1965 in Massachusetts, and 1968 in Connecticut, 
+compared with 1982 for the nation. See U.S. Census Bureau, American Community Survey 1-year Estimates, 
+Data Set for 2025, Table B25035. 
+
+21 See footnote 1. 
+
+9
