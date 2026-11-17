@@ -1,0 +1,153 @@
+SOURCE: https://www.clevelandfed.org/collections/speeches/2026/sp-20261117-lessons-from-a-burning-river
+
+Home
+›
+Speeches
+Speech
+Lessons from a Burning River
+Download pdf
+Beth M. Hammack
+President and Chief Executive Officer
+11.17.2026
+9:30 AM
+                        EST
+In Person
+Panel Discussion, Strengthening the Resilience and Liquidity of the US Treasury Market, The Brookings Institution, Washington DC
+Thank you to the Brookings Institution for the kind invitation to speak today and to all of you for being here. It's a real pleasure to speak with a group that spends as much time thinking about the Treasury market as I do.
+I always aim to bring with me a Cleveland perspective when I speak outside the Fourth District. And while obviously not Cleveland’s finest moment, one of the more famous chapters in our city’s history is when the Cuyahoga River caught fire not just once, but more than a dozen times over the last century.
+The 1969 fire is the one most people remember; it was actually pretty small, but it became a turning point for the environmental protection movement. Then-Mayor Carl Stokes publicized the event and used the fire as an opportunity to encourage reform that ultimately led to the founding of the EPA in 1970.
+Cleveland has rightly reclaimed the burning river story; we even named a beer and a women’s roller derby team after it.
+1
+The lesson I take from this episode is that we shouldn’t let a serious crisis go to waste. We should take a moment after the fire stops raging to design a plan to fight and, we hope, prevent the next one from occurring.
+The same lesson applies to episodes of stress in the Treasury market. Our government bond market is critical for the US and global economy and for monetary policy transmission. Moments between stress events give policymakers the opportunity to discuss and agree on a set of principles for any actions that might be needed in the future to support market functioning.
+Key considerations would be when to intervene, what form that intervention should take, and how to communicate about it.
+Before I offer my own thoughts, let me explain why I think these considerations matter so much. And, as always, these views are my own and not necessarily the views of the Federal Reserve System or my colleagues on the Federal Open Market Committee (FOMC).
+2
+Why Treasury Market Functioning Matters
+As this audience knows well, the US Treasury market is the deepest and most liquid government bond market in the world. Marketable Treasury debt outstanding is now roughly $32 trillion and has grown substantially over the past two decades.
+3
+Its uses are equally vast. Treasuries are the benchmark for pricing nearly every other dollar asset. They are the premier collateral in funding markets, a core holding for managing liquidity, a hedging instrument, and a global reserve asset.
+For the Federal Reserve, the Treasury market is central to how monetary policy works. When we set our policy rate, we influence overnight money market rates and the expected future path of short-term rates. These expectations affect Treasury yields further out the curve, which, in turn, affect borrowing costs for households and businesses. A mortgage rate, a corporate bond yield, a swap rate, each of these is built atop the foundation of Treasuries.
+If the Treasury market isn't working, the markets built on top of it can't work, either. Dysfunction in the foundation can travel upward and spread into the real economy. This is why Treasury market functioning is not a niche concern for me as a policymaker; it’s fundamental to monetary policy transmission and to financial stability.
+The Federal Reserve’s Role in the Treasury Market
+The Federal Reserve is not the issuer or the primary regulator of the Treasury market. So how is the Fed related to this critical market? The Securities and Exchange Commission (SEC) is the primary market regulator, but oversight is shared. The Board of Governors works cooperatively with the Treasury Department, the SEC, the Commodity Futures Trading Commission, and the Federal Reserve Bank of New York through the Inter-Agency Working Group on Treasury Market Surveillance (IAWG).
+4
+The Fed’s role is as an active participant in these markets, not just as an observer. The Federal Reserve Bank of New York regularly conducts operations in both the Treasury cash and repo markets as directed by the FOMC.
+As fiscal agent for the Treasury, the Federal Reserve conducts Treasury’s auctions and its buyback operations, though Treasury is the principal and itself sets the policy for both. Our vantage point as the agent gives us knowledge and operational capabilities that other agencies don’t have.
+Treasury’s primary debt-management responsibility is to fund the government. It has chosen a regular and predictable approach to ensure the lowest cost to the taxpayer over time. While the Treasury maintains a buyback program that supports market liquidity, all purchases are funded through planned issuance. Given Treasury’s constraints, the Fed is generally better positioned to alleviate market-functioning stress.
+So, while we are one of several agencies with a stake in this market, the Fed is unique in that it has the operational expertise and funding capacity to intervene in the Treasury market if needed. The Fed has significant capabilities, but our remit is narrow. The FOMC has a responsibility to think carefully about when and how we should use our powerful tools.
+Any intervention would have an impact on our balance sheet, so it’s worth reviewing the three distinct roles that the Fed’s balance sheet plays: plumbing, policy, and financial stability.
+The first role, plumbing, is implementing day-to-day monetary policy to maintain the fed funds rate within the target range set by the FOMC. The second role is unconventional monetary policy. The target range for the fed funds rate is our primary tool for achieving our dual mandate. However, asset purchases can provide additional monetary stimulus when the policy rate is constrained by the effective lower bound.
+The third role is financial stability. The Fed’s balance sheet can be used to provide liquidity to limit dysfunction that threatens the financial system and could impact the real economy. One example occurred in March 2020 when the Fed engaged in market-functioning purchases to ease stress in the Treasury market.
+When stress hits, there may be very little time to decide what principles to operate under or how to communicate them. It is better to identify the exit routes when you first enter the building than it is to draw up an evacuation plan as the building is filling with smoke.
+Lessons from Previous Interventions
+I watched the events of March 2020 from a different vantage point, as global treasurer at Goldman Sachs and a former repo and rates trader. The pandemic was an extraordinarily uncertain time, and it disrupted both financial markets and the economy. If there was ever a time for the Federal Reserve to act, that was it. During March 2020, the Fed increased the size and frequency of daily open market repo operations and then purchased $775 billion in Treasury securities.
+5
+These actions helped restore order.
+Since I was a market participant at the time, I wasn’t part of the Fed’s decision to intervene. However, now, as a policymaker, there are two lessons from those actions that I’ll take into consideration if markets face similar stresses in the future.
+First, although initially the purchases were driven by market-functioning concerns, economic conditions quickly shifted, necessitating purchases for policy accommodation.
+While I acknowledge that labeling the purchases is less important than the action itself,
+6
+over time, the blurring of the two intentions made it difficult for market participants to understand how much was intended as policy accommodation and how much was to support market functioning. In the future, a clear delineation of intent would provide the public with insight into when intervention would no longer be needed and the conditions under which the FOMC would unwind the purchases.
+Second, it would be helpful if policymakers communicate clearly about
+how
+they determined the market stress was abnormal and intervention was needed and
+why
+the Federal Reserve was well placed to address these things.
+Back in March 2020, stresses were visible across nearly every market. In relative terms, the Treasury market held up better than others, in part because open market repo operations enhanced dealer funding capacity and added liquidity to the market. Much of what we saw was driven by the “dash for cash”—a sharp and sudden rise in the demand for cash and reserves. Treasuries are considered “money-like,” but in March of 2020, there was a clear distinction between
+money-like
+and
+money
+.
+When everyone wants cash at the same time, rapid selling may depress the value of Treasuries. This depression is not driven by the intrinsic value or creditworthiness of Treasuries and is not a problem private markets can solve on their own. Rather, it is exactly the kind of problem a central bank was designed to address.
+The goal would be to sharpen the distinction between market-functioning actions and unconventional policy actions. One approach could be to create an explicit market-functioning facility when needed, as the Bank of England did in 2022. The Bank of England’s model, however, doesn’t translate directly because the US doesn’t have separate monetary policy and financial policy committees. The US might be able to achieve a similar result by setting up a separate portfolio that would delineate financial stability purchases from unconventional monetary policy purchases.
+Additionally, our market structures are quite different. A key reason the Bank of England built its new facility was to transact directly with nonstandard counterparties in times of stress. The US repo market is broad enough and deep enough to support liquidity transmission to a wide range of market participants. This would enable the Fed to work through standard bank and dealer counterparties for market-functioning actions.
+In the US, the Federal Reserve has funding facilities in place that can be accessed any day for a range of reasons. The discount window is the primary tool to provide funds to banking institutions against a wide variety of collateral.
+The Fed also introduced standing repurchase agreement operations in July 2021 with the goal of ensuring that periodic pressures in short-term funding markets did not push the effective fed funds rate above its target range.
+A Set of Guiding Principles
+With those lessons in hand, now is the time to discuss guiding principles that address the three areas I posed at the outset: when to intervene, what form intervention should take, and how to communicate about it. In the interest of starting that conversation, let me offer my own views on each.
+When to intervene
+First, the bar for intervention should be high. Periods of low liquidity are often associated with high volatility. But not every bout of low market liquidity calls for Fed action. Market functioning naturally adjusts to the level of volatility in the markets. When volatility rises, bid–ask spreads widen, and market depth thins.
+7
+This is normal; as value-at-risk increases, dealers need to price for that greater risk. Fed action should be considered only when market functioning deteriorates beyond what should be expected given volatility levels and when this dislocation threatens monetary policy and financial stability goals.
+The market turbulence of early April 2025 is a good illustration.
+8
+Amid extraordinary market volatility related to tariff news, liquidity deteriorated, and there was a risk that problems in the Treasury market would spill into mortgage and credit markets and from there into the real economy. There was market chatter that the Fed should step in, but based on what I saw, liquidity conditions and other market-functioning metrics stayed within historical norms. Markets were strained but functioning.
+9
+When poor liquidity conditions in volatile markets reflect fundamentals, it is not a problem the Fed can or should try to solve. A constellation of liquidity and market-functioning metrics and how they fit within a historical context can help policymakers gauge the risks to our monetary policy and financial stability goals.
+If there’s evidence that Treasury market dysfunction will spill into the real economy and that Fed action can address the problem, then intervention should be considered.
+What form intervention should take
+The presumption should be that the action is temporary and targeted, ideally with an exit strategy built in from the start. Overnight repo lending is an example of a self-unwinding operation, and lending against Treasury collateral is fully consistent with long-standing central bank principles. Ideally, our standing repo operations should do this work automatically.
+For this reason, I support enhancements to SRP operations to increase their effectiveness. For example, making them available at any time during the business day and perhaps linking them to the FedNow® Service so that funds can be available even before 8 am ET. Also, giving counterparties the option to execute bilaterally or via central clearing would allow them to access liquidity in the form that makes the most sense to them, particularly as large volumes of repo move toward clearing.
+However, even with an enhanced SRP operation, injecting additional liquidity through standard open market operations might be needed. Further, repos alone may not be effective in every situation. I doubt repos would have been enough in 2020. Thus, it may make sense to consider Treasury purchases if repo operations prove insufficient.
+A Treasury purchase program can be a critical tool, and its announcement can sometimes do much of the work itself. We saw this with several of the Fed’s credit market facilities in 2020. Uptake was relatively modest because the announcement alone restored confidence. Similarly, the Bank of England executed relatively small amounts of purchases. This shows that sometimes the sprinkler system’s coming on can inhibit panic and allow for a more orderly exit from a burning building.
+When the dislocation is caused by forced selling and financing support is insufficient, asset purchases may be necessary to relieve the pressure. While each episode of stress is different, any program should aim to restore overall market functioning rather than target specific institutions. It should also be temporary, and holdings should be sold in a timely way once market financial stability is restored. Sprinklers can’t always put out the fire; sometimes you need a firefighter’s hose.
+How to communicate about it
+Finally, Fed communications should clearly distinguish policy actions from market-functioning actions. Clear communication is not merely a courtesy. Instead, it’s part of what makes the intervention work and part of what makes the exit credible. In the case of the Bank of England in 2022, for example, market-functioning purchases occurred during a tightening cycle. Helpfully, the Bank of England could rely on its Financial Policy Committee to decide and communicate the market-functioning actions, clearly distinguishing them from the actions of its Monetary Policy Committee.
+For the Fed, a single entity makes both decisions, making it all the more important to clearly communicate the goal and objective of market interventions. When the Fed takes on the role of “market maker of last resort,” it could enhance the delineation of market-functioning purchases by reporting them as a separate line item on the balance sheet to ensure the public knows the scale of such purchases and can hold us accountable for reducing the portfolio once the dislocation passes.
+Conclusion
+I hope these remarks will be a catalyst for more discussion among policymakers about what the right principles are so we can provide clarity in the plan before we see the next spark of instability.
+Cleveland learned a long time ago that the moment the river is burning is not the time to write the rules. The calm we enjoy today is the time to build and refine our plan for intervening in stressed markets. I hope the FOMC will take up that work.
+Let me conclude by saying thank you, again, for the opportunity to be with you today. I look forward to your questions.
+Footnotes
+Burning River Pale Ale by Great Lakes Brewing Company and Burning River Roller Derby.
+Return to 1
+I’m grateful to David Bowman, Dani Carlson, Tasia Hane, Edward Knotek, Edith Liu, and Karen Mracek for assistance with these remarks.
+Return to 2
+Treasury Monthly Statement of the Public Debt,
+https://fiscaldata.treasury.gov/static-data/published-reports/mts/MonthlyTreasuryStatement_202608.pdf
+.
+Return to 3
+The Treasury Department, the SEC, and the Federal Reserve Board formed the IAWG in 1992 to improve monitoring and surveillance and strengthen interagency coordination with respect to the Treasury market following the Salomon Brothers auction bidding scandal. See US Department of the Treasury, Securities and Exchange Commission, and Board of Governors of the Federal Reserve System, 1992,
+Joint Report on the Government Securities Market
+, US Government Printing Office, January 22, available at
+https://home.treasury.gov/system/files/276/joint-report-on-the-government-securities-Market-1992.pdf
+.
+Return to 4
+https://libertystreeteconomics.newyorkfed.org/2020/04/treasury-market-liquidity-during-the-covid-19-crisis/
+Return to 5
+From page 10 of the transcript of Chair Powell’s press conference call of March 15, 2020, available at
+https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20200315.pdf
+, “In terms of what it’s labeled, that’s of less interest to me. I really think we are very clear in our minds what we’re doing this for and what the logical effects would be, which would be—which would be both better market function and—and—you know, when there’s better market function, it will be—you know, policy will be supporting the economy better.”
+Return to 6
+This is just one metric to assess the pressures on market functioning and intermediation capacity. The New York Open Markets Desk monitors many such indicators daily and updates the committee at every meeting on financial market health. In recent years, there were periods when liquidity measures were poor, but market functioning remained orderly, and these measures remained in line with their historical relationship against volatility.
+Return to 7
+Dobrev Dobrislav, Edith Liu, Joon Kim, and Marius Rodriguez. 2025. “Order Flow Imbalances and Amplification of Price Movements: Evidence from US Treasury Markets,”
+FEDS Notes
+. Board of Governors of the Federal Reserve System (November 03).
+Return to 8
+Beth Hammack, Bloomberg News. 2025. Interview. “Fed’s Hammack Says Markets Are Strained, but Functioning.”
+bloomberg.com/news/articles/2025-04-09/fed-s-hammack-says-markets-are-strained-but-functioning
+.
+Return to 9
+Suggested Citation
+Hammack, Beth M.
+		
+			
+			
+			
+			
+			
+				
+					
+					
+					
+					
+					
+					“Lessons from a Burning River.”
+				Speech,
+			Panel Discussion, Strengthening the Resilience and Liquidity of the US Treasury Market, The Brookings Institution, Washington DC,
+			November
+17,
+2026.
+https://doi.org/10.26509/sp-20261117
+Share
+President's upcoming events
+Subscribe to receive notifications about President Hammack's upcoming speaking engagements, text from her latest speeches, and stories about her travels around the Fourth Federal Reserve District.
+Related resources
+About Us
+The Federal Reserve Bank of Cleveland (commonly known as the Cleveland Fed) is part of the Federal Reserve System, the central bank of the United States.
+Learn more
+President and CEO
+Learn about the work of Beth M. Hammack, president and CEO of the Federal Reserve Bank of Cleveland.
+Learn more
