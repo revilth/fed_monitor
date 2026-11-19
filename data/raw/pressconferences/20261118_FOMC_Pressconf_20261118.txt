@@ -1,0 +1,33 @@
+SOURCE: https://www.federalreserve.gov/monetarypolicy/fomcpresconf20261028.htm
+
+October 27-28, 2026 FOMC Meeting
+Accessible Keys for Video
+[Space Bar]
+toggles play/pause;
+[Right/Left Arrows]
+seeks the video forwards and back (5 sec );
+[Up/Down Arrows]
+increase/decrease volume;
+[M]
+toggles mute on/off;
+[F]
+toggles fullscreen on/off (Except IE 11);
+The
+[Tab]
+key may be used in combination with the
+[Enter/Return]
+key to navigate and activate control buttons, such as caption on/off.
+Related Information
+FOMC Meeting Statement:
+PDF
+|
+HTML
+(Released 
+                    October 28, 2026 at 2:00 p.m.)
+Implementation Note
+(Released October 28, 2026 at 2:00 p.m.)
+Minutes:
+PDF
+|
+HTML
+(Released November 18, 2026 at 2:00 p.m.)
